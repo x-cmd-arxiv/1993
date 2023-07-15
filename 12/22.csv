@@ -1,0 +1,398 @@
+"alg-geom/9312012","Israel Vainsencher","Israel Vainsencher","Enumeration of $n$-fold tangent hyperplanes to a surface","34 pages, Latex (Corrects Latex errors of previous version, minor
+  changes)",,,,"alg-geom math.AG",,"  For each $1\leq n\leq6$ we present formulas for the number of $n-$nodal
+curves in an $n-$dimensional linear system on a smooth, projective surface.
+This yields in particular the numbers of rational curves in the system of
+hyperplane sections of a generic $K3-$surface imbedded in \p{n} by a complete
+system of curves of genus $n$ as well as the number {\bf17,601,000} of rational
+({\em singular}) plane quintic curves in a generic quintic threefold.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 21:29:13 GMT""},{""version"":""v2"",""created"":""Mon, 24 Jan 1994 14:43:01 GMT""}]","2008-02-03"
+"astro-ph/9312051","Reynier Peletier","A. Weiss, R.F. Peletier and F. Matteucci","Synthetic metal line indices for elliptical galaxies from super metal
+  rich alpha-enhanced stellar models","28 pages, postscript, MPA preprint, A&A, submitted, MPA - WPM",,,,"astro-ph",,"  There are strong indications from recent papers (e.g. Worthey et al. 1992)
+that the abundance ratio of Mg/Fe, and consequently also O/Fe in giant
+elliptical galaxies is not solar. The line strengths of two Fe lines at 5270
+and 5335 A are weaker than one expects from the strength of the Mg b line if
+[Mg/Fe] = 0. We have synthesized absorption line indices to derive the Mg and
+Fe abundances of these galaxies. For these models we have calculated new
+evolutionary tracks of high metallicity stars with a range of Mg/Fe abundances.
+This is the first time that such tracks have been generated. Integrating along
+isochrones to synthesize metal line strengths we find that for a typical bright
+giant elliptical [Mg/Fe] has to be between +0.3 and +0.7. We show that this
+result is independent of other parameters such as age, total metal content and
+mixing length parameter. The total metal content is super-solar, but the iron
+metallicity of elliptical galaxies not necessarily has to be larger than solar.
+For the formation of elliptical galaxies our result on the Mg and Fe abundances
+has the implication that most of the enrichment of the gas has to come from SNe
+II, which have more massive progenitors and as such produce relatively more O
+and Mg than Fe. It means that most of the stars have to be formed within a
+period of $3 \times 10^8$ years, so that there can only be one major collapse
+phase of the galaxy.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 16:02:51 GMT""}]","2007-05-23"
+"astro-ph/9312052","Charles Dermer","Charles D. Dermer and Reinhard Schlickeiser","On the Location of the Acceleration and Emission Sites in Gamma-Ray
+  Blazars","LaTeX, 15 pages, no figures, accepted for publication in ApJ
+  Supplements (IAU Sumposium 142), NRL-CD-93-007",,,,"astro-ph",,"  Compton scattering of external radiation by nonthermal particles in
+outflowing blazar jets is dominated by accretion-disk photons rather than
+scattered radiation to distances $\sim 0.01-0.1$ pc from the central engine for
+standard parameters, thus clarifying the limits of validity of the model by the
+present authors and the model of Sikora, Begelman, \& Rees. On the basis of
+contemporaneous Ginga X-ray and EGRET gamma-ray observations, we estimate the
+radius of 3C 279's gamma-ray photosphere to be smaller than estimated by
+Blandford. There is thus no need to require that the acceleration and emission
+sites of gamma-ray blazars to be located farther than $\sim 10^{2-3}$
+gravitational radii from the central engine. We argue that lineless BL Lac
+objects, rather than quasars, are more likely to be detected in the TeV energy
+range.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 18:07:24 GMT""}]","2007-05-23"
+"astro-ph/9312053",,"Rosemary A. Mardling, (Monash, Australia)","The Role of Chaos in the Circularization of Tidal Capture Binaries. I.
+  the Chaos Boundary","17 pages, uuencoded, compressed postscript, Applied Mathematics
+  report # 93/47, submitted to ApJ",,,,"astro-ph",,"  A self-consistent model for binary evolution devised by Gingold \& Monaghan
+(1980) is used to show that two distinctly different types of behaviour are
+possible for close eccentric binaries. The model is based on a linear adiabatic
+normal mode analysis of the problem, which allows detailed examination of the
+transfer of energy from the orbit to the tides. We show that for most binaries,
+energy is exchanged quasi-periodically, with the system regulating itself so
+that the maximum tidal energy always remains small, and no circularization
+takes place. In contrast, for a range of eccentricities and periastron
+separations, {\it chaotic} behaviour prevails, with the eccentricity following
+a random walk and with the energy transferred to the tides during a single
+periastron passage being up to an order of magnitude larger than that
+transferred during the initial periastron passage.
+  These results have important consequences for the study of tidal capture
+binaries. The standard model (see, for example, McMillan, McDermott \& Taam
+1987) assumes that the energy transferred to the tides during a periastron
+encounter is independent of the oscillatory state of the stars, and that the
+amount of tidal energy present at any time can be calculated using a formula
+which (accurately) gives the amount deposited after the first encounter (Press
+\& Teukolsky 1977). The calculations presented here show that a self-consistent
+treatment is necessary in order to study the dynamical evolution of tidal
+capture binaries. We conclude that the tidal capture process would not be
+possible were it not for the existence of chaotic behaviour.
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 04:24:02 GMT""}]","2007-05-23"
+"astro-ph/9312054",,"Rosemary A. Mardling, (Monash, Australia)","The Role of Chaos in the Circularization of Tidal Capture Binaries. II.
+  Long-Term Evolution","21 pages, uuencoded, compressed postscript, Applied Mathematics
+  report # 93/48, submitted to ApJ",,,,"astro-ph",,"  A self-consistent, adiabatic model for the {\it long-time} behaviour of tidal
+capture binaries is presented. It is shown that most capture orbits behave
+chaotically, with the eccentricity following a quasi-random walk between the
+values of $\appless 1$ and some lower limit associated with the periastron
+separation at capture.
+  If dissipation is taken into account, the binary goes through a short and
+violent chaotic phase, followed by a long quiescent phase in which it slowly
+circularizes from a high eccentricity on a much longer timescale than
+previously thought. A consequence is that merger is less likely than previously
+thought, and hence such binaries will be available as a heat source to the
+cores of globular clusters, particularly while they are in the less tightly
+bound, highly eccentric phase.
+  If the model is correct, any highly eccentric binaries observed in globular
+clusters which contain a main-sequence star will most likely be found to have a
+period derivative much smaller than that predicted by the standard model.
+  We also predict that the companion of PSR B1718-19 in NGC 6342 which is a
+globular cluster binary likely to have been formed by tidal capture (Wijers \&
+Paczy\'{n}ski 1993) will be found to have a mass of around $0.2M_\odot$.
+  The model may be used to describe the evolution of low-mass X-ray binaries,
+pulsar binaries, and cataclysmic binaries which abound in globular clusters.
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 04:24:44 GMT""}]","2007-05-23"
+"astro-ph/9312055",,"P. Andreani, S. Cristiani, F. Lucchin, S. Matarrese and L. Moscardini","The Variance of QSO Counts in Cells","13 pages in plain Tex, 5 figures available in postscript in a
+  separate file, submitted to ApJ, DAPD-333","Astrophys.J. 430 (1994) 458","10.1086/174422",,"astro-ph",,"  {}From three quasar samples with a total of 1038 objects in the redshift
+range $1.0 \div 2.2$ we measure the variance $\sigma^2$ of counts in cells of
+volume $V_u$. By a maximum likelihood analysis applied separately on these
+samples we obtain estimates of $\sigma^2(\ell)$, with $\ell \equiv V_u^{1/3}$.
+The analysis from a single catalog for $\ell = ~40~h^{-1}$ Mpc and from a
+suitable average over the three catalogs for $\ell = ~60,~80$ and $100~h^{-1}$
+Mpc, gives $\sigma^2(\ell) = 0.46^{+0.27}_{-0.27}$, $0.18^{+0.14}_{-0.15}$,
+$0.05^{+0.14}_{-0.05}$ and $0.12^{+0.13}_{-0.12}$, respectively, where the
+$70\%$ confidence ranges account for both sampling errors and statistical
+fluctuations in the counts. This allows a comparison of QSO clustering on large
+scales with analogous data recently obtained both for optical and IRAS
+galaxies: QSOs seem to be more clustered than these galaxies by a biasing
+factor $b_{QSO}/b_{gal} \sim 1.4 - 2.3$.
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 09:01:06 GMT""}]","2009-10-22"
+"cond-mat/9312085","Roberto Emparan","R. Emparan and M. A. Valle Basagoiti","Parity Violation in Aharonov-Bohm Systems: The Spontaneous Hall Effect","12 pages (4 figures available upon request), RevTex, EHU-FT-93/10","Phys. Rev. B 49 (1994): 14460-14465","10.1103/PhysRevB.49.14460",,"cond-mat hep-th",,"  We show how macroscopic manifestations of $P$ (and $T$) symmetry breaking can
+arise in a simple system subject to Aharonov-Bohm interactions. Specifically,
+we study the conductivity of a gas of charged particles moving through a dilute
+array of flux tubes. The interaction of the electrons with the flux tubes is
+taken to be of a purely Aharonov-Bohm type. We find that the system exhibits a
+non-zero transverse conductivity, i.e., a spontaneous Hall effect. This is in
+contrast with the fact that the cross sections for both scattering and
+bremsstrahlung (soft photon emission) of a single electron from a flux tube are
+invariant under reflections. We argue that the asymmetry in the conductivity
+coefficients arises from many-body effects. On the other hand, the transverse
+conductivity has the same dependence on universal constants that appears in the
+Quantum Hall Effect, a result that we relate to the validity of the Mean Field
+approximation.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 16:25:00 GMT""}]","2022-03-07"
+"cond-mat/9312086","Erika Zynda","Chetan Nayak and Frank Wilczek","Non-Fermi Liquid Fixed Point in 2+1 Dimensions","24 pages, 2 figures uuencoded at end, use Phyzzx and epsf, PUPT 1438,
+  IASSNS-HEP 93/89","Nucl.Phys. B417 (1994) 359-373","10.1016/0550-3213(94)90477-4",,"cond-mat",,"  We construct models of excitations about a Fermi surface that display
+calculable deviations from Fermi liquid behavior in the low-energy limit. They
+arise as a consequence of coupling to a Chern-Simons gauge field, whose
+fluctations are controlled through a ${1\over{k^x}}$ interaction. The Fermi
+liquid fixed point is shown to be unstable in the infrared for $x<1$, and an
+infrared-stable fixed point is found in a $(1-x)$-expansion, analogous to the
+$\epsilon$-expansion of critical phenomena. $x=1$ corresponds to Coulomb
+interactions, and in this case we find a logarithmic approach to zero coupling.
+We describe the low-energy behavior of metals in the universality class of the
+new fixed point, and discuss its possible application to the compressible
+$\nu={1\over2}$ quantum Hall state and to the normal state of copper-oxide
+superconductors.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 18:19:08 GMT""},{""version"":""v2"",""created"":""Mon, 7 Feb 1994 15:52:16 GMT""},{""version"":""v3"",""created"":""Mon, 21 Feb 1994 20:54:29 GMT""}]","2009-10-22"
+"cond-mat/9312087","Oleg S.","Oleg Starykh and George Reiter","Quantum Antiferromagnet at Finite Temperature: A Gauge Field Approach","REVTEX 3.0, 6 pages, TCSUH 93:085, 3 figures are available upon
+  request from oleg@george.phys.uh.edu",,"10.1103/PhysRevB.49.4368",,"cond-mat",,"  Starting from the $CP^{N-1}$ model description of the thermally disordred
+phase of the $D=2$ quantum antiferromagnet, we examine the interaction of the
+Schwinger-boson spin-1/2 mean-field excitations with the generated gauge
+(chirality) fluctuations in the framework of the 1/N expansion. This
+interaction dramatically supresses the one-particle motion, but enhances the
+staggered static susceptibility. This means that actual excitations in the
+system are represented by the collective spin-1 excitations, whereas
+one-particle excitations disappear from the problem. We also show that massive
+fluctuations of the constraint field are significant for the susceptibility
+calculations. A connection with the problem of a particle in random magnetic
+field is discussed.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 22:49:17 GMT""}]","2009-10-22"
+"funct-an/9312004","Reinhard Werner","P.E.T. Jorgensen, L.M. Schmitt, and R.F. Werner","Positive representations of general commutation relations allowing Wick
+  ordering","61 pages, AMSTeX 2.1 with amsppt 2.1c",,,,"funct-an math.OA",,"  We consider the problem of representing in Hilbert space commutation
+relations of the form $$ a_ia_j^*=\delta_{ij}{\bold1} +
+\sum_{k\ell}T_{ij}^{k\ell} a_\ell^*a_k \quad,$$ where the $T_{ij}^{k\ell}$ are
+essentially arbitrary scalar coefficients. Examples comprise the $q$-canonical
+commutation relations introduced by Greenberg, Bozejko, and Speicher, and the
+twisted canonical (anti-)commutation relations studied by Pusz and Woronowicz,
+as well as the quantum group S$_\nu$U$(2)$. Using these relations, any
+polynomial in the generators $a_i$ and their adjoints can uniquely be written
+in ``Wick ordered form'' in which all starred generators are to the left of all
+unstarred ones. In this general framework we define the Fock representation, as
+well as coherent representations. We develop criteria for the natural scalar
+product in the associated representation spaces to be positive definite, and
+for the relations to have representations by bounded operators in a Hilbert
+space. We characterize the relations between the generators $a_i$ (not
+involving $a_i^*$) which are compatible with the basic relations. The relations
+may also be interpreted as defining a non-commutative differential calculus.
+For generic coefficients $T_{ij}^{k\ell}$, however, all differential forms of
+degree 2 and higher vanish. We exhibit conditions for this not to be the case,
+and relate them to the ideal structure of the Wick algebra, and conditions of
+positivity. We show that the differential calculus is compatible with the
+involution iff the coefficients $T$ define a representation of the braid group.
+This condition is also shown to imply improved bounds for the positivity of the
+Fock representation. Finally, we study the KMS states of the group of gauge
+transformations defined by $a_j\mapsto\exp(it)a_j$.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 17:30:38 GMT""}]","2008-02-03"
+"gr-qc/9312031",,"W.Kalau, M.Walze","Gravity, Non-Commutative Geometry and the Wodzicki Residue","17p., MZ-TH/93-38","J.Geom.Phys. 16 (1995) 327-344","10.1016/0393-0440(94)00032-Y",,"gr-qc hep-th",,"  We derive an action for gravity in the framework of non-commutative geometry
+by using the Wodzicki residue. We prove that for a Dirac operator $D$ on an $n$
+dimensional compact Riemannian manifold with $n\geq 4$, $n$ even, the Wodzicki
+residue Res$(D^{-n+2})$ is the integral of the second coefficient of the heat
+kernel expansion of $D^{2}$. We use this result to derive a gravity action for
+commutative geometry which is the usual Einstein Hilbert action and we also
+apply our results to a non-commutative extension which, is given by the tensor
+product of the algebra of smooth functions on a manifold and a finite
+dimensional matrix algebra. In this case we obtain gravity with a cosmological
+constant.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 18:32:45 GMT""}]","2015-06-25"
+"gr-qc/9312032","Domenico Giulini","Domenico Giulini","Ashtekar Variables in Classical General Realtivity","31 Pages, Plain-Tex; Further comments were added, minor grammatical
+  changes made and typos corrected","Springer Lecture Notes in Physics 434 (1994), 81-112","10.1007/3-540-58339-4_16",,"gr-qc",,"  This paper contains an introduction into Ashtekar's reformulation of General
+Relativity in terms of connection variables. To appear in ""Canonical Gravity -
+From Classical to Quantum"", ed. by J. Ehlers and H. Friedrich, Springer Verlag
+(1994).
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 19:29:43 GMT""},{""version"":""v2"",""created"":""Fri, 4 Mar 1994 07:28:52 GMT""}]","2009-10-22"
+"gr-qc/9312033","Eli John Hawkins","Eli Hawkins","Quantum Gravitational Collapse of a Charged Dust Shell","12 pages, UMDGR--94--76","Phys.Rev.D49:6556,1994; Erratum-ibid.D50:7744,1994;
+  Phys.Rev.D50:7744,1994","10.1103/PhysRevD.49.6556 10.1103/PhysRevD.50.7744",,"gr-qc",,"  A simple self gravitating system --- a thin spherical shell of charged
+pressureless matter --- is naively quantized as a test case of quantum
+gravitational collapse. The model is interpreted in terms of an inner product
+on the positive energy states. An S-matrix is constructed describing scattering
+between negatively and positively infinite radius.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 22:03:37 GMT""},{""version"":""v2"",""created"":""Wed, 22 Dec 1993 20:15:07 GMT""}]","2014-11-17"
+"hep-lat/9312081","Greg Kilcup","Greg Kilcup","Quenched Staggered Spectrum at Beta=6.0, 6.2 and 6.4","4 pages of PostScript","Nucl.Phys.Proc.Suppl. 34 (1994) 350-353","10.1016/0920-5632(94)90387-5",,"hep-lat",,"  We give a preliminary report on the hadron spectrum on an ensemble of
+quenched lattices at $\beta$ values of 6.0, 6.2 and 6.4, using staggered
+fermions and collaborators Rajan Gupta and Steve Sharpe. Because of the
+relatively small number of configurations we pay marginally more attention to
+the question of statistics than in previous analyses. We are unable to
+discredit quenched QCD.
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 03:04:56 GMT""}]","2009-10-22"
+"hep-ph/9312321","749","Kazunori Takenaga","The Oblique Parameters In Electroweak Theory with Two Massless Higgs
+  Doublets","12 pages, 9 figures ( available upon reauest ), plain TeX with
+  harvmac, KYUSHU-HET-13","Prog.Theor.Phys. 92 (1994) 987-996","10.1143/ptp/92.5.987",,"hep-ph",,"  The oblique parameters $S$ and $T$ are studied in electroweak theory with two
+massless Higgs doublets. The effect of quadratic dependence on the charged
+Higgs mass in the parameter $T$ could be cancelled. %when mass differences
+between the charged and neutral scalars %become large. The constraint on the
+charged Higgs mass from the parameter $T$ is not so stringent as it was
+expected. The parameter $S$ can be both positive and negative but it can't take
+large negative value. We search allowed scalar mass regions for both $S$ and
+$T$ in the case of two different reference points.
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 06:54:42 GMT""}]","2017-02-01"
+"hep-ph/9312323",,"K.G.Chetyrkin, O.V.Tarasov","The $\alpha_s^3$ Corrections to the Effective Neutral Current and to the
+  Z Decay Rate in the Heavy Top Quark Limit","11 pages, LATEX, no figures, Preprint TTP93-38,INR-842/93 , December
+  1993","Phys.Lett. B327 (1994) 114-122","10.1016/0370-2693(94)91538-5",,"hep-ph",,"  We find the effective neutral current in the heavy top quark limit up to and
+including the terms of order $\alpha_s^3$. The result is then employed to
+compute the correction of the same order to the axial part of the Z decay rate
+into hadrons ($\G^h_Z$) induced by the top-bottom quark mass splitting. The
+calculations confirm the prediction made in a previous work of K.G.Ch. and
+J.H.K\""uhn (Phys. Lett. B 308 (1993) 127), namely, the effect of the singlet
+corrections of order $\alpha^3_s$ to the axial part of the $\G^h_Z$ should not
+exceed 25\% - 30\% (depending on the values chosen for $\alpha_s(M_Z)$ and
+$m_t$) of the magnitude of the leading (singlet) $\alpha_s^2$ term.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 19:32:00 GMT""}]","2009-10-22"
+"hep-ph/9312324",,"Christopher T. Hill and Stephen J. Parke","Top Production: Sensitivity to New Physics","Latex file, 25 pages + 15 uuencoded figures, Fermilab-Pub-93/397","Phys.Rev.D49:4454-4462,1994","10.1103/PhysRevD.49.4454",,"hep-ph",,"  The production cross--section and distributions of the top quark are
+sensitive to new physics, e.g., the $t\overline{t}$ system can be a probe of
+new resonances or gauge bosons that are strongly coupled to the top quark, in
+analogy to Drell--Yan production. The existence of such new physics is expected
+in dynamical electroweak symmetry breaking schemes, and associated with the
+large mass of the top quark. The total top production cross--section can be
+more than doubled, and distributions significantly distorted with a chosen
+scale of new physics of $\sim 1 $ TeV in the vector color singlet or octet
+$s$--channel. New resonance physics is most readily discernible in the
+high--$p_T$ distributions of the single top quark and of the $W$ boson.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 23:21:30 GMT""}]","2011-05-05"
+"hep-ph/9312325",,"P. Ball","Finite Mass Corrections to Leptonic Decay Constants in the Heavy Quark
+  Effective Theory","21 pages, Revtex3 (all style files included), 8 figures included,
+  TUM-T31-54/93 (Technische Universit\""at M\""unchen)","Nucl.Phys. B421 (1994) 593-612","10.1016/0550-3213(94)90518-5",,"hep-ph",,"  We calculate finite mass corrections to leptonic decay constants in HQET
+using QCD sum rules. The results are given to two--loop accuracy including
+renormalization group analysis. The contribution of unknown two--loop anomalous
+dimension matrix--elements is estimated. We find that the $1/m_Q$ corrections
+to $f_P$, the decay constant of a pseudoscalar meson, amount $-(23\pm4\pm2)\%$
+for the B meson. The first error comes from the sum rule uncertainty, the
+second one from unknown or not accurately known matrix elements in HQET. We
+obtain a ratio of vector to pseudoscalar decay constant of
+$1.00\pm0.07+O(1/m_Q^2)$ for B mesons.
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 09:34:36 GMT""}]","2009-10-22"
+"hep-th/9312170","Shahn Majid","Shahn Majid and Ulrich Meyer","Braided Matrix Structure of $q$-Minkowski Space and $q$-Poincare Group","12 pages","Z.Phys. C63 (1994) 357-362","10.1007/BF01411029","DAMTP/93-68","hep-th math.QA",,"  We clarify the relation between the approach to $q$-Minkowski space of
+Carow-Watamura et al. with an approach based on the idea of $2\times 2$ braided
+Hermitean matrices. The latter are objects like super-matrices but with
+Bose-Fermi statistics replaced by braid statistics. We also obtain new R-matrix
+formulae for the $q$-Poincare group in this framework.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 17:26:11 GMT""}]","2009-10-22"
+"hep-th/9312171",,"M. Cadoni and S. Mignemi","Classical and Semiclassical Properties of Extremal Black Holes with
+  Dilaton and Modulus Fields","25 pages (3 figures available upon request), plain TEX,INFN-CA-20-93
+  (typographical errors corrected)","Nucl.Phys.B427:669-696,1994","10.1016/0550-3213(94)90644-0",,"hep-th gr-qc",,"  We discuss both classical and semiclassical properties of extremal black
+holes in theories where the dilaton and a modulus field are present. We find
+that the corresponding 2-dim geometry is asymptotically anti-de Sitter rather
+then asymptotically flat as in the purely dilatonic case. This fact has many
+important consequences, which we analyze at length, both for the classical
+behaviour and for the thermodynamical properties of the black hole. We also
+study the Hawking evaporation process in the semiclassical approximation. The
+calculations strongly indicates the emergence of a stable ground state as the
+end point of the process. Some comments are made about the relevance of our
+results for the problem of information loss in black hole physics.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 22:05:00 GMT""},{""version"":""v2"",""created"":""Fri, 28 Jan 1994 12:13:00 GMT""}]","2010-11-01"
+"hep-th/9312172","Jerome Gauntlett","Fay Dowker, Jerome P. Gauntlett, Steven B. Giddings and Gary T.
+  Horowitz","On Pair Creation of Extremal Black Holes and Kaluza-Klein Monopoles","45 pages, 5 figures, EFI-93-74, UCSBTH-93-38. (Omitted
+  acknowledgements added, typos fixed)","Phys. Rev. D 50, 2662 (1994)","10.1103/PhysRevD.50.2662",,"hep-th gr-qc",,"  Classical solutions describing charged dilaton black holes accelerating in a
+background magnetic field have recently been found. They include the Ernst
+metric of the Einstein-Maxwell theory as a special case. We study the extremal
+limit of these solutions in detail, both at the classical and quantum levels.
+It is shown that near the event horizon, the extremal solutions reduce
+precisely to the static extremal black hole solutions. For a particular value
+of the dilaton coupling, these extremal black holes are five dimensional
+Kaluza-Klein monopoles. The euclidean sections of these solutions can be
+interpreted as instantons describing the pair creation of extremal black
+holes/Kaluza-Klein monopoles in a magnetic field. The action of these
+instantons is calculated and found to agree with the Schwinger result in the
+weak field limit. For the euclidean Ernst solution, the action for the extremal
+solution differs from that of the previously discussed wormhole instanton by
+the Bekenstein-Hawking entropy. However, in many cases quantum corrections
+become large in the vicinity of the black hole, and the precise description of
+the creation process is unknown.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 22:34:07 GMT""},{""version"":""v2"",""created"":""Mon, 27 Dec 1993 23:11:09 GMT""}]","2013-11-13"
+"hep-th/9312173",,"Ali Mostafazadeh (Center for Relativity, Department of Physics, The
+  University of Texas at Austin, Austin, Texas)","Geometric Phase, Bundle Classification, and Group Representation","30 pages (LaTeX); UT-CR-12-93","J.Math.Phys. 37 (1996) 1218-1233; Erratum-ibid. 40 (1999) 3697","10.1063/1.531457",,"hep-th",,"  The line bundles which arise in the holonomy interpretations of the geometric
+phase display curious similarities to those encountered in the statement of the
+Borel-Weil-Bott theorem of the representation theory. The remarkable relation
+of the geometric phase to the classification of complex line bundles provides
+the necessary tools for establishing the relevance of the Borel-Weil-Bott
+theorem to Berry's adiabatic phase. This enables one to define a set of
+topological charges for arbitrary compact connected semisimple dynamical Lie
+groups. In this paper, the problem of the determination of the parameter space
+of the Hamiltonian is also addressed. A simple topological argument is
+presented to indicate the relation between the Riemannian structure on the
+parameter space and Berry's connection. The results about the fibre bundles and
+group theory are used to introduce a procedure to reduce the problem of the
+non-adiabatic (geometric) phase to Berry's adiabatic phase for cranked
+Hamiltonians. Finally, the possible relevance of the topological charges of the
+geometric phase to those of the non-abelian monopoles is pointed out.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 22:34:17 GMT""}]","2009-10-22"
+"hep-th/9312174",,"H-T. Sato","Quantum Group and $q$-Virasoro Current in Fermion Systems","20 pages, Latex. Title changed","Prog. Theor. Phys. 93 (1995) 195-208","10.1143/ptp/93.1.195","OS-GE-40-93 (revised)","hep-th",,"  We discuss a generalization of the quantum group $\su$ to the $q$-Virasoro
+algebra in two-dimensional electrons system under uniform magnetic field. It is
+shown that the integral representations of both algebras are reduced to those
+in a (1+1)-dimensional fermion. As an application of the quantum group
+symmetry, we discuss a model of quantum group current on the analogy of the
+Hall current.
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 04:30:53 GMT""},{""version"":""v2"",""created"":""Fri, 24 May 1996 19:02:46 GMT""}]","2017-02-01"
+"hep-th/9312175","Masafumi Fukuma","M. Fukuma, N. Ishibashi, H. Kawai and M. Ninomiya","Two-Dimensional Quantum Gravity in Temporal Gauge","24 pages, 1 uuencoded figure, LaTeX file, YITP/K-1045. (Added
+  detailed explanation and references.)","Nucl.Phys. B427 (1994) 139-157","10.1016/0550-3213(94)90272-0",,"hep-th",,"  We propose a new type of gauge in two-dimensional quantum gravity. We
+investigate pure gravity in this gauge, and find that the system reduces to
+quantum mechanics of loop length $l$. Furthermore, we rederive the $c\!=\!0$
+string field theory which was discovered recently. In particular, the
+pregeometric form of the Hamiltonian is naturally reproduced.
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 07:59:47 GMT""},{""version"":""v2"",""created"":""Wed, 6 Jul 1994 05:52:51 GMT""}]","2009-10-22"
+"hep-th/9312176","Hugh Osborn","H. Osborn","Implications of Conformal Invariance for Quantum Field Theories in $d>2$","14pages, Damtp 93/67",,,,"hep-th",,"  Recently obtained results for two and three point functions for quasi-primary
+operators in conformally invariant theories in arbitrary dimensions {\absit d}
+are described. As a consequence the three point function for the energy
+momentum tensor has three linearly independent forms for general {\absit d}
+compatible with conformal invariance. The corresponding coefficients may be
+regarded as possible generalisations of the Virasoro central charge to {\absit
+d} larger than 2. Ward identities which link two linear combinations of the
+coefficients to terms appearing in the energy momentum tensor trace anomaly on
+curved space are discussed. The requirement of positivity for expectation
+values of the energy density is also shown to lead to positivity conditions
+which are simple for a particular choice of the three coefficients.
+Renormalisation group like equations which express the constraints of broken
+conformal invariance for quantum field theories away from critical points are
+postulated and applied to two point functions.\hfill\break Talk presented at
+the XXVII Ahrenshoop International Symposium.
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 09:25:00 GMT""}]","2007-05-23"
+"hep-th/9312177","German Sierra","C.Gomez and G.Sierra","Graph Quantum Groups","13 pages, latex (use the macro epic.sty available from hepth)",,,,"hep-th",,"  We define a new mathematical structure ( graph quantum group) which combines
+the tower of algebras associated with a graph ${\cal G}$ and the structure of a
+Hopf algebra {\cal A}. In this structure Ocneanu's string operators become Hopf
+algebra intertwiners. We present some examples of graph quantum groups.
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 10:51:41 GMT""}]","2007-05-23"
+"hep-th/9312178","Connie Jones","S. G. Rajeev, G. Sparano and P. Vitale","Alternative Canonical Formalism for the Wess-Zumino-Witten Model","22 pages; UR-1336","Int.J.Mod.Phys. A9 (1994) 5469-5488","10.1142/S0217751X94002211",,"hep-th",,"  We study a canonical quantization of the Wess--Zumino--Witten (WZW) model
+which depends on two integer parameters rather than one. The usual theory can
+be obtained as a contraction, in which our two parameters go to infinity
+keeping the difference fixed. The quantum theory is equivalent to a generalized
+  Thirring model, with left and right handed fermions transforming under
+different representations of the symmetry group. We also point out that the
+classical WZW model with a compact target space has a canonical formalism in
+which the current algebra is an affine Lie algebra of non--compact type.
+  Also, there are some non--unitary quantizations of the WZW model in which
+there is invariance only under half the conformal algebra (one copy of the
+  Virasoro algebra).
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 15:05:30 GMT""}]","2015-06-26"
+"nucl-th/9312016",,"L. Canton and G. Cattapan","Theory of Coupled Pion--Trinucleon Systems","REVTEX, 13 pages, Padova, DFPD 93/TH/77","Phys.Rev.C50:2761-2767,1994","10.1103/PhysRevC.50.2761",,"nucl-th",,"  We derive the dynamical equations which consistently couple the four--body
+($\pi$NNN) system to the underlying three--nucleon system. Our treatment can be
+considered the proper generalization of the Afnan--Blankleider equations for
+the coupled NN--$\pi$NN system. The resulting connected--kernel equation
+resembles in structure the Yakubovskii--Grassberger--Sandhas equation for the
+standard four--body problem, but involves 24 chain--labelled components (rather
+than the usual 18 ones) and allows for a consistent evaluation of reaction
+amplitudes involving $\pi$ absorption/production.
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 11:52:51 GMT""}]","2008-11-26"
+"nucl-th/9312017",,"P.J.Dortmans, L.Canton, G.Pisent, and K.Amos","Complex Conjugate Pairs in Stationary Sturmians","(REVTEX) 8 Pages, Padova DFPD 93/TH/78 and University of Melbourne","Phys.Rev.C49:2828-2830,1994","10.1103/PhysRevC.49.2828",,"nucl-th",,"  Sturmian eigenstates specified by stationary scattering boundary conditions
+are particularly useful in contexts such as forming simple separable two
+nucleon t matrices, and are determined via solution of generalised eigenvalue
+equation using real and symmetric matrices. In general, the spectrum of such an
+equation may contain complex eigenvalues. But to each complex eigenvalue there
+is a corresponding conjugate partner. In studies using realistic
+nucleon--nucleon potentials, and in certain positive energy intervals, these
+complex conjugated pairs indeed appear in the Sturmian spectrum. However, as we
+demonstrate herein, it is possible to recombine the complex conjugate pairs and
+corresponding states into a new, sign--definite pair of real quantities with
+which to effect separable expansions of the (real) nucleon--nucleon reactance
+matrices.
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 12:19:39 GMT""}]","2008-11-26"
+"nucl-th/9312018","Avraham Rinat","E. Pace, G. Salme and A.S. Rinat","On the nature of the large-$q$ expansion of the response for a
+  non-relativistic confined system","8 pages, appended ps file for figs, report no's INFN-ISS 93/9;
+  WIS-93/71/Nov-PH","Phys.Lett. B325 (1994) 289-293","10.1016/0370-2693(94)90012-4",,"nucl-th",,"  We show the equivalence of a previously derived exact expression for the
+response of a non-relativistic system with harmonic forces and an infinite sum
+of weighted $\delta$-functions corresponding to the spectrum. We forward
+arguments, indicating that the Gersch-Rodriguez-Smith $1/q$-expansion of the
+response does not converge and prove that this expansion is an asymptotic
+series.
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 15:05:36 GMT""}]","2009-10-22"
+"nucl-th/9312019","Avraham Rinat","S. A. Gurvitz and A.S. Rinat","The nuclear component of the EMC effect beyond the Plane Wave Impulse
+  Approximation","20 pages, ps file for figures appended, report numbers TR-PR-93-77;
+  WIS-93/97/Oct-PH",,,,"nucl-th",,"  We study the response of a nucleus composed of nucleons and confined quarks.
+Assuming dynamics implied by a non-relativistic cluster model, we prove that
+the total response is a convolution of the responses of, respectively, a
+nucleus with interacting point-nucleons and an isolated nucleon with confined
+quarks. Defining as an intermediary structure functions in terms of the
+non-relativistic limit of light-cone variables, we subsequently conjecture a
+generalization to the relativistic regime. That result contains a nuclear part
+with full inter-nucleon dynamics and allows the study of approximations, as are
+the Plane Wave Impulse Approximation and a modification of it. The framework
+also permits a clean treatment of the response of a moving composite nucleon in
+the nucleus which may be off-shell.
+","[{""version"":""v1"",""created"":""Wed, 22 Dec 1993 15:14:55 GMT""}]","2009-09-25"

@@ -1,0 +1,92 @@
+"astro-ph/9308019","Scott Dodelson","Scott Dodelson and Jay Jubas","Re-Ionization and its Imprint on the Cosmic Microwave Background","22 pages, plain TeX, 10 figures available upon request,
+  FERMILAB-Pub-93/242-A","Astrophys.J. 439 (1995) 503-516","10.1086/175191",,"astro-ph",,"  Early reionization changes the pattern of anisotropies expected in the cosmic
+microwave background. To explore these changes, we derive from first principles
+the equations governing anisotropies, focusing on the interactions of photons
+with electrons. Vishniac (1987) claimed that second order terms can be large in
+a re-ionized Universe, so we derive equations correct to second order in the
+perturbations. There are many more second order terms than were considered by
+Vishniac. To understand the basic physics involved, we present a simple
+analytic approximation to the first order equation. Then turning to the sec-
+ond order equation, we show that the Vishniac term is indeed the only important
+one. We also present numerical results for a variety of ionization histories
+[in a standard cold dark matter Universe] and show quantitatively how the sig-
+nal in several experiments depends on the ionization history. The most
+pronounced indication of a re-ionized Universe would be seen in very small
+scale experiments; the expected signal in the Owens Valley experiment is
+smaller by a factor of order ten if the last scattering surface is at a
+redshift $z\simeq100$ as it would be if the Universe were re-ionized very
+early. On slightly larger scales, the expected signal in a re-ionized Universe
+{\it is} smaller than it would be with standard recombination, but only by a
+factor of two or so.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 15:22:58 GMT""}]","2009-10-22"
+"cond-mat/9308023",,"Heiko Leschhorn and Lei-Han Tang","Avalanches and Correlations in Driven Interface Depinning","7 pages, (5 figures available upon request), REVTeX, RUB-TP3-93-02",,"10.1103/PhysRevE.49.1238",,"cond-mat",,"  We study the critical behavior of a driven interface in a medium with random
+pinning forces by analyzing spatial and temporal correlations in a lattice
+model recently proposed by Sneppen [Phys. Rev. Lett. {\bf 69}, 3539 (1992)].
+The static and dynamic behavior of the model is related to the properties of
+directed percolation. We show that, due to the interplay of local and global
+growth rules, the usual method of dynamical scaling has to be modified. We
+separate the local from the global part of the dynamics by defining a train of
+causal growth events, or ""avalanche"", which can be ascribed a well-defined
+dynamical exponent $z_{loc} = 1 + \zeta_c \simeq 1.63$ where $\zeta_c$ is the
+roughness exponent of the interface. We observe that the avalanche size
+distribution obeys a power-law decay with an exponent $\kappa \simeq 1.25$.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 07:17:15 GMT""}]","2009-10-22"
+"hep-ph/9308277",,"Ann E. Nelson and Lisa Randall","Naturally Large Tan $\beta$","8 pages (uses harvmac), UCSD/PTH 93-24, MIT-CTP-2230","Phys.Lett.B316:516-520,1993","10.1016/0370-2693(93)91037-N",,"hep-ph",,"  We show that if there are only two Higgs doublets in the supersymmetric
+standard model, large $\tan\beta$ requires a fine tuning in the parameters of
+the Lagrangian of order ($1/\tan\beta$), which cannot be explained by any
+approximate symmetry. With an extended Higgs sector, large $\tan\beta$ can be
+natural. We give an explicit example with four doublets in which it is possible
+to achieve large $\tan\beta$ as a result of an approximate symmetry, without
+any light superpartners. The approximate symmetry can be extended to explain
+all the hierarchies in the quark mass matrix.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 22:56:28 GMT""}]","2009-09-15"
+"hep-ph/9308278","Sergey Troitsky","M.V. Libanov, V.A. Rubakov and S.V. Troitsky","Zeros of tree amplitudes at rest and symmetries of mechanical systems","11 pages Preprint INR-830/93, August 1993","Phys.Lett.B318:134-138,1993","10.1016/0370-2693(93)91796-P",,"hep-ph",,"  We consider the tree amplitudes of production of $n_2$ scalar particles by
+$n_1$ particles of another kind, where both initial and final particles are at
+rest and on mass shell, in a model of two scalar fields with $O(2)$ symmetric
+interaction and unequal masses. We find that these amplitudes are zero except
+for the lowest possible $n_1$ and $n_2$, and that the cancellation of the
+corresponding Feynman graphs occurs due to a special symmetry of the classical
+mechanical counterpart of this theory. This feature is rather general and is
+inherent in various other scalar field theories.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 12:33:35 GMT""}]","2008-11-26"
+"hep-th/9308070",,"Esko Keski-Vakkuri","On Coarse-grained Entropy and Stimulated Emission in Curved Space-Time","9 pages, LaTeX file, CTP-2213","Phys.Rev. D49 (1994) 2122-2125","10.1103/PhysRevD.49.2122",,"hep-th",,"  We study the entropy generation and particle production in scalar quantum
+field theory in expanding spacetimes with many-particle mixed initial states.
+The recently proposed coarse-grained entropy approach by Brandenberger et. al.
+is applied to systems which may have a non-zero initial entropy. We find that
+although the the particle production is amplified as a result of boson
+statistics, the (coarse-grained) entropy generation is {\em attenuated} when
+initial particles are present.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 04:00:38 GMT""}]","2009-10-22"
+"hep-th/9308071","Yoon-Bai Kim","B. K. Chung, K. G. Joo, and Soonkeon Nam","Hamiltonian formulation of SL(3) Ur-KdV equation","12 pages, KHTP-93-03 SNUTP-93-21","Mod.Phys.Lett.A8:2927-2936,1993","10.1142/S0217732393003342",,"hep-th nlin.SI solv-int",,"  We give a unified view of the relation between the $SL(2)$ KdV, the mKdV, and
+the Ur-KdV equations through the Fr\'{e}chet derivatives and their inverses.
+For this we introduce a new procedure of obtaining the Ur-KdV equation, where
+we require that it has no non-local operators. We extend this method to the
+$SL(3)$ KdV equation, i.e., Boussinesq(Bsq) equation and obtain the hamiltonian
+structure of Ur-Bsq equationin a simple form. In particular, we explicitly
+construct the hamiltonian operator of the Ur-Bsq system which defines the
+poisson structure of the system, through the Fr\'{e}chet derivative and its
+inverse.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 05:55:21 GMT""}]","2010-02-05"
+"hep-th/9308072","Shahn Majid","Shahn Majid and Martin Markl","Glueing operation for r-matrices, quantum groups and link-invariants of
+  Hecke type","36 pages",,,"DAMTP/93-20","hep-th math.QA",,"  We introduce an associative glueing operation $\oplus_q$ on the space of
+solutions of the Quantum Yang-Baxter Equations of Hecke type. The corresponding
+glueing operations for the associated quantum groups and quantum vector spaces
+are also found. The former involves $2\times 2$ quantum matrices whose entries
+are themselves square or rectangular quantum matrices. The corresponding
+glueing operation for link-invariants is introduced and involves a state-sum
+model with Boltzmann weights determined by the link invariants to be glued. The
+standard $su(n)$ solution, its associated quantum matrix group, quantum space
+and link-invariant arise at once by repeated glueing of the one-dimensional
+case.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 09:44:04 GMT""}]","2008-02-03"
+"hep-th/9308073","Galina Stepanova","N.A. Kivel, A.S. Stepanenko, A.N. Vasil'ev","On Calculation of $2+\veps$ RG Functions in the Gross Neveu Model from
+  Large $N$ Expansions of Critical Exponents","preprint PNPI-1910, 10 pages, 1 figure, LaTeX","Nucl.Phys. B424 (1994) 619-627","10.1016/0550-3213(94)90411-1",,"hep-th",,"  Using knowledge of the explicit $n$ dependence of the RG functions and
+expressions of critical exponents in the framework of large $N$ expansion in
+the Gross Neveu model we derive RG functions in 4- and 5-loop approximation.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 12:20:32 GMT""}]","2009-10-22"
+"hep-th/9308074","Wolfgang Moedritsch","W. M\""odritsch","On the definiteness of the conformal anomaly in nonconformal gauges","8pages, LaTeX, TUW-93-19","Mod.Phys.Lett. A9 (1994) 241-246; Erratum-ibid. A9 (1994) 861","10.1142/S0217732394003622",,"hep-th",,"  The critical dimension of the bosonic string in the harmonic and the deDonder
+gauge may be calculated from the time ordered product of two energy momentum
+tensors. We show that recently found ambiguities within that method in
+nonconformal gauges can be resolved by a treatment respecting background
+covariance.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 13:53:44 GMT""}]","2009-10-22"

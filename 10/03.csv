@@ -1,0 +1,80 @@
+"alg-geom/9310001","Lev Borisov","Lev Borisov","Towards the Mirror Symmetry for Calabi-Yau Complete intersections in
+  Gorenstein Toric Fano Varieties","6 pages, Latex file",,,,"alg-geom math.AG",,"  We propose a combinatorical duality for lattice polyhedra which conjecturally
+gives rise to the pairs of mirror symmetric families of Calabi-Yau complete
+intersections in toric Fano varieties with Gorenstein singularities. Our
+construction is a generalization of the polar duality proposed by Batyrev for
+the case of hypersurfaces.
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1993 16:49:24 GMT""}]","2008-02-03"
+"astro-ph/9310003","Scott Tremaine","T. E. Clarke, O. Blaes, adn S. Tremaine","Do Gamma-Ray Bursts Come from the Oort Cloud?","12 pages, uuencoded compressed postscript file, CITA-93-275","Astron.J. 107 (1994) 1873","10.1086/116997",,"astro-ph",,"  We examine the possibility that gamma-ray bursts arise from sources in the
+Oort comet cloud, basing most of our arguments on accepted models for the
+formation and spatial distribution of the cloud. We identify three severe
+problems with such models: (1) There is no known mechanism for producing bursts
+that can explain the observed burst rate and energetics without violating other
+observational constraints. (2) The bright source counts cannot be reconciled
+with standard models for the phase-space distribution of objects in the Oort
+cloud. (3) The observed isotropy of the available burst data is inconsistent
+with the expected angular distribution of sources in the Oort cloud. We
+therefore assert that Oort cloud models of gamma-ray bursts are extremely
+implausible.
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1993 21:35:31 GMT""}]","2009-10-22"
+"astro-ph/9310006","Sanjay K. Ghosh","Sanjay K. Ghosh, S. C. Phatak and Pradip K. Sahu","On the Limitations of Neutrino Emissivity Formula of Iwamoto","Latex Version 2.09, 15 pages, 5 postscript figures available upon
+  request, preprint No. IP/BBSR/93-60","Mod.Phys.Lett. A9 (1994) 1717-1726","10.1142/S0217732394001568",,"astro-ph",,"  The neutrino emissivity from two and three flavour quark matter is
+numerically calculated and compared with Iwamoto's formula. We find that the
+calculated emissivity is smaller than Iwamoto's result by orders of magnitude
+when $p_{f}(u)+p_{f}(e)-p_{f}(d(s))$ is comparable with the temperature. We
+attribute it to the severe restriction imposed by momentum conservation on the
+phase space integral. We obtain an alternate formula for the neutrino
+emissivity which is valid when the quarks and electrons are degenerate and
+$p_{f}(u)~+~p_{f}(e)~-~p_{f}(d(s))$ is large compared to the temperature.
+","[{""version"":""v1"",""created"":""Sun, 3 Oct 1993 10:09:33 GMT""}]","2009-10-22"
+"gr-qc/9310003","Viqar Husain","Viqar Husain","Self-dual gravity as a two dimensional theory and conservation laws","18 pages, RevTeX, Alberta-Thy-47-93","Class.Quant.Grav.11:927-938,1994","10.1088/0264-9381/11/4/011",,"gr-qc hep-th",,"  Starting from the Ashtekar Hamiltonian variables for general relativity, the
+self-dual Einstein equations (SDE) may be rewritten as evolution equations for
+three divergence free vector fields given on a three dimensional surface with a
+fixed volume element.
+  From this general form of the SDE, it is shown how they may be interpreted as
+the field equations for a two dimensional field theory. It is further shown
+that these equations imply an infinite number of non-local conserved currents.
+  A specific way of writing the vector fields allows an identification of the
+full SDE with those of the two dimensional chiral model, with the gauge group
+being the group of area preserving diffeomorphisms of a two dimensional
+surface. This gives a natural Hamiltonian formulation of the SDE in terms of
+that of the chiral model. The conservation laws using the explicit chiral model
+form of the equations are also given.
+","[{""version"":""v1"",""created"":""Sun, 3 Oct 1993 02:55:32 GMT""}]","2010-04-06"
+"gr-qc/9310004","Khatsymovsky","V. Khatsymovsky","Regge calculus in the canonical form","24 pages,Plain LaTeX,BINP 93-42","Gen.Rel.Grav. 27 (1995) 583-603","10.1007/BF02108063",,"gr-qc",,"  (3+1) (continuous time) Regge calculus is reduced to Hamiltonian form. The
+constraints are classified, classical and quantum consequences are discussed.
+As basic variables connection matrices and antisymmetric area tensors are used
+supplemented with appropriate bilinear constraints. In these variables the
+action can be made quasipolinomial with $\arcsin$ as the only deviation from
+polinomiality. In comparison with analogous formalism in the continuum theory
+classification of constraints changes: some of them disappear, the part of I
+class constraints including Hamiltonian one become II class (and vice versa,
+some new constraints arise and some II class constraints become I class). As a
+result, the number of the degrees of freedom coincides with the number of links
+in 3-dimensional leaf of foliation. Moreover, in empty space classical dynamics
+is trivial: the scale of timelike links become zero and spacelike links are
+constant.
+","[{""version"":""v1"",""created"":""Sun, 3 Oct 1993 12:32:50 GMT""}]","2015-06-25"
+"gr-qc/9310005","Khatsymovsky","V. Khatsymovsky","On polinomial formulations of general relativity","11 pages, Plain LaTeX, BINP 93-41",,,,"gr-qc",,"  As basic variables in general relativity (GR) are chosen antisymmetric
+connection and bivectors - bilinear in tetrad area tensors subject to
+appropriate (bilinear) constraints. In canonical formalism we get theory with
+polinomial constraints some of which are II class. On partial resolving the
+latter we get another polinomial formulation. Separating self- and antiselfdual
+parts of antisymmetric tensors we come to Ashtekar constraints including those
+known as ""reality conditions"" which connect self- and antiselfdual sectors of
+the theory. These conditions form second class system and cannot be simply
+imposed on quantum states (or taken as initial conditions in classical theory).
+Rather these should be taken into account in operator sence by forming
+corresponding Dirac brackets. As a result, commutators between canonical
+variables are no longer polinomial, and even separate treatment of self- and
+antiselfdual sectors is impossible.
+","[{""version"":""v1"",""created"":""Sun, 3 Oct 1993 12:34:10 GMT""}]","2007-05-23"
+"hep-th/9310011","Nemanja Kaloper","Nemanja Kaloper","Topological Mass Generation in Three-Dimensional String Theory","11 pages LaTeX, Alberta preprint Alberta-Thy-46-93","Phys.Lett. B320 (1994) 16-20","10.1016/0370-2693(94)90817-6",,"hep-th gr-qc",,"  The effective action of string theory in three dimensions is investigated,
+incorporating the Lorentz and gauge Chern-Simons terms in the definition of the
+Kalb-Ramond axion field strength. Since in three dimensions any three-form is
+trivial, the action can be reformulated by properly integrating the axion out.
+The circumstances under which it can be recast in form of topologically massive
+gravity coupled to a topologically massive gauge theory are pointed out.
+Finally, the strong coupling limit of the resulting action is inspected, with
+the focus on the roles played by the axion and dilaton fields.
+","[{""version"":""v1"",""created"":""Sat, 2 Oct 1993 22:50:27 GMT""}]","2009-10-22"

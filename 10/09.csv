@@ -1,0 +1,89 @@
+"cond-mat/9310015","Claudio C. Chamon","C. de C. Chamon and X. G. Wen","Sharp and Smooth Boundaries of Quantum Hall Liquids","28 pages, REVTeX 3.0, 18 figures available upon request,
+  cond-mat/yymmnnn",,"10.1103/PhysRevB.49.8227",,"cond-mat",,"  We study the transition between sharp and smooth density distributions at the
+edges of Quantum Hall Liquids in the presence of interactions. We find that,
+for strong confining potentials, the edge of a $\nu=1$ liquid is described by
+the $Z_F=1$ Fermi Liquid theory, even in the presence of interactions, a
+consequence of the chiral nature of the system. When the edge confining
+potential is decreased beyond a point, the edge undergoes a reconstruction and
+electrons start to deposit a distance $\sim 2$ magnetic lengths away from the
+initial QH Liquid. Within the Hartree-Fock approximation, a new pair of
+branches of gapless edge excitations is generated after the transition. We show
+that the transition is controlled by the balance between a long-ranged
+repulsive Hartree term and a short-ranged attractive exchange term. Such
+transition also occurs for Quantum Dots in the Quantum Hall Regime, and should
+be observable in resonant tunneling experiments. Electron tunneling into the
+reconstructed edge is also discussed.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 17:09:26 GMT""}]","2009-10-22"
+"cond-mat/9310016","George Batrouni","G. George Batrouni, Alex Hansen, Gerald H. Ristow","Tolerance and Sensitivity in the Fuse Network","12 pages, 3 figures available upon request, plain Tex",,"10.1088/0305-4470/27/4/030",,"cond-mat",,"  We show that depending on the disorder, a small noise added to the threshold
+distribution of the fuse network may or may not completely change the
+subsequent breakdown process. When the threshold distribution has a lower
+cutoff at a finite value and a power law dependence towards large thresholds
+with an exponent which is less than $0.16\pm0.03$, the network is not sensitive
+to the added noise, otherwise it is. The transition between sensitivity or not
+appears to be second order, and is related to a localization-delocalization
+transition earlier observed in such systems.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 18:54:30 GMT""}]","2009-10-22"
+"gr-qc/9310017","Dario Nunez","D. Nunez, and H. Quevedo","Stationary Axisymmetric Fields as Two-Dimensional Geodesics","18 pages. Submitted JMPh",,,,"gr-qc",,"  Einstein's equations for stationary axisymmetric fields are reformulated as
+the equations for affine geodesics in a two--dimensional space. The affine
+collineations of this space are investigated and used to relate explicit
+solutions of Einstein's equations with different physical properties.
+Particularly, the solutions describing the exterior fields of a dyon and a
+slowly rotating body are discussed.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 16:47:57 GMT""}]","2007-05-23"
+"hep-lat/9310010","Tsuneo Suzuki","Hiroshi Shiba and Tsuneo Suzuki","Monopole Condensation and Confinement in SU(2) QCD (1)","12 pages, KANAZAWA 93-09",,"10.1016/0920-5632(94)90339-5",,"hep-lat hep-ph",,"  An effective monopole action is derived from vacuum configurations after
+abelian projection in the maximally abelian gauge in $SU(2)$ QCD. Entropy
+dominance over energy of monopole loops is seen on the renormalized lattice
+with the spacing $b>b_c\simeq 5.2\times10^{-3} \Lambda_L^{-1}$ when the
+physical volume of the system is large enough. QCD confinement may be
+interpreted as the (dual) Meissner effect due to the monopole condensation.
+","[{""version"":""v1"",""created"":""Sat, 9 Oct 1993 12:40:10 GMT""}]","2009-10-22"
+"hep-lat/9310011","Tsuneo Suzuki","Hiroshi Shiba and Tsuneo Suzuki","Monopole Condensation and Confinement in SU(2) QCD (2)","11 pages, KANAZAWA 93-10",,,,"hep-lat hep-ph",,"  Monopole and photon contributions to Wilson loops are calculated using
+Monte-Carlo simulations of SU(2) QCD in the maximally abelian gauge. The string
+tensions of SU(2) QCD are well reproduced by extended monopole contributions
+alone.
+","[{""version"":""v1"",""created"":""Sat, 9 Oct 1993 12:41:38 GMT""},{""version"":""v2"",""created"":""Sun, 10 Oct 1993 04:59:55 GMT""}]","2008-02-03"
+"hep-ph/9310253","Edward Shuryak","Edward Shuryak (Physics Department, SUNY at Stony Brook, NY and ITP,
+  UCSB, Santa Barbara, CA)","Which chiral symmetry is restored in hot QCD?",,"Comments Nucl.Part.Phys. 21 (1994) 235-248",,,"hep-ph hep-lat",,"  We review the current status of the problem of chiral symmetry restoration,
+discussing an open question of whether at the $SU(N_f)_A$ restoration point
+$T=T_c$ the $U(1)_A$ chiral symmetry is or is not (approximately) restored. New
+lattice and instanton-based studies are considered, and some new calculations
+are suggested to clarify the issue. We also speculate on possible experimental
+manifestations of two possible scenarios.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 23:11:00 GMT""}]","2007-05-23"
+"hep-ph/9310254","Carl R. Schmidt","Alex Pomarol and Carl Schmidt","Energy Distribution of the Leptons in Top Decay to Charged Higgs","talk given at the Workshop on Physics at Current Accelerators and the
+  Supercollider, Argonne, Illinois, June, 1993, 5 pages (LATEX) + 3 figures
+  (not included but available on request) SLAC-PUB-6354, SCIPP 93/29",,,,"hep-ph",,"  We analyze the energy distribution of the leptons coming from the top decay
+$t\ra b\hc,\ bW^+\ra bl^+\nu$. The correlation between the lepton energy
+distribution and the top spin may be useful for distinguishing the $\hc$
+signature from the $W$ background. Such a correlation can also be useful for
+disentangling the two different $\hc \bar tb$ couplings and determining the
+experimental value of $\tan\beta$.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 23:13:00 GMT""}]","2009-09-25"
+"hep-ph/9310255","Choong Sun Kim","C.S. Kim (Yonsei University, Seoul, Korea)","Electroweak Discussion Section Summary","18 pages (1 Figure not included), YUMS 93-25/SNUTP 93-75",,,,"hep-ph",,"  I summarize our work of electroweak discussion section held at the 14th
+International Workshop on Weak Interactions and Neutrinos. We discussed about a
+few physics topics related to electroweak interactions, including $B$ and $K$
+physics and weak flavor physics.
+","[{""version"":""v1"",""created"":""Sat, 9 Oct 1993 03:30:42 GMT""}]","2009-09-25"
+"hep-ph/9310256",,"O.L.G. Peres, V. Pleitez and R. Zukanovich Funchal","Some consequences in weak processes of three generations mixing in the
+  leptonic sector","in revtex 3.0, 2 8 pages with 4 postscript figures (needs epsf.sty)
+  also available upon request; IFT-P.060/93 IFUSP/P-1074","Phys.Rev.D50:513-522,1994","10.1103/PhysRevD.50.513",,"hep-ph",,"  We investigate the sensitivity of some weak processes to a
+Cabibbo--Kobayashi--Maskawa mixing in the leptonic sector. Values for mixing
+angles and masses compatible with several experimental accelerator data were
+found. We discuss in this context neutrino oscillations, cosmological and
+astrophysical consequences as well.
+","[{""version"":""v1"",""created"":""Sat, 9 Oct 1993 14:59:00 GMT""}]","2008-11-26"
+"hep-th/9310054","Jens-Mund","J. Mund and R. Schrader","Hilbert Spaces for Nonrelativistic and Relativistic ""Free"" Plektons
+  (Particles with Braid Group Statistics)","26 pages, standard LaTeX, 3 figures on request. An error in the
+  appendix has been corrected, thanks to D.R.Grigore",,,"SFB 288 preprint No. 74","hep-th",,"  Using the theory of fibre bundles, we provide several equivalent intrinsic
+descriptions for the Hilbert spaces of $n$ ``free'' nonrelativistic and
+relativistic plektons in two space dimensions. These spaces carry a ray
+representation of the Galilei group and a unitary representation of the
+Poincar\'{e} group respectively. In the relativistic case we also discuss the
+situation where the braid group is replaced by the ribbon braid group.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 16:08:02 GMT""},{""version"":""v2"",""created"":""Thu, 3 Feb 1994 17:23:18 GMT""}]","2008-02-03"
+"math/9310212",,"Alessandro Andretta and John R. Steel","How to win some simple iteration games",,,,"Logic E-prints October 09, 1993","math.LO",,"  We introduce two new iteration games: the game G, which is a strengthening of
+the weak iteration game, and the game G+, which is somewhat stronger than G but
+weaker than the full iteration game of length omega_1.
+  For a countable M elementarily embeddable in some V_{eta}, we can show that
+II wins G(M,omega_1) and that I does not win the G+(M).
+","[{""version"":""v1"",""created"":""Sat, 9 Oct 1993 00:00:00 GMT""}]","2008-02-03"

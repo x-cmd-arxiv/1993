@@ -1,0 +1,173 @@
+"astro-ph/9307019",,"John Peacock (Royal Observatory Edinburgh)","The radio background: radio-loud galaxies at high and low redshifts","(review at the STScI meeting on Extragalactic Backgrounds) 20 pages,
+  plain TeX Edinburgh Astronomy Preprint 15/93. Paper figs on request",,,,"astro-ph",,"  The majority of this paper is devoted to discrete radio sources, and their
+consequences for cosmology. Three main issues are considered: (i) what makes a
+galaxy radio loud?; (ii) what do we know about how the population of radio-loud
+galaxies has changed with epoch?; and (iii) what can observations of
+high-redshift radio galaxies tell us about general questions of galaxy
+formation and evolution? The main conclusion is that radio galaxies are
+remarkably ordinary massive ellipticals. The high-redshift examples are
+generally old and red and do not make good candidates for primaeval galaxies.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 10:00:00 GMT""}]","2007-05-23"
+"astro-ph/9307020",,"Andrew R Liddle","The Inflationary Energy Scale","17 pages (plus three figures, available from the author as hard
+  copies only), standard LaTeX, SUSSEX-AST 93/7-2","Phys.Rev.D49:739-747,1994","10.1103/PhysRevD.49.739",,"astro-ph gr-qc",,"  The energy scale of inflation is of much interest, as it suggests the scale
+of grand unified physics and also governs whether cosmological events such as
+topological defect formation can occur after inflation. The COBE results are
+used to limit the energy scale of inflation at around 60 $e$-foldings from the
+end of inflation. An exact dynamical treatment based on the Hamilton-Jacobi
+equations is then used to translate this into limits on the energy scale at the
+end of inflation. General constraints are given, and then tighter constraints
+based on physically motivated assumptions regarding the allowed forms of
+density perturbation and gravitational wave spectra. These are also compared
+with the values of familiar models.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 10:38:00 GMT""}]","2010-11-01"
+"chao-dyn/9307003","Arul Lakshminarayan","A. Lakshminarayan (Dept. of Physics S.U.N.Y at Stony Brook) N.L.
+  Balazs (Dept. of Physics, S.U.N.Y at Stony Brook)","Relaxation and Localization in Interacting Quantum Maps","32 pages. LaTex file. 9 figures, not included. For figures send mail
+  to first author at 'arul@max.physics.sunysb.edu'",,"10.1007/BF02186844",,"chao-dyn nlin.CD",,"  We quantise and study several versions of finite multibaker maps. Classically
+these are exactly solvable K-systems with known exponential decay to global
+equilibrium. This is an attempt to construct simple models of relaxation in
+quantum systems. The effect of symmetries and localization on quantum transport
+is discussed.
+","[{""version"":""v1"",""created"":""Sun, 11 Jul 1993 22:58:38 GMT""}]","2009-10-22"
+"chao-dyn/9307004","Arul Lakshminarayan","A. Lakshminarayan (Dept. of Physics, S.U.N.Y at Stony Brook), N.L.
+  Balazs (Dept. of Physics, S.U.N.Y at Stony Brook)","The Classical and Quantum Mechanics of Lazy Baker Maps","27 pages, LaTex file. Figures not included, but available upon
+  request. To appear in Sept. issue of Annals of Physics",,"10.1006/aphy.1993.1073",,"chao-dyn nlin.CD",,"  We introduce and study the classical and quantum mechanics of certain non
+hyperbolic maps on the unit square. These maps are modifications of the usual
+baker's map and their behaviour ranges from chaotic motion on the whole measure
+to chaos on a set of measure zero. Thus we have called these maps ``lazy baker
+maps.'' The aim of introducing these maps is to provide the simplest models of
+systems with a mixed phase space, in which there are both regular and chaotic
+motions. We find that despite the obviously contrived nature of these maps they
+provide a good model for the study of the quantum mechanics of such systems. We
+notice the effect of a classically chaotic fractal set of measure zero on the
+corresponding quantum maps, which leads to a transition in the spectral
+statistics. Some periodic orbits belonging to this fractal set are seen to scar
+several eigenfunctions.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 00:06:55 GMT""}]","2009-10-22"
+"chao-dyn/9307005","Arul Lakshminarayan","A. Lakshminarayan (Dept. of Physics, S.U.N.Y at Stony Brook), N.L.
+  Balazs (Dept. of Physics, S.U.N.Y at Stony Brook)","On the Quantum Cat and Sawtooth Maps- Return to Generic Behaviour","10 pages LaTex. 6 figures not included. Please send for PostScript
+  files to first author at the e-mail address",,,,"chao-dyn nlin.CD",,"  The quantization of the continous cat maps on the torus has led to rather
+pathological quantum objects [6]. The non-generic behaviour of this model has
+led some to conclude that the Correspondence Principle fails in this case [2].
+In this note we introduce the quantum sawtooth models, since this is the
+natural family to which the cat maps belong. Thus, a simple propagator
+depending on a parameter is constructed which for integer values of the
+parameter becomes pathological quantum cat maps, while away from integer values
+we find a return to the generic behaviour of non-integrable quantum systems.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 15:57:03 GMT""}]","2008-02-03"
+"cond-mat/9307018","Enzo Granato","E. Granato and M.P. Nightingale","Chiral exponents of the square-lattice frustrated XY model: a Monte
+  Carlo transfer-matrix calculation","25 p. w fig. accep. Phys. Rev. B, INPE001","Phys. Rev. B48, 7438 (1993)","10.1103/PhysRevB.48.7438",,"cond-mat",,"  Thermal and chiral critical exponents of the fully frustrated XY model on a
+square-lattice are obtained from a finite-size scaling analysis of the free
+energy of chiral domain walls. Data were obtained by extensive Monte Carlo
+transfer matrix computations for infinite strips of widths up to $14$ lattice
+spacings. Two transfer matrices were implemented, one for each of the two
+principal lattice directions. The results of both are consistent, but the
+critical exponents differ significantly from the pure Ising values. This is in
+agreement with other recent Monte Carlo simulations. Our results also support
+the identification of the critical behavior of this model with that along the
+line of transitions of simultaneous ordering or becoming critical of Ising and
+planar rotor degrees of freedom in the XY-Ising model studied recently.
+","[{""version"":""v1"",""created"":""Sun, 11 Jul 1993 16:35:33 GMT""}]","2009-10-22"
+"cond-mat/9307019","Fabian Essler","Fabian H.L. Essler and Vladimir E. Korepin","Spectrum of Low-Lying Excitations in a Supersymmetric Extended Hubbard
+  Model","37 pages, uuencoded compressed postscript file","Int. J. Mod. Phys. B8, 3243 (1994)","10.1142/S0217979294001366",,"cond-mat",,"  We continue the study of the $u(2|2)$-supersymmetric extension of the Hubbard
+model in one dimension. We determine the excitation spectrum at zero
+temperature even in the sectors where the ground states are
+$u(2|2)$-descendants of Bethe states. The excitations include spinons, holons,
+electrons, localons (local electrons pairs, moving coherently through the
+lattice) and their bound states. The spectra are found to be very different for
+repulsive and attractive on-site interaction. We also study the thermodynamics
+of the model.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 02:34:36 GMT""}]","2015-06-25"
+"cond-mat/9307020","Peter Kostaedt","Peter Kostaedt and Mario Liu","Dissipation of the 3^He A-B Transition","13 pages, REVTeX, 2 figures, ITP-UH 13/93","Phys. Rev. Lett. 71 (1993) 3513","10.1103/PhysRevLett.71.3513",,"cond-mat",,"  A rigorous hydrodynamic theory of the A-B transition is presented. All
+dissipative processes are considered. At low interface velocities, those
+occurring on hydrodynamic length scales, not considered hitherto, are most
+probably the dominant ones.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 15:14:18 GMT""},{""version"":""v2"",""created"":""Wed, 21 Jul 1993 14:57:49 GMT""}]","2009-10-22"
+"gr-qc/9307011","Dadhich","Naresh Dadhich and L. K. Patel","On Singularity Free Spacetimes--II : mid Geodesic Completeness","11pages, Normal TeX",,,,"gr-qc",,"  We study the geodesics of the singularity free metric considered in the
+preceding Paper I and show that they are complete. This once again demonstrates
+the absence of singularity. The geodesic completeness is established in general
+without reference to any particular matter distribution. The metric is globally
+hyperbolic and causally stable. The question of inapplicability of the powerful
+singularity theorems in this case is discussed.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 15:19:22 GMT""}]","2007-05-23"
+"gr-qc/9307012","Dadhich","Naresh Dadhich, L. K. Patel and R. Tikekar","Singularity Free Spacetimes -- I :Metric and Fluid Models","18pages, Normal TeX",,,,"gr-qc",,"  We show that the metric for the singularity free family of fluid models [3]
+can be obtained by a simple and natural inhomogenisation and anisotropisation
+procedure from Friedman--Robertson--Walker metric with negative curvature. The
+metric is unique for cylindrically symmetric spacetime with metric potentials
+being separable functions of radial and time coordinates. It turns out that
+fluid models separate out into two classes, with $\rho \not= \mu p$ in general
+but $\rho = 3p$ in particular and $\rho = p$. It is shown that in both the
+cases radial heat flow can be incorporated without disturbing the singularity
+free character of the spacetime. Further by introducing massless scalar field
+it is possible to open out a narrow window for $\mu, 4 \geq \mu \geq 3$.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 15:10:47 GMT""}]","2007-05-23"
+"hep-ph/9307247","Lev Koyrakh","B. Blok (University of California, Santa Barbara), L. Koyrakh, M.
+  Shifman, A.I. Vainshtein (University of Minnesota)","Differential Distributions in Semileptonic Decays of the Heavy Flavors
+  in QCD","22 pages, 4 figures (postscript file is available from the authors),
+  plain LaTeX, NSF-ITP-93-68, TPI-MINN-93/33-T, UMN-TH-1208/93","Phys.Rev.D49:3356,1994; Erratum-ibid.D50:3572,1994;
+  Phys.Rev.D50:3572,1994","10.1103/PhysRevD.49.3356 10.1103/PhysRevD.50.3572",,"hep-ph",,"  Several references added, typos corrected.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 04:08:02 GMT""},{""version"":""v2"",""created"":""Thu, 15 Jul 1993 03:33:30 GMT""}]","2014-11-17"
+"hep-ph/9307248",,"V. Barone, M. Genovese, N.N. Nikolaev, E. Predazzi and B.G. Zakharov","Unitarization of Structure Functions at Large ${\bf 1/x}$","12 pages","Phys.Lett. B326 (1994) 161-167","10.1016/0370-2693(94)91208-4",,"hep-ph",,"  We discuss the effects of the $s$-channel unitarization on the $x$ and
+$Q^{2}$ dependence of structure functions. The unitarization is implemented at
+the level of photoabsorption cross sections by resorting to the light--cone
+wave functions of virtual photons and to the diagonalization property of the
+scattering matrix in a basis of Fock states of the photon with fixed transverse
+size. Triple pomeron effects are also explicitly taken into account. We find
+large unitarity corrections to the structure functions at $x < 10^{-2}$. The
+results are in very good agreement with the existing NMC and the preliminary
+HERA data.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 11:43:48 GMT""}]","2009-10-22"
+"hep-ph/9307249","Yasuhiro Okada","Yasuhiro Okada","Light Stop and the $b\rightarrow s\gamma$ Process","13 pages, 4 figures (not included), KEK-TH-365, KEK preprint 93-68","Phys.Lett. B315 (1993) 119-123","10.1016/0370-2693(93)90167-G",,"hep-ph",,"  A constraint from $b\rightarrow s\gamma$ process to the minimal
+supersymmetric standard model is derived in the light stop region where the
+coupling between the lighter stop and the $Z^0$ boson vanishes due to the
+left-right mixing of the stop states. It is pointed out that although some
+region in the parameter space is excluded from this process there remains a
+large parameter space where the amplitude of the $b\rightarrow s\gamma$ is
+suppressed due to partial cancellation between different diagrams. Stop as
+light as 20 GeV is still viable from the $b\rightarrow s\gamma$ constraint.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 12:01:54 GMT""}]","2009-10-22"
+"hep-ph/9307250",,"S. M. Troshin and N. E. Tyurin","Beyond the black disk limit","Latex, 5 pages, no figures, IHEP 93-53","Phys.Lett. B316 (1993) 175-177","10.1016/0370-2693(93)90675-8",,"hep-ph",,"  We consider consequences of violation of the black disk limit possibly
+revealed by the new CDF measurements of the total, elastic and diffractive
+cross--sections.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 12:51:58 GMT""}]","2009-10-22"
+"hep-ph/9307251","Frank Close","Frank Close","Hadrons and Glue at a Tau-Charm Factory","9 pages (4 figures not included) RAL-93-051",,,,"hep-ph",,"  I discuss the special opportunities that a Tau-Charm Factory offers for
+identifying gluonic excitations, hybrid charmonium and other exotic hadronic
+states. (Invited talk at TCF Workshop, Marbella, 1-6June)
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 15:35:00 GMT""}]","2007-05-23"
+"hep-ph/9307252",,"R. Alemany, J.J. Gomez-Cadenas, M.C. Gonzalez-Garcia and J.W.F. Valle","Searching for Exotic Tau Decays","CERN-PPE/93-49, MAD/PH/741, FTUV/92-588. 29 Pages in REVTeX. 13
+  Figures available upon request",,,,"hep-ph",,"  We discuss the potential of $\tau$-charm and B factories for the search of
+new physics through the study of rare $\tau$ decays. We consider decays that
+involve the violation of lepton flavour conservation. Such decays bear a close
+relationship to the physics of neutrino mass and the properties of the lepton
+sector of the electroweak theory.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 15:55:00 GMT""}]","2007-05-23"
+"hep-th/9307078",,"F.Vanderseypen","The Langevin equation on a cell complex","14 pages, LaTex, KUL-TF-93/22",,,,"hep-th",,"  We consider a cell-complex in an arbitrary Hausdorff space as a dynamical
+object that can be coupled to a field defined on the complex. The Langevin
+equation is then derived for this field. In other words, a noise-field is
+created resulting from the field/geometry interactions.
+","[{""version"":""v1"",""created"":""Sun, 11 Jul 1993 16:29:51 GMT""}]","2007-05-23"
+"hep-th/9307079","Andrew Strominger","Andrew Strominger","White Holes, Black Holes and Cpt in Two Dimensions","18 pages plus 4 figures in a separate uuencoded file","Phys.Rev.D48:5769-5777,1993","10.1103/PhysRevD.48.5769","NSF-ITP-93-92","hep-th gr-qc",,"  It is argued that a unitarity-violating but weakly CPT invariant
+superscattering matrix exists for leading-order large-$N$ dilaton gravity, if
+and only if one includes in the Hilbert space planckian ``thunderpop""
+excitations which create white holes. CPT apparently cannot be realized in a
+low-energy effective theory in which such states have been integrated out.
+Rules for computing the leading-large-$N$ superscattering are described in
+terms of quantum field theory on a single multiply-connected spacetime obtained
+by sewing the future (past) horizons of the original spacetime with the past
+(future) horizons of its CPT conjugate. Some difficulties which may arise in
+going beyond leading order in $1/N$ are briefly discussed.
+","[{""version"":""v1"",""created"":""Sun, 11 Jul 1993 19:13:20 GMT""}]","2009-09-17"
+"hep-th/9307080","Ken-ichiro Aoki","Kenichiro Aoki","Boson--fermion bound states in two dimensional QCD","5pp, 2 figs (as a separate file), TIT/HEP-230","Phys.Rev. D49 (1994) 573-574","10.1103/PhysRevD.49.573",,"hep-th",,"  We derive the boson--fermion bound state equation in a two dimensional gauge
+theory in the large--$\nc$ limit. We analyze the properties of this equation
+and in particular, find that the mass trajectory is linear with respect to the
+bound state level for the higher mass states.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 01:58:55 GMT""}]","2009-10-22"
+"hep-th/9307083",,"J. A. de Azc\'arraga and Demosthenes Ellinas","Complex analytic realizations for quantum algebras","18 pages","J.Math.Phys. 35 (1994) 1322-1333","10.1063/1.530591","FTUV/93-21,IFIC/93-09","hep-th math.QA",,"  A method for obtaining complex analytic realizations for a class of deformed
+algebras based on their respective deformation mappings and their ordinary
+coherent states is introduced. Explicit results of such realizations are
+provided for the cases of the $q$-oscillators ($q$-Weyl-Heisenberg algebra) and
+for the $su_{q}(2)$ and $su_{q}(1,1)$ algebras and their co-products. They are
+given in terms of a series in powers of ordinary derivative operators which act
+on the Bargmann-Hilbert space of functions endowed with the usual integration
+measure. In the $q\rightarrow 1$ limit these realizations reduce to the usual
+analytic Bargmann realizations for the three algebras.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 13:42:00 GMT""}]","2009-10-22"

@@ -1,0 +1,318 @@
+"astro-ph/9311049",,"D.E. Di Gregorio, A. Gattone, H. Huck, A.O. Macchiavelli, S. Gil, J.
+  Collar and F.T. Avignone III","Effects of Diurnal Modulation in Direct Cold Dark Matter Searches. the
+  Experiment in Sierra Grande","10 pp. + 10 figures RevTeX 3.0, 8.7kb, TAN-FNT-93-16",,,,"astro-ph",,"  Contains a summary, current status and prospects for the direct detection of
+cold dark matter using diurnal modulation effects as presented at the ELAF 93,
+Mar del Plata Argentina. The potential advantages of using the Earth as an
+absorber to produce diurnal modulation effects in cold dark matter searches are
+given along with some estimates of counting rates.
+","[{""version"":""v1"",""created"":""Thu, 18 Nov 1993 17:01:46 GMT""}]","2007-05-23"
+"astro-ph/9311050",,"R. J. Nemiroff (USRA/GMU/NASA), J. P. Norris (NASA/GSFC), C.
+  Kouveliotou (USRA/NASA), G. J. Fishman (NASA/MSFC), C. A. Meegan (NASA/MSFC),
+  and W. S. Paciesas (UAH/NASA)","Gamma-Ray Bursts are Time-Asymmetric","10 pages, Plain TeX (v 3.0), FAXed figures available upon request, in
+  press: ApJ","Astrophys.J. 423 (1994) 432","10.1086/173819",,"astro-ph",,"  A simple test for time-asymmetry is devised and carried out on the brightest
+gamma-ray bursts detected by the Burst and Transient Source Experiment (BATSE)
+on board the {\it Compton} Gamma Ray Observatory. We show evidence that
+individual bursts are time-asymmetric on all time scales tested, from a time
+scale shorter than that of pulses which compose GRBs to a time scale similar to
+a greater envelope that contains these pulses. We also find bursts which
+manifest significant asymmetry only on time scales comparable to the duration
+of burst, and bursts for which no clear asymmetry on any time scale is present.
+The sense of the asymmetry is that bursts and/or component structures rise in a
+shorter time than they decay. We also find that our whole sample of bursts
+taken together is time- asymmetric, in that there are significantly more bursts
+and pulses where the rise is more rapid than the decay, on all time scales
+tested and for all energy bands tested. When our whole GRB sample is binned at
+64-ms and integrated over all BATSE energies, the statistical significance is
+at the 6 $\sigma$ level. Models that predict time-symmetry are therefore
+excluded.
+","[{""version"":""v1"",""created"":""Thu, 18 Nov 1993 17:00:04 GMT""}]","2009-10-22"
+"astro-ph/9311051",,"A. Kashlinsky","Microwave backgropund anisotropies, large-scale structure and
+  cosmological parameters","10 pages, LaTEX file",,,,"astro-ph",,"  We review how the various large-scale data constrain cosmological parameters
+and, consequently, theories for the origin of large-scale structure in the
+Universe. We discuss the form of the power spectrum implied by the correlation
+data of galaxies and argue by comparing the velocity field implied by the
+distribution of light with the observed velocity flows that the bias parameter,
+$b$, is likely to be constant in the linear regime. This then allows one to
+estimate the density parameter, $\Omega$, and $b$ directly from the
+\underline{data} on $\xi(r)$ and the velocity fields. We show that it is
+consistent with low values of $\Omega^{0.6}/b$. We discuss the ways to
+normalise the optical data at $z\sim0$ directly to the COBE (or other microwave
+background) data. The data on high-$z$ \underline{galaxies} allows one to
+further constrain the shape of the \underline{primordial} power spectrum at
+scales which are non-linear today ($< 8h^{-1}$Mpc) and we discuss the
+consistency of the data with inflationary models normalised to the large-scale
+structure observations.
+","[{""version"":""v1"",""created"":""Thu, 18 Nov 1993 22:05:09 GMT""}]","2007-05-23"
+"astro-ph/9311052","David Weinberg","A. Babul, D. Weinberg, A. Dekel & J. Ostriker","Testing the Gravitational Instability Hypothesis?","plain tex, 34 pp; postscript version w/ 17 figures available by
+  anonymous ftp; to appear in ApJ; IAS preprint #93-67","Astrophys.J. 427 (1994) 1-24","10.1086/174119",,"astro-ph",,"  We challenge a widely accepted assumption of observational cosmology: that
+successful reconstruction of observed galaxy density fields from measured
+galaxy velocity fields (or vice versa), using the methods of gravitational
+instability theory, implies that the observed large-scale structures and
+large-scale flows were produced by the action of gravity. This assumption is
+false, in that there exist non-gravitational theories that pass the
+reconstruction tests and gravitational theories with certain forms of biased
+galaxy formation that fail them. Gravitational instability theory predicts
+specific correlations between large-scale velocity and mass density fields, but
+the same correlations arise in any model where (a) structures in the galaxy
+distribution grow from homogeneous initial conditions in a way that satisfies
+the continuity equation, and (b) the present-day velocity field is irrotational
+and proportional to the time-averaged velocity field. We demonstrate these
+assertions using analytical arguments and N-body simulations of gravitational
+and non-gravitational models. We also show examples of gravitational and
+non-gravitational models that {\it fail} reconstruction tests because galaxy
+formation is modulated (``biased'') in a way that violates the continuity
+equation. We discuss the relation between the value of $\Omega$ inferred from
+velocity-density comparisons and the true cosmological value.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 15:32:52 GMT""}]","2009-10-22"
+"chao-dyn/9311004","Ga'bor Vattay","Gabor Vattay (Niels Bohr Institute, Blegdamsvej 17, DK-2100 Copenhagen
+  \O, Denmark and E\""otv\""os University, M\'uzeum krt. 6 - 8, H-1088 Budapest,
+  Hungary)","An Entire Spectral Determinant for Semiclassical Quantization","8 pages, latex, no figure","Prog. Theor. Phys. Suppl. 116, 251 (1994)","10.1143/PTPS.116.251",,"chao-dyn nlin.CD",,"  We show that the eigenvalues of the first order partial differential equation
+derived by quasi-classical approximation of the Schr\""odinger equation can be
+computed from the trace of a classical operator. The derived trace formula is
+different from the Gutzwiller trace formula.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 12:19:08 GMT""}]","2009-10-22"
+"cond-mat/9311045","Subir Sachdev","A.V. Chubukov, T. Senthil, and S. Sachdev","Universal Magnetic Properties of Frustrated Quantum Antiferromagnets in
+  Two Dimensions","12 pages, REVTEX 3.0, Yale University preprint","Physical Review Letters 72, 2089 (1994)","10.1103/PhysRevLett.72.2089",,"cond-mat",,"  We present a theory of frustrated, two-dimensional, quantum antiferromagnets
+in the vicinity of a quantum transition from a non-collinear,
+magnetically-ordered ground state to a quantum-disordered phase. Using a
+sigma-model for bosonic, spin-1/2, spinon fields, we obtain universal scaling
+forms for a variety of observables. Our results are compared with numerical
+data on the spin-1/2 triangular antiferromagnet.
+","[{""version"":""v1"",""created"":""Thu, 18 Nov 1993 16:59:38 GMT""}]","2009-10-22"
+"cond-mat/9311046","Darla Sharp-Fitzpatrick","E. Br\'ezin, \'Ecole Normale Superieure, and A. Zee (Institute for
+  Theoretical Physics, UCSB)","Universal Spectral Correlation between Hamiltonians with Disorder","9 pages, Jnl.tex Version 0.3 (version taken from the bulletin board),
+  NSF-ITP-93-136",,"10.1016/0550-3213(94)90401-4",,"cond-mat",,"  We study the correlation between the energy spectra of two disordered
+Hamiltonians of the form $H_a=H_{0a}+s_{a}\varphi$ ($a=1,2$) with $H_{0a}$ and
+$\varphi$ drawn from random distributions. We calculate this correlation
+function explicitly and show that it has a simple universal form for a broad
+class of random distributions.
+","[{""version"":""v1"",""created"":""Thu, 18 Nov 1993 23:34:00 GMT""}]","2009-10-22"
+"cond-mat/9311047","Regis Melin","R. M\'elin, B. Dou\c{c}ot and P. Butaud","Breakdown of the Fermi Liquid picture in one dimensional fermion
+  systems: connection with the energy level statistics","22 pages, Latex",,"10.1051/jp1:1994173",,"cond-mat",,"  Using the adiabatic switching of interactions, we establish a condition for
+the existence of electronic quasiparticles in a Luttinger liquid. It involves a
+characteristic interaction strength proportional to the inverse square root of
+the system length. An investigation of the exact energy level separation
+probability distribution shows that this interaction scale also corresponds to
+a cross-over from the non interacting behaviour to a rather typical case for
+integrable systems, namely an exponential distribution. The level spacing
+statistics of a spin $1/2$, one branch Luttinger model are also analyzed, as
+well as the level statistics of a two coupled chain model.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 13:38:35 GMT""},{""version"":""v2"",""created"":""Tue, 23 Nov 1993 16:46:22 GMT""}]","2009-10-22"
+"hep-lat/9311023","Leonardo Cosmai","P. Cea and L. Cosmai","On the Meissner effect in SU(2) lattice gauge theory","3 pages, PostScript. Contribution to the LATTICE 93 Conference
+  (Dallas, U.S.A., September 1993) preprint BARI-TH-161/93","Nucl.Phys.Proc.Suppl. 34 (1994) 219-221","10.1016/0920-5632(94)90350-6",,"hep-lat hep-th",,"  We investigate the dual superconductor model of color confinement in SU(2)
+lattice gauge theory. We find that the transverse distribution of the
+longitudinal chromoelectric field between static quarks displays the dual
+Meissner effect. We also give evidence that the problem of color confinement
+could be approached in the framework of the 't~Hooft's Abelian projection.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 00:22:00 GMT""}]","2009-10-22"
+"hep-lat/9311024","Leonardo Cosmai","P. Cea and L. Cosmai","Exploring the Dynamics of Three-Dimensional Lattice Gauge Theories by
+  External Fields","3 pages, PostScript. Contribution to the LATTICE 93 Conference
+  (Dallas, U.S.A., September 1993) preprint BARI-TH-162/93","Nucl.Phys.Proc.Suppl. 34 (1994) 234-236","10.1016/0920-5632(94)90354-9",,"hep-lat hep-th",,"  We investigate the dynamics of three-dimensional lattice gauge theories by
+means of an external Abelian magnetic field. For the SU(2) lattice gauge theory
+we find evidence of the unstable modes.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 00:25:00 GMT""}]","2009-10-22"
+"hep-lat/9311027","Doug Toussaint","Khalil M. Bitar, R. Edwards, Steven Gottlieb, U. M. Heller, A. D.
+  Kennedy, J. B. Kogut, A. Krasnitz, W. Liu, Michael C. Ogilvie, R. L. Renken,
+  D. K. Sinclair, R. L. Sugar, D. Toussaint, K. C. Wang","Effects of spatial size, lattice doubling and source operator on the
+  hadron spectrum with dynamical staggered quarks","30 pages PostScript file","Phys.Rev. D49 (1994) 6026-6038","10.1103/PhysRevD.49.6026","ANL-HEP-PR-93-38, AZ-TH-93/20, FSU-SCRI-93-XX, IUHET--257,
+  UCSB-TH-93-27","hep-lat",,"  We have extended our previous study of the lattice QCD spectrum with 2
+flavors of staggered dynamical quarks at $6/g^2=5.6$ and $am_q=0.025$ and 0.01
+to larger lattices, with better statistics and with additional sources for the
+propagators. The additional sources allowed us to estimate the $\Delta$ mass
+and to measure the masses of all mesons whose operators are local in time.
+These mesons show good evidence for flavor symmetry restoration, except for the
+masses of the Goldstone and non-Goldstone pions. PCAC is observed in that
+$m_\pi^2 \propto m_q$, and $f_\pi$ is estimated. Use of undoubled lattices
+removes problems with the pion propagator found in our earlier work. Previously
+we found a large change in the nucleon mass at a quark mass of $am_q=0.01$ when
+we increased the spatial size from 12 to 16. No such effect is observed at the
+larger quark mass, $am_q=0.025$. Two kinds of wall source were used, and we
+have found difficulties in getting consistent results for the nucleon mass
+between the two sources.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 15:50:38 GMT""}]","2009-10-22"
+"hep-ph/9311311",,"L. McLerran","Recent Progress in Understanding Quark and Gluon Distribution Functions
+  for Large Nuclei at Small x","LATEX, 14pp, TPI-MINN-93/56-T, NUC-MINN-93/31-T, UMN-TH-1228/93",,,,"hep-ph",,"  I discuss the problem of computing the structure functions for very heavy
+nuclei at small Bjorken x. The approximations used in this description are
+physically motivated, and recent computations reviewed.
+","[{""version"":""v1"",""created"":""Thu, 18 Nov 1993 17:31:16 GMT""}]","2007-05-23"
+"hep-ph/9311312",,"Alon E. Faraggi","Z_2\times Z_2$ orbifold compactification as the origin of realistic free
+  fermionic models","IASSNS--HEP--93/77, 14 pages, uses phyzzx.tex","Phys.Lett.B326:62-68,1994","10.1016/0370-2693(94)91193-2",,"hep-ph hep-th",,"  I discuss the correspondence between realistic four dimensional free
+fermionic models and $Z_2\times Z_2$ orbifold compactification. %I illustrate
+this correspondence for one particular example. I discuss the properties of the
+$Z_2\times Z_2$ orbifold that are reflected in the realistic free fermionic
+models. I argue that the properties of the realistic free fermionic models
+arise due to the underlying $Z_2\times Z_2$ orbifold compactification with
+nontrivial background fields. I suggest that three generation is a natural
+outcome of $Z_2\times Z_2$ orbifold compactification with ``standard
+embedding'' and at the point in compactification space that corresponds to the
+free fermionic formulation. I discuss how quark flavor mixing is related to the
+compactification.
+","[{""version"":""v1"",""created"":""Thu, 18 Nov 1993 17:43:30 GMT""}]","2010-11-01"
+"hep-ph/9311313","Paolo Gambino","Alberto Sirlin","How Strong is the Evidence for Electroweak Corrections Beyond the
+  Running of $\alpha$?","8 pages (plain LaTeX)","Phys.Rev.Lett.72:1786-1789,1994","10.1103/PhysRevLett.72.1786",,"hep-ph",,"  The evidence for electroweak radiative corrections not contained in
+$\alpha(m_Z)$ is examined. At low energies there is very strong evidence in the
+analysis of the unitarity of the CKM matrix. At LEP and collider experiments
+the current direct signals are not strong, but there is substantial indirect
+evidence, which will likely become sharper when $m_t$ is determined. The
+advantage of using $(\Delta r)_{res}$ as a measure of these effects is
+emphasized. In order to improve the direct evidence, more accurate measurements
+of $m_W$ and the on--resonance asymmetries are indicated.
+","[{""version"":""v1"",""created"":""Thu, 18 Nov 1993 22:41:58 GMT""}]","2010-11-01"
+"hep-ph/9311314",,"Ugo Aglietti","Prediction of beauty particle masses with the heavy quark effective
+  theory (II)","8 pages, LaTex Version 2.09","Int. J. Mod. Phys. A10 (1995) 801-806","10.1142/S0217751X95000383","SISSA(ISAS)/176/93/EP","hep-ph",,"  The effective theory for heavy quarks has additional symmetries with respect
+to QCD, which relate charm and beauty hadron masses. Assuming the spectrum of
+charmed particles, we predicted in a previous work the masses of some beauty
+particles. The predictions of the Lambda_b mass, M(Lambda_b)=5630 MeV, and of
+the B_s mass, M(B_s)=5379 MeV, are in agreement with present experimental data.
+We continue this work using recent experimental data on charm hadron masses.
+The results are: M(Sigma_b)=5822+-6 MeV, M(Sigma_b*)-M(Sigma_b)=33+-3 MeV,
+M(Omega_b)=6080+-7 MeV, M(Omega_b*)-M(Omega_b)=32+-3 MeV, M(Lambda_b*)=5945+-3
+MeV, M(Lambda_b**)-M(Lambda_b*)=15+-1 MeV. When experimental data for beauty
+hadron masses are available, a comparison with the theoretical values allows a
+quantitative estimate of the corrections to the static theory, which contain
+informations on hadron dynamics at low energy.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 01:16:00 GMT""}]","2015-06-25"
+"hep-ph/9311315","Rajesh Ramchand Parwani","Rajesh R. Parwani","Dimensional Continuation of Gauge-Invariant Quantities in Yang-Mills
+  Theory","5 Latex pages; (Presented at the 3rd Thermal Fields Workshop at
+  Banff, Canada; August 1993); preprint T93/127",,,,"hep-ph",,"  Consideration of some perturbatively calculated gauge-invariant expectation
+values of local noncomposite operators in pure Yang-Mills theory indicates that
+those expectation values which are not dimension specific, and which are well
+defined near $D=4$ dimensions, have some {\it finite} limit as the evaluated
+expression is naively extrapolated from $D=4$ to $D=2$. If this finite limit is
+a generic feature for such quantities it would not only be quite remarkable but
+also of some utility : For example, one may then use it as a convenient
+necessary condition when checking gauge invariance. Some examples are discussed
+at nonzero temperature.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 15:17:01 GMT""}]","2007-05-23"
+"hep-th/9311108","Heinzl Thomas","T.Heinzl and E. Werner","Light-Front Quantisation as an Initial-Boundary Value Problem","26 pages (including figure), tex, figure in latex, TPR 93-3","Z.Phys. C62 (1994) 521-532","10.1007/BF01555913",,"hep-th",,"  In the light front quantisation scheme initial conditions are usually
+provided on a single lightlike hyperplane. This, however, is insufficient to
+yield a unique solution of the field equations. We investigate under which
+additional conditions the problem of solving the field equations becomes well
+posed. The consequences for quantisation are studied within a Hamiltonian
+formulation by using the method of Faddeev and Jackiw for dealing with
+first-order Lagrangians. For the prototype field theory of massive scalar
+fields in 1+1 dimensions, we find that initial conditions for fixed light cone
+time {\sl and} boundary conditions in the spatial variable are sufficient to
+yield a consistent commutator algebra. Data on a second lightlike hyperplane
+are not necessary. Hamiltonian and Euler-Lagrange equations of motion become
+equivalent; the description of the dynamics remains canonical and simple. In
+this way we justify the approach of discretised light cone quantisation.
+","[{""version"":""v1"",""created"":""Thu, 18 Nov 1993 18:34:30 GMT""}]","2009-10-22"
+"hep-th/9311109","Shahn Majid","Shahn Majid","Lie Algebras and Braided Geometry","19 pages (corrected title)",,,,"hep-th math.QA",,"  We show that every Lie algebra or superLie algebra has a canonical braiding
+on it, and that in terms of this its enveloping algebra appears as a flat space
+with braided-commuting coordinate functions. This also gives a new point of
+view about $q$-Minkowski space which arises in a similar way as the enveloping
+algebra of the braided Lie algebra $gl_{2,q}$. Our point of view fixes the
+signature of the metric on $q$-Minkowski space and hence also of ordinary
+Minkowski space at $q=1$. We also describe an abstract construction for
+left-invariant integration on any braided group.
+","[{""version"":""v1"",""created"":""Thu, 18 Nov 1993 18:05:08 GMT""},{""version"":""v2"",""created"":""Thu, 25 Nov 1993 17:05:19 GMT""},{""version"":""v3"",""created"":""Sun, 5 Dec 1993 13:12:55 GMT""}]","2008-02-03"
+"hep-th/9311110","Palo Kaupo","Kaupo Palo","Symplectic Geometry of Supersymmetry and Nonlinear Sigma Model","9 pages, UU-ITP 30/93","Phys.Lett. B321 (1994) 61-65","10.1016/0370-2693(94)90327-1",,"hep-th",,"  Recently it has been argued, that Poincar\'{e} supersymmetric field theories
+admit an underlying loop space hamiltonian (symplectic) structure. Here shall
+establish this at the level of a general $N=1$ supermultiplet. In particular,
+we advocate the use of a superloop space and explain the necessity of using
+nonconventional auxiliary fields. As an example we consider the nonlinear
+$\sigma$-model. Due to the quartic fermionic term, we conclude that the use of
+superloop space variables is necessary for the action to have a hamiltonian
+loop space interpretation.
+","[{""version"":""v1"",""created"":""Thu, 18 Nov 1993 18:54:14 GMT""},{""version"":""v2"",""created"":""Fri, 19 Nov 1993 20:09:37 GMT""}]","2009-10-22"
+"hep-th/9311111","Hsato","H.-T. Sato","Landau Levels and Quantum Group","(revised version), 10 pages, OS-GE-36-93","Mod.Phys.Lett. A9 (1994) 451-458","10.1142/S0217732394000472",,"hep-th",,"  We find a quantum group structure in two-dimensional motions of a
+nonrelativistic electron in a uniform magnetic field and in a periodic
+potential. The representation basis of the quantum algebra is composed of
+wavefunctions of the system. The quantum group symmetry commutes with the
+Hamiltonian and is relevant to the Landau level degeneracy. The deformation
+parameter $q$ of the quantum algebra turns out to be given by the fractional
+filling factor $\nu=1/m$ ($m$ odd integer).
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 02:43:19 GMT""}]","2015-06-26"
+"hep-th/9311112","Pavel Pyatov","A. P. Isaev and P. N. Pyatov","Covariant differential complexes on quantum linear groups","23 pages","J.Phys. A28 (1995) 2227-2246","10.1088/0305-4470/28/8/015","JINR preprint E2-93-416","hep-th math.QA",,"  We consider the possible covariant external algebra structures for Cartan's
+1-forms on GL_q(N) and SL_q(N). We base upon the following natural postulates:
+  1. the invariant 1-forms realize an adjoint representation of quantum group;
+  2. all monomials of these forms possess the unique ordering.
+  For the obtained external algebras we define the exterior derivative
+possessing the usual nilpotence condition, and the generally deformed version
+of Leibniz rules. The status of the known examples of GL_q(N)-differential
+calculi in the proposed classification scheme, and the problems of
+SL_q(N)-reduction are discussed.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 13:00:05 GMT""}]","2016-09-06"
+"hep-th/9311113","Dr. C. D. Fosco","C. D. Fosco and R. C. Trinchero","Symmetries in a Polynomial Formulation of the Non-Linear Sigma-Model","(11 pages)","Phys.Lett. B322 (1994) 97-102","10.1016/0370-2693(94)90496-0",,"hep-th",,"  We study the realisation of global symmetries in a polynomial formulation of
+the non-linear sigma-model. We show that there are global symmetries whose
+corresponding Noether currents are the topological currents in the usual
+formulation. The usual Noether currents associated with the internal symmetry
+group are reproduced, but part of them become non-local in terms of the
+dynamical variables of the polynomial formulation.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 11:03:01 GMT""}]","2009-10-22"
+"hep-th/9311114","Marco Tarlini","F. Bonechi, Enrico Celeghini, R. Giachetti, C. M. Pere\~na, E. Sorace,
+  M. Tarlini","Exponential mapping for non semisimple quantum groups","12 pages","J.Phys. A27 (1994) 1307-1316","10.1088/0305-4470/27/4/023",,"hep-th math.QA",,"  The concept of universal T matrix, recently introduced by Fronsdal and
+Galindo in the framework of quantum groups, is here discussed as a
+generalization of the exponential mapping. New examples related to
+inhomogeneous quantum groups of physical interest are developed, the duality
+calculations are explicitly presented and it is found that in some cases the
+universal T matrix, like for Lie groups, is expressed in terms of usual
+exponential series.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 12:03:01 GMT""},{""version"":""v2"",""created"":""Mon, 22 Nov 1993 13:05:10 GMT""},{""version"":""v3"",""created"":""Tue, 23 Nov 1993 13:04:57 GMT""}]","2009-10-22"
+"hep-th/9311116","Francesco Ravanini","E.Quattrini, F.Ravanini and R.Tateo","Integrable QFT(2) Encoded on Products of Dynkin Diagrams","17p (latex), Bologna preprint DFUB-93-11",,,,"hep-th",,"  A large class of Thermodynamic Bethe Ansatz equations governing the
+Renormalization Group evolution of the Casimir energy of the vacuum on the
+cylinder for an integrable two-dimensional field theory, can often be encoded
+on a tensor product of two graphs. We demonstrate here that in this case the
+two graphs can only be of $ADE$ type. We also give strong numerical evidence
+for a new large set of Dilogarithm sum Rules connected to $ADE\times ADE$ and a
+simple formula for the ultraviolet perturbing operator conformal dimensions
+only in terms of rank and Coxeter numbers of $ADE\times ADE$. We conclude with
+some remarks on the curious case $ADE\times D$. [Talk given by F.R. at the
+Cargese Workshop ""New Developments in String Theory, Conformal Models and
+Topological Field Theory"" (May 1993)]
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 11:26:48 GMT""}]","2007-05-23"
+"hep-th/9311117",,"I. Jack, D. R. T. Jones and J. Panvel","Six-loop divergences in the supersymmetric Kahler sigma model","13pp, uses phyzzx, LTH 287 (published in Int. J. Mod. Phys. A)","Int. J. Mod. Phys. A8 (1993) 2591-2603","10.1142/S0217751X93001041",,"hep-th",,"  The two-dimensional supersymmetric $\s$-model on a K\""ahler manifold has a
+non-vanishing $\b$-function at four loops, but the $\b$-function at five loops
+can be made to vanish by a specific choice of renormalisation scheme. We
+investigate whether this phenomenon persists at six loops, and conclude that it
+does not; there is a non-vanishing six-loop $\b$-function irrespective of
+renormalisation scheme ambiguities.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 12:32:30 GMT""}]","2015-06-26"
+"hep-th/9311118",,"P. Maslanka","The Quantum ISL(2,C) Group","pp. 3, amstex, rep.num.:IM UL 9/93","J.Phys. A27 (1994) 7099-7102","10.1088/0305-4470/27/21/024",,"hep-th",,"  Abstr.: The classical r-matrix implied by the quantum k-Poincare algebra of
+Lukierski,Nowicki and Ruegg is used to generate a Poisson structure on the
+ISL(2,C) group. A quantum deformation of the ISL(2,C) group ( on the Hopf
+algebra level ) is obtained by a trivial quantization.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 12:01:58 GMT""}]","2009-10-22"
+"hep-th/9311121",,"W. Kalau, N. A. Papadopoulos, J. Plass, J.-M. Warzecha","Differential Algebras in Non-Commutative Geometry","21 pages","J.Geom.Phys. 16 (1995) 149","10.1016/0393-0440(94)00025-Y","MZ-TH/93-28","hep-th math.QA",,"  We discuss the differential algebras used in Connes' approach to Yang-Mills
+theories with spontaneous symmetry breaking. These differential algebras
+generated by algebras of the form functions $\otimes$ matrix are shown to be
+skew tensorproducts of differential forms with a specific matrix algebra. For
+that we derive a general formula for differential algebras based on tensor
+products of algebras. The result is used to characterize differential algebras
+which appear in models with one symmetry breaking scale.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 12:47:26 GMT""},{""version"":""v2"",""created"":""Mon, 29 Nov 1993 11:13:15 GMT""}]","2009-10-22"
+"nucl-th/9311016","Dao-Chen Zheng","D.C. Zheng, L. Zamick and M. Fayache","Higher-shell corrections for systems with one and two valence nucleons:
+  A spin-orbit and tensor interaction analysis","17 text pages and 2 PostScript figures (available upon request).
+  Preprint No. unassigned",,,,"nucl-th",,"  It is shown that when higher-shell admixtures are included for systems with
+two valence particles or holes, there are effects which are quite different
+from those for one-valence-nucleon systems. For example, for nuclei with one
+valence particle or hole, there is no first-order correction for the magnetic
+dipole moment or the Gamow-Teller transition amplitude. However for nuclei with
+two valence particles or holes, one can get substantial corrections. The
+effects of the tensor and spin-orbit interactions in core renormalization are
+emphasized. We find that in 6Li, the spin-orbit interaction causes the
+quadrupole moment of the J=1+ ground state to be positive, but the tensor
+interaction causes it to be negative. The G-matrices derived from realistic
+interactions are employed in these calculations.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 00:45:57 GMT""}]","2009-09-25"
+"nucl-th/9311017","Rudi Wuensch","R.Wuensch, K.Goeke, Th.Meissner","On Size and Shape of the Average Meson Fields in the Semibosonized Nambu
+  & Jona-Lasinio Model","12 pages (LATEX), 3 figures available on request, report FZR 93-18","Z.Phys. A348 (1994) 111-116","10.1007/BF01289598",,"nucl-th",,"  We consider a two-flavor Nambu \& Jona-Lasinio model in Hartree approximation
+involving scalar-isoscalar and pseudoscalar-isovector quark-quark interactions.
+Average meson fields are defined by minimizing the effective Euklidean action.
+The fermionic part of the action, which contains the full Dirac sea, is
+regularized within Schwinger's proper-time scheme. The meson fields are
+restricted to the chiral circle and to hedgehog configurations. The only
+parameter of the model is the constituent quark mass $M$ which simultaneously
+controls the regularization. We evaluate meson and quark fields
+self-consistently in dependence on the constituent quark mass. It is shown that
+the self-consistent fields do practically not depend on the constituent quark
+mass. This allows us to define a properly parameterized reference field which
+for physically relevant constituent masses can be used as a good approximation
+to the exactly calculated one. The reference field is chosen to have correct
+behaviour for small and large radii. To test the agreement between
+self-consistent and reference fields we calculate several observables like
+nucleon energy, mean square radius, axial-vector constant and delta-nucleon
+mass splitting in dependence on the constituent quark mass. The agreement is
+found to be very well. Figures available on request.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 13:59:45 GMT""}]","2015-06-26"

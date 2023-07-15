@@ -1,0 +1,273 @@
+"astro-ph/9311063","v. a. Hughes","V.A.Hughes, and G.C.MacLeod","An Analysis of IRAS Identified Hii Regions and their Radio Properties","17 pages + 6 Figures (available on request by E-mail) uuencoded
+  compressed ps files, AST-9311-6",,"10.1086/174191",,"astro-ph",,"  To try and confirm the types of object in the list of 2298 potential HII
+regions identified by Hughes \& MacLeod from the IRAS Point Source Catalog, we
+selected a sample of 82 for observing at the VLA. We selected half with values
+of Y = log(F$_{25}$/F$_{12}$) $\geq$ 0.8, and for control purposes, half with
+values of 0.3 $\leq$ log(F$_{25}$/F$_{12}$) $\leq$ 0.5. 78 radio sources were
+detected, and of all the objects, 72\% had at least one associated radio
+source. Most of the radio sources had diameters of $<$ 3\arcsec, which was the
+limit to the angular resolving power of the survey. Those with larger values of
+Y had significantly larger values of peak radio, integrated radio, and
+100$\mu$m flux densities than those with smaller Y. Also, they generally had
+associated masers, and thus were most likely young compact HII regions
+containing star forming regions. Those with smaller Y tended not to have
+associated maser activity and are probably older HII regions, or stars with
+high IR and ionizing radiation, such as T-Tauri type stars. However, all 2298
+objects appear to have a strong galactic concentration. Some comparison is made
+with the selection of 1717 objects identified by Wood \& Churchwell as HII
+regions, but their selection criteria were somewhat different, and they
+actually form a subset of ours.
+","[{""version"":""v1"",""created"":""Fri, 26 Nov 1993 01:56:08 GMT""}]","2009-10-22"
+"astro-ph/9311064","Stacy Mc Gaugh","Stacy McGaugh","Oxygen Abundances in Low Surface Brightness Disk Galaxies","19 pages, uuencoded postscript with figures and tables, 280K also
+  available by ftp @ftp.ast.cam.ac.uk in /pub/ssm/abund.uu, Accepted for
+  publication in the Astrophysical Journal, CAP 30-9348y58b2t7b315","Astrophys.J. 426 (1994) 135","10.1086/174049",,"astro-ph",,"  The oxygen abundances in the \HII regions of a sample of low surface
+brightness (LSB) disk galaxies are presented. In general, LSB galaxies are
+found to be metal poor ($Z < {1 \over 3} Z\solar$). Indeed, some LSB galaxies
+rival the lowest abundance extragalactic objects known. These low metallicities
+indicate that LSB galaxies evolve slowly, forming relatively few stars over a
+Hubble time.
+  The low metallicities of LSB galaxies occur even though many are comparable
+in size and mass to the prominent spirals which define the Hubble sequence. As
+well as being low in surface brightness, these galaxies tend to be isolated.
+This suggests that surface mass density and environment are more relevant to
+galaxy evolution than gross size.
+  Despite the low surface brightness of the disks, massive ($M > 60 M\solar$)
+stars are inferred to be present and no abnormality of the IMF is indicated.
+Many low excitation \HII regions exist at low metallicity in LSB galaxies, and
+the ionization parameter is not tightly correlated with metallicity. However,
+there does seem to be a significant envelope of maximum ionization at a given
+metallicity.
+","[{""version"":""v1"",""created"":""Thu, 25 Nov 1993 19:00:00 GMT""}]","2009-10-22"
+"astro-ph/9311065","Simon Morris","Simon L. Morris and Sidney van den Bergh","Lyman Alpha Absorption and Tidal Debris","6 pages, uuencodes compressed postscript, Accepted for publication in
+  ApJ",,"10.1086/174176",,"astro-ph",,"  It is suggested that a significant fraction of the low column-density
+absorption features seen in the spectra of quasars are produced in
+pressure-confined tidal debris, that was built up in small groups and clusters
+of galaxies over a Hubble time. We show that the space-density and
+cross-section of tidal tails in groups of galaxies are large enough that they
+could constitute a major source of the low redshift Ly$\alpha$ absorption
+features that are associated with galaxies. The space-density of groups within
+10 Mpc of our galaxy is found to be 2.4 $\times 10^{-3}$ Mpc$^{-3}$, which is
+close to the $\sim 6 \times 10^{-3}$ Mpc$^{-3}$ space-density calculated for
+Ly$\alpha$ absorbers, assuming they have a 1 Mpc radius. Other observational
+constraints on the properties of Ly$\alpha$ absorber such as their velocity
+dispersion, correlation properties, dimensions and abundances, are shown to be
+consistent with this hypothesis.
+","[{""version"":""v1"",""created"":""Thu, 25 Nov 1993 19:56:29 GMT""}]","2009-10-22"
+"astro-ph/9311066",,"F. Bernardeau","The Nonlinear Evolution of Rare Events","43 pages in Plain TeX, 8 postscript figures available upon request,
+  CITA 93/14, Astrophysical Journal (in press) May 10th, 1994 issue","Astrophys.J. 427 (1994) 51","10.1086/174121",,"astro-ph",,"  In this paper I consider the nonlinear evolution of a rare density
+fluctuation in a random density field with Gaussian fluctuations, and I
+rigorously show that it follows the spherical collapse dynamics applied to its
+mean initial profile. This result is valid for any cosmological model and is
+independent of the shape of the power spectrum. In the early stages of the
+dynamics the density contrast of the fluctuation is seen to follow with a good
+accuracy the form $$\delta=(1-\delta_L/1.5)^{-1.5}-1,$$ where $\delta_L$ is the
+linearly extrapolated overdensity. I then investigate the validity domain of
+the rare event approximation in terms of the parameter $\nu=\delta_L/\sigma$
+giving the initial overdensity scaled by the rms fluctuation at the same mass
+scale, and find that it depends critically on the shape of the power spectrum.
+When the power law index $n$ is lower than $-1$ the departure from the
+spherical collapse is expected to be small, at least in the early stages of the
+dynamics, and even for moderate values of $\nu$ ($\vert\nu\vert\ge 2$).
+However, for $n\ge -1$ and whatever the value of $\nu$, the dynamics seems to
+be dominated by the small--scale fluctuations and the subsequent evolution of
+the peak may not be necessarily correlated to its initial overdensity. I
+discuss the implications of these results for the nonlinear dynamics and the
+formation of astrophysical objects.
+","[{""version"":""v1"",""created"":""Thu, 25 Nov 1993 21:54:50 GMT""}]","2009-10-22"
+"cond-mat/9311058","Alison Chaiken","A. Chaiken, L.J. Terminello, J. Wong, G.L. Doll and T. Sato","X-ray Absorption Study of Pulsed Laser Deposited Boron Nitride Films","7 pages, LaTeX 2.09. Figures not included, but available by fax. Send
+  email to chaiken@csmgee.llnl.gov",,,,"cond-mat",,"  B and N K-edge x-ray absorption spectroscopy measurements have been performed
+on three BN thin films grown on Si substrates using ion-assisted pulsed laser
+deposition. Comparison of the films' spectra to those of several single-phase
+BN powder standards shows that the films consist primarily of $sp^2$ bonds.
+Other features in the films' spectra suggest the presence of secondary phases,
+possibly cubic or rhombohedral BN. Films grown at higher deposition rates and
+higher ion-beam voltages are found to be more disordered, in agreement with
+previous work.
+","[{""version"":""v1"",""created"":""Fri, 26 Nov 1993 07:57:01 GMT""}]","2007-05-23"
+"cond-mat/9311059","Tapio Ala-Nissila","O. Ven\""al\""ainen, T. Ala-Nissila, and K. Kaski","Morphological Changes of Small Viscous Droplets under Spreading","12 pages, LaTeX, Helsinki University preprint HU-TFT-93-39, to appear
+  in Europhys. Letters (figs. by request from ala@phcu.helsinki.fi)",,"10.1209/0295-5075/25/2/008",,"cond-mat",,"  Dynamics of spreading of viscous non - volatile fluid droplets on surfaces is
+modelled using a solid - on - solid model, which is studied with Monte Carlo
+simulations. Tendency for dynamical layering and surface attraction are in part
+embedded into the effective dynamics of the model. This allows a description of
+the spreading process with a single parameter, which strongly influences the
+morphology of the droplets. The results qualitatively reproduce many
+experimentally observed density profiles for polymeric fluids, including
+rounded droplet shapes, and dynamical layering. PACS numbers: 68.10Gw,
+05.70.Ln, 61.20.Ja.
+","[{""version"":""v1"",""created"":""Fri, 26 Nov 1993 09:46:18 GMT""}]","2009-10-22"
+"funct-an/9311002","Alber","Ya. I. Alber","Generalized Projection Operators in Banach Spaces: Properties and
+  Applications","23 pages, LaTex-file",,,,"funct-an math.FA",,"  This paper is an account (without proofs) of the results of our work ""Metric
+and Generalized Projection Operators in Banach Spaces: Properties and
+Applications"", funct-an/9311001. The Section 9 establishing a connection
+between variational inequalities and Wienner-Hopf equations in Banach spaces by
+means of metric and generalized projection operators, is added.
+","[{""version"":""v1"",""created"":""Thu, 25 Nov 1993 17:56:02 GMT""}]","2008-02-03"
+"funct-an/9311003","Alber","Ya. I. Alber and A. I. Notik","On Some Estimates for Projection Operator in Banach Space","9 pages, LaTex-file",,,,"funct-an math.FA",,"  Previously unknown estimates of uniform continuity of projection operators in
+Banach space have been obtained. They can be used in the investigations of
+approximation methods, in particular, the method of quasisolutions, methods of
+regularization and penalty functions, for solving nonlinear problems on exact
+and peturbed sets.
+","[{""version"":""v1"",""created"":""Thu, 25 Nov 1993 18:24:23 GMT""}]","2008-02-03"
+"funct-an/9311004","Braverman Elena","A. Anokhin, L. Berezansky and E. Braverman","Exponential Stability of Linear Delay Impulsive Differential Equations","29 pp., LaTex-file",,,,"funct-an math.DS math.FA",,"  For ordinary differential equations and functional differential equations the
+following result is well known. Suppose any solution is bounded on the
+half-line for each bounded on the half-line right-hand side. Then under certain
+conditions the equations is exponentially stable.
+  We prove the same result for a delay differential equation
+  $$ \dot{x}(t) + \sum_{i=1}^k A_i (t)x[h_i(t)] = f(t), $$
+  with impulses
+  $$ x(\tau_i + 0) = B_i x(\tau_i - 0) $$
+  at fixed moments $\tau_i$. The proof is based on a solution representation
+formula obtained here.
+","[{""version"":""v1"",""created"":""Fri, 26 Nov 1993 07:13:59 GMT""}]","2008-02-03"
+"gr-qc/9311033","Henri Waelbroeck","Henri Waelbroeck","B^F Theory and Flat Spacetimes","21 pp., Mexico Preprint ICN-UNAM-93-12","Commun.Math.Phys. 170 (1995) 63-78","10.1007/BF02099439",,"gr-qc",,"  We propose a reduced constrained Hamiltonian formalism for the exactly
+soluble $B \wedge F$ theory of flat connections and closed two-forms over
+manifolds with topology $\Sigma^3 \times (0,1)$. The reduced phase space
+variables are the holonomies of a flat connection for loops which form a basis
+of the first homotopy group $\pi_1(\Sigma^3)$, and elements of the second
+cohomology group of $\Sigma^3$ with value in the Lie algebra $L(G)$. When
+$G=SO(3,1)$, and if the two-form can be expressed as $B= e\wedge e$, for some
+vierbein field $e$, then the variables represent a flat spacetime. This is not
+always possible: We show that the solutions of the theory generally represent
+spacetimes with ``global torsion''. We describe the dynamical evolution of
+spacetimes with and without global torsion, and classify the flat spacetimes
+which admit a locally homogeneous foliation, following Thurston's
+classification of geometric structures.
+","[{""version"":""v1"",""created"":""Fri, 26 Nov 1993 15:31:39 GMT""}]","2015-06-25"
+"hep-lat/9311041","Kazuyuki Kanaya","Y. Iwasaki, K. Kanaya, S. Sakai and T. Yoshi\'e","Quantum chromodynamics with various number of flavors","3 pages with 5 PS figures, LaTeX (espcrc2.sty required), UTHEP-266","Nucl.Phys.Proc.Suppl. 34 (1994) 314-316","10.1016/0920-5632(94)90377-8",,"hep-lat",,"  The phase structure of QCD with various number of flavors is studied for
+Wilson quarks. For the case of $N_F=3$ we find that the finite temperature
+deconfining transition is of first order in the chiral limit on an $N_t=4$
+lattice. Together with our previous results that the deconfining transition in
+the chiral limit is continuous for $N_F=2$ and is first order for $N_F=6$, the
+order of the transition is found to be consistent with a prediction of
+universality. The case of $SU(2)$ QCD is also studied in the strong coupling
+limit and the phase structure is found to be quite similar to the case of
+$SU(3)$: There exists a critical number of flavors $N_F^*$ and for $N_F \geq
+N_F^*$ the confinement is broken even in the strong coupling limit for light
+quarks. $N_F^*=3$ corresponding to 7 for $SU(3)$.
+","[{""version"":""v1"",""created"":""Fri, 26 Nov 1993 08:02:56 GMT""}]","2016-08-14"
+"hep-lat/9311042","Arjan Hulsebos","Arjan Hulsebos","The Behavior of Vortex Loops in the 3-d XY Model","3 pages Write-up for Lattice'93, held in Dallas, TX. Comes as a shell
+  archive, to be executed with /bin/sh, and contains the TeX-file, 6 PostScript
+  figures, 1 sty-file and 1 TeX-input file","Nucl.Phys.Proc.Suppl. 34 (1994) 695-697","10.1016/0920-5632(94)90486-3","Liverpool preprint LTH 323","hep-lat",,"  The behavior of vortex loops is studied in the 3-d XY model. It is found that
+the phase transtiton of the 3-d XY model is caused by percolating vortex loops.
+","[{""version"":""v1"",""created"":""Fri, 26 Nov 1993 09:23:44 GMT""}]","2009-10-22"
+"hep-lat/9311043","H. Wittig","Hartmut Wittig, UKQCD Collaboration","Quenched Heavy-Light Decay Constants","postscript file, 3 pages, to appear in the Proceedings of LATTICE
+  '93, Dallas, Texas, 12-16 Oct. 1993, Southampton Preprint SHEP 93/94-03","Nucl.Phys.Proc.Suppl.34:462-464,1994","10.1016/0920-5632(94)90417-0",,"hep-lat",,"  We present decay constants from a quenched simulation using both propagating
+quarks and the static theory at $\beta=6.2$ on $24^3\times48$. The results
+using propagating quarks are used to test scaling laws predicted by the heavy
+quark symmetry.
+","[{""version"":""v1"",""created"":""Fri, 26 Nov 1993 10:59:37 GMT""}]","2010-11-01"
+"hep-lat/9311044","Xiang Qian Luo","V. Azcoiti, G. Di Carlo, A.F. Grillo, V. Laliena and X.Q. Luo","New Method for Dynamical Fermions and Chiral-Symmetry Breaking","3 pages, DFTUZ 93/20, to appear in the Proceedings of Lattice 93,
+  Dallas","Nucl.Phys.Proc.Suppl. 34 (1994) 750-752","10.1016/0920-5632(94)90502-9",,"hep-lat",,"  The reasons for the feasibility of the Microcanonical Fermionic Average
+($MFA$) approach to lattice gauge theory with dynamical fermions are discussed.
+We then present a new exact algorithm, which is free from systematic errors and
+convergent even in the chiral limit.
+","[{""version"":""v1"",""created"":""Fri, 26 Nov 1993 13:48:28 GMT""}]","2009-10-22"
+"hep-ph/9311364","Guerin Francoise","F.Guerin","The Retarded-Advanced basis in the Real Time formalism","6 pages ; Latex",,,,"hep-ph",,"  A review of the properties of this alternate basis is presented. To appear in
+the proceedings of the 3rd Workshop on Thermal Field Theory, Banff, August
+1993.
+","[{""version"":""v1"",""created"":""Thu, 25 Nov 1993 17:43:22 GMT""}]","2007-05-23"
+"hep-ph/9311365","Stefano Forte","Mauro Anselmino and Stefano Forte","An Instanton-Induced Contribution to the Decay of the Eta_c into P-Pbar","plain TeX with harvmac (b mode); 15 pages, 1 figure (included as a
+  plain uncompressed postscript file); DFTT 73/93","Phys.Lett. B323 (1994) 71-77","10.1016/0370-2693(94)90458-8",,"hep-ph",,"  We compute the decay rate for the process $\eta_c\to p\bar p$ using an
+effective helicity-flipping proton-antiproton-gluon vertex which incorporates
+nonperturbative chiral symmetry breaking effects induced by instantons. We fix
+the strength of the vertex by requiring it to account for the screening of the
+proton's axial charge observed in deep-inelastic scattering, and we estimate
+the size of the instanton effects by assuming them to depend linearly on the
+instanton density. We find that, despite a large suppression, the
+instanton-induced process occurs with a sizable rate comparable to the observed
+one, whereas the process is forbidden in perturbative QCD and not understood
+using standard methods.
+","[{""version"":""v1"",""created"":""Thu, 25 Nov 1993 20:13:02 GMT""}]","2009-10-22"
+"hep-ph/9311366","Yasui","Jiro Kodaira, Yoshiaki Yasui and Ken Sasaki","The Mass of the Lightest Supersymmetric Higgs Boson beyond the Leading
+  Logarithm Approximation","17 pages (2 figures not included)","Phys.Rev. D50 (1994) 7035-7041","10.1103/PhysRevD.50.7035",,"hep-ph",,"  We examine the radiative corrections to the mass of the lightest Higgs boson
+in the minimal supersymmetric extension of the standard model. We use the
+renormalization-group improved effective potential which includes the
+next-to-leading-order contributions. We find that, contrary to the result of
+Espinosa and Quir\'os, the higher-order corrections to the lightest Higgs boson
+mass are non-negligible, adding $3-11$ GeV ($3-9$ GeV) to the result in the
+leading logarithm approximation for the range of top quark mass $100 {\rm GeV}
+< m_t < 200 {\rm GeV}$ and for the supersymmetric breaking scale $M_{\rm SUSY}
+= 1 {\rm TeV}$ ($M_{\rm SUSY} = 10 {\rm TeV}$). Also we find that our result is
+stable under the change of the renormalization parameter $t$.
+","[{""version"":""v1"",""created"":""Fri, 26 Nov 1993 03:51:37 GMT""}]","2009-10-22"
+"hep-ph/9311367",,"G. Giudice and M. Shaposhnikov","Strong Sphalerons and Electroweak Baryogenesis","CERN-TH.7080/93","Phys.Lett. B326 (1994) 118-124","10.1016/0370-2693(94)91202-5",,"hep-ph",,"  We analyze the spontaneous baryogenesis and charge transport mechanisms
+suggested by Cohen, Kaplan and Nelson for baryon asymmetry generation in
+extended versions of electroweak theory. We find that accounting for
+non-perturbative chirality-breaking transitions due to strong sphalerons
+reduces the baryonic asymmetry by the factor $(m_t/\pi T)^2$ or $\alpha_W$,
+provided those processes are in thermal equilibrium.
+","[{""version"":""v1"",""created"":""Fri, 26 Nov 1993 15:02:11 GMT""}]","2009-10-22"
+"hep-th/9311150",,"V. Karimipour","Representations and Q-Boson Realization of the Algebra of Functions on
+  the Quantum Group GLq(N)","20 PAGES",,,,"hep-th",,"  We present a detailed study of the representations of the algebra of
+functions on the quantum group $ GL_q(n) $. A q-analouge of the root system is
+constructed for this algebra which is then used to determine explicit matrix
+representations of the generators of this algebra. At the end a q-boson
+realization of the generators of $ GL_q(n) $ is given.
+","[{""version"":""v1"",""created"":""Thu, 25 Nov 1993 18:23:01 GMT""}]","2007-05-23"
+"hep-th/9311155","Dr John W. Barrett","John W. Barrett and Bruce W. Westbury","Invariants of Piecewise-Linear 3-Manifolds","30 pages, with postscript figures. Manuscript slightly revised to
+  version of 24 June 1994, and TeX standardised to eliminate the use of
+  non-standard macros or fonts","Trans.Amer.Math.Soc. 348 (1996) 3997-4022",,,"hep-th math.QA",,"  In this paper we develop a theory for constructing an invariant of closed
+oriented 3-manifolds, given a certain type of Hopf algebra. Examples are given
+by a quantised enveloping algebra of a semisimple Lie algebra, or by a
+semisimple involutory Hopf algebra. The invariant is defined by a state sum
+model on a triangulation. In some cases, the invariant is the partition
+function of a topological quantum field theory.
+","[{""version"":""v1"",""created"":""Thu, 25 Nov 1993 16:05:45 GMT""},{""version"":""v2"",""created"":""Mon, 7 Aug 1995 17:54:41 GMT""},{""version"":""v3"",""created"":""Tue, 8 Aug 1995 10:07:43 GMT""}]","2008-02-03"
+"hep-th/9311156","Petr Horava","Petr Horava","Topological Strings and QCD in Two Dimensions","16 pages, EFI-93-66",,,,"hep-th",,"  I present a new class of topological string theories, and discuss them in two
+dimensions as candidates for the string description of large-$N$ QCD. The
+starting point is a new class of topological sigma models, whose path integral
+is localized to the moduli space of harmonic maps from the worldsheet to the
+target. The Lagrangian is of fourth order in worldsheet derivatives. After
+gauging worldsheet diffeomorphisms in this ``harmonic topological sigma
+model,'' we obtain a topological string theory dominated by minimal-area maps.
+The bosonic part of this ``topological rigid string'' Lagrangian coincides with
+the Lagrangian proposed by Polyakov for the QCD string in higher dimensions.
+(talk given at the Cargese conference on ``Recent Developments in String
+Theory, CFT and Topological Field Theory'' (May 1993))
+","[{""version"":""v1"",""created"":""Thu, 25 Nov 1993 18:36:28 GMT""}]","2007-05-23"
+"hep-th/9311157","Fiorenzo Bastianelli","Fiorenzo Bastianelli","A Locally Supersymmetric Action for the Bosonic String","7 pages, NBI-93-69","Phys.Lett. B322 (1994) 340-343","10.1016/0370-2693(94)91162-2",,"hep-th",,"  Recently Berkovits and Vafa have shown that the bosonic string can be viewed
+as the fermionic string propagating in a particular background. Such a
+background is described by a somewhat unusual $N=1$ superconformal system. By
+coupling it to $N=1$ supergravity I construct a local supersymmetric action for
+the bosonic string.
+","[{""version"":""v1"",""created"":""Fri, 26 Nov 1993 02:45:57 GMT""}]","2009-10-22"
+"hep-th/9311158","Kraus","Elisabeth Kraus","The structure of the invariant charge in massive theories with one
+  coupling","35 pages (1 figure available upon request), Plain TeX, BUTP 93-26 (1
+  more macro included)","Annals Phys. 240 (1995) 367-399","10.1006/aphy.1995.1049",,"hep-th",,"  Invariance under finite renormalization group (RG) transformations is used to
+structure the invariant charge in models with one coupling in the 4 lowest
+orders of perturbation theory. In every order there starts a RG-invariant,
+which is uniquely continued to higher orders. Whereas in massless models the
+RG-invariants are power series in logarithms, there is no such requirement in a
+massive model. Only, when one applies the Callan-Symanzik (CS) equation of the
+respective theories, the high-energy behavior of the RG-invariants is
+restricted. In models, where the CS-equation has the same form as the
+RG-equation, the massless limit is reached smoothly, i.e. the beta-functions
+are constants in the asymptotic limit and the RG-functions starting the new
+invariant tend to logarithms. On the other hand in the spontaneously broken
+models with fermions the CS-equation contains a beta-function of a physical
+mass. As a consequence the beta-functions depend on the normalization point
+also in the asymptotic region and a mass independent limit does not exist
+anymore.
+","[{""version"":""v1"",""created"":""Fri, 26 Nov 1993 11:17:33 GMT""},{""version"":""v2"",""created"":""Tue, 30 Nov 1993 11:42:50 GMT""}]","2009-10-22"
+"nucl-th/9311033",,"M.M. Sharma, G.A. Lalazissis, W. Hillebrandt, and P.Ring (Max Planck
+  Institut of Astrophysics, and Technical University, Munich)","Shell Effects in Nuclei Near Neutron Drip","11 pages (Revtex) and 3 figures (avilabale upon request)","Phys.Rev.Lett. 72 (1994) 1431-1434","10.1103/PhysRevLett.72.1431","MPA 758 (October 1993)","nucl-th",,"  Shell effects in nuclei close to the neutron-drip lines have been
+investigated. It has been demonstrated in the relativistic mean-field theory
+that nuclei very far from stability manifest the shell effects strongly. This
+behaviour is in accord with the predictions of nuclear masses in the
+finite-range droplet model including shell corrections. As a consequence we
+find a large neutron halo in nuclei near the neutron-drip line. The shell
+effects predicted in the existing Skyrme mean-field theory in comparison are
+significantly weaker than those of the other approaches.
+","[{""version"":""v1"",""created"":""Thu, 25 Nov 1993 20:45:19 GMT""}]","2009-10-22"
+"patt-sol/9311007","Jean-Pierre Eckmann","F.J. Elmer (Institut f\""ur Physik, Universit\""at Basel, Basel,
+  Switzerland), J.-P. Eckmann, G. Hartsleben (D\'ept. de Physique Th\'eorique,
+  Universit\'e de Gen\`eve, Gen\`eve, Switzerland )","Dual Fronts Propagating into an Unstable State","19 pages, Postscript, A4",,"10.1088/0951-7715/7/4/011",,"patt-sol nlin.PS",,"  The interface between an unstable state and a stable state usually develops a
+single confined front travelling with constant velocity into the unstable
+state. Recently, the splitting of such an interface into {\em two} fronts
+propagating with {\em different} velocities was observed numerically in a
+magnetic system. The intermediate state is unstable and grows linearly in time.
+We first establish rigorously the existence of this phenomenon, called ``dual
+front,'' for a class of structurally unstable one-component models. Then we use
+this insight to explain dual fronts for a generic two-component
+reaction-diffusion system, and for the magnetic system.
+","[{""version"":""v1"",""created"":""Fri, 26 Nov 1993 11:49:46 GMT""}]","2009-10-22"

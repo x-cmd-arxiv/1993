@@ -1,0 +1,108 @@
+"alg-geom/9309005","Emilia Mezzetti","Emilia Mezzetti","Differential-geometric methods for the lifting problem and linear
+  systems on plane curves","19 pages, AmS-TeX 2.1, report 2",,,,"alg-geom math.AG",,"  Let $X$ be an integral projective variety of codimension two, degree $d$ and
+dimension $r$ and $Y$ be its general hyperplane section. The problem of lifting
+generators of minimal degree $\sigma$ from the homogeneous ideal of $Y$ to the
+homogeneous ideal of $X$ is studied. A conjecture is given in terms of $d$, $r$
+and $\sigma$; it is proved in the cases $r=1,2,3$. A description is given of
+linear systems on smooth plane curves whose dimension is almost maximal.
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 12:20:02 GMT""}]","2008-02-03"
+"astro-ph/9309034","George Rhee","Anatoly Klypin and George Rhee","The Zero-Point of the Cluster-Cluster Correlation Function: A Key Test
+  of Cosmological Power Spectra","16 pages, tex, UNLV/93/32",,"10.1086/174252",,"astro-ph",,"  We propose the zero-point of the cluster-cluster correlation function as a
+sensitive test for the shape of the power spectrum of initial fluctuations. It
+is now possible to go beyond the power law description to measure the point at
+which the correlation function becomes zero. Four independent measurements
+indicate that the zero point, $r_0$, should be in the range (40-60)$h^{-1}$Mpc.
+The large value of $r_0$ at which the zero-point occurs rules out conventional
+CDM models independently of the assumed amplitude. Models with $\Omega < 0.25$
+should be rejected because they predict too large $r_0$. If the age of the
+Universe is assumed to be larger than 15 Gyr, models with either $\Omega<0.5$
+or $h> 0.55$ are rejected. We present the results of numerical simulations of
+clusters in an $\Omega=1$ cosmological model with a mixture of cold plus hot
+dark matter (CHDM). The correlation function we determined for the simulated
+clusters has a zero-point, $r_0=55h^{-1}$Mpc that accurately matches the zero
+point of the observed function.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 18:08:07 GMT""}]","2009-10-22"
+"cond-mat/9309035","Erik Sorensen","M. Wallin, E. Sorensen, S. M. Girvin, A. P. Young","The superconductor-insulator transition in 2D dirty boson systems","Revtex 3.0, 54 pages, 17 figures included, UBCTP-93-017",,"10.1103/PhysRevB.49.12115",,"cond-mat",,"  Universal properties of the zero temperature superconductor-insulator
+transition in two-dimensional amorphous films are studied by extensive Monte
+Carlo simulations of bosons in a disordered medium. We report results for both
+short-range and long-range Coulomb interactions for several different points in
+parameter space. In all cases we observe a transition from a superconducting
+phase to an insulating Bose glass phase. {}From finite-size scaling of our
+Monte Carlo data we determine the universal conductivity $\sigma^*$ and the
+critical exponents at the transition. The result $\sigma^* = (0.55 \pm 0.06)
+(2e)^2/h$ for bosons with long-range Coulomb interaction is roughly consistent
+with experiments reported so far. We also find $\sigma^* = (0.14 \pm 0.03)
+(2e)^2/h$ for bosons with short-range interactions.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 20:34:00 GMT""}]","2009-10-22"
+"hep-ph/9309312","Marc de Montigny","M. De Montigny (McGill Univ.) and M. Masip (Univ. of Florida)","Discrete Gauge Symmetries in Supersymmetric Grand Unified Models","20 pages, plain TeX, UFIFT-HEP-93-11","Phys.Rev. D49 (1994) 3734-3740","10.1103/PhysRevD.49.3734",,"hep-ph",,"  We investigate the presence of discrete gauge symmetries in Grand Unification
+models based in $SO(10)$ and $E_6$. These models include {\it flipped} and {\it
+unflipped} $SU(5)$, $SU(4)\!\times\! SU(2)_L\!\times\! SU(2)_R$,
+$SU(3)_C\!\times\! SU(3)_L\!\times\! SU(3)_R$, and $SU(6)\!\times\! SU(2)$.
+Using the Dynkin formalism we find the $U(1)$ subalgebras contained in the
+unified groups, give an expression for the Higgs fields that preserve each
+discrete symmetry, and determine the low-energy matter content implied by
+chirality. We discuss two $Z_2$ and three $Z_3$ nonequivalent cases. Among the
+possibilities found, only the usual $Z_2$ matter parity (R-parity) of
+supersymmetric extensions is consistent with a minimal matter content with no
+right- handed neutrinos, extra Higgs doublets, or nonstandard {\it down}-type
+quarks.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 20:11:52 GMT""}]","2009-10-22"
+"hep-ph/9309313",,"Ernest Ma","New Supersymmetric Electroweak Gauge Model with Natural Baryon-Number
+  Conservation","10 pages, UCRHEP-T115, MAD/PH/792","Phys.Lett. B322 (1994) 363-367","10.1016/0370-2693(94)91166-5",,"hep-ph",,"  Baryon number (B) is automatically conserved in the standard SU(2) X U(1)
+electroweak gauge model, but not in its supersymmetric extension where it must
+be imposed as an extra condition. This undesirable feature is avoided in the
+conventional left-right supersymmetric extension, but then flavor-changing
+neutral currents (FCNC) are not naturally suppressed. A new version is proposed
+with automatic B conservation as well as FCNC suppression (except for u quarks
+through scalar exchange).
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 15:17:48 GMT""}]","2009-10-22"
+"hep-th/9309124","Petr Horava","Petr Horava","Equivariant Topological Sigma Models","39 pages, 6 figures (available upon request); pure LaTeX file. [[The
+  paper was originally published as Prague preprint PRA-HEP-90/18 in December
+  1990. As the LaTeX file is still in demand, this is the original version with
+  just some minor changes and misprint corrections; a Note has been added to
+  update the state of the art.]]","Nucl.Phys. B418 (1994) 571-602","10.1016/0550-3213(94)90531-2",,"hep-th alg-geom math.AG",,"  We identify and examine a generalization of topological sigma models suitable
+for coupling to topological open strings. The targets are Kahler manifolds with
+a real structure, i.e. with an involution acting as a complex conjugation,
+compatible with the Kahler metric. These models satisfy axioms of what might be
+called ``equivariant topological quantum field theory,'' generalizing the
+axioms of topological field theory as given by Atiyah. Observables of the
+equivariant topological sigma models correspond to cohomological classes in an
+equivariant cohomology theory of the targets. Their correlation functions can
+be computed, leading to intersection theory on instanton moduli spaces with a
+natural real structure. An equivariant $CP^1\times CP^1$ model is discussed in
+detail, and solved explicitly. Finally, we discuss the equivariant formulation
+of topological gravity on surfaces of unoriented open and closed string theory,
+and find a $Z_2$ anomaly explaining some problems with the formulation of
+topological open string theory.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 16:44:46 GMT""}]","2009-10-22"
+"hep-th/9309125","Chris Pope","C.N. Pope","W-Strings 93","13 pages, Plain TeX, CTP TAMU-55/93",,"10.1142/9789814447072_0011",,"hep-th",,"  We present a review of the status of $W$ string theories, their physical
+spectra, and their interactions. (Based on review talks given at the Trieste
+Spring Workshop, and the Strings 93 meeting at Berkeley, May 1993.)
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 04:37:03 GMT""}]","2016-11-03"
+"hep-th/9309126","Keith R. Dienes","Keith R. Dienes and Jean-Rene Cudell","Conformal Invariance and Degrees of Freedom in the QCD String","13 pages (Standard LaTeX); --> replaced version emphasizes new
+  results, and agrees with version to appear in Physical Review Letters (Jan
+  1994)","Phys.Rev.Lett. 72 (1994) 187-190","10.1103/PhysRevLett.72.187",,"hep-th hep-ph",,"  We demonstrate that the Hagedorn-like growth of the number of observed meson
+states can be used to constrain the degrees of freedom of the underlying
+effective QCD string. We find that the temperature relevant for such string
+theories is not given by the usual Hagedorn value $T_H\approx 160$ MeV, but is
+considerably higher. This resolves an apparent conflict with the results from a
+static quark-potential analysis, and suggests that conformal invariance and
+modular invariance are indeed reflected in the hadronic spectrum. We also find
+that the $D_\perp=2$ scalar string is in excellent agreement with data.
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 03:27:00 GMT""},{""version"":""v2"",""created"":""Wed, 19 Jan 1994 06:58:12 GMT""}]","2009-10-22"
+"hep-th/9309127",,"J.S.Dowker","A note on Polyakov's nonlocal form of the effective action","4 pages, Plain TeX,MUTP/93/22","Class.Quant.Grav.11:L7-L10,1994","10.1088/0264-9381/11/1/002",,"hep-th",,"  A technical point regarding the invariance of Polyakov's nonlocal form of the
+effective action under uniform rescalings is briefly addressed.
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 11:03:42 GMT""}]","2010-04-06"
+"nucl-th/9309024","Csoto Attila","Attila Csoto and Daniel Baye","Microscopic description of the beta delayed deuteron emission from
+  \bbox{^6}He","LATEX with REVTEX, Submitted to Phys. Rev. C, 11 pages, 3 figures
+  (not included) are available upon request. ATOMKI-93/5","Phys.Rev.C49:818-823,1994","10.1103/PhysRevC.49.818",,"nucl-th",,"  The beta delayed deuteron emission from $^6$He is studied in a dynamical
+microscopic cluster model. This model gives a reasonably good description for
+all the subsystems of $^6$He and $^6$Li in a coherent way, without any free
+parameter. The beta decay transition probability to the $^6$Li ground state is
+underestimated by a few percents. The theoretical beta delayed deuteron
+spectrum is close to experiment but it is also underestimated by about a factor
+1.7. We argue that, in spite of their different magnitudes, both
+underestimations might have a common origin. The model confirms that the
+neutron halo part of the $^6$He wave function plays a crucial role in quenching
+the beta decay toward the $\alpha$ + d channel.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 23:34:28 GMT""}]","2008-11-26"

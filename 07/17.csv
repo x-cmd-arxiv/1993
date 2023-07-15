@@ -1,0 +1,93 @@
+"astro-ph/9307027","Xiangdong Shi","X. Shi, D. N. Schramm and B. D. Fields","Constraints on Neutrino Oscillations from Big Bang Nucleosynethesis","23 pages, main text in plain tex, 2 tables in LATEX, 4 figures sent
+  by authors upon request, accepted by Phys. Rev. D","Phys.Rev. D48 (1993) 2563-2572","10.1103/PhysRevD.48.2563",,"astro-ph",,"  We discuss in detail the effect of neutrino oscillations in Big Bang
+nucleosynthesis, between active and sterile neutrinos, as well as between
+active and active neutrinos. We calculate the constraints on mixings between
+active and sterile neutrinos from the present observation of the primordial
+helium abundance and discuss the potential implications on various
+astrophysical and cosmological problems of such oscillations. In particular, we
+show that large angle sterile neutrino mixing seems to be excluded as a MSW
+solution to the solar neutrino situation or a solution to the atmospheric
+neutrino mixing hinted at in some underground experiments. We show how with
+this constraint, the next generation of solar neutrino experiments should be
+able to determine the resolution of the solar neutrino problem. It is also
+shown how sterile neutrinos remain a viable dark matter candidate.
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 21:03:34 GMT""}]","2009-10-22"
+"chao-dyn/9307006","Riccardo Mannella","M.I. Dykman (Department of Physics, Stanford University, USA), D.G.
+  Luchinsky (VNIIMS, Andreevskaya nab 2, 117965 Moscow, Russia), R. Mannella
+  (Dipartimento di Fisica, Universita' di Pisa, Italy), P.V.E. McClintock
+  (School of Physics and Material, Lancaster University, UK), S.M. Soskin
+  (Institute of Semiconductor Physics, Kiev, Ukraine), N.D. Stein (School of
+  Physics and Material, Lancaster University, UK) and N.G. Stocks (Department
+  of Engineering, Warwick University, Coventry, UK)","Stochastic Resonance","9 pages, no special macro. Figures request to PVE McClintock",,,,"chao-dyn nlin.CD",,"  Stochastic resonance (SR) - a counter-intuitive phenomenon in which the
+signal due to a weak periodic force in a nonlinear system can be {\it enhanced}
+by the addition of external noise - is reviewed. A theoretical approach based
+on linear response theory (LRT) is described. It is pointed out that, although
+the LRT theory of SR is by definition restricted to the small signal limit, it
+possesses substantial advantages in terms of simplicity, generality and
+predictive power. The application of LRT to overdamped motion in a bistable
+potential, the most commonly studied form of SR, is outlined. Two new forms of
+SR, predicted on the basis of LRT and subsequently observed in analogue
+electronic experiments, are described.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1993 06:48:53 GMT""}]","2008-02-03"
+"cond-mat/9307032","Akira Oguri","A.Oguri, T.Asahta, and S.Maekawa","Gutzwiller wavefunction in the three-band Hubbard model: A variational
+  Monte Carlo study","18 pages (RevTeX), 8 figures (postscript) appended, for remaining 5
+  figures contact a40954a@nucc.cc.nagoya-u.ac.jp",,"10.1103/PhysRevB.49.6880",,"cond-mat",,"  The Gutzwiller wave function for the three-band Hubbard model on a two
+dimensional CuO$_2$ plane is studied by using the variational Monte Carlo (VMC)
+method in the limit $U_d \to \infty$, where $U_d$ is the Coulomb repulsion
+between holes on a Cu site. The VMC results for the energy and the fraction of
+$d$-holes are compared with those of the Rice-Ueda type Gutzwiller
+approximation (GA). The difference between the VMC and the GA results are most
+pronounced at half-filling, and away from half-filling the two results agree
+well in both the hole-doped and the electron-doped cases. The doping dependence
+of the momentum distribution function is also studied.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1993 09:53:33 GMT""}]","2009-10-22"
+"hep-ph/9307286","Masoud Mohazzab","Masoud Mohazzab (Brown)","Cusp Annihilation on Ordinary Cosmic Strings","8 pages, uses phyzzx, BROWN-HET-912","Int. J. Mod. Phys. D3 (1994) 493-498","10.1142/S0218271894000654",,"hep-ph astro-ph",,"  The order of magnitude of energy emission from cusps to light bosons on
+ordinary cosmic strings is calculated perturbatively. The analysis is
+applicable to both closed string loops and long cosmic strings. The
+perturbative result obtained here is much less than what is found by
+non-perturbative approximations.
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 16:03:04 GMT""}]","2009-10-22"
+"hep-ph/9307288","Patrick O'Donnell","Patrick J. O'Donnell and Humphrey K.K. Tung","Exact Relations for Heavy-Light Quark Systems","11 pages, UTPT-93-16",,,,"hep-ph",,"  We derive general relations among hadronic form factors involving one heavy
+meson $b\bar{q}$ and another, not necessarily heavy, meson $Q\bar{q}$. The
+relations are valid to all orders of mass corrections of $m_Q$ .
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 20:51:33 GMT""}]","2007-05-23"
+"hep-ph/9307289",,"P.Lipari (INFN sezione di Roma)","TeV Muons in Hadronic Showers","standard latex, 17 pages + 16 figures (not included available on
+  request); preprint 956, Dipartimento di Fisica Universita' di Roma ""La
+  Sapienza"", and INFN sezione di Roma","Astropart.Phys.1:399-416,1993","10.1016/0927-6505(93)90006-Y",,"hep-ph",,"  {}From the study of the multiple muon events in deep underground detectors,
+it is possible to extract information about the spectrum and composition of the
+primary cosmic rays. In this work the number of TeV muons produced by a primary
+cosmic ray of a given energy and zenith angle is computed using analytic and
+montecarlo methods, for a family of simplified models as description of the
+properties of hadronic interactions. The effects of the uncertainties in our
+knowledge of the hadronic cross sections in the calculation of TeV muons are
+discussed.
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 22:16:23 GMT""}]","2010-11-01"
+"hep-ph/9307290",,"P.Blasi, P.Colangelo, G.Nardulli AND N.Paver","Phenomenology of $B_s$ Decays","19 pages, 2 figures (not included) available upon request, LaTex,
+  BARI-TH/93-139, UTS-DFT-93-14","Phys.Rev. D49 (1994) 238-246","10.1103/PhysRevD.49.238",,"hep-ph",,"  Using the QCD sum rules technique we study several aspects of the
+phenomenology of the b-flavoured strange meson $B_s^0$. In particular, we
+evaluate the mass of the particle, the leptonic constant and the form factors
+of the decays $\overline {B_s^0} \to D^{+}_s \ell^- \bar\nu$, $\overline
+{B_s^0} \to D^{*+}_s \ell^- \bar\nu$, $\overline {B_s^0} \to K^{*+} \ell^-
+\bar\nu$. We also calculate, in the factorization approximation, a number of
+two-body non leptonic $\overline {B_s^0}$ decays.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1993 09:59:00 GMT""}]","2009-10-22"
+"hep-th/9307110","Yaroslav P. Pugay","Ya.P.Pugay","Notes on $WGL_n$-Algebras and Quantum Miura Transformation","Landau-tmp-4-93, 15 pages, Tex (vanilla.sty)","Int. J. Mod. Phys. A8 (1993) 5023-5039","10.1142/S0217751X93001971",,"hep-th",,"  We start from the quantum Miura transformation [7] for the $W$-algebra
+associated with $GL(n)$ group and find an evident formula for quantum
+L-operator as well as for the action of $W_l$ currents (l=1,..,n) on elements
+of the completely degenerated n-dimensional representation. Quantum formulae
+are obtained through the deformation of the pseudodifferential symbols. This
+deformation is independent of $n$ and preserves Adler's trace. Our main
+instrument of the proof is the notation of pseudodifferential symbol with right
+action which has no counterpart in classical theory.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1993 13:29:07 GMT""}]","2015-06-26"
+"nucl-th/9307019",,"V. Yu. Dobretsov, V. D. Efros and Bin Shao","Study of the Three-Nucleon (e,e') Longitudinal Response Function with a
+  New Approach","7 pages, LATeX, 2 figures (postscript files), IAE-5600/2",,,,"nucl-th",,"  A new method for studying the many-body response functions is elaborated and
+first applied to the $^3$He longitudinal response. An integral transform of the
+response function is calculated from the bound-state-type equations for several
+versions of the N-N force. The equations are solved with the help of the
+hyperspherical expansion. The final-state interaction is completely taken into
+account. The results are compared with the integral transform of the
+experimental response function for 250 MeV/c$\leq q \leq 500$ MeV/c. The
+difference amounts to 20-25\% with the experimental response substantially
+exceeding the theoretical one in the low-energy region.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1993 11:59:48 GMT""}]","2007-05-23"

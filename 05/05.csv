@@ -1,0 +1,126 @@
+"cond-mat/9305002",,"A.A. Aligia","One Dimensional Oxygen Ordering in YBa2Cu3O(7-delta)","13 pages,Revtex,3 figures available upon request but can be plotted
+  using simple analytical functions,CNEA-CAB 92/042",,"10.1103/PhysRevB.47.15308",,"cond-mat",,"  A model consisting of oxygen-occupied and -vacant chains is considered, with
+repulsive first and second nearest-neighbor interactions V1 and V2,
+respectively. The statistical mechanics and the diffraction spectrum of the
+model is solved exactly and analytically with the only assumption V1 >> V2. At
+temperatures T ~ V1 only a broad maximum at (1/2,0,0) is present, while for
+ABS(delta - 1/2) > 1/14 at low enough T, the peak splits into two. The simple
+expression for the diffraction intensity obtained for T << V1 represents in a
+more compact form previous results of Khachaturyan and Morris[1],extends them
+to all delta and T/V2 and leads to a good agreement with experiment. [1]
+A.G.Khachaturyan and J.W.Morris, Jr., Phys.Rev.Lett. 64,76(1990)
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 19:38:00 GMT""}]","2009-10-22"
+"cond-mat/9305003","Harald Puhl","K. B. Lauritsen, H. Puhl and H.-J. Tillemans","Performance of Random Lattice Algorithms","12 pages (without figures), LaTeX, HLRZ-Preprint 30/93","Int.J.Mod.Phys. C5 (1994) 909-922","10.1142/S0129183194001045",,"cond-mat hep-lat",,"  We have implemented different algorithms for generating Poissonian and
+vectorizable random lattices. The random lattices fulfil the Voronoi/Delaunay
+construction. We measure the performance of our algorithms for the two types of
+random lattices and find that the average computation time is proportional to
+the number of points on the lattice.
+","[{""version"":""v1"",""created"":""Wed, 5 May 1993 13:20:34 GMT""}]","2015-06-25"
+"gr-qc/9305004","Geza Ful{\o}p","Ingemar Bengtsson","Form Connections","9 pages, G\""oteborg, ITP 93-9",,,,"gr-qc hep-th",,"  Riemannian geometry in four dimensions naturally leads to an SL(3) connection
+that annihilates a basis for self-dual two-forms. Einstein's equations may be
+written in terms of an SO(3) connection, with SO(3) chosen as an appropriate
+subgroup of SL(3). We show how a set of ""neighbours"" of Einstein's equations
+arises because the subgroup may be chosen in different ways. An explicit
+example of a non-Einstein metric obtained in this way is given. Some remarks on
+three dimensional space-times are made.
+","[{""version"":""v1"",""created"":""Wed, 5 May 1993 11:52:58 GMT""}]","2007-05-23"
+"hep-lat/9305006",,"Sourendu Gupta, A. Irbaeck and M. Ohlsson","Finite-Size Scaling at Phase Coexistence","preprint HLRZ 27/93 and LU TP 93-6","Nucl.Phys. B409 (1993) 663-684","10.1016/0550-3213(93)90545-Z",,"hep-lat cond-mat",,"  {}From a finite-size scaling (FSS) theory of cumulants of the order parameter
+at phase coexistence points, we reconstruct the scaling of the moments.
+Assuming that the cumulants allow a reconstruction of the free energy density
+no better than as an asymptotic expansion, we find that FSS for moments of low
+order is still complete. We suggest ways of using this theory for the analysis
+of numerical simulations. We test these methods numerically through the scaling
+of cumulants and moments of the magnetization in the low-temperature phase of
+the two-dimensional Ising model. (LaTeX file; ps figures included as shar file)
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 22:17:48 GMT""}]","2009-10-22"
+"hep-ph/9305210",,"L. Lavoura (Carnegie-Mellon University)","Comment on SU(16) grand unification","5 latex pages, 2 tables, no figures","Phys.Rev. D49 (1994) 575-578","10.1103/PhysRevD.49.575",,"hep-ph",,"  In a recent paper on SU(16) grand unification, because of the presence of
+intermediate-energy gauge groups containing products of U(1) factors which are
+not orthogonal among themselves, the renormalization-group treatment has a few
+small errors. I correct it. I emphasize that one should not switch gauge
+couplings at the various thresholds. It is easier, and it avoids errors, to use
+throughout the gauge couplings of the standard model, and compute at each
+threshold, in the usual way, the extra contributions to the beta functions from
+the extra non-decoupled fields. I also point out that the SU(16) grand
+unification theory, due to the large number of scalars present in it, is not
+asymptotically free. It becomes a strong-coupling theory at energies only
+slightly larger than the unification scale.
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 19:31:33 GMT""}]","2009-10-22"
+"hep-ph/9305211","Qiping Xu","Q.P. Xu and A.N. Kamal","Chiral symmetry and many-body nonleptonic decays of heavy hadrons","16, Alberta Thy--18--93",,,,"hep-ph",,"  We suggest that, similar to the many applications of chiral effective
+Lagrangian made recently to semileptonic decays of heavy hadrons involving
+Goldstone bosons, chiral symmetry can also be applied to many-body nonleptonic
+decays of heavy hadrons. As examples we establish the chiral effective
+Hamiltonian for some typical many-body nonleptonic decays of bottom hadrons. We
+discuss the lowest-order contributions coming from such a Hamiltonian. We
+emphasize that wide applications of this method are possible.
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 20:54:42 GMT""}]","2007-05-23"
+"hep-ph/9305212","Marc Bellon","M. Bellon and B.Machet","The Standard Model of Leptons as a Purely Vectorial Theory","10 pages. Latex, 8 postscript figures included. We have corrected 2
+  (cancelling) sign misprints, and made explicit that we also recover the usual
+  couplings of the U(1) gauge field B. The conclusions are unchanged. PAR-LPTHE
+  93/18","Phys.Lett. B313 (1993) 141-148","10.1016/0370-2693(93)91203-Y",,"hep-ph",,"  We propose a way to reconcile the Standard Model of leptons with a purely
+vectorial theory. The observed neutrino is predicted to be massless. The
+unobservability of its partner and the $V-A$ structure of the weak currents are
+given the same origin.
+","[{""version"":""v1"",""created"":""Wed, 5 May 1993 13:55:14 GMT""},{""version"":""v2"",""created"":""Mon, 24 May 1993 12:23:27 GMT""}]","2009-10-22"
+"hep-ph/9305213","Terry Elliott","T. Elliott","Bounding the Higgs Boson Mass in the Next-to-Minimal Supersymmetric
+  Standard Model","6 pages, LaTex, SHEP 92/93-19. Contribution to SUSY-93 Workshop
+  Proceedings, Boston, U.S.A., March 1993",,,,"hep-ph",,"  We discuss the upper bound on the lightest CP-even Higgs boson mass in the
+next-to-minimal supersymmetric standard model within the framework of a low
+energy renormalisation group analysis. We find $m_h$ < 146 GeV for $m_t$ = 90
+GeV, decreasing to $m_h$ < 123 GeV for $m_t$ = 180 GeV.
+","[{""version"":""v1"",""created"":""Wed, 5 May 1993 13:32:50 GMT""}]","2007-05-23"
+"hep-th/9305013","Ezra Getzler","Ezra Getzler (MIT)","Two-dimensional topological gravity and equivariant cohomology","18 pages","Commun.Math.Phys. 163 (1994) 473-489","10.1007/BF02101459",,"hep-th math.QA",,"  In this paper, we examine the analogy between topological string theory and
+equivariant cohomology. We also show that the equivariant cohomology of a
+topological conformal field theory carries a certain algebraic structure, which
+we call a gravity algebra. (Error on page 9 corrected: BRS current contains
+total derivatives.)
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 22:57:05 GMT""},{""version"":""v2"",""created"":""Fri, 10 Sep 1993 15:53:05 GMT""}]","2009-10-22"
+"hep-th/9305014","Edwin Langmann","Edwin Langmann","Cocycles for Boson and Fermion Bogoliubov Transformations","23 pages, UBC preprint (August 92)","J.Math.Phys.35:96-112,1994","10.1063/1.530744",,"hep-th",,"  Unitarily implementable Bogoliubov transformations for charged, relativistic
+bos\-ons and fermions are discussed, and explicit formulas for the 2-cocycles
+appearing in the group product of their implementers are derived. In the
+fermion case this provides a simple field theoretic derivation of the
+well-known cocycle of the group of unitary Hilbert space operators modeled on
+the Hilbert Schmidt class and closely related to the loop groups. In the boson
+case the cocycle is obtained for a similar group of pseudo-unitary (symplectic)
+operators. I also derive explcite formulas for the phases of one-parameter
+groups of implementers and, more generally, families of implementers which are
+unitary propagators with parameter dependent generators.
+","[{""version"":""v1"",""created"":""Wed, 5 May 1993 03:54:00 GMT""}]","2010-11-01"
+"hep-th/9305015","Marc Bellon","M. Bellon and S. Boukraa and J-M. Maillard and C-M. Viallet","Towards Three-Dimensional Bethe Ansatz","11 pages, latex with amssymbols","Phys.Lett. B314 (1993) 79-88","10.1016/0370-2693(93)91325-H","PAR-LPTHE 92-16","hep-th",,"  We introduce a ``pre-Bethe-Ansatz'' system of equations for three dimensional
+vertex models. We bring to the light various algebraic curves of high genus and
+discuss some situations where these curves simplify. As a result we describe
+remarkable subvarieties of the space of parameters.
+","[{""version"":""v1"",""created"":""Wed, 5 May 1993 13:37:34 GMT""}]","2009-10-22"
+"nucl-th/9305003","B. K. Agrawala","B. K. Agrawal and A. Ansari","Thermal properties of a rotating nucleus in a fluctuating mean field
+  approach","18 pages , 5 figures which are available at request","Nucl.Phys. A567 (1994) 1-16","10.1016/0375-9474(94)90723-4",,"nucl-th",,"  The static path approximation to the path integral representation of
+partition function provides a natural microscopic basis to deal with thermal
+fluctuations around mean field configurations.
+  Using this approach for one-dimensional cranking Hamiltonian with quadrupole-
+quadrupole interaction term we have studied a few properties like energy, level
+density, level density parameter($a$) and moment of inertia as a function of
+temperature and spin for $^{64}Zn$ taking it as an illustrative example. We
+have also investigated the effects of variation in interaction strength on the
+level density and the parameter $a$ as a function of temperature. The moment of
+inertia, $\cal I$ versus rotational frequency, $\omega$ plot shows a sudden
+rise in the value of $\cal I$ due to rotation alignment of $0g_{9/2}$ orbitals
+at $\omega\approx 1.0$ MeV for a small temperature T $\sim 0.5$ MeV. At high T
+$\sim$ 2.0 MeV about 40-45$\%$ of each angular momentum is generated by
+alignment of $0g_{9/2}$ orbitals with an interesting result that at $\omega\sim
+1.0$ MeV and spin J $\sim$ 16 the moment of inertia has almost a constant,
+temperature independent value.
+","[{""version"":""v1"",""created"":""Wed, 5 May 1993 08:06:24 GMT""}]","2009-10-22"
+"patt-sol/9305001","Jorge Vinals","Hao-wen Xi, J.D. Gunton, Jorge Vinals","Pattern formation during Rayleigh-B\'enard convection in non-Boussinesq
+  fluids","LaTeX. Figures available upon request",,,"FSU-SCRI-93-59","patt-sol nlin.PS",,"  Motivated by recent experimental studies of Bodenschatz et al. [E.
+Bodenschatz, J.R. de Bruyn, G. Ahlers and D.S. Cannell, Phys. Rev. Lett. {\bf
+67}, 3078 (1991) ], we present a numerical study of a generalized two
+dimensional Swift-Hohenberg equation to model pattern formation in
+Rayleigh-B\'enard convection in a non-Boussinesq fluid. It is shown that many
+of the features observed in these experiments can be reproduced by this
+generalized model that explicitly includes non-Boussinesq and mean flow
+effects. The spontaneous formation of hexagons, rolls, and a rotating spiral
+pattern is studied, as well as the transitions and competition among them. Mean
+flow, non-Boussinesq effects, the geometric shape of the lateral wall, and
+sidewall forcing are all shown to be crucial in the formation of the rotating
+spirals. We also study nucleation and growth of hexagonal patterns and find
+that the front velocity in this two dimensional model is consistent with the
+prediction of marginal stability theory for one dimensional fronts.
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 18:48:56 GMT""}]","2008-02-03"

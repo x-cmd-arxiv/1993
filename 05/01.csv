@@ -1,0 +1,135 @@
+"cond-mat/9304049","Thierry Jolicoeur","P. Azaria, B. Delamotte, F. Delduc and Th. Jolicoeur","A Renormalization Group Study of Helimagnets in D=2+EPSILON Dimensions","25 pages and 1 figure not included, LateX, Saclay preprint
+  SPhT/93-044","Nuclear Physics B408[FS], 485 (1993)","10.1016/0550-3213(93)90376-Z",,"cond-mat",,"  We study a non linear sigma model $O(N)\otimes O(2)/O(N-2)\otimes O(2)$
+describing the phase transition of N-components helimagnets up to two loop
+order in $D=2+\epsilon$ dimensions. It is shown that a stable fixed point
+exists as soon as $N$ is greater than 3 (or equal). In the N=3 case, the
+symmetry of the system is dynamically enlarged at the fixed point to O(4) We
+show that the order parameter for Heisenberg helimagnets involves a tensor
+representation of $O(4)$. We show that for large $N$ and in the neighborhood of
+two dimensions this nonlinear sigma model describes the same critical theory as
+the Landau-Ginzburg linear theory. We deduce that there exists a dividing line
+$N_c (D)$ in the plane $(N, D)$ separating a first-order region containing the
+Heisenberg point at $D=4$ and a second-order region containing the whole $D=2$
+axis. We conclude that the phase transition of Heisenberg helimagnets in
+dimension 3 is either first order or second order with $O(4)$ exponents
+involving a tensor representation or tricritical.
+","[{""version"":""v1"",""created"":""Fri, 30 Apr 1993 17:35:00 GMT""}]","2010-03-25"
+"gr-qc/9304046",,"Lajos Diosi","Unique Quantum Paths by Continuous Diagonalization of the Density
+  Operator","8 pages REVTeX","Phys.Lett. 185A (1994) 5-8","10.1016/0375-9601(94)90978-4",,"gr-qc",,"  In this short note we show that for a Markovian open quantum system it is
+always possible to construct a unique set of perfectly consistent Schmidt
+paths, supporting quasi-classicality. Our Schmidt process, elaborated several
+years ago, is the $\Delta t\to 0$ limit of the Schmidt chain constructed very
+recently by Paz and Zurek.
+","[{""version"":""v1"",""created"":""Sat, 1 May 1993 00:46:00 GMT""}]","2007-05-23"
+"hep-ph/9304319","Mariusz Sadzikowski","M. Sadzikowski and K. Zalewski","Isgur-Wise Functions from the Mit Bag Model","12 pages (3 figures available upon request), LaTeX, TPJU - 9/93","Z.Phys. C59 (1993) 677-681","10.1007/BF01562560",,"hep-ph",,"  The Isgur-Wise functions for the ground state to ground state semileptonic
+decays involving $b \rightarrow c$ transitions are calculated from the
+(modified) MIT bag model. It is checked that the results for the decays
+$\overline{B} \rightarrow D l \overline\nu$ and $\overline{B} \rightarrow D^* l
+\overline\nu$ agree well with experiment. Predictions for the decays $\Lambda_b
+\rightarrow \Lambda_c l \overline\nu$, $\overline{B}_s \rightarrow D_s l
+\overline\nu$ and $\overline{B}_s \rightarrow D^*_s l \overline\nu$ are given
+and discussed.
+","[{""version"":""v1"",""created"":""Fri, 30 Apr 1993 17:47:21 GMT""}]","2009-10-22"
+"hep-ph/9304320","George Siopsis","D.B. DeLaney, S.Jadach, Ch. Shio, G. Siopsis, B.F.L. Ward","Renormalization Group Improved Exponentiation of Soft Gluons in QCD","7 pages (1 figure not included, available on request) LATEX,
+  UTHEP-93-0401","Phys. Lett. B342 (1995) 239-244","10.1016/0370-2693(94)01397-U",,"hep-ph",,"  We extend the methods of Yennie, Frautschi and Suura to QCD for the summation
+of soft gluon effects in which infrared singularities are cancelled to all
+orders in $\alpha_s$. An explicit formula for the respective \rngp improved
+exponentiated cross section is obtained for $q+\bbar{{q'}}\to q+\bbar{{q'}}+
+n(G)$ at SSC energies. Possible applications are discussed.
+","[{""version"":""v1"",""created"":""Fri, 30 Apr 1993 17:27:16 GMT""}]","2009-10-22"
+"hep-ph/9304321","Jim Cline","J.M. Cline, K. Kainulainen and K.A. Olive","On the Erasure and Regeneration of the Primordial Baryon Asymmetry by
+  Sphalerons","10 pp. LaTex (2 figures, included) UMN-TH-1201/93","Phys.Rev.Lett.71:2372-2375,1993","10.1103/PhysRevLett.71.2372",,"hep-ph",,"  We show that a cosmological baryon asymmetry generated at the GUT scale,
+which would be destroyed at lower temperatures by sphalerons and possible new
+B- or L-violating effects, can naturally be preserved by an asymmetry in the
+number of right-handed electrons. This results in a significant softening of
+previously derived baryogenesis-based constraints on the strength of exotic B-
+or L-violating interactions.
+","[{""version"":""v1"",""created"":""Fri, 30 Apr 1993 21:24:07 GMT""}]","2009-09-15"
+"hep-ph/9304322","Rick Weller","Kai J. Druhl","Quantum Memory Effects in the Measurement of Observables with a
+  Continuous Spectrum","8 pages with 1 figure available upon request",,,"MIU-THP-93/63","hep-ph",,"  In the measurement of a continuous observable Q, the pure components of the
+reduced state do, in general, depend on the initial state. For measurements
+which attempt to localize the measured system in a certain region R, the
+localized wave functions are proportional to the original wave function outside
+of R. This `quantum memory' effect shows that it is not possible to perfectly
+localize a quantum particle.
+","[{""version"":""v1"",""created"":""Fri, 30 Apr 1993 20:49:11 GMT""}]","2007-05-23"
+"hep-th/9304155","Arkady Tseytlin","A.Giveon, E.Rabinovici and A.A.Tseytlin","Heterotic string solutions and coset conformal field theories","28 pages, harvmac (b), CERN-TH.6872/93, RI-150-93","Nucl.Phys.B409:339-362,1993","10.1016/0550-3213(93)90583-B",,"hep-th",,"  We discuss solutions of the heterotic string theory which are analogous to
+bosonic and superstring backgrounds related to coset conformal field theories.
+A class of exact `left-right symmetric' solutions is obtained by supplementing
+the metric, antisymmetric tensor and dilaton of the superstring solutions by
+the gauge field background equal to the generalised Lorentz connection with
+torsion. As in the superstring case, these backgrounds are $\a'$-independent,
+i.e. have a `semiclassical' form. The corresponding heterotic string sigma
+model is obtained from the combination of the (1,0) supersymmetric gauged WZNW
+action with the action of internal fermions coupled to the target space gauge
+field. The pure (1,0) supersymmetric gauged WZNW theory is anomalous and does
+not describe a consistent heterotic string solution. We also find (to the order
+$\alpha'^3$) a two-dimensional perturbative heterotic string solution with the
+trivial gauge field background. To the leading order in $\alpha'$ it coincides
+with the known $SL(2,R)/U(1)$ bosonic or superstring solutions. This solution
+does not correspond to a `heterotic' combination of the left superstring and
+right bosonic $L_0$-operators at the conformal field theory level. Some duality
+properties of the heterotic string solutions are studied.
+","[{""version"":""v1"",""created"":""Sat, 1 May 1993 10:23:05 GMT""}]","2009-09-25"
+"hep-th/9304159",,"J. X. Lu","ADM masses for black strings and p-branes","9 pages, harvmac, CERN-TH.6877/93.(a typing error in eq. (3.2)
+  corrected)","Phys.Lett.B313:29-34,1993","10.1016/0370-2693(93)91186-Q",,"hep-th",,"  An ADM mass formula is derived for a wide class of black solutions with
+certain spherical symmetry. By applying this formula, we calculate the ADM
+masses for recently discovered black strings and $p$-branes in diverse
+dimensions. By this, the Bogolmol'nyi equation can be shown to hold explicitly.
+A useful observation is made for non-extremal black $p$-branes that only for $p
+= 0$, i.e. for a black hole, can its ADM mass be read directly from the
+asymptotic behaviour of the metric component $g_{00}$.
+","[{""version"":""v1"",""created"":""Fri, 30 Apr 1993 17:01:10 GMT""},{""version"":""v2"",""created"":""Thu, 6 May 1993 12:55:36 GMT""}]","2010-11-01"
+"hep-th/9304160","Marco Tarlini","Enrico Celeghini and M. Tarlini","Italian workshop on quantum groups","42 pages",,,,"hep-th math.QA",,"  The first ``Convegno Informale su Quantum Groups'' was held in Florence from
+February 3 to 6, 1993. This Convegno was conceived as an informal meeting to
+bring together all the italian people working in the field of quantum groups
+and related topics. We are very happy indeed that about 30 theoretical
+physicists decided to take part presenting many aspects of this interesting and
+live subject of research. We thank all the participants for the stimulating and
+nice atmosphere that has characterized the meeting. This paper has the intent
+to give a quick review in english of the contributions and related references.
+We think useful to include the complete addresses and coordinate data of the
+participants. It is our intention to diffuse these proceedings by e-mail trough
+electronic data banks.
+","[{""version"":""v1"",""created"":""Fri, 30 Apr 1993 16:27:29 GMT""}]","2008-02-03"
+"hep-th/9304161","Leonardo Castellani","Leonardo Castellani and Marco A. R-Monteiro","A note on quantum structure constants","9 pp., LaTeX","Phys.Lett. B314 (1993) 25-30","10.1016/0370-2693(93)91317-G","DFTT-18/93","hep-th",,"  The Cartan-Maurer equations for any $q$-group of the $A_{n-1}, B_n, C_n, D_n$
+series are given in a convenient form, which allows their direct computation
+and clarifies their connection with the $q=1$ case. These equations, defining
+the field strengths, are essential in the construction of $q$-deformed gauge
+theories. An explicit expression $\om ^i\we \om^j= -\Z {ij}{kl}\om ^k\we \om^l$
+for the $q$-commutations of left-invariant one-forms is found, with $\Z{ij}{kl}
+\om^k \we \om^l \qonelim \om^j\we\om^i$.
+","[{""version"":""v1"",""created"":""Sat, 1 May 1993 13:21:33 GMT""}]","2016-09-06"
+"hep-th/9304162",,"K. Zarembo","Exact Solution to the One-Plaquette Model of Induced QCD at Large $N$","13pp. LaTeX, no local preprint",,,,"hep-th",,"  The induced lattice gauge theory with various types of inducing fields in
+fundamental representation of $SU(N_{c})$ is considered.
+  In a simple case of one-plaquette lattice the model is solved in the large
+$N_{c}$ limit by means of loop equations.
+  Comparison with the solution of usual QCD shows the equivalence of induced
+and Wilson QCD providing that a mass and a number of flavours of inducing
+fields are sufficiently large. The possibility to take an asymptotically free
+continuum limit of induced QCD is discussed.
+","[{""version"":""v1"",""created"":""Fri, 30 Apr 1993 19:25:07 GMT""}]","2007-05-23"
+"hep-th/9304163","Young Park","William M. Nelson and Youngchul Park","N=2 Supersymmetry in Two-Dimensional Dilaton Gravity","10 pages, UCSBTH-93-10, uses harvmac","Phys.Rev. D48 (1993) 4708-4712","10.1103/PhysRevD.48.4708",,"hep-th",,"  Actions for $D=2$, $N=2$ supergravity coupled to a scalar field are
+calculated, and it is shown that the most general power-counting renormalizable
+dilaton gravity action has an $N=2$ locally supersymmetric extension. The
+presence of chiral terms in the action leads one to hope that
+non-renormalization theorems similar to those in global SUSY will apply; this
+would eliminate some of the renormalization ambiguities which plague ordinary
+bosonic (and $N=1$) dilaton gravity. To investigate this, the model is studied
+in superconformal gauge, where it is found that one chiral term becomes
+nonchiral, so that only one term is safe from renormalization.
+","[{""version"":""v1"",""created"":""Fri, 30 Apr 1993 21:28:52 GMT""}]","2009-10-22"
+"hep-th/9304164","Carlo RovellI","Carlo Rovelli","The basis of the Ponzano-Regge-Turaev-Viro-Ooguri model is the loop
+  representation basis","16 pages","Phys.Rev. D48 (1993) 2702-2707","10.1103/PhysRevD.48.2702","pitt-gr-4-93","hep-th math.QA",,"  We show that the Hilbert space basis that defines the Ponzano-Regge-
+Turaev-Viro-Ooguri combinatorial definition of 3-d Quantum Gravity is the same
+as the one that defines the Loop Representation. We show how to compute lengths
+in Witten's 3-d gravity and how to reconstruct the 2-d geometry from a state of
+Witten's theory. We show that the non-degenerate geometries are contained in
+the Witten's Hilbert space. We sketch an extension of the combinatorial
+construction to the physical 4-d case, by defining a modification of Regge
+calculus in which areas, rather than lengths, are taken as independent
+variables. We provide an expression for the scalar product in the Loop
+representation in 4-d. We discuss the general form of a nonperturbative quantum
+theory of gravity, and argue that it should be given by a generalization of
+Atiyah's topological quantum field theories axioms.
+","[{""version"":""v1"",""created"":""Sat, 1 May 1993 03:11:00 GMT""}]","2009-10-22"

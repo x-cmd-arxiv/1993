@@ -1,0 +1,118 @@
+"cond-mat/9301019","Michael Johnson","A.H. MacDonald, S.-R.Eric Yang, and M.D. Johnson","Quantum Dots in Strong Magnetic Fields: Stability Criteria for the
+  Maximum Density Droplet","17 pages, 5 figures (not included), RevTeX 3.0. (UCF-CM-93-002)",,"10.1071/PH930345",,"cond-mat",,"  In this article we discuss the ground state of a parabolically confined
+quantum dots in the limit of very strong magnetic fields where the electron
+system is completely spin-polarized and all electrons are in the lowest Landau
+level. Without electron-electron interactions the ground state is a single
+Slater determinant corresponding to a droplet centered on the minimum of the
+confinement potential and occupying the minimum area allowed by the Pauli
+exclusion principle. Electron-electron interactions favor droplets of larger
+area. We derive exact criteria for the stability of the maximum density droplet
+against edge excitations and against the introduction of holes in the interior
+of the droplet. The possibility of obtaining exact results in the strong
+magnetic field is related to important simplifications associated with broken
+time-reversal symmetry in a strong magnetic field.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 16:24:56 GMT""}]","2015-06-25"
+"funct-an/9301001","Alexander Turbiner","Alexander Turbiner","Lie-algebras and linear operators with invariant subspaces","47pp, AMS-LaTeX","in {\em Lie algebras, cohomologies and new findings in quantum
+  mechanics} (N. Kamran and P. J. Olver, eds.), AMS {\it Contemporary
+  Mathematics}, vol. 160, pp. 263--310, 1994",,"I.H.E.S./P/92/95","funct-an math.OA",,"  A general classification of linear differential and finite-difference
+operators possessing a finite-dimensional invariant subspace with a polynomial
+basis (the generalized Bochner problem) is given. The main result is that any
+operator with the above property must have a representation as a polynomial
+element of the universal enveloping algebra of some algebra of differential
+(difference) operators in finite-dimensional representation plus an operator
+annihilating the finite-dimensional invariant subspace. In low dimensions a
+classification is given by algebras $sl_2({\bold R})$ (for differential
+operators in ${\bold R}$) and $sl_2({\bold R})_q$ (for finite-difference
+operators in ${\bold R}$), $osp(2,2)$ (operators in one real and one Grassmann
+variable, or equivalently, $2 \times 2$ matrix operators in ${\bold R}$),
+$sl_3({\bold R})$, $sl_2({\bold R}) \oplus sl_2({\bold R})$ and $gl_2 ({\bold
+R}) \ltimes {\bold R}^{r+1}\ , r$ a natural number (operators in ${\bold
+R^2}$). A classification of linear operators possessing infinitely many
+finite-dimensional invariant subspaces with a basis in polynomials is
+presented. A connection to the recently-discovered quasi-exactly-solvable
+spectral problems is discussed.
+","[{""version"":""v1"",""created"":""Sat, 16 Jan 1993 11:49:26 GMT""},{""version"":""v2"",""created"":""Tue, 8 Sep 1998 18:01:31 GMT""}]","2008-02-03"
+"hep-ph/9301243","Paul Langacker","Paul Langacker","Implications of Solar and Atmospheric Neutrinos","Latex, DPF92, 4 pages, 1 figure (available on request), UPR-0548T",,,,"hep-ph",,"  The implications of the deficit of solar neutrinos are discussed. If all of
+the experiments are taken literally the relative suppressions render an
+astrophysical explanation unlikely. Allowing MSW conversions, the data
+simultaneously determine the temperature of the core of the sun to within five
+percent. The implications of the atmospheric $\nu_\mu/\nu_e$ ratio are briefly
+discussed.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 20:30:56 GMT""}]","2007-05-23"
+"hep-ph/9301244","Norman H. Fuchs","J. Stern, H. Sazdjian and N.H. Fuchs","What $\pi-\pi$ Scattering Tells Us About Chiral Perturbation Theory","RevTeX 62 pages (6 figures not added, request from any author),
+  IPNO/TH 92-106, PURD-TH-93-01","Phys.Rev. D47 (1993) 3814-3838","10.1103/PhysRevD.47.3814",,"hep-ph",,"  We describe a rearrangement of the standard expansion of the symmetry
+breaking part of the QCD effective Lagrangian that includes into each order
+additional terms which in the standard chiral perturbation theory ($\chi$PT)
+are relegated to higher orders. The new expansion represents a systematic and
+unambiguous generalization of the standard $\chi$PT, and is more likely to
+converge rapidly. It provides a consistent framework for a measurement of the
+importance of additional ``higher order'' terms whose smallness is usually
+assumed but has never been checked. A method of measuring, among other
+quantities, the QCD parameters $\hat{m}\langle\bar{q}q\rangle$ and the quark
+mass ratio $m_s/\hat{m}$ is elaborated in detail. The method is illustrated
+using various sets of available data. Both of these parameters might be
+considerably smaller than their respective leading order standard $\chi$PT
+values. The importance of new, more accurate, experimental information on
+low-energy $\pi-\pi$ scattering is stressed.
+","[{""version"":""v1"",""created"":""Sat, 16 Jan 1993 13:49:53 GMT""}]","2009-10-22"
+"hep-th/9301059","Antti Niemi","A.J. Niemi and O.Tirkkonen","On Exact Evaluation of Path Integrals",,"Annals Phys. 235 (1994) 318-349","10.1006/aphy.1994.1100",,"hep-th",,"  Some mistakes have been corrected
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 19:23:13 GMT""},{""version"":""v2"",""created"":""Wed, 24 Feb 1993 19:40:45 GMT""}]","2009-10-22"
+"hep-th/9301060","Amitabha Lahiri","Amitabha Lahiri","Generating Vector Boson Masses","7 pages (harvmac), LA-UR-92-3477",,,,"hep-th hep-ph",,"  If the Higgs particle is never found, one will need an alternative theory for
+vector boson masses. I propose such a theory involving an antisymmetric tensor
+potential coupled to a gauge field.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 20:20:35 GMT""}]","2007-05-23"
+"hep-th/9301061","Louis Crane","Louis Crane","Categorical Physics","9 pages amstex",,,,"hep-th",,"  I propose a new mathematical form for the quantum theory of gravity coupled
+to matter. The motivation is from the connection between CSW TQFT and the
+Ashtekar variables. I also connect the algebraic structure of TQFT with some
+thoughts about the interpretation of quantum mechanics in a general
+relativistic setting.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 20:26:13 GMT""}]","2009-09-25"
+"hep-th/9301062","Louis Crane","Louis Crane and David N. Yetter","A categorical construction of 4D TQFTs","11 pages",,,,"hep-th math.QA",,"  We construct a four dimensional topological Quantum Field Theory from a
+modular tensor category. We complete the proof in the case of SU(2)q at a root
+of unity. Our construction may be important in the physical interpretation of
+the Chern Simons state in the Ashtekar variables.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 20:36:22 GMT""}]","2008-02-03"
+"hep-th/9301064",,"Lee Brekke, Shane J. Hughes and Tom D. Imbo","Rings and Balls","14 pages, (garbled introduction fixed), HUTP-92/A066; UICHEP-TH/92-20","Int. J. Mod. Phys. A9 (1994) 3523-3534","10.1142/S0217751X94001400",,"hep-th",,"  We examine the various linkings in space-time of ``ball-like'' and
+``ring-like'' topological solitons in certain nonlinear sigma models in 2+1 and
+3+1 dimensions. By going to theories where soliton overlaps are forbidden,
+these linkings become homotopically nontrivial and can be studied by
+investigating the topology of the corresponding configuration spaces. Our
+analysis reveals the existence of topological terms which give the linking
+number of the world-tubes of distinct species of ball solitons in 2+1
+dimensions, or which in 3+1 dimensions count the number of times a ball or ring
+soliton threads through the center of a ring of a different species. We
+explicitly construct these terms for our models, and generalize them to cases
+where soliton overlaps are no longer strictly forbidden so the terms are no
+longer purely topological. One of the (3+1)-dimensional theories we consider
+also has topological solitons which consist of two rings (of distinct species)
+linked in space.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 23:55:15 GMT""},{""version"":""v2"",""created"":""Wed, 10 Feb 1993 23:45:01 GMT""}]","2009-10-22"
+"hep-th/9301065","Irina Ya. Aref'eva","I.Ya. Aref'eva","A Simple Model Inducing QCD","LaTex, 10 pages","Phys.Lett.B308:347-354,1993","10.1016/0370-2693(93)91296-Y",,"hep-th",,"  A simple lattice model inducing a gauge theory is considered. The model
+describes an interaction of a gauge field to an $N\times N$ complex matrix
+scalar field transforming as a field in the fundamental representation. In
+contrast to the Kazakov-Migdal model the model contains only the linear
+interaction between scalar and gauge lattice fields. This model does not suffer
+from extra local U(1) symmetries. In an approximation of a translation
+invariant master field the large N limit of the model is investigated. At large
+N the gauge fields can be integrated out yielding an effective theory
+describing an interaction of eigenvalues of the master field. The reduced model
+exhibits phase transitions at the points $\beta_{\bar {cr}}$ and $\beta
+_{\underline{cr}}$ and the region $(\beta_{\bar{cr}}, \beta_{\underline{cr}})$
+separates the strong and weak regions of the model. To study the behaviour of
+the model at large $N$ in more systematic way the quenched momentum
+prescription with constraints for treating the large N limit of gauge theories
+is used. With the help of the technique of orthogonal polynomials nonlinear
+equations describing the large N limit of the reduced model {\it with
+quenching} are presented.
+","[{""version"":""v1"",""created"":""Sat, 16 Jan 1993 05:24:20 GMT""}]","2011-07-19"
+"hep-th/9301066",,"Galen Sotkov and Marian Stanishkov","Off-critical $W_\infty$ and Virasoro Algebras As Dynamical Symmetries Of
+  the Integrable Models","20 pages, (uses phyzzx.tex),IFT-P.001/93(small changes-tex
+  improved,misprints corrected)",,,,"hep-th",,"  We find an infinite set of new noncommuting conserved charges in a specific
+class of perturbed CFT's and present a criterion for their existence.They
+appear to be higher momenta of the already known commuting conserved
+currents.The algebra they close consists of two noncommuting$W_\infty$
+algebras.We find various Virasoro subalgebras of the full symmetry algebra. It
+is shown on the examples of the perturbed Ising and Potts models that one of
+them plays an essencial role in the computation of the correlation functions of
+the fields of the theory.
+","[{""version"":""v1"",""created"":""Sat, 16 Jan 1993 15:07:00 GMT""},{""version"":""v2"",""created"":""Sun, 31 Jan 1993 08:51:00 GMT""}]","2008-02-03"

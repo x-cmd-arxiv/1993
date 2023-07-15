@@ -1,0 +1,479 @@
+"astro-ph/9307014","Jean M. Quashnock","J.M. Quashnock and D.Q. Lamb","Evidence for the Galactic Origin of Gamma-Ray Bursts","6 pages, 3 figures available upon request, LATEX v. 2.09, MNRAS
+  document style mn.sty included, 1","Mon.Not.Roy.Astron.Soc. 265 (1993) L59","10.1093/mnras/265.1.L59",,"astro-ph",,"  We investigate the angular distribution of the $\gamma$-ray bursts in the
+publicly available BATSE catalogue, using the measures of burst brightness $B$
+and short time scale ($\simless$ 0.3 s) variability $V$ which we introduced
+earlier. We show that the 54 type I ($\log V \le -0.8$) bursts lying in the
+middle brightness range 490 counts $\le B \le$ 1250 counts (corresponding to
+1/3 of all type I bursts) exhibit a Galactic dipole moment of $\langle \cos
+\theta \rangle = 0.204 \pm 0.079$ {\it and} a deviation of the Galactic
+quadrupole moment from 1/3 of $\langle \sin^2 b \rangle - 1/3 = -0.104 \pm
+0.041$. Using Monte Carlo simulations which include the BATSE sky exposure map
+and taking into account division of the type I bursts into three equal samples,
+we find that the probability by chance of an isotropic distribution of 54
+bursts exhibiting values of $\langle \cos \theta \rangle$ {\it and} the
+negative of $\langle \sin^2 b \rangle - 1/3$ which equal or exceed the observed
+values is $6.6 \times 10^{-5}$. We conclude that $\gamma$-ray bursts are
+Galactic in origin.
+","[{""version"":""v1"",""created"":""Thu, 8 Jul 1993 18:08:34 GMT""},{""version"":""v2"",""created"":""Wed, 13 Oct 1993 16:46:23 GMT""}]","2016-06-08"
+"astro-ph/9307015","Jean M. Quashnock","J.M. Quashnock and D.Q. Lamb","Evidence That Gamma-Ray Burst Sources Repeat","6 pages, 3 figures available upon request, LATEX v. 2.09, MNRAS
+  document style mn.sty included, to appear in MNRAS","Mon.Not.Roy.Astron.Soc. 265 (1993) L45","10.1093/mnras/265.1.L45",,"astro-ph",,"  We investigate clustering in the angular distribution of the 260 $\gamma$-ray
+bursts in the publicly available BATSE catalogue, using a nearest neighbour
+analysis and the measures of burst brightness $B$ and short time scale
+variability $V$ which we introduced earlier. We find that while all 260 bursts
+are only modestly clustered (Q-value = $1.8 \times 10^{-2}$), the 202 bursts in
+this sample for which the statistical error in their locations is $<9^\circ$
+are significantly clustered on an angular scale $\approx 5^\circ$ (Q-value =
+$2.5 \times 10^{-4}$, taking into acoount having chosen the cutoff in the
+statistical error). We also find a significant correlation between bright type
+I bursts and faint type I and type II bursts on an angular scale $\approx
+5^\circ$ (Q-value = $4.0 \times 10^{-3}$). This angular scale is smaller than
+the typical (statistical plus systematic) error in burst locations of
+$6.8^\circ$, suggesting multiple recurrences from individual sources. We
+conclude that ``classical'' $\gamma$-ray burst sources repeat on a time scale
+of months, and that many faint type I and II bursts come from the sources of
+bright type I bursts.
+","[{""version"":""v1"",""created"":""Thu, 8 Jul 1993 18:25:50 GMT""},{""version"":""v2"",""created"":""Tue, 19 Oct 1993 00:10:19 GMT""}]","2016-06-08"
+"astro-ph/9307016","Robert Brandenberger","R. Brandenberger (Brown Univ.), H. Feldman (Univ. of Michigan) and V.
+  Mukhanov (ETH Zuerich)","Classical and Quantum Theory of Perturbations in Inflationary Universe
+  Models","invited lecture by R.B. at the 37th Yamada Conference `Evolution of
+  the Universe and its Observational Quest', June 7 - 12 1993, 17 pages, 2
+  figures (available from the authors), BROWN-HET-914; uses phyzzx",,,,"astro-ph hep-ph",,"  A brief introduction to the gauge invariant classical and quantum theory of
+cosmological perturbations is given. The formalism is applied to inflationary
+Universe models and yields a consistent and unified description of the
+generation and evolution of fluctuations. A general formula for the amplitude
+of cosmological perturbations in inflationary cosmology is derived.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 03:31:21 GMT""}]","2007-05-23"
+"astro-ph/9307017","Max Tegmark","Max Tegmark, Joseph Silk, Alain Blanchard","On the inevitability of reionization: implications for cosmic microwave
+  background fluctuations","32 pages, incl 10 figures. Stone-age postscript replaced by LATeX.
+  Latest version at http://www.sns.ias.edu/~max/reion.html (faster from the
+  US), from http://www.mpa-garching.mpg.de/~max/reion.html (faster from Europe)
+  or from max@ias.edu","Astrophys.J.420:484-496,1994","10.1086/173579",,"astro-ph",,"  Early photoionization of the intergalactic medium is discussed in a nearly
+model-independent way, in order to investigate whether early structures
+corresponding to rare Gaussian peaks in a CDM model can photoionize the
+intergalactic medium sufficiently early to appreciably smooth out the microwave
+background fluctuations. We conclude that this is indeed possible for a broad
+range of CDM normalizations and is almost inevitable for unbiased CDM, provided
+that the bulk of these early structures are quite small, no more massive than
+about 10^8 solar masses. Typical parameter values predict that reionization
+occurs around z=50, thereby suppressing fluctuations on degree scales while
+leaving the larger angular scales probed by COBE reasonably unaffected.
+However, for non-standard CDM, incorporating mixed dark matter, vacuum density
+or a tilted primordial power spectrum, early reionization plays no significant
+role.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 13:18:48 GMT""},{""version"":""v2"",""created"":""Sun, 8 Sep 1996 13:51:48 GMT""}]","2009-10-07"
+"astro-ph/9307018","Max Tegmark","Max Tegmark, Joseph Silk","Did the universe recombine? New spectral constraints on reheating","15 pages, incl 3 figures. Stone-age postscript replaced by LATeX.
+  Latest version at http://www.sns.ias.edu/~max/y.html (faster from the US),
+  from http://www.mpa-garching.mpg.de/~max/y.html (faster from Europe) or from
+  max@ias.edu","Astrophys.J.423:529-533,1994","10.1086/173831",,"astro-ph",,"  One still cannot conclusively assert that the universe underwent a neutral
+phase, despite the new COBE FIRAS limit y<0.000025 on Compton y-distortions of
+the cosmic microwave background. Although scenarios where the very early
+(z=1000) ionization is thermal, caused by IGM temperatures exceeding 10000K,
+are clearly ruled out, there is a significant loophole for cosmologies with
+typical CDM parameters if the dominant ionization mechanism is photoionization.
+If the ionizing radiation has a typical quasar spectrum, then the y-constraint
+implies roughly h^{3/2}\Omega_b Omega_0^{-1/4}<0.1 for fully ionized models.
+This means that BDM models with Omega_0 around 0.15 and reionization at about
+z=1000 are strongly constrained even in this very conservative case, and can
+survive the y test only if most of the baryons form BDM around the reionization
+epoch.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 15:09:49 GMT""},{""version"":""v2"",""created"":""Sun, 8 Sep 1996 14:02:14 GMT""}]","2009-10-07"
+"cond-mat/9307014","Alexander Sokol","V. Barzykin, D. Pines, A. Sokol, and D. Thelen","Quantum Disordered Regime and Spin Gap in the Cuprate Superconductors","14 pages, REVTeX v3.0, PostScript file for 3 figures is attached,
+  UIUC-P-93-07-065","Physical Review B 49, 1544 (1994)","10.1103/PhysRevB.49.1544",,"cond-mat",,"  We discuss the crossover from the quantum critical, $z\!=\!1$, to the quantum
+disordered regime in high-T$_c$ materials in relation to the experimental data
+on the nuclear relaxation, bulk susceptibility, and inelastic neutron
+scattering. In our scenario, the spin excitations develop a gap
+$\Delta\!\sim\!1/\xi$ well above T$_c$, which is supplemented by the
+quasiparticle gap below T$_c$. The above experiments yield consistent estimates
+for the value of the spin gap, which increases as the correlation length
+decreases.
+","[{""version"":""v1"",""created"":""Thu, 8 Jul 1993 19:51:56 GMT""}]","2009-10-22"
+"cond-mat/9307015","Michael Sandhoff","M. Sandhoff, H. Pfnuer and H.U. Everts","Eutectic point in a simple lattice gas model","15 pages (incl. 8 Postscript figures), LaTeX, ITP-UH 21/93",,,,"cond-mat",,"  We investigate the phase diagram and the critical properties of the adsorbate
+system sulphur/ruthenium(0001) in the coverage region $\frac{1}{4} < \Theta <
+\frac{1}{3}$ by means of Monte-Carlo simulations of a simple lattice gas model
+on a triangular lattice. The model contains only repulsive nearest and
+next-nearest neighbor interactions. Combining results obtained by using both
+Glauber and Kawasaki kinetics in the simulations we identify two tricritical
+points, three coexistence regions and a eutectic point in the phase diagram of
+the system. Our results agree with the findings of recent experimental work on
+S/Ru(0001). Furthermore we are able to add certain details to the
+experimentally observed phase diagram.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 15:42:15 GMT""}]","2007-05-23"
+"gr-qc/9307006",,"J. Fernando Barbero and Madhavan Varadarajan","The Phase Space of 2+1 Dimensional Gravity in the Ashtekar Formulation","19 pages, preprint# SU-GP-93/64","Nucl.Phys.B415:515-532,1994","10.1016/0550-3213(94)90121-X",,"gr-qc",,"  The Ashtekar formulation of 2+1 gravity differs from the geometrodynamical
+and Witten descriptions when the 2-metric is degenerate. We study the phase
+space of 2+1 gravity in the Ashtekar formulation to understand these degenerate
+solutions to the field equations. In the process we find two new systems of
+first class constraints which describe part of the degenerate sectors of the
+Ashtekar formulation. One of them also generalizes the Witten constraints.
+Finally we argue that the Ashtekar formulation has an arbitrarily large number
+of degrees of freedom in contrast to the usual descriptions. TO GET THE FIGURES
+CONTACT Barbero@suhep.phy.syr.edu or Madhavan@suhep.phy.syr.edu
+","[{""version"":""v1"",""created"":""Thu, 8 Jul 1993 21:52:00 GMT""}]","2017-03-24"
+"gr-qc/9307007",,"P.F. Gonz\'alez-D\'iaz","2D dilaton-gravity from 5D Einstein equations","9, IMAFF-Rc-04-93#",,,,"gr-qc",,"  A semiclassical two-dimensional dilaton-gravity model is obtained by
+dimensional reduction of the spherically symmetric five-dimensional Einstein
+equations and used to investigate black hole evaporation. It is shown that this
+model prevents the formation of naked singularity and allows spacetime
+wormholes to contribute the process of formation and evaporation of black
+holes.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 12:03:12 GMT""},{""version"":""v2"",""created"":""Fri, 16 Jul 1993 12:40:14 GMT""}]","2016-08-14"
+"hep-lat/9307009","Ken Bowler","UKQCD Collaboration","Quenched Light Hadron Mass Spectrum and Decay Constants: the effects of
+  $O(a)$-Improvement at $\beta=6.2$","27 pages, LaTeX, epsf, 10 postscript figs (appended), accepted for
+  Nuclear Physics B, Edinburgh Preprint: 92/507, Liverpool Preprint: LTH 301,
+  Southampton Preprint: SHEP 92/93-13","Nucl.Phys.B407:331-355,1993","10.1016/0550-3213(93)90061-S",,"hep-lat",,"  We compare the light hadron spectrum and decay constants for quenched QCD at
+$\beta=6.2$ using an $O(a)$-improved nearest-neighbour Wilson fermion action
+with those obtained using the standard Wilson fermion action on the same set of
+18 gauge configurations. For pseudoscalar meson masses in the range
+330--800~MeV, we find no significant difference between the results for the two
+actions. The scales obtained from the string tension and mesonic sector are
+consistent, but differ from that derived from baryon masses. The ratio of the
+pseudoscalar decay constant to the vector meson mass increases slowly with
+quark mass as observed experimentally.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 13:30:47 GMT""}]","2012-08-27"
+"hep-ph/9307233",,"J. Milana, S. Nussinov, M. G. Olsson","Does $J/\psi \rightarrow \pi^{+} \pi^{-}$ fix the Electromagnetic Form
+  Factor $F_{\pi}(t)$ at $t=M_{J/\psi}^2$?","10 pages revtex manuscript, one figure--not included, U. of MD PP
+  #94-001","Phys.Rev.Lett. 71 (1993) 2533-2536","10.1103/PhysRevLett.71.2533",,"hep-ph",,"  We show that the $J/\psi \rightarrow \pi^{+} \pi^{-}$ decay is a reliable
+source of information for the electromagnetic form factor of the pion at
+$t=M_{J/\psi}^2=9.6 {\rm GeV}^2$ by using general arguments to estimate, or
+rather, put upper bounds on, the background processes that could spoil this
+extraction. We briefly comment on the significance of the resulting
+$F_{\pi}(M_{J/\psi}^2)$.
+","[{""version"":""v1"",""created"":""Thu, 8 Jul 1993 18:26:49 GMT""}]","2009-10-22"
+"hep-ph/9307234","Evan Reidell","Xiangdong Ji","Chiral-Symmetry and Strange Four-Quark Matrix Elements","10 pages in Plain TeX, MIT CTP #2188","Phys.Lett. B313 (1993) 197-202","10.1016/0370-2693(93)91212-6",,"hep-ph",,"  We consider the matrix elements of the left-handed flavor-conserving
+four-quark operators in the nucleon and pion states. Using chiral symmetry, we
+derive relationships among these matrix elements. We argue that the $\Delta I =
+1/2$ rule of hyperon and kaon non-leptonic weak decay implies possible large
+strange-quark content in the nucleon and pion.
+","[{""version"":""v1"",""created"":""Thu, 8 Jul 1993 19:30:35 GMT""}]","2009-10-22"
+"hep-ph/9307235","Evan Reidell","Xiangdong Ji","Chiral-Odd and Spin-Dependent Quark Fragmentation Functions and their
+  Applications","19 pages in Plain TeX, MIT CTP #2219","Phys.Rev. D49 (1994) 114-124","10.1103/PhysRevD.49.114",,"hep-ph",,"  We define a number of quark fragmentation functions for spin-0, -1/2 and -1
+hadrons, and classify them according to their twist, spin and chirality. As an
+example of their applications, we use them to analyze semi-inclusive
+deep-inelastic scattering on a transversely polarized nucleon.
+","[{""version"":""v1"",""created"":""Thu, 8 Jul 1993 19:48:49 GMT""}]","2009-10-22"
+"hep-ph/9307236","Neil Turok","Paul Graham, Neil Turok, Philip Lubin and Jeff Schuster","A Simple Test for Non-Gaussianity in CMBR Measurements","18 pages TeX, Figures available by anonymous ftp, PUP-TH-1408",,,,"hep-ph astro-ph",,"  We propose a set of statistics $S_q$ for detecting non-gaussianity in CMBR
+anisotropy data sets. These statistics are both simple and, according to
+calculations over a space of linear combinations of three-point functions,
+nearly optimal at detecting certain types of non-gaussian features. We apply
+$S_3$ to the UCSB SP91 experiment and find that the mean of the four frequency
+channels is by this criterion strongly non-gaussian. Such an observation would
+be highly unlikely in a gaussian theory with a small coherence angle, such as
+standard ($n=1$, $\Omega_b = .05$, $h = .5$) inflation. We cannot conclude that
+the non-gaussianity is cosmological in origin, but if we assume it due instead
+to foreground contamination or instrumental effects, and remove the points
+which are clearly responsible for the non-gaussian behavior, the rms of the
+remaining fluctuations is too small for consistency with standard inflation.
+Further data are needed before definitive conclusions may be drawn. Finally, we
+generalize the ideas behind this statistic to other types of non-gaussian
+behavior that might be detected in other experimental schemes.
+","[{""version"":""v1"",""created"":""Thu, 8 Jul 1993 20:17:33 GMT""}]","2007-05-23"
+"hep-ph/9307237","Ed Stoeffhaas","F.Halzen","Blois V: Summary Talk","Talk given at the Vth Blois Workshop on Elastic and Diffractive
+  Scattering, June 1993. 16 pages without figures. Standard Latex file. Uses
+  epsf.sty to include postscript figures in text. Full 21-page version
+  available via fax or regular mail. MAD/PH/772",,,,"hep-ph",,"  Although we have a theory of strong interactions, its implications for the
+physics of average hadron collisions, which is the focus of this series of
+conferences, are far from obvious. QCD has nevertheless been a very powerful
+guide and I will argue that a consensus description of ``soft"" hadronic physics
+is emerging at least at the phenomenological level, even though the message is
+hidden by a myriad of competing models such as the Lipatov Pomeron, the jet
+model, dual topological unitarization, etc. Understanding this physics is a
+high priority not only because it is intrinsically interesting (e.g.\ the
+search for chiral condensates or for point-like structure of the Pomeron), but
+because it dictates the structure of the backgrounds and underlying events in
+any hadron collider experiment. In the not so distant future most of particle
+physics will rely on such machines and I will therefore emphasize issues
+associated with the physics exploitation of future colliders (e.g.\ rapidity
+gaps). This is also the first Blois meeting after HERA and the experiments have
+already contributed significant novel information on the physics discussed at
+this meeting.
+","[{""version"":""v1"",""created"":""Thu, 8 Jul 1993 21:30:01 GMT""}]","2007-05-23"
+"hep-ph/9307238","S. Keller","S. Keller and J. F. Owens","Measuring the Longitudinally Polarized Proton Gluon Distribution using
+  Photoproduction Processes","Latex, 18 pages + 10 postscript figures encoded with uufile,
+  FSU--HEP--930609. A postscript file with text and embedded figures is
+  available via anonymous ftp at hepsg1.physics.fsu.edu, file is
+  /pub/keller/fsu-hep-930609.ps","Phys.Rev.D49:1199-1206,1994","10.1103/PhysRevD.49.1199",,"hep-ph",,"  Little information is known about the polarization of gluons inside a
+longitudinally polarized proton. We investigate the sensitivity of
+photoproduction experiments with both beam and target longitudinally polarized
+to the polarization of the gluon distribution in the proton. We study the
+photoproduction of jets and heavy quarks and conclude that they are both
+sensitive to the gluon polarization.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 14:39:57 GMT""}]","2010-11-01"
+"hep-ph/9307239","James M. Johnson","Suraj N. Gupta, James M. Johnson and Wayne W. Repko","W, Z and Higgs Scattering at SSC Energies","MSUHEP 93/10. 21 pages in REVTeX file. 9 figures are available as
+  Postscript files, as well as a complete Postscript file by anonymous ftp as
+  wzhfigures.tar.Z and wzh.ps.Z from hal.physics.wayne.edu in
+  /pub/physics/papers","Phys.Rev. D48 (1993) 2083-2096","10.1103/PhysRevD.48.2083",,"hep-ph",,"  The scattering of $W$, $Z$ and Higgs bosons in the Standard Model is
+investigated in the region $s,m_H^2\gg m_W^2$ with no restrictions on relative
+sizes of $s$ and $m_H^2$, so that our results are applicable at energies below
+as well as above $2m_H$. We have calculated, with the inclusion of the full
+one-loop corrections, the scattering matrix between the states $W_L^+W_L^-$,
+$Z_LZ_L$ and $HH$, and computed the S-wave amplitudes as functions of the
+center-of-mass energy $\sqrt{s}$ for $m_H=$500~GeV and 1000~GeV. The apparent
+violation of unitarity is avoided by unitarizing the amplitudes by the K-matrix
+and the Pad\'e methods. For the detection of the Higgs boson through gauge
+boson scattering in $pp$ collisions, we have used the unitarized amplitudes to
+obtain the invariant-mass distributions for the final $W_L^+W_L^-$ and $Z_LZ_L$
+pairs at the SSC energy of $\sqrt{s}=$40~TeV by means of the effective-W
+approximation.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 14:59:13 GMT""}]","2009-10-22"
+"hep-ph/9307240","Ed Stoeffhaas","F. Halzen, J. E. Jacobsen, and E. Zas","High Energy Neutrino Telescopes Detect Supernovae","Standard Latex file, 8 pages, no figures. MAD/PH/770",,,,"hep-ph",,"  We have simulated the response of a high energy neutrino telescope to the
+stream of low energy neutrinos produced by a supernova. The nominal threshold
+of such detectors is in the GeV energy range. The passage of a large flux of
+MeV neutrinos during a period of seconds will nevertheless be detected as an
+excess of single counting rates in all individual optical modules. Detectors
+under construction, which consist of roughly 200 modules, will be able to
+detect a galactic supernova at or above the 5 $\sigma$ level. The rate of fake
+signals is, however, too large for the telescope to serve as a neutrino watch.
+Such capability requires detectors with roughly 3 times the number of optical
+modules, thus within easy reach of the next generation detectors.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 15:35:13 GMT""}]","2007-05-23"
+"hep-th/9307057",,"Yoav Peleg","Quantum Dust Black Holes","30 pages, BRX-TH-350",,,,"hep-th",,"  By analysing the infinite dimensional midisuperspace of spherically symmetric
+dust universes, and aply it to collapsing dust stars, one finds that the
+general quantum state is a bound state. This leads to discrete spectrum. In the
+case of a Schwarzschild black hole, the discrete spectrum implies Bekenstein
+area quantization: the area of the horizon is an integer multiple of the Planck
+area. Knowing the microscopic (quantum) states, we suggest a microscopic
+interpretation of the thermodynamics of black holes: the degeneracy of the
+quantum states forming a black hole, gives the Bekenstein- Hawking entropy. All
+other thermodynamical quantities can be derived by using the standard
+definitions.
+","[{""version"":""v1"",""created"":""Thu, 8 Jul 1993 21:38:00 GMT""}]","2007-05-23"
+"hep-th/9307058","Gerald Cleaver","Gerald B. Cleaver","Kac-Moody Algebras and String Theory (THESIS)","109 pages, jytex, uses amysm fonts, texing instructions at beginning
+  of file ** Now includes ``\input jytex.tex'' on first line **",,,,"hep-th",,"  The focus of this thesis is on (1) the role of Ka\v c-Moody (KM) algebras in
+string theory and the development of techniques for systematically building
+string theory models based on higher level ($K\geq 2$) KM algebras and (2)
+fractional superstrings. In chapter two we review KM algebras and their role in
+string theory. In the next chapter, we present two results concerning the
+construction of modular invariant partition functions for conformal field
+theories built by tensoring together other conformal field theories. First we
+show how the possible modular invariants for the tensor product theory are
+constrained if the allowed modular invariants of the individual conformal field
+theory factors have been classified. We illustrate the use of these constraints
+for theories of the type $SU(2)_{K_A}xSU(2)_{K_B}$, finding all consistent
+theories for $K_A$ and $K_B$ odd. Second we show how known diagonal modular
+invariants can be used to construct inherently asymmetric invariants where the
+holomorphic and anti- holomorphic theories do not share the same chiral
+algebra. Explicit examples are given. Next, in chapter four we investigate some
+issues relating to proposed fractional superstring theories with $D_{\rm
+critical}<10$. Using the factorization approach of Gepner and Qiu, we
+systematically rederive the partition functions of the $K=4,\, 8,$ and $16$
+theories and examine their spacetime supersymmetry. Generalized GSO projection
+operators for the $K=4$ model are found. Uniqueness of the twist field,
+$\phi^{K/4}_{K/4}$, as source of spacetime fermions, is demonstrated.
+","[{""version"":""v1"",""created"":""Thu, 8 Jul 1993 23:26:36 GMT""},{""version"":""v2"",""created"":""Sat, 17 Jul 1993 22:01:28 GMT""}]","2008-02-03"
+"hep-th/9307059","Andrew Strominger","Andrew Strominger","Black Hole Statistics","12 pages","Phys.Rev.Lett.71:3397-3400,1993","10.1103/PhysRevLett.71.3397","NSF-ITP-93-57","hep-th gr-qc",,"  The quantum statistics of charged, extremal black holes is investigated
+beginning with the hypothesis that the quantum state is a functional on the
+space of closed three-geometries, with each black hole connected to an
+oppositely charged black hole through a spatial wormhole. From this starting
+point a simple argument is given that a collection of extremal black holes
+obeys neither Bose nor Fermi statistics. Rather they obey an exotic variety of
+particle statistics known as ``infinite statistics'' which resembles that of
+distinguishable particles and is realized by a $q$-deformation of the quantum
+commutation relations.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:36:31 GMT""}]","2009-09-17"
+"hep-th/9307060",,"Jan Sladkowski","Trace anomaly of the conformal gauge field","9 pages, LaTeX file, BI-TP 93/34","Z.Phys. C60 (1993) 695-696","10.1007/BF01558399",,"hep-th",,"  The proposed by Bastianelli and van Nieuwenhuizen new method of calculations
+of trace anomalies is applied in the conformal gauge field case. The result is
+then reproduced by the heat equation method. An error in previous calculation
+is corrected. It is pointed out that the introducing gauge symmetries into a
+given system by a field-enlarging transformation can result in unexpected
+quantum effects even for trivial configurations.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 09:28:07 GMT""}]","2009-10-22"
+"hep-th/9307061",,"German V. Shishkin and Victor M. Villalba","Electrically neutral Dirac particles in the presence of external fields:
+  exact solutions","20pp, IVIC-CFLE-93/02 (this is a version without Tex problems, the
+  first version was corrupted)","J.Math.Phys. 34 (1993) 5037-5049","10.1063/1.530340",,"hep-th",,"  In the present article we present exact solutions of the Dirac equation for
+electric neutral particles with anomalous electric and magnetic moments. Using
+the algebraic method of separation of variables, the Dirac equation is
+separated in cartesian, cylindrical and spherical coordinates, and exact
+solutions are obtained in terms of special functions.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 10:06:05 GMT""},{""version"":""v2"",""created"":""Fri, 20 Aug 1993 22:51:55 GMT""}]","2009-10-22"
+"hep-th/9307062","Andreas Honecker","H.M. Baboujian","Off-Shell Bethe Ansatz Equation and N-point Correlators in the SU(2)
+  WZNW Theory","LaTeX, 15 pages","J.Phys.A26:6981-6990,1993","10.1088/0305-4470/26/23/037","BONN-HE-93-22","hep-th",,"  We prove that the wave vectors of the off-shell Bethe Ansatz equation for the
+inhomogeneous SU(2) lattice vertex model render in the quasiclassical limit the
+solution of the Knizhnik-Zamolodchikov equation.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 10:28:04 GMT""}]","2010-11-01"
+"hep-th/9307063",,"Jan Ambjorn and Charlotte F. Kristjansen","From 1-matrix model to Kontsevich model","17 pages, Latex","Mod.Phys.Lett. A8 (1993) 2875-2890","10.1142/S0217732393003263","nbi-he-93-30","hep-th",,"  Loop equations of matrix models express the invariance of the models under
+field redefinitions. We use loop equations to prove that it is possible to
+define continuum times for the generic hermitian {1-matrix} model such that all
+correlation functions in the double scaling limit agree with the corresponding
+correlation functions of the Kontsevich model expressed in terms of kdV times.
+In addition the double scaling limit of the partition function of the hermitian
+matrix model agree with the $\tau$-function of the kdV hierarchy corresponding
+to the Kontsevich model (and not the square of the $\tau$-function) except for
+some complications at genus zero.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 11:50:49 GMT""}]","2015-06-26"
+"hep-th/9307064",,"H. Aratyn, L.A. Ferreira, J.F. Gomes and A.H. Zimerman","On Non-Linear W-Infinity Symmetry of Generalized Liouville and Conformal
+  Toda Models","10 pgs, LaTeX, IFT-P.038/93","Phys.Lett. B318 (1993) 604-612","10.1016/0370-2693(93)90461-P",,"hep-th",,"  Invariance under non-linear ${\sf {\hat W}}_{\infty}$ algebra is shown for
+the two-boson Liouville type of model and its algebraic generalizations, the
+extended conformal Toda models. The realization of the corresponding generators
+in terms of two boson currents within KP hierarchy is presented.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 08:58:00 GMT""}]","2009-10-22"
+"hep-th/9307065","Shinsuke Nishigaki","S. Higuchi, C. Itoi, S. Nishigaki and N. Sakai","Renormalization Group Approach to Discretized Gravity","10 pages, LaTeX, TIT/HEP--227, NUP-A-93-12",,,,"hep-th",,"  We summarize our renormalization group approach for the vector model as well
+as the matrix model which are the discretized quantum gravity in one- and
+two-dimensional spacetime. A difference equation is obtained which relates free
+energies for neighboring values of $N$. The reparametrization freedom in field
+space is formulated by means of the loop equation. The reparametrization
+identities reduce the flow in the infinite dimensional coupling constant space
+to that in finite dimensions. The matrix model gives a nonlinear differential
+equation as an effective renormalization group equation. The fixed point and
+the susceptibility exponents can be determined even for the matrix models in
+spite of the nonlinearity. They agree with the exact result.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 13:16:38 GMT""}]","2007-05-23"
+"hep-th/9307067",,"L. Baulieu and E. Rabinovici","On the Calculability of Observables in Topological Quantum Mechanical
+  Models","Latex file. 18 pages. preprint Racah Institute 151-Paris LPTHE 93-28.
+  (THIS IS THE SAME VERSION AS THE ONE SENT TWO DAYS AGO BUT WITH LINES
+  CORRECTLY TRUNCATED. WITH APOLOGIES FROM THE AUTHORS)","Phys.Lett. B316 (1993) 93-101","10.1016/0370-2693(93)90663-3",,"hep-th",,"  We consider a superconformal quantum mechanical system which has been chosen
+on the basis of a local BRST topological invariance. We suggest that it truly
+leads to topological observables which we compute. The absences of a ground
+state and of a mass gap are special features of this system.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 14:43:36 GMT""},{""version"":""v2"",""created"":""Tue, 13 Jul 1993 14:24:39 GMT""}]","2009-10-22"
+"hep-th/9307068",,"Cardoso de Melo, M.C. Nemes and Saulo C.S. Silva","Axial Currents in Electrodynamics P.C.R","9 pages IFUSP/P-1057",,,,"hep-th",,"  In the present work we argue that the usual assumption that magnetic currents
+possess the vector structure characteristic of electric currents may be the
+source of several difficulties in the theory of magnetic monopoles. We propose
+an {\it axial} magnetic current instead and show that such difficulties are
+solved. Charge quantization is shown to be intimately connected with results of
+theories of discrete space time.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 14:41:48 GMT""}]","2007-05-23"
+"hep-th/9307069",,"M.C. Nemes and Saulo C.S. Silva","On the Necessity of Rational Velocities: a Gedankenexperiment","4 pages IFUSP/P-1058",,,,"hep-th",,"  In the present contribution we propose a gedankenexperiment in which the
+restriction of rational values on the velocities emerges as a necessary
+condition from Classical Electromagnetism and Quantum Mechanics. This
+restriction is shown to be intimately connected to Dirac's electric charge
+quantization condition.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 14:42:15 GMT""},{""version"":""v2"",""created"":""Fri, 16 Jul 1993 17:06:50 GMT""}]","2008-02-03"
+"hep-th/9307070",,"M.C. Nemes and Saulo C.S. Silva","Dirac Monopoles and the Angular Momentum of the Electromagnetic Field","4 pages IFUSP/P-1059",,,,"hep-th",,"  We present a possible solution for the long standing problem of the
+incompatibility of Dirac's charge quantization condition with integer values
+for the angular momentum of the electromagnetic field.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 14:42:36 GMT""}]","2007-05-23"
+"hep-th/9307071",,"E. Abdalla, M.C.B. Abdalla, J.C. Brunelli, A.Zadra","The Algebra of Non-Local Charges in Non-Linear Sigma Models","27 pages + figures available via ftp, Plain TeX, IFUSP/P-1061","Commun.Math.Phys. 166 (1994) 379-396","10.1007/BF02112321",,"hep-th",,"  We obtain the exact Dirac algebra obeyed by the conserved non-local charges
+in bosonic non-linear sigma models. Part of the computation is specialized for
+a symmetry group $O(N)$. As it turns out the algebra corresponds to a cubic
+deformation of the Kac-Moody algebra. The non-linear terms are computed in
+closed form. In each Dirac bracket we only find highest order terms (as
+explained in the paper), defining a saturated algebra. We generalize the
+results for the presence of a Wess-Zumino term. The algebra is very similar to
+the previous one, containing now a calculable correction of order one unit
+lower.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 15:19:00 GMT""}]","2009-10-22"
+"math/9307201","Yuri Latushkin","Yuri D. Latushkin, Stephen J. Montgomery-Smith","Evolutionary Semigroups and Lyapunov Theorems in Banach Spaces",,"J. Func. Anal. 127, (1995), 173-197",,,"math.FA",,"  We present a spectral mapping theorem for continuous semigroups of operators
+on any Banach space $E$. The condition for the hyperbolicity of a semigroup on
+$E$ is given in terms of the generator of an evolutionary semigroup acting in
+the space of $E$-valued functions. The evolutionary semigroup generated by the
+propagator of a nonautonomous differential equation in $E$ is also studied. A
+``discrete'' technique for the investigating of the evolutionary semigroup is
+developed and applied to describe the hyperbolicity (exponential dichotomy) of
+the nonautonomuos equation.
+  File Length: 68K
+","[{""version"":""v1"",""created"":""Thu, 8 Jul 1993 19:36:15 GMT""},{""version"":""v2"",""created"":""Mon, 6 Dec 1999 14:47:27 GMT""}]","2008-02-03"
+"math/9307205",,"Richard A. Askey, Natig M. Atakishiyev, Serge\u{\i} K. Suslov","An analog of the Fourier transformation for a q-harmonic oscillator",,,,"OP-SF 9 Jul 1993","math.CA math.QA",,"  A q-version of the Fourier transformation and some of its properties are
+discussed.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9307206",,"Richard A. Askey, Serge\u{\i} K. Suslov","The q-harmonic oscillator and an analog of the Charlier polynomials",,,"10.1088/0305-4470/26/15/014","OP-SF 9 Jul 1993","math.CA math.QA",,"  A model of a q-harmonic oscillator based on q-Charlier polynomials of
+Al-Salam and Carlitz is discussed. Simple explicit realization of q-creation
+and q-annihilation operators, q-coherent states and an analog of the Fourier
+transformation are found. A connection of the kernel of this transform with
+biorthogonal rational functions is observed.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2009-10-22"
+"math/9307207",,"Richard A. Askey, Serge\u{\i} K. Suslov","The q-harmonic oscillator and the Al-Salam and Carlitz polynomials",,,"10.1007/BF00749728","OP-SF 9 Jul 1993","math.CA math.QA",,"  One more model of a q-harmonic oscillator based on the q-orthogonal
+polynomials of Al-Salam and Carlitz is discussed. The explicit form of
+q-creation and q-annihilation operators, q-coherent states and an analog of the
+Fourier transformation are established. A connection of the kernel of this
+transform with a family of self-dual biorthogonal rational functions is
+observed.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9307208",,"Anne de M\'edicis, Dennis W. Stanton, Dennis E. White","The combinatorics of q-Charlier polynomials",,,,"OP-SF 9 Jul 1993","math.CA math.CO",,"  We describe various aspects of the Al-Salam-Carlitz $q$-Charlier polynomials.
+These include combinatorial descriptions of the moments, the orthogonality
+relation, and the linearization coefficients.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9307209",,"Shalosh B. Ekhad, Doron Zeilberger","A high-school algebra wallet-sized proof, of the Bieberbach conjecture
+  After L. Weinstein]",,,,"OP-SF 9 Jul 1993","math.CA",,"  Weinstein's[2] brilliant short proof of de Branges'[1] theorem can be made
+yet much shorter(modulo routine calculations), completely elementary (modulo
+L\""owner theory), self contained(no need for the esoteric Legendre polynomials'
+addition theorem), and motivated(ditto), as follows.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9307210",,"George Gasper Jr","Using sums of squares to prove that certain entire functions have only
+  real zeros",,,,"OP-SF 9 Jul 1993","math.CA",,"  It is shown how sums of squares of real valued functions can be used to give
+new proofs of the reality of the zeros of the Bessel functions $J_\alpha (z)$
+when $\alpha \ge -1,$ confluent hypergeometric functions ${}_0F_1(c\/; z)$ when
+$c>0$ or $0>c>-1$, Laguerre polynomials $L_n^\alpha(z)$ when $\alpha \ge -2,$
+and Jacobi polynomials $P_n^{(\alpha,\beta)}(z)$ when $\alpha \ge -1$ and $
+\beta \ge -1.$ Besides yielding new inequalities for $|F(z)|^2,$ where $F(z)$
+is one of these functions, the derived identities lead to inequalities for
+$\partial |F(z)|^2/\partial y$ and $\partial ^2 |F(z)|^2/\partial y^2,$ which
+also give new proofs of the reality of the zeros.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9307211",,"George Gasper Jr, Walter Trebels","On necessary multiplier conditions for Laguerre expansions",,,,"OP-SF 9 Jul 1993","math.CA",,"  The necessary multiplier conditions for Laguerre expansions derived in Gasper
+and Trebels \cite{laguerre} are supplemented and modified. This allows us to
+place Markett's Cohen type inequality \cite{cohen} (up to the $\log $--case) in
+the general framework of necessary conditions.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9307212",,"Walter Gautschi","Algorithm xxx --- ORTHPOL: A package of routines for generating
+  orthogonal polynomials and Gauss-type quadrature rules",,,,"OP-SF 9 Jul 1993","math.CA math.NA",,"  A collection of subroutines and examples of their uses, as well as the
+underlying numerical methods, are described for generating orthogonal
+polynomials relative to arbitrary weight functions. The object of these
+routines is to produce the coefficients in the three-term recurrence relation
+satisfied by the orthogonal polynomials. Once these are known, additional data
+can be generated, such as zeros of orthogonal polynomials and Gauss-type
+quadrature rules, for which routines are also provided.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9307213",,"M. Lawrence Glasser, Emilio Montaldi","Some integrals involving Bessel functions",,,,"OP-SF 9 Jul 1993","math.CA",,"  A number of new definite integrals involving Bessel functions are presented.
+These have been derived by finding new integral representations for the product
+of two Bessel functions of different order and argument in terms of the
+generalized hypergeometric function with subsequent reduction to special cases.
+Connection is made with Weber's second exponential integral and Laplace
+transforms of products of three Bessel functions.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9307214",,"Hans J. Haubold, Arak Mathai Mathai","Computational aspects of the gravitational instability problem for a
+  multicomponent cosmological medium",,,,"OP-SF 9 Jul 1993","math.CA astro-ph",,"  The paper presents results for deriving closed-form analytic solutions of the
+evolution of inhomogeneities in a homogeneous spatially flat multicomponent
+cosmological model. Mathematical methods to derive computable forms of the
+perturbations are outlined.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9307215",,"Walter Van Assche, Ann Sinap","Polynomial interpolation and Gaussian quadrature for matrix valued
+  functions",,"Linear Algebra Appl. 207 (1994), 71-114",,"OP-SF 9 Jul 1993","math.CA math.NA",,"  The techniques for polynomial interpolation and Gaussian quadrature are
+generalized to matrix-valued functions. It is shown how the zeros and
+rootvectors of matrix orthonormal polynomials can be used to get a quadrature
+formula with the highest degree of precision.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2013-10-16"
+"math/9307216","Tom H. Koornwinder","Tom H. Koornwinder","Jacobi polynomials of type BC, Jack polynomials, limit transitions and
+  O(\infty)",,"Contemp. Math. 190, 1995, Amer. Math. Soc., pp. 283-286",,"OP-SF 9 Jul 1993","math.CA",,"  This is an extended abstract of a lecture held at the Conference ``Fourier
+and Radon transformations on symmetric spaces'' in honor of Professor S.
+Helgason's 65th birthday, Roskilde, Denmark, Sept. 10--12, 1992.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9307217","Jean Letessier","Jean Letessier","Some results on co-recursive associated Laguerre and Jacobi polynomials",,,,"OP-SF 9 Jul 1993","math.CA",,"  We present results on co-recursive associated Laguerre and Jacobi polynomials
+which are of interest for the solution of the Chapman-Kolmogorov equations of
+some birth and death processes with or without absorption. Explicit forms,
+generating functions, and absolutely continuous part of the spectral measures
+are given. We derive fourth-order differential equations satisfied by the
+polynomials with a special attention to some simple limiting cases.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9307218",,"Alphonse P. Magnus","Painlev\'e-type differential equations for the recurrence coefficients
+  of semi-classical orthogonal polynomials.",,,,"OP-SF 9 Jul 1993","math.CA",,"  Recurrence coefficients of semi-classical orthogonal polynomials (orthogonal
+polynomials related to a weight function $w$ such that $w'/w$ is a rational
+function) are shown to be solutions of non linear differential equations with
+respect to a well-chosen parameter, according to principles established by D.
+G. Chudnovsky. Examples are given. For instance, the recurrence coefficients in
+$a_{n+1}p_{n+1}(x)=xp_n(x) -a_np_{n-1}(x)$ of the orthogonal polynomials
+related to the weight $\exp(-x^4/4-tx^2)$ on {\blackb R\/} satisfy $4a_n^3\ddot
+a_n = (3a_n^4+2ta_n^2-n)(a_n^4+2ta_n^2+n)$, and $a_n^2$ satisfies a Painlev\'e
+${\rm P}_{\rm IV}$ equation.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9307219",,"Rodica Simion, Dennis W. Stanton","Specializations of generalized Laguerre polynomials",,,,"OP-SF 9 Jul 1993","math.CA math.CO",,"  Three specializations of a set of orthogonal polynomials with ``8 different
+q's'' are given. The polynomials are identified as $q$-analogues of Laguerre
+polynomials, and the combinatorial interpretation of the moments give
+infinitely many new Mahonian statistics on permutations.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9307220",,"Walter Van Assche","The impact of Stieltjes' work on continued fractions and orthogonal
+  polynomials",,"in ""Thomas Jan Stieltjes Oeuvres Compl\`etes - Collected Papers"",
+  G. van Dijk, ed., Springer, 1993, pp. 5-37",,"OP-SF 9 Jul 1993","math.CA",,"  Stieltjes' work on continued fractions and the orthogonal polynomials related
+to continued fraction expansions is summarized and an attempt is made to
+describe the influence of Stieltjes' ideas and work in research done after his
+death, with an emphasis on the theory of orthogonal polynomials.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2013-10-16"
+"math/9307221",,"Walter Van Assche, Ingrid Vanherwegen","Quadrature formulas based on rational interpolation",,,"10.1090/S0025-5718-1993-1195424-6","OP-SF 9 Jul 1993","math.CA math.NA",,"  We consider quadrature formulas based on interpolation using the basis
+functions $1/(1+t_kx)$ $(k=1,2,3,\ldots)$ on $[-1,1]$, where $t_k$ are
+parameters on the interval $(-1,1)$. We investigate two types of quadratures:
+quadrature formulas of maximum accuracy which correctly integrate as many basis
+functions as possible (Gaussian quadrature), and quadrature formulas whose
+nodes are the zeros of the orthogonal functions obtained by orthogonalizing the
+system of basis functions (orthogonal quadrature). We show that both approaches
+involve orthogonal polynomials with modified (or varying) weights which depend
+on the number of quadrature nodes. The asymptotic distribution of the nodes is
+obtained as well as various interlacing properties and monotonicity results for
+the nodes.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 00:00:00 GMT""}]","2015-06-26"

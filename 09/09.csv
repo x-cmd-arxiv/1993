@@ -1,0 +1,269 @@
+"astro-ph/9309010",,"T. Norretranders, J. Bohr, and S. Brunak","Cavitation of Matter in the Universe into a Degenerated Voronoi Foam","18 pages, uuencoded compressed postscript",,,,"astro-ph",,"  Fluids suspended in expanding laboratory systems cavitate into Voronoi foams
+that degenerate through secondary cavitation of the foam walls. This robust
+morphological mechanism results from a virtual competition for space between
+the cavities. In cosmology, Voronoi foams are known to explain important
+features of the large scale structure, but the physical mechanism for the
+formation of such foams is unknown. We here present a scenario for the
+formation of large scale structure: Cavitation initiates at the abrupt
+reduction of radiation pressure on matter at decoupling and results in the cold
+flow of matter into a single, void-dominated structure with a scale determined
+by the Hubble sphere at decoupling. This mechanism does not impose restrictions
+on the smoothness of the last scattering surface at decoupling and conserves
+the entropy of matter during the self-organization of a single cavitation foam
+spanning the observable universe.
+","[{""version"":""v1"",""created"":""Thu, 9 Sep 1993 15:36:15 GMT""}]","2007-05-23"
+"chao-dyn/9309003","Neil J. Balmforth","N.J. Balmforth and E.A. Spiegel (Astron. Dept., Columbia Univ.), and
+  C. Tresser (IBM, Yorktown Heights)","The Topological Entropy of One-dimensional Maps: Approximations and
+  Bounds","8 pages, plain TEX, figures available on request",,"10.1103/PhysRevLett.72.80","55DAF","chao-dyn nlin.CD",,"  We present a method for computing the topological entropy of one-dimensional
+maps. As an approximation scheme, the algorithm converges rapidly and provides
+both upper and lower bounds.
+","[{""version"":""v1"",""created"":""Wed, 8 Sep 1993 16:24:52 GMT""}]","2009-10-22"
+"cond-mat/9309008","Cliff Burgess","J.J. Rodriguez-Nunez and Hans Beck","Effective t-J Hamiltonian for the Copper Oxides","(ps version of the dvi file, resubmitted because previous
+  uucompressed version was corrupted), 9 pages",,"10.1088/0953-8984/5/47/003",,"cond-mat",,"  Starting from the Emery model, which is assumed to describe the copper oxygen
+planes, and including direct oxygen hopping matrix elements, we have been able
+to derive the effective t-J Hamiltonian for the copper orbitals using the
+Linked Cluster Expansion Method up to fourth order in the hybridization matrix
+element.
+","[{""version"":""v1"",""created"":""Thu, 9 Sep 1993 13:24:22 GMT""},{""version"":""v2"",""created"":""Thu, 23 Sep 1993 12:28:02 GMT""}]","2009-10-22"
+"gr-qc/9309006","Hermann Nicolai","B.de Wit (Utrecht University), H.J. Matschull and H. Nicolai (Hamburg
+  University)","Physical States in d=3,N=2 Supergravity","11 pages, Report DESY 93-125, THU-93/19","Phys.Lett. B318 (1993) 115-121","10.1016/0370-2693(93)91793-M",,"gr-qc",,"  To clarify some issues raised by D'Eath's recent proposal for the physical
+states of $N=1$ supergravity in four dimensions, we study pure (topological)
+$N=2$ supergravity in three dimensions, which is formally very similar, but
+much easier to solve. The wave functionals solving the quantum constraints can
+be understood in terms of arbitrary functions on the space of moduli and
+supermoduli, which is not Hausdorff. We discuss the implications for the wave
+functionals and show that these are not amenable to expansions in fermionic
+coordinates, but can serve as lowest-order solutions to the quantum constraints
+in an expansion in $\hbar$ in more realistic theories.
+","[{""version"":""v1"",""created"":""Thu, 9 Sep 1993 11:23:03 GMT""}]","2009-10-22"
+"hep-lat/9309004","Joe Kiskis","J. Kiskis","Critical Exponent for the Density of Percolating Flux","20 pages, no figures, Latex/Revtex 3, UCD-93-27","Phys.Rev.D49:2597-2603,1994","10.1103/PhysRevD.49.2597",,"hep-lat cond-mat",,"  This paper is a study of some of the critical properties of a simple model
+for flux. The model is motivated by gauge theory and is equivalent to the Ising
+model in three dimensions. The phase with condensed flux is studied. This is
+the ordered phase of the Ising model and the high temperature, deconfined phase
+of the gauge theory. The flux picture will be used in this phase. Near the
+transition, the density is low enough so that flux variables remain useful.
+There is a finite density of finite flux clusters on both sides of the phase
+transition. In the deconfined phase, there is also an infinite, percolating
+network of flux with a density that vanishes as $T \rightarrow T_{c}^{+}$. On
+both sides of the critical point, the nonanalyticity in the total flux density
+is characterized by the exponent $(1-\alpha)$. The main result of this paper is
+a calculation of the critical exponent for the percolating network. The
+exponent for the density of the percolating cluster is $ \zeta = (1-\alpha) -
+(\varphi-1)$. The specific heat exponent $\alpha$ and the crossover exponent
+$\varphi$ can be computed in the $\epsilon$-expansion. Since $\zeta <
+(1-\alpha)$, the variation in the separate densities is much more rapid than
+that of the total. Flux is moving from the infinite cluster to the finite
+clusters much more rapidly than the total density is decreasing.
+","[{""version"":""v1"",""created"":""Wed, 8 Sep 1993 17:19:00 GMT""}]","2011-04-20"
+"hep-ph/9309243","David London","G. Belanger, D. London and H. Nadeau","Single Leptoquark Production","5 pages, LaTeX, 3 figures (not included, but available upon request),
+  UdeM-LPN-TH-93-160, McGill-93/29",,,,"hep-ph",,"  The single production of leptoquarks in $e^+e^-$, $e\gamma$ and $\gamma
+\gamma$ linear colliders is discussed. We show that these new particles could
+be seen in such machines even if their mass is close to the kinematic limit.
+(Invited talk given by G.B. at the ``Workshop on Physics and Experiments at
+Linear $e^+e^-$ Colliders'', Waikoloa, Hawaii, April 26-30, 1993.)
+","[{""version"":""v1"",""created"":""Wed, 8 Sep 1993 16:11:29 GMT""}]","2009-09-25"
+"hep-ph/9309244",,"U. Baur and A. Stange","THE $t\bar t\gamma$ BACKGROUND TO $pp\rightarrow W\gamma + X$ AT THE SSC","8 pages, latex, 3embedded figures (uuencoded postscript files), to
+  appear in the Proceedings of the Workshop ``Physics at Current Accelerators
+  and the Supercollider'', Argonne National Laboratory, June~2 --~5, 1993,
+  FSU-HEP-930830, BNL-49462",,,,"hep-ph",,"  We calculate the $pp\rightarrow t\bar t\gamma+X\rightarrow W\gamma + X$ cross
+section at SSC energies. Approximately 40\% of the total cross section
+originates from photon bremsstrahlung off the final state jet in $t\bar tj$
+production. Without cuts restricting the hadronic activity, the $t\bar t\gamma$
+rate is a factor 10 (2) larger than the tree level $W\gamma$ cross section for
+a top quark mass of 110~GeV (200~GeV). Imposing a jet veto cut, the $t\bar
+t\gamma$ rate can be suppressed to a level well below the $W\gamma+0$~jet
+signal cross section.
+","[{""version"":""v1"",""created"":""Wed, 8 Sep 1993 18:42:05 GMT""}]","2007-05-23"
+"hep-ph/9309245","Andrzej Czarnecki","Andrzej Czarnecki and Andrei I. Davydychev","Two-loop renormalization group analysis of hadronic decays of a charged
+  Higgs boson","10 pages + 4 figures, PostScript)","Phys.Lett. B325 (1994) 435-440","10.1016/0370-2693(94)90037-X","Alberta Thy-38-93","hep-ph",,"  We calculate next-to-leading QCD corrections to the decay $H^+ \to u\bar d$
+for generic up and down quarks in the final state. A recently developed
+algorithm for evaluation of massive two-loop Feynman diagrams is employed to
+calculate renormalization constants of the charged Higgs boson. The origin and
+summation of large logarithmic corrections to the decay rate of the top quark
+into a lighter charged Higgs boson is also explained.
+","[{""version"":""v1"",""created"":""Wed, 8 Sep 1993 22:08:07 GMT""}]","2016-09-01"
+"hep-ph/9309246","Rmt","R. Mu\~noz-Tapia and W.J. Stirling","Light Gluinos in Four-Jet Events at LEP","8pag. and 7 fig. in LATEX, Durham Preprint DTP/93/72","Phys.Rev. D49 (1994) 3763-3766","10.1103/PhysRevD.49.3763",,"hep-ph",,"  The light gluino hypothesis can explain the apparent incompatibility between
+the measurements of $\as$ at low- and high-energy. Such gluinos are produced
+directlyin four-jet events, for which we perform a detailed analysis. Because
+the jet energies are not large, the effect of the non-zero gluino mass is
+important. We take the gluino mass into account in the computation of the cross
+sections and shape variables. As expected, we find that mass effects tend to
+reduce the impact of the gluinos in the cross section, weakening the bounds
+from obtaining assuming massless gluinos.
+","[{""version"":""v1"",""created"":""Thu, 9 Sep 1993 11:11:34 GMT""}]","2009-10-22"
+"hep-ph/9309247","Judy Mack","P. Bedaque, A. Das and V. S. Mathur","Annihilation Diagrams in Two-Body Nonleptonic Decays of Charmed Mesons","9 pages (+ 3 figures available upon request), UR-1316, ER-40685-766,
+  IC/93/216","Phys.Rev.D49:1339-1341,1994","10.1103/PhysRevD.49.1339",,"hep-ph",,"  In the pole-dominance model for the two-body nonleptonic decays of charmed
+mesons $D \rightarrow PV$ and $D \rightarrow VV$, it is shown that the
+contributions of the intermediate pseudoscalar and the axial-vector meson poles
+cancel each other in the annihilation diagrams in the chiral limit. In the same
+limit, the annihilation diagrams for the $D \rightarrow PP$ decays vanish
+independently.
+","[{""version"":""v1"",""created"":""Thu, 9 Sep 1993 14:02:00 GMT""}]","2008-11-26"
+"hep-th/9309045",,"D.Z. Freedman, P.E. Haagensen, K. Johnson and J.I. Latorre","The Hidden Spatial Geometry of Non-Abelian Gauge Theories","19 pages, TeX, CTP #2238",,,,"hep-th hep-ph",,"  The Gauss law constraint in the Hamiltonian form of the $SU(2)$ gauge theory
+of gluons is satisfied by any functional of the gauge invariant tensor variable
+$\phi^{ij} = B^{ia} B^{ja}$. Arguments are given that the tensor $G_{ij} =
+(\phi^{-1})_{ij}\,\det B$ is a more appropriate variable. When the Hamiltonian
+is expressed in terms of $\phi$ or $G$, the quantity $\Gamma^i_{jk}$ appears.
+The gauge field Bianchi and Ricci identities yield a set of partial
+differential equations for $\Gamma$ in terms of $G$. One can show that $\Gamma$
+is a metric-compatible connection for $G$ with torsion, and that the curvature
+tensor of $\Gamma$ is that of an Einstein space. A curious 3-dimensional
+spatial geometry thus underlies the gauge-invariant configuration space of the
+theory, although the Hamiltonian is not invariant under spatial coordinate
+transformations. Spatial derivative terms in the energy density are singular
+when $\det G=\det B=0$. These singularities are the analogue of the centrifugal
+barrier of quantum mechanics, and physical wave-functionals are forced to
+vanish in a certain manner near $\det B=0$. It is argued that such barriers are
+an inevitable result of the projection on the gauge-invariant subspace of the
+Hilbert space, and that the barriers are a conspicuous way in which non-abelian
+gauge theories differ from scalar field theories.
+","[{""version"":""v1"",""created"":""Wed, 8 Sep 1993 19:43:17 GMT""}]","2007-05-23"
+"hep-th/9309046","S. Kalyana Rama","S. Kalyana Rama","Singularities in Low Energy $d = 4$ Heterotic String and Brans-Dicke
+  Theories","11 pages, preprint TCD-6-93; a mistake is corrected",,,,"hep-th astro-ph gr-qc hep-ph",,"  We present the static, spherically symmetric solutions of the low energy $d =
+4$ string. They form a simple generalisation of the Schwarzschild solution and
+describe the gravitational field of a spherical star in perturbative string
+theory. If the Robertson parameter $\gamma$ is different from one, these
+solutions describe singular objects with naked singularities at their horizons,
+and whose Hawking temperature is infinite. These objects might represent
+``massive remnants'', the end states of black holes. Our analysis also implies
+that Brans-Dicke theory has a naked singularity. Invoking cosmic censorship
+conjecture will rule out Brans-Dicke theory.
+","[{""version"":""v1"",""created"":""Wed, 8 Sep 1993 17:54:04 GMT""},{""version"":""v2"",""created"":""Tue, 21 Sep 1993 17:29:14 GMT""},{""version"":""v3"",""created"":""Sun, 10 Oct 1993 17:36:35 GMT""}]","2008-02-03"
+"hep-th/9309047","Richard MacKenzie","R. MacKenzie, P.K. Panigrahi and S. Sakhi","Superconductivity in $2+1$ dimensions via Kosterlitz-Thouless Mechanism:
+  Large-N and Finite-Temperature Analyses","27 pages + 4 figures and several diagrammatic equations, available
+  from authors upon request, UdeM-LPN-TH-147","Int.J.Mod.Phys.A9:3603-3630,1994","10.1142/S0217751X94001448",,"hep-th cond-mat",,"  We analyse a $2+1$ dimensional model with charged, relativistic fermions
+interacting through a four-Fermi term. Taking advantage of its large-$N$
+renormalizability, the various phases of this model are studied at finite
+temperature and beyond the leading order in $1/N$. Although the vacuum
+expectation value (VEV) of a charged order parameter is zero at any non-zero
+temperature, the model nevertheless exhibits a rich phase structure in the
+strong coupling r\'egime, because of the non-vanishing VEV of a neutral order
+parameter and due to the non-trivial dynamics of the vortex excitations on the
+plane. These are: a confined-vortex phase which is superconducting at low
+temperatures, an intermediate-temperature phase with deconfined vortices, and a
+high-temperature phase, where the neutral order parameter vanishes. The
+manifestation of superconductivity at low-temperatures and its disappearance
+above a critical temperature is explicitly shown to be due to the vortex
+confinement/deconfinement mechanism of Kosterlitz and Thouless. The ground
+state does not break parity or time-reversal symmetries and the ratio of the
+energy gap to $T_c$ is bigger than the conventional BCS value, for $N\ltwid
+22$.
+","[{""version"":""v1"",""created"":""Wed, 8 Sep 1993 19:07:55 GMT""}]","2010-11-01"
+"hep-th/9309048",,"J.Gomis, J.Herrero, K.Kamimura and J.Roca","Particle Mechanics Models with W-symmetries","34 pages, LaTeX, no figures. Several changes (including Title) and
+  new material added. Version to appear in Ann. Phys","Annals Phys. 244 (1995) 67-100","10.1006/aphy.1995.1107","UB-ECM-PF 93/18, TOHO-FP-9449","hep-th",,"  We introduce a particle mechanics model with Sp($2M$) gauge invariance.
+Different partial gauge-fixings by means of sl(2) embeddings on the gauge
+algebra lead to reduced models which are invariant under diffeomorphisms and
+classical non-linear \W-transformations as the residual gauge symmetries thus
+providing a set of models of gauge and matter fields coupled in a \W-invariant
+way. The equations of motion for the matter variables give Lax operators in a
+matrix form. We examine several examples in detail and discuss the issue of
+integration of infinitesimal \W-transformations.
+","[{""version"":""v1"",""created"":""Thu, 9 Sep 1993 11:19:47 GMT""},{""version"":""v2"",""created"":""Wed, 26 Apr 1995 20:15:49 GMT""}]","2009-10-22"
+"hep-th/9309049","Fernando Ruiz","G. Giavarini, C.P. Martin and F. Ruiz Ruiz","Abelian Chern-Simons theory as the strong large-mass limit of
+  topologically massive abelian gauge theory: the Wilson loop","phyzzx, 17 pages, FTUAM 93/27, UPRF 93/376 and NIKHEF-H 93/17 (to
+  appear in Nucl. Phys. B)","Nucl.Phys. B412 (1994) 731-750","10.1016/0550-3213(94)90397-2",,"hep-th",,"  We show that the renormalized vacuum expectation value of the Wilson loop for
+topologically massive abelian gauge theory in $\RR^3$ can be defined so that
+its large-mass limit be the renormalized vacuum expectation value of the Wilson
+loop for abelian Chern-Simons theory also in $\RR^3$.
+","[{""version"":""v1"",""created"":""Thu, 9 Sep 1993 09:27:14 GMT""}]","2009-10-22"
+"hep-th/9309050",,"D.V.Fursaev","The Heat Kernel Expansion on a Cone and Quantum Fields Near Cosmic
+  Strings","20 pages, JINR preprint August, 1993, E2-93-291, LATEX file","Class.Quant.Grav.11:1431-1444,1994","10.1088/0264-9381/11/6/008",,"hep-th",,"  An asymptotic expansion of the trace of the heat kernel on a cone where the
+heat coefficients have a delta function behavior at the apex is obtained. It is
+used to derive the renormalized effective action and total energy of a
+self-interacting quantum scalar field on the cosmic string space-time. Analogy
+is pointed out with quantum theory with boundaries. The surface infinities in
+the effective action are shown to appear and are removed by renormalization of
+the string tension. Besides, the total renormalized energy turns out to be
+finite due to cancelation of the known non-integrable divergence in the energy
+density of the field with a counterterm in the bare string tension.
+","[{""version"":""v1"",""created"":""Thu, 9 Sep 1993 07:20:48 GMT""}]","2010-04-06"
+"hep-th/9309051","Albrecht","Andreas Albrecht","Following a ""Collapsing"" Wavefunction","30 pages, plain LaTex, 3 figures in a separate uuencoded file","Phys.Rev.D48:3768-3778,1993","10.1103/PhysRevD.48.3768","Imperial/TP/92-93/03 and Fermilab-Pub-92/318-A","hep-th gr-qc",,"  I study the quantum mechanics of a spin interacting with an ``apparatus''.
+Although the evolution of the whole system is unitary, the spin evolution is
+not. The system is chosen so that the spin exhibits loss of quantum coherence,
+or ``wavefunction collapse'', of the sort usually associated with a quantum
+measurement. The system is analyzed from the point of view of the spin density
+matrix (or ``Schmidt paths''), and also using the consistent histories
+approach. These two points of view are contrasted with each other. Connections
+between the results and the form of the Hamiltonian are discussed in detail.
+","[{""version"":""v1"",""created"":""Thu, 9 Sep 1993 10:16:34 GMT""}]","2010-04-08"
+"hep-th/9309052","Hermann Nicolai","H. Nicolai (Hamburg University)","New Linear Systems for 2D Poincare Supergravities","26 pages, report DESY93-122","Nucl.Phys. B414 (1994) 299-328","10.1016/0550-3213(94)90432-4",,"hep-th",,"  A new linear system is constructed for Poincar\'e supergravities in two
+dimensions. In contrast to previous results, which were based on the conformal
+gauge, this linear system involves the topological world sheet degrees of
+freedom (the Beltrami and super-Beltrami differentials). The associated
+spectral parameter likewise depends on these and is itself subject to a pair of
+differential equations, whose integrability condition yields one of the
+equations of motion. These results suggest the existence of an extension of the
+Geroch group mixing propagating and topological degrees of freedom on the world
+sheet. We also develop a chiral tensor formalism for arbitrary Beltrami
+differentials, in which the factorization of $2d$ diffeomorphisms is always
+manifest.
+","[{""version"":""v1"",""created"":""Thu, 9 Sep 1993 11:52:24 GMT""}]","2009-10-22"
+"hep-th/9309053",,"Bernhard Drabant, Wolfgang Weich","Unitary Continuous Representations of Compact Quantum Groups","8 pages",,,"LMU-TPW 1993-23","hep-th math.OA math.QA",,"  Generalizing the notion of continuous Hilbert space representations of
+compact topological groups we define unitary continuous correpresentations of
+$C^*$-completions of compact quantum group Hopf algebras on arbitrary Hilbert
+spaces. It is proved that the unitary continuous correpresentations decompose
+in finite dimensional irreducible correpresentations.
+","[{""version"":""v1"",""created"":""Thu, 9 Sep 1993 14:21:20 GMT""}]","2008-02-03"
+"math/9309204","Joerg Brendle","J\""org Brendle","Evasion and prediction --- the Specker phenomenon and Gross spaces",,,,"Logic E-prints September 09, 1993","math.LO",,"  We study the set--theoretic combinatorics underlying the following two
+algebraic phenomena.
+  (1) A subgroup G leq Z^omega exhibits the Specker phenomenon iff every
+homomorphism G to Z maps almost all unit vectors to 0. Let se be the size of
+the smallest G leq Z^omega exhibiting the Specker phenomenon.
+  (2) Given an uncountably dimensional vector space E equipped with a symmetric
+bilinear form Phi over an at most countable field KK, (E,Phi) is strongly Gross
+iff for all countably dimensional U leq E, we have dim(U^perp) leq omega.
+  Blass showed that the Specker phenomenon is closely related to a
+combinatorial phenomenon he called evading and predicting. We prove several
+additional results (both theorems of ZFC and independence proofs) about evading
+and predicting as well as se, and relate a Luzin--style property associated
+with evading to the existence of strong Gross spaces.
+","[{""version"":""v1"",""created"":""Thu, 9 Sep 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9309205","Joerg Brendle","J\""org Brendle","Combinatorial properties of classical forcing notions",,,,"Logic E-prints September 09, 1993","math.LO",,"  We discuss the effect of adding a single real (for various forcing notions
+adding reals) on cardinal invariants associated with the continuum (like the
+unbounding or the dominating number or the cardinals related to measure and
+category on the real line). For random and Cohen forcing, this question was
+investigated by Cicho'n and Pawlikowski; for Hechler forcing, by Judah, Shelah
+and myself. We show here:
+  (1) adding an eventually different or a localization real adjoins a Luzin set
+of size continuum and a mad family of size omega_1;
+  (2) Laver and Mathias forcing collapse the dominating number to omega_1 ---
+consequences:
+  (A) CON(d=omega_1 + unif(L) = unif (M) = kappa = 2^omega) for any regular
+uncountable kappa;
+  (B) Two Laver or Mathias reals added iteratively always force CH (even
+diamond);
+  (C) Sigma^1_4-Mathias-absoluteness implies the Sigma^1_3- Ramsey property;
+  (3) Miller's rational perfect set forcing preserves the axiom
+MA(sigma-centered).
+","[{""version"":""v1"",""created"":""Thu, 9 Sep 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9309206","Joerg Brendle","J\""org Brendle","The additivity of porosity ideals",,,,"Logic E-prints September 09, 1993","math.LO",,"  We show that several sigma-ideals related to porous sets have additivity
+omega_1 and cofinality 2^omega. This answers a question addressed by Miroslav
+Repick'y.
+","[{""version"":""v1"",""created"":""Thu, 9 Sep 1993 00:00:00 GMT""}]","2009-09-25"
+"nucl-th/9309009",,"M.J. Musolf and T.W. Donnelly","Meson-Exchange Currents and the Strangeness Radius of 4he","9 tex pages and 2 figures (not included, available from authors on
+  request), CEBAF Preprint #TH-93-16 and MIT Preprint CTP#2234","Phys.Lett.B318:263-267,1993","10.1016/0370-2693(93)90125-2",,"nucl-th hep-ph",,"  Meson-exchange current contributions to the strangeness radius of $^4$He are
+computed in the one-boson exchange approximation. It is found that these
+contributions introduce a $\lapp$10\% correction to the one-body contribution.
+They should not, therefore, hamper the extraction of the nucleon strangeness
+radius from the parity-violating electron-$^4$He asymmetry.
+","[{""version"":""v1"",""created"":""Wed, 8 Sep 1993 17:36:30 GMT""}]","2014-11-18"
+"nucl-th/9309010",,"K. Varga","Two-body matrix elements of Pauli-projected excentric single-particle
+  orbits","ATOMKI-1993/10",,,,"nucl-th",,"  We present explicit analytical formulae for two-body matrix elements between
+Pauli-projected single-particle orbits generated by gaussians shifted from the
+centre of a nuclear core, which is populated by nucleons occupying
+harmonic-oscillator orbits. Such shifted gaussian orbits appear in the
+generator-coordinate model of two-cluster systems and, as ingredients of
+generating functions, in the resonating group model as well. A Pauli projection
+is to be understood as a projection onto the subspace not occupied by the core
+nucleons. This is an exact procedure to take into account the Pauli principle
+in the limit in which the core is infinitely heavy, thus the procedure to be
+presented is very useful in the microscopic description of large-core plus
+small-cluster systems, such as involved in $\alpha$-decay problems.
+","[{""version"":""v1"",""created"":""Wed, 8 Sep 1993 22:14:32 GMT""}]","2007-05-23"
+"nucl-th/9309011",,"K. Varga","A combined mathematica--fortran program package for analytical
+  calculation of the matrix elements of the microscopic cluster model",,"Comput.Phys.Commun. 104 (1997) 259-274","10.1016/S0010-4655(97)00031-3","ATOMKI-1993/11","nucl-th",,"  We present a computer code that analytically evaluates the matrix elements of
+the microscopic nuclear Hamiltonian and unity operator between Slater
+determinants of displaced gaussian single particle orbits. Such matrix elements
+appear in the generator coordinate model and the resonating group model
+versions of the microscopic multicluster calculations.
+","[{""version"":""v1"",""created"":""Wed, 8 Sep 1993 22:18:44 GMT""}]","2009-10-22"

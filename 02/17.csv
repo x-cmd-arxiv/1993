@@ -1,0 +1,170 @@
+"chao-dyn/9302004","Ronnie Mainieri","Ronnie Mainieri","Can averaged orbits be used to extract scaling functions?","CYCLER Paper 93feb006",,,,"chao-dyn nlin.CD",,"  Trajectory scaling functions are the basic element in the study of chaotic
+dynamical systems, from which any long time average can be computed. It has
+never been extracted from an experimental time series the reason being its
+sensitivity to noise. It is shown, by numerical simulations, that the
+sensitivity of the scaling function is to drift in the control parameters, and
+not noise. It is also explained how naive averaging of the orbit points may
+lead to erroneous results.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 00:00:00 GMT""}]","2008-02-03"
+"cond-mat/9302020","T. Hsu","Ted Hsu and Benoit Doucot","Effect of three-particle correlations in low dimensional Hubbard models","21 pages plus six figures (appended as postscript files) in RevTeX
+  v.2",,"10.1103/PhysRevB.48.2131",,"cond-mat",,"  A simple approximation which captures some non-perturbative aspects of the
+one electron Green function of strongly interacting Fermion systems is
+developed. It provides a way to go one step beyond the usual dilute limit since
+particle-particle as well as particle-hole scattering are treated on the same
+footing. Intermediate states are constrained to contain only one particle-hole
+excitation besides the incoming particle. The Faddeev equations resulting from
+an exact treatment of this three-body problem are investigated. In one
+dimension the method is able to show spin and charge decoupling, but does not
+reproduce the exact nature of power-law singularities. Hey dudes, check out the
+analytical solution in section III!
+","[{""version"":""v1"",""created"":""Tue, 16 Feb 1993 16:37:48 GMT""}]","2016-08-31"
+"cond-mat/9302021","P. Ossadnik","Peter Ossadnik","New model for crack growth using random walkers","27 pages, LaTex, article style, figures on request, HLRZ-preprint
+  106/92",,,,"cond-mat",,"  In close analogy to diffusion limited aggregation (DLA) and inspired by a
+work of Roux, a random walker algorithm is constructed to solve the problem of
+crack growth in an elastic medium. In contrast to conventional lattice
+approaches, the stress field is not calculated throughout the whole medium, but
+random walkers are used to detect only the hot sites on the surface of the
+crack. Using this new method we generate crack-clusters up to sizes of 20,000
+particles on simple workstations within reasonable time.
+","[{""version"":""v1"",""created"":""Tue, 16 Feb 1993 17:01:12 GMT""}]","2007-05-23"
+"gr-qc/9302018","Rafael Sorkin","Rafael D. Sorkin","Impossible Measurements on Quantum Fields","13 pages, preprint number SU-GP-92/12-4","published in the book, Directions in General Relativity:
+  Proceedings of the 1993 International Symposium, Maryland, Vol. 2: Papers in
+  honor of Dieter Brill, pages 293-305, Bei-Lok Hu and T.A. Jacobson editors,
+  (Cambridge University Press, 1993)",,,"gr-qc hep-th",,"  It is shown that the attempt to extend the notion of ideal measurement to
+quantum field theory leads to a conflict with locality, because (for most
+observables) the state vector reduction associated with an ideal measurement
+acts to transmit information faster than light. Two examples of such
+information-transfer are given, first in the quantum mechanics of a pair of
+coupled subsystems, and then for the free scalar field in flat spacetime. It is
+argued that this problem leaves the Hilbert space formulation of quantum field
+theory with no definite measurement theory, removing whatever advantages it may
+have seemed to possess vis a vis the sum-over-histories approach, and
+reinforcing the view that a sum-over-histories framework is the most promising
+one for quantum gravity.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 05:54:01 GMT""},{""version"":""v2"",""created"":""Sat, 20 Feb 1993 07:30:22 GMT""}]","2008-02-03"
+"hep-ph/9302263",,"M. A. Doncheski, M. B. Gay Ducati and F. Halzen","$J/\psi$ at small-$x$","16 pages (6 figures not included - available from the authors),
+  MAD/PH/742",,,,"hep-ph",,"  It has been suggested that the suppression of $J/\psi$ production in heavy
+nuclei is a signature of the formation of quark-gluon plasma. We here show that
+this phenomenon can be understood in terms of conventional physics, {\it i.e.}
+{\it i)} perturbative QCD, {\it ii)} the parton recombination implementation of
+shadowing in the initial state, and {\it iii)} final state interactions with
+the hadronic debris of the nuclear target. Unlike previous calculations we
+include both the direct $J/\psi$ production and its production via radiative
+$\chi$ decays ($\chi_J \to J/\psi + \gamma$). We are able to reproduce the
+experimental data including their small-$x$ behavior. We emphasize the
+importance of studying the $x_2$-dependence of the ratio $\sigma(b A)/\sigma(b
+N)$, where $b$ designates the beam and $x_2$ is the momentum fraction of the
+parton from the nuclear target.
+","[{""version"":""v1"",""created"":""Tue, 16 Feb 1993 16:51:32 GMT""}]","2007-05-23"
+"hep-ph/9302264","Jiri Chyla","J.Ch\'yla","Strong renormalization scheme dependence in $\tau$-lepton decays: fact
+  or fiction?","Latex 6 pages, 2 Postscript figures appended at the end of this file","Phys. Lett. B320 (1994) 359-363","10.1016/0370-2693(94)90669-6",,"hep-ph",,"  The question of the renormalization scheme dependence of the $\tau$
+semileptonic decay rate is revisited in response to a recent criticism.
+Particular attention is payed to a distinction between a consistent
+quantitative description of this dependence and the actual selection of a
+subset of ``acceptable'' renormalization schemes. It is argued that a
+reasonable universal measure of the renormalization scheme dependence can be
+formulated, which gives encouraging results when applied to various physical
+quantities, including the semileptonic $\tau$ decay rate.
+","[{""version"":""v1"",""created"":""Tue, 16 Feb 1993 22:51:56 GMT""}]","2016-08-14"
+"hep-ph/9302265",,"Adam F. Falk","Excited Heavy Mesons and Kaon Loops in Chiral Perturbation Theory","12 pages, 2 figures provided upon request, uses harvmac.tex,
+  SLAC--PUB--6055","Phys.Lett. B305 (1993) 268-274","10.1016/0370-2693(93)90117-Z",,"hep-ph",,"  We consider the effects of excited states on the $SU(3)$ breaking chiral loop
+corrections to heavy meson properties. In particular, we compare the size of
+kaon loops in which an excited heavy meson appears to the size of previously
+calculated loops with heavy mesons in the ground state. We find that the new
+effects may indeed be of the same magnitude as the old ones, but that there is
+a strong dependence on the unknown masses and coupling constants of the new
+states. As a result, we argue that the ground state loops alone may not be a
+trustworthy guide to $SU(3)$ corrections, and that the appropriate cutoff for a
+heavy-light chiral lagrangian which omits excited heavy mesons may be
+considerably smaller than the na\""\i ve expectation of $\Lambda_\chi\approx
+1\gev$.
+","[{""version"":""v1"",""created"":""Tue, 16 Feb 1993 23:56:00 GMT""}]","2009-10-22"
+"hep-ph/9302266","Derek Leinweber","Derek B. Leinweber","Do Quarks Really Form Diquark Clusters in the Nucleon?","RevTeX 3.0 manuscript, 15 pages. UU-file is a single PostScript file
+  of the manuscript including figures. U. MD PP #93-002","Phys.Rev. D47 (1993) 5096-5103","10.1103/PhysRevD.47.5096",,"hep-ph hep-lat",,"  A gauge invariant method for the investigation of scalar diquark clustering
+in the nucleon ground state is presented. The method focuses on a comparison of
+quark distributions in the nucleon with those in the $\Delta$ baryon resonance.
+Recent lattice QCD calculations of these quark distribution radii are analyzed
+in a search for evidence of scalar diquark clustering. The analysis indicates
+the lattice results describe the negative squared charge radius of the neutron
+with little resort to hyperfine clustering between $u$-$d$-quark pairs. This
+result contrasts both quark-diquark and nonrelativistic quark models where
+hyperfine attraction between $u$ and $d$ quarks in the nucleon is argued to
+play a significant role. Comparison of light quark distributions in $\Lambda^0$
+and $\Sigma^{*0}$ indicate only a small reduction of the scalar diquark
+distribution radius relative to the vector diquark distribution. Current
+lattice QCD determinations of baryon charge distributions do not support the
+concept of substantial $u$-$d$ scalar diquark clustering as an appropriate
+description of the internal structure of the nucleon.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 01:12:11 GMT""}]","2009-10-22"
+"hep-ph/9302267","Wai-Yee","D. Chang, W.-S Hou and W.-Y. Keung","Two--loop Contributions of Flavor Changing Neutral Higgs Boson to $\mu
+  \to e\gamma$","21 pages, 5 graphs not included, CERN--TH.6795/93","Phys.Rev.D48:217-224,1993","10.1103/PhysRevD.48.217",,"hep-ph",,"  The two--loop mechanism of Bjorken and Weinberg is used to constrain flavor
+changing neutral Higgs bosons. We calculate the complete set of two--loop
+diagrams for the rare decay $\mu \rightarrow e + \gamma$ induced by such
+neutral Higgs bosons, for arbitrary Higgs and top masses. The analytic result
+is used to set limits on Higgs masses for some recent models with specific
+ansatz about the flavor changing couplings. For example, in the Cheng--Sher
+scenario of multi-Higgs doublet models, all neutral Higgs bosons possess flavor
+changing ($f_i \leftrightarrow f_j)$ couplings proportional to $\sqrt{m_i
+m_j}$. We find that the present limit on $\mu\to e\gamma$ implies that, in such
+scheme, these neutral Higgs bosons should be heavier than $200$ GeV.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 11:02:41 GMT""}]","2009-09-01"
+"hep-th/9302073","Malcolm Perry","J. Barrett, G.W. Gibbons, M.J. Perry, C.N. Pope and P.J. Ruback","Kleinian Geometry and the N=2 Superstring","30 pages, AMS-TeX","Int.J.Mod.Phys.A9:1457-1494,1994","10.1142/S0217751X94000650",,"hep-th",,"  This paper is devoted to the exploration of some of the geometrical issues
+raised by the $N=2$ superstring. We begin by reviewing the reasons that
+$\beta$-functions for the $N=2$ superstring require it to live in a
+four-dimensional self-dual spacetime of signature $(--++)$, together with some
+of the arguments as to why the only degree of freedom in the theory is that
+described by the gravitational field. We then move on to describe at length the
+geometry of flat space, and how a real version of twistor theory is relevant to
+it. We then describe some of the more complicated spacetimes that satisfy the
+$\beta$-function equations. Finally we speculate on the deeper significance of
+some of these spacetimes.
+","[{""version"":""v1"",""created"":""Tue, 16 Feb 1993 18:44:49 GMT""}]","2009-10-07"
+"hep-th/9302074",,"E. Elizalde and S.D. Odintsov","Renormalization-group improved effective potential for gauge theories in
+  curved spacetime","Latex file,11pages","Phys.Lett.B303:240-248,1993; Russ.Phys.J.37:25-29,1994","10.1016/0370-2693(93)91427-O",,"hep-th",,"  The renormalization-group improved effective potential for an arbitrary
+renormalizable massless gauge theory in curved spacetime is found,thus
+generalizing Coleman-Weinberg's approach corresponding to flat space.Some
+explicit examples are considered,among of them:scalar self-interacting
+theory,scalar electrody namics,the asymptotically-free SU(2) gauge model,and
+the SU(5) GUT theory. The possibility of curvature-induced phase transitions is
+analyzed.It is shown that such a phase transition may take place in a SU(5)
+inflationary universe.The inclusion of quantum gravity effects isbriefly
+discussed.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 13:36:51 GMT""}]","2009-09-17"
+"hep-th/9302075","S. Kalyana Rama","S. Kalyana Rama","Tachyon Splits the (d = 2 String) Black Hole Horizon and Turns it
+  Singular","8 (12) pages [ single (double) spaced ], TCD-1-93; Revised Version: A
+  minor change in the Acknowledgement only","Phys.Rev.Lett.70:3186-3188,1993","10.1103/PhysRevLett.70.3186",,"hep-th gr-qc",,"  We present a static solution for $d = 2$ critical string theory including the
+tachyon $T$ but not its potential $V(T)$. This solution thus incorporates
+tachyon back reaction and, when $T = 0$, reduces to the black hole solution.
+When $T \neq 0$ one finds that (1) the Schwarzschild horizon of the above black
+hole splits into two, resembling Reissner-Nordstrom horizons and (2) the
+curvature scalar develops new singularities at the horizons. These features, as
+we argue, will persist even with $V(T)$ present. Some possible methods for
+removing these singularities are discussed.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 11:19:24 GMT""},{""version"":""v2"",""created"":""Thu, 18 Feb 1993 11:17:29 GMT""}]","2010-11-01"
+"hep-th/9302076","Shahn Majid","Shahn Majid","Free Braided Differential Calculus, Braided Binomial Theorem and the
+  Braided Exponential Map","19 pages","J.Math.Phys. 34 (1993) 4843-4856","10.1063/1.530326","DAMTP/93-3","hep-th math.QA",,"  Braided differential operators $\del^i$ are obtained by differentiating the
+addition law on the braided covector spaces introduced previously (such as the
+braided addition law on the quantum plane). These are affiliated to a
+Yang-Baxter matrix $R$. The quantum eigenfunctions $\exp_R(\vecx|\vecv)$ of the
+$\del^i$ (braided-plane waves) are introduced in the free case where the
+position components $x_i$ are totally non-commuting. We prove a braided
+$R$-binomial theorem and a braided-Taylors theorem
+$\exp_R(\veca|\del)f(\vecx)=f(\veca+\vecx)$. These various results precisely
+generalise to a generic $R$-matrix (and hence to $n$-dimensions) the well-known
+properties of the usual 1-dimensional $q$-differential and $q$-exponential. As
+a related application, we show that the q-Heisenberg algebra $px-qxp=1$ is a
+braided semidirect product $\C[x]\cocross \C[p]$ of the braided line acting on
+itself (a braided Weyl algebra). Similarly for its generalization to an
+arbitrary $R$-matrix.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 11:52:34 GMT""}]","2009-10-22"
+"hep-th/9302078",,"D.V.Fursaev and G.Miele","Finite-Temperature Scalar Field Theory in Static de Sitter Space","23 pages, JINR E2-93-46","Phys.Rev. D49 (1994) 987-998","10.1103/PhysRevD.49.987",,"hep-th",,"  The finite-temperature one-loop effective potential for a scalar field in the
+static de Sitter space-time is obtained. Within this framework, by using
+zeta-function regularization, one can get, in the conformally invariant case,
+the explicit expression for the stress tensor anomaly. Its value turns out to
+depend on the thermal state of the system. This conclusion is different from
+the one derived by other authors, who considered thermal properties of
+ultraviolet divergences in static spaces ignoring the effects of horizons. The
+behaviour of the effective potential in the ground state and in de
+Sitter-invariant state is also studied, showing the role played by the
+curvature on the minima.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 11:56:42 GMT""}]","2009-10-22"

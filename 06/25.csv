@@ -1,0 +1,232 @@
+"astro-ph/9306024","Marc Kamionkowski","Marc Kamionkowski and John N. Bahcall","Vacuum-Polarization Corrections to Solar-Fusion Rates","9 pages (phyzzx.tex, 1 figure included)","Phys.Rev.C49:545,1994","10.1103/PhysRevC.49.545","IASSNS-HEP-93/22, IASSNS-AST-93/21","astro-ph hep-ph nucl-th",,"  The vacuum-polarization corrections to rates for nuclear-fusion reactions in
+the $pp$ chain and in the CNO cycle are calculated. For the reactions of
+particular importance to the solar-neutrino problem, the $\Hethree$, $\Hefour$,
+$\Be$, and $\Ni$ reactions, we find the magnitude of the effect to be less than
+2\%. The effect of VP on all the other reaction rates is expected to be of a
+similar order of magnitude. We discuss how these results affect the predicted
+fluxes of solar neutrinos.
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 18:55:18 GMT""},{""version"":""v2"",""created"":""Fri, 24 Sep 1993 19:32:56 GMT""}]","2008-11-26"
+"astro-ph/9306025","Ethan Vishniac","ET Vishniac","Nonlinear Instabilities in Shock-Bounded Slabs","aastex, 42 pages, 9306025",,"10.1086/174231",,"astro-ph",,"  (substantial changes to section 3.2, otherwise minor) We present an analysis
+of the hydrodynamic stability of a cold slab bounded by two accretion shocks.
+Previous numerical work has shown that when the Mach number of the shock is
+large the slab is unstable. Here we show that to linear order both the bending
+and breathing modes of such a slab are stable. However, nonlinear effects will
+tend to soften the restoring forces for bending modes, and when the slab
+displacement is comparable to its thickness this gives rise to a nonlinear
+instability. The growth rate of the instability, above this threshold but for
+small bending angles, is $\sim c_sk (k\eta)^{1/2}$, where $\eta$ is the slab
+displacement. When the bending angle is large the slab will contain a local
+vorticity comparable to $c_s/L$, where $L$ is the slab thickness. We discuss
+the implications of this work for gravitational instabilities of slabs.
+Finally, we examine the cases of a decelerating slab bounded by a single shock
+and a stationary slab bounded on one side by thermal pressure. The latter case
+is stable, but appears to be a special case. The former case is subject to a
+nonlinear overstability driven by deceleration effects. We conclude that shock
+bounded slabs with a high density compression ratio generically produce
+substructure with a strong local shear, a bulk velocity dispersion like the
+sound speed in the cold layer and a characteristic scale comparable to the slab
+thickness.
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 21:07:28 GMT""},{""version"":""v2"",""created"":""Wed, 28 Jul 1993 21:37:34 GMT""}]","2009-10-22"
+"astro-ph/9306026","Stephen D. Murray","S. D. Murray and C. J. Clarke (Institute of Astronomy, Madingley Road,
+  Cambridge CB3 0HA, U.K.)","N-Body Simulations of Star-Disc Captures in Globular Clusters","33 pages plus 14 figures (appended as postscript files), Tex, C
+  Version 3.141",,"10.1093/mnras/265.1.169",,"astro-ph",,"  The presence of protostellar disks can greatly increase the dissipation
+during close stellar encounters, leading to the formation of a significant
+population of binaries during the initial collapse and virialization of a
+cluster. We have used N-body simulations of collapsing globular clusters to
+find the major factors that determine the efficiency of binary formation
+through star-disk captures. This work serves the dual purpose of verifying the
+results of earlier analytic work as well as examining parameters not testable
+by that work. As in the earlier work, typical binary fractions of a few percent
+are found. For the parameters studied, the results are found to depend
+remarkably little upon disk evolution, the mass distribution of the stars, or
+their spatial distribution, though distributions in which the stars are highly
+clumped yield binary fractions larger by a factor of a few. The direct N-body
+integrations limit the models to relatively small values of N. Semiempirical
+relations are derived, however, which allow the results to be extrapolated to
+values of N appropriate to globular clusters.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 06:49:00 GMT""}]","2015-06-24"
+"chao-dyn/9306010","Troy Shinbrot","Troy Shinbrot and J.M. Ottino (Laboratory for Fluid Mechanics, Chaos
+  and Mixing, Dept. of Chemical Engineering, Northwestern University)","Using Horseshoes to Create Coherent Structures","This is a 1.8 MB Postscript file which has been compressed and
+  uuencoded. It should be uudecoded, then decompressed before printing",,,,"chao-dyn nlin.CD nlin.PS patt-sol",,"  In this letter, we show that coherent structures are related to folds of
+horseshoes which are present in chaotic systems. We develop techniques that
+allow us to construct coherent structures by manipulating folds in three
+prototypical problems: a 1-D chaotic map, a 2-D chaotic map, and a chaotically
+advected fluid. The ability to construct such structures is of practical
+importance for the control of chaotic or turbulent extended systems such as
+fluids, plasmas, and coupled oscillator arrays.
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 18:13:29 GMT""}]","2008-02-03"
+"comp-gas/9306003","Steven Janowsky","Steven A. Janowsky (Rutgers) and Joel L. Lebowitz (Rutgers)","Exact Results for the Asymmetric Simple Exclusion Process with a
+  Blockage","18 pages, LaTeX (including figures in LaTeX picture mode)","J. Stat. Phys. 77, 35-51 (1994)","10.1007/BF02186831",,"comp-gas nlin.CG",,"  We present new results for the current as a function of transmission rate in
+the one dimensional totally asymmetric simple exclusion process (TASEP) with a
+blockage that lowers the jump rate at one site from one to r < 1. Exact finite
+volume results serve to bound the allowed values for the current in the
+infinite system. This proves the existence of a gap in allowed density
+corresponding to a nonequilibrium ``phase transition'' in the infinite system.
+A series expansion in r, derived from the finite systems, is proven to be
+asymptotic for all sufficiently large systems. Pade approximants based on this
+series, which make specific assumptions about the nature of the singularity at
+r = 1, match numerical data for the ``infinite'' system to a part in 10^4.
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 16:22:19 GMT""}]","2016-08-31"
+"cond-mat/9306053","Hyeong Chai Jeong","Hyeong-Chai Jeong and Paul J. Steinhardt","Finite-Temperature Elasticity Phase Transition in Decaconal
+  Quasicrystals","REVTEX, 23 pages. 11 Figures available on request from
+  hyeong@steinhardt.hep.upenn.edu, PA-9304",,,,"cond-mat",,"  We present evidence for a novel finite-temperature phase transition in the
+phason elasticity of quasicrystals. A tiling model for energetically stabilized
+decagonal quasicrystals has been studied in an extensive series of Monte Carlo
+simulation. Hamiltonian (energetics) of the model is given by nearest-neighbor
+Penrose-like matching rules between three dimensional unit cells. A new order
+parameter and diagnostics have been introduced. We show that a transition from
+locked phason to unlocked phason dynamics occurs at finite temperature. In the
+unlocked phase, phasons can be thermodynamically excited even though the
+quasicrystal is energetically stabilized at low temperatures.
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 18:24:44 GMT""}]","2007-05-23"
+"gr-qc/9306030","Charles Torre","C. G. Torre","Gravitational Observables and Local Symmetries","10 pages","Phys.Rev.D48:2373-2376,1993","10.1103/PhysRevD.48.R2373","FTG-116-USU","gr-qc hep-th",,"  Using a recent classification of local symmetries of the vacuum Einstein
+equations, it is shown that there can be no observables for the vacuum
+gravitational field (in a closed universe) built as spatial integrals of local
+functions of Cauchy data and their derivatives.
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 17:08:12 GMT""}]","2010-01-06"
+"gr-qc/9306031",,"P.F. Gonz\'alez-D\'iaz","Elliptic and circular wormholes","10, IMAFF-RC-02-93#",,,,"gr-qc",,"  Two new exact analytical solutions of the euclidean Einstein equations for a
+minimal massless scalar field and negative cosmological constant have been
+obtained. These solutions are given in terms of Jacobian elliptic or circular
+functions, rather than hyperbolic functions, connect large asymptotic regions
+of maximally-symmetric anti-DeSitter metrics through a microscopic throat, and
+correspond to negative definite components of the Ricci tensor. Therefore, they
+describe wormhole-like changes of topology driven by nucleation of baby
+universes. The quantum state of such elliptic and circular wormholes or handles
+is discussed in the most interesting inner and asymptotic regions.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 11:54:18 GMT""}]","2016-08-14"
+"gr-qc/9306032","Pavol Kolnik","C. Klimcik, P. Kolnik, and A. Pompos","Black Hole with Non-Commutative Hair","10 pages, LaTeX, PRA-HEP-93/9",,,,"gr-qc hep-th",,"  The specific nonlinear vector $\sigma$-model coupled to Einstein gravity is
+investigated. The model arises in the studies of the gravitating matter in
+non-commutative geometry. The static spherically symmetric spacetimes are
+identified by direct solving of the field equations. The asymptotically flat
+black hole with the ``non-commutative'' vector hair appears for the special
+choice of the integration constants, giving thus another counterexample to the
+famous ``no-hair'' theorem.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 13:30:49 GMT""}]","2007-05-23"
+"hep-ph/9306310",,"Adam F. Falk and Benjamin Grinstein","$\bar B\to\bar K\e^+\e^-$ in Chiral Perturbation Theory","16 pages, 4 postscript figures appended, uses harvmac.tex,
+  SLAC-PUB-6237, SSCL-Preprint-422","Nucl.Phys. B416 (1994) 771-785","10.1016/0550-3213(94)90554-1",,"hep-ph",,"  The combined use of chiral $SU(3)$ and heavy quark symmetries allows one to
+relate the hadronic form factors for the decay $\bar B\to \bar K\e^+\e^-$ to
+those for $\bar B\to\pi\e^-\bar\nu$. We investigate departures from the
+symmetry limit which arise from chiral symmetry breaking. The analysis uses
+chiral perturbation theory and the heavy quark limit to compute the relevant
+hadronic matrix elements. We estimate the size of $SU(3)$ corrections by
+computing, at one loop order, the leading nonanalytic dependence on the light
+quark masses. The calculation is trustworthy only in the portion of the Dalitz
+plot in which the momentum of the kaon or pion is small. We find the
+corrections to be~$\sim40\%$.
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 20:04:00 GMT""}]","2009-10-22"
+"hep-ph/9306311","Eric J. Piard","Pierre Ramond","Renormalization Group Study of the Minimal Supersymmetric Standard Model
+  : No Scale Models","invited talk at the H.A.R.C. workshop, April 1993. LaTeX, 7
+  postscript figures can be obtained thru anonymous ftp at uful07.phys.ufl.edu
+  in the directory /het/UFIFT-HEP-93-13, 16 pages, UFIFT-HEP-93-13",,,,"hep-ph",,"  We present partial numerical results in the Minimal Supersymmetric Standard
+Model with soft breaking of supersymmetry, and radiative breaking of the
+electroweak symmetry. We impose the additional relation, bottom mass = tau mass
+at the GUT scale. For the special case of the strict no-scale model, in which
+global supersymmetry breaking arises solely from soft gaugino masses, we find
+that the top mass is expected to be lighter than about 128 GeV. A higher upper
+bound for the top mass of about 138 GeV is predicted, if the mass of the bottom
+is at the lower end of its experimental uncertainty.
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 20:58:06 GMT""}]","2007-05-23"
+"hep-ph/9306312",,"T.G. Rizzo","Extraction of $Z'$ Coupling Data From $Z' \to jj$ at the LHC and SSC","6 pages, 14 figures(not included), LaTex with worlsci macro,
+  ANL-HEP-CP-93-50",,,,"hep-ph",,"  A recent analysis has shown that it may be possible at the SSC to extract
+information about $Z'$ couplings via the decay $Z' \to jj$. This technique was
+found to be useful for some extended electroweak models provided the $Z'$ is
+relatively light. In the present paper, we generalize this procedure to the LHC
+and to $Z'$'s which are more massive than 1 TeV. (Contributed to the {\it
+Proceedings of the Workshop on Physics at Current Accelerators and the
+Supercollider}, Argonne National Laboratory, June 2-5, 1993.)
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 20:25:58 GMT""}]","2007-05-23"
+"hep-ph/9306313","S. Stainsby","Samuel J. Stainsby and Reginald T. Cahill","Quark-gluon vertex and structure of mesons and diquarks","13 Pages, 7 figures available on E-mail request, FUPP-001-93, LATEX","Mod.Phys.Lett. A9 (1994) 3551-3564","10.1142/S0217732394003397",,"hep-ph",,"  *REVISED VERSION* Two quark propagators with different analytic structure are
+employed in on and off mass-shell Bethe-Salpeter type equations for the pion
+and scalar diquark form-factors. One of the quark propagators has been
+calculated with the inclusion of a trivial quark-gluon vertex and, as a
+consequence, contains a complex conjugate pair of logarithmic branch points.
+The other quark propagator includes a non-trivial vertex ansatz and is entire,
+with an essential singularity at infinity. The different quark propagators lead
+to qualitatively different diquark form-factors.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 08:34:17 GMT""},{""version"":""v2"",""created"":""Fri, 10 Sep 1993 06:09:45 GMT""}]","2009-10-22"
+"hep-th/9306126",,"Sasanka Ghosh and Samir K. Paul","$SL(n,R)$ KDV Hierarchy and its Nonpolynomial Realization Through
+  Kac-Moody Currents","plain tex, 15 pages, IMSC-93/11, SBNC-06/93",,,,"hep-th",,"  It is shown that $SL(n,R)$ KdV hierarchy can be expressed as definite
+nonpolynomials in Kac Moody currents and their derivatives by the action of
+Borel subgroup of $SL(n,R)$ on the phase space of centrally extended $sl(n,R)$
+Kac Moody currents. Construction of Lax pair is shown, confirming Drinfeld
+Sokolov type Hamiltonian reduction. This suggests an example of a moduli space
+with symplectic structure corresponding to extended conformal symmetries.
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 20:40:00 GMT""}]","2007-05-23"
+"hep-th/9306127","Harnad John","John Harnad","Isospectral Flow and Liouville-Arnold Integration in Loop Algebras","42 pages, 2 Figures, 1 Table. Lectures presented at the VIIIth
+  Scheveningen Conference, held at Wassenaar, the Netherlands, Aug. 16-21, 1992","Springer Lecture Notes in Physics 424, 1-42 (1993),
+  Springer-Verlag, N.Y., Heidelberg, ed. G. Helminck","10.1007/BFb0021440",,"hep-th nlin.SI solv-int",,"  A number of examples of Hamiltonian systems that are integrable by classical
+means are cast within the framework of isospectral flows in loop algebras.
+These include: the Neumann oscillator, the cubically nonlinear Schr\""odinger
+systems and the sine-Gordon equation. Each system has an associated invariant
+spectral curve and may be integrated via the Liouville-Arnold technique. The
+linearizing map is the Abel map to the associated Jacobi variety, which is
+deduced through separation of variables in hyperellipsoidal coordinates. More
+generally, a family of moment maps is derived, identifying certain finite
+dimensional symplectic manifolds with rational coadjoint orbits of loop
+algebras. Integrable Hamiltonians are obtained by restriction of elements of
+the ring of spectral invariants to the image of these moment maps. The
+isospectral property follows from the Adler-Kostant-Symes theorem, and gives
+rise to invariant spectral curves. {\it Spectral Darboux coordinates} are
+introduced on rational coadjoint orbits, generalizing the hyperellipsoidal
+coordinates to higher rank cases. Applying the Liouville-Arnold integration
+technique, the Liouville generating function is expressed in completely
+separated form as an abelian integral, implying the Abel map linearization in
+the general case.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 00:34:17 GMT""}]","2015-06-26"
+"hep-th/9306129",,"A. Deckmyn and K. Thielemans","Factoring out free fields","LATEX, 7 pp, KUL-TF-93/26. Small revisions in section on ""Induced and
+  effective $\Ww$ gravities"" regarding regularization issues",,,,"hep-th",,"  For a generic $\Ww$ algebra, we give an algorithmic procedure for factoring
+out all fields of dimension $1/2$, both bosonic and fermionic, and some fields
+of dimension $1$. This generalizes and makes more explicit the
+Goddard-Schwimmer theorem for free fermions. We also show how the induced
+gravity theory for the original $\Ww$ algebra containing the free fields
+relates to the theory where the fields are factored out.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 11:26:09 GMT""},{""version"":""v2"",""created"":""Mon, 19 Jul 1993 10:43:17 GMT""}]","2008-02-03"
+"hep-th/9306130","Tatsuya Ueno","Mitsuko Abe, A. Nakamichi and T. Ueno","Moduli Space of Topological 2-form Gravity","10pages, Latex (minor changes)","Mod.Phys.Lett. A9 (1994) 895-901","10.1142/S021773239400071X","TIT/HEP-224/COSMO-32","hep-th",,"  We propose a topological version of four-dimensional (Euclidean) Einstein
+gravity, in which anti-self-dual 2-forms and an SU(2) connection are used as
+fundamental fields. The theory describes the moduli space of conformally
+self-dual Einstein manifolds. In the presence of a cosmological constant, we
+evaluate the index of the elliptic complex associated with the moduli space.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 12:40:00 GMT""},{""version"":""v2"",""created"":""Tue, 20 Jul 1993 13:19:25 GMT""},{""version"":""v3"",""created"":""Mon, 9 Aug 1993 06:30:10 GMT""}]","2009-10-22"
+"hep-th/9306131",,"Martin Lavelle and David McMullan","On the Physical Propagators of QED","7 pages, 2 figures (not included, may be obtained from the authors),
+  MZ-TH/93-05, DIAS-STP-93-05","Phys.Lett. B312 (1993) 211-214","10.1016/0370-2693(93)90512-G",,"hep-th hep-ph",,"  The true variables in QED are the transverse photon components and Dirac's
+physical electron, constructed out of the fermionic field and the longitudinal
+components of the photon. We calculate the propagators in terms of these
+variables to one loop and demonstrate their gauge invariance. The physical
+electron propagator is shown not to suffer from infrared divergences in any
+gauge. In general, all physical Green's functions are gauge invariant and
+infrared-finite.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 12:10:04 GMT""}]","2009-10-22"
+"hep-th/9306132",,"Martin Lavelle and David McMullan","A New Symmetry for QED","9 pages, MZ-TH/93-02, DIAS-STP-93-03","Phys.Rev.Lett. 71 (1993) 3758-3761","10.1103/PhysRevLett.71.3758",,"hep-th",,"  We demonstrate that QED exhibits a previously unobserved symmetry. Some
+consequences are discussed.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 12:09:21 GMT""}]","2009-10-22"
+"nucl-th/9306023",,"K. Varga, Y. Suzuki and R. G. Lovas","Microscopic multicluster description of neutron-halo nuclei with a
+  stochastic variational method","Latex , 8 figures available on request, ATOMKI-4-1993-P","Nucl.Phys. A571 (1994) 447-466","10.1016/0375-9474(94)90221-6",,"nucl-th",,"  To test a multicluster approach for halo nuclei, we give a unified
+description for the ground states of $^6$He and $^8$He in a model comprising an
+$\alpha$ cluster and single-neutron clusters. The intercluster wave function is
+taken a superposition of terms belonging to different arrangements, each
+defined by a set of Jacobi coordinates. Each term is then a superposition of
+products of gaussian functions of the individual Jacobi coordinates with
+different widths, projected to angular momenta $l=0$ or 1. To avoid excessively
+large dimensions and ``overcompleteness"", stochastic methods were tested for
+selecting the gaussians spanning the basis. For $^6$He, we were able to
+calculate ground-state energies that are virtully exact within the subspace
+defined by the arrangements and $l$ values, and we found that preselected
+random sets of bases (with or without simulated annealing) yield excellent
+numerical convergence to this ``exact"" value with thoroughly truncated bases.
+For $^8$He good energy convergence was achieved in a state space comprising
+three arrangements with all $l=0$, and there are indications showing that the
+contributions of other subspaces are likely to be small. The $^6$He and $^8$He
+energies are reproduced by the same effective force very well, and the matter
+radii obtained are similar to those of other sophisticated calculations.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 09:28:04 GMT""}]","2009-10-22"
+"patt-sol/9306001","Thierry Dauxois","T. Dauxois (ENS LYON, Laboratoire de Physique, Lyon, France), M.
+  Peyrard (ENS LYON, Laboratoire de Physique, Lyon, France)","Discrete Breathers and Energy Localization in Nonlinear Lattices","15 pages in REVTEX, figures available from the authors.(email:
+  tdauxois@physique.ens-lyon.fr)",,,,"patt-sol nlin.PS",,"  We discuss the process by which energy, initially evenly distributed in a
+nonlinear lattice, can localize itself into large amplitude excitations. We
+show that, the standard modulational instability mechanism, which can initiate
+the process by the formation of small amplitude breathers, is completed
+efficiently, in the presence of discreteness, by energy exchange mechanisms
+between the nonlinear excitations which favor systematically the growth of the
+larger excitations. The process is however self regulated because the large
+amplitude excitations are finally trapped by the Peierls-Nabarro potential.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 09:34:56 GMT""}]","2008-02-03"

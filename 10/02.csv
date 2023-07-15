@@ -1,0 +1,138 @@
+"astro-ph/9310002","Joe Mohr","August Evrard, Joseph Mohr, Daniel Fabricant & Margaret Geller","A Morphology--Cosmology Connection for X--Ray Clusters","(uuencoded, compressed postscript, 9 pages including figures),
+  CFA-3709","Astrophys.J. 419 (1993) L9","10.1086/187124",,"astro-ph",,"  We employ N--body/$3D$ gas dynamic simulations of the formation of galaxy
+clusters to determine whether cluster X--ray morphologies can be used as
+cosmological constraints. Confirming the analytic expectations of Richstone,
+Loeb, \& Turner, we demonstrate that cluster evolution is sensitive to the
+cosmological model in which the clusters form. We further show that
+evolutionary differences are echoed in the gross morphological features of the
+cluster X--ray emission.
+  We examine current--epoch X--ray images of models originating from the same
+initial density fields evolved in three different cosmologies: (i) an unbiased,
+low density universe with $\Omega_o \se 0.2$; (ii) an unbiased universe
+dominated by vacuum energy with $\Omega_o \se 0.2$ and $\lambda_o \se 0.8$ and
+(iii) a biased Einstein--deSitter model ($\Omega \se 1$, $\sigma_8=0.59$).
+Using measures of X--ray morphology such as the axial ratio and centroid
+shifting, we demonstrate that clusters evolved in the two low $\Omega_o$ models
+are much more regular, spherically symmetric, and centrally condensed than
+clusters evolved in the Einstein--deSitter model. This morphology--cosmology
+connection, along with the availability of a large body of cluster X--ray
+observations, makes cluster X--ray morphology both a powerful and a practical
+cosmological discriminant.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 21:14:33 GMT""}]","2009-10-22"
+"cond-mat/9310003","Leon Balents","Leon Balents (Harvard University)","Localization of Elastic Layers by Correlated Disorder","4 pages, LaTeX3.0, REVTEX3.0 and epsf macros required, 2 uuencoded
+  postscript figures appended",,"10.1209/0295-5075/24/6/011",,"cond-mat",,"  The equilibrium behavior of a system of elastic layers under tension in the
+presence of correlated disorder is studied using functional renormalization
+group techniques. The model exhibits many of the features of the Bose glass
+phase of type II superconductors induced by columnar defects, but may be more
+directly applicable to charge density waves, incommensurate striped magnetic
+phases, stacked membranes under tension, vicinal crystal surfaces, or
+superconducting ``vortex--chains''. Below five dimensions, an epsilon expansion
+for the stable zero temperature fixed point yields the properties of the glassy
+phase. Transverse to the direction of correlation, the randomness induces
+logarithmic growth of displacements. Displacements are strongly localized in
+the correlation direction. The absence of a response to a weak applied
+transverse field (transverse Meissner effect) is demonstrated analytically. In
+this simple model, the localized phase is stable to point disorder, in contrast
+to the behavior in the presence of dislocations, in which the converse is
+believed to be true.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 20:23:31 GMT""}]","2009-10-22"
+"cond-mat/9310004","S. Suresh Rao","S. C. Phatak and S. Suresh Rao, (International)","Logistic Map: A Possible Random Number Generator","Latex 2.09, 14 pages, 7 postscript figures available upon request,
+  preprint No.IP/BBSR/93-52",,,,"cond-mat",,"  The logistic map is one of the simple systems exhibiting order to chaos
+transition. In this work we have investigated the possibility of using the
+logistic map in the chaotic regime ({\sc logmap}) for a pseudo random number
+generator. To this end we have performed certain statistical tests on the
+series of numbers obtained from the {\sc logmap}. We find that the {\sc logmap}
+passes these tests satisfactorily and therefore it possesses many properties
+required of a pseudo random number generator. (Postscript figures available
+upon request)
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 20:28:44 GMT""}]","2007-05-23"
+"gr-qc/9310002",,"G.W. Gibbons, C.G. Wells","Anti-Gravity Bounds and the Ricci Tensor","15, DAMTP R-93-25",,,,"gr-qc",,"  Recently Penrose, Sorkin and Woolgar have developed a new technique for
+proving the positive mass theorem in general relativity. We extend their result
+to produce a new inequality relating the mass, electric and scalar charges in
+theories coupling to a dilaton in the usual way. Using a five dimensional
+formalism, our result provides new information not available from the existing
+techniques. The main result may be simply expressed as
+  M + g\Sigma \ge { \sqrt{1+g^2} |Q| \over \sqrt {4\pi G} } . where `M' is the
+A.D.M. mass, `Q' is the electric charge, `\Sigma' the scalar charge and `g' is
+the dilaton coupling parameter.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 16:12:44 GMT""}]","2007-05-23"
+"hep-lat/9310002","Jeroen Vink","Jeroen C. Vink","Almost Gauge Invariant Lattice Actions for Chiral Gauge Theories, using
+  Laplacian Gauge Fixing","12p Latex, UCSD/PTH 93-29","Phys.Lett. B321 (1994) 239-245","10.1016/0370-2693(94)90471-5",,"hep-lat",,"  It is described how to obtain an almost gauge invariant lattice action $S$
+for chiral gauge theories, or other models in which a straightforward
+discretization leads to a lattice action $S^\pr$ in which gauge invariance is
+broken. The lattice action is `almost' gauge invariant, because a local gauge
+transformation leaves the action the same, up to a global gauge transformation.
+In this approach the action $S$ for all gauge fields on a gauge orbit is the
+same as that of the action $S^\pr$ evaluated for the gauge field fixed to a
+smooth gauge. To define $S$ unambiguously, it must be possible to compute the
+gauge fixed field unambiguously. This rules out gauge conditions which suffer
+from Gribov ambiguities but it can be achieved by using the recently proposed
+Laplacian gauge. When using the almost gauge invariant action $S$ in a
+numerical simulation, it is not necessary to fix the gauge, and hence gauge
+fixing terms and Fadeev-Popov ghosts are not required. A hybrid Monte Carlo
+algorithm for simulations with this new action is described and tested on a
+simple toy model.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 23:31:17 GMT""}]","2009-10-22"
+"hep-ph/9310207",,"Andy Acker and Sandip Pakvasa","Solar Neutrino Decay","10 pages, UH-511-774-93","Phys.Lett.B320:320-322,1994","10.1016/0370-2693(94)90663-7",,"hep-ph",,"  We re-examine the neutrino decay solution to the solar neutrino problem in
+light of the new data from Gallex II and Kamiokande III. We compare the
+experimental data with the solar models of Bahcall and Pinsonneault and
+Turck-Chieze and find that neutrino decay is ruled out as a solution to the
+solar neutrino problem at better than the 98\% c.l. even when solar model
+uncertainties are taken into account.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 19:03:54 GMT""}]","2009-04-13"
+"hep-ph/9310208","Pat LaBelle","P. Labelle, G.P. Lepage and U. Magnea","Order m alpha^8 Contributions to the Decay Rate of Orthopositronium","LATeX file, 7 pages","Phys.Rev.Lett. 72 (1994) 2006-2008","10.1103/PhysRevLett.72.2006",,"hep-ph",,"  We discuss how contributions to the order ${\cal O} (m \alpha^8)$
+orthopositronium decay rate can be separated into two categories, one due to
+relativistic momenta and calculable in terms of QED scattering amplitudes, the
+other due to low momenta and calculable in the simpler framework of a
+low-energy effective theory (NRQED). We report new results for all low-momentum
+contributions, and give a formula relating the remaining contributions to
+conventional (on-shell) QED scattering amplitudes.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 20:14:45 GMT""}]","2009-10-22"
+"hep-ph/9310209",,"M. Drees and M.M. Nojiri","A new signal for scalar top bound state production","7 pages plus 3 figures (not included, available from DREES@WISCPHEN
+  as fax or PS file), LaTeX with EQUATION.STY; MAD/PH/795, KEK-TH-373","Phys.Rev.Lett. 72 (1994) 2324-2327","10.1103/PhysRevLett.72.2324",,"hep-ph",,"  We study the production and decay of a scalar \stst\ bound state \sigst\ at
+hadron supercolliders, where \st\ is the lighter stop eigenstate. If \st\ has
+no tree--level 2--body decays, the dominant decay modes of \sigst\ are $gg$ or,
+if $m_h < \mst \ll \mstt$, a pair of light scalar Higgs bosons $h$.
+Nevertheless the branching ratio into two photons is often large enough to
+yield a detectable signal.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 18:19:00 GMT""}]","2009-10-22"
+"hep-ph/9310210","Kostas Philippides","Joannis Papavassiliou and Kostas Philippides","Gauge Invariant Three-Boson Vertices in the Standard Model and the
+  Static Properties of the W","33 pages (written in Texsis,11 figures and 2 tables not included)
+  ,NYU-TH-93/04/01 (to be published in Phys. Rev. D , November 1,1993","Phys.Rev. D48 (1993) 4255-4268","10.1103/PhysRevD.48.4255",,"hep-ph",,"  We use the S-matrix pinch technique to derive to one loop-order gauge
+independent $\gamma W^{+} W^{-} $ and Z $W^{+} W^{-}$ vertices in the context
+of the Standard Model,with all three incoming momenta off-shell. We show that
+the $\gamma W^{+} W^{-}$ vertex so constructed is related to the
+gauge-independent W self-energy,derived by Degrassi and Sirlin,by a very simple
+QED-like Ward identity.The same results are obtained by the pinch technique
+applied directly to the process $e^{+}e^{-} \rightarrow W^{+}W^{-}$. Explicit
+calculations give rise to expressions for the static properties of the
+  W gauge bosons like magnetic dipole and electric quadruple moments which
+being gauge independent satisfy such crucial properties as infrared finiteness
+and perturbative unitarity.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 23:33:56 GMT""}]","2009-10-22"
+"hep-th/9310008","Qmw Theory Group","D. Bailin, A. Love, W.A. Sabra and S. Thomas","String Loop Threshold Corrections \break For ${\bf Z}_N$ Coxeter
+  Orbifolds","15 pages, QMW--TH--93/22, SUSX--TH--93/14","Mod.Phys.Lett. A9 (1994) 67-80","10.1142/S0217732394000083",,"hep-th",,"  The moduli dependence of string loop threshold corrections to gauge coupling
+constants is investigated for those ${\bf Z}_N$ Coxeter orbifolds with the
+property that some twisted sectors have fixed planes for which the six-torus
+${\bf T}_6$ can not be decomposed into a direct sum ${\bf T}_4 \bigoplus{\bf
+T}_2$ with the fixed plane lying in ${\bf T}_2.$
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 17:13:45 GMT""}]","2015-06-26"
+"hep-th/9310009","David A. Lowe","David A. Lowe","String Causality","10 pages (Withdrawn due to error. See D. Lowe, L. Susskind and J.
+  Uglum, hep-th/9402136, for correct treatment.)",,,"UCSBTH-93-34","hep-th",,"  Withdrawn due to error. See D. Lowe, L. Susskind and J. Uglum,
+hep-th/9402136, for correct treatment. Apologies to all recipients.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 18:26:11 GMT""},{""version"":""v2"",""created"":""Thu, 27 Jan 1994 19:35:08 GMT""}]","2008-02-03"
+"hep-th/9310010",,"Victor M. Villalba","Exact solution of the two-dimensional Dirac oscillator","revtex, 6pp. IVIC-CFLE 93/05",,"10.1103/PhysRevA.49.586",,"hep-th",,"  In the present article we have found the complete energy spectrum and the
+corresponding eigenfunctions of the Dirac oscillator in two spatial dimensions.
+We show that the energy spectrum depends on the spin of the Dirac particle.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 20:28:22 GMT""}]","2009-10-22"
+"nucl-th/9310002",,"F. Krmpoti\'c","General Behavior of Double Beta Decay Amplitudes in the Quasiparticle
+  Random Phase Approximation","12 pages text (REVTEX) and 2 figures upon request, to be published in
+  Phys. Rev. C","Phys.Rev.C48:1452-1455,1993","10.1103/PhysRevC.48.1452",,"nucl-th",,"  Simple formulae for the $0^+\to 0^+$ double beta decay matrix elements, as a
+function of the particle-particle strength $g^{pp}$, have been designed within
+the quasiparticle random phase approximation. The $2\nu$ amplitude is a
+bilinear function of $g^{pp}$, and all $0\nu$ moments behave as ratios of a
+linear function and the square root of another linear function of $g^{pp}$. It
+is suggested that these results are of general validity and that any
+modifications of the nuclear hamiltonian or the configuration space cannot lead
+to a different functional dependence.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 18:09:39 GMT""}]","2016-08-16"

@@ -1,0 +1,105 @@
+"gr-qc/9303003","Marina Strakhova","A. Burinskii","String-Like Structures in Complex Kerr Geometry","12 pages, AmS-TeX, Talk given at the Fourth Hungarian Relativity
+  Workshop organized by R.P. Kerr and Z. Perj\'es, G\'ardony, 12-17 July 1992",,,"Preprint NSI-8-93","gr-qc hep-th",,"  The Kerr geometry is represented as being created by a source moving along an
+analytical complex world-line. The equivalence of this complex world-line and
+an Euclidean version of complex strings (hyperbolic strings) is discussed. It
+is shown that the complex Kerr source satisfies the corresponding string
+equations. The boundary conditions of the complex Euclidean strings require an
+orbifold-like structure of the world-sheet. The related orbifold-like structure
+of the Kerr geometry is discussed.
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 13:42:21 GMT""}]","2007-05-23"
+"hep-lat/9302012","Don Weingarten","F. Butler, H. Chen, J. Sexton, A. Vaccarino, and D. Weingarten","Meson Decay Constant Predictions of the Valence Approximation to Lattice
+  QCD","14 pages of Latex using REVTEX macros, included, plus Postscript for
+  2 figures, also included. (corrected two typos, one somewhat confusing)",,,,"hep-lat hep-ph",,"  We evaluate $f_{\pi}/ m_{\rho}$, $f_K/ m_{\rho}$, $1/f_{\rho}$, and $
+m_{\phi}/(f_{\phi} m_{\rho})$, extrapolated to physical quark mass, zero
+lattice spacing and infinite volume, for lattice QCD with Wilson quarks in the
+valence (quenched) approximation. The predicted $m_{\phi}/(f_{\phi} m_{\rho})$
+differs from experiment by less than its statistical uncertainty of
+approximately 15\%. The other three constants are 10\% to 20\% below
+experiment, equivalent to between one and two times the corresponding
+statistical uncertainties.
+","[{""version"":""v1"",""created"":""Sun, 28 Feb 1993 19:41:03 GMT""},{""version"":""v2"",""created"":""Wed, 3 Mar 1993 05:07:07 GMT""}]","2008-02-03"
+"hep-ph/9302321",,"Fred C. Adams","General Solutions for Tunneling of Scalar Fields with Quartic Potentials","17 pages, 6 figures not included but available upon request, UM AC
+  93-4","Phys.Rev. D48 (1993) 2800-2805","10.1103/PhysRevD.48.2800",,"hep-ph",,"  For the theory of a single scalar field $\varphi$ with a quartic potential
+$V(\varphi)$, we find semi-analytic expressions for the Euclidean action in
+both four and three dimensions. The action in four dimensions determines the
+quantum tunneling rate at zero temperature from a false vacuum state to the
+true vacuum state; similarly, the action in three dimensions determines the
+thermal tunneling rate for a finite temperature theory. We show that for all
+quartic potentials, the action can be obtained from a one parameter family of
+instanton solutions corresponding to a one parameter family of differential
+equations. We find the solutions numerically and use polynomial fitting
+formulae to obtain expressions for the Euclidean action. These results allow
+one to calculate tunneling rates for the entire possible range of quartic
+potentials, from the thin-wall (nearly degenerate) limit to the opposite limit
+of vanishing barrier height. We also present a similar calculation for
+potentials containing $\varphi^4 \ln \varphi^2$ terms, which arise in the
+one-loop approximation to the effective potential in electroweak theory.
+","[{""version"":""v1"",""created"":""Sun, 28 Feb 1993 18:53:17 GMT""}]","2009-10-22"
+"hep-ph/9303201",,"R.Casalbuoni, P. Chiappetta, A. Deandrea, S. De Curtis, D. Dominici
+  and R. Gatto","Vector Resonances from a Strong Electroweak Sector at Linear Colliders","21 pages, 13 figures (not included, but available on request), TeX,
+  UGVA-DPT 1993/02-805, February 1993","Z.Phys. C60 (1993) 315-326","10.1007/BF01474629",,"hep-ph",,"  We explore the usefulness of very energetic linear $e^+e^-$ colliders in the
+$TeV$ range in studying an alternative scheme of electroweak symmetry breaking
+based on a strong interacting sector. The calculations are performed within the
+BESS model which contains new vector resonances. If the mass $M_V$ of the new
+boson multiplet lies not far from the maximum machine energy, or if it is
+lower, such a resonant contribution would be quite manifest. A result of our
+analysis is that also virtual effects are important. It appears that
+annihilation into a fermion pair in such machines, at the considered
+luminosities, would improve only marginally on existing limits if polarized
+beams are available and left-right asymmetries are measured. On the other hand,
+the process of $W$-pair production by $e^+e^-$ annihilation would allow for
+sensitive tests of the hypothesized strong sector, especially if the $W$
+polarizations are reconstructed from their decay distributions, and the more so
+the higher the energy of the machine. An $e^+e^-$ collider with c.m. energy
+$\sqrt{s}=500~GeV$ could improve the limits on the model for the range
+$500<M_V(GeV)<1000$ when $W$ polarization is not reconstructed. If $W$
+polarizations are reconstructed, then the bounds improve for the entire
+expected range of $M_V$. These bounds become more stringent for larger energy
+of the collider. We have also studied the detectability of the new resonances
+through the fusion subprocesses, but this channel does not seem to be
+interesting even for a collider with a c.m. energy $\sqrt{s}=2~TeV$.
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 12:06:00 GMT""}]","2009-10-22"
+"hep-th/9302142",,"Takayuki Hori and Masaru Kamata","Wave Functional of Quantum Black Holes in Two Dimensions","9 pages, LaTeX, TEP-10",,,,"hep-th",,"  The wheeler-DeWitt method is applied to the quantization of the 1 + 1
+dimensional dilaton gravity coupled with the conformal matter fields. Exact
+solutions to the WD equations are found, which are interpreted as
+right(left)-moving black holes.
+","[{""version"":""v1"",""created"":""Sun, 28 Feb 1993 16:25:59 GMT""}]","2007-05-23"
+"hep-th/9302144","Senarath P. de Alwis","S. P. de Alwis","Two Dimensional Quantum Dilaton Gravity and the Positivity of Energy","16 pages, phyzzx, COLO-HEP-309. (Confusing points in previous version
+  clarified, discussion of ADM and Bondi masses in RST case added.)","Phys.Rev. D49 (1994) 941-946","10.1103/PhysRevD.49.941",,"hep-th gr-qc",,"  Using an argument due to Regge and Teitelboim, an expression for the ADM mass
+of 2d quantum dilaton gravity is obtained. By evaluating this expression we
+establish that the quantum theories which can be written as a Liouville-like
+theory, have a lower bound to energy, provided there is no critical boundary.
+This fact is then reconciled with the observation made earlier that the Hawking
+radiation does not appear to stop. The physical picture that emerges is that of
+a black hole in a bath of quantum radiation. We also evaluate the ADM mass for
+the models with RST boundary conditions and find that negative values are
+allowed. The Bondi mass of these models goes to zero for large retarded times,
+but becomes negative at intermediate times in a manner that is consistent with
+the thunderpop of RST.
+","[{""version"":""v1"",""created"":""Sun, 28 Feb 1993 17:16:53 GMT""},{""version"":""v2"",""created"":""Wed, 11 Aug 1993 19:38:50 GMT""}]","2009-10-22"
+"hep-th/9303001",,"Arne L. Larsen and Valery P. Frolov","Propagation of perturbations along strings","18 pages, LaTeX, Nordita-93/17 P","Nucl.Phys. B414 (1994) 129-146","10.1016/0550-3213(94)90425-1",,"hep-th",,"  A covariant formalism for physical perturbations propagating along a string
+in an arbitrary curved spacetime is developed. In the case of a stationary
+string in a static background the propagation of the perturbations is described
+by a wave-equation with a potential consisting of 2 terms: The first term
+describing the time-dilation and the second is connected with the curvature of
+space. As applications of the developed approach the propagation of
+perturbations along a stationary string in Rindler, de Sitter, Schwarzschild
+and Reissner-Nordstrom spacetimes are investigated.
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 10:30:37 GMT""}]","2009-10-22"
+"hep-th/9303002","Ulf Danielsson","Ulf H. Danielsson","Super Black Holes","8 pages, CERN-TH.6817-93","Phys.Lett. B307 (1993) 44-48","10.1016/0370-2693(93)90190-S",,"hep-th",,"  A quantum version of 2D super dilaton gravity containing a black hole is
+constructed for $N>8$. A previous disagreement as to whether this is possible
+or not is resolved.
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 11:57:13 GMT""}]","2009-10-22"
+"nucl-th/9303001","Jochen Wambach","S. Kamerdzhiev, J. Speth, G. Tertychny, and J. Wambach","M1 Resonances in Unstable Magic Nuclei","17 pages (LATEX), 12 figures (available from the authors),
+  KFA-IKP(TH)-1993-07",,"10.1007/BF01292513",,"nucl-th",,"  Within a microscopic approach which takes into account RPA configurations,
+the single-particle continuum and more complex $1p1h\otimes phonon$
+configurations isoscalar and isovector M1 excitations for the unstable nuclei
+${56,78}$Ni and ${100,132}$Sn are calculated. For comparison, the
+experimentally known M1 excitations in ${40}$Ca and $^{208}$Pb have also been
+calculated. In the latter nuclei good agreement in the centroid energy, the
+total transition strength and the resonance width is obtained. With the same
+parameters we predict the magnetic excitations for the unstable nuclei. The
+strength is sufficiently concentrated to be measurable in radioactive beam
+experiments. New features are found for the very neutron rich nucleus ${78}$Ni
+and the neutron deficient nucleus ${100}$Sn.
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 15:08:00 GMT""}]","2015-06-26"

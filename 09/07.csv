@@ -1,0 +1,139 @@
+"hep-lat/9309003","Kazuyuki Kanaya","Y. Iwasaki, K. Kanaya, Leo K\""arkk\""ainen, K. Rummukainen, and T.
+  Yoshi\'e","Interface Tension in Quenched QCD","13 pages with 2 PostScript figures, LaTeX, CERN-TH.6798/93,
+  AZPH-TH/93-04, UTHEP-252","Phys.Rev.D49:3540-3545,1994","10.1103/PhysRevD.49.3540",,"hep-lat astro-ph",,"  We calculate the tension $\sigma$ of the interface between the confined and
+deconfined phases by the histogram method in SU(3) lattice gauge theory for
+temporal extents of 4 and 6 using the recent high-statistics data by QCDPAX
+collaboration. The results are $\sigma/T_c^3 = 0.0292(22)$ and 0.0218(33) for
+$N_t=4$ and 6, respectively. The ratio $\sigma/T_c^3$ shows a scaling violation
+similar to that already observed for the latent heat $\latent$. However, we
+find that the physically interesting dimensionless combinations
+$(\sigma^{3}/\latent^2 T)^{1/2}$ and $\sigma T/ \latent$ scale within the
+statistical errors.
+","[{""version"":""v1"",""created"":""Tue, 7 Sep 1993 06:28:55 GMT""}]","2014-11-17"
+"hep-ph/9309230","Pene","A.Le Yaouanc and O.P\`ene","Semileptonic Decays and CKM Matrix Elements in a TCF","17 pages, LPTHE Orsay-93/33",,,,"hep-ph",,"  We argue that a Tau-Charm factory (TCF) could improve our knowledge of CKM
+matrix elements since it is an incomparable tool to check the models and
+methods applied to extract $V_{bu}$ from $B$ decay partial widths.
+  We report on some recent proposals to improve on parton model. Turning to
+exclusive decays, we compare the predictions from quark models, QCD sum rules,
+effective Lagrangians and lattice QCD. Quark models have anticipated on heavy
+quark symmetry. Their difficutly to account for the $q^2$ dependence might be
+partly cured by relativistic corrections. QCD sum rules and lattice seem to
+disagree on the $q^2$ dependence of axial form factors. We discuss the
+extrapolation from $D$ to $B$. Present uncertainties do not allow to predict
+reliably the $B\ra\pi,\rho l \nu$ matrix elements. We argue that QCD sum rules
+are in a good position to study $q^2$ dependence down to $q^2=0$. Lattice QCD
+is able to check the heavy quark scaling laws for the heavy to light
+semileptonic decays. It seems to confirm the increase of $A_2/A_1$ from $D$ to
+$B$ meson predicted by the scaling laws. Finally semileptonic decays in a TCF
+would give incomparable informations on $K\pi$ phase shifts, and on $K^{**}$
+resonances.
+","[{""version"":""v1"",""created"":""Mon, 6 Sep 1993 16:47:50 GMT""}]","2007-05-23"
+"hep-ph/9309231",,"Brian Hendee Smith","Effects of Amplitude Nullification in the Standard Model","10, 10 pages","Phys.Rev. D49 (1994) 1081-1085","10.1103/PhysRevD.49.1081",,"hep-ph",,"  Delicate cancellations among diagrams can result in the vanishing of
+threshold amplitudes in the standard model. This phenomenon is investigated for
+multi-Higgs production by scalar, vector, and fermionic fields. A surprising
+gap is found where although the tree-level amplitude for $2$ incoming gauge
+bosons to produce $N_v$ particle may vanish, the amplitude for the production
+of $N_{v}+1$ particles is nonzero.
+","[{""version"":""v1"",""created"":""Mon, 6 Sep 1993 21:17:11 GMT""}]","2009-10-22"
+"hep-ph/9309232","Hilmar Forkel","Hilmar Forkel and Manoj K. Banerjee","Direct Instantons in QCD Nucleon Sum Rules","10 pages, UMD PP#93-172","Phys.Rev.Lett. 71 (1993) 484-487","10.1103/PhysRevLett.71.484",,"hep-ph",,"  We study the role of direct (i.e. small-scale) instantons in QCD correlation
+functions for the nucleon. They generate sizeable, nonperturbative corrections
+to the conventional operator product expansion, which improve the quality of
+both QCD nucleon sum rules and cure the long-standing stability problem, in
+particular, of the chirally odd sum-rule.
+","[{""version"":""v1"",""created"":""Tue, 7 Sep 1993 00:31:06 GMT""}]","2009-10-22"
+"hep-ph/9309233","Ken-ichiro Aoki","Kenichiro Aoki","Effects of new physics to the the $\rho$--parameter in the
+  supersymmetric standard model","12 pages (5 figs), TIT/HEP-233, harvmac","Int. J. Mod. Phys. A10 (1995) 1765-1778","10.1142/S0217751X95000863",,"hep-ph",,"  The contribution to the $\rho$--parameter of the quark--Higgs sector of the
+supersymmetric standard model is computed non--perturbatively using the
+large--$\nf$ expansion for the case tan$\beta$=0. An explicit formula is found
+for the $\rho$--parameter which is ill-defined unless the triviality cutoff is
+taken into account. The cutoff dependence of the $\rho$--parameter is found to
+be large if and only if the top mass is larger than $2v$ so that the cutoff
+scale is of the order of the electroweak scale. These non--universal effects
+are the reflections at low energies of the physics beyond the supersymmetric
+standard model. By also considering the effects of the soft--breaking terms,
+cutoff effects in both decoupling and non--decoupling effects are analyzed.
+","[{""version"":""v1"",""created"":""Tue, 7 Sep 1993 08:05:19 GMT""}]","2015-06-25"
+"hep-ph/9309234",,"V.S. Fadin, V.A. Khoze and A.D. Martin","How suppressed are the radiative interference effects in heavy unstable
+  particle production?","6 pages (Latex) (no figures), DTP/93/64","Phys.Lett. B320 (1994) 141-144","10.1016/0370-2693(94)90837-0",,"hep-ph",,"  We present a \lq\lq theorem"" which quantifies, for inclusive processes, the
+level of suppression of the radiative interference effects between the
+production and decay stages of heavy {\it unstable} particles. The theorem,
+which is based on very general physical arguments, is applicable to all orders
+in the coupling.
+","[{""version"":""v1"",""created"":""Tue, 7 Sep 1993 11:39:00 GMT""}]","2009-10-22"
+"hep-ph/9309235","Cyrus C. Taylor","J.D. Bjorken, K.L. Kowalski and C.C. Taylor","Observing Disoriented Chiral Condensates","16 pages, LaTex, figures available on request. hep-ph/yymmnnn",,,,"hep-ph",,"  We speculate that, in very high energy hadronic collisions, large fireballs
+may be produced with interiors which have anomalous chiral order parameters.
+Such a process would result in radiation of pions with distinctive momentum and
+isospin distributions, and may provide an explanation of Centauro and related
+phenomena in cosmic-ray events. The phenomenology of such events is reviewed,
+with emphasis on the possibility of observing such phenomena at Fermilab
+experiment T-864 (MiniMax), or at a Full Acceptance Detector (FAD) at the SSC.
+","[{""version"":""v1"",""created"":""Tue, 7 Sep 1993 13:21:31 GMT""}]","2009-09-25"
+"hep-th/9309034",,"Michele Maggiore","The algebraic structure of the generalized uncertainty principle","6 pages, IFUP-TH 38/93","Phys.Lett. B319 (1993) 83-86","10.1016/0370-2693(93)90785-G",,"hep-th",,"  We show that a deformation of the Heisenberg algebra which depends on a
+dimensionful parameter $\kappa$ is the algebraic structure which underlies the
+generalized uncertainty principle in quantum gravity. The deformed algebra and
+therefore the form of the generalized uncertainty principle are fixed uniquely
+by rather simple assumptions. The string theory result is reproduced expanding
+our result at first order in $\Delta p/M_{\rm PL}$. We also briefly comment on
+possible implications for Lorentz invariance at the Planck scale.
+","[{""version"":""v1"",""created"":""Mon, 6 Sep 1993 16:40:47 GMT""}]","2009-10-22"
+"hep-th/9309035","Ichinose Shouichi","Shoichi Ichinose","Graphical Representation of Invariants and Covariants in General
+  Relativity","27 pages","Class.Quant.Grav.12:1021-1054,1995","10.1088/0264-9381/12/4/011",,"hep-th",,"  We present a grapical way to describe invariants and covariants in the (4
+dim) general relativity. This makes us free from the complexity of suffixes .
+Two new off-shell relations between (mass)$\ast\ast 6$\ invariants are
+obtained. These are important for 2-loop off-shell calculation in the
+perturbative quantum gravity. We list up all independent invarians with
+dimensions of (mass)$\ast\ast 4$\ and (mass)$\ast\ast 6$. Furthermore the
+explicit form of 6 dim Gauss-Bonnet identity is obtained.
+","[{""version"":""v1"",""created"":""Tue, 7 Sep 1993 04:30:06 GMT""}]","2010-04-06"
+"hep-th/9309036","J. A. de Azcarraga","J. A. de Azc\'arraga, P. P. Kulish, and F. R\'odenas","Reflection equations and q-Minkowski space algebras","10 pages","Lett.Math.Phys. 32 (1994) 173-182","10.1007/BF00750660","FTUV 93-36","hep-th math.QA",,"  We express the defining relations of the $q$-deformed Minkowski space algebra
+as well as that of the corresponding derivatives and differentials in the form
+of reflection equations. This formulation encompasses the covariance properties
+with respect the quantum Lorentz group action in a straightforward way.
+","[{""version"":""v1"",""created"":""Tue, 7 Sep 1993 10:22:00 GMT""}]","2009-10-22"
+"hep-th/9309037",,"M. Fabbrichesi, R. Pettorini, G. Veneziano and G.A. Vilkovisky","Planckian Energy Scattering and Surface Terms in the Gravitational
+  Action","preprint CERN-TH.6904/93/rev (Latex file, 46 pages, 2 figures not
+  included)",,"10.1016/0550-3213(94)90361-1",,"hep-th gr-qc",,"  This is a revised version of our previous paper by the same name and preprint
+number. It contains various changes, two figures and new results in sect.5. We
+propose a new approach to four-dimensional Planckian-energy scattering in which
+the phase of the ${\cal S}$-matrix is written---to leading order in $\hbar$ and
+to all orders in $R/b =Gs/J$---in terms of the surface term of the gravity
+action and of a boundary term for the colliding quanta. The proposal is checked
+at the leading order in $R/b$ and also against some known examples of
+scattering in strong gravitational fields.
+","[{""version"":""v1"",""created"":""Tue, 7 Sep 1993 13:29:57 GMT""},{""version"":""v2"",""created"":""Mon, 29 Nov 1993 14:49:13 GMT""}]","2009-10-22"
+"hep-th/9309038","Benjamin Enriquez","B. Enriquez, A. Orlov and V. Rubtsov","Higher Gel'fand-Dikii structures",,,,,"hep-th",,"  We apply the procedure of Magri and Weinstein to produce an infinity of
+compatible Poisson structures on a bihamiltonian manifold, to the case of the
+KdV phase space. The higher Gel'fand-Dikii structures thus obtained contain non
+local terms, which we express with the help of the r.h.s. of the KdV hierarchy.
+We also give a generating function for all these Poisson structues, in terms of
+the Baker-Akhiezer functions. Finally we describe the symplectic leaves of
+these Poisson structures.
+","[{""version"":""v1"",""created"":""Tue, 7 Sep 1993 14:23:55 GMT""}]","2007-05-23"
+"nucl-th/9309003","Csoto Attila","S.G. Cooper, R.S. Mackintosh, A. Csoto, and R.G. Lovas","Local $^4$He--p potentials from RGM phase shifts","LATEX with REVTEX, submitted to Phys. Rev. C, 12 figures (not
+  included) are available upon request OUPD9314","Phys.Rev.C50:1308-1318,1994","10.1103/PhysRevC.50.1308",,"nucl-th",,"  Phase shifts for $\alpha$ + nucleon scattering generated by a multichannel
+RGM model of the five-nucleon system are subjected to iterative-perturbative
+``mixed-case"" inversion for energies below the reaction threshold. The
+resulting phase-equivalent potentials are compared with local potentials
+calculated from the inversion of empirical phase shifts. A strong similarity is
+revealed between the two sets of potentials, most notably in the description by
+a parity- and energy-dependent local potential. In particular, the RGM-derived
+and empirical potentials share a distinctive form of parity dependence in which
+the odd-parity component is of greater radial extent. Comparison with
+potentials representing single-channel RGM phase shifts exhibits the importance
+of the coupled channels in terms of local potentials. The relative wave
+functions derived from RGM are very different to those for the phase-equivalent
+local potentials.
+","[{""version"":""v1"",""created"":""Mon, 6 Sep 1993 16:14:46 GMT""}]","2008-11-26"
+"nucl-th/9309004","John Tjon","E. Hummel and J. A. Tjon","Relativistic description of electron scattering on the deuteron","(19 pages in revtex + 15 figures not included, available upon
+  request.) report THU-93-100","Phys.Rev.C49:21-39,1994","10.1103/PhysRevC.49.21",,"nucl-th",,"  Within a quasipotential framework a relativistic analysis is presented of the
+deuteron current. Assuming that the singularities from the nucleon propagators
+are important, a so-called equal time approximation of the current is
+constructed. This is applied to both elastic and inelastic electron scattering.
+As dynamical model the relativistic one boson exchange model is used.
+Reasonable agreement is found with a previous relativistic calculation of the
+elastic electromagnetic form factors of the deuteron. For the unpolarized
+inelastic electron scattering effects of final state interactions and
+relativistic corrections to the structure functions are considered in the
+impulse approximation. Two specific kinematic situations are studied as
+examples.
+","[{""version"":""v1"",""created"":""Mon, 6 Sep 1993 21:33:22 GMT""}]","2008-11-26"

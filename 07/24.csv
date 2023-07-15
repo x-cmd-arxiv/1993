@@ -1,0 +1,53 @@
+"alg-geom/9307006",,"Jyotsna Gokhale","Boundary of the Picard Group of a Singular Curve","19 pages latex mri.math.3",,,,"alg-geom math.AG",,"  In this work we explore the boundary of the jacobian of a singular curve in
+the compactified picard group. We formulate a functor that helps to determine
+this boundary and show that this functor is representable. We try to dertermine
+the points on the boundary.
+","[{""version"":""v1"",""created"":""Sat, 24 Jul 1993 07:51:16 GMT""}]","2008-02-03"
+"alg-geom/9307007",,"Jyotsna Gokhale","Compactified Jacobian of some Singular Curves","14 pages, latex, mri.math.4",,,,"alg-geom math.AG",,"  We look at the decomposition of the compactified jacobian of a singular curve
+into components and discuss some examples.
+","[{""version"":""v1"",""created"":""Sat, 24 Jul 1993 07:51:12 GMT""}]","2008-02-03"
+"comp-gas/9307003","James D. Sterling","Marc B. Reider and James D. Sterling (Center for Nonlinear Studies,
+  Los Alamos National Laboratory)","Accuracy of Discrete-Velocity BGK Models for the Simulation of the
+  Incompressible Navier-Stokes Equations","12 pages, e-mail jds@goshawk.lanl.gov for hard copy/figure",,,,"comp-gas nlin.CG",,"  Two discretizations of a 9-velocity Boltzmann equation with a BGK collision
+operator are studied. A Chapman-Enskog expansion of the PDE system predicts
+that the macroscopic behavior corresponds to the incompressible Navier-Stokes
+equations with additional terms of order Mach number squared. We introduce a
+fourth-order scheme and compare results with those of the commonly used lattice
+Boltzmann discretization and with finite-difference schemes applied to the
+incompressible Navier-Stokes equations in primitive-variable form. We
+numerically demonstrate convergence of the BGK schemes to the incompressible
+Navier-Stokes equations and quantify the errors associated with compressibility
+and discretization effects. When compressibility error is smaller than
+discretization error, convergence in both grid spacing and time step is shown
+to be second-order for the LB method and is confirmed to be fourth-order for
+the fourth-order BGK solver. However, when the compressibility error is
+simultaneously reduced as the grid is refined, the LB method behaves as a
+first-order scheme in time.
+","[{""version"":""v1"",""created"":""Fri, 23 Jul 1993 17:25:52 GMT""}]","2008-02-03"
+"hep-ph/9307328",,"R. Foot and H. Lew","Mini-charged tau neutrinos?","8 pages in LaTeX, 1 uuencoded figure file appended, PURD-TH-93-10","Mod.Phys.Lett. A8 (1993) 3767-3772","10.1142/S0217732393003500",,"hep-ph",,"  Theoretically, the electric charge of the tau neutrino may be non-zero. The
+experimental bound on the electric charge of the tau neutrino is many orders of
+magnitude weaker than that for any other known neutrino. If the tau neutrino
+does have a small electric charge, and its mass is greater than 1 MeV, then it
+can annihilate sufficiently in the early Universe by electromagnetic
+interactions to avoid conflict with the standard cosmology model. A novel
+feature of this scenario is that there can be effectively less than three
+neutrino species present during nucleosynthesis.
+","[{""version"":""v1"",""created"":""Fri, 23 Jul 1993 19:15:47 GMT""}]","2009-10-22"
+"hep-ph/9307329","Evan Reidell","R. L. Jaffe and Xiangdong Ji","Novel Quark Fragmentation Functions and the Nucleon's Transversity
+  Distribution","10 pages, uses PHYZZX macro package, 2 PostScript figures (added
+  using FIGURES). MIT-CTP-2158","Phys.Rev.Lett.71:2547-2550,1993","10.1103/PhysRevLett.71.2547",,"hep-ph",,"  We define twist-two and twist-three quark fragmentation functions in Quantum
+Chromodynamics (QCD) and study their physical implications. Using this
+formalism we show how the nucleon's transversity distribution can be measured
+in single pion inclusive electroproduction.
+","[{""version"":""v1"",""created"":""Fri, 23 Jul 1993 21:45:35 GMT""}]","2010-11-01"
+"hep-ph/9307330",,"P.Colangelo, F.De Fazio and G.Nardulli","Radiative Heavy Meson Transitions","12 pages, LaTex, BARI-TH/93-144","Phys.Lett. B316 (1993) 555-560","10.1016/0370-2693(93)91043-M",,"hep-ph",,"  We evaluate the radiative and hadronic decay rates of the $D^*$ mesons using
+the Heavy Quark Effective Theory and the Vector Meson Dominance hypothesis. We
+also estimate the width of the $B^*$ electromagnetic transitions and the
+radiative decays of positive parity $J^P=0^+, 1^+$ charmed mesons.
+","[{""version"":""v1"",""created"":""Sat, 24 Jul 1993 10:35:00 GMT""}]","2009-10-22"
+"hep-th/9307146","Masahiro Maeno","Masahiro MAENO","$k^+=0$ Modes in Light-Cone Quantization","14pp","Phys. Lett. B320 (1994) 83-90","10.1016/0370-2693(94)90827-3",,"hep-th",,"  We investigate the light-cone quantization of $\phi^3$ theory in 1+1
+dimensions with a regularization of discretized light-cone momentum $k^+$.
+Solving a second-class constraint associated with the $k^+=0$ mode, we show
+that the $k^+=0$ mode propagates along the internal lines of Feynman diagrams
+in any order of perturbation, hence our theory recovers the Lorentz invariance.
+","[{""version"":""v1"",""created"":""Sat, 24 Jul 1993 01:27:33 GMT""}]","2009-10-22"

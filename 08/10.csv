@@ -1,0 +1,266 @@
+"astro-ph/9308012","David Weinberg","R. Juszkiewicz, D. Weinberg, P. Amsterdamski, M. Chodorowski & F.
+  Bouchet","Weakly Non-Linear Gaussian Fluctuations and the Edgeworth Expansion","Tex + epsf, 29 pages incl. 10 eps figures, subm. to ApJ, IAS preprint",,"10.1086/175420",,"astro-ph",,"  We calculate the cosmological evolution of the 1-point probability
+distribution function (PDF), using an analytic approximation that combines
+gravitational perturbation theory with the Edgeworth expansion of the PDF. Our
+method applies directly to a smoothed mass density field or to the divergence
+of a smoothed peculiar velocity field, provided that rms fluctuations are small
+compared to unity on the smoothing scale, and that the primordial fluctuations
+that seed the growth of structure are Gaussian. We use this `Edgeworth
+approximation' to compute the evolution of $<\delta|\delta|>$ and $<|delta|>$;
+these measures are similar to the skewness and kurtosis of the density field,
+but they are less sensitive to tails of the probability distribution, so they
+may be more accurately estimated from surveys of limited volume. We compare our
+analytic calculations to cosmological N-body simulations in order to assess
+their range of validity. When $\sigma \ll 1$, the numerical simulations and
+perturbation theory agree precisely, demonstrating that the N-body method can
+yield accurate results in the regime of weakly non-linear clustering. We show
+analytically that `biased' galaxy formation preserves the relation $<\delta^3>
+\propto <\delta^2>^2$ predicted by second-order perturbation theory, provided
+that the galaxy density is a local function of the underlying mass density.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 17:14:51 GMT""}]","2009-10-22"
+"astro-ph/9308013","Michael Strauss","Karl B Fisher, Marc Davis, Michael A Strauss, Amos Yahil, John P
+  Huchra","Clustering in the 1.2 Jy IRAS Galaxy Redshift Survey II: Redshift
+  Distortions and \xi(r_p,\pi)","28 pages of uuencoded compressed postscript; figures included","Mon.Not.Roy.Astron.Soc. 267 (1994) 927","10.1093/mnras/267.4.927",,"astro-ph",,"  We examine the effect of redshift space distortions on the galaxy two-point
+correlation function $\xi(r_p,\pi)$ as a function of separations parallel
+($r_p$) and perpendicular ($\pi$) to the line of sight. We find that the
+relative velocity dispersion of pairs of IRAS galaxies is $\sigma(r)=
+317^{+40}_{-49}$ \kms at $r=1 \mpc$, consistent with previous estimates derived
+from optically selected galaxy catalogues. Unfortunately, the use of this
+result to estimate $\Omega$ via the Cosmic Virial Theorem is thwarted by large
+systematic uncertainties. We also fit for the mean relative streaming velocity
+of pairs, $v_{12}(r)$, which describes the growth of fluctuations on both
+linear and nonlinear scales. We find that $v_{12}(r) = 167^{+99}_{-67}$ \kms at
+$r=4$\mpc, so that on average, approximately half the Hubble expansion velocity
+of pairs at this separation is canceled by infall. At $r=10$\mpc, the amplitude
+of the streaming is lower and $v_{12}(r) = 109^{+64}_{-47} \kms$. Linear
+perturbation theory then implies that $\Omega^{0.6}/b =0.45^{+0.27}_{-0.18}$ on
+scales $\sim 10-15 \mpc$. The amplitude of $v_{12}(r)$ is sensitive to the
+assumed shape of $\sigma(r)$; if the latter deviates substantially from a
+virialized form on small scale, our best fit amplitude of $v_{12}(r)$ can
+deviate by a factor of two.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 18:58:55 GMT""}]","2015-06-24"
+"cond-mat/9308011","Dongzi Liu","Dongzi Liu and S. Das Sarma","Universal Scaling of Strong-Field Localization in an Integer Quantum
+  Hall Liquid","28 pages, Latex, 17 figures (available upon request), #phd02",,"10.1103/PhysRevB.49.2677",,"cond-mat",,"  We study the Landau level localization and scaling properties of a disordered
+two-dimensional electron gas in the presence of a strong external magnetic
+field. The impurities are treated as random distributed scattering centers with
+parameterized potentials. Using a transfer matrix for a finite-width strip
+geometry, we calculate the localization length as a function of system size and
+electron energy. The finite-size localization length is determined by
+calculating the Lyapunov exponents of the transfer matrix. A detailed
+finite-size scaling analysis is used to study the critical behavior near the
+center of the Landau bands. The influence of varying the impurity
+concentration, the scattering potential range and its nature, and the Landau
+level index on the scaling behavior and on the critical exponent is
+systematically investigated. Particular emphasis is put on studying the effects
+of finite range of the disorder potential and Landau level coupling on the
+quantum localization behavior. Our numerical results, which are carried out on
+systems much larger than those studied before, indicate that pure
+$\delta$-function disorder in the absence of any Landau level coupling gives
+rise to non-universal localization properties with the critical exponents in
+the lowest two Landau levels being substantially different. Inclusion of a
+finite potential range and/or Landau level mixing may be essential in producing
+universality in the localization.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 22:03:34 GMT""}]","2009-10-22"
+"cond-mat/9308012","Dongzi Liu","S. Das Sarma and Dongzi Liu","Scaling Behavior of the Activated Conductivity in a Quantum Hall Liquid","9 pages, Latex, 2 figures (available upon request), #phd06",,"10.1103/PhysRevB.48.9166",,"cond-mat",,"  We propose a scaling model for the universal longitudinal conductivity near
+the mobility edge for the integer quantum Hall liquid. We fit our model with
+available experimental data on exponentially activated conductance near the
+Landau level tails in the integer quantum Hall regime. We obtain quantitative
+agreement between our scaling model and the experimental data over a wide
+temperature and magnetic field range.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 22:06:56 GMT""}]","2009-10-22"
+"cond-mat/9308014",,"Albert-Laszlo Barabasi","Surfactant-Mediated Surface Growth: Nonequilibrium Theory","24 pages, REVTEX, 4 figures (not included)",,"10.1142/9789814503792_0043",,"cond-mat",,"  A number of recent experiments have showed that surfactants can modify the
+growth mode of an epitaxial film, suppressing islanding and promoting
+layer-by-layer growth. Here a set of coupled equations are introduced to
+describe the coupling between a growing interface and a thin surfactant layer
+deposited on the top of the nonequilibrium surface . The equations are derived
+using the main experimentally backed characteristics of the system and basic
+symmetry principles. The system is studied using a
+dynamic-renormalization-group scheme, which provides scaling relations between
+the roughness exponents. It is found that the surfactant may drive the system
+into a novel phase, in which the surface roughness is negative, corresponding
+to a flat surface.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 15:46:41 GMT""}]","2016-11-03"
+"funct-an/9308001","Daniele Guido","S. Albeverio, D. Guido, A. Ponosov, S. Scarlatti","Singular Traces and Compact Operators. I","20 pages, AMS TeX, SFB 237-Preprint Nr.180-May 93","Journ. Funct. Analysis, 137 (1996), 281-302.","10.1006/jfan.1996.0047",,"funct-an math.OA",,"  We give a necessary and sufficient condition on a positive compact operator
+$T$ for the existence of a singular trace (i.e. a trace vanishing on the finite
+rank operators) which takes a finite non-zero value on $T$. This generalizes
+previous results by Dixmier and Varga. We also give an explicit description of
+these traces and associated ergodic states on $\ell^\infty(\Bbb N)$ using tools
+of non standard analysis in an essential way.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 19:44:00 GMT""}]","2008-02-03"
+"funct-an/9308002","Daniele Guido","D. Guido, T. Isola, S. Scarlatti","Non Symmetric Dirichlet Forms on Semifinite von Neumann Algebras","32 pages, plain TeX, Preprint Roma TOR VERGATA Nr.9-93-May 93","Journ. Funct. Analysis, 135 (1996), 50-75","10.1006/jfan.1996.0003",,"funct-an math.OA",,"  The theory of non symmetric Dirichlet forms is generalized to the non abelian
+setting, also establishing the natural correspondences among Dirichlet forms,
+sub-Markovian semigroups and sub-Markovian resolvents within this context.
+Examples of non symmetric Dirichlet forms given by derivations on Hilbert
+algebras are studied.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 20:59:00 GMT""}]","2008-02-03"
+"gr-qc/9308007","D. V. Ahluwalia","D. V. Ahluwalia","Quantum Measurement, Gravitation, and Locality","LA-UR-93-2890-REV, ""honorable mention"" for the 1994 Awards by Gravity
+  Research Foundation","Phys.Lett.B339:301-303,1994","10.1016/0370-2693(94)90622-X",,"gr-qc hep-th",,"  This essay argues that when measurement processes involve energies of the
+order of the Planck scale, the fundamental assumption of locality may no longer
+be a good approximation. Idealized position measurements of two distinguishable
+spin-$0$ particles are considered. The measurements alter the space-time metric
+in a fundamental manner governed by the commutation relations $[x_i\,\,p_j]=
+i\hbar\,\delta_{ij}$ and the classical field equations of gravitation. This
+{\it in-principle} unavoidable change in the space-time metric destroys the
+commutativity (and hence locality) of position measurement operators.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 17:59:32 GMT""},{""version"":""v2"",""created"":""Tue, 17 May 1994 01:55:32 GMT""}]","2008-11-26"
+"gr-qc/9308008","Domenico Giulini","Domenico Giulini","Properties of 3-manifolds for relativists","20 pages. Plain-TeX, no figures, 1 Table (A4 format)","Int.J.Theor.Phys. 33 (1994) 913-930","10.1007/BF00672824",,"gr-qc",,"  In canonical quantum gravity certain topological properties of 3-manifolds
+are of interest. This article gives an account of those properties which have
+so far received sufficient attention, especially those concerning the
+diffeomorphism groups of 3-manifolds. We give a summary of these properties and
+list some old and new results concerning them. The appendix contains a
+discussion of the group of large diffeomorphisms of the $l$-handle 3-manifold.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 19:43:15 GMT""}]","2015-06-25"
+"hep-lat/9308008",,"N. Ishizuka and Y. Shizawa","Perturbative renormalization factors for bilinear and four-quark
+  operators for Kogut-Susskind fermions on the lattice","37 pages, LaTeX with epsf.sty, UTHEP-261/July 1993","Phys.Rev. D49 (1994) 3519-3539","10.1103/PhysRevD.49.3519",,"hep-lat",,"  Renormalization factors for bilinear and four-quark operators with the
+Kogut-Susskind fermion action are perturbatively calculated to one-loop order
+in the general covariant gauge. Results are presented both for gauge invariant
+and non-invariant operators. For four-quark operators the full renormalization
+matrix for a complete set of operators with two types of color contraction
+structures are worked out and detailed numerical tables are given.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 05:02:58 GMT""}]","2009-10-22"
+"hep-ph/9308248","German Valencia","S. Dawson and G. Valencia","Signals For Parity Violation in the Electroweak Symmetry Breaking Sector","Some sentences were added and others changed to clarify the
+  discussion, 14 pages LaTeX","Phys.Rev. D49 (1994) 2188-2196","10.1103/PhysRevD.49.2188",,"hep-ph",,"  We consider the possibility of observing a parity violating but $CP$
+conserving interaction in the symmetry breaking sector of the electroweak
+theory. We find that the best probe for such an interaction is a
+forward-backward asymmetry in $W^+W^-$ production from polarized $e^-_R e^+_L$
+collisions. An observable asymmetry would be strong evidence against a
+custodial $SU(2)$ symmetry. We also discuss the effects of such an interaction
+in future $e^- \gamma$ colliders as well as in rare decays of $K$ and $B$
+mesons.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 19:08:01 GMT""},{""version"":""v2"",""created"":""Thu, 3 Feb 1994 22:17:24 GMT""}]","2009-10-22"
+"hep-ph/9308249","Arthur Weldon","H. Arthur Weldon","Cancellation of Infrared Divergences in Thermal QED","6 pages, (Talk presented at Quark Matter '93)","Nucl.Phys. A566 (1994) 581c-584c","10.1016/0375-9474(94)90698-X",,"hep-ph",,"  As a preliminary step, the radiation produced by a classical charged current
+coupled to a quantized $A_{\mu}$ is solved. To each order in $\alpha$, all
+infrared divergences cancel between the virtual $\gamma$'s and the real
+$\gamma$'s absorbed from the plasma or emitted into the plasma. When all orders
+of perturbation theory are summed, the finite answer predicts a suppression of
+radiation with $\omega< \alpha T$. The analysis of QED then consists of two
+steps. First, a general probability at $T\neq 0$ is organized so that all the
+virtual $e^{\pm},\gamma$ are in the amplitudes and all the real
+$e^{\pm},\gamma$ are in the phase space integrations. Next, the cancellations
+of IR divergences between virtual and real are demonstrated.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 20:45:39 GMT""}]","2009-10-22"
+"hep-ph/9308250",,"R. D. Peccei","Dynamical Electroweak Breaking: Issues and Challenges","21 pages, LaTeX, UCLA/93/TEP/27; The figures are available by FAX
+  upon request to Reyes@UCLAPH.PHYSICS.UCLA.EDU; or Reyes@UCLAPH.BITNET or
+  UCLAPH::Reyes. Please remember to give your FAX number",,,,"hep-ph",,"  After briefly remarking on alternatives for breaking the electroweak
+symmetry, I discuss the implication that recent precision experiments at LEP
+have for the symmetry breaking sector. The difficulties associated with
+generating fermion masses when the electroweak symmetry is broken dynamically
+are exposed and an alternative to the walking technicolor - extended
+technicolor scenario is suggested, based on models of substructure. Failures
+and lessons from trying to incorporate families and mixing in these latter
+schemes are also discussed.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 21:33:00 GMT""}]","2007-05-23"
+"hep-ph/9308251","JiangLiu","Mirjam Cvetii\v{c}, Paul Langacker and Jiang Liu","Testing the handedness of a heavy $W^{\prime}$ at future hadron
+  colliders","UPR-0579T 16 pages, 3 figures (not included)","Phys.Rev.D49:2405-2409,1994","10.1103/PhysRevD.49.2405",,"hep-ph",,"  We show that the associated production $pp\to W^{\prime}W$, and the rare
+decay $pp\to W'\to \bar\ell\ell W$ are useful tests of $W'$ couplings to
+fermions at future hadron colliders. For $M_{W'}\sim (1 - 3)$ TeV they would
+allow a clean determination on whether the $W'$ couples to $V-A$ or $V+A$
+currents. As an illustration a model in which the $W^{\prime\pm}$ couples only
+to $V-A$ currents is contrasted to the left-right symmetric models which
+involve $V+A$ currents.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 14:21:57 GMT""}]","2009-09-17"
+"hep-ph/9308254",,"Martin B. Einhorn","On the Hadronic Contribution to Light-by-light Scattering in $g_\mu-2$","9 pages, no figures, U. Michigan UM-TH-93-18. (Input phyzzm to
+  compile.) Revised version has minor changes in text. To be published in Phys.
+  Rev. D, Comments section","Phys.Rev. D49 (1994) 1668-1671","10.1103/PhysRevD.49.1668",,"hep-ph",,"  We comment on the theoretical uncertainties involved in estimating the
+hadronic effects on the light-by-light scattering contribution to the anomalous
+magnetic moment of the muon, especially based on the analysis and results of T.
+Kinoshita, B. Ni\v zi\'c, and Y. Okamoto, Phys.\ Rev.\ D31, 2108 (1985). From
+the point of view of an effective field theory and chiral perturbation theory,
+we suggest that the charged pion contribution may be better determined than has
+been appreciated. However, the neutral pion contribution needs greater
+theoretical insight before its magnitude can be reliably estimated.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 20:02:38 GMT""},{""version"":""v2"",""created"":""Wed, 11 Aug 1993 15:53:37 GMT""},{""version"":""v3"",""created"":""Fri, 8 Oct 1993 15:26:06 GMT""}]","2009-10-22"
+"hep-th/9308043",,"Bergfinnur Durhuus and Thordur Jonsson","Classification and construction of unitary topological field theories in
+  two dimensions","12 pages, latex","J.Math.Phys. 35 (1994) 5306-5313","10.1063/1.530752",,"hep-th",,"  We prove that unitary two-dimensional topological field theories are uniquely
+characterized by $n$ positive real numbers $\lambda _1,\ldots \lambda _n$ which
+can be regarded as the eigenvalues of a hermitean handle creation operator. The
+number $n$ is the dimension of the Hilbert space associated with the circle and
+the partition functions for closed surfaces have the form $$
+Z_g=\sum_{i=1}^{n}\lambda _i^{g-1} $$ where $g$ is the genus. The eigenvalues
+can be arbitary positive numbers. We show how such a theory can be constructed
+on triangulated surfaces.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 18:10:05 GMT""}]","2009-10-22"
+"hep-th/9308044","John Preskill","Hoi-Kwong Lo, Kai-Ming Lee, and John Preskill","Complementarity in Wormhole Chromodynamics","12 pages and 2 figures, phyzzx, CALT-68-1880","Phys.Lett. B318 (1993) 287-292","10.1016/0370-2693(93)90130-A",,"hep-th gr-qc",,"  The electric charge of a wormhole mouth and the magnetic flux ``linked'' by
+the wormhole are non-commuting observables, and so cannot be simultaneously
+diagonalized. We use this observation to resolve some puzzles in wormhole
+electrodynamics and chromodynamics. Specifically, we analyze the color electric
+field that results when a colored object traverses a wormhole, and we discuss
+the measurement of the wormhole charge and flux using Aharonov-Bohm
+interference effects. We suggest that wormhole mouths may obey conventional
+quantum statistics, contrary to a recent proposal by Strominger.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 20:25:21 GMT""}]","2009-10-22"
+"hep-th/9308045",,"Yutaka Hosotani","Spontaneously Broken Lorentz Invariance in Three-Dimensional Gauge
+  Theories","8 pages, UMN-TH-1211/93 (plain TeX)","Phys.Lett. B319 (1993) 332-338","10.1016/0370-2693(93)90822-Y",,"hep-th cond-mat",,"  In a wide class of three-dimensional Abelian gauge theories with a bare
+Chern-Simons term, the Lorentz invariance is spontaneously broken by dynamical
+generation of a non-vanishing magnetic field. A detailed computation of an
+energy density of the true vacuum is given. The originally massive photon
+becomes massless, fulfilling the role of a Nambu-Goldstone boson associated
+with the spontaneous breaking of the Lorentz invariance.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 19:05:14 GMT""}]","2009-10-22"
+"hep-th/9308046","Prem Prakash Srivastava","Prem P. Srivastava","Constraints and Hamiltonian in Light-Front Quantized Field Theory","11 pages, Padova University preprint DFPF/92/TH/52 (December '92)","Nuovo Cim.A107:549-558,1994","10.1007/BF02768789",,"hep-th",,"  Self-consistent Hamiltonian formulation of scalar theory on the null plane is
+constructed following Dirac method. The theory contains also {\it constraint
+equations}. They would give, if solved, to a nonlinear and nonlocal
+Hamiltonian. The constraints lead us in the continuum to a different
+description of spontaneous symmetry breaking since, the symmetry generators now
+annihilate the vacuum. In two examples where the procedure lacks
+self-consistency, the corresponding theories are known ill-defined from
+equal-time quantization. This lends support to the method adopted where both
+the background field and the fluctuation above it are treated as dynamical
+variables on the null plane. We let the self-consistency of the Dirac procedure
+determine their properties in the quantized theory. The results following from
+the continuum and the discretized formulations in the infinite volume limit do
+agree.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 00:16:43 GMT""}]","2010-11-01"
+"hep-th/9308047","Tatsuo Kobayashi","Tatsuo Kobayashi","Differential Calculi on h-deformed Bosonic and Fermionic Quantum Planes","11 pages, KANAZAWA-93-07, LaTeX file","Mod.Phys.Lett.A8:3741-3748,1993","10.1142/S0217732393003470",,"hep-th",,"  We study differential calculus on h-deformed bosonic and fermionic quantum
+space. It is shown that the fermionic quantum space involves a parafermionic
+variable as well as a classical fermionic one. Further we construct the
+classical $su(2)$ algebra on the fermionic quantum space and discuss a mapping
+between the classical $su(2)$ and the h-deformed $su(2)$ algebras.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 07:43:39 GMT""}]","2010-11-01"
+"hep-th/9308048","Elizalde Emilio","E. Elizalde","The Vacuum Energy Density for Spherical and Cylindrical Universes","18 pages, LaTeX, august 5","J.Math.Phys.35:3308-3321,1994","10.1063/1.530469",,"hep-th",,"  The vacuum energy density (Casimir energy) corresponding to a massless scalar
+quantum field living in different universes (mainly no-boundary ones), in
+several dimensions, is calculated. Hawking's zeta function regularization
+procedure supplemented with a very simple binomial expansion is shown to be a
+rigorous and well suited method for performing the analysis. It is compared
+with other, much more involved techniques. The principal-part prescription is
+used to deal with the poles that eventually appear. Results of the analysis are
+the absence of poles at four dimensions (for a 4d Riemann sphere and for a 4d
+cylinder of 3d Riemann spherical section), the total coincidence of the results
+corresponding to a 3d and a 4d cylinder (the first after pole subtraction), and
+the fact that the vacuum energy density for cylinders is (in absolute value)
+over an order of magnitude smaller than for spheres of the same dimension.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 12:11:55 GMT""}]","2011-08-17"
+"hep-th/9308049","Aizawa","N. Aizawa and H.-T. Sato","Quantum affine transformation group and covariant differential calculus","LaTeX 22 pages OS-GE-34-94 RCNP-058","Prog.Theor.Phys. 91 (1994) 1065-1080","10.1143/ptp/91.6.1065",,"hep-th",,"  We discuss quantum deformation of the affine transformation group and its Lie
+algebra. It is shown that the quantum algebra has a non-cocommutative Hopf
+algebra structure, simple realizations and quantum tensor operators. The
+deformation of the group is achieved by using the adjoint representation. The
+elements of quantum matrix form a Hopf algebra. Furthermore, we construct a
+differential calculus which is covariant with respect to the action of the
+quantum matrix.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 11:22:36 GMT""}]","2017-02-01"
+"math/9308204","Gilles Pisier","Gilles Pisier","Exact operator spaces",,"Colloque sur les alg\`ebres d'op\'era\-teurs. in ``Recent advances
+  in operator algebras"" (Orl\'eans 1992) Ast\'erisque (Soc. Math. France) 232
+  (1995) 159-186.",,"Banach Archive 8/9/93","math.FA",,"  In this paper, we study {\it operator spaces\/} in the sense of the theory
+developed recently by Blecher-Paulsen [BP] and Effros-Ruan [ER1]. By an
+operator space, we mean a closed subspace $E\subset B(H)$, with $H$ Hilbert.
+  We will be mainly concerned here with the ``geometry'' of {\it finite
+dimensional\/} operator spaces. In the Banach space category, it is well known
+that every separable space embeds isometrically into $\ell_\infty$. Moreover,
+if $E$ is a finite dimensional normed space then for each $\vp>0$, there is an
+integer $n$ and a subspace $F\subset \ell^n_\infty$ which is
+$(1+\vp)$-isomorphic to $E$, i.e. there is an isomorphism $u\colon \ E\to F$
+such that $\|u\|\ \|u^{-1}\|\le 1+\vp$. Here of course, $n$ depends on $\vp$,
+say $n=n(\vp)$ and usually (for instance if $E = \ell^k_2$) we have $n(\vp)\to
+\infty$ when $\vp\to 0$.
+  Quite interestingly, it turns out that this fact is not valid in the category
+of operator spaces:\ although every operator space embeds completely
+isometrically into $B(H)$ (the non-commutative analogue of $\ell_\infty$) it is
+not true that a finite dimensional operator space must be close to a subspace
+of $M_n$ (the non-commutative analogue of $\ell^n_\infty$) for some $n$. The
+main object of this paper is to study this phenomenon.
+","[{""version"":""v1"",""created"":""Mon, 9 Aug 1993 17:34:43 GMT""}]","2016-09-06"
+"math/9308205",,"Edward Odell, Thomas Schlumprecht","On impossible extensions of Krivine's Theorem",,,,"Banach Archive 8/10/93","math.FA",,"  We give examples of two Banach spaces. One Banach space has no spreading
+model which contains $\ell_p$ ($1\le p<\infty$) or $c_0$. The other space has
+an unconditional basis for which $\ell_p$ ($1\le p<\infty$) and $c_0$ are block
+finitely represented in all block bases.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 15:02:33 GMT""}]","2016-09-06"

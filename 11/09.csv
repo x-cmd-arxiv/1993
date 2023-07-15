@@ -1,0 +1,260 @@
+"astro-ph/9311021","Thomas Schramm","T. Schramm","A toolbox for general elliptical gravitational lenses","7 pages, uuencoded, compressed, tar, postscript file",,,,"astro-ph",,"  We introduce a formalism to describe 2D-Potentials for 2D-matter (or charge)
+distributions with arbitrary elliptical symmetry including varying eccentricity
+and twisting of the iso-density curves. We use this approach to describe
+elliptical matter distributions such as elliptical galaxies or clusters as
+gravitational lenses. Figures are available upon request:
+tschramm@hs.uni-hamburg.de
+","[{""version"":""v1"",""created"":""Tue, 9 Nov 1993 11:30:07 GMT""}]","2007-05-23"
+"cond-mat/9311018","Leonid GLazman","C. L. Kane, K. A. Matveev, and L. I. Glazman","Fermi Edge Singularities and Backscattering in a Weakly Interacting 1D
+  Electron Gas","8 pages + 1 postscript figure, preprint TPI-MINN-93/40-T",,"10.1103/PhysRevB.49.2253",,"cond-mat",,"  The photon-absorption edge in a weakly interacting one-dimensional electron
+gas is studied, treating backscattering of conduction electrons from the core
+hole exactly. Close to threshold, there is a power-law singularity in the
+absorption, $I(\epsilon) \propto \epsilon^{-\alpha}$, with $\alpha = 3/8 +
+\delta_+/\pi - \delta_+^2/2\pi^2$ where $\delta_+$ is the forward scattering
+phase shift of the core hole. In contrast to previous theories, $\alpha$ is
+finite (and universal) in the limit of weak core hole potential. In the case of
+weak backscattering $U(2k_F)$, the exponent in the power-law dependence of
+absorption on energy crosses over to a value $\alpha = \delta_+/\pi -
+\delta_+^2/2\pi^2$ above an energy scale $\epsilon^* \sim
+[U(2k_F)]^{1/\gamma}$, where $\gamma$ is a dimensionless measure of the
+electron-electron interactions.
+","[{""version"":""v1"",""created"":""Tue, 9 Nov 1993 01:40:28 GMT""}]","2009-10-22"
+"cond-mat/9311019","Michael Lashkevich","M. Yu. Lashkevich","Descete Spectrum of Delocalized States in One-Dimensional Random
+  Potensial","3 pages, no figures, plain TEX",,,,"cond-mat",,"  It is well known$^{1,2}$ that in one-dimensional disordered system all states
+of electrons (or any other exitations) are localized. In this letter it is
+shown that delocalized states exist in a rather broad class of of simple
+models, but a set of delocalized states is not too great, and it does not
+contradict this theorem in more precize form$^{2,3}$. These systems can be
+considered as filters in energy for electrons.
+","[{""version"":""v1"",""created"":""Tue, 9 Nov 1993 07:43:27 GMT""}]","2007-05-23"
+"gr-qc/9311014","Khatsymovsky","V.Khatsymovsky","First class constraints in Regge calculus","6 pages, Plain LaTeX, Preprint UUITP-25/93",,,,"gr-qc",,"  Considered are I class constraints in the tetrad-connection formulation of
+Regge calculus. One of these is well-known Gauss law which generates rotations
+in the local frames associated with tetrahedrons in the continuous time 3D
+section. Another two types of these are new, satisfied by definition of Regge
+manifold and having no I class analogs in the continuum general relativity.
+Constraints of the first type express vanishing of the dual squares of
+antisymmetric tensors of the triangles in the 3D section thus ensuring each
+such tensor being a bivector. Constraints of the second type are trigonometric
+relations between areas of triangles of 3D section caused by that the set of
+areas is redundant as compared to the set of linklengts.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 16:44:33 GMT""}]","2007-05-23"
+"gr-qc/9311015","Bill Pezzaglia","William Pezzaglia and Alfred Differ","A Clifford Dyadic Superfield from Bilateral Interactions of Geometric
+  Multispin Dirac Theory","10 pages LaTex (kluwer.sty macro), report# clf-alg/pezz9304, [Summary
+  of talk Sept. 22, 1993 at Ixtapa-Zihuatanejo, Mexico, XXIIth International
+  Conference on Differential Geometric Methods in Theoretical Physics]",,,,"gr-qc hep-th",,"  Multivector quantum mechanics utilizes wavefunctions which are Clifford
+aggregates (e.g. sum of scalar, vector, bivector). This is equivalent to multi-
+spinors constructed of Dirac matrices, with the representation independent form
+of the generators geometrically interpreted as the basis vectors of spacetime.
+Multiple generations of particles appear as left ideals of the algebra, coupled
+only by now-allowed right-side applied (dextral) operations. A generalized
+bilateral (two-sided operation) coupling is proposed which includes the above
+mentioned dextrad field, and the spin-gauge interaction as particular cases.
+This leads to a new principle of {\it poly-dimensional covariance}, in which
+physical laws are invariant under the reshuffling of coordinate geometry. Such
+a multigeometric superfield equation is proposed, which is sourced by a
+bilateral current. In order to express the superfield in representation and
+coordinate free form, we introduce Eddington E-F {\it double-frame} numbers.
+Symmetric tensors can now be represented as 4D ``dyads"", which actually are
+elements of a global 8D Clifford algebra. As a restricted example, the dyadic
+field created by the Greider-Ross multivector current (of a Dirac electron)
+describes both electromagnetic and Morris- Greider gravitational interactions.
+[to appear in Proceedings edited by J. Keller, UNAM, Mexico (Kluwer Academic
+Publ)]
+","[{""version"":""v1"",""created"":""Tue, 9 Nov 1993 12:25:41 GMT""}]","2007-05-23"
+"hep-ph/9311238",,"N.N.Nikolaev and B. G. Zakharov","Color Transparency after the Ne18 and E665 Experiments","16 pages, 7 figures upon the request from
+  kph154@zam001.zam.kfa-juelich.de, Invited talk at the Workshop on Electrom
+  Nucleus Scattering, Elba International Physics Center, Marciana Marina, July
+  5-10, 1994",,,"Juelich preprint KFA-IKP(Th)-1993-28","hep-ph nucl-th",,"  The 1993 witnessed two major news in the field of color transparency (CT): i)
+no effect of CT was seen in the SLAC NE18 experiment on $A(e,e'p)$ scattering
+at virtualities of the exchanged photon $Q^{2} \lsim 7$ GeV$^{2}$, ii) strong
+signal of CT was observed in the Fermilab E665 experiment on exclusive
+$\rho^{0}$-meson production in deep inelastic scattering in the same range of
+$Q^{2}$. Both are good news and rule in CT, since this striking difference in
+the onset of CT for two reactions was predicted theoretically, and we review
+the theory of both reactions and the origin of this difference. We discuss an
+importance of final state interaction effects for the theoretical
+interpretation of the NE18 data. We comment on possible CT effects in the
+$^{4}He(e,e'p)$ interactions at CEBAF.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 16:18:11 GMT""}]","2009-09-25"
+"hep-ph/9311239",,"L. McLerran","B + L Non-Conservation as a Semi-Classical Process","TPI-MINN-93/51-T, NUC-MINN-93/27-T, UMN-TH-1223/93, Latex 12 pp","Acta Phys.Polon.B25:309-318,1994",,,"hep-ph",,"  I discuss the problem of computing B + L violation at high energies as that
+of solving classical differential equations. These equations involve boundary
+conditions at initial and a final times which are anti-Feynman, and involve
+solving non-linear differential equations which are complex, even if the
+original Hamiltonian was real.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 16:52:05 GMT""}]","2010-11-01"
+"hep-ph/9311240","Stamatis Vokos","Stamatis Vokos","Thermal Self-Energies Near Zero Four-Momentum","LaTeX file, 6 pages, no figures, UW/PT 93-23",,,,"hep-ph",,"  (Talk presented at the 3rd Workshop on Thermal Field Theories and Their
+Applications, Banff, Canada, August 1993. This is a review of work done with
+Peter Arnold, Paulo Bedaque, and Ashok Das.) We demonstrate that one-loop
+self-energies at finite temperature have a unique limit as the external
+four-momentum goes to zero, as long as the particles propagating in the loop
+have distinct masses. We show that in spontaneously broken theories, this
+result nonetheless does not affect the difference between screening and
+propagating modes and hence the usual resummed perturbation expansion remains
+unaltered.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 16:56:03 GMT""}]","2007-05-23"
+"hep-ph/9311241","My Account","J. Lopez, D. Nanopoulos, A. Zichichi","A Layman's guide to SUSY GUTs","25 pages, Latex, 11 figures (not included), CERN-TH.7077/93,
+  CTP-TAMU-65/93. A complete ps file (1.31MB) with embedded figures is
+  available by request from me@cryptons.tamu.edu","Riv.Nuovo Cim. 17N2 (1994) 1-20","10.1007/BF02724510",,"hep-ph",,"  The determination of the most straightforward evidence for the existence of
+the Superworld requires a guide for non-experts (especially experimental
+physicists) for them to make their own judgement on the value of such
+predictions. For this purpose we review the most basic results of Super-Grand
+unification in a simple and clear way. We focus the attention on two specific
+models and their predictions. These two models represent an example of a direct
+comparison between a traditional unified-theory and a string-inspired approach
+to the solution of the many open problems of the Standard Model. We emphasize
+that viable models must satisfy {\em all} available experimental constraints
+and be as simple as theoretically possible. The two well defined supergravity
+models, $SU(5)$ and $SU(5)\times U(1)$, can be described in terms of only a few
+parameters (five and three respectively) instead of the more than twenty needed
+in the MSSM model, \ie, the Minimal Supersymmetric extension of the Standard
+Model. A case of special interest is the strict no-scale $SU(5)\times U(1)$
+supergravity where all predictions depend on only one parameter (plus the
+top-quark mass). A general consequence of these analyses is that supersymmetric
+particles can be at the verge of discovery, lurking around the corner at
+present and near future facilities. This review should help anyone distinguish
+between well motivated predictions and predictions based on arbitrary choices
+of parameters in undefined models.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 20:14:12 GMT""}]","2015-06-25"
+"hep-ph/9311242","Paul B. Mackenzie","Paul B. Mackenzie","Status of Lattice QCD","20 pages, 8 embedded figures, uuencoded, 2 missing figures. (Talk
+  presented at the Lepton-Photon Symposium, Cornell University, Aug. 10-15,
+  1993.)",,"10.1063/1.454670",,"hep-ph hep-lat",,"  Significant progress has recently been achieved in the lattice gauge theory
+calculations required for extracting the fundamental parameters of the standard
+model from experiment. Recent lattice determinations of such quantities as the
+kaon $B$ parameter, the mass of the $b$ quark, and the strong coupling constant
+have produced results and uncertainties as good or better than the best
+conventional determinations. Many other calculations crucial to extracting the
+fundamental parameters of the standard model from experimental data are
+undergoing very active development. I review the status of such applications of
+lattice QCD to standard model phenomenology, and discuss the prospects for the
+near future.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 23:10:03 GMT""}]","2015-06-25"
+"hep-ph/9311243",,"I.I.Bigi, N.G.Uraltsev","$D_s$ Lifetime, $m_b$, $m_c$ and $|V_{cb}|$ in the Heavy Quark Expansion","18 pages Preprint UND-HEP-93-BIG05, CERN-TH.7063/93; this is the
+  revised version. Summary of changes: The discussion of uncertainties in the
+  $1/m_Q$ expansion was shortend as the more detailed one was presented in our
+  recent paper ref.[16] and is due in the forthcoming paper [17]. The sections
+  3 and 4 are then combined","Z.Phys.C62:623-632,1994","10.1007/BF01574165",,"hep-ph",,"  We present some straightforward applications of the QCD heavy quark
+expansion, stated in previous papers [1-3], to the inclusive widths of heavy
+flavour hadrons. We address the question of the $D_s$ lifetime and argue that
+-- barring Weak Annihilation (WA) -- $\tau (D_s)$ is expected to exceed $\tau
+(D^0)$ by several percent; on the other hand WA could provide a difference of
+up to $10\div20\%$ of {\it any} sign. We extract $m_c$, $m_b$ and $|V_{cb}|$
+from $\Gamma\ind{SL}(D^+)$ and $\Gamma\ind{SL}(B)$. The values of the quark
+masses are somewhat higher, but compatible with estimates from QCD sum rules;
+we obtain $|V_{cb}|\simeq 0.043$ for $\tau (B)=1.4$ psec and
+$BR_{SL}(B)=10.5$\% . We discuss the associated uncertainties in the $1/m_Q$
+expansion as well as some consequences for other electroweak decays.
+","[{""version"":""v1"",""created"":""Tue, 9 Nov 1993 10:14:23 GMT""},{""version"":""v2"",""created"":""Thu, 11 Nov 1993 13:01:21 GMT""},{""version"":""v3"",""created"":""Tue, 21 Dec 1993 12:53:09 GMT""}]","2010-11-01"
+"hep-ph/9311244","Poul Damgaard","P.H. Damgaard and R. Sollacher","Qualitons from QCD","LaTeX, 12 pages, CERN--TH-7073/93","Phys.Lett. B322 (1994) 131-140","10.1016/0370-2693(94)90501-0",,"hep-ph",,"  Qualitons, topological excitations with the quantum numbers of quarks, may
+provide an accurate description of what is meant by constituent quarks in QCD.
+Their existence hinges crucially on an effective Lagrangian description of QCD
+in which a pseudoscalar colour-octet of fields enters as a new variable. We
+show here how such new fields may be extracted from the fundamental QCD
+Lagrangian using the gauge-symmetric collective field technique.
+","[{""version"":""v1"",""created"":""Tue, 9 Nov 1993 11:58:48 GMT""}]","2009-10-22"
+"hep-ph/9311245","Arthur Weldon","H. Arthur Weldon","Cancellation of Infrared Divergences in QED at Nonzero Temperature","Talk presented at the 3rd Workshop on Thermal Field Theories and
+  their Applications, Banff, Alberta (August, 1993), 7 pages, plain TeX",,,,"hep-ph",,"  The radiation produced by a classical charged current coupled to a quantized
+$A_{\mu}$ is first computed. To each order in $\alpha$, all infrared
+divergences cancel between the virtual $\gamma$'s and the real $\gamma$'s that
+are absorbed from or emitted into the plasma. When all orders of perturbation
+theory are summed, the finite answer predicts a suppression of radiation with
+$\omega< \alpha T$. The analysis of QED then consists of two steps. First, a
+general probability at $T\neq 0$ is organized so that all the virtual
+$e^{\pm},\gamma$ are in the amplitudes and all the real $e^{\pm},\gamma$ are in
+the phase space integrations. Next, the cancellations of IR divergences between
+virtual and real are demonstrated.
+","[{""version"":""v1"",""created"":""Tue, 9 Nov 1993 13:51:14 GMT""}]","2007-05-23"
+"hep-ph/9311246","Norberto N. Scoccola","G.L.Thomas, N.N.Scoccola and A.Wirzba","Dibaryons as axially symmetric skyrmions","24 pages, LaTeX, TAN-FNT-93-12 (it replaces old version which was
+  truncated)","Nucl.Phys. A575 (1994) 623-644","10.1016/0375-9474(94)90160-0",,"hep-ph",,"  Dibaryons configurations are studied in the framework of the bound state
+soliton model. A generalized axially symmetric ansatz is used to determine the
+soliton background. We show that once the constraints imposed by the symmetries
+of the lowest energy torus configuration are satisfied all spurious states are
+removed from the dibaryon spectrum. In particular, we show that the lowest
+allowed state in the $S=-2$ channel carries the quantum numbers of the H
+particle. We find that, within our approximations, this particle is slightly
+bound in the model. We discuss, however, that vacuum effects neglected in the
+present calculation are very likely to unbind the H.
+","[{""version"":""v1"",""created"":""Tue, 9 Nov 1993 14:32:55 GMT""},{""version"":""v2"",""created"":""Wed, 10 Nov 1993 18:24:49 GMT""}]","2008-02-03"
+"hep-ph/9311247","Simonov","Yu.A.Simonov","Perturbation theory in the nonperturbative QCD vacuum","38 pages, preprint HD-THEP-93-16","Phys.Atom.Nucl.58:107-123,1995; Yad.Fiz.58:113-129,1995",,,"hep-ph",,"  Perturbative expansion in the nonperturbative confining QCD background is
+formulated. The properly renormalized $\alpha_S(R)$ is shown to be finite at
+large distances, with the string tension playing the role of an infrared
+regulator. The infra--red renormalons are shown to be absent in the new
+perturbation series.
+","[{""version"":""v1"",""created"":""Tue, 9 Nov 1993 14:55:00 GMT""}]","2014-11-17"
+"hep-th/9311047","Kenji Hamada","Ken-ji Hamada","Ward Identities of $W_{\infty}$ Symmetry in Liouville Theory coupled to
+  $c_M < 1$ Matter","10 pages, Latex file, YITP/U-93-34","Phys.Lett. B324 (1994) 141-148","10.1016/0370-2693(94)90400-6",,"hep-th",,"  We investigate the Ward identities of the $W_{\infty}$ symmetry in the
+Liouville theory coupled to the $(p,q)$ conformal matter. The correlation
+functions are defined by applying the analytic continuation procedure for the
+matter sector as well as the Liouville one. We then find that the Ward
+identities are equivalent to the $W_q$ algebra constraints deduced from the
+matrix model.
+","[{""version"":""v1"",""created"":""Tue, 9 Nov 1993 05:48:50 GMT""}]","2009-10-22"
+"hep-th/9311048","Alok Kumar","S. Pratik Khastgir and Alok Kumar","Singular Limits and String Solutions","IP/BBSR/93-72, 9p",,,,"hep-th",,"  It is shown that new leading ($\al'$) as well as all-order solutions of
+String theory can be obtained by taking appropriate singular limits of the
+known solutions. We give several leading order solutions for the bosonic as
+well as the heterotic string. We then present all-order forms of the previously
+known two dimensional cosmological solutions. An all-order form for the
+cosmological solution in three dimensions is also predicted. The physical
+implications of our results are discussed.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 22:23:00 GMT""}]","2007-05-23"
+"hep-th/9311049","David R. Morrison","David R. Morrison","Where is the large radius limit?","5 pages with 2 figures, LaTeX and epsf.tex (Talk presented at the
+  STRINGS'93 conference, May 24--29, 1993, Berkeley","Strings '93 (M. B. Halpern, G. Rivlis, and A. Sevrin, eds.), World
+  Scientific, Singapore, 1995, pp. 311-315",,"IASSNS-HEP-93/68","hep-th alg-geom math.AG",,"  By properly accounting for the invariance of a Calabi-Yau sigma-model under
+shifts of the $B$-field by integral amounts (analagous to the $\theta$-angle in
+QCD), we show that the moduli spaces of such sigma-models can often be enlarged
+to include ``large radius limit'' points. In the simplest cases, there are
+holomorphic coordinates on the enlarged moduli space which vanish at the limit
+point, and which appear as multipliers in front of instanton contributions to
+Yukawa couplings. (Those instanton contributions are therefore suppressed at
+the limit point.) In more complicated cases, the instanton contributions are
+still suppressed but the enlarged space is singular at the limit point. This
+singularity may have interesting effects on the effective four-dimensional
+theory, when the Calabi-Yau is used to compactify the heterotic string.
+","[{""version"":""v1"",""created"":""Tue, 9 Nov 1993 01:45:24 GMT""}]","2008-02-03"
+"hep-th/9311050","Shailesh Chandrasekharan","Shailesh Chandrasekharan","Anomaly Cancellation in 2+1 dimensions in the presence of a domainwall
+  mass","17 pages, LaTex file, CU-TP-615","Phys.Rev. D49 (1994) 1980-1987","10.1103/PhysRevD.49.1980",,"hep-th hep-lat hep-ph",,"  A Fermion in 2+1 dimensions, with a mass function which depends on one
+spatial coordinate and passes through a zero ( a domain wall mass), is
+considered. In this model, originally proposed by Callan and Harvey, the gauge
+variation of the effective gauge action mainly consists of two terms. One comes
+from the induced Chern-Simons term and the other from the chiral fermions,
+bound to the 1+1 dimensional wall, and they are expected to cancel each other.
+Though there exist arguments in favour of this, based on the possible forms of
+the effective action valid far from the wall and some facts about theories of
+chiral fermions in 1+1 dimensions, a complete calculation is lacking. In this
+paper we present an explicit calculation of this cancellation at one loop valid
+even close to the wall. We show that, integrating out the ``massive'' modes of
+the theory does produce the Chern-Simons term, as appreciated previously. In
+addition we show that it generates a term that softens the high energy
+behaviour of the 1+1 dimensional effective chiral theory thereby resolving an
+ambiguity present in a general 1+1 dimensional theory.
+","[{""version"":""v1"",""created"":""Tue, 9 Nov 1993 03:53:58 GMT""}]","2009-10-22"
+"hep-th/9311051","Walter Strampp Fb17","Anjan Kundu","Universality of the universal R-matrix and applications to quantum
+  integrable systems","5 pages. Presented at 'Generalised Symmetries in Physics' (July
+  26-29,1993,ASI,Clausthal,Germany)",,,,"hep-th nlin.SI solv-int",,"  Results obtained by us are overviewed from a general set up. The universal
+$R$-matrix is exploited to obtain various important relations and structures
+involved in quantum group algebra, which are used subsequently for generating
+different classes of quantum integrable systems through a systematic scheme.
+This recovers known models as well as discovers a series of new ones.
+","[{""version"":""v1"",""created"":""Tue, 9 Nov 1993 11:06:25 GMT""}]","2008-02-03"
+"hep-th/9311052","Andrei Johansen","A.Gorsky and A.Johansen","Liouville theory and special coadjoint Virasoro orbits","preprint ITEP-67-1993,16 p.,Latex file","Int. J. Mod. Phys. A10 (1995) 785-800","10.1142/S0217751X95000371",,"hep-th",,"  We describe the Hamiltonian reduction of the coajoint Kac-Moody orbits to the
+Virasoro coajoint orbits explicitly in terms of the Lagrangian approach for the
+Wess-Zumino-Novikov-Witten theory. While a relation of the coajoint Virasoro
+orbit $Diff \; S^1 /SL(2,R)$ to the Liouville theory has been already studied
+we analyse the role of special coajoint Virasoro orbits $Diff \;
+S^1/\tilde{T}_{\pm ,n}$ corresponding to stabilizers generated by the vector
+fields with double zeros. The orbits with stabilizers with single zeros do not
+appear in the model. We find an interpretation of zeros $x_i$ of the vector
+field of stabilizer $\tilde{T}_{\pm ,n}$ and additional parameters $q_i$, $i =
+1,...,n$, in terms of quantum mechanics for $n$ point particles on the circle.
+We argue that the special orbits are generated by insertions of ""wrong sign""
+Liouville exponential into the path integral. The additional parmeters $q_i$
+are naturally interpreted as accessory parameters for the uniformization map.
+Summing up the contributions of the special Virasoro orbits we get the
+integrable sinh-Gordon type theory.
+","[{""version"":""v1"",""created"":""Tue, 9 Nov 1993 12:14:58 GMT""}]","2015-06-26"
+"nucl-th/9311006","Zlatev Ivaylo","Ivaylo Zlatev, Wei-Min Zhang and Da Hsuan Feng","Is Schr\""{o}dinger's Conjecture for the Hydrogen Atom Coherent States
+  Attainable","10 pages, report #",,"10.1103/PhysRevA.50.R1973",,"nucl-th chao-dyn nlin.CD",,"  We construct the most general SO(4,2) hydrogen atom coherent states which are
+the counterpart of Schr\""{o}dinger's harmonic oscillator coherent states. We
+show that these states cannot be localized and cannot follow the classical
+orbits. Thus, Schr\""{o}dinger's conjecture for the hydrogen atom coherent
+states is unattainable.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 16:44:31 GMT""}]","2009-10-22"

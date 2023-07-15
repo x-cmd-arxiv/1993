@@ -1,0 +1,197 @@
+"astro-ph/9306023",,"P. Fischer, D.L. Welch, M. Mateo and P. C\^ot\'e","Dynamics of the Globular Cluster NGC 362","31 pages plus five figures","Astron.J. 106 (1993) 1508-1523","10.1086/116743",,"astro-ph",,"  In this paper we have examined the internal dynamics of the globular cluster
+NGC 362. A V band surface brightness profile (SBP) was constructed from CCD
+images, and, after it was determined that the cluster is not post
+core-collapse, fit with single- and multi-mass King-Michie (KM) models. The
+total cluster luminosity is 1.70 $\pm 0.1 \times 10^5$ L$_V$\sol. A total of
+285 stellar spectra were obtained of 215 stars for radial velocity
+determinations. Four stars showed strong evidence for radial velocity
+variations and are probably members of binary systems. The true cluster binary
+fraction was determined from simulations to be 0.15 for circular orbits or 0.27
+for orbits with a distribution function $f(e) = e$ ($e$ is eccentricity). This
+relatively high binary detection frequency may indicate that NGC 362 is
+overabundant in binaries compared to other clusters. The 208 remaining stars
+showed no sign of rotation. The best agreement with both the kinematic data and
+the SBP were for shallow mass functions $x = 0.0 - 0.5$ and intermediate
+amounts of anisotropy in the velocity dispersion tensor. The cluster mass is M
+= $2.5 - 3.5 \times 10^5$ M\sol\ for a global mass-to-light ratio of M/L$_V$ =
+1.5 - 2.0 M\sol/L$_V$\sol. This low value for $x$ is in disagreement with the
+correlation between $x$ and the height above the Galactic disk seen for a
+sample of other clusters. The results are also different from the sharp turn-up
+in the low mass end of mass functions derived from some deep luminosity
+functions of three other globular clusters.
+","[{""version"":""v1"",""created"":""Wed, 23 Jun 1993 21:51:35 GMT""}]","2009-10-22"
+"cond-mat/9306051","Mike Norman","M. R. Norman","Existence of the LOFF State in Superconducting UPd_2Al_3","3 pages (Plain TeX with macros), plus 1 postscript figure to be
+  processed via UNIX command uudecode (otherwise, request from author)","Phys Rev Lett 71, 3391 (1993)","10.1103/PhysRevLett.71.3391",,"cond-mat",,"  In a recent Letter, Gloos et al have suggested that the heavy fermion
+superconductor, UPd_2Al_3, has a transition in magnetic field from the normal
+state to an inhomogeneous superconducting state, known as the LOFF state,
+followed at lower fields by a first order phase transition to the usual flux
+lattice state. To investigate this, the author derives a formula for the upper
+critical field for the LOFF state valid at all temperatures in the clean limit
+(the previous work of Gruenberg and Gunther was restricted to zero
+temperature), and shows that the LOFF state cannot quantitatively explain the
+phase diagram for UPd_2Al_3. This indicates that a more general solution which
+breaks cylindrical symmetry is necessary to explain the data.
+","[{""version"":""v1"",""created"":""Wed, 23 Jun 1993 21:23:36 GMT""}]","2009-10-22"
+"cond-mat/9306052","Jysoo Lee","Jysoo Lee (HLRZ-KFA J\""ulich, Germany)","Density Waves in the Flows of Granular Media","RevTeX, 32 pages, 29 figures available upon request",,"10.1103/PhysRevE.49.281",,"cond-mat",,"  We study density waves in the flows of granular particles through vertical
+tubes and hoppers using both analytic methods and molecular dynamics (MD)
+simulations. We construct equations of motion for quasi one-dimensional
+systems. The equations, combined with the Bagnold's law for friction, are used
+to describe the time evolutions of the density and the velocity fields for
+narrow tubes and hoppers. The solutions of the equations can have two types of
+density waves, kinetic and dynamic. For tubes, we can show the existence of
+kinetic waves, and obtain the condition for dynamic waves for tubes from the
+equations. For hoppers, we obtain the solutions of the equations up to the
+first order of the opening angle, which also show the existence of kinetic
+waves. We reproduce density waves in the MD simulations for tubes. The waves
+are believed to be kinetic based on a few evidences, including a well defined
+flux-density curve. In MD simulations of flows in hoppers, we find density
+waves, which are also believed to be kinetic.
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 12:26:02 GMT""}]","2016-08-14"
+"gr-qc/9306028","Ghosh","D.P. Datta","Geometric Phase in Vacuum Instability:APPLICATIONS in Quantum Cosmology","12 Pages, Plain TeX, IUCAA-18/93","Phys.Rev.D48:5746-5750,1993","10.1103/PhysRevD.48.5746",,"gr-qc",,"  Three different methods viz. i) a perturbative analysis of the Schr\""odinger
+equation ii) abstract differential geometric method and iii) a semiclassical
+reduction of the Wheeler-Dewitt equation, relating Pancharatnam phase to vacuum
+instability are discussed. An improved semiclassical reduction is also shown to
+yield the correct zeroth order semicalssical Einstein equations with
+backreaction. This constitutes an extension of our earlier discussions on the
+topic
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 12:12:29 GMT""}]","2010-11-01"
+"gr-qc/9306029","Martinez","Claus Kiefer and Erik A. Martinez","On time and the quantum-to-classical transition in Jordan-Brans-Dicke
+  quantum gravity","10 pages, Latex, ZU-TH 15/93, BUTP-93/15","Class.Quant.Grav.10:2511-2518,1993","10.1088/0264-9381/10/12/010",,"gr-qc astro-ph hep-th",,"  Any quantum theory of gravity which treats the gravitational constant as a
+dynamical variable has to address the issue of superpositions of states
+corresponding to different eigenvalues. We show how the unobservability of such
+superpositions can be explained through the interaction with other
+gravitational degrees of freedom (decoherence). The formal framework is
+canonically quantized Jordan-Brans-Dicke theory. We discuss the concepts of
+intrinsic time and semiclassical time as well as the possibility of tunneling
+into regions corresponding to a negative gravitational constant. We calculate
+the reduced density matrix of the Jordan-Brans-Dicke field and show that the
+off-diagonal elements can be sufficiently suppressed to be consistent with
+experiments. The possible relevance of this mechanism for structure formation
+in extended inflation is briefly discussed.
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 12:17:44 GMT""}]","2010-04-06"
+"hep-lat/9306019","Burkhard Plache","F. Karsch, M.L. Laursen, T. Neuhaus and B. Plache","Thermal Fluctuations of Chern-Simons Numbers in the Lattice SU(2) Higgs
+  Model","18 pages latex, (+piclatex+epsf (for 6 figures)), HLRZ-93-39 BI-TP
+  93/21","Phys.Rev.D50:5912-5919,1994","10.1103/PhysRevD.50.5912",,"hep-lat",,"  We study the temperature dependence of the Chern-Simons number fluctuations
+in the SU(2) Higgs Model on Euclidean lattices with spatial sizes up to 20^3.
+Temperatures well above the Higgs phase transition $T_H$ are achieved on
+anisotropic lattices. Numerical results are compared to perturbative results on
+finite lattices as well as in continuum perturbation theory. We find
+qualitative agreement with perturbative estimates and see at high temperatures
+a tendency towards static configurations. Up to temperatures $T \simeq 2T_H$ we
+find indication that tunneling between vacuums with different Chern-Simons
+numbers are still exponentially suppressed. (Full PostScript file available via
+Email from plache@physw.uni-bielefeld.de )
+","[{""version"":""v1"",""created"":""Wed, 23 Jun 1993 19:20:42 GMT""}]","2008-12-18"
+"hep-lat/9306020",,"Christian Holm and Wolfhard Janke","Monte Carlo Study of Topological Defects in the 3D Heisenberg Model","pages ,4 ps-figures not included, FUB-HEP 10/93","J.Phys. A27 (1994) 2553-2564","10.1088/0305-4470/27/7/030",,"hep-lat",,"  We use single-cluster Monte Carlo simulations to study the role of
+topological defects in the three-dimensional classical Heisenberg model on
+simple cubic lattices of size up to $80^3$. By applying reweighting techniques
+to time series generated in the vicinity of the approximate infinite volume
+transition point $K_c$, we obtain clear evidence that the temperature
+derivative of the average defect density $d\langle n \rangle/dT$ behaves
+qualitatively like the specific heat, i.e., both observables are finite in the
+infinite volume limit. This is in contrast to results by Lau and Dasgupta [{\em
+Phys. Rev.\/} {\bf B39} (1989) 7212] who extrapolated a divergent behavior of
+$d\langle n \rangle/dT$ at $K_c$ from simulations on lattices of size up to
+$16^3$. We obtain weak evidence that $d\langle n \rangle/dT$ scales with the
+same critical exponent as the specific heat.As a byproduct of our simulations,
+we obtain a very accurate estimate for the ratio $\alpha/\nu$ of the
+specific-heat exponent with the correlation-length exponent from a finite-size
+scaling analysis of the energy.
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 10:52:55 GMT""}]","2009-10-22"
+"hep-ph/9306307","Juergen Baacke","J. Baacke and S. Junker","Quantum Corrections to the Electroweak Sphaleron Transition","6pages, 2 figures (appended as uuencoded tar-compressed postscript
+  files),DO-TH-93/15","Mod. Phys. Lett. A8 (1993) 2869-2874","10.1142/S0217732393003251",,"hep-ph",,"  We have performed a new exact evaluation of the fluctuation determinant
+$\kappa$ of the electroweak sphaleron with $\Theta _W =0$. The results differ
+significantly from a previous calculation of this quantity by Carson et. al. .
+We find that $\kappa$ is of order 1 in units $(gv)^6$ while the previous
+results indicated a strong suppression of the sphaleron transition by this
+factor.
+","[{""version"":""v1"",""created"":""Wed, 23 Jun 1993 17:11:28 GMT""}]","2015-06-25"
+"hep-ph/9306308","Kingman Cheung","kingman Cheung","Standard Model Higgs Boson at Linear Photon Colliders","(Talk given at the ""Workshop on Physics and Experiments with Linear
+  $e^+e^-$ Collider"", Waikoloa, Kona, Hawaii), LaTex, 7 pages, 4 figures not
+  inlcuded, NUHEP-TH-93-15",,,,"hep-ph",,"  We will summarize some aspects of the standard model Higgs boson at high
+energy $\gamma\gamma$ colliders, where the photon beams are realized by the
+laser backscattering method, including the direct Higgs boson production via
+$\gamma\gamma\rightarrow H$, and the measurement of the Yukawa coupling via the
+channel $\gamma\gamma\rightarrow t\bar tH$.
+","[{""version"":""v1"",""created"":""Wed, 23 Jun 1993 18:39:21 GMT""}]","2007-05-23"
+"hep-ph/9306309","Uri Sarid","Lawrence J. Hall, Riccardo Rattazzi and Uri Sarid","The Top Quark Mass in Supersymmetric SO(10) Unification","37 pages incl. 3 figures appended at bottom of file, RevTeX,
+  [Revised, corrected & expanded] LBL-33997","Phys. Rev. D 50, 7048 (1994)","10.1103/PhysRevD.50.7048",,"hep-ph",,"  The successful prediction of $\sin^2\theta_W$ suggests that the effective
+theory beneath the GUT scale is the two-Higgs MSSM. If we further assume that
+the unified gauge group contains SO(10), that the two light Higgs doublets lie
+mostly in a single irreducible SO(10) representation, and that the $t$, $b$ and
+$\tau$ masses originate in renormalizable Yukawa interactions of the form $16_3
+O 16_3$, then also the top quark mass can be predicted in terms of the MSSM
+parameters. To compute $m_t$ we present a precise analytic approximation to the
+solution of the 2-loop renormalization group equations, and study
+supersymmetric and GUT threshold corrections and the input value of the $b$
+quark mass. The large ratio of top to bottom quark masses derives from a large
+ratio, $\tan\beta$, of Higgs vacuum expectation values. We point out that when
+$\tan\beta$ is large, so are certain corrections to the $b$ quark mass
+prediction, unless a particular hierarchy exists in the parameters of the
+model. With such a hierarchy, which may result from approximate symmetries, the
+top mass prediction depends only weakly on the spectrum. Our results may be
+applied to any supersymmetric SO(10)-like model as long as $\lambda_t\simeq
+\lambda_b\simeq\lambda_\tau$ at the GUT scale and there are no intermediate
+mass scales in the desert.
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 01:31:58 GMT""},{""version"":""v2"",""created"":""Tue, 26 Apr 1994 05:22:15 GMT""}]","2013-11-13"
+"hep-th/9306123",,"A.A. Bytsenko, E. Elizalde, S.D. Odintsov, S. Zerbini","Mellin-Barnes Representation for the Genus-g Finite Temperature String
+  Theory","9 pages, report UTF 294 (1993)","Phys.Lett.B311:87-92,1993","10.1016/0370-2693(93)90538-S",,"hep-th",,"  The Mellin-Barnes representation for the free energy of the genus-$g$ string
+is constructed. It is shown that the interactions of the open bosonic string do
+not modify the critical (Hagedorn) temperature. However,for the sectors having
+a spinor structure, the critical temperature exists also for all $g$ and
+depends on the windings. The appearance of a periodic structure is briefly
+discussed.
+","[{""version"":""v1"",""created"":""Wed, 23 Jun 1993 18:07:42 GMT""}]","2019-08-17"
+"hep-th/9306124","Sun Chang Pu","Sun, C.P and L.H.Yu","Exact Dynamics of Quantum Dissipative System in Constant External Field","ITP.SB-93-33,24 pages",,,,"hep-th",,"  The quantum dynamics of a simplest dissipative system, a particle moving in a
+constant external field , is exactly studied by taking into account its
+interaction with a bath of Ohmic spectral density. We apply the main idea and
+methods developed in our recent work [1] to quantum dissipative system with
+constant external field. Quantizing the dissipative system we obtain the simple
+and exact solutions for the coordinate operator of the system in Heisenberg
+picture and the wave function of the composite system of system and bath in
+Schroedinger picture. An effective Hamiltonian for the dissipative system is
+explicitly derived from these solutions with Heisenberg picture method and
+thereby the meaning of the wavefunction governed by it is clarified by
+analyzing the effect of the Brownian motion. Especially, the general effective
+Hamiltonian for the case with arbitrary potential is directly derived with this
+method for the case when the Brownian motion can be ignored. Using this
+effective Hamiltonian, we show an interesting fact that the dissipation
+suppresses the wave packet spreading.
+","[{""version"":""v1"",""created"":""Wed, 23 Jun 1993 19:56:42 GMT""}]","2019-08-17"
+"hep-th/9306125","Riccardo D'auria","R. D'Auria, S. Ferrara and M. Villasante","Five-Brane Effective Field Theory on Calabi-Yau Threefolds","16 pages, LaTeX, CERN-Th.6914/93 POLFIS-TH.04/93 UCLA/93/TEP/18","Class.Quant.Grav.11:481-492,1994","10.1088/0264-9381/11/3/004",,"hep-th",,"  We consider the compactification of the dual form of $N=1$ $D=10$
+supergravity on a six-dimensional Calabi-Yau manifold. An $N=1$ off-shell
+supergravity effective Lagrangian in four dimensions can be constructed in a
+dual version of the gravitational sector (new-minimal supergravity form).
+Superspace duality has a simple interpretation in terms of Poincar\'{e} duality
+of two-form cohomology. The resulting $4D$ Lagrangian may describe the
+low-energy point-field limit of a five-brane theory, dual to string theory,
+provided Calabi-Yau spaces are consistent vacua of such dual theory.
+","[{""version"":""v1"",""created"":""Thu, 24 Jun 1993 15:17:14 GMT""}]","2010-04-06"
+"nucl-th/9306022",,"K. Suzuki, R. Okamoto, P.J. Ellis and T.T.S. Kuo","Iterative Solution for Effective Interactions in a System with
+  Non-degenerate Unperturbed Energies","Latex, 23 pages, 4 figures (postscript, available from authors),
+  Minnesota preprint NUC-MINN-93/11-T","Nucl.Phys. A567 (1994) 576-590","10.1016/0375-9474(94)90025-6",,"nucl-th",,"  We generalize the Lee-Suzuki iteration method for summing the folded diagram
+series to the case where the unperturbed model-space energies are
+non-degenerate. A condition is derived for the convergence of the iteration
+scheme and this depends on the choice of the model space projection operators.
+Two choices are examined, in the first the projection operators are defined in
+terms of the unperturbed states and in the second they are defined in terms of
+the eigenfunctions obtained at each stage of the iteration. As is illustrated
+by calculations with a simple model, the second procedure gives the better
+convergence and, by suitable choice of the starting energies, allows the
+reproduction of any subset of the exact eigenvalues.
+","[{""version"":""v1"",""created"":""Wed, 23 Jun 1993 16:01:33 GMT""}]","2009-10-22"
+"solv-int/9306003","Robert I. McLachlan","Robert I. McLachlan and Harvey Segur (Program in Applied Mathematics,
+  University of Colorado at Boulder)","A note on the motion of surfaces","10 pages, compile with AMSTEX. Two figures available from the authors",,"10.1016/0375-9601(94)91278-5","Program in Applied Math preprint #162, submitted to J. Diff. Geom","solv-int nlin.SI",,"  We study the motion of surfaces in an intrinsic formulation in which the
+surface is described by its metric and curvature tensors. The evolution
+equations for the six quantities contained in these tensors are reduced in
+number in two cases: (i) for arbitrary surfaces, we use principal coordinates
+to obtain two equations for the two principal curvatures, highlighting the
+similarity with the equations of motion of a plane curve; and (ii) for surfaces
+with spatially constant negative curvature, we use parameterization by
+Tchebyshev nets to reduce to a single evolution equation. We also obtain
+necessary and sufficient conditions for a surface to maintain spatially
+constant negative curvature as it moves. One choice for the surface's normal
+motion leads to the modified-Korteweg de Vries equation,the appearance of which
+is explained by connections to the AKNS hierarchy and the motion of space
+curves.
+","[{""version"":""v1"",""created"":""Wed, 23 Jun 1993 23:24:04 GMT""}]","2015-06-26"

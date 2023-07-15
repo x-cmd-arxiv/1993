@@ -1,0 +1,156 @@
+"cond-mat/9306001","David Senechal","D. Senechal","Haldane gap in the quasi one-dimensional nonlinear $\sigma$-model","14 pages (RevTeX 3.0), 3 PostScript figures appended (printing
+  instructions included)","Phys. Rev. B48 (1993) 15880","10.1103/PhysRevB.48.15880","CRPS-93-23","cond-mat",,"  This work studies the appearance of a Haldane gap in quasi one-dimensional
+antiferromagnets in the long wavelength limit, via the nonlinear
+$\sigma$-model. The mapping from the three-dimensional, integer spin Heisenberg
+model to the nonlinear $\sigma$-model is explained, taking into account two
+antiferromagnetic couplings: one along the chain axis ($J$) and one along the
+perpendicular planes ($J_\bot$) of a cubic lattice. An implicit equation for
+the Haldane gap is derived, as a function of temperature and coupling ratio
+$J_\bot/J$. Solutions to these equations show the existence of a critical
+coupling ratio beyond which a gap exists only above a transition temperature
+$T_N$. The cut-off dependence of these results is discussed.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 13:10:48 GMT""},{""version"":""v2"",""created"":""Wed, 2 Jun 1993 15:36:43 GMT""}]","2009-10-22"
+"gr-qc/9306001",,"Yu.A. Kubyshin and J.I. Perez Cadenas","Compactification to Non-symmetric Homogeneous Space in Multidimensional
+  Einstein-Yang-Mills Theory","23 pages, LATEX, UB-ECM-PF 93/11",,,,"gr-qc",,"  We study ten-dimensional Einstein-Yang-Mills model with the space of extra
+dimensions being a non-symmetric homogeneous space with the invariant metric
+parametrized by two scales. Dimensional reduction of the model is carried out
+and the scalar potential of the reduced theory is calculated. In a cosmological
+setting minima of the potential in the radiation-dominated period that followed
+the inflation are found and their stability is analyzed. The compactifying
+solution is shown to be stable for the appropriate values of parameters.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 13:32:23 GMT""}]","2007-05-23"
+"gr-qc/9306002","Luis J. Garay","Luis J. Garay","Hilbert space of wormholes","23 pages, 2 figures available upon request, REVTEX","Phys.Rev.D48:1710-1721,1993","10.1103/PhysRevD.48.1710",,"gr-qc",,"  Wormhole boundary conditions for the Wheeler--DeWitt equation can be derived
+from the path integral formulation. It is proposed that the wormhole wave
+function must be square integrable in the maximal analytic extension of
+minisuperspace. Quantum wormholes can be invested with a Hilbert space
+structure, the inner product being naturally induced by the minisuperspace
+metric, in which the Wheeler--DeWitt operator is essentially self--adjoint.
+This provides us with a kind of probabilistic interpretation. In particular,
+giant wormholes will give extremely small contributions to any wormhole state.
+We also study the whole spectrum of the Wheeler--DeWitt operator and its role
+in the calculation of Green's functions and effective low energy interactions.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 14:43:00 GMT""}]","2010-11-01"
+"hep-lat/9306001","Bartolome Alles Salom","B. Alles, M. Campostrini, A. Feo, and H. Panagopoulos","The Three-Loop Lattice Free Energy","5 pages + 2 figures (PostScript); report no. IFUP-TH 17/93","Phys.Lett. B324 (1994) 433-436","10.1016/0370-2693(94)90218-6",,"hep-lat",,"  We calculate the free energy of SU(N) gauge theories on the lattice, to three
+loops. Our result, combined with Monte Carlo data for the average plaquette,
+gives a more precise estimate of the gluonic condensate.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 12:47:13 GMT""},{""version"":""v2"",""created"":""Mon, 15 Aug 2005 13:23:17 GMT""}]","2009-10-22"
+"hep-lat/9306002","Evan Reidell","M.-C. Chu, J. M. Grandy, S. Huang, and J. W. Negele","Correlation Functions of Hadron Currents in the QCD Vacuum Calculated in
+  Lattice QCD","31 pages in REVTeX (with 10 figures to be added using figures
+  command), MIT CTP #2148","Phys.Rev.D48:3340-3353,1993","10.1103/PhysRevD.48.3340",,"hep-lat",,"  Point-to-point vacuum correlation functions for spatially separated hadron
+currents are calculated in quenched lattice QCD on a $16^3\times 24$ lattice
+with $6/g^2=5.7$. The lattice data are analyzed in terms of dispersion
+relations, which enable us to extract physical information from small distances
+where asymptotic freedom is apparent to large distances where the hadronic
+resonances dominate. In the pseudoscalar, vector, and axial vector channels
+where experimental data or phenomenological information are available,
+semi-quantitative agreement is obtained. In the nucleon and delta channels,
+where no experimental data exist, our lattice data complement experiments.
+Comparison with approximations based on sum rules and interacting instantons
+are made, and technical details of the lattice calculation are described.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 15:12:08 GMT""}]","2008-11-26"
+"hep-ph/9305349","Qiping Xu","Q. P. Xu","A Bjorken sum rule for semileptonic $\Omega_b$ decays to ground and
+  excited charmed baryon states","10 pages, RevTex, no figure, Alberta Thy--26--93","Phys.Rev. D48 (1993) 5429-5432","10.1103/PhysRevD.48.5429",,"hep-ph",,"  We derive a Bjorken sum rule for semileptonic $\Omega_b$ decays to ground and
+low-lying negative-parity excited charmed baryon states, in the heavy quark
+limit. We discuss the restriction from this sum rule on form factors and
+compare it with some models.
+","[{""version"":""v1"",""created"":""Mon, 31 May 1993 23:05:02 GMT""}]","2009-10-22"
+"hep-ph/9306201","Evan Reidell","R. L. Jaffe and L. Randall","Heavy Quark Fragmentation into Heavy Mesons","36 pages (Plain TeX with a PostScript figure appended at end), MIT
+  CTP #2189","Nucl.Phys.B412:79-105,1994","10.1016/0550-3213(94)90495-2",,"hep-ph",,"  We present a QCD based interpretation of heavy quark fragmentation which
+utilizes the heavy quark mass expansion. By distinguishing between perturbative
+and non-perturbative QCD effects, we show how to reliably extract mass
+independent parameters characterizing the fragmentation function. Because these
+parameters are quark mass independent, this procedure should permit tests of
+heavy quark symmetry. Furthermore, we show that heavy quark mass corrections
+vanish at order $m^2/Q^2$ in QCD. There also exist higher twist corrections of
+order $\Lambda m/Q^2$ and ${\alpha_{QCD}\over\pi} {m^2\over Q^2} \ln (Q^2/m^2)$
+which we relate to the leading twist fragmentation function.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 13:53:08 GMT""}]","2009-09-15"
+"hep-th/9305184","Semyen Markovitch Vishi","Simeon Vishik","Generalized Ray-Singer conjecture. I. A manifold with a smooth boundary","120 pages",,,,"hep-th math.DG",,"  This paper is devoted to a proof of a generalized Ray-Singer conjecture for a
+manifold with boundary (the Dirichlet and the Neumann boundary conditions are
+independently given on each connected component of the boundary and the
+transmission boundary condition is given on the interior boundary). The
+Ray-Singer conjecture \cite{RS} claims that for a closed manifold the
+combinatorial and the analytic torsion norms on the determinant of the
+cohomology are equal. For a manifold with boundary the ratio between the
+analytic torsion and the combinatorial torsion is computed. Some new general
+properties of the Ray-Singer analytic torsion are found. The proof does~not use
+any computation of eigenvalues and its asymptotic expansions or explicit
+expressions for the analytic torsions of any special classes of manifolds.
+","[{""version"":""v1"",""created"":""Mon, 31 May 1993 18:50:34 GMT""}]","2008-02-03"
+"hep-th/9305185","John Schwarz","John H. Schwarz and Ashoke Sen","Duality Symmetries of 4D Heterotic Strings","16 pages, NSF-ITP-93-64","Phys.Lett.B312:105-114,1993","10.1016/0370-2693(93)90495-4",,"hep-th",,"  Target space duality (T duality), which interchanges Kaluza--Klein and
+winding-mode excitations of the compactified heterotic string, is realized as a
+symmetry of a world-sheet action. Axion-dilaton duality (S duality), a
+conjectured nonperturbative SL(2,Z) symmetry of the same theory, plays an
+analogous role for five-branes. We describe a soliton spectrum possessing both
+duality symmetries and argue that the theory has an infinite number of dual
+string descriptions.
+","[{""version"":""v1"",""created"":""Mon, 31 May 1993 21:02:43 GMT""}]","2009-09-15"
+"hep-th/9305186","Kei-ichi Kondo","K.-I. Kondo","Gauge Independent Phase Structure of Gauged Nambu-Jona-Lasinio and
+  Yukawa Models","18 pages (latex), CHIBA-EP-69","Mod. Phys. Lett. A8 (1993) 3031-3048","10.1142/S0217732393001999",,"hep-th hep-lat",,"  We investigate the critical behavior of the gauged NJL model (QED plus
+4-fermion interaction) and the gauged Yukawa model by use of the inversion
+method.
+  By calculating the gauge-invariant chiral condensate in the inversion method
+to the lowest order, we derive the critical line which separates the
+spontaneous chiral-symmetry breaking phase from the chiral symmetric one. The
+critical exponent for the chiral order parameter associated with the second
+order chiral phase transition is shown to take the mean-field value together
+with possible logarithmic correction to the mean-field prediction.
+  All the above results are gauge-parameter independent and are compared with
+the previous results obtained from the Schwinger-Dyson equation for the fermion
+propagator.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 04:15:47 GMT""}]","2015-06-26"
+"hep-th/9306001",,"Tadashi Okai","Mass Formulae of 4-Dimensional Dilaton Black Holes","11 pages, (LaTeX). UT-645","Class.Quant.Grav.11:409-418,1994","10.1088/0264-9381/11/2/012",,"hep-th",,"  Integral and differential mass formulae of 4-dimensional stationary and
+axisymmetric Einstein-Maxwell-dilaton systems are derived. The total mass
+(energy) of these systems are expressed in terms of other physical quantities
+such as electric charge of the black hole suitably modified due to the
+existence of the dilaton field. It is shown that when we vary slightly the
+fields (metric of the spacetime $g_{\mu\nu}$, $U(1)-$gauge potential $A_{\mu}$,
+and dilaton $\phi$) in such a way as they obey classical equations of motion,
+the variation of the dilaton does not contribute explicitly to the variation of
+the total mass, but contributes only through the variation of the electric
+charge of the black hole.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 06:38:42 GMT""}]","2010-04-06"
+"hep-th/9306003",,"A.L. Larsen","Weiss-approach to pair of coupled non-linear reaction-diffusion
+  equations","12 pages Latex, NORDITA-93/37 P",,"10.1016/0375-9601(93)90680-X",,"hep-th",,"  We consider a pair of coupled non-linear partial differential equations
+describing a biochemical model system. The Weiss-algorithm for the Painle\'{e}
+test, that has been succesfully used in mathematical physics for the
+KdV-equation, Burgers equation, the sine-Gordon equation etc., is applied, and
+we find that the system possesses only the ""conditional"" Painlev\'{e} property.
+We use the outcome of the analysis to construct an auto-B\""{a}cklund
+transformation, and we find a variety of one and two-parameter families of
+special solutions.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 08:14:47 GMT""}]","2016-09-06"
+"hep-th/9306004",,"Ansar Fayyazuddin","The statistics transmuting Chern-Simons field and the braid group on
+  Riemann surfaces of genus g>0","13, Latex, USITP-93-16","Int. J. Mod. Phys. A9 (1994) 3785-3798","10.1142/S0217751X94001527",,"hep-th",,"  We study bosons interacting with an abelian Chern-Simons field on Riemann
+surfaces of genus $g>0$. It is shown that a singular gauge transformation
+brings the hamiltonian to free form. The transformed wave functions furnish a
+multi-component representation of the braid group studied by Imbo and
+March-Russell. The construction constitutes a proof of the equivalence of
+bosons coupled to a Chern-Simons field and anyons and generalizes the well
+known equivalence of the two pictures on the plane.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 11:29:00 GMT""}]","2015-06-26"
+"hep-th/9306014","Irina Ya. Aref'eva","I.Ya. Aref'eva","Large N QCD at High Energies as Two-Dimensional Field Theory","Latex, 14pages, one reference added+ some minor corrections","Phys.Lett. B328 (1994) 411-419","10.1016/0370-2693(94)91499-0","SMI-5-93","hep-th",,"  Different aspects of the Verlinde and Verlinde relation between high-energy
+effective scattering in QCD and a two-dimensional sigma-model are discussed.
+Starting from a lattice version of the truncated 4-dimensional Yang-Mills
+action we derive an effective theory with non-trivial longitudinal dynamics
+which has a form of the lattice two-dimensional chiral field model with
+non-trivial boundary conditions. To get quantum corrections coming from
+non-trivial longitudinal dynamics to transversal high-energy effective action
+one has to solve the two-dimensional chiral field model with non-trivial
+boundary conditions. We do this within an approximation scheme which takes into
+account one-dimensional excitations. Contributions of the one-dimensional
+excitations to quantum corrections for the high-energy effective action are
+calculated in the large N limit using the character expansion method.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 09:54:00 GMT""},{""version"":""v2"",""created"":""Mon, 21 Jun 1993 10:47:22 GMT""}]","2009-10-22"
+"nucl-th/9305017",,"S. A. Coon, M. T. Pena","Momentum and Coordinate Space Three-nucleon Potentials","LATEX, 33 pages, 3 figures (available as postscript files upon
+  request)","Phys.Rev.C48:2559-2575,1993","10.1103/PhysRevC.48.2559",,"nucl-th",,"  In this paper we give explicit formulae in momentum and coordinate space for
+the three-nucleon potentials due to $\rho$ and $\pi$ meson exchange, derived
+from off-mass-shell meson-nucleon scattering amplitudes which are constrained
+by the symmetries of QCD and by the experimental data. Those potentials have
+already been applied to nuclear matter calculations. Here we display additional
+terms which appear to be the most important for nuclear structure. The
+potentials are decomposed in a way that separates the contributions of
+different physical mechanisms involved in the meson-nucleon amplitudes. The
+same type of decomposition is presented for the $\pi - \pi$ TM force: the
+$\Delta$, the chiral symmetry breaking and the nucleon pair terms are isolated.
+","[{""version"":""v1"",""created"":""Mon, 31 May 1993 16:57:55 GMT""}]","2008-11-26"

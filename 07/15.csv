@@ -1,0 +1,330 @@
+"alg-geom/9307002","Robert Friedman","Robert Friedman","Vector bundles and $SO(3)$ invariants for elliptic surfaces I","19 pages, AMS-TeX",,,,"alg-geom math.AG",,"  This paper is the first in a series of three devoted to the smooth
+classification of simply connected elliptic surfaces. The method is to compute
+some coefficients of Donaldson polynomials of $SO(3)$ invariants whose second
+Stiefel-Whitney class is transverse to the unique primitive class $\kappa$ such
+that a positive multiple of $\kappa$ is the class of a general fiber on the
+surface. In this paper, we collect preliminary results on elliptic surfaces and
+vector bundles and give the general outline of the argument.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 16:07:28 GMT""}]","2008-02-03"
+"alg-geom/9307003","Robert Friedman","Robert Friedman","Vector bundles and $SO(3)$ invariants for elliptic surfaces II: The case
+  of even fiber degree","18 pages, AMS-TeX",,,,"alg-geom math.AG",,"  This paper is the second in a series of three devoted to the smooth
+classification of simply connected elliptic surfaces. In this paper, we study
+the case where one of the multiple fibers has even multiplicity, and describe
+the moduli space of stable rank two vector bundles with the appropriate first
+Chern class needed to calculate Donaldson polynomials. The analysis is in many
+ways parallel to the analysis in the case of vector bundles of trivial
+determinant, but the asymmetry between the multiplicities also appears in the
+moduli space. In this way, the first coefficient of an appropriate Donaldson
+polynomial determines one of the multiplicities.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 16:08:53 GMT""}]","2008-02-03"
+"astro-ph/9307024","Jane Holmquist","Bohdan Paczynski and James E. Rhoads (Princeton University
+  Observatory)","Radio Transients from Gamma-Ray Bursters","8 pages, plain TeX, submitted to Ap.J.Lett., POP-517","Astrophys.J. 418 (1993) L5","10.1086/187102",,"astro-ph",,"  The rapid time variability of gamma-ray bursts implies the sources are very
+compact, and the peak luminosities are so high that some matter must be ejected
+at ultra-relativistic speeds. The very large Lorentz factors of the bulk flow
+are also indicated by the very broad and hard spectra. It is natural to expect
+that when the relativistic ejecta interact with the interstellar matter a
+strong synchrotron radio emission is generated, as is the case with supernova
+remnants and radio galaxies. We estimate that the strongest gamma-ray bursts
+may be followed by radio transients with peak fluxes as high as 0.1 Jy. The
+time of peak radio emission depends on the distance scale; it is less than a
+minute if the bursts are in the galactic halo, and about a week if the bursts
+are at cosmological distances.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 00:16:40 GMT""}]","2016-08-30"
+"astro-ph/9307025",,"Geza Gyuk and Michael S. Turner (Univ. of Chicago/Fermilab)","Effect of Finite Nucleon Mass on Primordial Nucleosynthesis","10 pages, 2 Figs available on request, FERMILAB-Pub-93/181-A","Phys.Rev. 56 (1997) D3191",,,"astro-ph hep-ph",,"  We have modified the standard code for primordial nucleosynthesis to include
+the effect of finite nucleon mass on the weak-interaction rates as calculated
+by Seckel \cite{seckel}. We find a small, systematic increase in the $^4$He
+yield, $\Delta Y \simeq 0.0057\,Y$, which is insensitive to the value of the
+baryon-to-photon ratio $\eta$ and slightly larger than Seckel's estimate. The
+fractional changes in the abundances of D, $^3$He, and $^7$Li range from 0.08\%
+to 3\% for $10^{-11}\le \eta \le 10^{-8}$.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 04:02:24 GMT""}]","2007-05-23"
+"astro-ph/9307026","Gordon A. Drukier","G. A. Drukier","NGC 6397: A case study in the resolution of post-collapse globular
+  cluster cores","5 pages, TeX, 2 postscript figures appended, IoA","Mon.Not.Roy.Astron.Soc. 265 (1993) 773","10.1093/mnras/265.3.773",,"astro-ph",,"  Model surface brightness profiles based on Fokker-Planck simulations have
+been used to assess the high resolution surface brightness profile of the
+globular cluster NGC 6397 of Lauzeral et al. (1992). The profile is well fitted
+by the model in the maximum-expansion phase of a gravothermal oscillation with
+a core radius of 0.06 pc (6''), but an unresolved core cannot be ruled out. A
+core this size is also expected in highly evolved clusters including
+significant numbers of primordial binaries. A more massive cluster will provide
+better statistics, as would star counts. The greater distance of the other
+globular clusters and the requirements of star counting will demand very high
+resolution observations to definitively resolve cores this size.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 12:27:02 GMT""}]","2015-06-24"
+"cond-mat/9307029","Franco Nori","R. A. Richardson, O. Pla and Franco Nori","Confirmation of the Modified Bean Model from Simulations of
+  Superconducting Vortices","4-pages + 4-uuencoded, compressed postscript figures, RevTex 3.0,
+  (Accepted in Physical Review Letters)","Phys. Rev. Lett. 72 (1994) 1268-1271","10.1103/PhysRevLett.72.1268","UM-CM-93-23","cond-mat.supr-con adap-org cond-mat.mtrl-sci nlin.AO",,"  From a very simple description of vortices and pinning centers and without
+using any electrodynamical assumptions, we obtain nonlinear density profiles of
+vortices in type-II dirty superconductors that result from raising or lowering
+an external magnetic field. The results confirm a modified Bean model
+description of these systems, and in particular, follow the Kim empirical form
+that relates the current inside the material to the local magnetic field. We
+also obtain realistic magnetization hysteresis loops and examine the discrete
+evolution of the density profiles in our systems. This evolution is not
+continuous, but takes place by the occurrence of avalanches of vortices
+promoted by the addition or extraction of vortices from the edges of the
+system.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 21:12:38 GMT""},{""version"":""v2"",""created"":""Mon, 21 Feb 1994 10:43:07 GMT""}]","2009-10-22"
+"cond-mat/9307030","Fong Liu","Fong Liu","Growth Kinetics in Systems with Local Symmetry","10 pages in Tex, 2 Postscript figures appended, NSF-ITP-93-40",,"10.1103/PhysRevE.48.2422",,"cond-mat",,"  The phase transition kinetics of Ising gauge models are investigated. Despite
+the absence of a local order parameter, relevant topological excitations that
+control the ordering kinetics can be identified. Dynamical scaling holds in the
+approach to equilibrium, and the growth of typical length scale is
+characteristic of a new universality class with $L(t)\sim \left(t/\ln
+t\right)^{1/2}$. We suggest that the asymptotic kinetics of the 2D Ising gauge
+model is dual to that of the 2D annihilating random walks, a process also known
+as the diffusion-reaction $A+A\to \hbox{inert}$.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 22:57:22 GMT""}]","2009-10-22"
+"cond-mat/9307031","Jianping Lu","Jian Ping Lu (Department of Physics and Astronomy, University of North
+  Carolina at Chapel Hill, Chapel Hill, North Carolina Weitao Yang, Department
+  of Chemistry, Duke University, Durham, NC)","The Shape of Bucky Onions","9 pages, RevTex",,,,"cond-mat",,"  The morphology of Bucky onions is investigated by {\it ab initio}
+calculations using Yang's new $O(N)$ method. It is found that for large single
+shell fullerenes with $I_h$ symmetry, the spherical morphology has the lower
+energy than that of polyhedrons. The formation energy per atom follows a simple
+scaling law. Including an estimate of inter-shell van de Waals interactions
+leads to the conclusion that spherical multiple shell Bucky onions are likely
+the most stable structure of large carbon clusters. These results are in good
+agreement with recent observation.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 14:59:23 GMT""}]","2007-05-23"
+"cond-mat/9309005",,"Younggi Lee and In-Mook Kim","Crossover Behavior on Restricted Surface Depositions","Latex",,,,"cond-mat",,"  We study the crossover behavoir on restricted surface depostions.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 17:54:30 GMT""},{""version"":""v2"",""created"":""Fri, 10 Sep 1993 22:16:32 GMT""}]","2008-02-03"
+"gr-qc/9307018",,"Chopin Soo and Lay Nam Chang","Superspace Dynamics and Perturbations Around ""Emptiness""","16 pages.(Revised 9/93) Preprint VPI-IHEP-93-5, CGPG-93/9-2,
+  gr-qc/9307018","Int.J.Mod.Phys.D3:529-544,1994","10.1142/S021827189400068X",,"gr-qc hep-th",,"  Superspace parametrized by gauge potentials instead of metric
+three-geometries is discussed in the context of the Ashtekar variables. Among
+other things, an ""internal clock"" for the full theory can be identified.
+Gauge-fixing conditions which lead to the natural geometrical separation of
+physical from gauge modes are derived with the use of the metric in
+connection-superspace. A perturbation scheme about an unconventional background
+which is inaccessible to conventional variables is presented. The resultant
+expansion retains much of the simplicity of Ashtekar's formulation of General
+Relativity.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 19:59:20 GMT""},{""version"":""v2"",""created"":""Sun, 12 Sep 1993 17:27:55 GMT""}]","2010-11-01"
+"gr-qc/9307019","Kristin Schleich","Kristin Schleich and Donald M. Witt","Generalized Sums over Histories for Quantum Gravity II. Simplicial
+  Conifolds","82pp., plain TeX, To appear in Nucl. Phys. B,FF-92-2","Nucl.Phys. B402 (1993) 469-530","10.1016/0550-3213(93)90650-E",,"gr-qc hep-th",,"  This paper examines the issues involved with concretely implementing a sum
+over conifolds in the formulation of Euclidean sums over histories for gravity.
+The first step in precisely formulating any sum over topological spaces is that
+one must have an algorithmically implementable method of generating a list of
+all spaces in the set to be summed over. This requirement causes well known
+problems in the formulation of sums over manifolds in four or more dimensions;
+there is no algorithmic method of determining whether or not a topological
+space is an n-manifold in five or more dimensions and the issue of whether or
+not such an algorithm exists is open in four. However, as this paper shows,
+conifolds are algorithmically decidable in four dimensions. Thus the set of
+4-conifolds provides a starting point for a concrete implementation of
+Euclidean sums over histories in four dimensions. Explicit algorithms for
+summing over various sets of 4-conifolds are presented in the context of Regge
+calculus. Postscript figures available via anonymous ftp at
+black-hole.physics.ubc.ca (137.82.43.40) in file gen2.ps.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 20:57:00 GMT""}]","2009-10-22"
+"gr-qc/9307020","David Garfinkle","David Garfinkle and G. Comer Duncan","Collapse of a Circular Loop of Cosmic String","15 pages","Phys.Rev. D49 (1994) 2752-2758","10.1103/PhysRevD.49.2752",,"gr-qc",,"  We study the collapse of a circular loop of cosmic string. The gravitational
+field of the string is treated using the weak field approximation. The
+gravitational radiation from the loop is evaluated numerically. The memtric of
+the loop near the point of collapse is found analytically.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 23:23:55 GMT""}]","2009-10-22"
+"gr-qc/9307021","Jasjeet Bagla","N. Dadhich, R. Tikekar and L.K. Patel","On Singularity Free Cosmological Models","7 pages, TeX",,,,"gr-qc",,"  In 1990 Senovilla$^1$ obtained an interestisng cosmological solution of
+Einstein's equations that was free of the big-bang singularity. It represented
+an inhomogeneous and anisotropic cylindrical model filled with disordered
+radiation, ${\bf \rho = 3p}$. The model was valid for ${\bf t \rightarrow -
+\infty }$ to ${\bf t \rightarrow \infty}$ having all physical and geometrical
+invariants finite and regular for the whole of spacetime. This was the first
+instance of a singularity free cosmological model satisfying all the energy and
+causality conditions and remaining true to general relativity (GR).
+Subsequently a family of singularity free models has been identified${\bf ^2}$.
+In this letter we wish to point out that a simple and natural inhomogenisation
+and anisotropisation, appropriate for cylindrical symmetry, of the
+Friedman-Robertson-Walker (FRW) model with negative curvature leads to the same
+singularity free family. It consists of the complete set of singularity free
+general solutions of Einstein's equations for perfect fluid when cylindrically
+symmetric metric potentials are assumed to be separable functions of radial and
+time coordinates.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 10:08:34 GMT""}]","2007-05-23"
+"hep-lat/9307013","Markus Klomfass","M. Klomfass","Semi-Analytical Solution of the $\phi^4$ Theory on an $F_4$ Lattice","36 pages, CU-TP-603, Latex, 3 PS figures included, uuencoded
+  compressed shar file","Nucl.Phys. B412 (1994) 621-656","10.1016/0550-3213(94)90395-6",,"hep-lat hep-ph",,"  Investigating the cutoff dependence of the Higgs mass triviality bound, the
+$\phi^4$ theory is formulated on an $F_4$ lattice which preserves Lorentz
+invariance to a higher degree than the commonly used hypercubic lattice. I
+solve this model non-perturbatively by evaluating the high temperature
+expansion through 13th order following the approach of L\""uscher and Weisz. The
+results are continued across the transition line into the broken phase by
+integrating the perturbative RG equations. In the broken phase, the
+renormalized coupling never exceeds 2/3 of the tree level unitarity bound when
+$\Lambda/m_R \geq 2$. The results confirm recent Monte Carlo data and I obtain
+as an upper bound for the Higgs mass $m_R/f_\pi \leq 2.46 \pm 0.02_{\rm HTE}
+\pm 0.08_{\rm PT}$ at $\Lambda/m_R=2$.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 19:10:35 GMT""}]","2009-10-22"
+"hep-lat/9307014",,"Paolo Rossi and Ettore Vicari","Two dimensional SU(N) x SU(N) chiral models on the lattice","pre-print IFUP 29/93, revised version, 12 pages, 10 figures avaliable
+  on request by FAX or by mail. REVTEX","Phys.Rev.D49:1621,1994; Erratum-ibid.D55:1698,1997","10.1103/PhysRevD.49.1621 10.1103/PhysRevD.55.1698",,"hep-lat",,"  Lattice $SU(N)\times SU(N)$ chiral models are analyzed by strong and weak
+coupling expansions and by numerical simulations. $12^{th}$ order strong
+coupling series for the free and internal energy are obtained for all $N\geq
+6$. Three loop contributions to the internal energy and to the lattice
+$\beta$-function are evaluated for all $N$ and non-universal corrections to the
+asymptotic $\Lambda$ parameter are computed in the ``temperature'' and the
+``energy'' scheme. Numerical simulations confirm a faster approach to
+asymptopia of the energy scheme. A phenomenological correlation between the
+peak in the specific heat and the dip of the $\beta$-function is observed.
+Tests of scaling are performed for various physical quantities, finding
+substantial scaling at $\xi \gtrsim 2$. In particular, at $N=6$ three different
+mass ratios are determined numerically and found in agreement, within
+statistical errors of about 1\%, with the theoretical predictions from the
+exact S-matrix theory.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 07:53:35 GMT""},{""version"":""v2"",""created"":""Wed, 8 Sep 1993 06:56:11 GMT""}]","2010-12-21"
+"hep-ph/9307274","Hubert Simma","H. Simma","Equations of Motion for Effective Lagrangians and Penguins in Rare
+  B-Decays","33 pages + 1 page figures (large ps-file, included as uu-file),
+  LaTeX, DESY 93-083","Z.Phys. C61 (1994) 67-82","10.1007/BF01641888",,"hep-ph",,"  We study the application of the classical equations of motion (EOM) within
+the framework of an effective low-energy Lagrangian treated at the loop level.
+Gauge-fixing and ghost terms, which enter naturally in the EOM, are found to
+lead to no physical effects --- neither through operator mixing nor in matrix
+elements. Beyond first order in the effective interactions, contact terms have
+to be included when reducing the effective Lagrangian and we present an
+explicit procedure to construct them. Applied to (hadronic) rare B-decays, the
+EOM drastically simplify the effective Lagrangian and its matching to the
+underlying theory, and certain cancellations of large (logarithmic)
+contributions become more transparent. Finally, we discuss details of the
+`matching' of the effective Lagrangian, which may be helpful in incorporating
+short distance QCD corrections in further phenomenological studies.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 16:40:16 GMT""}]","2009-10-22"
+"hep-ph/9307275",,"H.-C. Cheng, M.S. Gill, and L.J. Hall","$SO(10)$ Operator Analysis For $\nu_\mu \nu_\tau$ Oscillations","Straight Latex, 25 pages + 2 figures available by mail or fax,
+  LBL-33936","Phys.Rev. D49 (1994) 4826-4834","10.1103/PhysRevD.49.4826",,"hep-ph",,"  In grand unified theories the flavor mixing angles of leptons are related to
+those of quarks. In this paper we study SO(10) theories with a precise group
+theoretic relation at the GUT scale for mixing between the heaviest two
+generations: $\thetuto = \kappa \abs{\vcbo}$. A comprehensive operator search
+yields all possible cases where $\kappa$ is a group theory Clebsch. The
+resulting predictions for $\nu_\mu \nu_\tau$ oscillations are scaled from the
+grand to the weak scales. We find that all but one of the models which have
+such a relationship between $\thetuto$ and $\vcbo$, and are not already
+excluded, will be probed by the CHORUS and NOMAD experiments. A more precise
+mixing measurement, for example by the proposed P803 experiment, could
+distinguish between the models.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 03:25:45 GMT""}]","2009-10-22"
+"hep-ph/9307276",,"Stephen P. Martin","Automatic Gauged R-Parity","9 pages, NUB-3063-93TH",,,,"hep-ph",,"  In the minimal supersymmetric standard model, the existence of R-parity is
+not required for the internal consistency of the theory and might therefore be
+regarded as ad hoc. I catalog some simple conditions which are sufficient to
+guarantee that R-parity survives as an unbroken gauged discrete subgroup of the
+continuous gauge symmetry in certain extensions of the minimal supersymmetric
+standard model. If these criteria are met, R-parity is automatic. [Based on a
+talk given at the International Workshop on Supersymmetry and Unification of
+Fundamental Interactions (SUSY93) at Northeastern University, Boston, March
+29-April 1 1993.]
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 05:09:00 GMT""}]","2007-05-23"
+"hep-ph/9307277",,"T. Altherr","Introduction to Thermal Field Theory","24 pages, 8 figures available upon request as ps files","Int.J.Mod.Phys. A8 (1993) 5605-5628","10.1142/S0217751X93002216",,"hep-ph",,"  This is intended to be a very basic introduction and short (and of course
+incomplete) overview of thermal field theory. In the first part, I introduce
+the thermal propagator at a very simple level and give the Feynman rules using
+the time-path contour method. In the second part, I give examples of these
+rules in scalar theory and discuss the origin of the thermal mass and other
+important effects as infrared divergences and phase transitions. In the third
+part, I outline the resummation program of Braaten and Pisarski.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 13:16:57 GMT""}]","2015-06-25"
+"hep-th/9307096",,"Hitoshi Nishino","Self-Dual Supersymmetric Yang-Mills Theory Generates Two-Dimensional
+  Supersymmetric WZNW Models","LATEX (macros included), 13 pages, UMDEPP 93-213","Phys.Lett.B316:298-306,1993","10.1016/0370-2693(93)90328-F",,"hep-th",,"  We show that recently formulated four-dimensional self-dual supersymmetric
+Yang-Mills theory, which is consistent background for open $~N=2$~ superstring,
+generates two-dimensional $~N=(1,1),~\, N=(1,0) $~ and $~N=(2,0)$~
+supersymmetric gauged Wess-Zumino-Novikov-Witten $~\s\-$models on coset
+manifolds $~G/H$, after appropriate dimensional reductions. This is supporting
+evidence for the conjecture that the self-dual supersymmetric Yang-Mills theory
+will generate lower-dimensional supersymmetric integrable models after
+dimensional reductions.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 21:17:54 GMT""}]","2011-07-19"
+"hep-th/9307097","Smirnov Fedov","F.A. Smirnov","What are we quantizing in integrable field theory?","13 pages, AMStex",,,,"hep-th",,"  We continue study of the connection of classical limit of integrable
+asymptotically free field theory to the finite-gap solutions of classical
+integrable equations. In the limit the momenta of particles turn into the
+moduli of Riemann surfaces while their isotopic structure is related to the
+period lattices. In this paper we explain that the classical limit of the local
+operators can be understood as a measure induced on the phase space by
+embedding into the projective space of ""classical fields"".
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 01:16:37 GMT""}]","2007-05-23"
+"hep-th/9307098","R. Sollacher","R. Sollacher","Collective Coordinate Quantization: Relativistic and Gauge Symmetric
+  Aspects","LaTex, 27 pages, GSI-93-56",,,,"hep-th hep-ph",,"  The introduction and quantization of a center-of-mass coordinate is
+demonstrated for the one-soliton sector of nonlinear field theories in (1+1)
+dimensions. The present approach strongly emphazises the gauge and
+BRST-symmetry aspects of collective coordinate quantization. A gauge is
+presented which is independent of any approximation scheme and which allows to
+interpret the new degree of freedom as the {\em quantized} center of mass
+coordinate of a soliton. Lorentz invariance is used from the beginning to
+introduce fluctuations of the collective coordinate in the {\em rest frame} of
+the {\em moving} soliton. It turns out that due to the extended nature of the
+soliton retardation effects lead to differences in the quantum mechanics of the
+soliton as compared to a point-like particle. Finally, the results of the
+semiclassical expansion are used to analyse effective soliton-meson vertices
+and the coupling to an external source. Such a coupling in general causes
+acceleration as well as internal excitation of the soliton.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 08:59:52 GMT""}]","2007-05-23"
+"hep-th/9307099",,"Y. Brihaye, P. Kosinski","Quasi Exactly Solvable 2$\times$2 Matrix Equations","14 pages, Plain TeX","J.Math.Phys. 35 (1994) 3089-3098","10.1063/1.530454",,"hep-th",,"  We investigate the conditions under which systems of two differential
+eigenvalue equations are quasi exactly solvable. These systems reveal a rich
+set of algebraic structures. Some of them are explicitely described. An exemple
+of quasi exactly system is studied which provides a direct counterpart of the
+Lam\'e equation.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 12:03:55 GMT""}]","2009-10-22"
+"hep-th/9307100","Andy Shiekh","A.Y. Shiekh","Orthodox Gravity","6 pages, LaTeX","Can.J.Phys.74:172,1996",,,"hep-th gr-qc",,"  A scalar field theory is investigated within the context of orthodox quantum
+gravity.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 13:14:08 GMT""},{""version"":""v2"",""created"":""Fri, 16 Jul 1993 08:24:48 GMT""}]","2009-09-25"
+"hep-th/9307101","Paul Fendley","Paul Fendley and Ken Intriligator","Central charges without finite-size effects","11 pages, RU-93-26, BUHEP-93-16","Phys.Lett. B319 (1993) 132-138","10.1016/0370-2693(93)90792-G",,"hep-th",,"  We show how to obtain the ultraviolet central charge from the exact S-matrix
+for a wide variety of models with a $U(1)$ symmetry. This is done by coupling
+the $U(1)$ current $J$ to a background field. In an $N$=2 superconformal theory
+with $J$ the fermion number current, the OPE of $J$ with itself and hence the
+free energy are proportional to $c$. By deforming the supersymmetry into affine
+$\widehat SU(2)_q$ quantum-group symmetry, this result can be generalized to
+many $U(1)$-invariant theories, including the N=0 and N=1 sine-Gordon models
+and the $SU(2)_k$ WZW models. This provides a consistency check on a
+conjectured S-matrix completely independent of the finite-size effects
+expressed in terms of dilogarithms resulting from the thermodynamic Bethe
+ansatz.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 15:32:09 GMT""}]","2009-10-22"
+"nucl-th/9307013","Arturo De Pace","M.B. Barbaro, A. De Pace, T.W. Donnelly and A. Molinari","Parity-Violating Electron Scattering from the Pion-Correlated
+  Relativistic Fermi Gas","28 pages, LATeX, 13 figures (tar-compressed postscript files,
+  available from the authors), MIT preprint CTP#2223","Nucl.Phys. A569 (1994) 701-731","10.1016/0375-9474(94)90381-6",,"nucl-th",,"  Parity-violating quasielastic electron scattering is studied within the
+context of the relativistic Fermi gas and its extensions to include the effects
+of pionic correlations and meson-exchange currents. The work builds on previous
+studies using the same model; here the part of the parity-violating asymmetry
+that contains axial-vector hadronic currents is developed in detail using those
+previous studies and a link is provided to the transverse vector-isovector
+response. Various integrated observables are constructed from the differential
+asymmetry. These include an asymmetry averaged over the quasielastic peak, as
+well as the difference of the asymmetry integrated to the left and right of the
+peak -- the latter is shown to be optimal for bringing out the nature of the
+pionic correlations. Special weighted integrals involving the differential
+asymmetry and electromagnetic cross section, based on the concepts of y-scaling
+and sum rules, are constructed and shown to be suited to studies of the
+single-nucleon form factor content in the problem, in particular, to
+determinations of the isovector/axial-vector and electric strangeness form
+factors. Comparisons are also made with recent predictions made on the basis of
+relativistic mean-field theory.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 16:08:49 GMT""}]","2009-10-22"
+"nucl-th/9307014","Niels R. Walet","Pavlos Protopapas, Abraham Klein, and Niels R. Walet","Calculation of the properties of the rotational bands of $^{155,157}$Gd","27 pages, 13 uuencoded postscript figures. Uses epsf.sty","Phys.Rev.C50:245-256,1994","10.1103/PhysRevC.50.245","UPR-0087 NT","nucl-th",,"  We reexamine the long-standing problem of the microscopic derivation of a
+particle-core coupling model. We base our research on the Klein-Kerman
+approach, as amended by D\""onau and Frauendorf. We describe the formalism to
+calculate energy spectra and transition strengths in some detail. We apply our
+formalism to the rotational nuclei $^{155,157}$Gd, where recent experimental
+data requires an explanation. We find no clear evidence of a need for Coriolis
+attenuation.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 18:56:38 GMT""}]","2008-11-26"
+"nucl-th/9307015","Niels R. Walet","R. D. Amado, Bin Shao and Niels R. Walet","The Skyrme model description of the spin-orbit force","7 pages, 2 uuencoded postscript figures. Uses epsf.sty. Replacement
+  fixes problem with missing file","Phys.Lett. B314 (1993) 159-162; Erratum-ibid. B324 (1994) 467","10.1016/0370-2693(93)90442-K","UPR-0127 MT","nucl-th",,"  We examine the derivation of the spin-orbit force from the Skyrme model. We
+find substantial agreement with phenomenological potentials. We show that a
+systematic and simultaneous treatment of all components of the kinetic energy
+introduces a minus sign relative to previous calculations for the iso-spin
+independent part of the interaction. We also explain the smallness of the
+iso-spin dependent part of the spin-orbit potential.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 19:14:41 GMT""},{""version"":""v2"",""created"":""Thu, 15 Jul 1993 16:36:40 GMT""},{""version"":""v3"",""created"":""Fri, 16 Jul 1993 23:23:36 GMT""}]","2009-10-22"
+"nucl-th/9307016","Niels R. Walet","Bin Shao, Niels R. Walet, and R. D. Amado","Inertial parameters of the Skyrmion-Skyrmion system with the product
+  ansatz","25 pages, 24 uuencoded postscript figures. Uses epsf.sty","Phys.Rev.C48:2498-2509,1993; Erratum-ibid.C49:3360,1994;
+  Phys.Rev.C49:3360,1994","10.1103/PhysRevC.48.2498 10.1103/PhysRevC.49.3360","UPR-0128 MT","nucl-th",,"  The kinetic energy of the Skyrmion-Skyrmion system is calculated in the
+product ansatz. The energy is expanded in a set of rotationally invariant
+quadratic functions of translational and iso-rotational velocities in the
+product ansatz and all inertial parameters are evaluated. Most of the iso-spin
+dependent parameters are small at separations larger than 1 fm. However, some
+parameters of the coupling between the iso-rotational velocities of the
+Skyrmions decay slowly, as $1/R$, when zero pion mass is used. Otherwise we
+find that the results are not sensitive to the addition of the pion mass term.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 19:19:52 GMT""}]","2014-11-18"
+"nucl-th/9307018","Stacey Scoville","W. E. Ormand, D. J. Dean, C. W. Johnson, G. H. Lang, and S. E. Koonin","Demonstration of the auxiliary-field Monte Carlo approach for sd-shell
+  nuclei","14 pages, figures available upon request, Caltech Preprint No.
+  MAP-160","Phys.Rev.C49:1422-1427,1994","10.1103/PhysRevC.49.1422",,"nucl-th",,"  We apply the auxiliary-field Monte Carlo approach to the nuclear shell model
+in the 1s-0d configuration space. The Hamiltonian was chosen to have isovector
+pairing and isoscalar multipole-multipole interactions, and the calculations
+were performed within the fixed-particle, canonical ensemble. The results
+demonstrate the feasibility of the method for $N\neq Z$ even-even and odd-odd
+N=Z nuclei. In particular, static observables for even-even Ne isotopes and
+Na-22 compare well with results obtained from exact diagonalization of the
+Hamiltonian. Response functions are presented for Ne-22 and compared with exact
+results, and the viability of cranked calculations for $N\neq Z$ even-even
+nuclei is addressed. We present methods for computing observables in the
+canonical ensemble using Fourier extraction, and for determining the nuclear
+shape.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 23:34:39 GMT""}]","2008-11-26"

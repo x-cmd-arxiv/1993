@@ -1,0 +1,324 @@
+"astro-ph/9307039","Eyal Maoz","Eyal Maoz","The Expected Dipole in the Distribution of Cosmological Gamma-Ray Bursts","10 pages, Latex, Submitted to ApJ, preprints available","Astrophys.J. 428 (1994) 454","10.1086/174258",,"astro-ph",,"  If gamma-ray bursts originate at cosmological distances then their angular
+distribution should exhibit a dipole in the direction of the solar motion
+relative to the cosmic microwave background. This is due to the combined
+effects of abberation, an anisotropic shift of the burst event rate, and an
+angular variation in the distance out to which bursts can be detected.
+  We derive the amplitude of the expected dipole for an open and flat
+cosmological model, and for various possible evolution rates of the burst
+population. Although our dimensionless velocity with respect to the CMB rest
+frame is of order $10^{-3}$, the dipole amplitude is of order $10^{-2}$, an
+order of magnitude larger. The results depend very weakly on the value of
+$\Omega_0$, but are sensitive to the spectral index of the bursts' photon
+spectra, and to the rate of evolution of the burst population. There is no
+dependence on the value of the Hubble constant.
+  A clear detection of the dipole will require a larger sample of bursts than
+currently available (of order $10^4$). Future statistical analyses of the
+hypothesis that bursts originate at cosmological distances should take this
+effect into account, rather than assuming a perfectly isotropic distribution,
+for obtaining the correct statistical significance of their results.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 16:02:27 GMT""}]","2009-10-22"
+"astro-ph/9307040","Mark Hindmarsh","Mark Hindmarsh","Small Scale Microwave Background Fluctuations from Cosmic Strings","24pp LaTeX, 5 ps figures in 4 files, self-unpacking uuencoded file.
+  (Corrected formula for dT/T, non-Gaussian statistical analysis of OVRO data,
+  leading to revised bound on relevant parameter of string model.)","Astrophys.J.431:534-542,1994","10.1086/174505",,"astro-ph hep-ph",,"  The Cosmic Microwave Background (CMB) fluctuations at very small angular
+scales (less than $10'$) induced by matter sources are computed in a simplified
+way. The result corrects a previous formula appearing in the literature. The
+small scale power spectrum from cosmic strings is then calculated by a new
+analytic method. The result compares extremely well with the spectrum computed
+by numerical techniques (when the old, incorrect, formula is used). The upper
+bound on the string parameters derived from OVRO data is re-examined, taking
+into account the non-Gaussian nature of stringy perturbations on small scales.
+Assuming a conventional ionization history, the bound is $\gamma G\mu <
+11\times 10^{-6}$, where $\gamma^2$ is the number of horizon lengths of string
+per horizon volume. Current simulations give $\gamma^2 = 31\pm 7$.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 11:56:06 GMT""},{""version"":""v2"",""created"":""Thu, 19 Aug 1993 15:47:13 GMT""},{""version"":""v3"",""created"":""Wed, 9 Feb 1994 15:14:09 GMT""}]","2011-05-10"
+"cond-mat/9307060","Qimiao Si","Qimiao Si and Gabriel Kotliar","Metallic Non-Fermi Liquid Phases of an Extended Hubbard Model in
+  Infinite Dimensions","56 pages, REVTEX",,"10.1103/PhysRevB.48.13881",,"cond-mat",,"  We study an extended Hubbard model in the limit of infinite dimensions and
+its zero dimensional counterpart, a generalized asymmetric Anderson model. In
+the impurity model we find three kinds of mixed valence states: a) the usual
+strong coupling state in which a resonance forms at the Fermi level; b) a weak
+coupling state in which neither the impurity spin nor the impurity charge
+degrees of freedom is quenched; and c) an intermediate coupling state where the
+spin but not the charge degree of freedom is quenched. The corresponding phases
+of the extended Hubbard model in infinite dimensions are a) a Fermi liquid; b)
+a non-Fermi liquid state with incoherent charge and spin excitations; and c) a
+non-Fermi liquid state with incoherent charge but coherent spin excitations.
+The non-Fermi liquid phases are incoherent metallic states with vanishing
+quasiparticle residue, self-similar local correlation functions, and
+asymptotically decoupled charge and spin excitations. The non-Fermi liquid
+phases occur for a wide range of parameters.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 21:27:13 GMT""}]","2009-10-22"
+"cond-mat/9307061","Qimiao Si","Gabriel Kotliar and Qimiao Si","Quantum Chemistry, Anomalous Dimensions, and the Breakdown of Fermi
+  Liquid Theory in Strongly Correlated Systems","12 pages, REVTEX",,"10.1088/0031-8949/1993/T49A/027",,"cond-mat",,"  We formulate a local picture of strongly correlated systems as a Feynman sum
+over atomic configurations. The hopping amplitudes between these atomic
+configurations are identified as the renormalization group charges, which
+describe the local physics at different energy scales. For a metallic system
+away from half-filling, the fixed point local Hamiltonian is a generalized
+Anderson impurity model in the mixed valence regime. There are three types of
+fixed points: a coherent Fermi liquid (FL) and two classes of self-similar
+(scale invariant) phases which we denote incoherent metallic states (IMS). When
+the transitions between the atomic configurations proceed coherently at low
+energies, the system is a Fermi liquid. Incoherent transitions between the low
+energy atomic configurations characterize the incoherent metallic states. The
+initial conditions for the renormalization group flow are determined by the
+physics at rather high energy scales. This is the domain of local quantum
+chemistry. We use simple quantum chemistry estimates to specify the basin of
+attraction of the IMS fixed points.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 21:28:23 GMT""}]","2015-06-25"
+"cond-mat/9307062","Qimiao Si","Qimiao Si","Spin Dynamics in the Normal State of High T_c Superconductors","30 pages, REVTEX",,"10.1142/S0217979294000038",,"cond-mat",,"  We summarize our recent theoretical studies on the spin dynamics in the
+normal state of the metallic cuprates. The contrasting wave vector dependence
+of the dynamical spin structure factor $S({\bf q}, \omega )$ in LaSrCuO and
+YBaCuO systems are attributed to the differences in the fermiology, in
+conjunction with strong Coulomb correlations. These effects are found to
+account also for the anomalous temperature and frequency dependence of $S({\bf
+q}, \omega )$. We conclude that the low energy spin dynamics of the metallic
+cuprates are described in terms of correlated quasiparticles with a Luttinger
+Fermi surface and a non-zero antiferromagnetic exchange interaction.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 21:29:29 GMT""}]","2015-06-25"
+"cond-mat/9307063","Enzo Granato","E. Granato","Decoupling in the 1D frustrated quantum XY model and Josephson junction
+  ladders: Ising critical behavior","15 pages with figures, RevTex 3.0, INPE-93/002","Phys. Rev. B48, 7727 (1993)","10.1103/PhysRevB.48.7727",,"cond-mat",,"  A generalization of the one-dimensional frustrated quantum XY model is
+considered in which the inter and intra-chain coupling constants of the two
+infinite XY (planar rotor) chains have different strengths. The model can
+describe the superconductor to insulator transition due to charging effects in
+a ladder of Josephson junctions in a magnetic field with half a flux quantum
+per plaquette. From a fluctuation-effective action, this transition is expected
+to be in the universality class of the two-dimensional classical XY-Ising
+model. The critical behavior is studied using a Monte Carlo transfer matrix
+applied to the path-integral representation of the model and a
+finite-size-scaling analysis of data on small system sizes. It is found that,
+unlike the previous studied case of equal inter and intra-chain coupling
+constants, the XY and Ising-like excitations of the quantum model decouple for
+large interchain coupling, giving rise to pure Ising model critical behavior
+for the chirality order parameter and a superconductor-insulator transition in
+the universality class of the 2D classical XY model.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 22:20:51 GMT""}]","2009-10-22"
+"cond-mat/9307064","Kai Nagel","Kai Nagel, Hans J. Herrmann","Deterministic Models for Traffic Jams","11 pages, latex, HLRZ preprint 46/93, UKAM-WP 93.133",,"10.1016/0378-4371(93)90006-P",,"cond-mat",,"  We study several deterministic one-dimensional traffic models. For integer
+positions and velocities we find the typical high and low density phases
+separated by a simple transition. If positions and velocities are continuous
+variables the model shows self-organized criticality driven by the slowest car.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 01:05:06 GMT""}]","2009-10-22"
+"cond-mat/9307065","Felix Ritort Tor Vergata Univ.","Felix Ritort","Chaos in short-range spin glasses","10 pages+3 figures on request, Latex file",,,"University of Rome II ROM2F/93","cond-mat",,"  The nature of static chaos in Ising spin glasses is studied. For the problem
+of chaos with magnetic field, scaling relations in the case of the SK model and
+short-range models are presented. Our results also suggest that if there is de
+Almeida-Thouless line then it is similar to that of mean-field theory for d=4
+and close to the h=0 axis for d=3. We estimate the lower critical dimension to
+be in the range 2.7-2.9. Numerical studies at d=4 show that there is chaos
+against temperature changes dT and the correlation length diverges like 1/dT.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 17:31:44 GMT""}]","2007-05-23"
+"gr-qc/9307038","Robert Manuel Wald","Robert M. Wald","Black Hole Entropy is Noether Charge","16 pages, EFI 93-42","Phys.Rev.D48:3427-3431,1993","10.1103/PhysRevD.48.R3427",,"gr-qc",,"  We consider a general, classical theory of gravity in $n$ dimensions, arising
+from a diffeomorphism invariant Lagrangian. In any such theory, to each vector
+field, $\xi^a$, on spacetime one can associate a local symmetry and, hence, a
+Noether current $(n-1)$-form, ${\bf j}$, and (for solutions to the field
+equations) a Noether charge $(n-2)$-form, ${\bf Q}$. Assuming only that the
+theory admits stationary black hole solutions with a bifurcate Killing horizon,
+and that the canonical mass and angular momentum of solutions are well defined
+at infinity, we show that the first law of black hole mechanics always holds
+for perturbations to nearby stationary black hole solutions. The quantity
+playing the role of black hole entropy in this formula is simply $2 \pi$ times
+the integral over $\Sigma$ of the Noether charge $(n-2)$-form associated with
+the horizon Killing field, normalized so as to have unit surface gravity.
+Furthermore, we show that this black hole entropy always is given by a local
+geometrical expression on the horizon of the black hole. We thereby obtain a
+natural candidate for the entropy of a dynamical black hole in a general theory
+of gravity. Our results show that the validity of the ``second law"" of black
+hole mechanics in dynamical evolution from an initially stationary black hole
+to a final stationary state is equivalent to the positivity of a total Noether
+flux, and thus may be intimately related to the positive energy properties of
+the theory. The relationship between the derivation of our formula for black
+hole entropy and the derivation via ``Euclidean methods"" also is explained.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 16:37:13 GMT""}]","2008-11-26"
+"hep-ph/9307364","Marco Ciuchini","M. Ciuchini, E. Franco, G. Martinelli, L. Reina, L. Silvestrini","Scheme Independence of the Effective Hamiltonian for $b \rightarrow s \,
+  \gamma$ and $b \rightarrow s \, g$ Decays","16 pp + 5 figures not included (available by anonymous ftp at
+  amisan.iss.infn.it (141.108.15.215), directory /ftp/bsgamma), LaTeX, LPTENS
+  93/28, ROME 93/958, ULB-TH 93/09","Phys.Lett.B316:127-136,1993","10.1016/0370-2693(93)90668-8",,"hep-ph",,"  We present a calculation of the effective weak Hamiltonian which governs $b
+\rightarrow s\, \gamma$ and $b \rightarrow s \, g$ transitions in two different
+renormalization schemes (NDR and HV). In the leading logarithmic approximation,
+we show that the coefficients of the effective Hamiltonian are scheme
+independent only when one takes correctly into account the scheme dependence of
+one- and two- loop diagrams. We demonstrate that in NDR there are contributions
+which were missed in previous calculations. These contributions are necessary
+to obtain scheme independent coefficients in the final results.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 16:57:00 GMT""},{""version"":""v2"",""created"":""Fri, 30 Jul 1993 18:05:48 GMT""}]","2011-04-20"
+"hep-ph/9307365","Harada Masayasu","Masako Bando and Masayasu Harada","Interpolating Axial Anomaly Induced Amplitudes","LaTeX, 25 pages + 7 figures, (figures are included as uuencoded
+  files), KUNS-1209 HE(TH) 93/06","Prog.Theor.Phys. 92 (1994) 583-602","10.1143/PTP.92.583",,"hep-ph",,"  We propose an interpolating formula for the amplitude induced by the axial
+anomaly, concentrating on the $\pi^0\gamma^{\ast}\gamma^{\ast}$ transition form
+factor. The QCD corrections to this amplitude are generally described by two
+major contributions coming from the $q\bar{q}$ bound state and the background
+continuous spectrum, respectively.
+  For the first contribution, we include the lowest vector bound state using
+the realization of the dynamical gauge boson of hidden local symmetry. The
+second contribution is included as the triangle quark loop in which a
+constituent mass is adopted as a internal quark mass and the amplitudes are
+smeared out around the threshold. Using the resulting form factor, we fit the
+experimental data for the $\pi^0\gamma$ and the $\omega\pi^0$ transition form
+factors and show that our result describes the experimental data well.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 16:47:51 GMT""}]","2009-10-22"
+"hep-ph/9307366","Harada Masayasu","Masako Bando and Masayasu Harada","Axial Anomaly and Transition Form Factors","LaTeX, 14 pages + 4 figures, (figures are included as uuencoded
+  files), KUNS-1210 HE(TH) 93/07","Phys.Rev. D49 (1994) 6096-6100","10.1103/PhysRevD.49.6096",,"hep-ph",,"  We investigate the properties of the amplitude induced by the anomaly. In a
+relatively high energy region those amplitudes are constructed by the vector
+meson poles and the anomaly terms, in which the anomaly terms can be
+essentially evaluated by the triangle quark graph. We pay our attention to the
+anomaly term and make intensive analysis of the existing experimental data,
+i.e., the electromagnetic $\pi^0$ and $\omega$ transition form factors. Our
+result shows that it is essential to use the constituent quark mass instead of
+the current quark mass in evaluating the anomaly term from the triangle graph.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 16:48:57 GMT""}]","2009-10-22"
+"hep-ph/9307367","J. Gunion","J.F. Gunion","Higgs Bosons at an $\bf\epem$ Linear Collider: Theory and Phenomenology","26 pages, uses phyzzx.tex, full postscript file including embedded
+  figures available via anonymous ftp at ucdhep.ucdavis.edu as
+  [anonymous.gunion]hawaii.ps, preprint number UCD-93-24",,,,"hep-ph",,"  I review recent developments in the theory and phenomenology of Higgs bosons
+at an $\epem$ linear collider with $\sqrt s$ of order 500 GeV.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 20:56:00 GMT""}]","2007-05-23"
+"hep-ph/9307368",,"Bob Bailey, Dirk Graudenz","Impact of QCD Corrections on the Search for the Intermediate Mass Higgs
+  Boson","10 pages, (REVTEX file). (figures available by mail on request (send
+  e-mail to graudenz@theorm.lbl.gov), please include your address such that it
+  can be used as an address label). FSU-HEP-930801, LBL-34420","Phys.Rev. D49 (1994) 1486-1489","10.1103/PhysRevD.49.1486",,"hep-ph",,"  Using next-to-leading-log calculations of Higgs production and hadronic two
+photon production, a signal and background study in the intermediate mass range
+of the Higgs boson is done for $\sqrt{s}=$ 40 and 14 TeV. The effects of
+realistic cuts, including photon isolation, are examined.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 00:09:44 GMT""}]","2009-10-22"
+"hep-ph/9307369","Baillie","G. Baillie","Observing $b \rightarrow s \, \mu^+ \mu^-$ Decays at Hadron Colliders","17 pages, uses LaTeX, epsf and uufiles. UCLA/93/TEP/26","Z. Phys. C61 (1994) 667","10.1007/BF01552633",,"hep-ph",,"  We examine the prospects for observing weak flavour-changing neutral current
+(FCNC) decays of \B\ mesons at hadron colliders, including effects of anomalous
+$WWZ$~vertices. Since it is very difficult to measure the inclusive rate $B
+\rightarrow X_s \, \lp \lm$ one should consider exclusive modes such as
+\BKsmumu\ and \BKmumu. Even though this requires one to compute hadronic matrix
+elements, we show that experimentally observable quantities (ratios of decay
+rates) are not strongly parametrisation dependent. Some possibilities for
+reducing the theoretical uncertainties from other experimental data are
+discussed.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 04:09:14 GMT""}]","2009-10-22"
+"hep-ph/9307370","Matsuda Masahisa","A.J.Davies, T.Hayashi, M.Matsuda and M.Tanimoto","Penguin-Diagram Induced $B \rightarrow K_X\phi$ Decays in the Standard
+  Model and in the Two-Higgs-Doublet Model","18pages, Latex. Paper (Hayashi, Takemi et al. AUE-02-93) is replaced
+  with reviced version Jan 1994 and aloso the title is changed",,"10.1103/PhysRevD.49.5882","AUE-02-93,EHU-03-93,KGU-02-93","hep-ph",,"  We systematically analyse the gluonic penguin-induced charmless decays $B \ra
+K_X\phi$($K_X$ denotes the meson state $s\bar q \;(q=u\ {\rm or}\ d)$ ), in the
+standard model and the two-Higgs-doublet model. These processes, being induced
+at one-loop level, are of great importance in measuring the virtual top quark
+effect in the standard model, and also in searching for the non-standard
+signals in the low energy region. It is shown that the QCD effect is also
+significant in these processes, as in the weak radiative processes $B \ra X_s
+\gamma$. We also show that the charged Higgs contribution can not provide
+sizable enhancements for the decays $B \ra K_X\phi$, in contrast to the decays
+$B \ra K_X\gamma$. It is also found that processes such as $B \ra
+K_1(1400)\phi$ and $B \ra K(1460)\phi$ have large branching fractions among $B
+\ra K_X\phi$ decays.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 05:55:27 GMT""},{""version"":""v2"",""created"":""Wed, 23 Mar 1994 00:14:12 GMT""}]","2009-10-22"
+"hep-ph/9307371",,"A.I. Davydychev, V.A. Smirnov and J.B. Tausk","Large momentum expansion of two-loop self-energy diagrams with arbitrary
+  masses","Preprint INLO-PUB--5/93 (Instituut-Lorentz, University of Leiden,
+  February 1993), 19 pages, 5 figures (two fugures included in the LaTEX file,
+  and three figures added at the end as poscript-files; see information in the
+  beginning of the file; copies of fugures can also be requested by e-mail:
+  davyd@vsfys1.fi.uib.no)","Nucl.Phys. B410 (1993) 325-342","10.1016/0550-3213(93)90436-S",,"hep-ph",,"  For two-loop two-point diagrams with arbitrary masses, an algorithm to derive
+the asymptotic expansion at large external momentum squared is constructed. By
+using a general theorem on asymptotic expansions of Feynman diagrams, the
+coefficients of the expansion are calculated analytically. For some two-loop
+diagrams occurring in the Standard Model, comparison with results of numerical
+integration shows that our expansion works well in the region above the highest
+physical threshold.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 11:12:24 GMT""}]","2009-10-22"
+"hep-ph/9307372","Markus Finkemeier","Roger Decker and Markus Finkemeier","Radiative Corrections to the decay tau -> pi (K) nu_tau","6 pages, Latex, Karlsruhe Univ. Preprint TTP 93-25","Phys.Lett. B316 (1993) 403-406","10.1016/0370-2693(93)90345-I",,"hep-ph",,"  We have calculated the O(alpha) radiative corrections to the tau decay tau ->
+pi (K) nu, taking into account both the point meson contribution and the
+structure dependent radiation. We find for the ratio Gamma(tau -> pi nu
+(gamma)) / Gamma(pi -> mu nu (gamma)) a radiative correction of + 1.2% and for
+Gamma(tau -> K nu (gamma)) / Gamma(K -> mu nu (gamma)) one of + 2.0%. We
+compare our results with an earlier estimation and with experimental data.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 13:13:48 GMT""}]","2009-10-22"
+"hep-th/9307182","Parthasarathi Majumdar","Saurya Das and Parthasarathi Majumdar","Charge-monopole versus Gravitational Scattering at Planckian Energies","9 pages, revtex, IMSc/93-42","Phys.Rev.Lett. 72 (1994) 2524-2526","10.1103/PhysRevLett.72.2524",,"hep-th",,"  The amplitude for the scattering of a point magnetic monopole and a point
+charge, at centre-of-mass energies much larger than the masses of the
+particles, and in the limit of low momentum transfer, is shown to be
+proportional to the (integer-valued) monopole strength, assuming the Dirac
+quantization condition for the monopole-charge system. It is demonstrated that,
+for small momentum transfer, charge-monopole electromagnetic effects remain
+comparable to those due to the gravitational interaction between the particles
+even at Planckian centre-of-mass energies.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 16:58:01 GMT""}]","2009-10-22"
+"hep-th/9307184",,"Stefan V.Mashkevich","Quantum Mechanics and Thermodynamics of Particles with Distance
+  Dependent Statistics","9 pages, LATEX Kiev Institute for Theoretical Physics preprint
+  ITP-93-5E, January 1993","Phys.Rev.D48:5953-5956,1993","10.1103/PhysRevD.48.5953",,"hep-th",,"  The general notion of distance dependent statistics in anyon-like systems is
+discussed. The two-body problem for such statistics is considered, the general
+formula for the second virial coefficient is derived and it is shown that in
+the limiting cases it reproduces the known results for ideal anyons.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 22:55:14 GMT""}]","2014-11-18"
+"hep-th/9307185",,"Tohru Eguchi (Dept. of Physics, Univ. of Tokyo, Tokyo, Japan)","c=1 Liouville Theory Perturbed by the Black-Hole Mass operator","10 pages,UT 650","Phys.Lett. B316 (1993) 74-79","10.1016/0370-2693(93)90660-A",,"hep-th",,"  We discuss the properties of the Liouville theory coupled to the c=1 matter
+when perturbed by an operator, the screening operator of the $SL(2;R)$ current
+algebra, which is supposed to generate the mass of the two-dimensional black
+hole. Mimicking the standard KPZ scaling theory of the Liouville system
+perturbed by the cosmological constant operator, we develop a scaling theory of
+correlation functions as functions of the mass of the black hole. Contrary to
+the case of KPZ, the present theory does not have the $c=1$ barrior and seems
+somewhat insensitive to the delatils of the matter content of the theory; the
+string succeptibility equals 1 independent of the matter central charge. It
+turns out that our scaling exponents agree with those of the deformed matrix
+model proposed recently by Jevicki and Yoneya.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 06:32:38 GMT""}]","2009-10-22"
+"hep-th/9307186","Deogki Hong","D. K. Hong and S. H. Park","Large-N analysis of (2+1)-dimensional Thirring model","14 pages Latex. (Revised version: some changes have been made and
+  references added.) To appear in Phys. Rev. D, SNUTP 93-47","Phys.Rev. D49 (1994) 5507-5511","10.1103/PhysRevD.49.5507",,"hep-th",,"  We analyze $(2+1)$-dimensional vector-vector type four-Fermi interaction
+(Thirring) model in the framework of the $1/N$ expansion. By solving the
+Dyson-Schwinger equation in the large-$N$ limit, we show that in the
+two-component formalism the fermions acquire parity-violating mass dynamically
+in the range of the dimensionless coupling $\alpha$, $0 \leq \alpha \leq
+\alpha_c \equiv {1\over16} {\rm exp} (- {N \pi^2 \over 16})$. The symmetry
+breaking pattern is, however, in a way to conserve the overall parity of the
+theory such that the Chern-Simons term is not induced at any orders in $1/N$.
+$\alpha_c$ turns out to be a non-perturbative UV-fixed point in $1/N$. The
+$\beta$ function is calculated to be $\beta (\alpha) = -2 (\alpha - \alpha_c)$
+near the fixed point, and the UV-fixed point and the $\beta$ function are shown
+exact in the $1/N$ expansion.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 07:10:24 GMT""},{""version"":""v2"",""created"":""Tue, 10 May 1994 18:53:29 GMT""}]","2009-10-22"
+"hep-th/9307187","Deogki Hong","Deog Ki Hong","Dynamical Effects of Chern-Simons Term","(Talk presented at 1st Asia-Pacific Theoretical Physics Winter
+  School, Mt. Sorak, Feb, 1993), LaTex, 8 pages, SNUTP-93-48",,,,"hep-th",,"  We study how the Chern-Simons term effects the dynamically generated fermion
+mass in $(2+1)D$ Quantum Electrodynamics in the framework of large $N$
+expansion. We find that when the Chern-Simons term is present half of the
+fermions get mass $M+m$ and half get $M-m$. The parity-preserving mass $m$ is
+generated only when $N<\tilde{N}_c$. Both the critical number, $\tilde{N}_c$,
+of fermion flavor and the magnitude, $m$, reduce when the effect of the
+Chern-Simons term dominates.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 07:39:27 GMT""}]","2007-05-23"
+"hep-th/9307188","Christian Wieczerkowski","M. Crivelli, Giovanni Felder, C. Wieczerkowski","Topological Representations of $U_q(sl_2)$ on the Torus and the Mapping
+  Class Group","15 pages","Lett.Math.Phys.30:71-85,1993","10.1007/BF00761424","MS-TPI-93-04","hep-th math.QA",,"  We compute the mapping class group action on cycles on the configuration
+space of the torus with one puncture, with coefficients in a local system
+arising in conformal field theory. This action commutes with the topological
+action of the quantum group $U_q(sl_2)$, and is given in vertex form.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 10:23:12 GMT""}]","2008-11-26"
+"hep-th/9307189","Jens Ole","K. Ito, J.O. Madsen and J.L. Petersen","Extended Superconformal Algebras and Free Field Realizations from
+  Hamiltonian Reduction","10 pages, NBI-HE-93-18","Phys.Lett. B318 (1993) 315-322","10.1016/0370-2693(93)90134-4",,"hep-th",,"  We develop the method of the hamiltonian reduction of affine Lie
+superalgebras to obtain explicit and general expressions both for the classical
+and the quantum extended superconformal algebras. By performing the gauge
+transformation which connects the diagonal gauge with the Drinfeld-Sokolov
+gauge and considering the quantum corrections, we get generic expressions for
+the classical and quantum free field realizations of the algebras.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 09:41:39 GMT""}]","2009-10-22"
+"hep-th/9307190","Laszlo Feher","L. Feher, L. O'Raifeartaigh and I. Tsutsui","The vacuum preserving Lie algebra of a classical W-algebra","11 pages, BONN-HE-93-25, DIAS-STP-93-13. Some typos had been removed,
+  no change in formulas","Phys.Lett. B316 (1993) 275-281","10.1016/0370-2693(93)90325-C",,"hep-th",,"  We simplify and generalize an argument due to Bowcock and Watts showing that
+one can associate a finite Lie algebra (the `classical vacuum preserving
+algebra') containing the M\""obius $sl(2)$ subalgebra to any classical
+$\W$-algebra. Our construction is based on a kinematical analysis of the
+Poisson brackets of quasi-primary fields. In the case of the $\W_\S^\G$-algebra
+constructed through the Drinfeld-Sokolov reduction based on an arbitrary
+$sl(2)$ subalgebra $\S$ of a simple Lie algebra $\G$, we exhibit a natural
+isomorphism between this finite Lie algebra and $\G$ whereby the M\""obius
+$sl(2)$ is identified with $\S$.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 10:21:30 GMT""},{""version"":""v2"",""created"":""Mon, 2 Aug 1993 15:05:30 GMT""}]","2009-10-22"
+"hep-th/9307191","Masaru Onoda","Masaru Onoda","Cancellation of unphysical gauge and ghost degrees of freedom in
+  backreaction","20 pages , LaTeX , UT-Komaba/93-9","Phys.Rev.D48:3860-3868,1993","10.1103/PhysRevD.48.3860",,"hep-th",,"  We study the U(1) Higgs model in spacetime-dependent background fields (a
+background metric and a background scalar field).
+  Particle creation can occur because of the time-dependence of these
+background fields. In gauge theories, there is a unphysical sector and
+consequently unphysical particles may be produced. However, it is shown that
+produced unphysical particles have no contribution to backreaction to
+background fields.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 12:30:30 GMT""}]","2010-11-01"
+"hep-th/9307192","Sen Diptiman","B. Basu-Mallick","Quantum group and Manin plane related to a coloured braid group
+  representation","20 Pages",,,"ICTP Preprint IC/93/218","hep-th math.QA",,"  By considering `coloured' braid group representation we have obtained a
+quantum group, which reduces to the standard $GL_q(2)$ and $GL_{p,q}(2)$ cases
+at some particular limits of the `colour' parameters. In spite of quite
+complicated nature, all of these new quantum group relations can be expressed
+neatly in the Heisenberg-Weyl form, for a nontrivial choice of the basis
+elements. Furthermore, it is possible to associate invariant Manin planes,
+parametrised by the `colour' variables, with such quantum group structure.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 13:58:24 GMT""}]","2008-02-03"
+"nucl-th/9307028","Ruprecht Machleidt","G. Q. Li and R. Machleidt (University of Idaho)","Microscopic Calculation of in-Medium Nucleon-Nucleon Cross Ssections","22 pages text (REVTEX) and 12 figures (paper, available upon request)
+  UI-NTH-9305","Phys.Rev.C48:1702,1993","10.1103/PhysRevC.48.1702",,"nucl-th",,"  We derive in-medium nucleon-nucleon (NN) cross sections in a microscopic
+model. Our calculations are based upon the Bonn NN potential and the
+Dirac-Brueckner approach for nuclear matter. We consider energies up to 300 MeV
+(in the laboratory frame) and densities up to twice nuclear matter density. Our
+results deviate substantially from cross section parametrizations that are
+commonly used in the nuclear medium.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 05:13:15 GMT""}]","2008-11-26"

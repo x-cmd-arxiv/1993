@@ -1,0 +1,229 @@
+"astro-ph/9309042","Ethan Vishniac","E.T. Vishniac","Why Disks Shine: the Transport of Angular Momentum in Hot, Thin Disks","11 pages aastex astro-ph/yymmnnn 4",,,,"astro-ph",,"  I review recent work on the radial transport of angular momentum in ionized,
+Keplerian accretion disks. Proposed mechanisms include hydrodynamic and MHD
+local instabilities and long range effects mediated by wave transport. The most
+promising models incorporate the Velikhov-Chandrasekhar instability, caused by
+an instability of the magnetic field embedded in a differentially rotating
+disk. This has the important feature that the induced turbulent motions
+necessarily transport angular momentum outward. By contrast, convective modes
+may transport angular momentum in either direction. Combining the magnetic
+field instability with an $\alpha-\Omega$ dynamo driven by internal waves leads
+to a model in which the dimensionless viscosity scales as $(H/r)^{4/3}$.
+However, this model has a phenomenology which is quite different from the
+$\alpha$ disk model. For example, an active disk implies some source of
+excitation for the internal waves. In binary systems with a mass ratio of order
+unity the most likely exciting mechanism is a parametric instability due to
+tidal forces. This implies that in systems where the accretion stream is
+intermittent, like MV Lyrae or TT Ari, epochs when the mass flow is absent or
+very small will be epochs in which the disk shrinks and becomes relatively
+inactive and dark. This model also implies that forced vertical mixing is
+important, even in convectively stable disks. I discuss various observational
+tests of this model and the focus of current theoretical work.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 16:48:16 GMT""}]","2007-05-23"
+"astro-ph/9309043","Andrei Linde","Andrei Linde","Comments on Inflationary Cosmology","20 p., LaTeX, SU-ITP-93-27, invited talk at the Yamada Conference,
+  Tokyo 1993",,,,"astro-ph",,"  In this talk we discuss three different issues. First of all, there exist
+several proposals how to solve cosmological problems by adiabatic expansion of
+the Universe, without any use of inflation. We explain why these models do not
+solve the flatness/entropy problem. On the other hand there exist some claims
+that inflation also does not solve the flatness problem. We show that these
+claims are correct to a certain extent for old and new inflation, but are
+incorrect for simplest versions of chaotic inflation. The second issue to be
+considered is the classification of inflationary models. At present many
+inflationary models are compared to each other in order to understand which of
+them better describes observational data. Unfortunately, this often leads to
+terminological misunderstandings and even to misleading conclusions. We discuss
+three coexisting types of classification of inflationary models and explain
+their relation to each other. We also briefly describe the hybrid inflation
+model, which combines several interesting features of different inflationary
+models. Finally we show that it is possible to describe inflationary universe
+by a stationary (i.e. time-independent) probability distribution to find a
+domain of a given size containing matter with given properties. This represents
+a strong deviation of inflationary cosmology from the standard Big Bang
+paradigm.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 18:35:59 GMT""}]","2007-05-23"
+"astro-ph/9309044","Scott Tremaine","S. Tremaine. D. O. Richstone, Y.-I. Byun, A. Dressler, S. M. Faber, C.
+  Grillmair, J. Kormendy, and T. R. Lauer","A Family of Models for Spherical Stellar Systems","24 pages, uuencoded compressed Postscript file 0.3 Mbyte","Astron.J. 107 (1994) 634","10.1086/116883",,"astro-ph",,"  We describe a one-parameter family of models of stable spherical stellar
+systems in which the phase-space distribution function depends only on energy.
+The models have similar density profiles in their outer parts ($\rho\propto
+r^{-4}$) and central power-law density cusps, $\rho\propto r^{3-\eta}$,
+$0<\eta\le 3$. The family contains the Jaffe (1983) and Hernquist (1990) models
+as special cases. We evaluate the surface brightness profile, the line-of-sight
+velocity dispersion profile, and the distribution function, and discuss analogs
+of King's core-fitting formula for determining mass-to-light ratio. We also
+generalize the models to a two-parameter family, in which the galaxy contains a
+central black hole; the second parameter is the mass of the black hole. Our
+models can be used to estimate the detectability of central black holes and the
+velocity-dispersion profiles of galaxies that contain central cusps, with or
+without a central black hole.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 18:10:10 GMT""}]","2009-10-22"
+"astro-ph/9309045","Yoshiaki Sofue","Yoshiaki SOFUE","Ram-Pressure Stripping of Gas from Companions and Accretion onto a
+  Spiral Galaxy: A Gaseous Merger","(to appear in Ap.J.), plainTeX, 12p, U-Tokyo Astro. No. 93-26",,"10.1086/173800",,"astro-ph",,"  We simulated the behavior of interstellar gas clouds in a companion galaxy
+during a gas-dynamical interaction with the halo and disk of a spiral galaxy.
+By ram pressure, the gas clouds are stripped from the companion, and accreted
+to ward the disk of the spiral galaxy. If the companion's orbit is retrograde
+with respect to the rotation of the spiral galaxy, infalling clouds hit the
+nuclear region. Angular momentum transfer causes disruption of the inner
+gaseous disk, and makes a void of interstellar gas in the bulge. If the
+companion's orbit is either prograde or polar, infalling clouds are accreted by
+the outer disk, and form a rotating gas ring. We show that the ram-pressure
+stripping-and-accretion is one way from the companion to a gas-rich larger
+galaxy, which causes disposal of interstellar gas from the companion and
+effectively changes its galaxy type into earlier (redder). The ram-pressure
+process is significant durig merger of galaxies, in which interstellar gas is
+stripped and accreted prior to the stellar-body merger. Based on the
+simulation, we discuss a possible history of interstellar gas in M31 system,
+which comprises M32, NGC 205 and possible merged galaxies. The ram-pressure
+stripping explains the disposal of mass lost from evolving stars in the dwarf
+elliptical companion M32.
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 00:42:50 GMT""}]","2009-10-22"
+"astro-ph/9309046","Yoshiaki Sofue","Yoshiaki SOFUE","Large-Scale Radio Structuers in the Galactic Center","(To appear in NATO Adv. School proceedings ``The Nuclei of Normal
+  Galaxies: Lessons from the Galactic Center"", ed. R. Genzel),
+  Univ.Tokyo-Astro.Preprint No.93-28, Plain-Tex, 10pages",,,,"astro-ph",,"  Radio continuum observations of the galactic center region have revealed a
+number of vertical structures running across the galactic plane. Most of the
+vertical structures are reasonably attributed either to poloidal magnetic field
+or to energy release toward the halo. The relation of the continuum structures
+to the molecular gas rings and their vertical extension are also discussed.
+Some large-scale ejection features appear to have similarity to bubbles found
+in external galaxies. Keywords: Galactic center; Radio emission; Jets; Magnetic
+field
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 00:52:00 GMT""}]","2007-05-23"
+"astro-ph/9309047","Yoshiaki Sofue","Y.Sofue, S.Yoshida, T. Aoki, T. Soyano, M. Hamabe, and K. Wakamatsu","Face-on Barred Spiral Structure of Molecular Clouds in M31's Bulge","(to appear in PASJ), Univ. Tokyo Astro Preprint 93-30, Pain-Tex",,,,"astro-ph",,"  By image processing and color excess analyses of B, V, R, and I-band CCD
+images of the central region of M31 taken with the Kiso 105-cm Schmidt
+telescope, we found a bar of 200 pc length. We also found a more extended
+``face-on"" spiral feature of dark clouds, which appear t o be connected to this
+bar and is probably an out-of-plane structure. The \co-line emission was
+detected from the dark clouds using the Nobeyama 45m telescope, and the virial
+mass of individual clouds was estimated to be about 10E6 solar masses. The CO
+intensity-to-virial mass ratio is anomalously small, and so is the color
+excess-to-mass ratio, which indicates a low temperature and a small amount dust
+per unit gas mass in the cloud, respectively. This implies that the molecular
+clouds in the central few hundred pc of M31 are more primeval, suggesting a low
+star-formation and low dust supply. We propose a possible scenario for the
+origin of the face-on spiral containing such gas on the basis of a ram-pressure
+accretion model of stripped gas clouds from the companion galaxies. Key words:
+Dark clouds -- CO line -- Galaxies; individual (M31) -- Interstellar dust --
+Nuclei of galaxies.
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 08:25:52 GMT""}]","2007-05-23"
+"astro-ph/9309048","Kajia Yuan","Raj Gandhi, Jorge L. Lopez, D.V.Nanopoulos, Kajia Yuan, and A.
+  Zichichi","Scrutinizing Supergravity Models through Neutrino Telescopes","18 pages (LaTex), 10 figures not included but available upon request
+  (kyuan@tac.harc.edu) either as 10 ps files or 1 uuencoded file,
+  CTP-TAMU-48/93, CERN-TH.6999/93, ACT-18/93","Phys.Rev.D49:3691-3703,1994","10.1103/PhysRevD.49.3691",,"astro-ph hep-ph",,"  Galactic halo neutralinos ($\chi$) captured by the Sun or Earth produce
+high-energy neutrinos as end-products of various annihilation modes. These
+neutrinos can travel from the Sun or Earth cores to the neighborhood of
+underground detectors (``neutrino telescopes"") where they can interact and
+produce upwardly-moving muons. We compute these muon fluxes in the context of
+the minimal $SU(5)$ supergravity model, and the no-scale and dilaton
+$SU(5)\times U(1)$ supergravity models. At present, with the Kamiokande 90\%
+C.L. upper limits on the flux, only a small fraction of the parameter space of
+the $SU(5)\times U(1)$ models is accessible for $m_\chi\sim m_{\rm Fe}$, which
+in turn implies constraints for the lightest chargino mass around 100 GeV for a
+range of $\tan\beta$ values. We also delineate the regions of parameter space
+that would be accessible with the improvements of experimental sensitivity
+expected in the near future at Gran Sasso, Super-Kamiokande, and other
+facilities such as DUMAND and AMANDA, currently under construction. We conclude
+that if neutralinos are present in the halo, then this technique can be used to
+eventually explore more than half of the allowed parameter space of these
+specific models, and more generally of a large class of supergravity models, in
+many ways surpassing the reach of traditional collider experiments.
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 13:23:34 GMT""}]","2009-08-25"
+"astro-ph/9309054",,"S. Mollerach, S. Matarrese and F. Lucchin","Blue perturbation spectra from inflation","12 pages, plain TEX","Phys.Rev.D50:4835-4841,1994","10.1103/PhysRevD.50.4835",,"astro-ph",,"  We investigate inflationary models leading to density perturbations with a
+spectral index $n>1$ (``blue spectra""). These perturbation spectra may be
+useful to simultaneously account for both the amount of ultra large-scale power
+required to fit cosmic microwave background anisotropies, such as those
+measured by COBE, and that required to give bulk motions and structures on the
+$\sim 50~h^{-1}$ Mpc scale.
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 14:15:53 GMT""}]","2010-12-09"
+"cond-mat/9309050",,"Dimitra Karabali","Algebraic Aspects of the Fractional Quantum Hall Effect","22 pages, SU-4240-553",,"10.1016/0550-3213(94)90339-5",,"cond-mat hep-th",,"  Some algebraic issues of the FQHE are presented. First, it is shown that on
+the space of Laughlin wavefunctions describing the $\nu =1/m$ FQHE, there is an
+underlying $W_{\infty}$ algebra, which plays the role of a spectrum generating
+algebra and expresses the symmetry of the ground state. Its generators are
+expressed in a second quantized language in terms of fermion and vortex
+operators. Second, we present the naturally emerging algebraic structure once a
+general two-body interaction is introduced and discuss some of its properties.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 19:00:00 GMT""}]","2009-10-22"
+"cond-mat/9309051",,"A. P. Balachandran, L. Chandar, E. Ercolessi, T. R. Govindarajan and
+  R. Shankar","Maxwell-Chern-Simons Electrodynamics on a Disk","(3 Figures included) , 34 pages, SU-4240-538",,"10.1142/S0217751X94001357",,"cond-mat hep-th",,"  The Maxwell-Chern-Simons (MCS) Lagrangian is the Maxwell Lagrangian augmented
+by the Chern-Simons (CS) term. In this paper, we study the MCS and Maxwell
+Lagrangians on a disk $D$. They are of interest for the quantum Hall effect,
+and also when the disk and its exterior are composed of different media. We
+show that quantization is not unique, but depends on a nonnegative parameter
+$\lambda$. $1/\lambda$ is the penetration depth of the fields into the medium
+in the exterior of $D$. For $\lambda=0$, there are edge observables and edge
+states localized at the boundary $\partial D$ for the MCS system. They describe
+the affine Lie group $\tilde{L}U(1)$. Their excitations carry zero energy
+signifying an infinite degeneracy of all states of the theory. There is also an
+additional infinity of single particle excitations of exactly the same energy
+proportional to $|k|$, $k$ being the strength of the CS term. The MCS theory
+for $\lambda=0$ has the huge symmetry group $\tilde{L}U(1) \times U(\infty)$.
+In the Maxwell theory, the last mentioned excitations are absent while the edge
+observables, which exist for $\lambda=0$, commute. Also these excitations are
+described by states which are not localized at $\partial D$ and are
+characterized by a continuous and infinitely degenerate spectrum. All these
+degeneracies are lifted and edge observables and their states cease to exist
+for $\lambda>0$. The novel excitations discovered in this paper should be
+accessible to observations. We will discuss issues related to observations, as
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 19:19:00 GMT""},{""version"":""v2"",""created"":""Tue, 28 Sep 1993 21:11:00 GMT""}]","2009-10-22"
+"cond-mat/9309052","Ignacio Pagonabarraga","I.Pagonabarraga and M.Rubi (Departament de Fisica Fonamental,
+  Universitat de Barcelona)","Long-Range Correlations in Diffusive Systems Away from Equilibrium","15 pages, LaTex",,"10.1103/PhysRevE.49.267",,"cond-mat",,"  We study the dynamics of density fluctuations in purely diffusive systems
+away from equilibrium. Under some conditions the static density correlation
+function becomes long-ranged. We then analyze this behavior in the framework of
+nonequilibrium fluctuating hydrodynamics.
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 08:50:15 GMT""}]","2009-10-22"
+"cond-mat/9309053","Alexei Tsvelik","A. M. Tsvelik","Semiclassical Solution of One Dimensional Model of Kondo Insulator","10 pages, LaTex",,"10.1103/PhysRevLett.72.1048",,"cond-mat",,"  The model of Kondo chain with $M$-fold degenerate band of conduction
+electrons of spin 1/2 interacting with localized spins $S$ is studied for the
+case when the electronic band is half filled. It is shown that the spectrum of
+spin excitations in the continuous limit is described by the O(3) nonlinear
+sigma model with the topological term with $\theta = \pi(2S - M)$. For a case
+$|M - 2S| = $(even) the system is an insulator and single electron excitations
+at low energies are massive spin polarons. Otherwise the density of states has
+a pseudogap and vanishes only at the Fermi level. The relevance of this picture
+to higher dimensional Kondo insulators is discussed.
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 09:37:40 GMT""}]","2009-10-22"
+"cond-mat/9309054","Sumathi Rao","R. Chitra, Sumathi Rao and Diptiman Sen","A Bosonic Mean-Field Theory for Frustrated Heisenberg Antiferromagnets
+  in Two Dimensions","plain.tex, 27pages, IISc-CTS-93-7",,,,"cond-mat",,"  We use a recently developed bosonic mean-field theory (MFT) to study the
+ordered ground states of frustrated Heisenberg antiferromagnets (FHAFM) in two
+dimensions. We emphasize the role of condensates in satisfying the MF
+variational equations and their relation to spin correlation functions at low
+temperatures. Our results are similar to those obtained using Schwinger boson
+MFT. However, we emphasize here that our MFT has three bosons at each site and
+that it is not necessary to rotate the quantization axes on appropriate
+sub-lattices to align all the spins ferromagnetically. This MFT is also closely
+related to a new spin-wave theory which enables us to obtain the spin-wave
+spectrum easily (without any rotation of axes) for an entire class of
+three-dimensionally ordered states. For the FHAFM on a triangular lattice, we
+use this theory to compute the spin-wave spectrum for all values of $~J_2 ~/J_1
+~$ and demonstrate the phenomenon of order from disorder. (1 figure not
+included. Hard copy available on request.)
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 09:58:12 GMT""}]","2007-05-23"
+"hep-lat/9309020","Martin Luescher","Martin Luescher","A Portable High-Quality Random Number Generator for Lattice Field Theory
+  Simulations","pages 0-19, ps-file 174404 bytes, preprint DESY 93-133","Comput.Phys.Commun. 79 (1994) 100-110","10.1016/0010-4655(94)90232-1",,"hep-lat",,"  The theory underlying a proposed random number generator for numerical
+simulations in elementary particle physics and statistical mechanics is
+discussed. The generator is based on an algorithm introduced by Marsaglia and
+Zaman, with an important added feature leading to demonstrably good statistical
+properties. It can be implemented exactly on any computer complying with the
+IEEE--754 standard for single precision floating point arithmetic.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 18:51:24 GMT""}]","2009-10-22"
+"hep-th/9309155",,"M.C. Nemes and Saulo C.S. Silva","Axial Monopoles, Quantization of Electric Charge and Dynamical
+  Discreteness of Space-Time","6 pages",,,,"hep-th",,"  In the present contribution we show that the introduction of axial currents
+in electrodynamics can explain the quantization of electric charge and
+introduces a dynamical discreteness of space-time, justifying thus the
+regularization of Feymman's integrals.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 17:06:27 GMT""}]","2007-05-23"
+"nucl-th/9309027","Stacey Scoville","D. J. Dean, S. E. Koonin, G. H. Lang, P. B. Radha, and W. E. Ormand","Shell model Monte Carlo calculations for Dy-170","11 pages, figures available upon request, Caltech Preprint No.
+  MAP-163",,"10.1016/0370-2693(93)90995-T",,"nucl-th",,"  We present the first auxiliary field Monte Carlo calculations for a rare
+earth nucleus, Dy-170. A pairing plus quadrupole Hamiltonian is used to
+demonstrate the physical properties that can be studied in this region. We
+calculate various static observables for both uncranked and cranked systems and
+show how the shape distribution evolves with temperature. We also introduce a
+discretization of the path integral that allows a more efficient Monte Carlo
+sampling.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 17:13:17 GMT""}]","2016-09-08"
+"nucl-th/9309028","Ray Nix","Peter M\""oller and J. Rayford Nix","Applications of a Global Nuclear-Structure Model to Studies of the
+  Heaviest Elements","12 pages, LA-UR-93-3490",,,,"nucl-th",,"  We present some new results on heavy-element nuclear-structure properties
+calculated on the basis of the finite-range droplet model and folded-Yukawa
+single-particle potential. Specifically, we discuss calculations of nuclear
+ground-state masses and microscopic corrections, $\alpha$-decay properties,
+$\beta$-decay properties, fission potential-energy surfaces, and
+spontaneous-fission half-lives. These results, obtained in a global
+nuclear-structure approach, are particularly reliable for describing the
+stability properties of the heaviest elements.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 21:35:34 GMT""}]","2007-05-23"

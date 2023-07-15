@@ -1,0 +1,58 @@
+"hep-ph/9308244",,"Patricia Ball","The Decay $B\to K^*\gamma$ from QCD Sum Rules","8 ps, 2 uuencoded PS figures included, requires epsf.sty and revtex3,
+  TUM-T31-43/93",,,,"hep-ph",,"  Using the QCD sum rules approach and the complete leading--logarithmic
+short--distance coefficients determining the penguin--amplitude, we obtain
+$B(B\to K^*\gamma) = (6.8\pm 2.4)\cdot 10^{-5}$ for top--quark masses in the
+range (150--200) GeV and $|V_{cb}| = 0.035$ for $\tau_B = 1.5\,\text{ps}$. The
+ratio to the inclusive rate is $B(B\to K^*\gamma)/B(B\to X_s\gamma) = (20\pm
+6)\% $.
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1993 22:19:10 GMT""}]","2007-05-23"
+"hep-ph/9308245","Razumov Leonid","L.V. Razumov and R.M. Weiner","Dynamical Properties of Heavy-Ion Collisions from the Photon-Photon
+  Intensity Correlations","12 pages, LaTeX, DMR-THEP-93-2/W","Phys.Lett.B319:431-437,1993","10.1016/0370-2693(93)91747-B",,"hep-ph nucl-th",,"  We consider here the bremsstrahlung emission of photons at low and
+intermediate energies $ E_{lab}\le 1000 MeV/u$ of the projectile. and derive
+expressions more general than previous results obtained by Neuhauser which were
+limited to the case of isotropic systems. We find that the two-photon
+correlation function strongly depends not only on the space-time properties of
+the collision region but also on the dynamics of the proton-neutron scattering
+process in nuclear matter. As a consequence of polarisation correlations it
+turns out that for a purely chaotic source the intercept of the correlation
+function of photons can reach the value $3$ (as compared with the maximum value
+$2$ for isotropic systems). Furthermore even for ``hard"" photons ($E_{\gamma} >
+25 MeV$) the maximum of the correlation function can reach the value of $2$ in
+contrast with the value of $1.5$ derived by Neuhauser for this case. The
+formulae obtained in this paper which include also the possible presence of a
+coherent component can be used as a basis for a systematic analysis of photon
+intensity-interferometry experiments.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1993 13:16:47 GMT""}]","2010-11-01"
+"hep-th/9308032",,"Nadeem A. Ansari and V.I. Man'ko","Photon statistics of multimode even and odd coherent light","LATEX,22 pages,INFN-NA-IV-93/34,DSF-T-93/34",,"10.1103/PhysRevA.50.1942",,"hep-th",,"  The even and odd coherent states are generalized for multimode case. The
+explicit forms for the photon distribution, Q-function and Wigner function are
+derived. In particular, it is shown that for two-mode case there exist strong
+correlations between these modes, under certain conditions, which are
+responsible for two-mode squeezing in case of even coherent states
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1993 19:40:00 GMT""}]","2009-10-22"
+"hep-th/9308033",,"V. V. Dodonov, O. V. Man'ko and V. I. Man'ko","Multidimensional Hermite polynomials and photon distribution for
+  polymode mixed light","LATEX,10 pages,INFN-Na-IV-93/36,DSF-T-93/36",,"10.1103/PhysRevA.50.813",,"hep-th",,"  For N-mode light described by the Wigner function of generic Gaussian form
+the photon distribution function is obtained explicitly and expressed in terms
+of Hermite polynomial of $2N$ variables with equal pairs of indices.The mean
+values and dispersions of photon numbers are obtained for this generic mixed
+state.Generating function for photon distribution is obtained explicitly. The
+expression for $N$-mode photon distribution function for squeezed photon number
+states in terms of Hermite polynomials of $2N$ variables and for squeezed
+coherent states in terms of Hermite polynomials of $N$ variables is discussed.
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1993 19:53:00 GMT""},{""version"":""v2"",""created"":""Tue, 24 Aug 1993 16:44:00 GMT""}]","2009-10-22"
+"hep-th/9308034","Robert Mann","R.B. Mann","Liouville Black Holes","32 pgs., WATPHYS-TH93/03 (Latex plus two postscript figures appended)","Nucl.Phys. B418 (1994) 231-256","10.1016/0550-3213(94)90246-1",,"hep-th gr-qc",,"  The dynamics of Liouville fields coupled to gravity are investigated by
+applying the principle of general covariance to the Liouville action in the
+context of a particular form of two-dimensional dilaton gravity. The resultant
+field equations form a closed system for the Liouville/gravity interaction. A
+large class of asymptotically flat solutions to the field equations is
+obtained, many of which can be interpreted as black hole solutions. The
+temperature of such black holes is proportional to their mass-parameters. An
+exact solution to the back reaction problem is obtained to one-loop order, both
+for conformally coupled matter fields and for the quantized metric/Liouville
+system. Quantum effects are shown to map the space of classical solutions into
+one another. A scenario for the end-point of black-hole radiation is discussed.
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1993 21:03:01 GMT""}]","2009-10-22"
+"hep-th/9308035","A. Leonidov","A. Leonidov, A. Zelnikov","Resumming the Effective Action","7 pages, BI-TP 93/38 (revised)",,,,"hep-th",,"  At the simple example of a massless scalar field propagating in the static
+background we study the resummed expressions for the effective action at zero
+and finite temperature that are free from a usual sickness of the effective
+action induced by massless particles.
+","[{""version"":""v1"",""created"":""Sun, 8 Aug 1993 12:21:40 GMT""},{""version"":""v2"",""created"":""Wed, 6 Oct 1993 12:05:33 GMT""}]","2008-02-03"

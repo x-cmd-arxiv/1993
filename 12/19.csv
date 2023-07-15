@@ -1,0 +1,28 @@
+"astro-ph/9312046",,"S.Pellegrini and G. Fabbiano","The Very-Soft X-Ray Emission of X-Ray Faint Early-Type Galaxies","Postscript file, 28 pages. For hardcopy of figures contact
+  spellegr@eso.org. BAP 12-1993-040-DDA","Astrophys.J.429:105,1994","10.1086/174305",,"astro-ph",,"  A recent re-analysis of Einstein data, and new ROSAT observations, have
+revealed the presence of at least two components in the X-ray spectra of X-ray
+faint early-type galaxies: a relatively hard component (kT>1.5 keV), and a very
+soft component (kT\sim 0.2-0.3 keV). We address the problem of the nature of
+the very soft component, and whether it can be due to a hot interstellar medium
+(ISM), or is most likely originated by the collective emission of very soft
+stellar sources. To this purpose, hydrodynamical evolutionary sequences for the
+secular behavior of gas flows in ellipticals have been performed, and the
+results are compared with the observational X-ray data: the very soft component
+could be entirely explained with a hot ISM only in galaxies where the depth of
+the potential well is quite shallow, otherwise the softest contribution to the
+X-ray emission comes certainly from stellar sources. As stellar soft X-ray
+emitters, we consider late-type stellar corone, supersoft sources such as those
+discovered by ROSAT in the Magellanic Clouds and M31, and RSCVn systems. We
+finally present a model for the X-ray emission of NGC4365, to reproduce in
+detail the results of the ROSAT pointed observation (PSPC spectrum and radial
+surface brightness distribution).
+","[{""version"":""v1"",""created"":""Sun, 19 Dec 1993 13:24:37 GMT""}]","2010-12-13"
+"hep-lat/9312074",,"She-Sheng XUE","A Possible Origin of the Wilson Lattice Fermion","(to appear in Phys. Lett. B) 9 pages (LaTeX) and 2 figures, MITH
+  93/21",,,,"hep-lat hep-th",,"  Considering relevant and irrelevant high-dimension operators for ordinary and
+mirror fermions respectively, we show that the Wilson lattice fermion can
+originate from a spontaneous symmetry breaking phenomenon. Ward identities, due
+to symmetries at the cutoff, guarantee the cancellation of mirror-fermion
+contributions and the infrared limit can be achieved. The Wilson parameter
+turns out to be fixed at $r\simeq 0.18$, where the vacuum energy of the system
+is minimized.
+","[{""version"":""v1"",""created"":""Sun, 19 Dec 1993 13:39:20 GMT""},{""version"":""v2"",""created"":""Tue, 19 Jul 1994 16:55:51 GMT""}]","2016-08-31"

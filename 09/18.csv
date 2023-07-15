@@ -1,0 +1,225 @@
+"astro-ph/9309026",,"Michael A. Nowak","A Cautionary Note on Gamma Ray Burst Nearest Neighbor Statistics","7, plain tex, CITA-93-",,,,"astro-ph",,"  In this letter we explore the suggestion of Quashnock and Lamb (1993) that
+nearest neighbor correlations among gamma ray burst positions indicate the
+possibility of burst repetitions within various burst sub-classes. With the aid
+of Monte Carlo calculations we compare the observed nearest neighbor
+distributions with those expected from an isotropic source population weighted
+by the published BATSE exposure map. The significance of the results are
+assessed via the Kolmogorov-Smirnov (K-S) test, as well as by a comparison to
+Monte Carlo simulations. The K-S results are in basic agreement with those of
+Quashnock and Lamb. However, as Narayan and Piran (1993) point out, and the
+Monte Carlo calculations confirm, the K-S test overestimates the significance
+of the observed distributions. We compare the sensitivity of these results to
+both the definitions of the assumed burst sub-classes and the burst positional
+errors. Of the two, the positional errors are more significant and indicate
+that the results of Quashnock and Lamb may be due to systematic errors, rather
+than any intrinsic correlation among the burst positions. Monte Carlo
+simulations also show that with the current systematic errors, the nearest
+neighbor statistic is not very sensitive to moderate repetition rates. Until
+the BATSE statistical and systematic errors are fully understood, the burst
+nearest neighbor correlations cannot be claimed to be significant evidence for
+burst repetitions. (Figures available as postscript files from the author.)
+","[{""version"":""v1"",""created"":""Fri, 17 Sep 1993 18:32:14 GMT""}]","2007-05-23"
+"astro-ph/9309027","Karl Fisher","Karl B. Fisher, Caleb A. Scharf, and Ofer Lahav","A Spherical Harmonic Approach to Redshift Distortion and a Measurement
+  of Omega from the 1.2 Jy IRAS Redshift Survey","8 pages--uuencoded postscript file",,"10.1093/mnras/266.1.219",,"astro-ph",,"  We present a formalism for analysing redshift distortions based on a
+spherical harmonic expansion of the density field. We use a maximum likelihood
+estimator for the combination of density and bias parameters, $\Omega^0.6/b$.
+We test the method with $N$-body simulations and apply it to the 1.2 Jy IRAS
+redshift survey.
+","[{""version"":""v1"",""created"":""Sat, 18 Sep 1993 03:01:00 GMT""}]","2015-06-24"
+"hep-lat/9309011","Thomas A. DeGrand","K. M. Bitar, et. al. (High Energy Monte Carlo Grand Challenge)","Hadron Spectrum and Matrix Elements in QCD with Dynamical Wilson
+  Fermions at 6/g^2=5.3","COLO-HEP-321, FSU-SCRI-93-110, uuencoded 51 page mss with some
+  missing figures","Phys.Rev. D49 (1994) 3546-3562","10.1103/PhysRevD.49.3546",,"hep-lat",,"  We present results of a lattice simulation of quantum chromodynamics with two
+degenerate flavors of dynamic Wilson fermions at $6/g^2=5.3$ at each of two
+dynamical fermion hopping parameters, $\kappa=0.1670$ and 0.1675, corresponding
+to pion masses in lattice units of about 0.45 and 0.31. The simulations include
+three other values of valence quark mass, in addition to the dynamical quarks.
+We present calculations of masses and of the decay constants of vector mesons
+and of pseudoscalars, including the D-meson decay constant. The effects of sea
+quarks on matrix elements and spectroscopy are small.
+","[{""version"":""v1"",""created"":""Fri, 17 Sep 1993 20:54:27 GMT""}]","2009-10-22"
+"hep-lat/9309012","Anil Trivedi","Anil K. Trivedi","The Nielsen-Ninomiya ``No-Go'' Theorem is False","TeXsis, or PLAIN TeX (with ""mtexsis.tex""); 9 pages. [Added references
+  and explanations. If your interest in this subject is serious, upgrade. If
+  you want Postscript instead of TeX, send me e-mail.]",,,,"hep-lat cond-mat hep-th",,"  The Nielsen-Ninomiya no-go theorem asserts that chiral Weyl~(``neutrino'')
+fields cannot exist on lattices. However, the actual mathematical arguments
+advanced in the theorem fail to make that case. The theorem leaves the problem
+of lattice neutrinos completely open; it identifies no obstacle which would
+prevent us from discretizing chiral theories.
+  (INFORMAL ABSTRACT: Have you too, like every second person in the field, been
+citing the Nielsen-Ninomiya theorem but have not read or analyzed it? Then,
+this paper will wake you up. Reading it is a prerequisite to doing any good
+work in chiral lattice physics.)
+","[{""version"":""v1"",""created"":""Sat, 18 Sep 1993 09:36:22 GMT""},{""version"":""v2"",""created"":""Mon, 4 Oct 1993 10:27:08 GMT""}]","2008-02-03"
+"hep-lat/9309013","Anil Trivedi","Anil K. Trivedi","Weyl Neutrinos on a Lattice: An Explicit Construction","TeXsis, or PLAIN TeX (with ""mtexsis.tex""); 9 pages. [Added references
+  and explanations. If your interest in this subject is serious, upgrade. If
+  you want Postscript instead of TeX, send me e-mail.]",,,,"hep-lat cond-mat hep-th",,"  Introducing a new and universally applicable discretizing technique, I
+construct a class of local and unitary lattice theories of Weyl neutrinos; this
+solves a longstanding and allegedly unsolvable problem in quantum field theory.
+En route, I also prove a general ``go'' theorem that all Lagrangian-density
+based continuum quantum field theories can be lattice-regularized.
+  (INFORMAL ABSTRACT: You didn't study the Nielsen-Ninomiya theorem, only
+trusted the authors to have proven ``the absence of neutrinos on a lattice''.
+Well, they didn't. Nor can anyone else: every continuum theory can be
+lattice-regularized. A proof of that, plus an explicit construction of lattice
+neutrinos: if you read only one paper this year, here it is! From now on, this
+is how chiral fermions should be latticized. All else is gaslight.)
+","[{""version"":""v1"",""created"":""Sat, 18 Sep 1993 09:46:27 GMT""},{""version"":""v2"",""created"":""Mon, 4 Oct 1993 10:30:52 GMT""}]","2016-08-31"
+"hep-ph/9309280",,"W. de Boer and T. Kussmaul, IEKP Karlsruhe","Scaling Violation in the Fragmentation Functions in e+e- Annihilation","IEKP-KA/93-8 preprint latex + eps fig (epsf macros)",,,,"hep-ph",,"  A determination of the hadronic fragmentation functions of the Z-boson is
+presented from a study of the inclusive hadron production wit the DELPHI
+detector at LEP. These fragmentation functions were compared with the ones at
+lower energies, thus covering data in a large kinematic range:
+  196 <= Q^2 <= 8312 GeV^2 and x(= p_h/E_beam) > 0.08
+  A large scaling violation was observed, which was used to extract the strong
+coupling constant in second order QCD:
+  alpha_s(Mz) =0.118 +\- 0.005.
+  The corresponding QCD scale for five quark flavours is:
+  Lambda_MS_bar = 230 +/- 60 MeV.
+","[{""version"":""v1"",""created"":""Fri, 17 Sep 1993 16:49:12 GMT""},{""version"":""v2"",""created"":""Thu, 7 Oct 1993 13:46:55 GMT""}]","2016-09-01"
+"hep-ph/9309281","Maria del Mar Bastero Gil","M. Bastero-Gil (1), V. Man\'ias (2), J. P\'erez-Mercader (1)
+  ((1)Laboratorio de Astrof\'isica Espacial y F\'isica Fundamental, Madrid,
+  Spain; (2) Departamento de F\'isica, Facultad de C. Exactas, UNLP C.C. 67,
+  1900 La Plata, Argentina)","Threshold Effects And Perturbative Unification","22 pages, REVTEX-2.1, 6 Post-Script figures are included","Int.J.Mod.Phys.A10:373-388,1995","10.1142/S0217751X95000164","LAEFF-93/012","hep-ph",,"  We discuss the effect of the renormalization procedure in the computation of
+the unification point for running coupling constants. We explore the effects of
+threshold--crossing on the $\beta$--functions. We compute the running of the
+coupling constants of the Standard Model, between $m_Z$ and $M_P$, using a mass
+dependent subtraction procedure, and then compare the results with $\bar{MS}$,
+and with the $\theta$-- function approximation. We also do this for the Minimal
+Supersymmetric extension of the Standard Model. In the latter, the bounds on
+susy masses that one obtains by requiring perturbative unification are
+dependent, to some extent, on the procedure.
+","[{""version"":""v1"",""created"":""Fri, 17 Sep 1993 17:09:00 GMT""}]","2016-08-14"
+"hep-ph/9309282","Adam Szczepaniak","A. Szczepaniak, C-R. Ji, and S.R. Cotanch","Covariant Variable Front Quark Model","25 pages, REVTeX 3.0 file, (uuencoded postscript files of 9 figures
+  appended)",,,,"hep-ph",,"  We study the implications of Lorentz symmetry for hadronic structure by
+formulating a manifestly covariant constituent quark model and find full
+covariance for any Lorentz transformation requires utilizing a variable
+quantization surface. Even though time-reversal invariance mandates a unique
+orientation for the surface's direction, we investigated alternative choices
+and find small numerical sensitivity to different directions. We also calculate
+the static properties of the low lying pseudoscalar mesons and compare results
+with existing noncovariant calculations. We conclude that there is a little
+sensitivity of the calculated observables to the choice of the formalism,
+provided relativity is properly implemented.
+","[{""version"":""v1"",""created"":""Fri, 17 Sep 1993 20:56:15 GMT""}]","2007-05-23"
+"hep-ph/9309283",,"Joao P. Silva and L. Wolfenstein","Determining the Penguin Effect on CP Violation in $B^0 \rightarrow \pi^+
+  \pi^-$","Latex file, 5 pages, 4 figures available on request. Preprint
+  DOE-ER/40682-43, CMU-HEP93-18","Phys.Rev.D49:1151-1155,1994","10.1103/PhysRevD.49.1151",,"hep-ph",,"  A major goal in B physics is measuring the CP-violating asymmetry in the
+decay $B^0 \rightarrow \pi^+ \pi^-$. In order to determine one of the phase
+angles in the CKM matrix from this decay it is necessary to determine the
+influence of the penguin amplitude. Here we show how, using $SU(3)$ symmetry,
+the penguin effect can be approximately determined from the ratio of the decay
+rates of $B^0 \rightarrow K^+ \pi^-$ and $B^0 \rightarrow \pi^+ \pi^-$.
+","[{""version"":""v1"",""created"":""Fri, 17 Sep 1993 20:59:49 GMT""}]","2010-01-06"
+"hep-ph/9309284","Adam Szczepaniak","A. Szczepaniak, C-R. Ji, and S. R. Cotanch","Generalized Relativistic Meson Wave Function","17 pages, REXTeX 3.0 file, (uuencoded postscript files of 8 figures
+  appended)","Phys.Rev. D49 (1994) 3466-3473","10.1103/PhysRevD.49.3466",,"hep-ph",,"  We study the most general, relativistic, constituent $q{\overline q}$ meson
+wave function within a new covariant framework. We find that by including a
+tensor wave function component, a pure valence quark model is now capable of
+reproducing not only all static pion data ($f_\pi$, $\langle r_\pi^2 \rangle$)
+but also the distribution amplitude, form factor $(F_\pi(Q^2))$, and structure
+functions. Further, our generalized spin wave function provides a much better
+detailed description of meson properties than models using a simple
+relativistic extension of the $S=L=0$ nonrelativistic wave function.
+","[{""version"":""v1"",""created"":""Fri, 17 Sep 1993 21:11:41 GMT""}]","2009-10-22"
+"hep-ph/9309285",,"L. Frankfurt (Tel Aviv University, Ramat Aviv, Israe)l, G.A. Miller
+  (Department of Physics, FM-15, University of Washington, Seattle, Washington,
+  USA) and M. Strikman (Department of Physics, Pennsylvania State University,
+  University Park, PA, USA)","Evidence for Color Fluctuations in Hadrons from Coherent Nuclear
+  Diffraction}","Report number DOE/ER 40427-13-N93 11 pages, 3 figures available from
+  author Miller","Phys.Rev.Lett. 71 (1993) 2859-2862","10.1103/PhysRevLett.71.2859",,"hep-ph nucl-th",,"  A QCD-based treatment of projectile size fluctuations is used to compute
+inelastic diffractive cross sections $\sigma_{diff}$ for coherent
+hadron-nuclear processes. We find that fluctuations near the average size give
+the major contribution to the cross section with $ \le few \%$ contribution
+from small size configurations.
+  The computed values of $\sigma_{diff}$ are consistent with the limited
+available data. The importance of coherent diffraction studies for a wide range
+of projectiles for high energy Fermilab fixed target experiments is emphasized.
+The implications of these significant color fluctuations for relativistic heavy
+ion collisions are discussed.
+","[{""version"":""v1"",""created"":""Fri, 17 Sep 1993 23:05:15 GMT""},{""version"":""v2"",""created"":""Thu, 7 Oct 1993 19:14:40 GMT""}]","2009-10-22"
+"hep-ph/9309286",,"Tadashi Kon and Toshihiko Nonaka","Can Stop be Light Enough ?","15 pages (LaTeX), 6 figures not included (available on request) ;
+  ITP-SU-93/05, RUP-93-9","Phys.Lett. B319 (1993) 355-364","10.1016/0370-2693(93)90826-4",,"hep-ph",,"  \def\nle{{\stackrel{<}{\sim}}} We examine a possibility for existence of a
+light supersymmetric partner of the top quark (stop) with mass 15 $\sim$ 20 GeV
+in the framework of the minimal supergravity GUT model. Such light stop could
+explain the slight excess of the high $p_{T}$ cross section of the
+$D^{*\pm}$-meson production in two-photon process at TRISTAN. We point out that
+the existence of such stop could change the dominant decay mode of some
+particles and could weaken substantially present experimental bounds on the
+supersymmetric parameter space. It seems that there is a finite parameter
+region allowing existence of the light stop even if we consider the present
+experimental data. Inversely, if the light stop was discovered at TRISTAN,
+masses and mixing parameters of the other SUSY partners as well as masses of
+the Higgs and the top will be severely constrained, for example, $m_{\tilde{g}}
+\simeq$75GeV, $m_{\tilde{W_{1}}}\nle$55GeV, 90GeV$\nle m_{\tilde{\ell}}
+\nle$130GeV, 100GeV$\nle m_{\tilde{q}}\nle$150GeV, $m_{h}\nle$60GeV and
+115GeV$\nle m_{t}\nle$135GeV. Some phenomenological implications on the present
+and future experiments are also discussed.
+","[{""version"":""v1"",""created"":""Sat, 18 Sep 1993 10:45:23 GMT""}]","2009-10-22"
+"hep-ph/9309287","Mimura","H.Fujii, Y.Mimura, K.Sasaki and T.Sasaki","Muonium Hyperfine Structure and the Decay $ \mu ^+\to e^+ +\overline \nu
+  _e +\nu _{\mu}$ in Models with Dilepton Gauge Bosons","8 pages, harvmac (extra preprint # and reference added)","Phys.Rev.D49:559-562,1994","10.1103/PhysRevD.49.559","TIT/HEP-234,BNL-49435,YNU-HEPTh-93-103","hep-ph",,"  We examine the muonium ($\mu ^+e^-$)-antimuonium ($\mu ^-e^+$) system in the
+models which accomodate the dilepton gauge bosons, and study their
+contributions to the ground state hyperfine splitting in ``muonium''. We also
+consider the exotic muon decay $\mu ^+\to e^+ +\overline \nu _e +\nu _{\mu}$
+mediated by the dilepton gauge boson, and obtain a lower bound $(M_{X^{\pm
+}}/g_{3l})>550 \rm GeV$ at 90\% confidence level for the singly-charged
+dilepton mass using the unitarity relation of the Kobayashi-Maskawa matrix for
+the 3-family case.
+","[{""version"":""v1"",""created"":""Sat, 18 Sep 1993 11:18:22 GMT""},{""version"":""v2"",""created"":""Mon, 27 Sep 1993 11:40:22 GMT""},{""version"":""v3"",""created"":""Tue, 28 Sep 1993 04:56:50 GMT""},{""version"":""v4"",""created"":""Sat, 9 Oct 1993 07:51:30 GMT""}]","2010-11-01"
+"hep-th/9309096",,"M. Matone","Quantum Riemann surfaces, 2D gravity and the geometrical origin of
+  minimal models","DFPD/93/TH/62. Remarks on the d=1 barrier and references added","Mod.Phys.Lett. A9 (1994) 2871-2878","10.1142/S0217732394002719",,"hep-th",,"  Based on a recent paper by Takhtajan, we propose a formulation of 2D quantum
+gravity whose basic object is the Liouville action on the Riemann sphere
+$\Sigma_{0,m+n}$ with both parabolic and elliptic points. The identification of
+the classical limit of the conformal Ward identity with the Fuchsian projective
+connection on $\Sigma_{0,m+n}$ implies a relation between conformal weights and
+ramification indices. This formulation works for arbitrary $d$ and admits a
+standard representation only for $d\le 1$. Furthermore, it turns out that the
+integerness of the ramification number constrains $d=1-24/(n^2-1)$ that for
+$n=2m+1$ coincides with the unitary minimal series of CFT.
+","[{""version"":""v1"",""created"":""Fri, 17 Sep 1993 17:24:18 GMT""},{""version"":""v2"",""created"":""Sun, 19 Sep 1993 16:34:46 GMT""},{""version"":""v3"",""created"":""Tue, 15 Feb 1994 14:59:15 GMT""}]","2009-10-22"
+"hep-th/9309097","Paul Aspinwall","P.S. Aspinwall, B.R. Greene and D.R. Morrison","Calabi-Yau Moduli Space, Mirror Manifolds and Spacetime Topology Change
+  in String Theory","74 pages (with 20 figures)","Nucl.Phys. B416 (1994) 414-480","10.1016/0550-3213(94)90321-2","IASSNS-HEP-93/38, CNLS-93/1236","hep-th alg-geom math.AG",,"  We analyze the moduli spaces of Calabi-Yau threefolds and their associated
+conformally invariant nonlinear sigma-models and show that they are described
+by an unexpectedly rich geometrical structure. Specifically, the Kahler sector
+of the moduli space of such Calabi-Yau conformal theories admits a
+decomposition into adjacent domains some of which correspond to the
+(complexified) Kahler cones of topologically distinct manifolds. These domains
+are separated by walls corresponding to singular Calabi-Yau spaces in which the
+spacetime metric has degenerated in certain regions. We show that the union of
+these domains is isomorphic to the complex structure moduli space of a single
+topological Calabi-Yau space---the mirror. In this way we resolve a puzzle for
+mirror symmetry raised by the apparent asymmetry between the Kahler and complex
+structure moduli spaces of a Calabi-Yau manifold. Furthermore, using mirror
+symmetry, we show that we can interpolate in a physically smooth manner between
+any two theories represented by distinct points in the Kahler moduli space,
+even if such points correspond to topologically distinct spaces. Spacetime
+topology change in string theory, therefore, is realized by the most basic
+operation of deformation by a truly marginal operator. Finally, this work also
+yields some important insights on the nature of orbifolds in string theory.
+","[{""version"":""v1"",""created"":""Fri, 17 Sep 1993 21:18:41 GMT""},{""version"":""v2"",""created"":""Sun, 19 Sep 1993 15:16:26 GMT""},{""version"":""v3"",""created"":""Tue, 5 Oct 1993 14:51:36 GMT""}]","2009-10-22"
+"hep-th/9309098","Fernando T. C. Brandt","A. P. de Almeida, F. T. Brandt and J. Frenkel","Thermal matter and radiation in a gravitational field","32 pages, IFUSP/P-1070","Phys.Rev. D49 (1994) 4196-4208","10.1103/PhysRevD.49.4196",,"hep-th",,"  We study the one-loop contributions of matter and radiation to the
+gravitational polarization tensor at finite temperatures. Using the
+analytically continued imaginary-time formalism, the contribution of matter is
+explicitly given to next-to-leading ($T^2$) order. We obtain an exact form for
+the contribution of radiation fields, expressed in terms of generalized Riemann
+zeta functions. A general expression is derived for the physical polarization
+tensor, which is independent of the parametrization of graviton fields. We
+investigate the effective thermal masses associated with the normal modes of
+the corresponding graviton self-energy.
+","[{""version"":""v1"",""created"":""Fri, 17 Sep 1993 18:34:53 GMT""}]","2009-10-22"
+"hep-th/9309099",,"Zbigniew Hasiewicz, Przemys{\l}{aw} Siemion and Walter Troost","Chiral Quantization on a Group Manifold","25p, LaTeX, KUL-TF-93/41","Int.J.Mod.Phys. A9 (1994) 4149-4168","10.1142/S0217751X94001680",,"hep-th",,"  The phase space of a particle on a group manifold can be split in left and
+right sectors, in close analogy with the chiral sectors in Wess Zumino Witten
+models. We perform a classical analysis of the sectors, and the geometric
+quantization in the case of $SU(2)$. The quadratic relation, classically
+identifying $SU(2)$ as the sphere $S^3$, is replaced quantum mechanically by a
+similar condition on non-commutative operators ('quantum sphere'). The
+resulting quantum exchange algebra of the chiral group variables is quartic,
+not quadratic. The fusion of the sectors leads to a Hilbert space that is
+subtly different from the one obtained by a more direct (un--split)
+quantization.
+","[{""version"":""v1"",""created"":""Sat, 18 Sep 1993 15:39:43 GMT""}]","2016-08-14"
+"hep-th/9309100",,"D.Boulatov","Critical scaling in the matrix model on the Bethe tree","12 pp., NBI-93-55","Mod. Phys. Lett. A9 (1994) 1963-1974","10.1142/S0217732394001829",,"hep-th",,"  The matrix model with a Bethe-tree embedding space (coinciding at large $N$
+with the Kazakov-Migdal ``induced QCD'' model \cite{KM}) is investigated. We
+further elaborate the Riemann-Hilbert approach of \rf{Mig1} assuming certain
+holomorphic properties of the solution. The critical scaling (an edge
+singularity of the density) is found to be $\gamma_{str} = -\frac{1}{\pi}
+\arcos D$, for $|D|<1$, and $\gamma_{str} = -\frac{1}{\pi} \arcos
+\frac{D}{2D-1}$, for $D>1$. Explicit solutions are constructed at
+$D=\frac{1}{2}$ and $D=\infty$.
+","[{""version"":""v1"",""created"":""Sat, 18 Sep 1993 15:24:17 GMT""}]","2015-06-26"

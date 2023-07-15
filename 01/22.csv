@@ -1,0 +1,223 @@
+"astro-ph/9301010","Joerg Rachen","Joerg P. Rachen and Peter L. Biermann (Max-Planck-Institut fuer
+  Radioastronomie, Bonn, Germany)","Extragalactic ultra high energy cosmic rays, I. Contribution from hot
+  spots in FR-II galaxies","revision only affects the LaTeX-format, not the content of the paper
+  , 26 pages, LaTeX, 12 figures (not included, but available upon request),
+  MPIfR-Preprint Series No. 510 Accepted by Astronomy and Astrophysics:
+  December 30, 1992","Astron.Astrophys.272:161-175,1993",,,"astro-ph",,"  We consider the hot spots in FR-II galaxies as sites of first order Fermi
+acceleration of protons to the highest energies observed in cosmic rays. We
+estimate the attainable maximum energy in the hot spot region allowed by the
+canonical physical conditions, which are found from radio-to-optical
+observations (Meisenheimer et al. 1989, A&A). We calculate observable the
+proton flux and spectrum from this sources, using all knowledge about source
+distibution (Peacock 1985, MNRAS) and particle transport in the microwave
+background (Berezinsky and Grigor'eva 1988, A&A). We get excellent agreement
+with the cosmic ray data points at ultra high energies. THIS PAPER GIVES THE
+FUNDAMENTAL MODEL FOR THE EXPLANATION OF THE NEW AIR SHOWER DATA OF THE PROTON
+COMPONENT OF THE COSMIC RAY SPECTRUM BETWEEN 0.1 AND 1 EeV (Gaisser et al.
+1992, Phys. Rev. D in press, Stanev et al. 1992, A&A submitted), which is
+subject of a subsequent paper (part II, Rachen and Biermann 1992, A&A
+submitted).
+","[{""version"":""v1"",""created"":""Thu, 21 Jan 1993 16:27:47 GMT""},{""version"":""v2"",""created"":""Mon, 25 Jan 1993 16:50:20 GMT""}]","2011-05-23"
+"astro-ph/9301011","Albert Stebbins","Andrew H. Jaffe, Albert Stebbins, and Joshua A. Frieman","Minimal Microwave Anisotropy from Perturbations Induced at Late Times","Plain TeX, 25 pages, 6 Figures available on request","Astrophys.J. 420 (1994) 9-25","10.1086/173538","FERMILAB-Pub-92/362-A","astro-ph",,"  Aside from primordial gravitational instability of the cosmological fluid,
+various mechanisms have been proposed to generate large-scale structure at
+relatively late times, including, e.g., ``late-time'' cosmological phase
+transitions. In these scenarios, it is envisioned that the universe is nearly
+homogeneous at the time of last scattering and that perturbations grow rapidly
+sometime after the primordial plasma recombines. On this basis, it was
+suggested that large inhomogeneities could be generated while leaving
+relatively little imprint on the cosmic microwave background (MBR) anisotropy.
+In this paper, we calculate the minimal anisotropies possible in any
+``late-time'' scenario for structure formation, given the level of
+inhomogeneity observed at present. Since the growth of the inhomogeneity
+involves time-varying gravitational fields, these scenarios inevitably generate
+significant MBR anisotropy via the Sachs-Wolfe effect. Moreover, we show that
+the large-angle MBR anisotropy produced by the rapid post-recombination growth
+of inhomogeneity is generally greater than that produced by the same
+inhomogeneity grown via gravitational instability. In ``realistic'' scenarios
+one can decrease the anisotropy compared to models with primordial adiabatic
+fluctuations, but only on very small angular scales. The value of any
+particular measure of the anisotropy can be made small in late-time models, but
+only by making the time-dependence of the gravitational field sufficiently
+``pathological''.
+","[{""version"":""v1"",""created"":""Thu, 21 Jan 1993 19:16:07 GMT""}]","2009-10-22"
+"cond-mat/9301027","Subir Sachdev","Andrey V. Chubukov and Subir Sachdev","Universal Magnetic Properties of $La_{2-\delta} Sr_{\delta} Cu O_4$ at
+  Intermediate Temperatures","14 pages, REVTEX, 1 postscript figure appended","Phys.Rev.Lett.71:169,1993","10.1103/PhysRevLett.71.169",,"cond-mat",,"  We present the theory of two-dimensional, clean quantum antiferromagnets with
+a small, positive, zero temperature ($T$) stiffness $\rho_s$, but with the
+ratio $k_B T / \rho_s $ arbitrary. Universal scaling forms for the uniform
+susceptibility ($\chi_u$), correlation length($\xi$), and NMR relaxation rate
+($1/T_1$) are proposed and computed in a $1/N$ expansion and by Mont\'{e}-Carlo
+simulations. For large $k_B T/\rho_s$, $\chi_u (T)/T$ and $T\xi(T)$ asymptote
+to universal values, while $1/T_{1}(T)$ is nearly $T$-independent. We find good
+quantitative agreement with experiments and some numerical studies on
+$La_{2-\delta} Sr_{\delta} Cu O_4$.
+","[{""version"":""v1"",""created"":""Thu, 21 Jan 1993 16:40:00 GMT""}]","2009-01-23"
+"hep-lat/9301014",,"M.C.Diamantini E. Langmann G.W. Semenoff P.Sodano","SU(N) Quantum Antiferromagnets and the Phase Structure of QED in the
+  Strong Coupling Limit","latex, 45 pages, DFUPG 69/92","Nucl.Phys. B406 (1993) 595-630","10.1016/0550-3213(93)90003-8",,"hep-lat cond-mat hep-th",,"  We examine the strong coupling limit of both compact and non compact QED on a
+lattice with staggered fermions. We show that every SU(N) antiferromagnet with
+spins in a particular fundamental representation of the SU(N) Lie Algebra and
+with nearest neighbor couplings on a bipartite lattice is exactly equivalent to
+the infinite coupling limit of lattice QED with the numbers of flavors of
+electrons related to N and the dimension of spacetime D+1. We find that,for
+both compact and noncompact QED,when N is odd the ground state of the strong
+coupling limit breaks chiral symmetry in any dimensions and for any N and the
+condensate is an isoscalar mass operator. When N is even,chiral symmetry is
+broken if D is bigger or equal to 2 and N is small enough and the order
+parameter is an isovector mass operator. We also find the exact ground state of
+the lattice Coulomb gas as well as a variety of related lattice statistical
+systems with long ranged interactions.
+","[{""version"":""v1"",""created"":""Thu, 21 Jan 1993 18:12:00 GMT""}]","2009-10-22"
+"hep-lat/9301015","Donald N. Petcher","Donald N. Petcher","Chiral Gauge Theories and Fermion-Higgs Systems","16 pages, LaTeX, Wash.U.HEP-92-85",,"10.1016/0920-5632(93)90177-8",,"hep-lat",,"  Summary talk presented at the Conference on Lattice Field Theory, Amsterdam,
+September, 1992. Abstract: The status of several proposals for defining a
+theory of chiral fermions on the lattice is reviewed and some new estimates for
+the upper bound on the Higgs mass are presented.
+","[{""version"":""v1"",""created"":""Fri, 22 Jan 1993 01:00:37 GMT""}]","2009-10-22"
+"hep-ph/9301256",,"M.C.Diamantini G.W.Semenoff P.Sodano","Chiral Dynamics and Fermion Mass Generation in Three Dimensional Gauge
+  Theory","Latex,10 pages,DFUPG 70/92","Phys.Rev.Lett. 70 (1993) 3848-3851","10.1103/PhysRevLett.70.3848",,"hep-ph hep-th",,"  We examine the possibility of fermion mass generation in 2+1- dimensional
+gauge theory from the current algebra point of view.In our approach the
+critical behavior is governed by the fluctuations of pions which are the
+Goldstone bosons for chiral symmetry breaking. Our analysis supports the
+existence of an upper critical number of Fermion flavors and exhibits the
+explicit form of the gap equation as well as the form of the critical exponent
+for the inverse correlation lenght of the order parameter
+","[{""version"":""v1"",""created"":""Thu, 21 Jan 1993 18:17:00 GMT""}]","2009-10-22"
+"hep-ph/9301257","Slava Belyaev","V.M.Belyaev","Delta-Isobar Magnetic Form Factor in QCD","13 pages, CEBAF-TH-93-02, Latex, 1 Figure",,,,"hep-ph",,"  We consider the QCD sum rules approach for Delta-isobar magnetic form factor
+in the infra-red region $0<Q^2<1GeV^2$. The QCD sum rules in external variable
+field are used. The obtained formfactor is in agreement with quark model
+predictions for the Delta-isobar magnetic moment.
+","[{""version"":""v1"",""created"":""Thu, 21 Jan 1993 16:59:46 GMT""}]","2007-05-23"
+"hep-ph/9301258","Naculich","Stephen G. Naculich","Third Generation Effects on Fermion Mass Predictions in Supersymmetric
+  Grand Unified Theories","phyzzx, 26 pp., 6 figures not included, e-mailable upon request,
+  JHU-TIPAC-930002","Phys.Rev. D48 (1993) 5293-5304","10.1103/PhysRevD.48.5293",,"hep-ph",,"  Relations among fermion masses and mixing angles at the scale of grand
+unification are modified at lower energies by renormalization group running
+induced by gauge and Yukawa couplings. In supersymmetric theories, the $b$
+quark and $\tau$ lepton Yukawa couplings, as well as the $t$ quark coupling,
+may cause significant running if $\tan \beta$, the ratio of Higgs field
+expectation values, is large. We present approximate analytic expressions for
+the scaling factors for fermion masses and CKM matrix elements induced by all
+three third generation Yukawa couplings. We then determine how running caused
+by the third generation of fermions affects the predictions arising from three
+possible forms for the Yukawa coupling matrices at the GUT scale: the
+Georgi-Jarlskog, Giudice, and Fritzsch textures.
+","[{""version"":""v1"",""created"":""Thu, 21 Jan 1993 23:05:00 GMT""}]","2009-10-22"
+"hep-ph/9301259","Wai-Yee","Darwin Chang, Wai-Yee Keung, and Ivan Phillips","CP Violation in top pair production at an e^+e^- collider","16 pages, including postscript graphs not posted before","Nucl.Phys.B408:286-298,1993; ERRATUM-ibid.B429:255,1994","10.1016/0550-3213(93)90536-X","CERN-TH.6658/92","hep-ph",,"  We investigate possible CP violating effects in $e^+e^-$ annihilation into
+top quark pairs. One of the interesting observable effects is the difference in
+production rates between the two CP conjugate polarized states $t_L\bar t_L$
+and $t_R\bar t_R$. The result is an asymmetry in the energy spectra of the
+lepton and the anti-lepton from the heavy quark decays. Another CP-odd
+observable is the up-down asymmetry of the leptons with respect to the reaction
+plane. These two asymmetries measure complementarily the absorptive and
+dispersive form factors of the electric dipole moment. Finally, as an
+illustration, we calculate the size of the CP violating form factors in a model
+where the CP nonconservation originates from the Yukawa couplings of a neutral
+Higgs boson.
+","[{""version"":""v1"",""created"":""Fri, 22 Jan 1993 09:25:39 GMT""},{""version"":""v2"",""created"":""Mon, 25 Jan 1993 12:14:46 GMT""},{""version"":""v3"",""created"":""Sun, 14 Jun 1998 11:38:54 GMT""}]","2009-09-01"
+"hep-ph/9301260",,"S. F. Novaes and D. Spehler","Gravitational Laser Back-Scattering","11 pages, 2 figures (available upon request), RevTeX, IFT-P.03/93","Phys.Rev. D47 (1993) 2432-2434","10.1103/PhysRevD.47.2432",,"hep-ph",,"  A possible way of producing gravitons in the laboratory is investigated. We
+evaluate the cross section electron + photon $\rightarrow$ electron + graviton
+in the framework of linearized gravitation, and analyse this reaction
+considering the photon coming either from a laser beam or from a Compton
+back-scattering process.
+","[{""version"":""v1"",""created"":""Fri, 22 Jan 1993 10:44:00 GMT""}]","2009-10-22"
+"hep-th/9301085",,"Sudhakar Panda and Shibaji Roy","On the Symmetry Algebra of the Discrete States in $d<2$ Closed String
+  Theory","13 pages, Plain Tex, IC/93/13, UG-1/93","Phys.Lett.B306:252-260,1993","10.1016/0370-2693(93)90076-T",,"hep-th",,"  The Symmetry charges associated with the Lian-Zuckerman states for $d<2$
+closed string theory are constructed. Unlike in the open string case, it is
+shown here that the symmetry charges commute among themselves and act trivially
+on all the physical states.
+","[{""version"":""v1"",""created"":""Thu, 21 Jan 1993 17:37:00 GMT""}]","2010-11-01"
+"hep-th/9301086","Michael Roesgen","J. Kellendonk, M. R\""osgen, R. Varnhagen","Path Spaces and W-Fusion in Minimal Models","11 pages, TeX, minor adjustment to journal version, 4 PostScript
+  figures in tar-archive (appendix, to be printed manually)","Int.J.Mod.Phys.A9:1009-1024,1994","10.1142/S0217751X94000467","BONN-HE-93-04","hep-th",,"  Product forms of characters of Virasoro minimal models are obtained which
+factorize into $(2,\odd)\times(3,\even)$ characters. These are related by
+generalized Rogers-Ramanujan identities to sum forms allowing for a
+quasiparticle interpretation. The corresponding dilogarithm identities are
+given and the factorization is used to analyse the related path space structure
+as well as the fusion of the maximally extended chiral algebra.
+","[{""version"":""v1"",""created"":""Thu, 21 Jan 1993 22:42:56 GMT""},{""version"":""v2"",""created"":""Wed, 29 Apr 1998 18:08:53 GMT""}]","2010-11-01"
+"hep-th/9301087","Bougourzi Hamid","A.H. Bougourzi","Uniqueness of the bosonization of the $U_q(su(2)_k)$ quantum current
+  algebra","25 pages","Nucl.Phys. B404 (1993) 457-482","10.1016/0550-3213(93)90487-A",,"hep-th",,"  Four apparently different bosonizations of the $U_q(su(2)_k)$ quantum current
+algebra for arbitrary level $k$ have recently been proposed in the literature.
+However, the relations among them have so far remained unclear except in one
+case. Assuming a special standard form for the $U_q(su(2)_k)$ quantum currents,
+we derive a set of general consistency equations that must be satisfied. As
+particular solutions of this set of equations, we recover two of the four
+bosonizations and we derive a new and simpler one. Moreover, we show that the
+latter three, and the remaining two bosonizations which cannot be derived
+directly from this set of equations since by construction they do not have the
+standard form, are all related to each other through some redefinitions of
+their Heisenberg boson oscillators.
+","[{""version"":""v1"",""created"":""Thu, 21 Jan 1993 23:34:37 GMT""}]","2009-10-22"
+"hep-th/9301088","Nicholas Philip Warner","N.P. Warner","$N=2$ Supersymmetric Integrable Models and Topological Field Theories","37 pages, harvmac, USC-93/001",,,,"hep-th",,"  These lectures review some of the basic properties of $N=2$ superconformal
+field theories and the corresponding topological field theories. One of my
+basic aims is to show how the techniques of topological field theory can be
+used to compute effective \LG potentials for perturbed $N=2$ superconformal
+field theories. In particular, I will briefly discuss the application of these
+ideas to $N=2$ supersymmetric quantum integrable models. (Lectures given at the
+Summer School on High Energy Physics and Cosmology, Trieste, Italy, June 15th
+-- July 3rd, 1992. To appear in the proceedings.)
+","[{""version"":""v1"",""created"":""Fri, 22 Jan 1993 00:58:44 GMT""}]","2007-05-23"
+"hep-th/9301089","Doron Gepner","Doron Gepner","String Theory on Calabi--Yau Manifolds: The Three Generations Case","Priceton preprint, December 1987. Note: this paper appeared only as a
+  preprint on December 1987. Recently, a number of physicists have suggested
+  its republication due to the fact that old preprints are not easily
+  accesible. This is the original tex file used at that time",,,,"hep-th",,"  Recently, string theory on Calabi--Yau manifolds was constructed and was
+shown to be a fully consistent, space--time supersymmetric string theory. The
+physically interesting case is the case of three generations. Intriguingly, it
+appears at the present that there is a unique manifold which gives rise to
+three generations. We describe in this paper a full fledged string theory on
+this manifold in which the complete spectrum and all the Yukawa couplings can
+be computed exactly.
+","[{""version"":""v1"",""created"":""Fri, 22 Jan 1993 03:27:28 GMT""}]","2007-05-23"
+"hep-th/9301090","Kanehisa Takasaki","Kanehisa Takasaki","Quasi-classical limit of BKP hierarchy and W-infinity symmeties","12 pages, Kyoto University KUCP-0058/93","Lett.Math.Phys. 28 (1993) 177-186","10.1007/BF00745149",,"hep-th",,"  Previous results on quasi-classical limit of the KP and Toda hierarchies are
+now extended to the BKP hierarchy. Basic tools such as the Lax representation,
+the Baker-Akhiezer function and the tau function are reformulated so as to fit
+into the analysis of quasi-classical limit. Two subalgebras $\WB_{1+\infty}$
+and $\wB_{1+\infty}$ of the W-infinity algebras $W_{1+\infty}$ and
+$w_{1+\infty}$ are introduced as fundamental Lie algebras of the BKP hierarchy
+and its quasi-classical limit, the dispersionless BKP hierarchy. The quantum
+W-infinity algebra $\WB_{1+\infty}$ emerges in symmetries of the BKP hierarchy.
+In quasi-classical limit, these $\WB_{1+\infty}$ symmetries are shown to be
+contracted into $\wB_{1+\infty}$ symmetries of the dispersionless BKP
+hierarchy.
+","[{""version"":""v1"",""created"":""Fri, 22 Jan 1993 05:43:42 GMT""},{""version"":""v2"",""created"":""Sat, 23 Jan 1993 03:56:09 GMT""},{""version"":""v3"",""created"":""Tue, 6 Apr 1993 01:50:19 GMT""}]","2009-10-22"
+"hep-th/9301091","Boguslaw Broda","Boguslaw Broda (U. Clausthal and U. Lodz)","Chern-Simons approach to three-manifold invariants","10 pages","Mod.Phys.Lett. A10 (1995) 487-494","10.1142/S0217732395000521",,"hep-th math.QA",,"  % A new, formal, non-combinatorial approach to invariants of %
+three-dimensional manifolds of Reshetikhin, Turaev and % Witten in the
+framework of non-perturbative topological % quantum Chern-Simons theory,
+corresponding to an arbitrary % compact simple Lie group, is presented. A
+direct % implementation of surgery instructions in the context of % quantum
+field theory is proposed. An explicit form of the % specialization of the
+invariant to the group SU(2) is % derived, and shown to agree with the result
+of Lickorish. % % AMS subject classifications (1991): 57M25, 57N10, 57R65,
+81T13.
+","[{""version"":""v1"",""created"":""Fri, 22 Jan 1993 09:19:59 GMT""},{""version"":""v2"",""created"":""Sat, 20 Feb 1993 15:28:13 GMT""}]","2009-10-22"
+"hep-th/9301092","B. Jurco","B. Jurco","More on quantum groups from the the quantization point of view","18 pages","Commun.Math.Phys. 166 (1994) 63-78","10.1007/BF02099301",,"hep-th math.QA",,"  Star products on the classical double group of a simple Lie group and on
+corresponding symplectic grupoids are given so that the quantum double and the
+""quantized tangent bundle"" are obtained in the deformation description.
+""Complex"" quantum groups and bicovariant quantum Lie algebras are discused from
+this point of view. Further we discuss the quantization of the Poisson
+structure on symmetric algebra $S(g)$ leading to the quantized enveloping
+algebra $U_{h}(g)$ as an example of biquantization in the sense of Turaev.
+Description of $U_{h}(g)$ in terms of the generators of the bicovariant
+differential calculus on $F(G_q)$ is very convenient for this purpose. Finally
+we interpret in the deformation framework some well known properties of compact
+quantum groups as simple consequences of corresponding properties of classical
+compact Lie groups. An analogue of the classical Kirillov's universal character
+formula is given for the unitary irreducible representation in the compact
+case.
+","[{""version"":""v1"",""created"":""Fri, 22 Jan 1993 11:55:05 GMT""}]","2009-10-22"
+"nucl-th/9301015","Dao-Chen Zheng","N. Auerbach, D. C. Zheng, L. Zamick and B. A. Brown","Correlation between the quenching of total GT+ strength and the increase
+  of E2 strength","11 pages and 3 figures (Figures will be sent on request)","Phys.Lett.B304:17-23,1993","10.1016/0370-2693(93)91392-Z",,"nucl-th",,"  Relations between the total beta+ Gamow-Teller (GT+) strength and the E2
+strength are further examined. It is found that in shell-model calculations for
+N=Z nuclei, in which changes in deformation are induced by varying the
+single-particle energies, the total GT+ or GT- strength decreases monotonically
+with increasing values of the B(E2) from the ground state to the first excited
+J=2+ state. Similar trends are also seen for the double GT transition amplitude
+(with some exceptions) and for the spin part of the total M1 strength as a
+function of B(E2).
+","[{""version"":""v1"",""created"":""Thu, 21 Jan 1993 20:06:50 GMT""}]","2008-11-26"
+"nucl-th/9301016","Wally Melnitchouk","W.Melnitchouk and A.W.Thomas (Univ.Adelaide)","Shadowing in Deuterium","20 pages (figures available upon request), (to appear in Phys.Rev.D)
+  ADP-92-192/T120","Phys.Rev.D47:3783-3793,1993","10.1103/PhysRevD.47.3783",,"nucl-th",,"  We calculate nuclear shadowing in lepton-deuteron deep inelastic scattering,
+which arises from the double scattering of the virtual photon from both
+nucleons in the deuteron. The total correction to the deuteron structure
+function is found to be less than about 1\% at small Bjorken-x, but dependent
+on the model deuteron wavefunction. The resulting increase in the corrected
+neutron structure function is between 1-2\% for x near 0.004, which leads to a
+4-10\% decrease in the value of the Gottfried sum obtained recently by the New
+Muon Collaboration.
+","[{""version"":""v1"",""created"":""Fri, 22 Jan 1993 09:56:16 GMT""}]","2008-11-26"

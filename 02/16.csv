@@ -1,0 +1,95 @@
+"astro-ph/9302009","Enrique Gaztanaga","J.N.Fry and Enrique Gaztanaga","Biasing and Hierarchical Statistics in Large-scale Structure","11 pages, LaTeX, FERMILAB-Pub-92/367-A","Astrophys.J. 413 (1993) 447-452","10.1086/173015",,"astro-ph",,"  In the current paradigm there is a non-trivial bias expected in the process
+of galaxy formation. Thus, the observed statistical properties of the galaxy
+distribution do not necessarily extend to the underlying matter distribution.
+Gravitational evolution of initially Gaussian seed fluctuations predicts that
+the connected moments of the matter fluctuations exhibit a hierarchical
+structure, at least in the limit of small dispersion. This same hierarchical
+structure has been found in the galaxy distribution, but it is not clear to
+what extent it reflects properties of the matter distribution or properties of
+a galaxy formation bias. In this paper we consider the consequences of an
+arbitrary, effectively local biasing transformation of a hierarchical
+underlying matter distribution. We show that a general form of such a
+transformation preserves the hierarchical properties and the shape of the
+dispersion in the limit of small fluctuations, i.e. on large scales, although
+the values of the
+","[{""version"":""v1"",""created"":""Mon, 15 Feb 1993 18:34:05 GMT""},{""version"":""v2"",""created"":""Wed, 17 Feb 1993 23:50:58 GMT""}]","2009-10-22"
+"gr-qc/9302017","Don N. Page","Valery P. Frolov and Don N. Page","Proof of the Generalized Second Law for Quasistationary Semiclassical
+  Black Holes","12 pages, LaTeX, report Alberta-Thy-10-93 (revision of paper in
+  response to Phys. Rev. Lett. referees' comments, which suffered a series of
+  long delays)","Phys.Rev.Lett.71:3902-3905,1993","10.1103/PhysRevLett.71.3902",,"gr-qc",,"  A simple direct explicit proof of the generalized second law of black hole
+thermodynamics is given for a quasistationary semiclassical black hole.
+","[{""version"":""v1"",""created"":""Mon, 15 Feb 1993 22:25:17 GMT""},{""version"":""v2"",""created"":""Tue, 16 Feb 1993 17:58:54 GMT""},{""version"":""v3"",""created"":""Wed, 17 Feb 1993 19:03:57 GMT""},{""version"":""v4"",""created"":""Tue, 17 Aug 1993 23:17:35 GMT""}]","2010-11-01"
+"hep-ph/9302261",,"N. Kaiser, R. A. Malaney, G.D. Starkman","Neutrino-Lasing in The Early Universe","7 pages, 3 figures included as uuencoded file, CITA/93/7","Phys.Rev.Lett. 71 (1993) 1128-1131","10.1103/PhysRevLett.71.1128",,"hep-ph astro-ph",,"  Recently, Madsen has argued that relativistic decays of massive neutrinos
+into lighter fermions and bosons may lead, via thermalization, to the formation
+of a Bose condensate. If correct, this could generate mixed hot and cold dark
+matter, with important consequences for structure formation.
+  From a detailed study of such decays, we arrive at substantially different
+conclusions; for a wide range of masses and decay times, we find that
+stimulated emission of bosons dominates the decay. This phenomenon can best be
+described as a neutrino laser, pumped by the QCD phase transition. We discuss
+the implications for structure formation and the dark-matter problem.
+","[{""version"":""v1"",""created"":""Mon, 15 Feb 1993 16:15:43 GMT""},{""version"":""v2"",""created"":""Thu, 18 Feb 1993 18:10:27 GMT""}]","2009-10-22"
+"hep-ph/9302262","Cvetic","G. Cvetic, M. Nowakowski and Y.-L. Wu","Multi-Higgs Doublet Model: Can It Account for l^+l^-\gamma\gamma Events?","10 pages","NuovoCim.A107:271-278,1994","10.1007/BF02781558",,"hep-ph",,"  Motivated by recent experiments at LEP ($Z \to l^+l^-\gamma\gamma$, with
+$M_{\gamma\gamma} \simeq 59 GeV$), we examine the possibility that such events
+are explained by a Bjorken process with a resonant Higgs ($M_{h^o} \simeq 59
+GeV$) decaying to $\gamma\gamma$. Our model is an N-doublet-Higgs model without
+CP-violation. Under the simplifying assumption that $(N-k)$ doublets ($k \geq
+1$) decouple from the fermion sector, we could explain the observed events if:
+i) $(N-1) \geq 2$ and ii) the masses of the corresponding $(N-1)$ neutral
+scalars are either completely or almost degenerate, i.e. the decay $Z \to
+l^+l^- \gamma\gamma$ proceeds now via several overlapping resonances.
+","[{""version"":""v1"",""created"":""Tue, 16 Feb 1993 11:51:15 GMT""}]","2008-11-26"
+"hep-th/9302065","Rue-Ron Hsu","Guang-Jiun Cheng, Rue-Ron Hsu and Wei-Fu Lin","Dyonic Black Holes in String Theory","20 pages, 2 figures not included, LATEX, revised version","J.Math.Phys.35:4839-4847,1994","10.1063/1.530817",,"hep-th",,"  An exact solution of the low-energy string theory representing static,
+spherical symmetric dyonic black hole is found. The solution is labeled by
+their mass, electric charge, magnetic charge and asymptotic value of the scalar
+dilaton. Some interesting properties of the dyonic black holes are studied. In
+particular, the Hawking temperature of dyonic black holes depends on both the
+electric and magnetic charges, and the extremal ones, which have nonzero
+electric and magnetic charges, have zero temperature but nonzero entropy. These
+properties are quite different from those of electrically (or magnetically)
+charged dilaton black holes found by Gibbons {\it et al.} and Garfinkle {\it et
+al.}, but are the same as those of the dyonic black holes found by Gibbons and
+Maeda. After this paper was submitted for publication, D. Wiltshire told us
+that solutions, eqs.(22)-(28), are related to Gibbons-Maeda dyonic black hole
+solutions by a coordinate transformation and some parameters reparametization
+\cite{26}. And, we were also informed that many of our results were previously
+obtained by Kallosh {\it et al.} \cite{27}. The dyonic black hole solutions,
+eqs.(22)-(28), are also related to those of reference \cite{27} by another
+coordinate
+","[{""version"":""v1"",""created"":""Mon, 15 Feb 1993 22:27:44 GMT""},{""version"":""v2"",""created"":""Wed, 17 Feb 1993 20:02:49 GMT""},{""version"":""v3"",""created"":""Tue, 23 Feb 1993 19:34:19 GMT""}]","2010-11-19"
+"hep-th/9302070","Piljin Yi","Piljin Yi","Nonsingular 2-D Black Holes and Classical String Backgrounds","30 pages with 2 figures, harvmac, CALT-68-1852 (Discussions on the
+  gravitational collapse of thin shells in a charged spacetime are clarified.
+  Two extra references.)","Phys.Rev. D48 (1993) 2777-2788","10.1103/PhysRevD.48.2777",,"hep-th",,"  We study a string-inspired classical 2-D effective field theory with {\it
+nonsingular} black holes as well as Witten's black hole among its static
+solutions. By a dimensional reduction, the static solutions are related to the
+$(SL(2,R)_{k}\otimes U(1))/U(1)$ coset model, or more precisely its
+$O\bigl((\alpha')^{0}\bigr)$ approximation known as the 3-D charged black
+string. The 2-D effective action possesses a propagating degree of freedom, and
+the dynamics are highly nontrivial. A collapsing shell is shown to bounce into
+another universe without creating a curvature singularity on its path, and the
+potential instability of the Cauchy horizon is found to be irrelevent in that
+some of the infalling observers never approach the Cauchy horizon. Finally a
+$SL(2,R)_{k}/U(1)$ nonperturbative coset metric, found and advocated by R.
+Dijkgraaf et.al., is shown to be nonsingular and to coincide with one of the
+charged spacetimes found above. Implications of all these geometries are
+discussed in connection with black hole evaporation.
+","[{""version"":""v1"",""created"":""Tue, 16 Feb 1993 05:32:43 GMT""},{""version"":""v2"",""created"":""Wed, 17 Feb 1993 01:31:19 GMT""},{""version"":""v3"",""created"":""Fri, 19 Feb 1993 00:43:46 GMT""},{""version"":""v4"",""created"":""Thu, 4 Mar 1993 00:05:39 GMT""}]","2009-10-22"
+"hep-th/9302071","Gerald Cleaver","Gerald B. Cleaver and Philip J. Rosenthal","Aspects of Fractional Superstrings","36 pages, CALT-68-1756 Revisions to match form to appear in Comm.
+  Math. Phys. Use standard TeX. Derivation of affine partition functions
+  related to $D=4,6$ models is now shown. References Updated","Commun.Math.Phys. 167 (1995) 155-182","10.1007/BF02099356",,"hep-th",,"  We investigate some issues relating to recently proposed fractional
+superstring theories with $D_{\rm critical}<10$. Using the factorization
+approach of Gepner and Qiu, we systematically rederive the partition functions
+of the $K=4,\, 8,$ and $16$ theories and examine their spacetime supersymmetry.
+Generalized GSO projection operators for the $K=4$ model are found. Uniqueness
+of the twist field, $\phi^{K/4}_{K/4}$, as source of spacetime fermions is
+demonstrated. Last, we derive a linear (rather than quadratic) relationship
+between the required conformal anomaly and the conformal dimension of the
+supercurrent ghost.
+","[{""version"":""v1"",""created"":""Tue, 16 Feb 1993 06:56:34 GMT""},{""version"":""v2"",""created"":""Wed, 17 Feb 1993 05:26:29 GMT""},{""version"":""v3"",""created"":""Fri, 19 Mar 1993 01:50:07 GMT""},{""version"":""v4"",""created"":""Wed, 2 Feb 1994 16:40:24 GMT""},{""version"":""v5"",""created"":""Fri, 4 Feb 1994 22:54:35 GMT""}]","2009-10-22"
+"hep-th/9302072","M. B. Paranjape","M. B. Paranjape and Robin Ross","Instantons and the Ground State of the Massive Schwinger Model","17 pages, plain tex","Phys.Rev. D48 (1993) 3891-3900","10.1103/PhysRevD.48.3891","UdeM-LPN-TH-93-136","hep-th",,"  We study the massive Schwinger model, quantum electrodynamics of massive,
+Dirac fermions, in 1+1 dimensions; with space compactified to a circle. In the
+limit that transitions to fermion--anti-fermion pairs can be neglected, we
+study the full ground state. We focus on the effect of instantons which mediate
+tunnelling transitions in the induced potential for the dynamical degree of
+freedom in the gauge field.
+","[{""version"":""v1"",""created"":""Tue, 16 Feb 1993 15:09:48 GMT""}]","2009-10-22"

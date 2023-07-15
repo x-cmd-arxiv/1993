@@ -1,0 +1,175 @@
+"comp-gas/9307002","Thorsten Poeschel","V.Buchholtz and T.P\""oschel","A Vectorized Algorithm for Molecular Dynamics of Short Range Interacting
+  Particles","9 pages, 6 figures not included, available on request, Latex",,"10.1142/S0129183193000811","HU-ITP/320","comp-gas nlin.CG",,"  We report on a lattice based algorithm, completely vectorized for molecular
+dynamics simulations. Its algorithmic complexity is of the order $O(N)$, where
+$N$ is the number of particles. The algorithm works very effectively when the
+particles have short range interaction, but it is applicable to each kind of
+interaction. The code was tested on a Cray ymp el in a simulation of flowing
+granular material.
+","[{""version"":""v1"",""created"":""Mon, 19 Jul 1993 14:43:05 GMT""}]","2019-06-05"
+"cond-mat/9307035","Thorsten Poeschel","V.Buchholtz and T.Poeschel","A Vectorized Algorithm for Molecular Dynamics of Short Range Interacting
+  Particles","9 pages, 6 figures, Latex","J. Mod. Phys. C, Vol. 4, 1049 (1993)","10.1142/S0129183193000811","HU-ITP/320","cond-mat",,"  We report on a lattice based algorithm, completely vectorized for molecular
+dynamics simulations. Its algorithmic complexity is of the order O(N), where
+$N$ is the number of particles. The algorithm works very effectively when the
+particles have short range interaction, but it is applicable to each kind of
+interaction. The code was tested on a Cray ymp el in a simulation of flowing
+granular material.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1993 22:23:16 GMT""},{""version"":""v2"",""created"":""Fri, 22 Mar 2002 13:07:04 GMT""}]","2009-10-22"
+"cond-mat/9307036","Florian Gebhard","Florian Gebhard and Andreas Girndt, (Dept.of Physics and Materials
+  Sciences Center, Philipps University, 35032~Marburg, Germany)","Comparison of Variational Approaches for the Exactly Solvable
+  1/r-Hubbard Chain","23 pages + 3 figures available on request; LaTeX under REVTeX 3.0",,"10.1007/BF01314250",,"cond-mat",,"  We study Hartree-Fock, Gutzwiller, Baeriswyl, and combined
+Gutzwiller-Baeriswyl wave functions for the exactly solvable one-dimensional
+$1/r$-Hubbard model. We find that none of these variational wave functions is
+able to correctly reproduce the physics of the metal-to-insulator transition
+which occurs in the model for half-filled bands when the interaction strength
+equals the bandwidth. The many-particle problem to calculate the variational
+ground state energy for the Baeriswyl and combined Gutzwiller-Baeriswyl wave
+function is exactly solved for the~$1/r$-Hubbard model. The latter wave
+function becomes exact both for small and large interaction strength, but it
+incorrectly predicts the metal-to-insulator transition to happen at infinitely
+strong interactions. We conclude that neither Hartree-Fock nor Jastrow-type
+wave functions yield reliable predictions on zero temperature phase transitions
+in low-dimensional, i.e., charge-spin separated systems.
+","[{""version"":""v1"",""created"":""Mon, 19 Jul 1993 12:37:58 GMT""}]","2009-10-22"
+"cond-mat/9307037","Athanas Groshev","Atanas Groshev","Formula for the widths of quantum-Hall-effect plateaus","REVTeX 3.0, pp. 9, (6 PostScript figures on request) preprint: Inst.
+  Theor. Festkorperphysik, Karlsruhe, 29. June 1993",,,,"cond-mat",,"  We derive an empirical formula for the width of quantum Hall effect plateaus
+which is free of adjustable parameters. It describes the integer, fractional
+and $\nu = 0$ (Wigner insulator) quantum Hall effect in single heterojunctions.
+The temperature scale of the existence of these three phenomena is the same as
+the melting temperature of a classical Wigner crystal. We conclude that the
+basic assumption of the current theory of QHE that the plateau width is
+determined by the disorder is highly improbable.
+","[{""version"":""v1"",""created"":""Mon, 19 Jul 1993 14:27:43 GMT""}]","2007-05-23"
+"gr-qc/9307022","Stephen Lau","James. W. York, Jr","Energy, Temperature, and Entropy of Black Holes Dressed with Quantum
+  Fields","(In the revised version some problematic fonts have been removed and
+  some carriage returns added. There are no changes to the text.), 11 pages,
+  IFP-469",,,,"gr-qc",,"  A deeper understanding of the thermal properties of black holes than we
+presently have depends to a large degree on obtaining a firmer grasp of the
+properties of the entropy. For such an understanding we must at least know the
+basic relations among entropy, energy, and temperature of a black hole in
+thermal equilibrium with quantized matter fields. Limiting attention to
+spherical, uncharged (``Schwarzschild"") holes, we will find that the basic
+Bekenstein-Hawking relations have to be generalized when the hole is dressed by
+quantum fields. Though this fact is not surprising, the corrections contain
+surprises and are very instructive. My purpose here is to discuss several
+aspects of this problem and to display some concrete results within the
+framework of the semi-classical theory of quantum fields in curved spacetime.
+","[{""version"":""v1"",""created"":""Mon, 19 Jul 1993 11:10:43 GMT""},{""version"":""v2"",""created"":""Tue, 27 Jul 1993 18:52:43 GMT""}]","2012-08-27"
+"hep-ph/9307292","Takahiro Kubota","Takahiro Kubota, Takeshi Kurimoto and Eiichi Takasugi","Twisting Toroidal Magnetic Fields and the Seasonal Oscillation of the
+  Solar Neutrino Flux II","24 pages plus 10 figures, OS-GE 33-93, LaTex",,,,"hep-ph",,"  An intriguing possibility is explored that the solar neutrino data could be
+used as a probe to the magnetic field structure in the sun. Various cyclic
+phenomena occurring on the surface of the sun have been accounted for by the
+so-called dynamo-mechanism. According to this, a self-generating mechanism of
+solar cyclic activities gives rise to twisting toroidal magnetic fields in the
+convective zone. Although its magnitude is not known, the orientation of the
+twist is certainly opposite in northern and southern hemispheres of the sun. We
+show by numerical calculation that the solar neutrino flux, being sensitive to
+the twist, could exhibit observable seasonal oscillation, provided that the
+twist is sizable in magnitude and the neutrinos have reasonably large magnetic
+moments. This oscillation is ascribed to the fact that the earth's orbit is
+slightly inclined to the sun's equator, and that solar neutrinos pass through
+the northern (southern) hemisphere of the sun around September (March). We also
+argue that similar seasonal oscillation could be exhibited in the azimuthal
+asymmetry of recoiling electrons scattered by the solar neutrinos which are
+expected to be observed in the super-Kamiokande detector.
+","[{""version"":""v1"",""created"":""Mon, 19 Jul 1993 04:48:10 GMT""}]","2007-05-23"
+"hep-ph/9307293",,"Fabio Zwirner","The SUSY World","23 pages, 6 figures (not included), CERN-TH.6951/93, LATEX using
+  worldsci.sty macro, hardcopy with figures can be sent via air-mail upon
+  request",,,,"hep-ph",,"  Summary Talk of the Workshop `Properties of SUSY particles' Erice, September
+28 -- October 4, 1992.
+","[{""version"":""v1"",""created"":""Mon, 19 Jul 1993 08:12:02 GMT""}]","2007-05-23"
+"hep-ph/9307294","Dudas","E.A.Dudas","Composite Supersymmetric Axion-Dilaton-Dilatino System and the breaking
+  of Supersymmetry","20 pages, LPTHE 93/23","Phys.Rev. D49 (1994) 1109-1116","10.1103/PhysRevD.49.1109",,"hep-ph",,"  The spontaneous breakdown of the scale, the chiral and the superconformal
+symmetries for a hidden $SU(N)$ gauge group is studied in an effective
+lagrangean approach. The relevant low-energy degrees of freedom are taken to be
+the composite Goldstone particles associated with these three broken
+symmetries. Supersymmetry is spontaneously broken in the large $N$ limit and
+soft breaking terms in the observable sector are generated, together with
+nonrenormalisable Nambu-Jona-Lasinio type interactions.
+","[{""version"":""v1"",""created"":""Mon, 19 Jul 1993 15:43:11 GMT""}]","2009-10-22"
+"hep-ph/9307295",,"J. Bernabeu, J. Korner, A. Pilaftsis, K. Schilcher","Universality-Breaking Effects in Leptonic Z Decays","MZ-TH/93-04 #, LaTeX, 14 p. (2 Figs)","Phys.Rev.Lett. 71 (1993) 2695-2698","10.1103/PhysRevLett.71.2695",,"hep-ph",,"  We analyze the possibility of universality violation in diagonal leptonic
+decays of the $Z$ boson, in the context of interfamily ""see-saw"" models. In a
+minimal extension of the Standard Model with right-handed neutrino fields, we
+find that universality-breaking effects increase quadratically with the heavy
+Majorana neutrino mass and may be observed in the running $LEP$ experiments.
+","[{""version"":""v1"",""created"":""Mon, 19 Jul 1993 14:22:00 GMT""}]","2009-10-22"
+"hep-th/9307111","Kresimir Demeterfi","G. Bhanot, K. Demeterfi and I. Klebanov","$1+1$-Dimensional Large $N$ QCD coupled to Adjoint Fermions","22 pages + 9 figures (available by request from
+  kresimir@puhep1.princeton.edu), uses phyzzx.tex + tables.tex PUPT-1413,
+  IASSNS-HEP-93/42","Phys.Rev. D48 (1993) 4980-4990","10.1103/PhysRevD.48.4980",,"hep-th hep-lat",,"  We consider 1+1-dimensional QCD coupled to Majorana fermions in the adjoint
+representation of the gauge group $SU(N)$. Pair creation of partons (fermion
+quanta) is not suppressed in the large-$N$ limit, where the glueball-like bound
+states become free. In this limit the spectrum is given by a linear \lc\ Schr\""
+odinger equation, which we study numerically using the discretized \lcq. We
+find a discrete spectrum of bound states, with the logarithm of the level
+density growing approximately linearly with the mass. The wave function of a
+typical excited state is a complicated mixture of components with different
+parton numbers. A few low-lying states, however, are surprisingly close to
+being eigenstates of the parton number, and their masses can be accurately
+calculated by truncated diagonalizations.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1993 18:14:22 GMT""}]","2009-10-22"
+"hep-th/9307112","Takaaki Hashimoto","Hiroshi Yamamoto, Akihisa Hayashi, Takaaki Hashimoto and Minoru Horibe","Towards a Canonical Formalism of Field Theory on Discrete Spacetime","33 pages, REVTEX Figure is not added. Please send e-mail to
+  ""hasimoto@newton.apphy.fukui-u.ac.jp"" for request",,,,"hep-th",,"  It is shown that the difficulties in formulating the quantum field theory on
+discrete spacetime appear already in classical dynamics of one degree of
+freedom on discrete time. The difference equation of motion which maintains a
+conserved quantity like energy has a very restricted form that is not probably
+derived by the least action principle. On the other hand, the classical
+dynamics is possible to be canonically formulated and quantized, if the
+equation is derived from an action. The difficulties come mainly from this
+incompatibility of the conserved quantity and the action principle. We
+formulate a quantum field theory canonically on discrete spacetime in the case
+where the field equation is derived from an action, though there may be no
+exactly conserved quantity. It may, however, be expected that a conserved
+quantity exists for a low ""energy"" region.
+","[{""version"":""v1"",""created"":""Mon, 19 Jul 1993 05:16:37 GMT""}]","2007-05-23"
+"hep-th/9307113",,"Ken Kiers and Nathan Weiss","Scattering From a Two Dimensional Array of Flux Tubes: A Study of The
+  Validity of Mean Field Theory","23 pages, University of British Columbia Preprint UBCTP93-010","Phys.Rev. D49 (1994) 2081-2091","10.1103/PhysRevD.49.2081",,"hep-th cond-mat hep-ph",,"  Mean Field Theory has been extensively used in the study of systems of anyons
+in two spatial dimensions. In this paper we study the physical grounds for the
+validity of this approximation by considering the Quantum Mechanical scattering
+of a charged particle from a two dimensional array of magnetic flux tubes. The
+flux tubes are arranged on a regular lattice which is infinitely long in the
+``$y$'' direction but which has a (small) finite number of columns in the
+``$x$'' direction. Their physical size is assumed to be infinitesimally small.
+We develop a method for computing the scattering angle as well as the
+reflection and transmission coefficients to lowest order in the Aharonov--Bohm
+interaction. The results of our calculation are compared to the scattering of
+the same particle from a region of constant magnetic field whose magnitude is
+equal to the mean field of all the flux tubes. For an incident plane wave, the
+Mean Field approximation is shown to be valid provided the flux in each tube is
+much less than a single flux quantum. This is precisely the regime in which
+Mean Field Theory for anyons is expected to be valid. When the flux per tube
+becomes of order 1, Mean Field Theory is no longer valid.
+","[{""version"":""v1"",""created"":""Mon, 19 Jul 1993 06:04:00 GMT""},{""version"":""v2"",""created"":""Mon, 19 Jul 1993 06:24:00 GMT""},{""version"":""v3"",""created"":""Tue, 19 Oct 1993 18:39:00 GMT""}]","2009-10-22"
+"hep-th/9307114","Alexander A. Voronov","T. Kimura, J. Stasheff, and A. A. Voronov","On operad structures of moduli spaces and string theory","33 pages (An elaboration of minimal area metrics and new references
+  are added)","Commun.Math.Phys. 171 (1995) 1-25","10.1007/BF02103769","Preprint RIMS-936","hep-th alg-geom math.AG",,"  Recent algebraic structures of string theory, including homotopy Lie
+algebras, gravity algebras and Batalin-Vilkovisky algebras, are deduced from
+the topology of the moduli spaces of punctured Riemann spheres. The principal
+reason for these structures to appear is as simple as the following. A
+conformal field theory is an algebra over the operad of punctured Riemann
+surfaces, this operad gives rise to certain standard operads governing the
+three kinds of algebras, and that yields the structures of such algebras on the
+(physical) state space naturally.
+","[{""version"":""v1"",""created"":""Mon, 19 Jul 1993 08:52:24 GMT""},{""version"":""v2"",""created"":""Mon, 26 Jul 1993 05:40:22 GMT""},{""version"":""v3"",""created"":""Thu, 16 Sep 1993 19:48:47 GMT""},{""version"":""v4"",""created"":""Wed, 20 Oct 1993 21:42:27 GMT""},{""version"":""v5"",""created"":""Tue, 15 Mar 1994 01:41:42 GMT""}]","2009-10-22"
+"hep-th/9307115","Akishi Kato","T. Nakatsu, A. Kato, M. Noumi and T. Takebe","Topological String, Matrix Integral, and Singularity Theory","12 pages, RIMS 934","Phys.Lett. B322 (1994) 192-197","10.1016/0370-2693(94)91106-1",,"hep-th",,"  We study the relation between topological string theory and singularity
+theory using the partition function of $A_{N-1}$ topological string defined by
+matrix integral of Kontsevich type. Genus expansion of the free energy is
+considered, and the genus $g=0$ contribution is shown to be described by a
+special solution of $N$-reduced dispersionless KP system. We show a universal
+correspondences between the time variables of dispersionless KP hierarchy and
+the flat coordinates associated with versal deformations of simple
+singularities of type $A$. We also study the behavior of topological matter
+theory on the sphere in a topological gravity background, to clarify the role
+of the topological string in the singularity theory. Finally we make some
+comment on gravitational phase transition.
+","[{""version"":""v1"",""created"":""Mon, 19 Jul 1993 11:26:57 GMT""}]","2009-10-22"
+"hep-th/9307116","Saburo Higuchi","Saburo Higuchi, Chigak Itoi, Shinsuke Nishigaki and Norisuke Sakai","Nonlinear Renormalization Group Equation for Matrix Models","12 pages, TIT/HEP-228, NUP-A-93-13 ( a few corrections in formulae,
+  the conclusion not changed)","Phys.Lett. B318 (1993) 63-72","10.1016/0370-2693(93)91785-L",,"hep-th",,"  An exact renormalization group equation is derived for the free energy of
+matrix models. The renormalization group equation turns out to be nonlinear for
+matrix models, as opposed to linear for vector models. An algorithm for
+determining the critical coupling constant and the critical exponent is
+obtained. As concrete examples, one-matrix models with one and two coupling
+constants are analyzed and the exact values of the critical coupling constant
+and the associated critical exponent are found.
+","[{""version"":""v1"",""created"":""Mon, 19 Jul 1993 12:45:22 GMT""},{""version"":""v2"",""created"":""Wed, 20 Oct 1993 11:21:08 GMT""}]","2009-10-22"
+"hep-th/9307117","Peter Landshoff","P V Landshoff and P van Nieuwenhuizen","Canonical Quantisation in n.A=0 gauges","7 pages, DAMTP 93-33, ITP-SB-93-38","Phys.Rev. D50 (1994) 4157-4161","10.1103/PhysRevD.50.4157",,"hep-th hep-ph",,"  We give a unified derivation of the propagator in the gauges $n.A=0$ for
+$n^2$ timelike, spacelike or lightlike. We discuss the physical states and
+other physical questions.
+","[{""version"":""v1"",""created"":""Mon, 19 Jul 1993 15:26:56 GMT""}]","2009-10-22"

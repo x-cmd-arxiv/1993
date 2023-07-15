@@ -1,0 +1,469 @@
+"alg-geom/9312003","Gwoho Liu","Ziv Ran","Thickening Calabi-Yau moduli spaces","9 pages, amstex2.1",,,,"alg-geom math.AG",,"  We describe a kind of deformation of the anti-DeRham algebra on a Calabi-Yau
+manifold $X$. These are in 1-1 correspondence with the total cohomology $\oplus
+H^i (X, \C)$.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 18:58:09 GMT""}]","2008-02-03"
+"astro-ph/9312011",,"P Gondolo","Dark Matter Annihilations in the Large Magellanic Cloud","2pp, plain TeX, 0","Nucl.Phys.Proc.Suppl. 35 (1994) 148-149","10.1016/0920-5632(94)90234-8",,"astro-ph",,"  The flat rotation curve obtained for the outer star clusters of the Large
+Magellanic Cloud is suggestive of an LMC dark matter halo. From the composite
+HI and star cluster rotation curve, I estimate the parameters of an isothermal
+dark matter halo added to a `maximum disk.' I then examine the possibility of
+detecting high energy gamma-rays from non-baryonic dark matter annihilations in
+the central region of the Large Magellanic Cloud.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 16:49:32 GMT""}]","2009-10-22"
+"astro-ph/9312012","Andrew Matacz","Bei-lok Hu and Andrew Matacz","Quantum Noise in Gravitation and Cosmology","Latex 25 pages. Invited talk delivered by B. L. Hu at the Workshop on
+  Noise and Order, Los Alamos National Laboratory, September, 1993",,,,"astro-ph gr-qc",,"  We begin by enumerating the many processes in gravitation and cosmology where
+quantum noise and fluctuations play an active role such as particle creation,
+galaxy formation and entropy generation. Using the influence functional we
+first explain the origin and nature of noise in quantum systems interacting
+with an environment at a finite temperature. With linear coupling to nonohmic
+baths or at low temperatures, colored noise and nonlocal dissipation would
+appear and for nonlinear coupling multiplicative noise is generally expected.
+We derive a generalized fluctuation- dissipation relation for these systems.
+Then using a model of quantum Brownian motion in a bath of parametric
+oscillators, we show how noise and dissipation can be related to the Bogolubov
+coefficients of parametric amplification, which in the second-quantized sense,
+depicts cosmological particle creation in a dynamic background. We then
+calculate the influence functional and study the noise characteristics of
+quantum fields as probed by a particle detector. As examples, we show that an
+uniformly- accelerated observer in flat space or an inertial observer in an
+exponentially expanding (de Sitter) universe would see a thermal particle
+spectrum, recovering the well-known results of Unruh and Gibbons and Hawking ,
+as inspired by the Hawking effect in black holes. We show how this method can
+be effectively used for treating the backreaction of particle creation and
+other quantum field processes on the
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 07:01:41 GMT""}]","2007-05-23"
+"cond-mat/9312023","Jeff Miller","J. Miller and B. Derrida","Weak Disorder Expansion for the Anderson Model on a Tree","24 pages, latex, 7 figures on request, SPhT/T93/136",,"10.1007/BF02186867",,"cond-mat",,"  We show how certain properties of the Anderson model on a tree are related to
+the solutions of a non-linear integral equation. Whether the wave function is
+extended or localized, for example, corresponds to whether or not the equation
+has a complex solution. We show how the equation can be solved in a weak
+disorder expansion. We find that, for small disorder strength $\lambda$, there
+is an energy $E_c(\lambda )$ above which the density of states and the
+conducting properties vanish to all orders in perturbation theory. We compute
+perturbatively the position of the line $E_c(\lambda )$ which begins, in the
+limit of zero disorder, at the band edge of the pure system. Inside the band of
+the pure system the density of states and conducting properties can be computed
+perturbatively. This expansion breaks down near $E_c(\lambda )$ because of
+small denominators. We show how it can be resummed by choosing the appropriate
+scaling of the energy. For energies greater than $E_c(\lambda )$ we show that
+non-perturbative effects contribute to the density of states but have been
+unable tell whether they also contribute to the conducting properties.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 16:58:00 GMT""}]","2009-10-22"
+"cond-mat/9312024","Angus MacKinnon","Angus MacKinnon","Critical Exponents for the Metal--Insulator Transition in Disordered
+  Systems","8 pages + figures, LaTeX",,"10.1088/0953-8984/6/13/012",,"cond-mat",,"  Non-standard .sty file `equations.sty' now included inline. The critical
+exponents of the metal--insulator transition in disordered systems have been
+the subject of much published work containing often contradictory results.
+Values ranging between $\half$ and $2$ can be found even in the recent
+literature. In this paper the results of a long term study of the transition
+are presented. The data have been calculated with sufficient accuracy (0.2\%)
+that the calculated exponent can be quoted as $s=\nu=1.54 \pm 0.08$ with
+confidence. The reasons for the previous scatter of results is discussed.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 16:57:07 GMT""},{""version"":""v2"",""created"":""Wed, 8 Dec 1993 10:25:56 GMT""}]","2009-10-22"
+"cond-mat/9312025","Claudius Gros","Roser Valenti","Fermi-surface properties of the perovskite superconductors Claudius Gros","9 pages REVTEX",,,,"cond-mat",,"  We calculate Fermi-surface properties of the Cuprate superconductors within
+the three-band Hubbard model using a cluster expansion for the proper
+self-energy. The Fermi-surface topology is in agreement with angular-resolved
+photoemission data for dopings $\sim 20\%$. We discuss possible violations of
+the Luttinger sum-rule for smaller dopings and the role of van-Hove
+singularities in the density of states of the Zhang-Rice singlets. We calculate
+the shift in the chemical potential upon doping and find quantitative agreement
+with recent experiments.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 17:46:49 GMT""},{""version"":""v2"",""created"":""Tue, 7 Dec 1993 14:26:22 GMT""}]","2008-02-03"
+"cond-mat/9312026",,"Sudha Gopalan, T. M. Rice and M. Sigrist","Spin-ladders with spin gaps: A description of a class of cuprates","21 pages, 5 figures upon request, REVTEX, ETH-TH/93-39",,"10.1103/PhysRevB.49.8901",,"cond-mat",,"  We investigate the magnetic properties of the Cu-O planes in stoichiometric
+Sr$_{n-1}$Cu$_{n+1}$O$_{2n}$ (n=3,5,7,...) which consist of CuO double chains
+periodically intergrown within the CuO$_2$ planes. The double chains break up
+the two-dimensional antiferromagnetic planes into Heisenberg spin ladders with
+$n_r=\frac{1}{2}(n-1)$ rungs and $n_l=\frac{1}{2}(n+1)$ legs and described by
+the usual antiferromagnetic coupling J inside each ladder and a weak and
+frustrated interladder coupling J$^\prime$. The resulting lattice is a new
+two-dimensional trellis lattice. We first examine the spin excitation spectra
+of isolated quasi one dimensional Heisenberg ladders which exhibit a gapless
+spectra when $n_r$ is even and $n_l$ is odd ( corresponding to n=5,9,...) and a
+gapped spectra when $n_r$ is odd and $n_l$ is even (corresponding to
+n=3,7,...). We use the bond operator representation of quantum $S=\frac{1}{2}$
+spins in a mean field treatment with self-energy corrections and obtain a spin
+gap of $\approx \frac{1}{2} J$ for the simplest single rung ladder (n=3), in
+agreement with numerical estimates.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 21:17:00 GMT""}]","2009-10-22"
+"cond-mat/9312027","Steve Teitel","Jong-Rim Lee and S. Teitel","Driven Diffusion in the Two-Dimensional Lattice Coulomb Gas; A Model for
+  Flux Flow in Superconducting Networks","25 pages, 7 figures (available from stte@pas.rochester.edu),
+  RevTex3.0, URST121","Phys. Rev. B 50, 3149 (1994)","10.1103/PhysRevB.50.3149",,"cond-mat",,"  We carry out driven diffusion Monte Carlo simulations of the two dimensional
+classical lattice Coulomb gas in an applied uniform electric field, as a model
+for vortex motion due to an applied d.c. current, in a periodic superconducting
+network. A finite-size version of dynamic scaling is used to extract the
+dynamic critical exponent z, and infer the non-linear response at the
+transition temperature. We consider the f=0 and f=1/2 cases, corresponding to
+no applied magnetic field, and to one half flux quantum per unit cell of the
+network respectively.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 20:39:58 GMT""}]","2009-10-22"
+"cond-mat/9312028","Malte Henkel","J.F.F. Mendes, Ronald Dickman, Malte Henkel and M. Ceu Marques","Generalized Scaling for Models with Multiple Absorbing States","Latex 9 pages","J. Phys. A27, 3019-3028 (1994)","10.1088/0305-4470/27/9/017",,"cond-mat hep-lat",,"  At a continuous transition into a nonunique absorbing state, particle systems
+may exhibit nonuniversal critical behavior, in apparent violation of
+hyperscaling. We propose a generalized scaling theory for dynamic critical
+behavior at a transition into an absorbing state, which is capable of
+describing exponents which vary according to the initial configuration. The
+resulting hyperscaling relation is supported by simulations of two lattice
+models.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 23:50:58 GMT""}]","2009-10-22"
+"cond-mat/9312029",,"Bernd A. Berg, Ulrich H.E. Hansmann and Tarik Celik","Grundstate Properties of the 3D Ising Spin Glass","LATEX 9pages,figures upon request ,SCRI-93",,"10.1103/PhysRevB.50.16444",,"cond-mat",,"  We study zero--temperature properties of the 3d Edwards--Anderson Ising spin
+glass on finite lattices up to size $12^3$. Using multicanonical sampling we
+generate large numbers of groundstate configurations in thermal equilibrium.
+Finite size scaling with a zero--temperature scaling exponent $y = 0.74 \pm
+0.12$ describes the data well. Alternatively, a descriptions in terms of Parisi
+mean field behaviour is still possible. The two scenarios give significantly
+different predictions on lattices of size $\ge 12^3$.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 03:16:44 GMT""}]","2009-10-22"
+"cond-mat/9312030","Roland Ketzmerick","R. Fleischmann, T. Geisel, and R. Ketzmerick","Quenched and Negative Hall Effect in Periodic Media: Application to
+  Antidot Superlattices","10 pages, 4 figs on request, RevTeX3.0, Europhysics Letters, in press",,"10.1209/0295-5075/25/3/011",,"cond-mat chao-dyn nlin.CD",,"  We find the counterintuitive result that electrons move in OPPOSITE direction
+to the free electron E x B - drift when subject to a two-dimensional periodic
+potential. We show that this phenomenon arises from chaotic channeling
+trajectories and by a subtle mechanism leads to a NEGATIVE value of the Hall
+resistivity for small magnetic fields. The effect is present also in
+experimentally recorded Hall curves in antidot arrays on semiconductor
+heterojunctions but so far has remained unexplained.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 12:19:00 GMT""}]","2009-10-22"
+"cond-mat/9312031","Claudius Gros","Claudius Gros, Wolfgang Wenzel, Roser Valenti, Georg Huelsenbeck,
+  Joachim Stolze","The Mott-Hubbard Transition on the D=infinity Bethe Lattice","Replaced with the published version","Europhys. Lett., Vol. 27, 299 (1994)","10.1209/0295-5075/27/4/008",,"cond-mat.str-el",,"  In view of a recent controversy we investigated the Mott-Hubbard transition
+in D=infinity with a novel cluster approach. i) We show that any truncated
+Bethe lattice of order n can be mapped exactly to a finite Hubbard-like
+cluster. ii) We evaluate the self-energy numerically for n=0,1,2 and compare
+with a series of self-consistent equation-of-motion solutions. iii) We find the
+gap to open continously at the critical U_c~2.5t* (t = t* / sqrt{4d}). iv) A
+low-energy theory for the Mott-Hubbard transition is developed and relations
+between critical exponents are presented.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 14:14:50 GMT""},{""version"":""v2"",""created"":""Mon, 28 Aug 2006 07:42:42 GMT""}]","2009-10-22"
+"cond-mat/9312032","John Cardy","John Cardy","Continuously Varying Exponents for Oriented Self-Avoiding Walks","15 pages, plain TeX, 2 uuencoded postscript figures, OUTP-93-41S",,"10.1016/0550-3213(94)90337-9",,"cond-mat hep-th",,"  A two-dimensional conformal field theory with a conserved $U(1)$ current
+$\vec J$, when perturbed by the operator ${\vec J}^{\,2}$, exhibits a line of
+fixed points along which the scaling dimensions of the operators with non-zero
+$U(1)$ charge vary continuously. This result is applied to the problem of
+oriented polymers (self-avoiding walks) in which the short-range repulsive
+interactions between two segments depend on their relative orientation. While
+the exponent $\nu$ describing the fractal dimension of such walks remains
+fixed, the exponent $\gamma$, which gives the total number $\sim
+N^{\gamma-1}\mu^N$ of such walks, is predicted to vary continuously with the
+energy difference.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 14:32:12 GMT""}]","2009-10-22"
+"funct-an/9312002",,"Michael Frank","Direct integrals and Hilbert W*-Modules","20 pages, LATEX file, preprint 23/91, NTZ, Univ. Leipzig, Germany","Problems in algebra, geometry and discrete mathematics (in
+  russian), Moscow State University, Fakulty of Mechanics and Mathematics,
+  1992, 162-177",,,"funct-an math.OA",,"  Investigating the direct integral decomposition of von Neumann algebras of
+bounded module operators on self-dual Hilbert W*-moduli an equivalence
+principle is obtained which connects the theory of direct disintegration of von
+Neumann algebras on separable Hilbert spaces and the theory of von Neumann
+representations on self-dual Hilbert {\bf A}-moduli with countably generated
+{\bf A}-pre-dual Hilbert {\bf A}-module over commutative separable W*-algebras
+{\bf A}. Examples show posibilities and bounds to find more general relations
+between these two theories, (cf. R. Schaflitzel's results). As an application
+we prove a Weyl--Berg--Murphy type theorem: For each given commutative
+W*-algebra {\bf A} with a special approximation property (*) every normal
+bounded {\bf A}-linear operator on a self-dual Hilbert {\bf A}-module with
+countably generated {\bf A}-pre-dual Hilbert {\bf A}-module is decomposable
+into the sum of a diagonalizable normal and of a ''compact'' bounded {\bf
+A}-linear operator on that module.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 16:39:00 GMT""}]","2008-02-03"
+"gr-qc/9312013","Joakim Hallin","J. Hallin","Representations of the $SU(N)$ $T$-algebra and the loop representation
+  in $1+1$-dimensions","15 pages, LaTeX, 1 postscript figure included, uses epsf.sty,
+  G\""oteborg ITP 93-39","Class.Quant.Grav.11:1615-1630,1994","10.1088/0264-9381/11/7/005",,"gr-qc",,"  We consider the phase-space of Yang-Mills on a cylindrical space-time ($S^1
+\times {\bf R}$) and the associated algebra of gauge-invariant functions, the
+$T$-variables. We solve the Mandelstam identities both classically and
+quantum-mechanically by considering the $T$-variables as functions of the
+eigenvalues of the holonomy and their associated momenta. It is shown that
+there are two inequivalent representations of the quantum $T$-algebra. Then we
+compare this reduced phase space approach to Dirac quantization and find it to
+give essentially equivalent results. We proceed to define a loop representation
+in each of these two cases. One of these loop representations (for $N=2$) is
+more or less equivalent to the usual loop representation.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 14:50:59 GMT""}]","2010-04-06"
+"hep-lat/9312029",,"A. Irb\""ack","Hybrid Monte Carlo simulation of polymer chains","13 pages, single postscript file, uuencoded form, Lund Preprint LU-TP
+  93-20","J. Chem. Phys. 101 (1994) 1661-1667","10.1063/1.467787",,"hep-lat",,"  We develop the hybrid Monte Carlo method for simulations of single
+off-lattice polymer chains. We discuss implementation and choice of simulation
+parameters in some detail. The performance of the algorithm is tested on models
+for homopolymers with short- or long-range self-repulsion, using chains with
+$16\le N\le 512$ monomers. Without excessive fine tuning, we find that the
+computational cost grows as $N^{2+z^\prime}$ with $0.64<z^\prime<0.84$. In
+addition, we report results for the scaling of the end-to-end distance,
+$r_{1N}\sim N^\nu(\ln N)^{-\alpha}$.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 17:00:54 GMT""}]","2009-10-22"
+"hep-lat/9312030","Bo Soderberg","B. J\""onsson, C. Peterson and B. S\""oderberg","A Variational Approach to the Structure and Thermodynamics of Linear
+  Polyelectrolytes with Coulomb and Screened Coulomb Interactions","41 pages, Preprint LU TP 93-15 (uuencoded PostScript file; figures
+  removed)",,,,"hep-lat",,"  A variational approach is used to calculate free energy and conformational
+properties in polyelectrolytes. The true bond and Coulomb potentials are
+approximated by a trial isotropic harmonic energy containing monomer-monomer
+force constants as variational parameters. By a judicious choice of
+representation and the use of incremental matrix inversion, an efficient and
+fast-convergent iterative algorithm is constructed, that optimizes the free
+energy. The computational demand scales as N^3. The method has the additional
+advantage that the entropy is easily computed. An analysis of the high and low
+temperature limits is given. Also, the variational formulation is shown to
+respect the appropriate virial identities. The accuracy of the approximations
+introduced are tested against Monte Carlo simulations for problem sizes ranging
+from N=20 to 1024. Very good performance is obtained for chains with unscreened
+Coulomb interactions. The addition of salt is described through a screened
+Coulomb interaction, for which the accuracy in a certain parameter range turns
+out to be inferior to the unscreened case. The reason is that the isotropic
+Gaussian Ansatz becomes less efficient with shorter range interactions. As a
+by-product a very efficient Monte Carlo algorithm was developed for
+comparisons, providing high statistics data for very large sizes - 2048
+monomers.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 18:30:42 GMT""}]","2009-09-25"
+"hep-lat/9312031","Stefan Boettcher","C. M. Bender and S. Boettcher","Determination of ${\bf f(\infty)}$ from the Asymptotic Series for ${\bf
+  f(x)}$ About ${\bf x=0}$","plain TEX, 7 pages, 7 figures included, WASH-U-HEP-93","J.Math.Phys. 35 (1994) 1914-1921","10.1063/1.530577",,"hep-lat",,"  A difficult and long-standing problem in mathematical physics concerns the
+determination of the value of $f(\infty)$ from the asymptotic series for $f(x)$
+about $x\!=\!0$. In the past the approach has been to convert the asymptotic
+series to a sequence of Pad\'e approximants $\{P^n_n(x)\}$ and then to evaluate
+these approximants at $x\!=\!\infty$. Unfortunately, for most physical
+applications the sequence $\{P^n_n(\infty)\}$ is slowly converging and does not
+usually give very accurate results. In this paper we report the results of
+extensive numerical studies for a large class of functions $f(x)$ associated
+with strong-coupling lattice approximations. We conjecture that for large $n$,
+$P^n_n(\infty)\!\sim\!f(\infty)+B/\ln n $. A numerical fit to this asymptotic
+behavior gives an accurate extrapolation to the value of $f(\infty )$.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 18:58:31 GMT""}]","2009-10-22"
+"hep-lat/9312032","David Henty","D.S. Henty","Hopping Parameter Analysis of Leptonic and Semi-Leptonic Heavy-Light
+  Decays","UKQCD Collaboration, at the Lattice '93 Conference. 3 pages,
+  Edinburgh preprint 93/532","Nucl.Phys.Proc.Suppl. 34 (1994) 468-470",,,"hep-lat",,"  We study leptonic and semi-leptonic decays of D and B mesons. Use of the
+Hopping Parameter Expansion (HPE) for two-point functions allows us
+continuously to vary the pseudoscalar mass from below m_D up towards m_B. We
+compute the pseudoscalar decay constants f_D and f_B, and observe consistency
+with the value calculated in the static limit. {}From the measurement of
+three-point functions we compute the matrix element relevant to the decay \bar
+B -> D l \bar nu_l and extract the Isgur-Wise function xi(v.v'). The HPE
+enables us freely to vary the initial state pseudoscalar mass at constant v.v',
+and we investigate the 1/m_Q corrections to the heavy-quark limit.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 14:12:41 GMT""}]","2007-05-23"
+"hep-ph/9312223",,"Dirk Kreimer","Tensor Integrals for Two Loop Standard Model Calculations","12 pages (LATEX)","Mod.Phys.Lett. A9 (1994) 1105-1120","10.1142/S0217732394000927",,"hep-ph",,"  We give a new method for the reduction of tensor integrals to finite integral
+representations and UV divergent analytic expressions. This includes a new
+method for the handling of the gamma-algebra. TYPO IN EQUATION (5) CORRECTED,
+MACROS REORDERED.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 20:15:00 GMT""},{""version"":""v2"",""created"":""Mon, 6 Dec 1993 22:49:00 GMT""},{""version"":""v3"",""created"":""Tue, 7 Dec 1993 19:27:00 GMT""},{""version"":""v4"",""created"":""Fri, 7 Jan 1994 17:11:00 GMT""},{""version"":""v5"",""created"":""Sat, 8 Jan 1994 01:37:00 GMT""},{""version"":""v6"",""created"":""Sat, 8 Jan 1994 19:32:00 GMT""}]","2009-10-22"
+"hep-ph/9312230","Paul Frampton","Paul H. Frampton and Rabindra N. Mohapatra","Partial Derivation of Transformation Properties of Quarks and Leptons","9 pages, UMDHEP 94-72 and IFP-487-UNC","Phys.Rev. D50 (1994) 3569-3571","10.1103/PhysRevD.50.3569",,"hep-ph",,"  Under the assumptions that $SU(3)_c\times U(1)_Y \times G^{\prime}$ with
+$G^{\prime}$ simple is a local symmetry group at high energies, that color is
+parity-conserving, and the Y-charges are irreducible, we show that anomaly
+constraints imply the minimal set of fermions is fifteen in number. Given this
+minimal set, we further show that $G^{\prime}$ must be $SU(2)$ and the unbroken
+gauge symmetry is {\it either} color {\it or} the product of color with
+electric charge.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 16:08:31 GMT""}]","2009-10-22"
+"hep-ph/9312231","Seiji Matsumoto","K.Hagiwara, S.Matsumoto, and C.S.Kim","Electroweak Radiative Corrections","Plenary talk K. Hagiwara at the 14'th International Workshop on Weak
+  Interactions and Neutrinos (revised); 25 pages, LaTeX KEK-TH-369, SNUTP
+  93-50, YUMS 93-19, KEK preprint 93-108",,,,"hep-ph",,"  A new framework to study electroweak physics at one-loop level in general
+${\rm SU(2)_L \times U(1)_Y}$ theories is introduced. It separates the 1-loop
+corrections into two pieces: process specific ones from vertex and box
+contributions and the universal ones due to contributions to the gauge boson
+propagators. The latter are parametrized in terms of four effective form
+factors, $\bar{e}^2(q^2)$, $\bar{s}^2(q^2)$, $\bar{g}_Z^2(q^2)$, and
+$\bar{g}_W^2(q^2)$, correspondingly to $\gamma\gamma$, $\gamma Z$, $ZZ$, and
+$WW$ propagators. By assuming only the standard model contributions to the
+process specific corrections, the magnitudes of the four form factors are
+determined at $q^2=0$ and at $q^2=m_Z^2$ from all available precision
+experiments. These values are then compared systematically with the predictions
+of the ${\rm SU(2)_L \times U(1)_Y}$ theories. No deviation from the standard
+model has been identified. Plausible range of the top quark mass is then
+obtained for a given Higgs boson mass and $\alpha_s$ .
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 07:27:56 GMT""},{""version"":""v2"",""created"":""Wed, 22 Dec 1993 15:54:58 GMT""}]","2008-02-03"
+"hep-ph/9312232",,"V. Barger and Ernest Ma","Natural Conservation of R Parity in Supersymmetry","13 pages, MAD/PH/811, UCRHEP-T120 (Dec 1993)","Phys.Rev.D51:1332-1336,1995","10.1103/PhysRevD.51.1332",,"hep-ph",,"  Since baryon number B and lepton number L are no longer automatically
+conserved once the standard model is extended to include supersymmetry, the
+usually assumed conservation of R parity is an imposed condition. For a more
+satisfactory realization of supersymmetry, we propose here a new model which
+conserves R automatically. It is unifiable under SO(14) and has exotic fermions
+at the 100 GeV scale. One important result is the enhancement of the
+Higgs-boson decay rates into two gluons and into two photons by factors of 25
+and 15 respectively.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 20:49:08 GMT""}]","2009-09-15"
+"hep-ph/9312233",,"Isard Dunietz and Joao M. Soares","Direct CP violation in b -> d J/\psi decays","10 pages, Fermilab-pub-93/307-T","Phys.Rev.D49:5904-5907,1994","10.1103/PhysRevD.49.5904",,"hep-ph",,"  We investigate the possibility of observing direct CP violation in
+self-tagging B-meson decays of the type b -> d J/\psi. The CP asymmetry can be
+generated due to strong or electromagnetic scattering in the final state, or
+due to long distance effects. The first two contributions give asymmetries of a
+few 10^(-3), in the standard model. The long distance effects are hard to
+estimate, but it cannot be excluded that they yield asymmetries of about 1%.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 22:31:23 GMT""}]","2010-11-01"
+"hep-ph/9312234",,"U. Aglietti","Cancellation of power enhancements in non-spectator decays","13 pages, LaTex version 2.09","Phys.Lett. B325 (1994) 473-480","10.1016/0370-2693(94)90042-6","SISSA(ISAS)-184-93-EP","hep-ph",,"  Exclusive non-spectator decay rates of beauty hadrons contain power
+enhancements of the form (m_b/m)^2 and m_b/m, where m_b is the b-quark mass and
+m is a light quark mass. An implicit argument has been recently given according
+to which these singularities cancel in the totally inclusive decay width. We
+present in this note a completely explicit computation of the diagrams
+containing power enhancements. Our results agree with the previous general
+conclusion.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 23:57:00 GMT""}]","2009-10-22"
+"hep-ph/9312235","Jukka Maalampi","K. Huitu, J. Maalampi and M. Raidal","Supersymmetric Left-Right Model and its Tests in Linear Colliders","23 pages + 11 pages of figures (available on request), HU-SEFT R
+  1993-16","Nucl.Phys. B420 (1994) 449-467","10.1016/0550-3213(94)90073-6",,"hep-ph",,"  We investigate phenomenological implications of a supersymmetric left-right
+model based on $SU(2)_L\times SU(2)_R\times U(1)_{B-L}\,$ gauge symmetry
+testable in the next generation linear colliders. We concentrate in particular
+on the doubly charged $SU(2)_R$ triplet higgsino $\tilde\Delta$, which we find
+very suitable for experimental search. We estimate its production rate in
+$e^+e^-$, $e^-e^-$, $e^-\gamma$ and $\gamma\gamma$ collisions and consider its
+subsequent decays. These processes have a clear discovery signature with a very
+low background from other processes.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 07:26:43 GMT""}]","2009-10-22"
+"hep-ph/9312236","Santiago Garcia","S. Garcia, G.S. Guralnik, J. Lawson","A New Approach to Numerical Quantum Field Theory","10 pages, LaTeX, BROWN-HET-908(garcia@het.brown.edu),
+  (gerry@het.brown.edu), (john@het.brown.edu)","Phys.Lett. B322 (1994) 119-124","10.1016/0370-2693(94)90499-5",,"hep-ph hep-lat",,"  In this note we present a new numerical method for solving Lattice Quantum
+Field Theory. This Source Galerkin Method is fundamentally different in concept
+and application from Monte Carlo based methods which have been the primary mode
+of numerical solution in Quantum Field Theory. Source Galerkin is not
+probabilistic and treats fermions and bosons in an equivalent manner.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 09:51:21 GMT""}]","2009-10-22"
+"hep-ph/9312237",,"Graham G. Ross and R.G. Roberts","Improved QCD sum rule estimates of the higher twist contributions to
+  polarised and unpolarised nucleon structure functions","9 pages and 3 figures which are included as postscript files at the
+  end and should be stripped off to latex the paper","Phys.Lett. B322 (1994) 425-430","10.1016/0370-2693(94)91175-4",,"hep-ph",,"  We re-examine the estimates of the higher twist contributions to the integral
+of $g_1$, the polarised structure function of the nucleon, based on QCD sum
+rules. By including corrections both to the perturbative contribution and to
+the low energy contribution we find that the matrix elements of the relevant
+operators are more stable to variations of the Borel parameter $M^2$, allowing
+for a meaningful estimate of the matrix elements. We find that these matrix
+elements are typically twice as large as previous estimates. However, inserting
+these new estimates into the recently corrected expressions for the first
+moments of $g_1$ leads to corrections too small to affect the phenomenological
+analysis. For the unpolarised case the higher twist corrections to the GLS and
+Bjorken sum rules are substantial and bring the estimate of $\Lambda_{QCD}$
+from the former into good agreement with that obtained from the $Q^2$
+dependence of deep inelastic data.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 09:56:00 GMT""}]","2009-10-22"
+"hep-ph/9312238","Cliff Burgess","C.P. Burgess, M. Frank and C. Hamzaoui","How Big Can Anomalous W Couplings Be?","40 pages, 11 figures, (dvi file and figures combined into a uuencoded
+  compressed file), (We correct an error in eq. 39 and its associated figure
+  (9). No changes at all to the text.), McGill-93/40, UQAM-PHE-93/03,
+  NEIPH-93-009","Z.Phys.C70:145-158,1996","10.1007/s002880050092",,"hep-ph",,"  Conventional wisdom has it that anomalous gauge-boson self-couplings can be
+at most a percent or so in size. We test this wisdom by computing these
+couplings at one loop in a generic renormalizable model of new physics. (For
+technical reasons we consider the CP-violating couplings here, but our results
+apply more generally.) By surveying the parameter space we find that the
+largest couplings (several percent) are obtained when the new particles are at
+the weak scale. For heavy new physics we compare our findings with expectations
+based on an effective-lagrangian analysis. We find general patterns of induced
+couplings which robustly reflect the nature of the underlying physics. We build
+representative models for which the new physics could be first detected in the
+anomalous gauge couplings.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 13:00:48 GMT""},{""version"":""v2"",""created"":""Wed, 8 Dec 1993 14:23:40 GMT""}]","2010-11-01"
+"hep-ph/9312240","Chris Sachrajda","C.T.Sachrajda","Lattice Phenomenology","8 pages, uuencoded compressed postscript file, to appear in the
+  Proceedings of the International Europhysics Conference on High Energy
+  Physics, Marseille, July 22-28, 1993, Southampton Preprint 93/94-02
+  (Replacement of Corrupted File)",,,,"hep-ph",,"  A review of the status of lattice simulations in particle physics
+phenomenology is presented. Recent computations of leptonic decay constants of
+light and heavy mesons, and of the Isgur-Wise function relevant for
+semi-leptonic decays of $B$-mesons, are discussed in some detail. Calculations
+of other quantities are briefly outlined. The systematic errors inherent in
+lattice simulations, and procedures to reduce and control them, are described.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 15:44:43 GMT""},{""version"":""v2"",""created"":""Wed, 8 Dec 1993 14:23:38 GMT""}]","2008-02-03"
+"hep-th/9312045","Francesco Toppan","Francesco Toppan","Generalized NLS Hierarchies from Rational $W$ Algebras","12 pages, latex, preprint ENSLAPP-L-448/93","Phys.Lett. B327 (1994) 249-256","10.1016/0370-2693(94)90725-0",,"hep-th",,"  Finite rational $\cw$ algebras are very natural structures appearing in coset
+constructions when a Kac-Moody subalgebra is factored out. In this letter we
+address the problem of relating these algebras to integrable hierarchies of
+equations, by showing how to associate to a rational $\cw$ algebra its
+corresponding hierarchy. We work out two examples: the $sl(2)/U(1)$ coset,
+leading to the Non-Linear Schr\""{o}dinger hierarchy, and the $U(1)$ coset of
+the Polyakov-Bershadsky $\cw$ algebra, leading to a $3$-field representation of
+the KP hierarchy already encountered in the literature. In such examples a
+rational algebra appears as algebra of constraints when reducing a KP hierarchy
+to a finite field representation. This fact arises the natural question whether
+rational algebras are always associated to such reductions and whether a
+classification of rational algebras can lead to a classification of the
+integrable hierarchies.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 21:46:46 GMT""},{""version"":""v2"",""created"":""Tue, 7 Dec 1993 17:46:11 GMT""}]","2009-10-22"
+"hep-th/9312046",,"J.R. Anglin","Influence functionals and black body radiation","46 pages, TeX",,,,"hep-th gr-qc",,"  The Feynman-Vernon formalism is used to obtain a microscopic, quantum
+mechanical derivation of black body radiation, for a massless scalar field in
+1+1 dimensions, weakly coupled to an environment of finite size. The model
+exhibits the absorption, thermal equilibrium, and emission properties of a
+canonical black body, but shows that the thermal radiation propagates outwards
+from the body, with the Planckian spectrum applying inside a wavefront region
+of finite thickness. The black body environment used in the derivation can be
+considered to represent a very fine, granular medium, such as lampblack. In the
+course of developing the model for black body radiation, thermalization of a
+single harmonic oscillator by a heat bath with slowly varying spectral density
+is demonstrated. Bargmann-Fock coherent state variables, being convenient for
+problems involving harmonic oscillators and free fields, are reviewed and then
+used throughout the paper. An appendix reviews the justification for using
+baths of independent harmonic oscillators to model generic quantum
+environments.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 07:18:54 GMT""}]","2009-09-25"
+"hep-th/9312047","Nobuyuki Ishibashi","N.Ishibashi and H.Kawai","String Field Theory of $c\leq 1$ Noncritical Strings","17 pages, LaTex file, KEK-TH-378","Phys.Lett. B322 (1994) 67-78","10.1016/0370-2693(94)90492-8",,"hep-th",,"  We construct a string field Hamiltonian for a noncritical string theory with
+the continuum limit of the Ising model or its generalization as the matter
+theory on the worldsheet. It consists of only three string vertices as in the
+case for $c=0$. We also discuss a general consistency condition that should be
+satisfied by this kind of string field Hamiltonian.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 08:14:20 GMT""}]","2009-10-22"
+"hep-th/9312048",,"D. R. Grigore","The Projective Unitary Irreducible Representations of the Galilei Group
+  in 1+2 Dimensions","15 pages, LATEX, preprint IFA-FT-391-1993, December","J.Math.Phys. 37 (1996) 460-473","10.1063/1.531402",,"hep-th",,"  We give an elementary analysis of the multiplicator group of the Galilei
+group in 1+2 dimensions $G^{\uparrow}_{+}$. For a non-trivial multiplicator we
+give a list of all the corresponding projective unitary irreducible
+representations of $G^{\uparrow}_{+}$.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 07:25:00 GMT""}]","2009-10-22"
+"hep-th/9312049","Andreas Honecker","J. de Boer, L. Feher, A. Honecker","A Class of W-Algebras with Infinitely Generated Classical Limit","39 pages (plain TeX), ITP-SB-93-84, BONN-HE-93-49","Nucl.Phys. B420 (1994) 409-446","10.1016/0550-3213(94)90388-3",,"hep-th",,"  There is a relatively well understood class of deformable W-algebras,
+resulting from Drinfeld-Sokolov (DS) type reductions of Kac-Moody algebras,
+which are Poisson bracket algebras based on finitely, freely generated rings of
+differential polynomials in the classical limit. The purpose of this paper is
+to point out the existence of a second class of deformable W-algebras, which in
+the classical limit are Poisson bracket algebras carried by infinitely,
+nonfreely generated rings of differential polynomials. We present illustrative
+examples of coset constructions, orbifold projections, as well as first class
+Hamiltonian reductions of DS type W-algebras leading to reduced algebras with
+such infinitely generated classical limit. We also show in examples that the
+reduced quantum algebras are finitely generated due to quantum corrections
+arising upon normal ordering the relations obeyed by the classical generators.
+We apply invariant theory to describe the relations and to argue that classical
+cosets are infinitely, nonfreely generated in general. As a by-product, we also
+explain the origin of the previously constructed and so far unexplained
+deformable quantum W(2,4,6) and W(2,3,4,5) algebras.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 09:05:02 GMT""}]","2009-10-22"
+"hep-th/9312050","Niels Obers","M.B. Halpern and N.A. Obers","Flat Connections and Non-Local Conserved Quantities in Irrational
+  Conformal Field Theory","40 pages, Latex, UCB-PTH-93/33, LBL-34901, CPTH-A277.1293","J.Math.Phys. 36 (1995) 1080-1110","10.1063/1.531107",,"hep-th",,"  Irrational conformal field theory (ICFT) includes rational conformal field
+theory as a small subspace, and the affine-Virasoro Ward identities describe
+the biconformal correlators of ICFT. We reformulate the Ward identities as an
+equivalent linear partial differential system with flat connections and new
+non-local conserved quantities. As examples of the formulation, we solve the
+system of flat connections for the coset correlators, the correlators of the
+affine-Sugawara nests and the high-level $n$-point correlators of ICFT.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 11:19:32 GMT""}]","2009-10-22"
+"hep-th/9312051","Krzysztof Gawedzki","Krzysztof Gawedzki","SU(2) WZNW Model at Higher Genera from Gauge Field Functional Integral","12 pages, IHES/P/93/66, LaTeX file (Eq. (1.4) got missing factor)",,,,"hep-th",,"  We compute the gauge field functional integral giving the scalar product of
+the SU(2) Chern-Simons theory states on a Riemann surface of genus > 1. The
+result allows to express the higher genera partition functions of the SU(2)
+WZNW conformal field theory by explicit finite dimensional integrals. Our
+calculation may also shed new light on the functional integral of the Liouville
+theory.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 11:46:33 GMT""},{""version"":""v2"",""created"":""Wed, 8 Dec 1993 09:19:10 GMT""}]","2008-02-03"
+"hep-th/9312052","Juan Perez Mercader","J. Perez-Mercader","The Renormalization Group, Entropy, Thermodynamic Phase Transitions and
+  Order in Quantum Field Theory","uses ReVTeX 2.1, 13 pages + 5 figures (available by request to the
+  author), LAEFF-93/017",,,,"hep-th cond-mat hep-ph",,"  We define an entropy for a quantum field theory by combining quantum
+fluctuations, scaling and the maximum entropy concept. This entropy has
+different behavior in asymptotically free and non--asymptotically free
+theories. We find that the transition between the two regimes (from the
+asymptotically free to the non--asymptotically free) takes place via a
+continuous phase transition. For asymptotically free theories there exist
+regimes where the ``temperatures"" are negative. In asymptotically free theories
+there exist maser--like states mostly in the infrared; furthermore, as one goes
+into the ultraviolet and more matter states contribute to quantum processes,
+the quantum field system can shed entropy and cause the formation of
+thermodynamically stable {\it entropy--ordered} states. It is shown how the
+known heavier quarks can be thus described.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 13:06:16 GMT""}]","2009-09-25"
+"hep-th/9312053",,"Raffaele Marotta and Franco Pezzella","On the Zero-Slope Limit of the Compactified Closed Bosonic String","10 pages, LaTex file, DSF-T-43/93","Phys.Rev.D50:2779-2783,1994","10.1103/PhysRevD.50.2779",,"hep-th",,"  In the framework of the compactified closed bosonic string theory with the
+extra spatial coordinates being circular with radius $R$, we perform both the
+zero-slope limit and the $R \rightarrow 0$ limit of the tree scattering
+amplitude of four massless scalar particles. We explicitly show that this
+double limit leads to amplitudes involving scalars which interact through the
+exchange of a scalar, spin 1 and spin 2 particle. In particular, this latter
+case reproduces the same result obtained in linearized quantum gravity.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 14:14:00 GMT""}]","2010-11-01"
+"hep-th/9312054",,"J.M. Figueroa-O'Farrill","W-Strings from Affine Lie Algebras","12 document pages (6 physical pages), uuencoded compressed .dvi file
+  (uses AmsFonts eu* msa* msb*), QMW-PH-93-33","Phys.Lett. B325 (1994) 58-62","10.1016/0370-2693(94)90071-X",,"hep-th",,"  The most disappointing aspect of $\W$-strings is probably the fact that at
+least for the known models one does not recover a physical spectrum that
+differs much from that of ordinary string theory. It is hoped that this is not
+an intrinsic shortcoming of $\W$-string theory, but rather that it is a
+consequence of the $\W$-algebra realizations that have been chosen. In this
+note we point out a whole new class of possible $\W$-strings built from
+representations of affine Lie algebras via (quantum) Drinfel'd-Sokolov
+reduction. Explicitly, we construct a BRST operator in terms of
+$\widehat{sl}_3$ currents which computes the physical spectrum of a
+$\W_3$-string. As a special case of this construction, if we take a free-field
+realization of $\widehat{sl}_3$, we recover the 2-scalar $\W_3$-string. These
+results generalize to any $\W$-algebra which can be obtained via quantum
+Drinfel'd-Sokolov reduction from an affine algebra.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 15:02:44 GMT""}]","2009-10-22"
+"nucl-th/9312003","Jose Udias","J.M. Udias, P. Sarriguren, E. Moya de Guerra, E. Garrido and J.A.
+  Caballero","Relativistic versus Nonrelativistic Optical Potentials in A(e,e'p)B
+  Reactions","Added one new figure, the formalism section has been enlarged and the
+  list of references updated. Added one appendix. This version will appear in
+  Phys. Rev. C. Revtex 3.0, 6 figures (not included). Full postscript version
+  of the file and figures available at
+  http://www.nikhefk.nikhef.nl/projects/Theory/preprints/","Phys.Rev.C51:3246-3255,1995","10.1103/PhysRevC.51.3246","FNIEM-13 and NIKHEF-93-P12","nucl-th",,"  We investigate the role of relativistic and nonrelativistic optical
+potentials used in the analysis of ($e,e'p$) data. We find that the
+relativistic calculations produce smaller ($e,e'p$) cross sections even in the
+case in which both relativistic and nonrelativistic optical potentials fit
+equally well the elastic proton--nucleus scattering data. Compared to the
+nonrelativistic impulse approximation, this effect is due to a depletion in the
+nuclear interior of the relativistic nucleon current, which should be taken
+into account in the nonrelativistic treatment by a proper redefinition of the
+effective current operator.
+","[{""version"":""v1"",""created"":""Tue, 7 Dec 1993 13:10:15 GMT""},{""version"":""v2"",""created"":""Thu, 27 Apr 1995 12:33:57 GMT""}]","2009-09-25"

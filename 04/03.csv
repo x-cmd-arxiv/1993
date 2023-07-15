@@ -1,0 +1,112 @@
+"astro-ph/9304003","Kerry McQuade","C.M. Urry, et al","Multiwavelength Monitoring of the BL Lac Object PKS 2155-304 I. The IUE
+  Campaign","27 pages, plain TeX, STScI Preprint 714","Astrophys.J. 411 (1993) 614-631","10.1086/172864",,"astro-ph",,"  Daily monitoring of PKS 2155-304 with the IUE satellite throughout November
+1991 has revealed dramatic, large-amplitude, rapid variations in the
+ultraviolet flux of this BL Lac object. Many smaller, rapid flares are
+superimposed on a general doubling of the intensity. During the five-day period
+when sampling was roughly continuous, the rapid flaring had an apparent
+quasi-periodic nature, with peaks repeating every ~0.7 days. The short- and
+long-wavelength ultraviolet light curves are well correlated with each other,
+and with the optical light curve deduced from the Fine Error Sensor (FES) on
+IUE. The formal lag is zero but the cross-correlation if asymmetric in the
+sense that the shorter wavelength emission leads the longer. The ultraviolet
+spectral shape varies a small but significant amount. The correlation between
+spectral shape and intensity is complicated; an increase in intensity is
+associated with spectral hardening, but lags behind the spectral change by ~1
+day. The sign of the correlation is consistent with the nonthermal acceleration
+processes expected in relativistic plasmas, so that the present results are
+consistent with relativistic jet models, which can also account for
+quasi-periodic flaring. In contrast, currently proposed accretion disk models
+are stronly ruled out by the simultaneous optical and ultraviolet variability.
+","[{""version"":""v1"",""created"":""Fri, 2 Apr 1993 18:42:47 GMT""},{""version"":""v2"",""created"":""Mon, 5 Apr 1993 21:10:06 GMT""}]","2009-10-22"
+"cond-mat/9304004","Randall Kamien","Randall D. Kamien","Flory Exponents from a Self-Consistent Renormalization Group","11 pages, Plain Tex (macros included), IASSNS-HEP-93/19","J.Phys.I(France) 3 (1993) 1663","10.1051/jp1:1993208",,"cond-mat",,"  The wandering exponent $\nu$ for an isotropic polymer is predicted remarkably
+well by a simple argument due to Flory. By considering oriented polymers living
+in a one-parameter family of background tangent fields, we are able to relate
+the wandering exponent to the exponent in the background field through an
+$\epsilon$-expansion. We then choose the background field to have the same
+correlations as the individual polymer, thus self-consistently solving for
+$\nu$. We find $\nu=3/(d+2)$ for $d<4$ and $\nu=1/2$ for $d\ge 4$, which is
+exactly the Flory result.
+","[{""version"":""v1"",""created"":""Fri, 2 Apr 1993 19:17:32 GMT""},{""version"":""v2"",""created"":""Wed, 2 Jun 1993 16:21:15 GMT""}]","2009-10-22"
+"gr-qc/9304003","Stephen P. Braham","Redouane Fakir","Gravity-Wave Watching","17pp, plain LaTeX, UBCTP-93-005","Astrophys.J. 426 (1994) 74-78","10.1086/174040",,"gr-qc astro-ph",,"  It is suggested that gravity waves could, in several cases, be detected by
+means of already (or shortly to be) available technology, independently of
+current efforts of detection. The present is a follow-up on a recently
+suggested detection strategy based on gravity-wave-induced deviations of null
+geodesics. The new development is that a way was found to probe the waves close
+to the source, where they are several orders of magnitude larger than on the
+Earth. The effect translates into apparent shifts in stellar angular positions
+that could be as high as $10^{-7}$ arcsec, which is just about the present
+theoretical limit of detectability. (Calculation improved; results unchanged.)
+","[{""version"":""v1"",""created"":""Fri, 2 Apr 1993 20:04:59 GMT""},{""version"":""v2"",""created"":""Thu, 16 Sep 1993 18:06:21 GMT""}]","2009-10-22"
+"hep-ph/9304205","Maggie Best","Alexei Yu. Smirnov","See-saw Enhancement of Lepton Mixing","16 pages, plain TeX document, Institute for Advanced Study number AST
+  93/14","Phys.Rev. D48 (1993) 3264-3270","10.1103/PhysRevD.48.3264",,"hep-ph",,"  The see-saw mechanism of neutrino mass generation may enhance lepton mixing
+up to maximal even if the Dirac mass matrices of leptons have structure similar
+to that in the quark sector. Two sets of conditions for such an enhancement are
+found. The first one includes the see-saw generation of heavy Majorana masses
+for right-handed neutrinos and a universality of
+  Yukawa couplings which can follow from the unification of neutrinos with new
+superheavy neutral leptons. The second set is related to lepton number symmetry
+of the Yukawa interactions in the Dirac basis of neutrinos. Models which
+realize these conditions have strong hierarchy or strong degeneration of
+Majorana masses of the right-handed neutrinos.
+","[{""version"":""v1"",""created"":""Fri, 2 Apr 1993 18:49:08 GMT""}]","2009-10-22"
+"hep-ph/9304206","Christopher Arzt","C. Arzt, M.B. Einhorn, and J. Wudka","Effective-Lagrangian approach to precision measurements: the anomalous
+  magnetic moment of the muon","22 pages, 1 figure, PHYZZX & EPSF, report #s UCRHEP-T98, UM_TH-92-17,
+  and NSF-ITP-92-122I Revision: The paper will now TeX properly; the content is
+  unchanged","Phys.Rev.D49:1370-1377,1994","10.1103/PhysRevD.49.1370",,"hep-ph",,"  We investigate the use of effective Lagrangians to describe the effects on
+high-precision observables of physics beyond the Standard Model. Using the
+anomalous magnetic moment of the muon as an example, we detail the use of
+effective vertices in loop calculations. We then provide estimates of the
+sensitivity of new experiments measuring the muon's $ g - 2 $ to the scale of
+physics underlying the Standard Model.
+","[{""version"":""v1"",""created"":""Fri, 2 Apr 1993 20:10:04 GMT""},{""version"":""v2"",""created"":""Wed, 7 Apr 1993 03:10:47 GMT""}]","2011-07-19"
+"hep-th/9304006",,"Denise E. Freed","Contact Terms and Duality Symmetry in The Critical Dissipative
+  Hofstadter Model","65 pages, six figures, CTP#2170","Nucl.Phys. B409 (1993) 565-634","10.1016/0550-3213(93)90543-X",,"hep-th",,"  The dissipative Hofstadter model describes the quantum mechanics of a charged
+particle in two dimensions subject to a periodic potential, uniform magnetic
+field, and dissipative force. Its phase diagram exhibits an SL(2,Z) duality
+symmetry and has an infinite number of critical circles in the
+dissipation/magnetic field plane. In addition, multi-critical points on a
+particular critical circle correspond to non-trivial solutions of open string
+theory. The duality symmetry is expected to provide relations between
+correlation functions at different multi-critical points. Many of these
+correlators are contact terms. However we expect them to have physical
+significance because under duality they transform into functions that are
+non-zero for large separations of the operators. Motivated by the search for
+exact, regulator independent solutions for these contact terms, in this paper
+we derive many properties and symmetries of the coordinate correlation
+functions at the special multi-critical points. In particular, we prove that
+the correlation functions are homogeneous, piecewise-linear functions of the
+momenta, and we prove a weaker version of the anticipated duality
+transformation. Consequently, the possible forms of the correlation functions
+are limited to lie in a finite dimensional linear space. We treat the potential
+perturbatively and these results are valid to all orders in perturbation
+theory.
+","[{""version"":""v1"",""created"":""Fri, 2 Apr 1993 21:52:13 GMT""}]","2009-10-22"
+"hep-th/9304016","Jack Gegenberg","J. Gegenberg and G. Kunstatter","The Partition Function for Topological Field Theories","23 pages, plain-TeX file","Annals Phys. 231 (1994) 270-289","10.1006/aphy.1994.1043",,"hep-th",,"  We use a Hodge decomposition and its generalization to non-abelian flat
+vector bundles to calculate the partition function for abelian and non- abelian
+BF theories in $n$ dimensions. This enables us to provide a simple proof that
+the partition function is related to the Ray-Singer torsion defined on flat
+vector bundles for all odd-dimensional manifolds, and is equal to unity for
+even dimensions.
+","[{""version"":""v1"",""created"":""Fri, 2 Apr 1993 18:00:36 GMT""}]","2009-10-22"
+"patt-sol/9304001","David Griffeath","Robert Fisch (Department of Mathematics, Colby College), Janko Gravner
+  and David Griffeath (Department of Mathematics, University of Wisconsin)","Threshold-Range Scaling of Excitable Cellular Automata","33 pages. This paper appears with permission of Chapman and Hall,
+  London. arXiv admin note, 17Jun2003: original PCL file and PDF version now
+  available, see HTML page","Stat. and Comp. 1, 1991, Chapman and Hall, London",,,"patt-sol adap-org nlin.AO nlin.PS",,"  Each cell of a two-dimensional lattice is painted one of k colors, arranged
+in a ""color wheel."" The colors advance (0 to k-1 mod k) either automatically or
+by contact with at least a threshold number of successor colors in a prescribed
+local neighborhood. Discrete-time parallel systems of this sort in which color
+0 updates by contact and the rest update automatically are called
+Greenberg-Hastings (GH) rules. A system in which all colors update by contact
+is called a cyclic cellular automaton (CCA). Started from appropriate initial
+conditions these models generate periodic traveling waves. Started from random
+configurations the same rules exhibit complex self-organization, typically
+characterized by nucleation of locally periodic ""ram's horns"" or spirals.
+Corresponding random processes give rise to a variety of ""forest fire""
+equilibria that display large-scale stochastic wave fronts. This article
+describes a framework, theoretically based, but relying on extensive
+interactive computer graphics experimentation, for investigation of the complex
+dynamics shared by excitable media in a broad spectrum of scientific contexts.
+By focusing on simple mathematical prototypes we obtain a better understanding
+of the basic organizational principles underlying spatially-distributed
+oscillating systems.
+","[{""version"":""v1"",""created"":""Fri, 2 Apr 1993 18:41:00 GMT""}]","2008-02-03"

@@ -1,0 +1,188 @@
+"alg-geom/9306011","David Cox","Victor V. Batyrev (Essen) and David A. Cox (Amherst College)","On the Hodge Structure of Projective Hypersurfaces in Toric Varieties","43 pages, LaTeX Version 2.09",,,,"alg-geom math.AG",,"  This paper generalizes classical results of Griffiths, Dolgachev and
+Steenbrink on the cohomology of hypersurfaces in weighted projective spaces.
+Given a $d$-dimensional projective simplicial toric variety $P$ and an ample
+hypersurface $X$ defined by an polynomial $f$ in the homogeneous coordinate
+ring $S$ of $P$ (as defined in an earlier paper of the first author), we show
+that the graded pieces of the Hodge filtration on $H^d(P - X)$ are naturally
+isomorphic to certain graded pieces of $S/J(f)$, where $J(f)$ is the Jacobian
+ideal of $f$. We then discuss how this relates to the primitive cohomology of
+$X$. Also, if $T$ is the torus contained in $X$, then the intersection of $X$
+and $T$ is an affine hypersurface in $T$, and we show how recent results of the
+second author can be stated using various ideals in the ring $S$.
+  To prove our results, we must give a careful description (in terms of $S$) of
+$d$-forms and $(d-1)$-forms on the toric variety $P$. For completeness, we also
+provide a proof of the Bott-Steenbrink-Danilov vanishing theorem for simplicial
+toric varieties.
+  Other topics considered in the paper include quasi-smooth hypersurfaces and
+$V$-submanifolds, the structure of the complement of $U$ when $P$ is
+represented as the quotient of an open subset $U$ of affine space, a
+generalization of the Euler exact sequence on projective space, and the
+relation between graded pieces of $R/J(f)$ and the moduli of ample
+hypersurfaces in $P$.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 16:25:37 GMT""}]","2008-02-03"
+"astro-ph/9306027","Paul Steinhardt","Robert Crittenden, Richard L. Davis, and Paul J. Steinhardt","Polarization of the Microwave Background due to Primordial Gravitational
+  Waves","9 pages, Penn Preprint UPR-0575T","Astrophys.J.417:L13-L16,1993","10.1086/187082",,"astro-ph gr-qc",,"  The contribution of gravitational wave (tensor metric) and energy density
+(scalar metric) fluctuations to the cosmic microwave background polarization is
+computed by numerically solving the relativistic radiation transfer equations.
+We find that the tensor contribution is significant only at large angular
+scales (multipoles $\ell \lta 40$). For standard recombination, the tensor
+contribution can dominate at $\ell \lta 40$; however, the effect would be
+difficult to detect since the total (scalar plus tensor) polarization is $<
+1$\%. For models with late reionization, the total large angular scale
+polarization is large ($\sim 7-9$\%), but the tensor fraction is negligibly
+small. Hence, polarization may be useful for discriminating ionization history,
+but is much less promising as a means for detecting tensor fluctuations.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 21:30:02 GMT""}]","2009-10-22"
+"gr-qc/9306033","Neil Cornish","N. J. Cornish, J. W. Moffat and D. C. Tatarski","Gravitational Waves from an Axi-symmetric Source in the Nonsymmetric
+  Gravitational Theory","15 pages, UTPT-92-17","Gen.Rel.Grav. 27 (1995) 933","10.1007/BF02113075",,"gr-qc",,"  We examine gravitational waves in an isolated axi--symmetric reflexion
+symmetric NGT system. The structure of the vacuum field equations is analyzed
+and the exact solutions for the field variables in the metric tensor are found
+in the form of expansions in powers of a radial coordinate. We find that in the
+NGT axially symmetric case the mass of the system remains constant only if the
+system is static (as it necessarily is in the case of spherical symmetry). If
+the system radiates, then the mass decreases monotonically and the energy flux
+associated with waves is positive.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 20:42:23 GMT""}]","2015-06-25"
+"hep-lat/9306021","Kerler Werner Prof. Dr.","W. Kerler","Spectral properties and lattice-size dependences in cluster algorithms","15 pages (latex), 7 figures (not included)","Phys.Rev. D48 (1993) 902-908","10.1103/PhysRevD.48.902",,"hep-lat",,"  Simulation results of Ising systems for several update rules, observables,
+and dimensions are analyzed. The lattice-size dependence is discussed for the
+autocorrelation times and for the weights of eigenvalues, giving fit results in
+the case of power laws. Implications of spectral properties are pointed out and
+the behavior of a particular observable not governed by detailed balance is
+explained.
+","[{""version"":""v1"",""created"":""Sat, 26 Jun 1993 07:34:14 GMT""}]","2009-10-22"
+"hep-lat/9306022","Kerler Werner Prof. Dr.","W. Kerler and A. Weber","Cluster dynamics for first-order phase transitions in the Potts model","11 pages (latex), 3 figures (not included)","Phys.Rev. B47 (1993) 11563","10.1103/PhysRevB.47.11563",,"hep-lat",,"  An algorithm for Monte Carlo simulations is proposed in which the parameter
+controlling the strength of the transition becomes a dynamical variable and in
+which efficient transitions are achieved by cluster steps. It allows to avoid
+the strongly suppressed tunneling between the phases by travelling easily via
+the second order region. Numerical results for the Potts model are presented
+which demonstrate the advantages of the method.
+","[{""version"":""v1"",""created"":""Sat, 26 Jun 1993 07:39:31 GMT""}]","2009-10-22"
+"hep-ph/9306315",,"W. Beenakker and A. Denner","Theoretical Predictions for W-Pair Production","4 pages, Latex, CERN-TH.6928/93 and DESY-93-079, Talk given at the
+  Workshop on Physics and Experiments with Linear e^+e^- colliders, Waikoloa,
+  Hawaii, April 26--30, 1993",,,,"hep-ph",,"  We review the status of theoretical predictions for W-pair production at high
+energies. We discuss a systematic scenario towards a Monte-Carlo generator for
+e^+e^- --> 4f(\gamma), which meets the experimental requirements. In particular
+we summarize the recent developments in this field.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 16:52:13 GMT""}]","2007-05-23"
+"hep-ph/9306316",,"R. Arnowitt and Pran Nath","Supergravity Grand Unification, Proton Decay and Cosmological
+  Constraints","18 Pages, 10 figures avaliable upon request, CTP-TAMU-23/93,
+  NUB-TH-3062/92, SSCL-Preprint-229",,,,"hep-ph",,"  Properties and experimental predictions of a broad class of supergravity
+grand unified models possessing an $SU(5)$-type proton decay and $R$ parity are
+described. Models of this type can be described in terms of four parameters at
+the Gut scale in addition to those of the Standard Model i.e. $m_o$ (universal
+scalar mass), $m_{1/2}$ (universal gaugino mass), $A_o$ (cubic soft breaking
+parameter) and $\tan\beta=<H_2>/<H_1>$. Thus the 32 SUSY masses can be
+expressed in terms of $m_o, m_{1/2}, A_o \tan\beta$ and the as yet unknown
+t-quark mass $m_t$. Gut thresholds are examined and a simple model leads to
+grand unification consistent with $p$-decay data when $0.114<\alpha_3
+(M_z)<0.135$, in agreement with current values of $\alpha_3 (M_Z)$.Proton decay
+is examined for the superheavy Higgs triplet mass $M_{H_3}<10M_G(M_G\simeq 1.5
+\times10^{16}$~GeV) and squarks and gluinos lighter than 1 TeV. Throughout most
+of the parameter space chargino-neutralino scaling relations are predicted to
+hold: $2m_{\tilde{Z}_1}\cong m_{\tilde{W}_1}\cong m_{\tilde{Z}_2},
+m_{\tilde{W}_1}\simeq(1/4)m_{\tilde{g}}$ (for $\mu>0$) or $m_{\tilde{W}_1}
+\simeq(1/3)m_{\tilde{g}}$ (for $\mu<0$), while $m_{\tilde{W}_2}\cong
+m_{\tilde{Z}_3}\cong m_{\tilde{Z}_4}>>m_{\tilde{Z}_1}$. Future proton decay
+experiments combined with LEP2 lead to further predictions, e.g. for the entire
+parameter space either proton decay should be seen at these or the$\tilde{W}_1$
+seen at LEP2. Relic density constraints on the $\tilde{Z}_1$ further constrain
+the parameter space e.g. so that $m_t<165$~GeV, $m_h<105$~GeV, $m_{\tilde{W}_1}
+<100$~GeV and $m_{\tilde{Z}_1}<50$~GeV when $M_{H_3}/M_G < 6$. (Invited talk at
+Les Rencontres de Physique de la Vallee D'Aoste}
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 20:58:30 GMT""}]","2007-05-23"
+"hep-ph/9306317",,"A. Makhlin","Low-mass dileptons from nonequilibrium QGP","7 pages, Preprint SUNY-NTG-93-21",,,,"hep-ph",,"  The rate of the emission of the high energy low-mass dileptons from the QGP
+is found in the first nonvanishing order with respect to strong coupling. We
+base on the real-time kinetic approach [2] without an explicit assumption about
+a complete thermal equilibrium in the emitting system. For the class of the
+partons distributions which may simulate that of the ""hot glue scenario""[1] the
+rate of emission is found analytically .
+  ( Figures can be obtained from the author )
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 20:32:29 GMT""}]","2007-05-23"
+"hep-ph/9306318",,"Robert Garisto","Natural CP Violation Criteria for the Minimal Supersymmetric Standard
+  Model","23pp (2 fig avail. on request), plain LATEX, TRI-PP-24 ('93)
+  (Shortened version to appear in Nucl. Phys. B. One Feynman diagram added for
+  clarity.)","Nucl.Phys.B419:279-291,1994","10.1016/0550-3213(94)90043-4",,"hep-ph",,"  $CP$ violating effects in the Minimal Supersymmetric Standard Model (MSSM)
+can lead to excessively large contributions to the neutron EDM (\dn). We write
+criteria which ensure that the low energy supergravity (SUGRA) parametrization
+of the MSSM does not require fine-tunings or large mass scales to evade the
+constraint from \dn, and consider the implications on SUGRA theories. In
+particular, we show that in the Polonyi model, two of the mass scales are in
+general complex, meaning that model does not naturally avoid a large \dn\ as is
+sometimes claimed.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 22:04:47 GMT""},{""version"":""v2"",""created"":""Fri, 28 Jan 1994 19:11:08 GMT""}]","2010-11-01"
+"hep-ph/9306319","J. Gunion","J. Dai, J.F. Gunion and R. Vega","Guaranteed Detection of a Minimal Supersymmetric Model Higgs Boson at
+  Hadron Supercolliders","9 pages, uses phyzzx.tex and tables.tex macros, full postscript file,
+  including embedded figures, available via anonymous ftp at ucdhep.ucdavis.edu
+  as [anonymous.gunion]hbb_susy.ps, preprint UCD-93-20","Phys.Lett. B315 (1993) 355-359","10.1016/0370-2693(93)91624-V",,"hep-ph",,"  We demonstrate that expected efficiencies and purities for $b$-tagging at
+SSC/LHC detectors should allow detection of at least one of the Higgs bosons of
+the Minimal Supersymmetric Model in $t\anti t$~Higgs production, with
+Higgs$\rta b\anti b$ decay, over a substantial range of supersymmetric
+parameter space. In particular, with the addition of this mode to those
+previously considered, there is no region of supersymmetric parameter space for
+which {\it none} of the Higgs bosons of the model can be seen at the SSC/LHC.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 20:58:00 GMT""}]","2009-10-22"
+"hep-th/9306134",,"M. Freeman and P. West","$W_3$ strings, parafermions and the Ising model","14 pages, KCL-TH-93-10","Phys.Lett. B314 (1993) 320-327","10.1016/0370-2693(93)91243-G",,"hep-th",,"  We show that any covariant scattering amplitude of the $W_3$ string will
+contain, as part of its integrand, a factor that obeys the differential
+equations satisfied by an Ising model correlation function. This factor can
+thus be identified with such a correlation function, in agreement with a
+previous result of the authors. The $W_3$ string is also shown to contain an
+$N=2$ parafermion theory, and hence to contain in addition the non-linear
+infinite-dimensional $W$-algebra corresponding to this parafermion theory. The
+physical states form a representation of this algebra.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 20:20:56 GMT""}]","2009-10-22"
+"hep-th/9306135",,"A. Sevrin, R. Siebelink and W. Troost","Regularisation of non-local actions in two-dimensional field theories","29 pp, LATEX, LBL-33777, UCB-PTH-93/08, KUL-TF-93/25","Nucl.Phys. B413 (1994) 185-212","10.1016/0550-3213(94)90618-1",,"hep-th",,"  Taking the induced action for gauge fields coupled to affine currents as an
+example, we show how loop calculations in non-local two-dimensional field
+theories can be regulated. Our regularisation method for one loop is based on
+the method of Pauli and Villars. We use it to calculate the renormalisation
+factors for the corresponding effective actions, clearing up some discrepancies
+in the literature. In particular, it will be shown explicitly that vector gauge
+transformation invariance and Haar invariance of functional integral measures
+impose different requirements, but they are related by a counterterm (which is
+local in terms of group variables). For higher loops, we use the method of
+covariant derivatives combined with Pauli-Villars to argue that the one loop
+result remains unaltered.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 17:09:59 GMT""}]","2009-10-22"
+"hep-th/9306136","Danny Birmingham","D. Birmingham and M. Rakowski","Subdivision Analysis of Topological $Z_{p}$ Lattice Gauge Theory","13 pages, LaTex, ITFA-93-22",,,,"hep-th hep-lat",,"  We analyze the subdivision properties of certain lattice gauge theories for
+the discrete abelian groups $Z_{p}$, in four dimensions. In these particular
+models we show that the Boltzmann weights are invariant under all $(k,l)$
+subdivision moves, when the coupling scale is a $p$th root of unity. For the
+case of manifolds with boundary, we demonstrate analytically that Alexander
+type $2$ and $3$ subdivision of a bounding simplex is equivalent to the
+insertion of an operator which equals a delta function on trivial bounding
+holonomies. The four dimensional model then gives rise to an effective gauge
+invariant three dimensional model on its boundary, and we compute the
+combinatorially invariant value of the partition function for the case of
+$S^{3}$ and $S^{2}\times S^{1}$.
+","[{""version"":""v1"",""created"":""Fri, 25 Jun 1993 19:51:09 GMT""}]","2007-05-23"
+"hep-th/9306137","Fedor Malikov","Boris Feigin and Feodor Malikov","Integral Intertwining Operators and Complex Powers of Differential
+  ($q-$Difference) Operators","50 pages",,,"RIMS-894","hep-th math.QA",,"  We study a family of modules over Kac-Moody algebras realized in multi-valued
+functions on a flag manifold and find integral representations for intertwining
+operators acting on these modules. These intertwiners are related to some
+expressions involving complex powers of Lie algebra generators.
+  When applied to affine Lie algebras, these expressions give integral formulas
+for correlation functions with values in not necessarily highest weight
+modules.
+  We write related formulas out in an explicit form in the case of
+$\hat{\gtsl_{2}}$. The latter formulas admit q-deformation producing an
+integral representation of q-correlation functions. We also discuss a relation
+of complex powers of Lie algebra (quantum group) generators and Casimir
+operators to ($q-$)special functions.
+","[{""version"":""v1"",""created"":""Sat, 26 Jun 1993 00:17:08 GMT""}]","2008-02-03"
+"hep-th/9306138","Fedor Malikov","Kenji Iohara and Feodor Malikov","Rings of skew polynomials and Gel'fand-Kirillov conjecture for quantum
+  groups","25 pages","Commun.Math.Phys.164:217-238,1994","10.1007/BF02101700",,"hep-th math.QA",,"  We introduce and study action of quantum groups on skew polynomial rings and
+related rings of quotients. This leads to a ``q-deformation'' of the
+Gel'fand-Kirillov conjecture which we partially prove. We propose a
+construction of automorphisms of certain non-commutaive rings of quotients
+coming from complex powers of quantum group generators; this is applied to
+explicit calculation of singular vectors in Verma modules over
+$U_{q}(\gtsl_{n+1})$.
+  We finally give a definition of a $q-$connection with coefficients in a ring
+of skew polynomials and study the structure of quantum group modules twisted by
+a $q-$connection.
+","[{""version"":""v1"",""created"":""Sat, 26 Jun 1993 00:17:53 GMT""}]","2011-07-19"
+"hep-th/9306139","Fedor Malikov","Kenji Iohara, Feodor Malikov","Solutions to Knizhnik-Zamolodchikov equations with coefficients in
+  non-bounded modules","13 pages","Mod.Phys.Lett.A8:3613-3624,1993","10.1142/S021773239300235X",,"hep-th math.QA",,"  We explicitly write dowm integral formulas for solutions to
+Knizhnik-Zamolodchikov equations with coefficients in non-bounded -- neither
+highest nor lowest weight -- $\gtsl_{n+1}$-modules. The formulas are closely
+related to WZNW model at a rational level.
+","[{""version"":""v1"",""created"":""Sat, 26 Jun 1993 00:18:46 GMT""}]","2011-07-19"

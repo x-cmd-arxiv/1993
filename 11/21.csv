@@ -1,0 +1,34 @@
+"hep-ph/9311323","Stephan","F. J. Yndurain","On the Evaluation of Threshold Effects in Processes Involving Heavy
+  Quarks","12 pages, preprint FTUAM 38/93","Phys.Lett.B321:400-406,1994","10.1016/0370-2693(94)90266-6",,"hep-ph",,"  A detailed evaluation is presented of production of heavy fermions
+(particularly ttbar quarks) by a vector current, in the region around
+threshold. This includes bound states as well as the region above threshold, to
+the same degree of accuracy; in both cases radiative and nonperturbative
+corrections are included. The contribution of this region to the vacuum
+polarization (``threshold effects'') is calculated and compared with a
+perturbative calculation; the importance of the threshold effects is found
+substantially smaller than claimed by some authors. Open fermion-antifermion
+production is also discussed.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1993 18:16:06 GMT""}]","2010-11-01"
+"hep-ph/9311324","Giovanni Amelino-Camelia","R. Jackiw and notes by G. Amelino-Camelia","Field Theoretical Background for Thermal Physics","Tex + epsf, 25 pages,MIT-CTP-2254, 2 figures included, to appear in
+  the Proceedings of the III Workshop on Thermal Field Theories and Their
+  Applications, Banff, Canada, August 15-27, 1993. (fig2, which was giving
+  problems in printing, has been substituted)",,,,"hep-ph",,"  Techniques of zero-temperature field theory that have found application in
+the analysis of field theory at finite temperature are revisited. Specifically,
+several of the results that are discussed are relevant to the study of
+symmetry-changing phase transitions and high temperature QCD, which today are
+among the most actively investigated problems in finite temperature field
+theory.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1993 19:48:13 GMT""},{""version"":""v2"",""created"":""Tue, 23 Nov 1993 00:24:26 GMT""}]","2008-02-03"
+"hep-th/9311125","Boris Khesin","Boris Khesin and Ilya Zakharevich","Poisson-Lie group of pseudodifferential symbols and fractional KP-KdV
+  hierarchies","7 pages, no figures","C.R. Acad. Sci., v. 316 (1993) Serie I, 621-626",,,"hep-th math.QA",,"  The Lie algebra of pseudodifferential symbols on the circle has a nontrivial
+central extension (by the ``logarithmic'' 2-cocycle) generalizing the Virasoro
+algebra. The corresponding extended subalgebra of integral operators generates
+the Lie group of classical symbols of all real (or complex) degrees. It turns
+out that this group has a natural Poisson-Lie structure whose restriction to
+differential operators of an arbitrary integer order coincides with the second
+Adler-Gelfand-Dickey structure. Moreover, for any real (or complex) \alpha
+there exists a hierarchy of completely integrable equations on the degree
+\alpha pseudodifferential symbols, and this hierarchy for \alpha=1 coincides
+with the KP one, and for an integer \alpha=n>1$ and purely differential symbol
+gives the n-KdV-hierarchy.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1993 01:30:47 GMT""}]","2008-02-03"

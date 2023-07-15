@@ -1,0 +1,291 @@
+"alg-geom/9307001","Lisa Jeffrey","L.C. Jeffrey and F.C. Kirwan","Localization for nonabelian group actions","42 pages, LaTex version no. 2.09, Introduction and Section 8 have
+  been rewritten in revised version",,,,"alg-geom math.AG",,"  Suppose $X$ is a compact symplectic manifold acted on by a compact Lie group
+$K$ (which may be nonabelian) in a Hamiltonian fashion, with moment map $\mu: X
+\to {\rm Lie}(K)^*$ and Marsden-Weinstein reduction $\xred = \mu^{-1}(0)/K$.
+There is then a natural surjective map $\kappa_0$ from the equivariant
+cohomology $H^*_K(X) $ of $X$ to the cohomology $H^*(\xred)$. In this paper we
+prove a formula (Theorem 8.1, the residue formula) for the evaluation on the
+fundamental class of $\xred$ of any $\eta_0 \in H^*(\xred)$ whose degree is the
+dimension of $\xred$, provided that $0$ is a regular value of the moment map
+$\mu$ on $X$. This formula is given in terms of any class $\eta \in H^*_K(X)$
+for which $\kappa_0(\eta ) = \eta_0$, and involves the restriction of $\eta$ to
+$K$-orbits $KF$ of components $F \subset X$ of the fixed point set of a chosen
+maximal torus $T \subset K$. Since $\kappa_0$ is
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 22:55:00 GMT""},{""version"":""v2"",""created"":""Thu, 2 Sep 1993 22:01:00 GMT""},{""version"":""v3"",""created"":""Sun, 13 Feb 1994 02:28:00 GMT""}]","2008-02-03"
+"astro-ph/9307012","Maggie Best","Andrew Gould and Brian Yanny","Geometry of the HST Planetary Camera Field","9 pages, phyzzx document. For hardcopy with figure, contact
+  BEST@SNS.IAD.EDU. Institute for Advanced Study number 93/33","Publ.Astron.Soc.Pac. 106 (1994) 101-103","10.1086/133349",,"astro-ph",,"  We present a solution for the relative positions and orientations of the four
+CCD chips on the Hubble Space Telescope (HST) Planetary Camera (PC). An
+accurate solution is required when matching HST images with ground-based images
+or with one another. The solution is accurate to about 1/4 PC pixel or about
+$0{.\hskip-2pt ''} 01$, a 30-fold improvement over the best previous solution.
+The CCDs are rotated relative to one another by up to $1^\circ$. The solution
+is based on images taken between December 1990 and June 1992 and is stable over
+that entire period. We find that the pixel size is $0{.\hskip-2pt ''}04373\pm
+0{.\hskip-2pt ''}00004$ based on comparison with HST Guide Stars, in good
+agreement with previous Guide-Star based calibrations but $\sim 1\%$ smaller
+than a globular-cluster based calibration.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 20:33:53 GMT""}]","2009-10-22"
+"comp-gas/9307001",,"S. Succi( IBM European Center for Scientific and Engineering
+  Computing, Roma, Italy)","Numerical Solution of the Schroedinger Equation using a Quantum Lattice
+  Boltzmann Equation}","LaTeX file",,,,"comp-gas nlin.CG",,"  The quantum Lattice Boltzmann equation (QLBe), a new variant of the lattice
+Boltzmann equation, specifically designed to describe non relativistic quantum
+motion, is validated for the case of a free-particle in (1+1) space-time
+dimensions. The proper parameter regime under which the method needs to be
+operated in order to reproduce faithful non-relativistic quantum motion is also
+discussed.
+","[{""version"":""v1"",""created"":""Wed, 7 Jul 1993 12:18:09 GMT""}]","2008-02-03"
+"cond-mat/9307008","Carlo Carraro","Carlo Carraro and David R. Nelson","Grain Boundary Buckling and Spin Glass Models of Disorder in Membranes","23 pages, standard TeX",,"10.1103/PhysRevE.48.3082",,"cond-mat",,"  A systematic investigation is presented of grain boundaries and grain
+boundary networks in two dimensional flexible membranes with crystalline order.
+An isolated grain boundary undergoes a buckling transition at a critical value
+of the elastic constants, but, contrary to previous findings, the shape of the
+buckled membrane is shown to be asymptotically flat. This is in general not
+true in the case of a network of intersecting grain boundaries, where each
+intersection behaves as the source of a long range stress field. Unlike the
+case of isolated dislocations or disclinations, the energy associated with
+these stresses is finite; they can, however, destabilize the flat phase. The
+buckled phase can be modeled by an Ising spin-glass with long range
+antiferromagnetic interactions. These findings may be relevant to the
+understanding of the wrinkling transition in partially polymerized vesicles
+reported in recent experiments.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 18:32:17 GMT""}]","2009-10-22"
+"gr-qc/9307002","Ted Jacobson","Ted Jacobson and Gungwon Kang","Conformal Invariance of Black Hole Temperature","8 pages, plain LaTeX, NSF-ITP-93-91","Class.Quant.Grav.10:L201-L206,1993","10.1088/0264-9381/10/11/002",,"gr-qc hep-th",,"  It is shown that the surface gravity and temperature of a stationary black
+hole are invariant under conformal transformations of the metric that are the
+identity at infinity. More precisely, we find a conformal invariant definition
+of the surface gravity of a conformal Killing horizon that agrees with the
+usual definition(s) for a true Killing horizon and is proportional to the
+temperature as defined by Hawking radiation. This result is reconciled with the
+intimate relation between the trace anomaly and the Hawking effect, despite the
+{\it non}invariance of the trace anomaly under conformal transformations.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 23:38:00 GMT""}]","2010-04-06"
+"gr-qc/9307003","Donald Marolf","Donald Marolf","Models of Particle Detection in Regions of Spacetime","21 preprint or 10 journal pages REVTEX, SU-GP-93/5-4","Phys. Rev. A 50 (1994) 939","10.1103/PhysRevA.50.939",,"gr-qc hep-th",,"  We investigate two models of measuring devices designed to detect a
+non-relativistic free particle in a given region of spacetime. These models
+predict different probabilities for a free quantum particle to enter a
+spacetime region $R$ so that this notion is device dependent. The first model
+is of a von Neumann coupling which we present as a contrast to the second
+model. The second model is shown to be related to probabilities defined through
+partitions of configuration space paths in a path integral. This study thus
+provides insight into the physical situations to which such definitions of
+probabilities are appropriate.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 20:04:00 GMT""}]","2009-10-22"
+"hep-lat/9307004","Shinji Hioki","K. Akemi, Ph. deForcrand, M. Fujisaki, T. Hashimoto, H.C. Hege, S.
+  Hioki, O. Miyamura, A. Nakamura, M. Okuda I.O. Stamatescu, Y. Tago and T.
+  Takaishi","Scaling Study of Pure Gauge Lattice QCD by Monte Carlo Renormalization
+  Group Method","4 pages of A4 format including 7-postscript figures","Phys.Rev.Lett.71:3063-3066,1993","10.1103/PhysRevLett.71.3063",,"hep-lat",,"  The scaling behavior of pure gauge SU(3) in the region $\beta=5.85 - 7.60$ is
+examined by a Monte Carlo Renormalization Group analysis. The coupling shifts
+induced by factor 2 blocking are measured both on 32$^4$ and 16$^4$ lattices
+with high statistics. A systematic deviation from naive 2-loop scaling is
+clearly seen. The mean field and effective coupling constant schemes explain
+part, but not all of the deviation. It can be accounted for by a suitable
+change of coupling constant, including a correction term ${\cal O}(g^7)$ in the
+2-loop lattice $\beta$-function. Based on this improvement,
+$\sqrt{\sigma}/\Lambda_{\overline {MS}}^{n_f=0}$ is estimated to be $2.2(\pm
+0.1)$ from the analysis of the string tension $\sigma$.
+","[{""version"":""v1"",""created"":""Wed, 7 Jul 1993 08:36:41 GMT""}]","2011-07-19"
+"hep-lat/9307005","Yue Shen","C. Bernard, Y. Shen and A. Soni","A Lattice Calculation of the Isgur-Wise Function","16 pages, 3 postscript figures attached. Preprint BUHEP-93-15, Wash.
+  U. HEP/93-34","Phys.Lett. B317 (1993) 164-172","10.1016/0370-2693(93)91587-D",,"hep-lat hep-ph",,"  We calculate the Isgur-Wise function ($\xi_0$) by measuring the heavy-heavy
+meson transition matrix element on the lattice in the quenched approximation.
+The standard Wilson action is used for both the heavy and the light quarks. Our
+numerical results are compared with various model calculations and experimental
+data. In particular, using a linear fit, we find $\rho^2 = 1.24\pm .26 \pm .26
+$. (The slope of $\xi_0$ at the zero-recoil point is $-\rho^2$.) Using instead
+the parametrization of $\xi_0$ suggested by Neubert and Rieckert and fitting
+the lattice data up to $v\cdot v' \sim 1.2$, we find
+$\rho^2_{NR}=1.41\pm.19\pm.19$
+","[{""version"":""v1"",""created"":""Wed, 7 Jul 1993 15:44:00 GMT""}]","2009-10-22"
+"hep-ph/9307225","Frank Cuypers","M.Baillargeon, F. Boudjema, F.Cuypers, E. Gabrielli and B. Mele","Higgs Production in Association with a Vector Boson Pair at Future e+ e-
+  Colliders","20 pages, plus 9 figures available through mail upon request. Those
+  on decnet can copy the figs thru
+  32945::$disk6:[boudjema.papers.bulletin]figa.ps (same for figb.ps)
+  Resubmitted because of e-mail corruption. Text unchanged","Nucl.Phys. B424 (1994) 343-373","10.1016/0550-3213(94)90298-4","CERN-TH.6932/93, ENSLAPP-A-425/93, LMU-10/93","hep-ph",,"  We study Higgs boson production in association with a pair of electroweak
+vector bosons ($WW,ZZ,Z\gamma$) at future $\epem$ colliders in the framework of
+the Standard Model. Total cross sections and distributions for the
+intermediate-mass Higgs are presented, with special emphasis on the Next Linear
+Collider (NLC) case operating at a centre-of-mass energy $\sqrt{s} \simeq 500$
+GeV, where the cross sections turn out to be more favourable than in
+larger-$\sqrt{s}$ collisions. We find that with an integrated luminosity of 20
+fb$^{-1}$ there is a sizeable event rate for the $HWW$ and $HZ\gamma$ (with a
+high $p_T^{\gamma}$) channels, while a larger integrated luminosity is needed
+to study the $HZZ$ production. We take into account various backgrounds,
+notably top-pair and triple vector-boson production, and show ways to
+significantly reduce their effects.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 18:21:38 GMT""},{""version"":""v2"",""created"":""Tue, 13 Jul 1993 09:53:27 GMT""}]","2009-10-22"
+"hep-ph/9307226",,"G.F. Giudice and E. Roulet","Conditions on supersymmetry soft-breaking terms from GUTs","7 pages, CERN-TH.6940/93","Phys.Lett. B315 (1993) 107-112","10.1016/0370-2693(93)90165-E",,"hep-ph",,"  We study the effect of integrating out the heavy fields in a supersymmetric
+GUT which does not contain small mass parameters in the limit of exact
+supersymmetry. The trilinear ($A$) and bilinear ($B$) coefficients of the
+supersymmetry soft-breaking terms of the low-energy effective theory are
+related in a simple and model-independent way to those of the underlying
+theory. {}From these relations, we obtain the bound $|B|\ge 2$, which, together
+with the requirements of stability of the potential and electroweak symmetry
+breaking, imposes severe constraints on the space of allowed supersymmetric
+parameters. In models based on supergravity with a flat K\""ahler metric, we
+obtain $B=2$, instead of the relation $B=A-1$ usually used in phenomenological
+applications. The low-energy theory contains also a supersymmetric mass term
+$\mu$ for the two Higgs doublets, which is of the order of the
+supersymmetry-breaking scale.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 17:53:36 GMT""}]","2009-10-22"
+"hep-ph/9307227","S. Keller","U. Baur, F. Halzen, S.Keller, M. L. Mangano, and K. Riesselmann","Measurement of the Strange Quark Distribution Function in W + Charm
+  Quark Events","Latex, 9 pages + 2 postscript figures encoded with uufile,
+  FSU-HEP-930608, MAD/TH/93/4, MAD/PH/769. A postscript file with text and
+  embedded figures is available via anonymous ftp at hepsg1.physics.fsu.edu,
+  file is /pub/keller/fsu-hep-930608.ps",,,,"hep-ph",,"  We investigate the prospects of measuring the strange quark distribution
+function at the Tevatron, using $W$ plus charm quark events. The $W$ plus charm
+quark signal produced by strange quark--gluon fusion, $sg\rightarrow W^-c$ and
+$\bar sg\rightarrow W^+\bar c$, is approximately 5\% of the inclusive $W+1$ jet
+cross section for jets with a transverse momentum $p_T(j)>10$~GeV. We study the
+sensitivity of the $W$ plus charm quark cross section to the parametrization of
+the strange quark distribution function, and evaluate the various background
+processes. Strategies to identify charm quarks in CDF and D$0\llap/$ are
+briefly described.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 19:03:21 GMT""}]","2007-05-23"
+"hep-ph/9307229",,"T.S.Evans and A.C. Pearson","Real time thermal propagtors for massive gauge bosons","7 pages, latex","Z.Phys. C65 (1995) 123-126","10.1007/BF01571312",,"hep-ph",,"  We derive Feynman rules for gauge theories exhibiting spontaneous symmetry
+breaking using the real-time formalism of finite temperature field theory. We
+also derive the thermal propagators where only the physical degrees of freedom
+are given thermal boundary conditions. We analyse the abelian Higgs model and
+find that these new propagators simplify the calculation of the thermal
+contribution to the self energy.
+","[{""version"":""v1"",""created"":""Wed, 7 Jul 1993 12:45:01 GMT""},{""version"":""v2"",""created"":""Fri, 9 Jul 1993 14:28:24 GMT""},{""version"":""v3"",""created"":""Mon, 31 Jan 1994 18:19:25 GMT""}]","2009-10-22"
+"hep-th/9307035",,"W.A. McGhee","The Topological Charges of the $a_n^{(1)}$ Affine Toda Solitons","24 pages, LaTeX, DTP-93-35","Int.J.Mod.Phys.A9:2645-2666,1994","10.1142/S0217751X94001060",,"hep-th",,"  The topological charges of the \an affine Toda solitons are considered. A
+general formula is presented for the number of charges associated with each
+soliton, as well as an expression for the charges themselves. For each soliton
+the charges are found to lie in the corresponding fundamental representation,
+though in general these representations are not filled. Each soliton's
+topological charges are invariant under cyclic permutations of the simple roots
+plus the extended root or equivalently, under the action of the Coxeter element
+(with a particular ordering). Multisolitons are considered and are found to
+have topological charges filling the remainder of the fundamental
+representations as well as the entire weight lattice. The article concludes
+with a discussion of some of the other affine Toda theories.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 16:23:27 GMT""}]","2008-11-26"
+"hep-th/9307039",,"Igor A. Bandos, Dmitrij P. Sorokin, Mario Tonin and Dmitrij V. Volkov","Doubly Supersymmetric Null Strings and String Tension Generation","10 pages, LaTeX, DFPD/93/TH/48","Phys.Lett. B319 (1993) 445-450","10.1016/0370-2693(93)91749-D",,"hep-th",,"  We propose a twistor--like formulation of N=1, D=3,4,6 and 10 null
+superstrings. The model possesses N=1 target space supersymmetry and n=D-2
+local worldsheet supersymmetry, the latter replaces the kappa-symmetry of the
+conventional approach to the strings. Adding a Wess--Zumino term to a null
+superstring action we observe a string tension generation mechanism: the
+induced worldsheet metric becomes non-degenerate and the resulting model turns
+out to be classically equivalent to the heterotic string.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 17:17:55 GMT""}]","2009-10-22"
+"hep-th/9307040","Mans Henningson","M{\aa}ns Henningson","N=2 gauged WZW models and the elliptic genus","11p, IASSNS-HEP-93/39","Nucl.Phys. B413 (1994) 73-83","10.1016/0550-3213(94)90614-9",,"hep-th",,"  Witten recently gave further evidence for the conjectured relationship
+between the $A$ series of the $N=2$ minimal models and certain Landau-Ginzburg
+models by computing the elliptic genus for the latter. The results agree with
+those of the $N=2$ minimal models, as can be calculated from the known
+characters of the discrete series representations of the $N=2$ superconformal
+algebra. The $N=2$ minimal models also have a Lagrangian representation as
+supersymmetric gauged WZW models. We calculate the elliptic genera, interpreted
+as a genus one path integral with twisted boundary conditions, for such models
+and recover the previously known result.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 18:15:09 GMT""},{""version"":""v2"",""created"":""Wed, 7 Jul 1993 19:32:49 GMT""},{""version"":""v3"",""created"":""Thu, 21 Oct 1993 14:37:08 GMT""}]","2009-10-22"
+"hep-th/9307041","Ezra Getzler","Ezra Getzler (MIT)","Manin triples and $N=2$ superconformal field theory","17 pages",,,,"hep-th math.QA",,"  This work was inspired by the article of Parkhomenko, who drew attention to
+the central role played in the work of Spindel, Sevrin, Troust and van Proyen,
+by Manin triples. These authors have shown how to associate to a Manin triple
+an $N=2$ superconformal field theory (the work of Kazama-Suzuki is a special
+case of their results). In this paper, we construct a deformation of their
+theory, with continuously varying central charge, analogous to the Fock
+representations of the Virasoro algebra with stress-energy tensor
+$-(\phi')^2/2+\alpha\phi''$.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 20:43:52 GMT""}]","2008-02-03"
+"hep-th/9307042",,"B. Harms and Y. Leblanc","Conjectures on Non-Local Effects in String Black Holes","16 pages, REVTEX","Ann.Phys.242:265-274,1995","10.1006/aphy.1995.1080",,"hep-th",,"  We consider modifications to general relativity by the non-local (classical
+and quantum) string effects for the case of a D-dimensional Scwarzschild black
+hole. The classical non-local effects do not alter the spacetime topology (the
+horizon remains unshifted, at least perturbatively). We suggest a simple
+analytic continuation of the perturbative result into the non-perturbative
+domain, which eliminates the black hole singularity at the origin and yields an
+ultraviolet-finite theory of quantum gravity. We investigate the quantum non-
+local effects (including massive modes) and argue that the inclusion of these
+back reactions resolves the problem of the thermal spectrum in the semi-
+classical approach of field quantization in a black hole background, through
+the bootstrap condition. The density of states for both the quantum and thermal
+interpretation of the WKB formula are finally shown to differ quant- itatively
+when including the non-local effects.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 20:18:55 GMT""}]","2010-11-01"
+"hep-th/9307043","Ergin Sezgin","Z. Khviengia and E. Sezgin","BRST Operator for Superconformal Algebras with Quadratic Nonlinearity","13 pages, plain tex, CTP TAMU-27/93, IC/93/165","Phys.Lett. B326 (1994) 243-250","10.1016/0370-2693(94)91317-X",,"hep-th",,"  We construct the quantum BRST operators for a large class of superconformal
+and quasi--superconformal algebras with quadratic nonlinearity. The only free
+parameter in these algebras is the level of the (super) Kac-Moody sector. The
+nilpotency of the quantum BRST operator imposes a condition on the level. We
+find this condition for (quasi) superconformal algebras with a Kac-Moody sector
+based on a simple Lie algebra and for the $Z_2\times Z_2$--graded
+superconformal algebras with a Kac-Mody sector based on the superalgebra
+$osp(N\vert 2M)$ or $s\ell(N+2\vert N)$.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 21:10:35 GMT""}]","2009-10-22"
+"hep-th/9307044","Li-hua Yu","Li Hua Yu, Chang-Pu Sun","Wave Function Evolution of a Dissipative System","10 pages, BNL-49275","Phys.Rev.A49:592-595,1994","10.1103/PhysRevA.49.592",,"hep-th",,"  For a dissipative system with Ohmic friction, we obtain a simple and exact
+solution for the wave function of the system plus the bath. It is described by
+the direct product in two independent Hilbert space. One of them is described
+by an effective Hamiltonian, the other represents the effect of the bath, i.e.,
+the Brownian motion, thus clarifying the structure of the wave function of the
+system whose energy is dissipated by its interaction with the bath. No path
+integral technology is needed in this treatment. The derivation of the
+Weisskopf-Wigner line width theory follows easily.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 21:37:05 GMT""},{""version"":""v2"",""created"":""Wed, 14 Jul 1993 19:28:10 GMT""},{""version"":""v3"",""created"":""Fri, 6 Aug 1993 21:21:50 GMT""}]","2008-11-26"
+"hep-th/9307045","Nobuyuki Ishibashi","Nobuyuki Ishibashi and Hikaru Kawai","String Field Theory of Noncritical Strings","13 pages ( LaTex file ), KEK-TH-364, UT-649","Phys.Lett. B314 (1993) 190-196","10.1016/0370-2693(93)90448-Q",,"hep-th",,"  We construct the Hamiltonian operator of the string field theory for $c=0$
+string theory. It describes how strings evolve in the coordinate frame, which
+is defined by using the geodesic distance on the worldsheet. The Hamiltonian
+consists of three-string interaction terms and a tadpole term. We show that one
+can derive the loop amplitudes of $c=0$ string theory from this Hamiltonian.
+","[{""version"":""v1"",""created"":""Wed, 7 Jul 1993 06:13:47 GMT""}]","2009-10-22"
+"hep-th/9307046","Eric Bergshoeff","E. Bergshoeff, H.J. Boonstra, S. Panda and M. de Roo","A BRST Analysis of $W$-symmetries","32 pages, UG-4/93","Nucl.Phys. B411 (1994) 717-744","10.1016/0550-3213(94)90468-5",,"hep-th",,"  We perform a classical BRST analysis of the symmetries corresponding to a
+generic $w_N$-algebra. An essential feature of our method is that we write the
+$w_N$-algebra in a special basis such that the algebra manifestly has a
+``nested'' set of subalgebras $v_N^N \subset v_N^{N-1} \subset \dots \subset
+v_N^2 \equiv w_N$ where the subalgebra $v_N^i\ (i=2, \dots ,N)$ consists of
+generators of spin $s=\{i,i+1,\dots ,N\}$, respectively. In the new basis the
+BRST charge can be written as a ``nested'' sum of $N-1$ nilpotent BRST charges.
+In view of potential applications to (critical and/or non-critical) $W$-string
+theories we discuss the quantum extension of our results. In particular, we
+present the quantum BRST-operator for the $W_4$-algebra in the new basis. For
+both critical and non-critical $W$-strings we apply our results to discuss the
+relation with minimal models.
+","[{""version"":""v1"",""created"":""Wed, 7 Jul 1993 08:38:55 GMT""}]","2009-10-22"
+"hep-th/9307047","Stefano Forte","Stefano Forte","Relativistic Quantum Theory with Fractional Spin and Statistics","77 pages, three figures (not included, available upon request from
+  author), plain TeX with harvmac (b mode), DFTT-93-33",,,,"hep-th",,"  These lectures discuss the formulation of quantum mechanics with fractional
+spin and statistics in 2+1 dimensions in a relativistic setting, emphasizing
+the path-integral approach. The non-relativistic theory is reviewed from a
+path-integral viewpoint. The group-theoretical underpinnings of relativistic
+fractional spin are discussed, then the path-integral quantization of spin and
+of massive fermions without using spinors is reviewed. The path integral for a
+system of n relativistic particles with fractional spin is constructed, the
+spin-statistics relation and the Lorentz and Poincare' representation content
+of physical states are discussed. Some problems in formulating a field theory
+with fractional statistics are presented, and their resolution in the operator
+cocycle approach is reviewed.
+","[{""version"":""v1"",""created"":""Wed, 7 Jul 1993 09:59:28 GMT""}]","2007-05-23"
+"nucl-th/9307005","Sara Cruz Barrios","S.Cruz-Barrios","Mean Field Approximation to two-subsystems: Examples","34 pages in LATEX, 2 figures",,,,"nucl-th",,"  Using the Funtional Integrals Formulation is developes a self-consistent mean
+field expansion to evolution operators of a system composed by two subsystems.
+This is a general expansion and can be generalized for more of two subsystems,
+which can be as system composed by fermions and bosons with an interaction
+between their ($\sigma$-model , $\sigma-\omega$ model or maser model) as a
+fermionic system with two or more different interactions between fermions
+particles, (NJL model ).
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 16:10:21 GMT""}]","2007-05-23"
+"nucl-th/9307006",,"M. Prakash, P.J. Ellis, E.K. Heide and S. Rudaz","Neutron Stars and Nuclei in the Modified Relativistic Hartree
+  Approximation","33 pages, Latex, 8 figures (available from authors by fax), Minnesota
+  preprint NUC-MINN-93/7-T",,"10.1016/0375-9474(94)90376-X",,"nucl-th",,"  We have examined the properties of neutron-rich matter and finite nuclei in
+the modified relativistic Hartree approximation for several values of the
+renormalization scale, $\mu$, around the standard choice of $\mu$ equal to the
+nucleon mass $M$. Observed neutron star masses do not effectively constrain the
+value of $\mu$. However for finite nuclei the value $\mu/M=0.79$, suggested by
+nuclear matter data, provides a good account of the bulk properties with a
+sigma mass of about 600 MeV. This value of $\mu/M$ renders the effective three
+and four body scalar self-couplings to be zero at 60\% of equilibrium nuclear
+matter density, rather than in the vacuum. We have also found that the matter
+part of the exchange diagram has little impact on the bulk properties of
+neutron stars.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 22:26:11 GMT""}]","2009-10-22"
+"nucl-th/9307007",,"Alexei V. Selikhov and Miklos Gyulassy","Color Diffusion and Conductivity in a Quark-Gluon Plasma","11 pages, Columbia University Preprint CU-TP-598","Phys.Lett.B316:373-380,1993","10.1016/0370-2693(93)90341-E",,"nucl-th",,"  Color diffusion is shown to be an important dissipative property of
+quark-gluon plasmas that rapidly damps collective color modes. We derive the
+characteristic color relaxation time scale, $t_c\approx (3\alpha_s T
+\log(m_E/m_M ))^{-1}$, showing its sensitivity to the ratio of the static color
+electric and magnetic screening masses. This leads to a surprisingly small
+color conductivity, $\sigma_c\approx 2 T/\log(m_E/m_M)$, which in fact vanishes
+in the semi-classical (1-loop) limit.
+","[{""version"":""v1"",""created"":""Wed, 7 Jul 1993 00:04:51 GMT""}]","2009-10-09"
+"nucl-th/9307008",,"A. Engel, W. Cassing, U. Mosel, M. Sch\""afer, Gy. Wolf, (Institut
+  f\""ur Theoretische Physik, Universit\""at Giessen D--35392 Giessen, Germany)","Pion-nucleus reactions in a microscopic transport model","31 pages, UGI-93-04","Nucl.Phys. A572 (1994) 657-681","10.1016/0375-9474(94)90405-7",,"nucl-th",,"  We analyse pion-nucleus reactions in a microscopic transport model of the BUU
+type, which propagates nucleons, pions, deltas and N(1440)-resonances
+explicitly in space and time. In particular we examine pion absorption and
+inelastic scattering cross sections for pion kinetic energies T(pi) =85-315MeV
+and various target masses. In general, the mass-dependence of the experimental
+data is well described for energies up to the delta-resonance (\approx 160 MeV)
+while the absorption cross sections are somewhat overestimated for the higher
+energies. In addition we study the possible dynamical effects of delta- and
+pion-potentials in the medium on various observables as well as alternative
+models for the in-medium delta-width.
+","[{""version"":""v1"",""created"":""Wed, 7 Jul 1993 12:50:57 GMT""}]","2009-10-22"

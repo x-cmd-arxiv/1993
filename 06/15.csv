@@ -1,0 +1,246 @@
+"astro-ph/9306009","Hannu Kurki-Suonio","Hannu Kurki-Suonio, Pablo Laguna, and Richard A. Matzner","Inhomogeneous Inflation: Numerical Evolution","18 pages, 20 figures available on request, plain TeX, HU-TFT-93-31","Phys.Rev. D48 (1993) 3611-3624","10.1103/PhysRevD.48.3611",,"astro-ph hep-ph",,"  We describe our 3-dimensional numerical relativity code for the evolution of
+inhomogeneous cosmologies. During the evolution the constraint equations are
+monitored but not solved. The code has been tested against perturbation theory
+with good results. We present some runs of inhomogeneous inflation with
+strongly inhomogeneous initial data.
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 09:59:07 GMT""}]","2009-10-22"
+"astro-ph/9306010","Andy Taylor","A.N. Taylor & M. Rowan-Robinson","Reconstruction Analysis I.: Redshift--space deprojection in the
+  quasi--nonlinear regime","15, Latex,ROE14/93",,"10.1093/mnras/265.4.809",,"astro-ph",,"  We present a new method for extracting the true 3-d velocity and density
+fields from the nonlinear redshift--space projected density field. The method
+is based on the nonlinear, nonlocal transformation of the density field. We
+assume a curl--free velocity field, although in the formulation presented here
+this assumption can be dropped. Toy models with special symmetry are used to
+test the intrinsic accuracy of the method compared to linear theory.
+  Finding significant improvement we then test the method in more detail on
+N--body simulations, considering the problems associated with sampling the
+density field using sparse, magnitude--limited galaxy redshift surveys.
+  A method of estimating the magnitude of shot--noise effects on the
+deprojected velocity field is derived.
+  We find there is a good correlation between the true and deprojected density
+and velocity fields, even in the mildly nonlinear regime, provided that on
+large scales galaxies trace the mass. An initial application is made to the
+IRAS--QDOT all--sky redshift survey.
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 15:17:10 GMT""},{""version"":""v2"",""created"":""Wed, 16 Jun 1993 13:01:28 GMT""}]","2015-06-24"
+"cond-mat/9306032","Kim Doochul","G. M. Shimi, D. Kim and M.Y. Choi (Department of Physics and Center
+  for Theoretical Physics Seoul National University, Seoul 151-742, Korea)","Optimal storage capacity of neural networks at finite temperatures","22 pages in LaTex, 4 figures upon request, SNUTP-93-26",,,,"cond-mat",,"  Gardner's analysis of the optimal storage capacity of neural networks is
+extended to study finite-temperature effects. The typical volume of the space
+of interactions is calculated for strongly-diluted networks as a function of
+the storage ratio $\alpha$, temperature $T$, and the tolerance parameter $m$,
+from which the optimal storage capacity $\alpha_c$ is obtained as a function of
+$T$ and $m$. At zero temperature it is found that $\alpha_c = 2$ regardless of
+$m$ while $\alpha_c$ in general increases with the tolerance at finite
+temperatures. We show how the best performance for given $\alpha$ and $T$ is
+obtained, which reveals a first-order transition from high-quality performance
+to low-quality one at low temperatures. An approximate criterion for recalling,
+which is valid near $m=1$, is also discussed.
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 01:54:55 GMT""}]","2007-05-23"
+"cond-mat/9306033","Christoph Bruder","C. Bruder and H. Schoeller","Charging Effects in Ultrasmall Quantum Dots in the Presence of
+  Time-Varying Fields","9 Pages Revtex. 3 postscript figures available on request from
+  bruder@tfp.physik.uni-karlsruhe.de",,"10.1103/PhysRevLett.72.1076",,"cond-mat",,"  The influence of charging effects on time-dependent transport in small
+semiconductor quantum dots with arbitrary level spectra is studied. Starting
+from an explicit time-dependent tunneling Hamiltonian, a non-Markovian Master
+equation is derived which is also valid in the nonlinear response regime. The
+many-body nonequilibrium distribution functions of the dot are calculated and
+the I-V characteristic of the structure including the displacement currents is
+obtained. New resonant features show up in the Coulomb oscillations and in the
+Coulomb staircase, and a new possibility to realize electronic pumps is
+described.
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 10:26:56 GMT""}]","2009-10-22"
+"cond-mat/9306034","V. Privman","Jian-Sheng Wang, Peter Nielaba and Vladimir Privman","Locally Frozen Defects in Random Sequential Adsorption with Diffusional
+  Relaxation","16 pages of text in plain TeX + 6 figures in PostScript","Physica A 199, 527-538 (1993)","10.1016/0378-4371(93)90066-D",,"cond-mat",,"  Random sequential adsorption with diffusional relaxation, of two by two
+square objects on the two-dimensional square lattice is studied by Monte Carlo
+computer simulation. Asymptotically for large lattice sizes, diffusional
+relaxation allows the deposition process to reach full coverage. The coverage
+approaches the full occupation value, 1, as a power-law with convergence
+exponent near 1/2. For a periodic lattice of finite (even) size $L$, the final
+state is a frozen random rectangular grid of domain walls connecting
+single-site defects. The domain sizes saturate at L**0.8. Prior to saturation,
+i.e., asymptotically for infinite lattice, the domain growth is power-law with
+growth exponent near, or possibly somewhat smaller than, 1/2.
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 11:07:06 GMT""}]","2010-10-12"
+"cond-mat/9306035","Sean Washburn","J. Liu, W.X. Gao, K.Ismail, K.Y. Lee, J.M. Hong, S. Washburn","Correlations between Aharonov-Bohm effects and one-dimensional subband
+  populations in GaAs/Al$_{x}$Ga$_{1-x}$As rings","23 pages. 9 postscripts figures that will be emailed on request",,"10.1103/PhysRevB.48.15148",,"cond-mat",,"  The Aharonov-Bohm (AB) interference patterns in ring-shaped conductors are
+usually dominated by random features. The amplitude of the oscillations is
+random from sample to sample and from point to point on the magnetic field axis
+owing to random scattering of the electron trajectories by impurities within
+the wires. We report experiments on new devices made with wet etching and
+global gates, which have shown major progress towards removing the random
+features. In loops that exhibit ballistic conductance plateaux and cyclotron
+orbit trapping at $4.2K$, the random pattern of AB oscillations (observed for
+$T < 0.1K$) can be replaced by much more ordered one -- especially if only a
+few transverse modes are populated in the ring. The amplitude and shape of the
+oscillation envelope function change systematically as subbands are populated
+in the wires forming the loops. Mechanisms governing the AB effect in the
+ballistic regime are discussed. Correlation has been found between the
+$G(V_{g},B=0)$ staircase and the ``beating period"" of the envelope functions.
+Quantum oscillations in $G(V_{g},B = 0)$ are consistent with direct
+interference of paths of unequal length. Both the correlations and the quantum
+oscillations in gate voltage are signatures of ballistic transport.
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 13:28:48 GMT""}]","2009-10-22"
+"gr-qc/9306018","Hans-Juergen Matschull","H.-J. Matschull and H. Nicolai","Canonical Quantum Supergravity in Three Dimensions, (some lines lost
+  during submission)","40 pages, LaTeX, DESY 93-073","Nucl.Phys. B411 (1994) 609-646","10.1016/0550-3213(94)90464-2",,"gr-qc hep-th",,"  We discuss the canonical treatment and quantization of matter coupled
+supergravity in three dimensions, with special emphasis on $N=2$ supergravity.
+We then analyze the quantum constraint algebra; certain operator ordering
+ambiguities are found to be absent due to local supersymmetry. We show that the
+supersymmetry constraints can be partially solved by a functional analog of the
+method of characteristics. We also consider extensions of Wilson loop integrals
+of the type previously found in ordinary gravity, but now with connections
+involving the bosonic and fermionic matter fields in addition to the
+gravitational connection. In a separate section of this paper, the canonical
+treatment and quantization of non-linear coset space sigma models are discussed
+in a self contained way.
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 14:36:54 GMT""},{""version"":""v2"",""created"":""Wed, 16 Jun 1993 10:23:01 GMT""}]","2009-10-22"
+"hep-lat/9306010","Paolo Marenzoni","P.Marenzoni and P.Rossi","Gribov Copies in Lattice QCD","7 pages LaTex, UPRF February 93 preprint /321/","Phys.Lett. B311 (1993) 219-222","10.1016/0370-2693(93)90558-Y",,"hep-lat",,"  We have performed an exhaustive search for Gribov copies on the lattice and
+their possible dependence from finite temperature effects. We show that, for
+each value of lattice size, Gribov copies are dense in configuration space at
+low temperature but their density tend to lower when the temperature increases.
+We have investigated lattice sizes running from $16^3\times 8$ to $16^4$.
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 15:34:24 GMT""}]","2009-10-22"
+"hep-ph/9306269",,"B.Brahmachari, U. Sarkar and K. Sridhar","Non-perturbative unification in the light of LEP results","Latex file 7 pages+1 fig. (ps file appended after the latex file),
+  CERN-TH.6913/93","Mod.Phys.Lett. A8 (1993) 3349-3354","10.1142/S0217732393003779",,"hep-ph",,"  We consider an alternative to conventional GUTs originally proposed by
+Maiani, Parisi and Petronzio, where owing to the existence of extra fermion
+generations at some intermediate scale, the gauge couplings become large at
+high energies. We first comment on how the non- supersymmetric version of this
+scenario is ruled out; we then consider the two-loop evolution of the couplings
+in the supersymmetric extension of this scenario, and check whether such a
+scenario is feasible in the light of the precies values of couplings now
+available from LEP.
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 16:23:33 GMT""}]","2015-06-25"
+"hep-ph/9306270","Ed Stoeffhaas","V. Barger, K. Cheung, A. Djouadi, B.A. Kniehl and P.M. Zerwas","Higgs Bosons: Intermediate Mass Range at e+e- Colliders","Standard Latex. 15 pages. 11 figures available by fax or regular
+  mail. MAD/PH/749, DESY 93-064, UdeM-LPN-TH-93-143, NUHEP-TH-93-12","Phys.Rev.D49:79-90,1994","10.1103/PhysRevD.49.79",,"hep-ph",,"  We elaborate on the production of the Standard Model Higgs particle at
+high-energy $e^+e^-$ colliders through the reaction $e^+e^- \rightarrow ZH$.
+Particular emphasis is put on the intermediate mass range. In addition to the
+signal we discuss in detail the background processes. Angular distributions
+which are sensitive to the spin and parity of the Higgs particle are analyzed.
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 20:11:26 GMT""}]","2009-09-15"
+"hep-ph/9306271","J. Gunion","J. Dai, J.F. Gunion and R. Vega","Using $b$-Tagging to Detect $t\anti t$~Higgs Production with Higgs$\rta
+  b\anti b$","11 pages, uses phyzzx.tex and tables.tex macros, full postscript
+  file, including embedded figures, available via anonymous ftp at
+  ucdhep.ucdavis.edu as [anonymous.gunion]hbb_sm.ps, Higgs branching ratios
+  corrected to larger values, additional b-tagging and mis-identification
+  scenarios studied, preprint UCD-93-18","Phys.Rev.Lett. 71 (1993) 2699-2702","10.1103/PhysRevLett.71.2699",,"hep-ph",,"  We demonstrate that expected efficiencies and purities for $b$-tagging at
+SSC/LHC detectors may allow detection of the Standard Model Higgs in $t\anti t
+\hsm$ production, with $\hsm\rta b\anti b$ decay, for $80\lsim\mhsm\lsim
+130\gev$, provided $\mt\gsim 130\gev$.
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 20:23:00 GMT""},{""version"":""v2"",""created"":""Tue, 15 Jun 1993 16:27:00 GMT""},{""version"":""v3"",""created"":""Fri, 24 Sep 1993 02:11:00 GMT""}]","2009-10-22"
+"hep-ph/9306272",,"A. Makhlin","Nonequilibrium Quantum Field Kinetics","20 pages, Preprint SUNY-NTG-92-11",,,,"hep-ph",,"  Using the general framework of nonequilibrium statistical mechanics for
+relativistic quantum field systems we derive the basic equations of quantum
+field kinetics. The main aim of the approach is calculation of observables
+associated with quark-gluon plasma which is out of thermal and chemical
+equilibrium. We show that in the regime of high rate of the phase and
+statistical mixing the perturbation theory for many-body quantum field system
+should have the form which much differs from the standard expansion in powers
+of coupling constant. ( Figures can be obtained from the author )
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 21:16:06 GMT""}]","2007-05-23"
+"hep-ph/9306273",,"A. Makhlin","Heavy dileptons from nonequilibrium QGP","20 pages, Preprint SUNY-NTG-93-20",,,,"hep-ph",,"  The rate of emission of heavy dileptons from QGP is found without an
+assumption of its complete thermal equilibrium. We base on the real-time
+quantum field kinetic approach [1] and use the expansion up to the second order
+with respect to strong coupling constant $g$. The final answer is not free from
+the collinear singularities and we show that this is the actual issue. As a
+result the main contribution to the rate of the heavy dileptons production at
+$M/T \sim 10$ comes from the process $q\bar{q}g\rightarrow \gamma^{*}$.
+  ( Figures can be obtained from the author )
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 21:31:08 GMT""}]","2007-05-23"
+"hep-ph/9306274",,"A. Makhlin","Real photons from nonequilibrium QGP","9 pages, Preprint SUNY-NTG-93-10",,,,"hep-ph",,"  We calculate the rate of the emission of the photons from the QGP. We base on
+the real-time kinetic approach [1] without an explicit assumption about a
+complete thermal equilibrium in the emitting system.
+  ( Figures can be obtained from the author )
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 22:07:01 GMT""}]","2007-05-23"
+"hep-ph/9306275","Ulf Meissner","Ulf-G. Mei{\ss}ner","Thermal Pions","7 pp, LaTeX, uses espcrc1.sty from North-Holland Publishing,
+  BUTP-93/16","Nucl.Phys. A566 (1994) 141c-147c","10.1016/0375-9474(94)90618-1",,"hep-ph nucl-th",,"  I discuss the absorption and dispersion of pions in hot matter. A two-loop
+calculation in the framework of chiral perturbation theory is presented and its
+result is compactly written in terms of the two- and three-particle forward
+$\pi \pi$ scattering amplitudes. At modest temperatures, $T \le 100$ MeV, the
+change in the pion mass is small and its dispersion law closely resembles the
+free space one. At these temperatures, all quantities of interest are given to
+a good degree of accuracy by the first term in the virial expansion which is
+linear in the density. (BUTP-93/16, uses espcrc1.sty from North-Holland
+Publishing)
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 09:02:23 GMT""}]","2009-10-22"
+"hep-ph/9306276",,"T.G. Rizzo","Inverse Neutrinoless Double $\beta$-Decay at the NLC?","5 pages, 5 figures(not included), LaTex format with worldsci macro,
+  ANL-HEP-CP-93-24",,,,"hep-ph",,"  The NLC may allow us to search for the `inverse' process to neutrinoless
+double-$\beta$ decay, $e^-e^-\to W^-W^-$, which probes the existence of
+Majorana masses for neutrinos. Expectations for the observation of this process
+in both the Standard Model and its extension, the Left-Right Symmetric Model,
+are examined. (Talk given at the {\it {Workshop on Physics and Experiments at
+Linear $e^+e^-$ Colliders}}, Waikoloa, Hawaii.)
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 12:59:14 GMT""}]","2007-05-23"
+"hep-th/9306062",,"A.M. Bincer and K. Riesselmann","Casimir operators of the exceptional group G2","10 p., MAD/TH/93-05, (LaTex)","J.Math.Phys. 34 (1993) 5935-5941","10.1063/1.530293",,"hep-th",,"  We calculate the degree 2 and 6 Casimirs operators in explicit form, with the
+generators of G2 written in terms of the subalgebra A2
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 16:14:00 GMT""}]","2009-10-22"
+"hep-th/9306063","Ulf Danielsson","Ulf H. Danielsson","A Matrix Model Black Hole","15 pages, Latex, 2 figures available on request, CERN-TH.6916/93.
+  Minor typos corrected","Nucl.Phys. B410 (1993) 395-406","10.1016/0550-3213(93)90440-Z",,"hep-th",,"  In this paper the $c=1$ matrix model deformed by a $1/x^{2}$ piece is
+discussed. Tachyon correlation functions are calculated up to genus two using
+methods similar to those for the undeformed case. The possible connection with
+the two dimensional black hole is also considered. In particular, restrictions
+on naked singularities imposed by the matrix model are found.
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 17:46:06 GMT""},{""version"":""v2"",""created"":""Thu, 1 Jul 1993 15:35:58 GMT""}]","2009-10-22"
+"hep-th/9306064",,"Hisashi Kikuchi","Chiral phase dependence of fermion partition function in two dimension","29 page (LaTeX) + 1 figure (figure is available upon request.),
+  UCRHEP-T110",,,,"hep-th",,"  The chiral phase dependence of fermion partition function in spherically
+symmetric U(1) gauge field background is analyzed in two dimensional
+space-time. A well-defined method to calculated the path integral which apply
+to the continuous fermion spectrum is described. The one-to-one correspondence
+between the nonzero energy continuous spectra of two pertinent hamiltonians,
+which are defined by the Dirac operator to make the path integral well-defined,
+is shown to be exact. The asymptotic expansion for the chiral phase dependence
+in \(1/|m|^2\) (\(m\) is mass of the fermion.) is proposed and the coefficients
+in the expansion are evaluated up to the next-to-next leading term. Up to this
+order, the chiral phase dependence is given only by the winding number of
+background field and the corrections vanish.
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 20:41:40 GMT""}]","2007-05-23"
+"hep-th/9306065","Pawel Kurzepa","A. Kovner and P. S. Kurzepa","Fermions from photons: Bosonization of QED in 2+1 dimensions","30 pages, LA - UR - 93 - 2003","Int. J. Mod. Phys. A9 (1994) 4669-4700","10.1142/S0217751X94001862",,"hep-th",,"  We perform the complete bosonization of 2+1 dimensional QED with one
+fermionic flavor in the Hamiltonian formalism. The Fermi operators are
+explicitly constructed in terms of the vector potential and the electric field.
+We carefully specify the regularization procedure involved in the definition of
+these operators, and calculate the fermionic bilinears and the energy -
+momentum tensor. The algebra of bilinears exhibits the Schwinger terms which
+also appear in perturbation theory. The bosonic Hamiltonian is a local,
+polynomial functional of $A_i$ and $E_i$, and we check explicitly the Lorentz
+invariance of the resulting bosonic theory. Our construction is conceptually
+very similar to Mandelstam's construction in 1+1 dimensions, and is dissimilar
+from the recent bosonization attempts in 2+1 dimensions, which hinge crucially
+on the presence of a Chern - Simons term.
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 21:39:49 GMT""}]","2015-06-26"
+"hep-th/9306066","Shogo Tanimura","Shogo Tanimura","Relativistic Generalization and Extension to the Non-Abelian Gauge
+  Theory of Feynman's Proof of the Maxwell Equations","22 pages","Annals Phys. 220 (1992) 229-247","10.1016/0003-4916(92)90362-P",,"hep-th",,"  R.P. Feynman showed F.J. Dyson a proof of the Lorentz force law and the
+homogeneous Maxwell equations, which he obtained starting from Newton's law of
+motion and the commutation relations between position and velocity for a single
+nonrelativistic particle. We formulate both a special relativistic and a
+general relativistic versions of Feynman's derivation. Especially in the
+general relativistic version we prove that the only possible fields that can
+consistently act on a quantum mechanical particle are scalar, gauge and
+gravitational fields. We also extend Feynman's scheme to the case of
+non-Abelian gauge theory in the special relativistic context.
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 04:13:27 GMT""}]","2015-06-26"
+"hep-th/9306067","Yoshio Kikukawa","S. Aoki and Y. Kikukawa","Anomaly through Gauge Invariant Regularization with Infinite Number of
+  Pauli-Villars Fields","16pages, UTHEP-258, KUNS-1204, HE(TH)93/05","Mod. Phys. Lett. A8 (1993) 3517-3528","10.1142/S0217732393002257",,"hep-th hep-lat",,"  Abelian anomaly is examined by means of the recently proposed gauge invariant
+regularization for SO(10) chiral gauge theory and its generalization for a
+theory of arbitrary gauge group with anomaly-free chiral fermion contents. For
+both cases it is shown that the anomaly with correct normalization can be
+obtained in a gauge invariant form without any counterterms.
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 13:21:50 GMT""},{""version"":""v2"",""created"":""Thu, 17 Jun 1993 20:02:53 GMT""}]","2009-10-22"
+"math/9306214","Shelah Office","Martin Goldstern, Haim Judah, Saharon Shelah","Strong measure zero sets without Cohen reals",,"J. Symbolic Logic 58 (1993), 1323--1341",,"Shelah [GJSh:438]","math.LO",,"  If ZFC is consistent, then each of the following are consistent with ZFC +
+2^{{aleph_0}}= aleph_2 :
+  1.) X subseteq R is of strong measure zero iff |X| <= aleph_1 + there is a
+generalized Sierpinski set.
+  2.) The union of aleph_1 many strong measure zero sets is a strong measure
+zero set + there is a strong measure zero set of size aleph_2.
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9306215","Shelah Office","Menachem Kojman, Saharon Shelah","mu-complete Suslin trees on mu^+",,"Arch. Math. Logic 32 (1993), 195--201",,"Shelah [KjSh:449]","math.LO",,"  We prove that mu = mu^{< mu}, 2^mu = mu^+ and ``there is a non reflecting
+stationary subset of mu^+ composed of ordinals of cofinality < mu'' imply that
+there is a mu-complete Souslin tree on mu^+ .
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9306014","Dao-Chen Zheng","B. R. Barrett, D. C. Zheng, R. J. McCarthy and J. P. Vary","Minimizing Effective Many-Body Interactions","(15 pages of text and 1 postscript figure (Figure available upon
+  request), Preprint Number not assigned yet","Phys.Lett. B316 (1993) 219-225","10.1016/0370-2693(93)90316-A",,"nucl-th",,"  A simple two-level model is developed and used to test the properties of
+effective interactions for performing nuclear structure calculations in
+truncated model spaces. It is shown that the effective many-body interactions
+sensitively depend on the choice of the single-particle basis and they appear
+to be minimized when a self- consistent Hartree-Fock basis is used.
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 23:42:09 GMT""}]","2009-10-22"
+"nucl-th/9306015","Tamas Biro","T.S.Biro and J.Zimanyi","Exotic Heavy Baryons at LHC?","9 pages, 1 Figure, KFKI-1993-13/A, LaTeX (email:
+  biro@theorie.physik.uni-giessen.de)",,,,"nucl-th",,"  We speculate about a heavy bottom-charm six-quark baryon. A semiclassical and
+a gaussian estimate reveal that the octet-octet bbb-ccc configuration can be
+energetically favored with respect to the singlet-singlet one. This result
+suggests that a confined bbb-ccc six-quark state may exist. Such objects may be
+produced in appreciable amount in heavy ion collisions at LHC energies.
+","[{""version"":""v1"",""created"":""Tue, 15 Jun 1993 15:11:30 GMT""}]","2007-05-23"

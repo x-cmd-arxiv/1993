@@ -1,0 +1,217 @@
+"astro-ph/9310004","Robert Brandenberger","Robert H. Brandenberger, David M. Kaplan and Stephen A, Ramsey (Brown
+  Univ.)","Some Statistics for Measuring Large-Scale Structure","BROWN-HET-922 (August 1993), 13 pages, 5 figures (available from the
+  authors), uses PHYZZX",,,,"astro-ph hep-ph",,"  Good statistics for measuring large-scale structure in the Universe must be
+able to distinguish between different models of structure formation. In this
+paper, two and three dimensional ``counts in cell"" statistics and a new
+``discrete genus statistic"" are applied to toy versions of several popular
+theories of structure formation: random phase cold dark matter model, cosmic
+string models, and global texture scenario. All three statistics appear quite
+promising in terms of differentiating between the models.
+","[{""version"":""v1"",""created"":""Sun, 3 Oct 1993 19:58:41 GMT""}]","2007-05-23"
+"astro-ph/9310005",,"Marek Biesiada","Gamma-Ray Bursts and Topology of the Universe","8 pages, LaTeX, NCAC-264",,,,"astro-ph",,"  In this letter we propose a physical explanation for recently reported
+correlations between pairs of close and antipodal gamma-ray bursts from
+publicly available BATSE catalogue. Our model is based on the cosmological
+scenario in which bursters are located at cosmological distances of order of
+0.5--2~Gpc. Observed distribution of gamma-ray bursts strongly suports this
+assumption. If so gamma-ray bursts may provide a very good probe for
+investigating the topological structure of the Universe. We notice that
+correlation between antipodal events may in fact indicate that we live in the
+so called Ellis' small universe which has Friedman-Roberston-Walker metric
+structure and nontrivial topology.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 10:17:22 GMT""}]","2007-05-23"
+"cond-mat/9310005",,"V.Kurasov","Decay of metastable multicomponent mixture","25 p., LATEX, FU-TKM-08.07.93",,,,"cond-mat",,"  The kinetics of the multicomponent condensation after the instantaneous
+creation of the metastable state is described analytically. Manydimensional
+problem is reduced to the one-dimensional case. All the main characteristics of
+the process are obtained analytically with the help of iteration procedure. As
+the result the analytical theory for the decay of the metastable phase in
+completely constructed for vapor with many components.
+","[{""version"":""v1"",""created"":""Sun, 3 Oct 1993 22:26:35 GMT""}]","2007-05-23"
+"gr-qc/9310006","Gerard 't Hooft","C.R. Stephens, G. 't Hooft and B.F. Whiting","Black Hole Evaporation without Information Loss","35 pages (including Figures); TEX, 3 figures in postscript","Class.Quant.Grav.11:621-648,1994","10.1088/0264-9381/11/3/014","THU-93/20; UF-RAP-93-11","gr-qc hep-th",,"  An approach to black hole quantization is proposed wherein it is assumed that
+quantum coherence is preserved. A consequence of this is that the Penrose
+diagram describing gravitational collapse will show the same topological
+structure as flat Minkowski space. After giving our motivations for such a
+quantization procedure we formulate the background field approximation, in
+which particles are divided into ""hard"" particles and ""soft"" particles. The
+background space-time metric depends both on the in-states and on the
+out-states. We present some model calculations and extensive discussions. In
+particular, we show, in the context of a toy model, that the $S$-matrix
+describing soft particles in the hard particle background of a collapsing star
+is unitary, nevertheless, the spectrum of particles is shown to be
+approximately thermal. We also conclude that there is an important topological
+constraint on functional integrals.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 13:19:22 GMT""}]","2010-04-06"
+"gr-qc/9310007","Harald H. Soleng","H. H. Soleng","Inverse Square Law of Gravitation in (2+1)-Dimensional Space-Time as a
+  Consequence of Casimir Energy","10 pages, LaTeX, Report: UPR-0540-T, To appear in Physica Scripta","Phys.Scripta 48:649-652,1993","10.1088/0031-8949/48/6/002",,"gr-qc",,"  The gravitational effect of vacuum polarization in space exterior to a
+particle in (2+1)-dimensional Einstein theory is investigated. In the weak
+field limit this gravitational field corresponds to an inverse square law of
+gravitational attraction, even though the gravitational mass of the quantum
+vacuum is negative. The paradox is resolved by considering a particle of finite
+extension and taking into account the vacuum polarization in its interior.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 12:18:04 GMT""}]","2010-11-01"
+"gr-qc/9310008",,"G. Lifschytz and M. Ortiz","Scalar field quantization on the 2+1 dimensional black hole background","CTP 2243, 24 pages, RevTex. (The backreaction section is extended,
+  and some confusing notation has been changed)","Phys.Rev.D49:1929-1943,1994","10.1103/PhysRevD.49.1929",,"gr-qc hep-th",,"  The quantization of a massless conformally coupled scalar field on the 2+1
+dimensional Anti de Sitter black hole background is presented. The Green's
+function is calculated, using the fact that the black hole is Anti de Sitter
+space with points identified, and taking into account the fact that the black
+hole spacetime is not globally hyperbolic. It is shown that the Green's
+function calculated in this way is the Hartle-Hawking Green's function. The
+Green's function is used to compute $\langle T^\mu_\nu \rangle$, which is
+regular on the black hole horizon, and diverges at the singularity. A particle
+detector response function outside the horizon is also calculated and shown to
+be a fermi type distribution. The back-reaction from $\langle T_{\mu\nu}
+\rangle$ is calculated exactly and is shown to give rise to a curvature
+singularity at $r=0$ and to shift the horizon outwards. For $M=0$ a horizon
+develops, shielding the singularity. Some speculations about the endpoint of
+evaporation are discussed.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 13:46:34 GMT""},{""version"":""v2"",""created"":""Mon, 4 Oct 1993 13:58:25 GMT""},{""version"":""v3"",""created"":""Tue, 9 Nov 1993 19:19:37 GMT""}]","2009-09-25"
+"gr-qc/9310009","Jesus Barbero","J. Fernando Barbero","General Relativity as a Theory of Two Connections","18 pages, LATEX, Preprint CGPG-93/09-5","Int.J.Mod.Phys.D3:379-392,1994","10.1142/S0218271894000587",,"gr-qc",,"  We show in this paper that it is possible to formulate General Relativity in
+a phase space coordinatized by two $SO(3)$ connections. We analyze first the
+Husain-Kucha\v{r} model and find a two connection description for it.
+Introducing a suitable scalar constraint in this phase space we get a
+Hamiltonian formulation of gravity that is close to the Ashtekar one, from
+which it is derived, but has some interesting features of its own. Among them a
+possible mechanism for dealing with the degenerate metrics and a neat way of
+writing the constraints of General Relativity.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 13:58:10 GMT""}]","2017-03-24"
+"hep-ph/9310211",,"Jonathan Feng, Donald Finnell","Squark Mass Determination at the Next Generation of Linear $e^+e^-$
+  Colliders","revtex 3.0 or 2.x, 21 pages, 11 figures available upon request,
+  SLAC-PUB-6289","Phys.Rev. D49 (1994) 2369-2381","10.1103/PhysRevD.49.2369",,"hep-ph",,"  Current mass limits allow the possibility that squarks may be produced in
+large numbers at the next generation of linear $e^+e^-$ colliders. In this
+paper we investigate the prospects for precision studies of squark masses at
+such colliders. We assume that squarks are lighter than gluinos, and discuss
+both direct and cascade decay scenarios. By exploiting the clean environment
+and polarizable beams of linear $e^+e^-$ colliders, we find that squark mass
+determinations at the level of a few GeV are possible in a large part of the
+parameter space.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 01:13:00 GMT""}]","2009-10-22"
+"hep-ph/9310212","Francesca Borzumati","F.M. Borzumati (Institut f\""ur Theoretische Physik)","The Decay $b \to s \gamma$ In The Mssm Revisited","Latex file, 43 pages (when figures are included), style file
+  mystyle.sty (after \end{document}), 17 figures (not included) can be obtained
+  directly from the author, or via anonymous ftp @ ftp.desy.de [131.169.10.38],
+  in directory: pub/outgoing/BSGAMMA","Z.Phys.C63:291-308,1994","10.1007/BF01411022","DESY 93-090","hep-ph",,"  We present a re-analysis of the decay $\bsgamma$ in the Minimal
+Supersymmetric Standard Model with radiatively induced breaking of $SU(2)
+\times U(1)$. We extend this analysis to regions of the supersymmetric
+parameter space wider than those previously studied. Results are explicitly
+presented for $m_t=150\GeV$. We emphasize the consequences for future searches
+of charged Higgs and charginos from a measurement of the branching ratio for
+this decay compatible with the Standard Model prediction. In spite of the
+strong sensitivity of this decay to the effects of supersymmetry, we find that,
+at the moment, no lower limit on the mass of these particles can be obtained.
+The large chargino contributions to the branching ratio for $\bsgamma$, for
+large values of $\tan \beta$, are effectively reduced by pushing the lightest
+eigenvalue of the up-squark mass matrix closer to the electroweak scale, i.e.
+by increasing the degree of degeneracy among the up-squarks.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 03:33:19 GMT""}]","2011-07-19"
+"hep-ph/9310213","Probir Roy","Probir Roy","Electroweak Processes and Precision Tests","(e-mail: probir@tifrvax) Latex; No. of pages 41, no. of figures 17 -
+  not included, available on request",,,,"hep-ph",,"  Review of the electroweak sector of the minimal standard model, Basic LEP
+processes at the tree level, 1-loop radiative corrections in the on-shell
+renormalization scheme, Star scheme and oblique corrections, Introduction to
+oblique parameters.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 12:28:47 GMT""}]","2007-05-23"
+"hep-ph/9310214","Paul Hoyer","Paul Hoyer","QCD Effects in Particle Production on Nuclei","Talk presented at the Cracow Workshop on Multiparticle Production,
+  Cracow May 1993. 11 pages in phyzzx, no figures. HU-TFT-93-50",,,,"hep-ph",,"  I discuss some questions related to hard scattering processes in nuclei and
+corrections to the leading twist approximation. The QCD factorization theorem
+requires that high energy partons do not lose energy while traversing the
+nucleus. I explain the physical reason for this. The theorem also states that
+spectator partons, not involved in the hard collision, have no influence on the
+inclusive cross section. Important spectator effects are, however, seen in the
+data for certain reactions and in some kinematical regions. I discuss the
+reasons from a phenomenological and theoretical point of view. Finally, I
+mention some methods for analyzing hard processes in regions of very large $x$,
+where the leading twist terms are not dominant.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 13:49:51 GMT""}]","2007-05-23"
+"hep-ph/9310215","Maria del Mar Bastero Gil","M. Bastero-Gil and J. Perez-Mercader","Influence of Light and Heavy Thresholds on SUSY Unification","18 pages,LAEFF-93/014,REVTEX-2.1, 5 figures not included, available
+  upon request (include FAX number)#","Phys.Lett.B322:355-362,1994","10.1016/0370-2693(94)91165-7",,"hep-ph",,"  In this paper we study and compare susy unification using two different
+approaches in order to take into account the effect of light particle
+thresholds on the evolution of gauge couplings: the step--function
+approximation, on the one hand, and a mass dependent procedure, which gives a
+more accurate description of the dependence of the results on the masses, on
+the other. We also include the effect of heavy thresholds, when $SU(5)$ is
+chosen as the unifying group. We find that the mass--dependent procedure
+excludes scenarios where all susy masses are below $1\;TeV$, and favors a value
+of $\alpha_3(m_Z)$ near its upper experimental bound, contrary to the results
+obtained with the step--function approximation. We underline the dependence of
+the results on the procedure chosen to deal with light thresholds.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 14:11:21 GMT""}]","2008-11-26"
+"hep-ph/9310216","Mark Sutherland","B. Holdom, M. Sutherland and J. Mureika","Comparison of 1/mQ^2 Corrections in Mesons and Baryons","9 pages, LaTeX, 3 self-contained LaTeX figures in separate file","Phys.Rev.D49:2359-2362,1994","10.1103/PhysRevD.49.2359","UTPT-93-26","hep-ph",,"  We extend our relativistic quark model to the study of the decay Lambda_b ->
+Lambda_c ell nu and verify that the model satisfies the heavy-quark symmetry
+constraints at order 1/mQ^2. We isolate a strong dependence on a parameter
+which measures the relative distortion in the light-quark wave functions of the
+Lambda_b and Lambda_c. This parameter and the 1/mQ^2 corrections turn out to be
+small. The dependence on a corresponding parameter in the meson case leads to
+large 1/mQ^2 corrections.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 15:17:29 GMT""}]","2010-11-01"
+"hep-th/9310012",,"S. Aoyama","The Batalin-Vilkovisky formalism with the Virasoro symmetry","16 pages, Plain TEX, KUL-TF-93/16",,,,"hep-th",,"  We introduce the Virasoro symmetry in the BV formalism and give an explicit
+construction of the anti-bracket, which is Virasoro invariant. It is shown that
+the master equation with this anti-bracket has an infinite number of solutions.
+The base space of the BV formalism is a fermionic version of the Virasoro
+manifold $Diff(S^1)/S^1$. We discuss also the Ricci tensor of this fermionic
+manifold.
+","[{""version"":""v1"",""created"":""Sun, 3 Oct 1993 20:21:15 GMT""}]","2007-05-23"
+"hep-th/9310013","Armen Nersessian","A.Nersessian","Equivariant Localization: BV-geometry and Supersymmetric Dynamics","13 pages , Preprint JINR E2-93-358",,,,"hep-th",,"  It is shown, that the geometrical objects of Batalin-Vilkovisky formalism--
+odd symplectic structure and nilpotent operator $\Delta$ can be naturally
+uncorporated in Duistermaat--Heckman localization procedure. The presence of
+the supersymmetric bi-Hamiltonian dynamics with even and odd symplectic
+structure in this procedure is established. These constructions can be
+straightly generalized for the path-integral case.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 08:39:23 GMT""}]","2007-05-23"
+"hep-th/9310014",,"Oleg A. Soloviev","The WZNW model by a perturbation of Witten's conformal solution","5 pages, LaTex file, QMW-93-25. (The value of the second conformal
+  point of the perturbed WZNW model is presented. Please note that a title is
+  changed.)",,,,"hep-th",,"  The WZNW model at the Witten conformal point is perturbed by the sigma model
+term. It is shown that in the large level k limit the perturbed WZNW system
+with negative k arrives at the WZNW model with positive k.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 12:33:29 GMT""},{""version"":""v2"",""created"":""Fri, 8 Oct 1993 11:34:24 GMT""},{""version"":""v3"",""created"":""Thu, 21 Oct 1993 10:43:01 GMT""}]","2008-02-03"
+"hep-th/9310015",,"A.P. Balachandran, G. Bimonte, E. Ercolessi and P. Teotonio-Sobrinho","Finite Approximations to Quantum Physics: Quantum Points and their
+  Bundles","24 pages, 8 figures on a uuencoded postscript file, DSF-T-29/93,
+  INFN-NA-IV-29/93 and SU-4240-550","Nucl.Phys. B418 (1994) 477-493","10.1016/0550-3213(94)90527-4",,"hep-th gr-qc hep-lat",,"  There exists a physically well motivated method for approximating manifolds
+by certain topological spaces with a finite or a countable set of points. These
+spaces, which are partially ordered sets (posets) have the power to effectively
+reproduce important topological features of continuum physics like winding
+numbers and fractional statistics, and that too often with just a few points.
+In this work, we develop the essential tools for doing quantum physics on
+posets. The poset approach to covering space quantization, soliton physics,
+gauge theories and the Dirac equation are discussed with emphasis on physically
+important topological aspects. These ideas are illustrated by simple examples
+like the covering space quantization of a particle on a circle, and the
+sine-Gordon solitons.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 14:53:00 GMT""}]","2009-10-22"
+"hep-th/9310016","Amit Giveon","Amit Giveon","Duality as a Gauge Symmetry and Topology Change","10 pages, RI-153-93",,,,"hep-th",,"  Duality groups as (spontaneously broken) gauge symmetries for toroidal
+backgrounds, and their role in ($\infty$-dimensional) underlying string gauge
+algebras are reviewed. For curved backgrounds, it is shown that there is a
+duality in the moduli space of WZNW sigma-models, that can be interpreted as a
+broken gauge symmetry. In particular, this duality relates the backgrounds
+corresponding to axially gauged abelian cosets, $G/U(1)_a$, to vectorially
+gauged abelian cosets, $G/U(1)_v$. Finally, topology change in the moduli space
+of WZNW sigma-models is discussed.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 13:51:00 GMT""}]","2007-05-23"
+"hep-th/9310017","Ramy Brustein","R. Brustein, M. Faux and B. Ovrut","Non-Perturbative effective Lagrangians for super-matrix models","Presented by B. Ovrut at the International Europhysics Conference,
+  Marseille, July 22-28,1993, 5 papges, preprint CERN-TH.7013/93",,,,"hep-th",,"  We discuss $d=1, {\cal N}=2$ supersymmetric matrix models and exhibit the
+associated $d=2$ collective field theory in the limit of dense eigenvalues.
+From this field theory we construct, by the addition of several new fields, a
+$d=2$ supersymmetric effective field theory, which reduces to the collective
+field theory when the new fields are replaced with their vacuum expectation
+values. This effective theory is Poincare invariant and contains perturbative
+and non-perturbative information about the associated superstrings.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 14:05:33 GMT""}]","2007-05-23"
+"hep-th/9310018","Lars Brink","Lars Brink and Mikhail A. Vasiliev","Representations of the $S_N$-Extended Heisenberg Algebra and Relations
+  Between Knizhnik-Zamolodchikov Equations and Quantum Calogero Model","7 pages","Mod.Phys.Lett. A8 (1993) 3585-3592","10.1142/S0217732393002324","G\""{o}teborg ITP 93-42, FIAN/TD/18--93","hep-th nlin.SI solv-int",,"  We discuss lowest-weight representations of the $S_N$-Extended Heisenberg
+Algebras underlying the $N$-body quantum-mechanical Calogero model. Our
+construction leads to flat derivatives interpolating between
+Knizhnik-Zamolodchikov and Dunkl derivatives. It is argued that based on these
+results one can establish new links between solutions of the
+Knizhnik-Zamolodchikov equations and wave functions of the Calogero model.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 15:30:43 GMT""}]","2009-10-22"
+"nucl-th/9310004","Eduardo Garrido","J.M. Udias, P. Sarriguren, E. Moya de Guerra, E. Garrido and J.A.
+  Caballero","Spectroscopic Factors in $^{40}$Ca and $^{208}$Pb from $(e,e'p)$: Fully
+  Relativistic Analysis","9 pages RevTeX, 5 figures can be obtained from the authors","Phys.Rev.C48:2731-2739,1993","10.1103/PhysRevC.48.2731",,"nucl-th",,"  We present results for spectroscopic factors of the outermost shells in
+$^{40}$Ca and $^{208}$Pb, which have been derived from the comparison between
+the available quasielastic ($e,e'p$) data from NIKHEF-K and the corresponding
+calculated cross-sections obtained within a fully relativistic formalism. We
+include exactly the effect of Coulomb distortion on the electron wave functions
+and discuss its role in the extraction of the spectroscopic factors from
+experiment. Without any adjustable parameter, we find spectroscopic factors of
+about 70\%, consistent with theoretical predictions. We compare our results
+with previous relativistic and nonrelativistic analyses of ($e,e'p$) data. In
+addition to Coulomb distortion effects we discuss different choices of the
+nucleon current operator and also analyze the effects due to the relativistic
+treatment of the outgoing-distorted and bound nucleon wave functions.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 15:23:58 GMT""}]","2009-09-25"

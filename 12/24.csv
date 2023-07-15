@@ -1,0 +1,189 @@
+"astro-ph/9312056",,"A. Kogut, C. Lineweaver, G.F. Smoot, C. L. Bennett, A. Banday, et al","Dipole Anisotropy in the COBE DMR First-Year Sky Maps","Post Script (4 figures) Ap J 419, 1-6 (1993)","Astrophys.J. 419 (1993) 1","10.1086/173453",,"astro-ph",,"  We present a determination of the cosmic microwave background dipole
+amplitude and direction from the COBE Differential Microwave Radiometers (DMR)
+first year of data. Data from the six DMR channels are consistent with a
+Doppler-shifted Planck function of dipole amplitude Delta T = 3.365 +/-0.027 mK
+toward direction (l,b) = (264.4 +/- 0.3 deg, 48.4 +/- 0.5 deg). The implied
+velocity of the Local Group with respect to the CMB rest frame is 627 +/- 22
+km/s toward (l,b) = (276 +/- 3 deg, 30 +/- 3 deg). DMR has also mapped the
+dipole anisotropy resulting from the Earth's orbital motion about the Solar
+system barycenter, yielding a measurement of the monopole CMB temperature at
+31.5, 53, and 90 GHz, to be 2.75 +/- 0.05 K.
+","[{""version"":""v1"",""created"":""Thu, 23 Dec 1993 21:37:49 GMT""}]","2009-10-22"
+"gr-qc/9312034",,"B. L. Hu and Yuhong Zhang","Uncertainty Relation for a Quantum Open System","36 pages,Tex,umdpp93-162,(submitted to Phys. Rev. A)","Int.J.Mod.Phys. A10 (1995) 4537-4562","10.1142/S0217751X95002102",,"gr-qc hep-th",,"  We derive the uncertainty relation for a quantum open system comprised of a
+Brownian particle interacting with a bath of quantum oscillators at finite
+temperature. We examine how the quantum and thermal fluctuations of the
+environment contribute to the uncertainty in the canonical variables of the
+system. We show that upon contact with the bath (assumed ohmic in this paper)
+the system evolves from a quantum-dominated state to a thermal-dominated state
+in a time which is the same as the decoherence time in similar models in the
+discussion of quantum to classical transition. This offers some insight into
+the physical mechanisms involved in the environment-induced decoherence
+process. We obtain closed analytic expressions for this generalized uncertainty
+relation under the conditions of high temperature and weak damping separately.
+We also consider under these conditions an arbitrarily-squeezed initial state
+and show how the squeeze parameter enters in the generalized uncertainty
+relation. Using these results we examine the transition of the system from a
+quantum pure state to a nonequilibrium quantum statistical state and to an
+equilibrium quantum statistical state. The three stages are marked by the
+decoherence time and the relaxation time respectively. With these observations
+we explicate the physical conditions when the two basic postulates of quantum
+statistical mechanics become valid. We also comment on the inappropriateness in
+the usage of the word classicality in many decoherence studies of quantum to
+classical transition.
+","[{""version"":""v1"",""created"":""Thu, 23 Dec 1993 16:33:40 GMT""}]","2015-06-25"
+"gr-qc/9312035",,"B. L. Hu and Andrew Matacz","Quantum Brownian Motion in a Bath of Parametric Oscillators: A model for
+  system-field interactions","42 pages, Latex, umdpp93-210 (submitted to Physical Review D, 3
+  December 1993)","Phys.Rev.D49:6612-6635,1994","10.1103/PhysRevD.49.6612",,"gr-qc astro-ph cond-mat hep-th",,"  The quantum Brownian motion paradigm provides a unified framework where one
+can see the interconnection of some basic quantum statistical processes like
+decoherence, dissipation, particle creation, noise and fluctuation. We treat
+the case where the Brownian particle is coupled linearly to a bath of time
+dependent quadratic oscillators. While the bath mimics a scalar field, the
+motion of the Brownian particle modeled by a single oscillator could be used to
+depict the behavior of a particle detector, a quantum field mode or the scale
+factor of the universe. An important result of this paper is the derivation of
+the influence functional encompassing the noise and dissipation kernels in
+terms of the Bogolubov coefficients. This method enables one to trace the
+source of statistical processes like decoherence and dissipation to vacuum
+fluctuations and particle creation, and in turn impart a statistical mechanical
+interpretation of quantum field processes. With this result we discuss the
+statistical mechanical origin of quantum noise and thermal radiance from black
+holes and from uniformly- accelerated observers in Minkowski space as well as
+from the de Sitter universe discovered by Hawking, Unruh and Gibbons-Hawking.
+We also derive the exact evolution operator and master equation for the reduced
+density matrix of the system interacting with a parametric oscillator bath in
+an initial squeezed thermal state. These results are useful for decoherence and
+backreaction studies for systems and processes of interest in semiclassical
+cosmology and gravity. Our model and results are also expected to be useful for
+related problems in quantum optics. %\pacs
+{05.40.+j,03.65.Sq,98.80.Cq,97.60.Lf}
+","[{""version"":""v1"",""created"":""Thu, 23 Dec 1993 20:56:21 GMT""}]","2008-11-26"
+"gr-qc/9312036",,"Esteban Calzetta and B. L. Hu","Noise and Fluctuations in Semiclassical Gravity","Latex 37 pages, umdpp 93-216 (submitted to Phys. Rev. D, 24 Nov.
+  1993)","Phys.Rev.D49:6636-6655,1994","10.1103/PhysRevD.49.6636",,"gr-qc hep-th",,"  We continue our earlier investigation of the backreaction problem in
+semiclassical gravity with the Schwinger-Keldysh or closed-time-path (CTP)
+functional formalism using the language of the decoherent history formulation
+of quantum mechanics. Making use of its intimate relation with the
+Feynman-Vernon influence functional (IF) method, we examine the statistical
+mechanical meaning and show the interrelation of the many quantum processes
+involved in the backreaction problem, such as particle creation, decoherence
+and dissipation. We show how noise and fluctuation arise naturally from the CTP
+formalism. We derive an expression for the CTP effective action in terms of the
+Bogolubov coefficients and show how noise is related to the fluctuations in the
+number of particles created. In so doing we have extended the old framework of
+semiclassical gravity, based on the mean field theory of Einstein equation with
+a source given by the expectation value of the energy-momentum tensor, to that
+based on a Langevin-type equation, where the dynamics of fluctuations of
+spacetime is driven by the quantum fluctuations of the matter field. This
+generalized framework is useful for the investigation of quantum processes in
+the early universe involving fluctuations, vacuum stability and phase transtion
+phenomena and the non-equilibrium thermodynamics of black holes. It is also
+essential to an understanding of the transition from any quantum theory of
+gravity to classical general relativity. \pacs{pacs numbers:
+04.60.+n,98.80.Cq,05.40.+j,03.65.Sq}
+","[{""version"":""v1"",""created"":""Thu, 23 Dec 1993 23:54:03 GMT""}]","2016-08-31"
+"hep-lat/9312082","Tony Guttmann","K M Briggs, I G Enting, and A J Guttmann (Department of Mathematics,
+  The University of Melbourne, Parkville, Vic. Australia 3052. CSIRO Division
+  of Atmospheric Research Private Bag 1, Mordialloc, Vic. Australia)","Series studies of the Potts model. II: Bulk series for the square
+  lattice","32 pages, incl. 3 figures, incl. 3 figures","J.Phys. A27 (1994) 1503-1524","10.1088/0305-4470/27/5/016",,"hep-lat cond-mat",,"  The finite lattice method of series expansion has been used to extend
+low-temperature series for the partition function, order parameter and
+susceptibility of the $q$-state Potts model to order $z^{56}$ (i.e. $u^{28}$),
+$z^{47}$, $z^{43}$, $z^{39}$, $z^{39}$, $z^{39}$, $z^{35}$, $z^{31}$ and
+$z^{31}$ for $q = 2$, 3, 4, \dots 9 and 10 respectively. These series are used
+to test techniques designed to distinguish first-order transitions from
+continuous transitions. New numerical values are also obtained for the
+$q$-state Potts model with $q>4$.
+","[{""version"":""v1"",""created"":""Fri, 24 Dec 1993 05:44:57 GMT""}]","2009-10-22"
+"hep-lat/9312083","Tony Guttmann","A J Guttmann and I G Enting (Department of Mathematics, The University
+  of Melbourne, Australia. CSIRO, Division of Atmospheric Research, Australia)","Series studies of the Potts model. III: The 3-state model on the simple
+  cubic lattice","19 pages, including 1 figure","J.Phys. A27 (1994) 5801-5812","10.1088/0305-4470/27/17/014",,"hep-lat cond-mat",,"  The finite lattice method of series expansion has been used to extend
+low-temperature series for the partition function, order parameter and
+susceptibility of the $3$-state Potts model on the simple cubic lattice to
+order $z^{43}$ and the high-temperature expansion of the partition function to
+order $v^{21}$. We use the numerical data to show that the transition is
+first-order, and estimate the latent heat, the discontinuity in the
+magnetisation, and a number of other critical parameters.
+","[{""version"":""v1"",""created"":""Fri, 24 Dec 1993 06:07:59 GMT""}]","2009-10-22"
+"hep-ph/9312331","Malcolm Butler","R.A. Malaney, G.D. Starkman and M.N. Butler","Neutrino Lasing in the Sun","12 pages, using ordinary TeX. No figures","Phys.Rev. D49 (1994) 6232-6235","10.1103/PhysRevD.49.6232",,"hep-ph astro-ph",,"  Applying the phenomenon of neutrino lasing in the solar interior, we show how
+the rate for the generic neutrino decay process `\nu -> fermion + boson', can
+in principal be enhanced by many orders of magnitude over its normal decay
+rate. Such a large enhancement could be of import to neutrino-decay models
+invoked in response to the apparent deficit of electron neutrinos observed from
+the sun. The significance of this result to such models depends on the specific
+form of the neutrino decay, and the particle model within which it is embedded.
+","[{""version"":""v1"",""created"":""Thu, 23 Dec 1993 19:50:15 GMT""}]","2009-10-22"
+"hep-ph/9312332","Mirjam Cvetic","M. Cvetic","Comparison of Diagnostic Z' Physics at Future pp and e+e- Colliders","7 pg (Contribution to the Proceedings of the International
+  Europhysics Conference on High Energy Physics, Marseille, July 21-28, 1993.;
+  figures available via anonymous ftp from dept.physics.upenn.edu
+  /pub/cvetic/UPR-597-T) certain minor numerical results corrected, UPR-597-T",,,,"hep-ph",,"  We present recent developments in the diagnostic study of heavy gauge bosons
+at future $pp$ (CERN LHC) and $e^+e^-$ (NLC) colliders with the emphasis on the
+model independent determination of gauge couplings of $Z'$ to quarks and
+leptons. The analysis reflects a complementary diagnostic power of the LHC and
+the NLC (c.m. energy 500 GeV, integrated luminosity 20 fb$^{-1} $). At the NLC
+for $M_{Z'} \sim 1 $ TeV {\it all } the quark and lepton charges can be
+determined to around $10-20 \%$, provided heavy flavor tagging and longitudinal
+polarization of the electron beam is available. At the LHC primarily the
+magnitude of three (out of four) normalized couplings can be determined,
+however typical uncertainties are by a factor $\sim 2$ smaller than at the NLC.
+","[{""version"":""v1"",""created"":""Thu, 23 Dec 1993 23:08:54 GMT""},{""version"":""v2"",""created"":""Wed, 5 Jan 1994 21:52:21 GMT""}]","2009-09-25"
+"hep-ph/9312333","Bern","Z. Bern, G. Chalmers, L. Dixon, and D. A. Kosower","One-Loop N Gluon Amplitudes with Maximal Helicity Violation via
+  Collinear Limits","12 pages (including figures), (cut down to meet PRL space
+  requirements and some improvements included), SLAC--PUB--6409","Phys.Rev.Lett.72:2134-2137,1994","10.1103/PhysRevLett.72.2134",,"hep-ph hep-th",,"  We present a conjecture for the $n$-gluon one-loop amplitudes with maximal
+helicity violation. The conjecture emerges from the powerful requirement that
+the amplitudes have the correct behavior in the collinear limits of external
+momenta. One implication is that the corresponding amplitudes where three or
+more gluon legs are replaced by photons vanish for $n>4$.
+","[{""version"":""v1"",""created"":""Fri, 24 Dec 1993 01:28:21 GMT""},{""version"":""v2"",""created"":""Tue, 1 Feb 1994 08:43:07 GMT""}]","2010-11-15"
+"hep-th/9312184","Mirjam Cvetic","Mirjam Cvetic","Supergravity Walls as Windows into New Types of Vacua","(Contribution to International Europhysics Conference on High Energy
+  Physics, Marseilles, July 21-28, 1993), 10 pg. (figures available via
+  anonymous ftp to dept.physics.upenn.edu /pub/cvetic/UPR-596-T; several
+  typographical errors corrected), UPR-596-T",,,,"hep-th gr-qc",,"  Within four dimensional (4d) N=1 supergravity theories we present extreme
+dilatonic domain wall solutions with a general overall coupling $\alpha$ in the
+dilaton K\"" ahler potential. We concentrate on extreme Type I walls, which are
+static, planar configurations, interpolating between Minkowski space-time and a
+new type of space-time with a varying dilaton field. $\alpha=0$ case yields
+extreme ``ordinary'' supergravity walls between Minkowski and anti-de Sitter
+space-times. For $\alpha=1$ the walls are extreme ``stringy dilatonic'' walls
+of the three level superstring vacua interpolating between the constant and
+linear dilaton vacuum. Extreme stringy dilatonic walls ($\alpha =1$) serve as a
+dividing line between the walls ($0<\alpha<1$) with the (planar) singularity
+covered by the horizon and those ($\alpha>1$) with the naked singularity.
+Striking similarities between the global space-time structure of such domain
+walls and and the one of the corresponding extreme charged black holes with a
+general dilaton coupling are pointed out.
+","[{""version"":""v1"",""created"":""Thu, 23 Dec 1993 22:08:25 GMT""},{""version"":""v2"",""created"":""Sun, 2 Jan 1994 15:25:01 GMT""}]","2009-09-25"
+"hep-th/9312189","Debashis Ghoshal","Debashis Ghoshal and Sunil Mukhi","Topological Landau-Ginzburg Model of Two-Dimensional String Theory","22 pages, harvmac, Mehta Research Institute and Tata Institute
+  Preprint MRI-PHY/13/93, TIFR/TH/93-62","Nucl.Phys.B425:173-190,1994","10.1016/0550-3213(94)90177-5",,"hep-th",,"  We study a topological Landau-Ginzburg model with superpotential W(X)=X^{-1}.
+This is argued to be equivalent to c=1 string theory compactified at the
+self-dual radius. We compute the tree-level correlation function of N tachyons
+in this theory and show their agreement with matrix-model results. We also
+discuss the nature of contact terms, the perturbed superpotential and the flow
+of operators in the small phase space. The role of gravitational descendants in
+this theory is examined, and the tachyon two-point function in genus 1 is
+obtained using a conjectured modification of the gravitational recursion
+relations.
+","[{""version"":""v1"",""created"":""Fri, 24 Dec 1993 14:43:45 GMT""}]","2010-11-01"
+"hep-th/9312190","Sunil Mukhi","Sunil Mukhi","The Two-Dimensional String as a Topological Field Theory","17 pages, LaTeX, Tata Institute Preprint TIFR/TH/93-61",,,,"hep-th",,"  A certain topological field theory is shown to be equivalent to the
+compactified c=1 string. This theory is described in both Kazama-Suzuki coset
+and Landau-Ginzburg formulations. The genus-g partition function and genus-0
+multi-tachyon correlators of the c=1 string are shown to be calculable in this
+approach. The KPZ formulation of non-critical string theory has a natural
+relation to this topological model. (Talk given at the Nato Advanced Research
+Workshop on `New Developments in String Theory, Conformal Models and
+Topological Field Theory', Cargese, May 12-21 1993.)
+","[{""version"":""v1"",""created"":""Fri, 24 Dec 1993 14:45:37 GMT""}]","2007-05-23"
+"hep-th/9312191","Atushi Ishikawa","Atushi Ishikawa","Wheeler-DeWitt Equation in Two-dimensional Quantum Gravity with $c=1$
+  Conformal Matter Field","14p, LaTex","Phys.Rev. D50 (1994) 2609-2614","10.1103/PhysRevD.50.2609",,"hep-th",,"  In the context of two-dimensional quantum cosmology, we consider the
+path-integral of a string on annulus which contains the Liouville field and
+conformal matter fields. We show that, in the transition amplitude of the
+string universe, the non-zero modes of the fields are all cancelled out only
+when we take the $c=1$ conformal matter field and impose the Neumann boundary
+condition on the system. The transition amplitude obtained obeys the
+minisuperspace Wheeler-DeWitt equation. In our treatment, the modular parameter
+on annulus plays the role of time variable to integrate out.
+","[{""version"":""v1"",""created"":""Fri, 24 Dec 1993 10:28:11 GMT""},{""version"":""v2"",""created"":""Mon, 27 Dec 1993 08:49:32 GMT""}]","2009-10-22"
+"hep-th/9312192","Yutaka Matsuo","Y. Matsuo","Free Fields and Quasi-Finite Representation of $W_{1+\infty}$ Algebra","10 pages, UT-661, harvmac Reference is corrected","Phys.Lett. B326 (1994) 95-100","10.1016/0370-2693(94)91198-3",,"hep-th",,"  We study quasi-finite representation of the $\Winf$ algebra recently proposed
+by Kac and Radul. When the central charge is integer, we show that they are
+represented by free fermions and bosonic ghosts. There are some nontrivial
+representations with vanishing central charge. We discuss that they may be
+described by large $N$ limit of topological models. We calculate their operator
+algebras explicitly.
+","[{""version"":""v1"",""created"":""Fri, 24 Dec 1993 13:00:28 GMT""},{""version"":""v2"",""created"":""Tue, 25 Jan 1994 04:04:46 GMT""}]","2009-10-22"

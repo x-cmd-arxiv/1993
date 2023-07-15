@@ -1,0 +1,227 @@
+"astro-ph/9303001","Tomislav Prokopec","Andreas Albrecht, Pedro Ferreira, Michael Joyce and Tomislav Prokopec","Inflation and squeezed quantum states","33 pages, one section added, significant revisions, 6 figures (in
+  uuencoded file), Imperial/TP/92-93/21","Phys.Rev.D50:4807-4820,1994","10.1103/PhysRevD.50.4807",,"astro-ph gr-qc hep-ph",,"  The inflationary cosmology is analyzed from the point of view of squeezed
+quantum states. As noted by Grishchuk and Sidorov, the amplification of quantum
+fluctuations into macroscopic perturbations which occurs during cosmic
+inflation is a process of quantum squeezing. We carefully develop the squeezed
+state formalism and derive the equations that govern the evolution of a
+gaussian initial state. We derive the power spectrum of density perturbations
+for a simple inflationary model and discuss its features. We conclude that the
+squeezed state formalism provides an interesting framework within which to
+study the amplification process, but,in disagreement with the claims of
+Grishchuk and Sidorov, that it does {\em not} provide us with any new physical
+results.
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 21:31:23 GMT""},{""version"":""v2"",""created"":""Wed, 13 Oct 1993 22:39:46 GMT""}]","2010-04-08"
+"astro-ph/9303002","Steve Thorsett","S. E. Thorsett (Caltech), Z. Arzoumanian (Princeton), M. M. McKinnon
+  (NRAO), and J. H. Taylor (Princeton)","The Masses of Two Binary Neutron Star Systems","10 pages plus 3 figures, latex, accepted ApJ Letters, sets-001","Astrophys.J. 405 (1993) L29-L32","10.1086/186758",,"astro-ph",,"  The measurement or constraint of the masses of neutron stars and their binary
+companions tests theories of neutron star structure and of pulsar formation and
+evolution. We have measured the rate of the general relativistic advance of the
+longitude of periastron for the pulsar PSR B1802$-$07:
+$\dot\omega=0\fdg060\pm0\fdg009\,\mbox{yr}^{-1}$, which implies a total system
+mass, pulsar plus companion star, of $M=1.7\pm0.4\,\Msun$. We also present a
+much improved measurement of the rate of periastron advance for PSR B2303+46:
+$\dot\omega = 0\fdg0099\pm0\fdg0002\,\mbox{yr}^{-1}$, implying
+$M=2.53\pm0.08\,\Msun$ for this system. We discuss the available constraints on
+distribution of mass between the pulsars and their companions, and we compare
+the pulsar masses with other determinations of neutron star masses.
+","[{""version"":""v1"",""created"":""Tue, 2 Mar 1993 01:21:19 GMT""},{""version"":""v2"",""created"":""Wed, 3 Mar 1993 18:16:40 GMT""}]","2009-10-22"
+"cond-mat/9303001","Martin Plumer","M.L. Plumer, A. Mailhot, and A. Caill\'e","Magnetic-Field Induced First-Order Transition in the Frustrated XY Model
+  on a Stacked Triangular Lattice","10 pages (RevTex 3.0), 4 figures available upon request, CRPS-93-09",,"10.1103/PhysRevB.48.3840",,"cond-mat",,"  The results of extensive Monte Carlo simulations of magnetic-field induced
+transitions in the xy model on a stacked triangular lattice with
+antiferromagnetic intraplane and ferromagnetic interplane interactions are
+discussed. A low-field transition from the paramagnetic to a 3-state (Potts)
+phase is found to be very weakly first order with behavior suggesting
+tricriticality at zero field. In addition to clarifying some long-standing
+ambiguity concerning the nature of this Potts-like transition, the present work
+also serves to further our understanding of the critical behavior at $T_N$,
+about which there has been much controversy.
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 17:32:53 GMT""}]","2009-10-22"
+"cond-mat/9303002","Hellberg","C. Stephen Hellberg and E. J. Mele","Luttinger Liquid Instability in the One Dimensional t-J Model","REVTEX, 11 pages. 4 Figures available on request from
+  hellberg@mele.physics.upenn.edu",,"10.1103/PhysRevB.48.646",,"cond-mat",,"  We study the t-J model in one dimension by numerically projecting the true
+ground state from a Luttinger liquid trial wave function. We find the model
+exhibits Luttinger liquid behavior for most of the phase diagram in which
+interaction strength and density are varied. However at small densities and
+high interaction strengths a new phase with a gap to spin excitations and
+enhanced superconducting correlations is found. We show this phase is a
+Luther-Emery liquid and study its correlation functions.
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 18:18:50 GMT""}]","2009-10-22"
+"cond-mat/9303003","Jan T. Gammel","S. Mazumdar, F. Guo, D. Guo, K. -C. Ung and J. Tinka Gammel","Infinite Volume Extrapolations of Finite Cluster Calculations, ---How
+  Correct are These?","13 pages, in TeX, 9 figures (available upon request from the authors:
+  sumit@roton.physics.arizona.edu). To appear in the Proceedings of the
+  Discussion Meeting on Strongly Correlated Systems in Chemistry, Bangalore,
+  India, 4-8 January 1993",,,,"cond-mat",,"  Extrapolations of numerical data obtained from finite cluster calculations to
+the infinite volume limit can often give incorrect results. We discuss four
+separate cases: (a) the intensity of the lowest two-photon absorption in the
+infinite polyene, (b) bond alternation in the infinite polyene, (c) Cooper type
+pairing in the simple Hubbard model, and (d) pairing within the extended
+Hubbard model.
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 20:58:26 GMT""}]","2007-05-23"
+"cond-mat/9303004","Rudolph A Romer","Rudolf A. R""omer and Bill Sutherland","Conformal Invariance in Periodic Quantum Chains","9 pages + 5 graphs, RevTeX 3.0, UoU-rar-93001",,,,"cond-mat",,"  We show how conformal invariance predicts the functional form of two-point
+correlators in one-dimensional periodic quantum systems. Numerical evidence for
+this functional form in a wide class of models --- including long-ranged ones
+--- is given and it is shown how this may be used to significantly speed up
+calculations of critical exponents.
+","[{""version"":""v1"",""created"":""Tue, 2 Mar 1993 01:08:21 GMT""}]","2007-05-23"
+"cond-mat/9303013","Jorge Jose","G. Chu and Jorge V. Jose (Dept. of Physics, Northeastern University)","Giant Shapiro Resonances in a Flux Driven Josephson Junction Necklace","8 pages RevTeX, 3 figures available upon request",,"10.1103/PhysRevB.47.8365","CHU-JOSE-93-01","cond-mat",,"  We present a detailed study of the dynamic response of a ring of $N$ equally
+spaced Josephson junctions to a time-periodic external flux, including
+screening current effects. The dynamics are described by the resistively
+shunted Josephson junction model, appropriate for proximity effect junctions,
+and we include Faraday's law for the flux. We find that the time-averaged $I-V$
+characteristics show novel {\em subharmonic giant Shapiro voltage resonances},
+which strongly depend on having phase slips or not, on $N$, on the inductance
+and on the external drive frequency. We include an estimate of the possible
+experimental parameters needed to observe these quantized voltage spikes.
+","[{""version"":""v1"",""created"":""Tue, 2 Mar 1993 13:14:52 GMT""}]","2009-10-22"
+"gr-qc/9303001","Robert Brandenberger","R. Brandenberger (Brown), V. Mukhanov (ETH Zuerich) and A. Sornborger
+  (Brown)","A Cosmological Theory without Singularities","25 pages, 11 figures (available as hard copies from the authors),
+  uses phyzzx, BROWN-HET-891","Phys.Rev. D48 (1993) 1629-1642","10.1103/PhysRevD.48.1629",,"gr-qc astro-ph hep-th",,"  A theory of gravitation is constructed in which all homogeneous and isotropic
+solutions are nonsingular, and in which all curvature invariants are bounded.
+All solutions for which curvature invariants approach their limiting values
+approach de Sitter space. The action for this theory is obtained by a higher
+derivative modification of Einstein's theory. We expect that our model can
+easily be generalized to solve the singularity problem also for anisotropic
+cosmologies.
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 20:27:54 GMT""}]","2009-10-22"
+"gr-qc/9303002","Tevian Dray","Tevian Dray, Corinne A. Manogue, and Robin W. Tucker","The Scalar Field Equation in the Presence of Signature Change","requires REVTeX 2.0 or 3.0 (Plain TeX version available on request),
+  4 pages by default (12 in preprint style), no figures","Phys.Rev. D48 (1993) 2587-2590","10.1103/PhysRevD.48.2587",,"gr-qc hep-th",,"  We consider the (massless) scalar field on a 2-dimensional manifold with
+metric that changes signature from Lorentzian to Euclidean. Requiring a
+conserved momentum in the spatially homogeneous case leads to a particular
+choice of propagation rule. The resulting mix of positive and negative
+frequencies depends only on the total (conformal) size of the spacelike regions
+and not on the detailed form of the metric. Reformulating the problem using
+junction conditions, we then show that the solutions obtained above are the
+unique ones which satisfy the natural distributional wave equation everywhere.
+We also give a variational approach, obtaining the same results from a natural
+Lagrangian.
+  (PACS numbers 04.20.Cv and 02.40.+m.)
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 22:45:16 GMT""}]","2016-08-31"
+"gr-qc/9303005",,"C. Farina, J. Gamboa and A. J. Segui-Santonja","Motion and Trajectories of Particles Around Three-Dimensional Black
+  Holes","Plain TeX, 9pp, IPNO-TH 93/06, DFTUZ 93/01","Class.Quant.Grav.10:L193-L200,1993","10.1088/0264-9381/10/11/001",,"gr-qc",,"  The motion of relativistic particles around three dimensional black holes
+following the Hamilton-Jacobi formalism is studied. It follows that the
+Hamilton-Jacobi equation can be separated and reduced to quadratures in analogy
+with the four dimensional case. It is shown that: a) particles are trapped by
+the black hole independently of their energy and angular momentum, b) matter
+alway falls to the centre of the black hole and cannot understake a motion with
+stables orbits as in four dimensions. For the extreme values of the angular
+momentum of the black hole, we were able to find exact solutions of the
+equations of motion and trajectories of a test particle.
+","[{""version"":""v1"",""created"":""Tue, 2 Mar 1993 14:54:42 GMT""}]","2010-04-06"
+"gr-qc/9303006",,"Sean A. Hayward","General Laws of Black-Hole Dynamics","16 pages",,"10.1103/PhysRevD.49.6467",,"gr-qc",,"  A general definition of a black hole is given, and general `laws of
+black-hole dynamics' derived. The definition involves something similar to an
+apparent horizon, a trapping horizon, defined as a hypersurface foliated by
+marginal surfaces of one of four non-degenerate types, described as future or
+past, and outer or inner. If the boundary of an inextendible trapped region is
+suitably regular, then it is a (possibly degenerate) trapping horizon. The
+future outer trapping horizon provides the definition of a black hole. Outer
+marginal surfaces have spherical or planar topology. Trapping horizons are null
+only in the instantaneously stationary case, and otherwise outer trapping
+horizons are spatial and inner trapping horizons are Lorentzian. Future outer
+trapping horizons have non-decreasing area form, constant only in the null
+case---the `second law'. A definition of the trapping gravity of an outer
+trapping horizon is given, generalizing surface gravity. The total trapping
+gravity of a compact outer marginal surface has an upper bound, attained if and
+only if the trapping gravity is constant---the `zeroth law'. The variation of
+the area form along an outer trapping horizon is determined by the trapping
+gravity and an energy flux---the `first law'.
+","[{""version"":""v1"",""created"":""Tue, 2 Mar 1993 15:27:53 GMT""},{""version"":""v2"",""created"":""Mon, 29 Mar 1993 14:51:54 GMT""},{""version"":""v3"",""created"":""Wed, 25 May 1994 06:08:20 GMT""}]","2009-10-22"
+"hep-ph/9303202",,"M. Carena, S. Pokorski and C.E.M. Wagner","On the Unification of Couplings in the Minimal Supersymmetric Standard
+  Model","40 pages, MPI-Ph/93-10","Nucl.Phys.B406:59-89,1993","10.1016/0550-3213(93)90161-H",,"hep-ph",,"  The unification of gauge and Yukawa couplings within the minimal
+supersymmetric standard model is studied at the two loop level. We derive an
+expression for the effective scale, $T_{SUSY}$, which characterizes the
+supersymmetric particle threshold corrections to the gauge couplings, and
+demonstrate that $T_{SUSY}$ is only slightly dependent on the squark and
+slepton masses, and strongly dependent on the Higgsino masses as well as on the
+mass ratio of the gauginos of the strong and weak interactions. Moreover, the
+value of the top quark Yukawa coupling necessary to achieve the unification of
+bottom and tau Yukawa couplings is also governed by $T_{SUSY}$, and it yields
+predictions for the top quark mass which are close to the quasi infrared fixed
+point results associated with the triviality bounds on this quantity. From the
+requirement of perturbative consistency of the top quark Yukawa sector of the
+theory, we obtain constraints on the allowed splitting of the supersymmetric
+spectrum, which, for certain values of the running bottom quark mass, are
+stronger than those ones coming from the experimental constraints on the strong
+gauge coupling.
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 23:42:02 GMT""}]","2008-11-26"
+"hep-ph/9303203",,"J.P. Ma and B.H.J. McKellar","CP Test in the W Pair Production via Photon Fusion at NLC","11 pages, Tex, UM-P-93/16, OZ-93/6 One figure not included","Phys.Lett.B319:533-538,1993","10.1016/0370-2693(93)91762-C",,"hep-ph",,"  We study the possibility to test CP invariance in the $W^+W^-$ production via
+photon fusion at NLC. The predictions of the CP violation effects are made
+within two Higgs doublet extensions of the minimal standard model, where CP
+violation is introduced by a neutral Higgs exchange in s channel in our case.
+The width effect in the Higgs propagator on the CP violation effects is studied
+in detail. The CP violation effects can be measured in some parameter region of
+the extensions.
+","[{""version"":""v1"",""created"":""Tue, 2 Mar 1993 02:14:42 GMT""}]","2010-11-01"
+"hep-ph/9303204",,"Bohdan Grz\c{a}dkowski","CP Violation in $t \bar{t}$ Production at $e^+ e^-$ Colliders","LATEX","Phys.Lett.B305:384-391,1993","10.1016/0370-2693(93)91071-T","CERN-TH.6806/93","hep-ph",,"  The general production {\it and} decay mechanism of $\ttbar$ in future
+high-energy $\epem$ colliders has been investigated in a model-independent way,
+focusing on an observation of possible CP violation. Angular asymmetries
+sensitive to CP violation either in the production {\it or} in the subsequent
+decays have been found. General considerations are illustrated through 1-loop
+effects induced by gluino exchange in the supersymmetric version of the
+Standard Model.
+","[{""version"":""v1"",""created"":""Tue, 2 Mar 1993 14:58:59 GMT""}]","2010-11-01"
+"hep-th/9303003","Dieter L\""ust","Dieter Luest","Consistency and Phenomenology of Four-Dimensional Strings","13 pages, CERN-TH.6819/93",,,,"hep-th hep-ph",,"  Talk given at the 26th Workshop: ``From Superstrings to Supergravity"" Erice -
+Sicily, 5-12 December 1992: In this talk we discuss string consistency
+requirements on four dimensional string models, namely the cancellation of
+target space duality anomalies. The analysis is explicitly performed for
+(hypothetical) orbifold models assuming the massless spectrum of the
+supersymmetric standard model. In addition, some phenomenological properties of
+four-dimensional strings, like the unification of the standard model gauge
+coupling constants and soft supersymmetry breaking parameters, are
+investigated.
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 16:23:07 GMT""}]","2007-05-23"
+"hep-th/9303004",,"V.Spiridonov","Symmetries of the Self-Similar Potentials","9 pp., Latex (to appear in Comm.Theor.Phys.)","Commun.Theor.Phys. 2:149-163,1993",,,"hep-th",,"  An application of the particular type of nonlinear operator algebras to
+spectral problems is outlined. These algebras are associated with a set of
+one-dimensional self-similar potentials, arising due to the q-periodic closure
+f_{j+N}(x)=qf_j(qx), k_{j+N}=q^2 k_j of a chain of coupled Riccati equations
+(dressing chain). Such closure describes q-deformation of the finite-gap and
+related potentials. The N=1 case corresponds to the q-oscillator spectrum
+generating algebra. At N=2 one gets a q-conformal quantum mechanics, and N=3
+set of equations describes a deformation of the Painleve IV transcendent.
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 21:46:38 GMT""}]","2011-03-02"
+"hep-th/9303005",,"A.A.Andrianov, M.V.Ioffe, and V.P.Spiridonov","Higher-Derivative Supersymmetry and the Witten Index","9 pp, Latex, UdeM-LPN-TH-129/92","Phys.Lett. A174 (1993) 273-279","10.1016/0375-9601(93)90137-O",,"hep-th",,"  Higher-derivative generalization of the supersymmetric quantum mechanics is
+proposed. It is formally based on the standard superalgebra but supercharges
+involve differential operators of the order $n$. As a result, their
+anticommutator entails polynomial of a Hamiltonian. The Witten index does not
+characterize spontaneous supersymmetry breaking in such models.
+","[{""version"":""v1"",""created"":""Mon, 1 Mar 1993 21:54:50 GMT""}]","2009-10-22"
+"hep-th/9303006","Ryuichi Nakayama","Hikaru Kawai and Ryuichi Nakayama","Quantum $R^2$ Gravity in Two Dimensions","12 pages, latex KEK-TH-355, KEK preprint 92-212, UT-634","Phys.Lett. B306 (1993) 224-232","10.1016/0370-2693(93)90072-P",,"hep-th",,"  Two-dimensional quantum gravity with an $R^2$ term is investigated in the
+continuum framework. It is shown that the partition function for small area $A$
+is highly suppressed by an exponential factor $exp \{ -2\pi (1-h)^2/(m^2A) \}$,
+where $1/m^2$ is the coefficient (times $32\pi$) of $R^2$ and $h$ is the genus
+of the surface. Although positivity is violated, at a short distance scale (
+$\ll 1/m$) surfaces are smooth and the problem of the branched polymer is
+avoided.
+","[{""version"":""v1"",""created"":""Tue, 2 Mar 1993 04:30:09 GMT""}]","2009-10-22"
+"hep-th/9303007","Nemanja Kaloper","N. Kaloper","Miens of The Three Dimensional Black Hole","19 pages, plain TeX, Alberta preprint Alberta-Thy-8-1993 (Reference 4
+  included, 2 typos corrected)","Phys.Rev.D48:2598-2605,1993","10.1103/PhysRevD.48.2598",,"hep-th gr-qc",,"  Some aspects of the rotating three-dimensional Einstein-Anti-de-Sitter black
+hole solution, constructed recently by Banados, Teitelboim and Zanelli are
+discussed. It is shown explicitly that this black hole represents the most
+general black hole type solution of the Einstein-Anti-de-Sitter theory. The
+interpretation of one of the integrals of motion as the spin is discussed. Its
+physics relies on the topological structure of the black hole manifold, and the
+notion of simultaneity of space-like separated intervals. The relationship of
+the black hole solution to string theory on a $2 + 1$ dimensional target space
+is examined, and it is shown that the black hole can be understood as a part of
+the full axion-dilaton-gravity, realized as a WZWN $\sigma $ model. In
+conclusion, the pertinence of this solution to four-dimensional black strings
+and topologically massive gravity is pointed out.
+","[{""version"":""v1"",""created"":""Tue, 2 Mar 1993 06:33:24 GMT""},{""version"":""v2"",""created"":""Wed, 3 Mar 1993 01:04:57 GMT""}]","2008-11-26"
+"hep-th/9303008",,"V.I.Man'ko, G.Marmo, S.Solimeno, F. Zaccaria","Correlation functions of quantum q-oscillators","7 pages,Latex,DSF-T-93/06 INFN -NA-IV-93/06",,"10.1016/0375-9601(93)91029-5",,"hep-th",,"  Nonlinearity of electromagnetic field vibrations described by q-oscillators
+is shown to produce essential dependence of second correlation functions on
+intensity and deformation of Planck distribution. Experimental tests of such
+nonlinearity are suggested.
+","[{""version"":""v1"",""created"":""Tue, 2 Mar 1993 14:45:00 GMT""}]","2009-10-22"
+"hep-th/9303009","Peter Bantay","Peter Bantay","Algebraic Aspects of Orbifold Models","22, ITP-Budapest 499","Int. J. Mod. Phys. A9 (1994) 1443-1456","10.1142/S0217751X94000649",,"hep-th",,"  : Algebraic properties of orbifold models on arbitrary Riemann surfaces are
+investigated. The action of mapping class group transformations and of standard
+geometric operations is given explicitly. An infinite dimensional extension of
+the quantum group is presented.
+","[{""version"":""v1"",""created"":""Tue, 2 Mar 1993 15:41:41 GMT""}]","2015-06-26"
+"hep-th/9303010","Sun Chang Pu","Chang_Pu Sun","Dynamical Realizability for Quantum Measurement and Factorization of
+  Evolution Operator","10 pages,ITP.SB-93-13","Chin.J.Phys. 32 (1994) 7-16",,,"hep-th",,"  By building a general dynamical model for quantum measurement process,it is
+shown that the factorization of reduced evolution operator sufficiently results
+in the quantum mechanical realization of the wave packet collapse and the state
+correlation between the measured system and the measuring
+instrument-detector.This realizability is largely independent of the details of
+both the interaction and Hamiltonian of detector. The Coleman-Hepp model and
+all its generalizations are only the special cases of the more universal model
+given in this letter.An explicit example of this model is finally given in
+connection with coherent state.
+","[{""version"":""v1"",""created"":""Tue, 2 Mar 1993 14:44:33 GMT""}]","2007-05-23"

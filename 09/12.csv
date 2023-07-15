@@ -1,0 +1,34 @@
+"hep-ph/9309255",,"L. Durand, K. Honjo, R. Gandhi, H. Pi and I. Sarcevic","Photoproduction Cross Sections at HERA Energies","University of Arizona preprint AZPH-TH/93-30, PlainTex, 8 pages, 3
+  figs. (available upon request as .ps files or via regular mail); (Talk
+  presented by I. Sarcevic at the Workshop on Current Colliders and the
+  Supercollider, Argonne National Laboratory, June 2-5, 1993.)",,,,"hep-ph",,"  We show that photoproduction cross sections recently measured by ZEUS and H-1
+at HERA energies$^1$ are in agreement with our earlier prediction based on
+high-energy hadronic structure of the photon in the QCD minijet-type model$^2$.
+We present results of an improved calculation of the photoproduction cross
+section, in which the soft part, motivated by the Regge theory, is taken to be
+energy-dependent and the semi-hard hadronic part is carefully eikonalized to
+take into account for the multiple scatterings and to include the appropriate
+probability that photon would act hadronicaly$^3$. We also show that the
+extrapolation of our cross section to ultra-high energies, of relevance to the
+cosmic ray physics, gives significant contribution to the ``conventional''
+value, but cannot account for the anomalous muon content observed in the cosmic
+ray air-showers associated with astrophysical point sources$^4$.
+","[{""version"":""v1"",""created"":""Sat, 11 Sep 1993 16:41:54 GMT""}]","2007-05-23"
+"hep-ph/9309256","Hans Eggers","H.C. Eggers and P. Lipa","Star Integrals and Unbiased Estimators","12 pages, LaTex, 2 figures in tar-compressed uuencoded .eps format,
+  Regensburg preprint TPR--93--25",,,,"hep-ph",,"  We review in brief the development and implementation of the Star integral, a
+tool yielding measurements of correlations much superior to conventional
+methods. A version for use in pion interferometry is explained. We also show
+how effects of non-poissonian overall multiplicity distributions may be
+eliminated if desired and quote results eliminating statistical biases arising
+in correlation measurements within small samples.
+","[{""version"":""v1"",""created"":""Sun, 12 Sep 1993 15:49:58 GMT""}]","2007-05-23"
+"hep-th/9309068","Simon Dalley","S.Dalley","The Kosterlitz-Thouless Phenomenon on a Fluid Random Surface","15 pages. This version to appear in Nucl.Phys.B contains less
+  introductory material (revised)","Nucl.Phys.B422:605-616,1994","10.1016/0550-3213(94)90448-0","PUPT-1417","hep-th cond-mat",,"  The problem of a periodic scalar field on a two-dimensional dynamical random
+lattice is studied with the inclusion of vortices in the action. Using a random
+matrix formulation, in the continuum limit for genus zero surfaces the
+partition function is found exactly, as a function of the chemical potential
+for vortices of unit winding number, at a specific radius in the plasma phase.
+This solution is used to describe the Kosterlitz- Thouless phenomenon in the
+presence of 2D quantum gravity as one passes from the ultra-violet to the
+infra-red.
+","[{""version"":""v1"",""created"":""Sun, 12 Sep 1993 00:25:18 GMT""},{""version"":""v2"",""created"":""Sun, 12 Sep 1993 17:55:25 GMT""},{""version"":""v3"",""created"":""Sat, 5 Mar 1994 17:43:01 GMT""}]","2011-07-19"

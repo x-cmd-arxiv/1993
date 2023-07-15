@@ -1,0 +1,334 @@
+"alg-geom/9303003","Jan Stevens","Jan Stevens","Deformations of cones over hyperelliptic curves","33 pages, written in Plain TeX. Preprint Europees
+  Singulariteitenproject (European Singularity Project) Nr. 32",,,,"alg-geom math.AG",,"  We determine the versal deformation of cones, in the simplest case: cones
+over hyperelliptic curves of high degree. In particular, we show that for
+degree $4g+4$, the highest degree for which interesting deformations exist, the
+number of smoothing components is $2^{2g+1}$ ($g\neq3$).
+  We review in a general setting the relation of $T^1(-1)$ with Wahl's Gaussian
+map. We prove that $T^1(-1)$ vanishes for a general curve and an arbitrary
+embedding line bundle of degree at least $2g+11$. To find $T^2$ for
+hyperelliptic cones with the Main Lemma of [Behnke--Christophersen], we compute
+$T^1$ for the cone over $d$ points on a rational normal curve of degree
+$d-g-1$, using explicit equations. Actually, the equations for the cone over a
+hyperelliptic curve have a nice structure. We give an interpretation of
+$T^2(-2)$ in terms of this structure.
+  Smoothing components are related to surfaces with $C$ as hyperplane section.
+An explicit description of the corresponding infinitesimal deformations allowss
+to conclude that the base space is a complete intersection of degree
+$2^{2g+1}$. We also consider smoothing data in the sense of [Looijenga--Wahl].
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 13:24:46 GMT""}]","2015-06-30"
+"astro-ph/9303011",,"John D Barrow and Andrew R Liddle","Perturbation Spectra from Intermediate Inflation","10 pages, LaTeX, SUSSEX-AST 93/2-1","Phys.Rev.D47:5219-5223,1993","10.1103/PhysRevD.47.R5219",,"astro-ph",,"  We investigate models of `intermediate' inflation, where the scale factor
+$a(t)$ grows as $a(t) = \exp (A t^f)$, $0 < f < 1$, $A$ constant. These
+solutions arise as exact analytic solutions for a given class of potentials for
+the inflaton $\phi$. For a simpler class of potentials falling off as a power
+of $\phi$ they arise as slow-roll solutions, and in particular they include,
+for $f = 2/3$, the class of potentials which give the Harrison--Zel'dovich
+spectrum. The perturbation spectral index $n$ can be greater than unity on
+astrophysical scales. It is also possible to generate substantial gravitational
+waves while keeping the scalar spectrum close to scale-invariance; this latter
+possibility performs well when confronted with most observational data.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 11:02:00 GMT""}]","2009-12-30"
+"astro-ph/9303012",,"M. Milgrom","Dynamics with a non-standard inertia-acceleration relation: an
+  alternative to dark matter","36 pages, WIS-92/93/Nov-Ph","Ann.Phys.229:384-415,1994","10.1006/aphy.1994.1012",,"astro-ph gr-qc",,"  We investigate particle laws of motion derived from nonstandard kinetic
+actions of a special form. We are guided by a phenomenological scheme--the
+modified dynamics (MOND)--that imputes the mass discrepancy observed in
+galactic systems to a departure from Newtonian dynamics below a certain
+acceleration scale a0. In the limit a0 goes to 0 the theory goes to Newtonian
+dynamics. In the opposite limit the action becomes proportional to 1/a0.
+Galilei-invariant such theories must be strongly non-local; this is a blessing,
+as such theories need not suffer from the illnesses that are endemic to
+higher-derivative theories. We discuss the possibility that such a modified law
+of motion is an effective theory resulting from the elimination of degrees of
+freedom pertaining to the universe at large (the near equality a0=cH0 being a
+trace of that connection). A virial relation for bounded trajectories is
+derived. Exact solutions are obtained for circular orbits, which pertain to
+rotation curves of disk galaxies. We also explore, in passing, theories that
+depart from the conventional
+  Newtonian dynamics for very low frequencies. The present formulation
+contrasts, on important accounts, with earlier, modified-gravity formulations.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 15:41:00 GMT""}]","2008-11-26"
+"chao-dyn/9303006","Petr Kurka","Petr Kurka (Dept. of Mathematical Logic and Philosophy of Mathematics,
+  Faculty of Mathematics and Physics, Charles University, Prague, Czechia)","Dynamical Systems and Factors of Finite Automata","14 pages, submitted to Physica D, macros for commutative diagrams",,,,"chao-dyn nlin.CD",,"  We conceive finite automata as dynamical systems on discontinuum and
+investigate their factors. Factors of finite automata include many well-known
+simple dynamical systems, e.g. hyperbolic systems and systems with finite
+attractors. In the quadratic family on the real interval, factors of finite
+automata include all systems with finite number of periodic points, as well as
+systems at the band-merging bifurcations. On the other hand the system with a
+non-chaotic attractor, which occurs at the limit of the period doubling
+bifurcations (at the edge of chaos), is not of this class. Next we propose as
+another simplicity criterion for dynamical systems the property of having
+chaotic limits (every point belongs to a set, whose $\omega$-limit is chaotic).
+We show that any factor of a finite automaton has chaotic limits but not vice
+versa.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 10:42:01 GMT""},{""version"":""v2"",""created"":""Thu, 25 Mar 1993 14:28:07 GMT""}]","2008-02-03"
+"chao-dyn/9303014","Dima Shepelyansky","D. L. Shepelyansky","Kramers map approach for stabilization of hydrogen atom in a magnetic
+  field","Paper 93mar011",,"10.1103/PhysRevA.50.575",,"chao-dyn nlin.CD",,"  The phenomenon of stabilization of highly excited states of hydrogen atom in
+a strong monochromatic field is discussed. Approximate description of dynamics
+by the introduced Kramers map allows to understand the main properties of this
+phenomenon on the basis of analogy with the Kepler map. Analogy between the
+stabilization and the channeling of particles in a crystal is also discussed.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 00:00:00 GMT""}]","2009-10-22"
+"chao-dyn/9303015","Bruno Eckhardt","Bruno Eckhardt","Periodic Orbit Theory","CYCLER Paper 93mar012",,,,"chao-dyn nlin.CD",,"  [[ RM: A review paper on cycle expansions. I quote the introduction: in
+section (2) ]] I will summarize Gutzwiller's theory for the spectrum of
+eigenenergies and extend it to diagonal matrix elements as well. The derivation
+of the associated zeta function is given (2.2) and the identification of
+suitable scaling variables discussed (2.3). In section 3 tools necessary for
+the organization of chaos will be discussed: symbolic dynamics (3.1), the
+connectivity matrix (3.3), the topological zeta function (3.4) and general
+transfer matrices and zeta functions (3.5). Although illustrated for the case
+of hard collisions in a billiard, the symbolic dynamics can be extended to
+`smooth collisions' in smooth potentials (3.2). In systems with discrete
+symmetries, zeta functions factorize into zeta functions on invariant
+subspaces. This symmetry factorization and the associated reduction in
+symbolics is discussed in section 4. The ideas developed here are illustrated
+for the example of a free particle reflected elastically off three disks in
+section 5. Methods to find periodic orbits (5.1), the convergence of the trace
+formula (5.2), the semiclassical computation of scattering resonances (5.3),
+the convergence of the cycle expansion (5.4) and methods to obtain eigenvalues
+of the bounded billiard (5.5) are discussed. The relevant parts of a classical
+periodic orbit theory are developed in section 6.1, including a discussion of
+escape rates and the Hannay-Ozorio de Almeida sum rule (6.2). Finally, the
+issue of semiclassical matrix elements is taken up again and applications to
+experiments are discussed.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 00:00:00 GMT""}]","2008-02-03"
+"cond-mat/9303038","Gunter Schuetz","G. Schuetz and E. Domany","Phase transitions in an exactly soluble one-dimensional exclusion
+  process","LATEX (23 pages, one figure only partially included, complete figure
+  available upon request), Weizmann preprint WIS-92/96/Dec.-PH",,"10.1007/BF01048050",,"cond-mat",,"  We consider an exclusion process, with particles injected with rate $\alpha$
+at the origin and removed with rate $\beta$ at the right boundary of a
+one-dimensional chain of sites. The particles are allowed to hop onto
+unoccupied sites, to the right only. For the special case of $\alpha=\beta=1$
+the model was solved previously by Derrida et al. Here we extend the solution
+to general $\alpha,\beta$. The phase diagram obtained from our exact solution
+differs from the one predicted by the mean field approximation.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 08:30:23 GMT""}]","2009-10-22"
+"cond-mat/9303039","Michael Karbach","K.-H. M\""utter","A New Approach to the Spin 1/2 Quantum Heisenberg Model","14pages (revtex), WU B 93-11",,,,"cond-mat",,"  An evolution equation for the expectation values of the Boltzmann factor
+between monomer valence bond states is derived. It contains the whole
+information on the thermodynamical and magnetic properties of the spin
+$\frac{1}{2}$ quantum Heisenberg model. A new approximation scheme is proposed
+and studied in the thermodynamical limit.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 09:26:10 GMT""},{""version"":""v2"",""created"":""Tue, 25 May 1993 09:13:08 GMT""}]","2008-02-03"
+"cond-mat/9303040","Michael Karbach","M.Karbach, K.-H. M\""utter, P. Ueberholz, H.Kr\""oger","Thermodynamical Properties of the Antiferromagnetic Heisenberg Model in
+  Dimensions d=1,2,3","11 pages (latex), 10 figures appended as postscript files, WU B 93-12",,,,"cond-mat",,"  The evolution equation for the expectation values of the Boltzmann factor
+between valence bond states is evaluated in lowest order of the dimer cluster
+expansion. Explicit formulas are given for the internal energy and the specific
+heat of the d-dimensional antiferromagnetic Heisenberg model.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 09:53:19 GMT""}]","2007-05-23"
+"cond-mat/9303041","Feodor Kusmartsev","A.A.Nersesyan, A.Luther and F.V.Kusmartsev","Scaling Properties of the Two-Chain Model","14 pages Latex, accepted Physics Letters A",,"10.1016/0375-9601(93)90934-R",,"cond-mat",,"  Scaling properties of a self-dual field-theoretical model, describing two
+weakl$spinless Luttinger chains, are studied. A crossover to a sine-Gordon
+massive phase, with strongly developed two-particleinterchain correlations, is
+described. It is argued that, in a wide range of the in-chain interaction,
+renormalization of the interchain hopping amplitude is determined by the
+Luttinger liquid effects.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 13:36:31 GMT""},{""version"":""v2"",""created"":""Wed, 24 Mar 1993 15:10:40 GMT""}]","2009-10-22"
+"hep-lat/9303011","Gunter Schuetz","Gunter Schuetz","Time-dependent correlation functions in a one-dimensional asymmetric
+  exclusion process","LATEX-file, 32 pages, Weizmann preprint WIS/93/01/Jan-PH",,"10.1103/PhysRevE.47.4265",,"hep-lat cond-mat",,"  We study a one-dimensional anisotropic exclusion process describing particles
+injected at the origin, moving to the right on a chain of $L$ sites and being
+removed at the (right) boundary. We construct the steady state and compute the
+density profile, exact expressions for all equal-time n-point density
+correlation functions and the time-dependent two-point function in the steady
+state as functions of the injection and absorption rates. We determine the
+phase diagram of the model and compare our results with predictions from
+dynamical scaling and discuss some conjectures for other exclusion models.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 07:11:56 GMT""}]","2009-10-22"
+"hep-lat/9303012","Gernot Muenster","L. Lin, I. Montvay, G. Muenster, M. Plagge and H. Wittig","Bounds on the renormalized couplings in an SU(2)_L \otimes SU(2)_R
+  symmetric Yukawa model","9 pages + 2 figures (appended as postscript files)","Phys.Lett.B317:143-150,1993","10.1016/0370-2693(93)91584-A","DESY 93-036, MS-TPI-93-01, SHEP-92/93-15","hep-lat",,"  The vacuum stability lower bound on the mass of the Higgs boson is
+numerically investigated in an $SU(2)_L \otimes SU(2)_R$ symmetric Yukawa
+model, which describes two heavy degenerate fermion doublets in the limit of
+vanishing gauge couplings. Good agreement with perturbation theory is found,
+although the couplings are strong. The upper bound on the fermion mass and
+renormalized Yukawa coupling is also determined in the part of bare parameter
+space where reflection positivity has been proven.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 11:02:48 GMT""}]","2010-12-23"
+"hep-ph/9303288","Edward Kolb","Edmund Copeland, Edward W. Kolb, Andrew R. Liddle, James E. Lidsey","Reconstructing the Inflaton Potential---in Principle and in Practice","39 pages plus 2 figures (upon request:rocky@fnas01.fnal.gov), LaTeX,
+  FNAL--PUB--93/029-A; SUSSEX-AST 93/3-1","Phys.Rev. D48 (1993) 2529-2547","10.1103/PhysRevD.48.2529",,"hep-ph astro-ph",,"  Generalizing the original work by Hodges and Blumenthal, we outline a
+formalism which allows one, in principle, to reconstruct the potential of the
+inflaton field from knowledge of the tensor gravitational wave spectrum or the
+scalar density fluctuation spectrum, with special emphasis on the importance of
+the tensor spectrum. We provide some illustrative examples of such
+reconstruction. We then discuss in some detail the question of whether one can
+use real observations to carry out this procedure. We conclude that in
+practice, a full reconstruction of the functional form of the potential will
+not be possible within the foreseeable future. However, with a knowledge of the
+dark matter components, it should soon be possible to combine
+intermediate-scale data with measurements of large-scale cosmic microwave
+background anisotropies to yield useful information regarding the potential.
+","[{""version"":""v1"",""created"":""Mon, 22 Mar 1993 16:47:56 GMT""}]","2009-10-22"
+"hep-ph/9303289","Paul A. Griffin","R. D. Field and P. A. Griffin","Enhancing the heavy Higgs signal with jet-jet profile cuts","16 pages, Univ. Florida IFT-93-3","Phys.Rev. D48 (1993) 3167-3173","10.1103/PhysRevD.48.3167",,"hep-ph",,"  The jet-jet profile, or detailed manner, in which transverse energy and mass
+are distributed around the jet-jet system resulting from the hadronic decay of
+a $Z$ boson in the process Higgs$\to ZZ$ at a proton-proton collider energy of
+$40\tev$ is carefully examined. Two observables are defined that can be used to
+help distinguish the $\ell^+\ell^-$-jet-jet signal from Higgs decay from the
+``ordinary'' QCD background arising from the large transverse momentum
+production of single $Z$ bosons plus the associated jets. By making cuts on
+these observables, signal to background enhancement factors greater than $100$
+can be obtained.
+","[{""version"":""v1"",""created"":""Mon, 22 Mar 1993 19:10:04 GMT""}]","2009-10-22"
+"hep-ph/9303290","David London","David London","Exotic Fermions","23 pages, LaTeX, to be published in ""Precision Tests of the Standard
+  Model"", 1993, ed. Paul Langacker (World Scientific), UdeM-LPN-TH131",,,,"hep-ph",,"  I review the current limits on the mixing of ordinary and exotic fermions.
+","[{""version"":""v1"",""created"":""Mon, 22 Mar 1993 22:26:32 GMT""}]","2007-05-23"
+"hep-ph/9303291",,"B. de Carlos and J.A. Casas","One-Loop Analysis of the Electroweak Breaking in Supersymmetric Models
+  and the Fine-Tuning Problems","12 pages and 5 postscript files available upon request,
+  CERN-TH.6835/93","Phys.Lett.B309:320-328,1993","10.1016/0370-2693(93)90940-J",,"hep-ph",,"  We examine the electroweak breaking mechanism in the minimal supersymmetric
+standard model (MSSM) using the {\em complete} one-loop effective potential
+$V_1$. First, we study what is the region of the whole MSSM parameter space
+(i.e. $M_{1/2},m_o,\mu,...$) that leads to a succesful $SU(2)\times U(1)$
+breaking with an acceptable top quark mass. In doing this it is observed that
+all the one-loop corrections to $V_1$ (even the apparently small ones) must be
+taken into account in order to get reliable results. We find that the allowed
+region of parameters is considerably enhanced with respect to former ""improved""
+tree level results. Next, we study the fine-tuning problem associated with the
+high sensitivity of $M_Z$ to $h_t$ (the top Yukawa coupling). Again, we find
+that this fine-tuning is appreciably smaller once the one-loop effects are
+considered than in previous tree level calculations. Finally, we explore the
+ambiguities and limitations of the ordinary criterion to estimate the degree of
+fine-tuning. As a result of all this, the upper bounds on the MSSM parameters,
+and hence on the supersymmetric masses, are substantially raised, thus
+increasing the consistency between supersymmetry and observation.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 15:16:41 GMT""}]","2008-11-26"
+"hep-ph/9303292",,"Palash B Pal","Neutrino Interactions in Matter :","(Talk given at the `Rencontres de Moriond', to appear in the
+  Proceedings.) 4 pages LATEX, Report number DOE-ER 40757-007, CPP-93-07","Proc. XXXVIII Moriond, ed. J Tran Thanh Van et al",,,"hep-ph",,"  If a fermion is travelling through a medium, it can have matter-induced
+magnetic and electric dipole moments. These contributions conserve chirality,
+and can be non-vanishing even for a Majorana neutrino. Several implications for
+neutrino physics are discussed.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 04:52:33 GMT""}]","2007-05-23"
+"hep-ph/9303293","Bjarte Kileng","Bjarte Kileng","Effects of scalar mixing in ${g}{g} \rightarrow \mbox{Higgs} \rightarrow
+  \ga\ga$","37 pages (including 13 figures in Postscript format avilable upon
+  request), University of Bergen, Scientific/Technical Report No. 1993-02","Z.Phys. C63 (1994) 87-98","10.1007/BF01577547",,"hep-ph",,"  We discuss the effects of mixing of scalars belonging to left-- and
+right--chiral MSSM super--multiplets on the process ${g}{g}\rightarrow \hnl
+\rightarrow \ga\ga$, which is a promising channel for the discovery of the
+lightest CP--even MSSM Higgs boson at the LHC and the SSC. The effects of the
+left--right scalar mixing are small in most of parameter space. However, there
+exist regions where the mixing is important. Due to mixing, there can be large
+enhancements of the cross section in a region of parameter space where the
+no--mixing approximation yields a value that is too low for experimental
+discovery of the $\hnl$ at the LHC and the SSC.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 10:12:07 GMT""}]","2015-06-25"
+"hep-ph/9303294","Arild Skjold","Arild Skjold and Per Osland","Angular and energy correlations in Higgs decay","14 pages (4 figures in Postscript available upon request), LaTex,
+  Bergen Scientific/Technical Report No. 1993-03","Phys.Lett.B311:261-265,1993","10.1016/0370-2693(93)90565-Y",,"hep-ph",,"  We discuss how correlations among momenta of the decay products may yield
+information about the CP-parity of the Higgs particle. These are correlations
+of decay planes defined by the momenta of pairs of particles as well as
+correlations between energy differences. Our study includes finite-width
+effects. In the narrow-width approximation the angular correlations coincide
+with previously reported results. The correlations between energy differences
+turn out to be a much better probe for CP determination than the previously
+suggested angular correlations, especially for massive Higgs bosons.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 10:18:03 GMT""}]","2010-11-01"
+"hep-th/9303122","Nathan Jacob Berkovits","Nathan Berkovits","Finiteness and Unitarity of Lorentz-Covariant Green-Schwarz Superstring
+  Amplitudes","16 pages plain Tex; a revision is made to the second paragraph and
+  footnote on page 3","Nucl.Phys. B408 (1993) 43-61","10.1016/0550-3213(93)90132-9","KCL-TH-93-6","hep-th",,"  In two recent papers, a new method was developed for calculating
+ten-dimensional superstring amplitudes with an arbitrary number of loops and
+external massless particles, and for expressing them in manifestly
+Lorentz-invariant form. By explicitly checking for divergences when the Riemann
+surface degenerates, these amplitudes are proven to be finite. By choosing
+light-cone moduli for the surface and comparing with the light-cone
+Green-Schwarz formalism, these amplitudes are proven to be unitary.
+","[{""version"":""v1"",""created"":""Mon, 22 Mar 1993 16:34:00 GMT""},{""version"":""v2"",""created"":""Wed, 24 Mar 1993 14:43:00 GMT""}]","2009-10-22"
+"hep-th/9303123","Ninomiya","Hikaru Kawai, Yoshihisa Kitazawa and Masao Ninomiya","Ultraviolet Stable Fixed Point and Scaling Relations in 2+$\epsilon$
+  Dimensional Quantum Gravity","37 pages and 1 figure, UT-636, TIT/HEP-217 and YITP/U-93-07 (a
+  sentence to print out the figure is added, which was missing in the previous
+  version.)","Nucl.Phys. B404 (1993) 684-716","10.1016/0550-3213(93)90594-F",,"hep-th",,"  We formulate a renormalizable quantum gravity in $2+\epsilon$ dimensions by
+generalizing the nonlinear sigma model approach to string theory. We find that
+the theory possesses the ultraviolet stable fixed point if the central charge
+of the matter sector is in the range $0~<~c~<~25$. This may imply the existence
+of consistent quantum gravity theory in 3 and 4 dimensions. We compute the
+scaling dimensions of the relevant operators in the theory at the ultraviolet
+fixed point. We obtain a scaling relation between the cosmological constant and
+the gravitational constant, which is crucial for searching for the continuum
+limit in the constructive approach to quantum gravity.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 05:51:35 GMT""},{""version"":""v2"",""created"":""Fri, 2 Apr 1993 04:32:33 GMT""}]","2009-10-22"
+"hep-th/9303124","Jan Willem v. Holten","J.W. van Holten","Relativistic Dynamics of Spin in Strong External Fields","11 pages, NIKHEF-H/93-06",,,,"hep-th hep-ph",,"  The dynamics of relativistic spinning particles in strong external
+electromagnetic or gravitational fields is discussed. Spin-orbit coupling is
+shown to affect such relativistic phenomena as time-dilation and perihelion
+shift. Possible applications include muon decay in a magnetic field and the
+dynamics of neutron stars in binary systems.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 13:19:58 GMT""}]","2007-05-23"
+"hep-th/9303125",,"E. Elizalde, S. Naftulin and S.D. Odintsov","2D Dilaton-Maxwell Gravity as a Fixed Point of the Renormalization Group","7 pages, LaTeX file, UB-ECM-PF 92/Mar15","Phys.Lett.B313:347-350,1993","10.1016/0370-2693(93)90002-Y",,"hep-th",,"  A general model of dialton-Maxwell gravity in two dimensions is investigated.
+The corresponding one-loop effective action and the generalized
+$\beta$-functions are obtained. A set of models that are fixed points of the
+renormalization group equations are presented.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 15:47:51 GMT""}]","2009-09-17"
+"hep-th/9303126",,"E. Elizalde, S. Leseduarte and S. Zerbini","Mellin Transform Techniques for Zeta-Function Resummations","26 pages, LaTeX file, UB-ECM-PF 92/7",,,,"hep-th",,"  Making use of inverse Mellin transform techniques for analytical
+continuation, an elegant proof and an extension of the zeta function
+regularization theorem is obtained. No series commutations are involved in the
+procedure; nevertheless the result is naturally split into the same three
+contributions of very different nature, i.e. the series of Riemann zeta
+functions and the power and negative exponentially behaved functions,
+respectively, well known from the original proof. The new theorem deals equally
+well with elliptic differential operators whose spectrum is not explicitly
+known. Rigorous results on the asymptoticity of the outcoming series are given,
+together with some specific examples. Exact analytical formulas, simplifying
+approximations and numerical estimates for the last of the three contributions
+(the most difficult to handle) are obtained. As an application of the method,
+the summation of the series which appear in the analytic computation (for
+different ranges of temperature) of the partition function of the string
+---basic in order to ascertain if QCD is some limit of a string theory--- is
+PERFORMED.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 15:53:45 GMT""}]","2007-05-23"
+"hep-th/9303127","Francois David","F. David","Simplicial Quantum Gravity and Random Lattices","(Lectures given at Les Houches Summer School, July 1992) 63 pages,
+  plain TeX (foreword) + uuencoded tar-compressed PostScript file (main text +
+  figures)",,,"Saclay T93/028","hep-th",,"  Content:
+  1. Introduction
+  2. Regge calculus and dynamical triangulations
+  Simplicial manifolds and piecewise linear spaces - dual complex and volume
+elements - curvature and Regge action - topological invariants - quantum Regge
+calculus - dynamical triangulations
+  3. Two dimensional quantum gravity, dynamical triangulations and matrix
+models
+  continuum formulation - dynamical triangulations and continuum limit - one
+matrix model - various matrix models - numerical studies - c=1 barrier -
+intrinsic geometry of 2d gravity - Liouville at c>25
+  4. Euclidean quantum gravity in three and four dimensions
+  what are we looking for? - 3d simplicial gravity - 4d simplicial gravity - 3d
+and 4d Regge calculus
+  5. Non-perturbative problems in two dimensional quantum gravity
+  double scaling limit - string equation - non-perturbative properties of the
+string equation - divergent series and Borel summability - non-perturbative
+effects in 2d gravity and string theories - stabilization proposals
+  6. Conclusion
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 15:04:36 GMT""}]","2016-09-06"
+"hep-th/9303128",,"Christian Grosche","Path Integration Via Summation of Perturbation Expansions and
+  Applications to Totally Reflecting Boundaries, and Potential Steps","8 pages, AmSTeX, SISSA/46/93/FM","Phys.Rev.Lett. 71 (1993) 1-4","10.1103/PhysRevLett.71.1",,"hep-th",,"  The path integral for the propagator is expanded into a perturbation series,
+which can be exactly summed in the case of $\delta$-function perturbations
+giving a closed expression for the (energy-dependent) Green function. Making
+the strength of the $\delta$-function perturbation infinite repulsive, produces
+a totally reflecting boundary, hence giving a path integral solution in
+half-spaces in terms of the corresponding Green function. The example of the
+Wood-Saxon potential serves by an appropriate limiting procedure to obtain the
+Green function for the step-potential and the finite potential-well in the
+half-space, respectively.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 15:18:59 GMT""}]","2009-10-22"
+"patt-sol/9303002","David Griffeath","Richard Durrett (Cornell University) and David Griffeath (University
+  of Wisconsin)","Asymptotic Behavior of Excitable Cellular Automata","38 pages. arXiv admin note, 17Jun2003: original PCL file and PDF
+  version now available, see HTML page",,,,"patt-sol adap-org nlin.AO nlin.PS",,"  We study two families of excitable cellular automata known as the
+Greenberg-Hastings Model (GHM) and the Cyclic Cellular Automaton (CCA). Each
+family consists of local deterministic oscillating lattice dynamics, with
+parallel discrete-time updating, parametrized by the range of interaction, the
+""shape"" of its neighbor set, threshold value for contact updating, and number
+of possible states per site. GHM and CCA are mathematically tractable
+prototypes for the spatially distributed periodic wave activity of so-called
+excitable media observed in diverse disciplines of experimental science.
+Earlier work by Fisch, Gravner, and Griffeath studied the ergodic behavior of
+these excitable cellular automata on Z^2, and identified two distinct (but
+closely-related) elaborate phase portraits as the parameters vary. In
+particular, they noted the emergence of asymptotic phase diagrams (and
+Euclidean dynamics) in a well-defined threshold-range scaling limit. In this
+study we present several rigorous results and some experimental findings
+concerning various phase transitions in the asymptotic diagrams, focusing on
+evaluating the limiting threshold cutoff for existence of the spirals that
+characterize many excitable media. For mathematical expediency our main results
+are formulated in terms of spo(p), the cutoff for existence of stable periodic
+objects that arise as spiral cores.
+","[{""version"":""v1"",""created"":""Mon, 22 Mar 1993 20:17:00 GMT""}]","2009-09-25"
+"patt-sol/9303003",,"R. D. Parmentier (Department of Physics, University of Salerno, Italy)","Solitons and Long Josephson Junctions","A tutorial review presented at the NATO ASI ""The New Supercon-
+  ducting Electronics"", Waterville Valley, NH, USA, August 1992. 25 pages, 5
+  figures (not included). Uses: natokap.sty(included), nato11.sty(included),
+  fleqn.sty. Figures available from author via fax (+39 89 953804) or
+  snail-mail (PostScript versions not available - sorry)",,,,"patt-sol nlin.PS",,"  Magnetic flux quanta, of value h/2e, in long Josephson junctions behave as
+(quasi) solitons. Fluxon dynamical states are well described by a perturbed
+sine-Gordon equation model, with boundary conditions determined by the junction
+geometry and by externally applied magnetic fields, and they give rise to
+readily measurable physical phenomena, such as step structure in
+current-voltage characteristics and microwave radiation emission. Devices based
+on fluxon propagation offer potentially interesting applications as oscillators
+and amplifiers - as well as digital applica- tions, described elsewhere in this
+volume - in high performance integrated superconductive circuits.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 09:55:00 GMT""}]","2009-09-25"

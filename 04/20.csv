@@ -1,0 +1,312 @@
+"astro-ph/9304018",,"R. Schaeffer, S. Maurogordato, A. Cappi, F. Bernardeau","The Fundamental Plane of Galaxy Clusters","11pp., 4 figures (available on request), LaTeX, BAP-04-1993-015-OAB","Mon.Not.Roy.Astron.Soc.263:L21-L26,1993","10.1093/mnras/263.1.L21",,"astro-ph",,"  Velocity dispersion $\sigma$, radius $R$ and luminosity $L$ of elliptical
+galaxies are known to be related, leaving only two degrees of freedom and
+defining the so-called ``fundamental plane"". In this {\em Letter} we present
+observational evidence that rich galaxy clusters exhibit a similar behaviour.
+Assuming a relation $L \propto R^{\alpha}\sigma^{2 \beta}$, the best-fit values
+of $\alpha$ and $\beta$ are very close to those defined by galaxies. The
+dispersion of this relation is lower than 10 percent, i.e. significantly
+smaller than the dispersion observed in the $L-\sigma$ and $L-R$ relations. We
+briefly suggest some possible implications on the spread of formation times of
+objects and on peculiar velocities of galaxy clusters.
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 13:24:00 GMT""}]","2016-06-08"
+"chao-dyn/9304008","Nicholas Tufillaro","N. Tufillaro, CNLS & T-13, Lanl","Braid analysis of (low-dimensional) chaos","REVTEX macros",,,,"chao-dyn comp-gas nlin.CD nlin.CG",,"  Braid theory is used to calcualte the topological entropy of data from the
+belousov-Zhabotinskii reaction, the results agree well with one-dimensional
+theory to the order of approximation considered.
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 00:10:10 GMT""},{""version"":""v2"",""created"":""Wed, 21 Apr 1993 22:11:05 GMT""},{""version"":""v3"",""created"":""Fri, 10 Sep 1993 21:05:12 GMT""}]","2008-02-03"
+"cond-mat/9304031","Paul Fendley","Paul Fendley","Kinks in the Kondo problem","9 pages +1 figure",,"10.1103/PhysRevLett.71.2485","BUHEP-93-10","cond-mat hep-th",,"  We find the exact quasiparticle spectrum for the continuum Kondo problem of
+$k$ species of electrons coupled to an impurity of spin $S$. In this
+description, the impurity becomes an immobile quasiparticle sitting on the
+boundary. The particles are ``kinks'', which can be thought of as field
+configurations interpolating between adjacent wells of a potential with $k+1$
+degenerate minima. For the overscreened case $k>2S$, the boundary has this kink
+structure as well, which explains the non-integer number of boundary states
+previously observed. Using simple arguments along with the consistency
+requirements of an integrable theory, we find the exact elastic $S$-matrix for
+the quasiparticles scattering among themselves and off of the boundary. This
+allows the calculation of the exact free energy, which agrees with the known
+Bethe ansatz solution.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 20:43:56 GMT""}]","2016-08-31"
+"cond-mat/9304032","Michael E. Flatte","Martin Holthaus, Michael E. Flatte'","Subharmonic Generation in Quantum Systems","11 pages + 5 figures (available upon request), Revtex 3.0,
+  NSF-ITP-93-43",,"10.1016/0375-9601(94)90053-1",,"cond-mat",,"  We show how the classical-quantum correspondence permits long-lived
+subharmonic motion in a quantum system driven by a periodic force.
+Exponentially small deviations from exact subharmonicity are due to coherent
+tunneling between quantized vortex tubes which surround classical elliptic
+periodic orbits.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 22:28:06 GMT""}]","2009-10-22"
+"cond-mat/9304033","Rudolph A Romer","Bill Sutherland and Rudolf A. R""omer","Exiton, Spinon and Spin Wave Modes in an Exactly Soluble One-Dimensional
+  Quantum Many-Body System","14 pages (+ 3 graphs available upon request), ReVTeX 3.0,
+  UoU-rar-93002",,"10.1103/PhysRevLett.71.2789",,"cond-mat",,"  In this paper, we present the exact solution to a one-dimensional,
+two-component, quantum many-body system in which like particles interact with a
+pair potential $s(s+1)/{\rm sinh}^{2}(r)$, while unlike particles interact with
+a pair potential $-s(s+1)/{\rm cosh}^{2}(r)$. We first give a proof of
+integrability, then derive the coupled equations determining the complete
+spectrum. All singularities occur in the ground state when there are equal
+numbers of the two components; we give explicit results for the ground state
+and low-lying states in this case. For $s>0$, the system is an
+antiferromagnet/insulator, with excitations consisting of a pair-hole--pair
+continuum, a two-particle continuum with gap, and excitons with gaps. For
+$-1<s<0$, the system has excitations consisting of a hole-particle continuum,
+and a two-spin wave continuum, both gap-less.
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 00:09:01 GMT""}]","2009-10-22"
+"cond-mat/9304034","Canessa E.","H. Rosu and E. Canessa (ICTP-Trieste, Italy)","Solitons and 1/f Noise in Molecular Chains","IC/93/22",,"10.1103/PhysRevE.47.R3818",,"cond-mat q-bio",,"  Davydov's model of solitons in alpha-helix protein chains is shown to display
+features of self-organized criticality (SOC), i.e., power law behaviour of
+correlations in space and 1/f-noise, as a consequence of considering random
+peptide group displacements from their (periodic) equilibrium positions along a
+chain. This may shed light on a basic mechanism leading to obtain flicker noise
+in alpha-helix protein chains and to predict a SOC regime in biomolecular
+structures from first principles. We believe our treatment of 1/f noise to be
+of some relevance to recent findings due to Voss on DNA [Phys. Rev. Lett. 68,
+3805 (1992)].
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 07:30:33 GMT""}]","2009-10-22"
+"gr-qc/9304024","Martin Schoen","Martin Schoen","Operative Time Definition and Principal Uncertainity","11 pages",,,,"gr-qc",,"  Arguments are given that time must be defined in an operative manner,i.e., by
+constructing devices which can serve as clocks.The investigation of such
+devices leads to the conclusion that there is a principal uncertainity of time
+if one considers periods which are not large compared with the Planck time.
+Thus,according to the old (classical) concept,time cannot be well-defined at
+this scale.The uncertainity of time leads to a breakdown of Special and General
+relativity in the Planck regime;the same happens with causality. We present
+arguments that the classical concept of time,which treats t simply as a real
+parameter,must be replaced by a new one.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 18:06:16 GMT""}]","2007-05-23"
+"gr-qc/9304026","John D. Brown","David Brown","Action functionals for relativistic perfect fluids","40 pages, plain TeX","Class.Quant.Grav.10:1579-1606,1993","10.1088/0264-9381/10/8/017",,"gr-qc",,"  Action functionals describing relativistic perfect fluids are presented. Two
+of these actions apply to fluids whose equations of state are specified by
+giving the fluid energy density as a function of particle number density and
+entropy per particle. Other actions apply to fluids whose equations of state
+are specified in terms of other choices of dependent and independent fluid
+variables. Particular cases include actions for isentropic fluids and
+pressureless dust. The canonical Hamiltonian forms of these actions are
+derived, symmetries and conserved charges are identified, and the boundary
+value and initial value problems are discussed. As in previous works on perfect
+fluid actions, the action functionals considered here depend on certain
+Lagrange multipliers and Lagrangian coordinate fields. Particular attention is
+paid to the interpretations of these variables and to their relationships to
+the physical properties of the fluid.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 19:44:44 GMT""}]","2010-04-06"
+"gr-qc/9304027","Don N. Page","Don N. Page","No Time Asymmetry from Quantum Mechanics","14 pages, Alberta-Thy-11-93","Phys.Rev.Lett. 70 (1993) 4034-4037","10.1103/PhysRevLett.70.4034",,"gr-qc hep-th",,"  With CPT-invariant initial conditions that commute with CPT-invariant final
+conditions, the respective probabilities (when defined) of a set of histories
+and its CPT reverse are equal, giving a CPT-symmetric universe. This leads me
+to question whether the asymmetry of the Gell-Mann--Hartle decoherence
+functional for ordinary quantum mechanics should be interpreted as an asymmetry
+of {\it time} .
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 23:30:15 GMT""},{""version"":""v2"",""created"":""Mon, 19 Apr 1993 23:56:50 GMT""}]","2009-10-22"
+"gr-qc/9304028",,"Gerhard Rein","Static solutions of the spherically symmetric Vlasov-Einstein system","20 pages, Latex, report # 1",,"10.1017/S0305004100072303",,"gr-qc",,"  The Vlasov-Einstein system describes the evolution of an ensemble of
+particles (such as stars in a galaxy, galaxies in a galaxy cluster etc.)
+interacting only by the gravitational field which they create collectively and
+which obeys Einstein's field equations. The matter distribution is described by
+the Vlasov or Liouville equation for a collisionless gas. Recent investigations
+seem to indicate that such a matter model is particularly suited in a general
+relativistic setting and may avoid the formation of naked singularities, as
+opposed to other matter models. In the present note we consider the
+Vlasov-Einstein system in a spherically symmetric setting and prove the
+existence of static solutions which are asymptotically flat and have finite
+total mass and finite extension of the matter. Among these there are smooth,
+singularity-free solutions, which have a regular center and may have isotropic
+or anisotropic pressure, and solutions, which have a Schwarzschild-singularity
+at the center. The paper extends previous work, where smooth, globally defined
+solutions with regular center and isotropic pressure were considered.
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 10:19:06 GMT""}]","2015-06-25"
+"hep-ph/9304269","Manfred B. Lindner","A. Blumhofer and M. Lindner","Custodial SU(2) Violation and the Origin of Fermion Masses","HD-THEP-92-55, 18 pages and 2 pages of figures appended as Postscript
+  file","Nucl.Phys. B407 (1993) 173-190","10.1016/0550-3213(93)90278-W",,"hep-ph",,"  Custodial $SU(2)$ breaking due to dynamical fermion masses is studied in a
+rather general context and it is shown how some well known limiting cases are
+correctly described. The type of ``gap equation'' which can systematically lead
+to extra negative contributions to the so--called $\rho$--parameter is
+emphasized. Furthermore general model independent features are discussed and it
+is shown how electro--weak precision measurements can be sensitive to the
+fermion content and/or dynamical features of a given theory.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 17:09:49 GMT""}]","2009-10-22"
+"hep-ph/9304270","Sean Fleming Northwestern Univ.","Sean Fleming","Electromagnetic Production of Quarkonium in $Z^{0}$ decay","Latex, 6 pages, 2 figure in postscript format (uuencoded), (or
+  available upon request), NUHEP-TH-93-10","Phys.Rev. D48 (1993) 1914-1916","10.1103/PhysRevD.48.R1914",,"hep-ph",,"  The decay $Z^{0}\rightarrow Q+ \ell^{+}\ell^{-}$, where $Q$ is a
+$J^{PC}=1^{--}$ quarkonium state, has a very clean final state, which should
+make it easy to detect. The branching ratio of this mode is greater than
+$10^{-6}$ for $\rho$, $\phi$, and $\psi$, indicating that these processes may
+be detectable at LEP.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 18:10:40 GMT""}]","2009-10-22"
+"hep-ph/9304271","Stephen Parke, Fermilab","Stephen Parke","Overview of Accelerator Long Baseline Neutrino Oscillation Experiments","LaTeX, 8 pages, 5 figures (not included), Fermilab-Conf-93/056-T",,,,"hep-ph",,"  There is renewed interest in performing a long baseline neutrino oscillation
+experiment using accelerator neutrinos because of a discrepancy between the
+measured and the predicted values of the ratio of electron to muon neutrinos
+produced in the upper atmosphere by cosmic rays.The approximate range in
+oscillation parameter space indicated by the Kamiokande atmospheric neutrino
+results and confirmed by IMB is bounded by $ 10^{-3}~ eV^2 < \dmsq < 10^{-1}~
+eV^2 $ and $\s2t > 0.4~$. To reach such small $\dmsq$, using an accelerator as
+the source of neutrinos where the energy is typically 1 GeV or greater,
+requires baselines in the range of 10~km to 1000~km. In this talk I will give
+an overview of the most likely possibilities for such a long baseline
+accelerator neutrino oscillation experiment.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 18:35:08 GMT""}]","2007-05-23"
+"hep-ph/9304272","Daniel Boyanovsky","Da-Shin Lee and Daniel Boyanovsky","Dynamics of Phase Transitions Induced by a Heat Bath","26 pages, 3 figures (not included) LateX","Nucl.Phys.B406:631-654,1993","10.1016/0550-3213(93)90004-9","PITT-93-4","hep-ph",,"  We study the non-equilibrium dynamics of a symmetry restoring phase
+transition in a scalar field theory, the ``system'', linearly coupled to
+another scalar field taken as a ``heat bath''. The ``system'' is initially in
+an ordered low temperature phase, and the heat bath is at a temperature close
+to the critical temperature for the system. We estimate the time at which the
+phase transition to the disordered (symmetric) phase takes place. We derive,
+and integrate the one-loop effective equations of motion for the order
+parameter that include the effects of the heat bath. A semiclassical Langevin
+equation is derived and it is found that it contains a non-dissipative,
+non-Markovian kernel, the noise term is colored and correlated on time scales
+determined by the temperature of the heat bath. The range of validity of the
+Langevin equation and a consistent procedure to incorporate corrections are
+discussed.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 20:45:00 GMT""}]","2014-11-17"
+"hep-ph/9304273",,"Kari Enqvist and Jukka Sirkka","Chemical equilibrium in QCD gas in the early universe","10 pages, 4 figures (available upon request), Plain TEX, Nordita
+  93/32 P","Phys.Lett. B314 (1993) 298-302","10.1016/0370-2693(93)91239-J",,"hep-ph",,"  We compute the thermally averaged $\qq$--annihilation rate into two and three
+gluons in the early universe. We show that at very high temperatures $\qq\to
+ggg$ represents only a 3\%\ correction to $\qq\to gg$. Comparing the
+annihilation rate to the Hubble rate, corrected for particle interactions in
+the Standard Model gas, we find that quarks and gluons are not in chemical
+equilibrium when $T\gsim 3\times 10^{14}$ GeV.
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 09:05:53 GMT""}]","2009-10-22"
+"hep-ph/9304274",,"Ugo Aglietti","Consistency and lattice renormalization of the effective theory for
+  heavy quarks","28 pages, Latex version 2.09, SISSA 56/93/EP","Nucl.Phys.B421:191-216,1994","10.1016/0550-3213(94)90231-3",,"hep-ph",,"  The effective theory describing infinite mass particles with a given
+velocity, has a great interest in heavy flavor physics. It has the unpleasant
+characteristic that the energy spectrum is unbounded from below; this fact is
+the source of the problems in the formulation of the euclidean theory. In this
+paper we present an analysis of the euclidean effective theory, that is rather
+complete and has positive conclusions. A proof of the consistency of the
+euclidean theory is presented and a technique for the evaluation of the
+amplitudes in perturbation theory is described. We compute also the one-loop
+renormalization constants of the lattice effective theory and of the
+heavy-heavy current that is needed for the determination of the Isgur-Wise
+function. A variety of effects related to the explicit breaking of the Lorentz
+symmetry of lattice regularization is demonstrated. The most peculiar
+phenomenon is that the heavy quark velocity receives a finite renormalization.
+Finally, we compute the lattice-continuum renormalization constant of the
+Isgur-Wise current. It is needed for the conversion of the values of the matrix
+elements computed with the lattice effective theory, to the values in the full
+theory.
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 11:38:35 GMT""}]","2010-11-01"
+"hep-ph/9304276","Ed Stoeffhaas","M.B. Gay Ducati, F. Halzen, and A.A. Natale","Diffraction and the Gluon Mass","10 pages, Latex, 3 figures available by fax or conventional mail.
+  MAD/PH/750","Phys.Rev.D48:2324-2328,1993","10.1103/PhysRevD.48.2324",,"hep-ph",,"  We recently proposed a QCD-Pomeron described by the exchange of two
+non-perturbative gluons characterized by a dynamically generated gluon mass. It
+is here shown that data on elastic scattering, exclusive $\rho$ production in
+deep inelastic scattering and the $J/\Psi$-nucleon total cross-section can be
+successfully described in terms of a single gluon mass $m_g\simeq0.37$~GeV. We
+observe that the total cross sections of hadrons with small radii, such as
+$J/\Psi$, have a marked dependence on the effective gluon mass.
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 15:52:30 GMT""}]","2011-07-19"
+"hep-th/9304078","M. B. Paranjape","K. Isler and M. B. Paranjape","Violations of the String Hypothesis in the Solutions of the Bethe Ansatz
+  Equations in the XXX-Heisenberg","18 pages. revised to amplify credit, in plain tex with macropackage
+  psbox (available from the net)","Phys.Lett. B319 (1993) 209-214","10.1016/0370-2693(93)90804-Q","UdeM-LPS-TH-93-144","hep-th",,"  We study the equations for the quasi-momenta which characterize the
+wave-functions in the Bethe ansatz for the XXX-Heisenberg model. We show in a
+simple analytical fashion, that the usual ``string hypothesis"" incorrectly
+predicts the number of real solutions and the number of complex solutions for
+$N>21$ in the sector with two spins flipped, confirming the work of Essler et
+al. Two complex pair solutions drop out and form two additional real pair
+solutions. We also introduce a new set of variables which allows the equations
+to be written as a single polynomial equation in one variable. We consider in
+some detail the case of three spins flipped.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 16:26:34 GMT""},{""version"":""v2"",""created"":""Mon, 26 Apr 1993 21:40:03 GMT""}]","2009-10-22"
+"hep-th/9304079","Balakrishna Shankar","B. S. Balakrishna","Anomaly matching for the QCD string","Latex file, 8 pages, COLO-HEP/313, AZPH-TH/93-10","Phys.Rev.D48:5471-5474,1993","10.1103/PhysRevD.48.R5471",,"hep-th",,"  A criterion to be satisfied by a string theory of QCD is formulated in the
+ultraviolet regime. It arises from the trace anomaly of the QCD stress tensor
+computed using instantons. It is sensitive to asymptotic freedom. It appears to
+be related to the trace anomaly of the QCD string. Our current understanding of
+noncritical strings in physical dimensions is limited, but remarkably, a formal
+treatment of the bosonic string yields numerical agreement both in magnitude
+and sign for the gauge group SU(2).
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 17:20:36 GMT""},{""version"":""v2"",""created"":""Mon, 26 Apr 1993 20:51:18 GMT""}]","2009-12-30"
+"hep-th/9304080",,"H. Aratyn, C.P. Constantinidis, L.A. Ferreira, J.F. Gomes and A.H.
+  Zimerman","Construction of Affine and Conformal Affine Toda Solitons by Hirota's
+  Method","9 pages, LATEX, IFT-P/020/93, UICHEP-TH/93-3",,,,"hep-th",,"  In this talk we report some results about the construction of soliton
+solutions for the Affine and Conformal Affine Toda models using the Hirota's
+method. We obtain new classes of solitons connected to the degeneracies of the
+Cartan matrix eigenvalues as well as to some particular features of the
+recursive scheme developed here. We obtain an universal mass formula for all
+those solitons. The examples of $SU(6)$ and $Sp(3)$ are discussed in some
+detail. ( Talk presented at the VII J.A. Swieca Summer School, Section:
+Particles and
+  Fields, Campos do Jord\~ao - Brasil - January/93)
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 18:19:12 GMT""}]","2007-05-23"
+"hep-th/9304081","Steven Carlip","M. Asorey, S. Carlip, and F. Falceto","Chern-Simons States and Topologically Massive Gauge Theories","11 pages","Phys.Lett.B312:477-485,1993","10.1016/0370-2693(93)90985-Q","UCD-93-7 and DFTUZ 93.5","hep-th",,"  In an abelian topologically massive gauge theory, any eigenstate of the
+Hamiltonian can be decomposed into a factor describing massive propagating
+gauge bosons and a Chern-Simons wave function describing a set of
+nonpropagating ``topological'' excitations. The energy depends only on the
+propagating modes, and energy eigenstates thus occur with a degeneracy that can
+be parametrized by the Hilbert space of the pure Chern-Simons theory. We show
+that for a {\em nonabelian} topologically massive gauge theory, this degeneracy
+is lifted: although the Gauss law constraint can be solved with a similar
+factorization, the Hamiltonian couples the propagating and nonpropagating
+(topological) modes.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 19:14:54 GMT""}]","2010-04-28"
+"hep-th/9304082","Costas Efthimiou","C. J. Efthimiou","A Comment on the Propagator of the Radial Oscillator","CLNS-93/1206, REVTEX","Phys. Rev. A 48, 4758 (1993)","10.1103/PhysRevA.48.4758",,"hep-th",,"  Using a hybrid approach, based on the recursion relations for shape invariant
+potentials developed by Das and Huang and a time-dependent tranformation of
+variables, we derive the propagator for a radial oscillator. Although this is
+not a new result, we explicitly show that time-dependent tranformations are
+very beneficial even within the context of time-independent Hamiltonians in
+quantum mechanics.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 23:54:09 GMT""}]","2013-11-13"
+"hep-th/9304083","Andreas Honecker","N.S. Han and A. Honecker","Low-Temperature Expansions and Correlation Functions of the Z_3-Chiral
+  Potts Model","17 pages (Plain TeX), BONN-HE-93-13","J.Phys. A27 (1994) 9-22","10.1088/0305-4470/27/1/002",,"hep-th",,"  Using perturbative methods we derive new results for the spectrum and
+correlation functions of the general Z_3-chiral Potts quantum chain in the
+massive low-temperature phase. Explicit calculations of the ground state energy
+and the first excitations in the zero momentum sector give excellent
+approximations and confirm the general statement that the spectrum in the
+low-temperature phase of general Z_n-spin quantum chains is identical to one in
+the high-temperature phase where the role of charge and boundary conditions are
+interchanged. Using a perturbative expansion of the ground state for the Z_3
+model we are able to gain some insight in correlation functions. We argue that
+they might be oscillating and give estimates for the oscillation length as well
+as the correlation length.
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 09:08:36 GMT""}]","2009-10-22"
+"hep-th/9304084","Danielle Stretch","P.D. D'Eath","Physical states in $N = 1$ supergravity","9 pages, DAMTP Preprint DAMTP-R-93-4","Phys.Lett. B321 (1994) 368-371","10.1016/0370-2693(94)90259-3",,"hep-th",,"  By solving the supersymmetry constraints for physical wave-functions, it is
+shown that the only two allowed bosonic states in $ N = 1 $ supergravity are of
+the form const.~exp~$(\pm I / \hbar) $, where $ I $ is an action functional of
+the three-metric. States containing a finite number of fermions are forbidden.
+In the case that the spatial topology is $ S^3 $, the state const.~exp~$(- I /
+\hbar)$ is the wormhole ground state, and the state const.~exp~$(I / \hbar)$ is
+the Hartle--Hawking state. $ N = 1 $ supergravity has no quantum ultraviolet
+divergences, and no quantum corrections.
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 11:57:00 GMT""}]","2009-10-22"
+"hep-th/9304085","Giorgio Giavarini","H.J. de Vega and G. Giavarini","Exact Solution of the general Non Intersecting String Model","29 pages plus 2 figures appended as ps files, phyzzx, LPTHE 93/16","Nucl.Phys. B410 (1993) 550-576","10.1016/0550-3213(93)90529-X",,"hep-th nlin.SI solv-int",,"  We present a thorough analysis of the Non Intersecting String (NIS) model and
+its exact solution. This is an integrable $q$-states vertex model describing
+configurations of non-intersecting polygons on the lattice. The exact
+eigenvalues of the transfer matrix are found by analytic Bethe Ansatz. The
+Bethe Ansatz equations thus found are shown to be equivalent to those for a
+mixed spin model involving both 1/2 and infinite spin. This indicates that the
+NIS model provides a representation of the quantum group $SU(2)_{\hat q}$
+($|\hat q|\not= 1$) corresponding to spins $s=1/2$ and $s=\infty$. The
+partition function and the excitations in the thermodynamic limit are computed.
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 12:54:17 GMT""}]","2009-10-22"
+"hep-th/9304086",,"Arne L. Larsen","Dynamics of cosmic strings and springs; a covariant formulation","11 pages, Latex, Nordita preprint 93/28 P","Class.Quant.Grav.10:1541-1548,1993","10.1088/0264-9381/10/8/014",,"hep-th",,"  A general family of charge-current carrying cosmic string models is
+investigated. In the special case of circular configurations in arbitrary
+axially symmetric gravitational and electromagnetic backgrounds the dynamics is
+determined by simple point particle Hamiltonians. A certain ""duality""
+transformation relates our results to previous ones, obtained by Carter et.
+al., for an infinitely long open stationary string in an arbitrary stationary
+background.
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 14:38:05 GMT""}]","2010-04-06"
+"hep-th/9304090","Carles Ayala","Carles Ayala","Renormalization Group Approach to Matrix Models in Two-Dimensional
+  Quantum Gravity","14 pages, LaTeX file, UAB--FT--306, April 1993","Phys.Lett. B311 (1993) 55-63","10.1016/0370-2693(93)90533-N",,"hep-th",,"  We explore the implications of recent work by Br\'ezin and Zinn-Justin,
+applying the renormalization group techniques from critical phenomena to the
+scaling limit of matrix models in two-dimensional quantum gravity. They
+endeavor to get the lowest order fixed points of the theory giving insight upon
+the critical points of the theory. We show that at leading order the
+perturbative result is equal to the saddle-point approximation result. We
+calculate the next-to-leading order in the perturbative expansion exploring the
+goodness of the approach.
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 14:28:17 GMT""}]","2009-10-22"
+"hep-th/9304116",,"M. Yu. Lashkevich","Coset Construction of Minimal Models","25 pages, 6 figures (not include, available by request), the plainest
+  TEX, LANDAU-93-TMP-3","Int.J.Mod.Phys.A8:5673-5700,1993","10.1142/S0217751X93002241",,"hep-th",,"  Usual coset construction $\SU{k}\times\SU{l}/\SU{k+l}$ of Wess--Zumino
+conformal field theory is presented as a coset construction of minimal models.
+This new coset construction can be defined rigorously and allows one to
+calculate easily correlation functions of a number of primary fields.
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 10:15:06 GMT""}]","2011-07-19"
+"nucl-th/9304014",,"B. Mosconi, J. Pauschenwein and P. Ricci","Nucleon polarization in deuteron electrodisintegration","24 pages text (TEX), 10 figs (not included, PostScript or paper
+  available upon request), DFF 184/4/93","Phys.Rev.C48:332-343,1993","10.1103/PhysRevC.48.332",,"nucl-th",,"  Outgoing nucleon polarization in exclusive deuteron electrodisintegration is
+studied at the quasi-elastic peak in the standard theory with emphasis on the
+effect of nucleonic and pionic relativistic corrections. The cases of polarized
+beam or/and polarized target are considered. Sizeable relativistic effects are
+pointed out in several polarization components. The sensitivity of nucleon
+polarization to the neutron charge form factor $G_E^n$ is discussed. In
+particular, it is shown that the longitudinal component of neutron polarization
+with vector polarized deuterons is as sensitive to $G_E^n$ as the sideways beam
+polarization transfer.
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 08:33:08 GMT""}]","2008-11-26"
+"patt-sol/9304004","Canessa E.","H. Rosu and E. Canessa (ICTP-Trieste, Italy)","Solitons and 1/f Noise in Molecular Chains",,,,"/IC/93/22","patt-sol adap-org nlin.AO nlin.PS",,"  Davydov's model of solitons in alpha-helix protein chains is shown to display
+features of self-organized criticality (SOC), i.e., power law behaviour of
+correlations in space and 1/f-noise, as a consequence of considering random
+peptide group displacements from their (periodic) equilibrium positions along a
+chain. This may shed light on a basic mechanism leading to obtain flicker noise
+in alpha-helix protein chains and to predict a SOC regime in biomolecular
+structures from first principles. We believe our treatment of 1/f noise to be
+of some relevance to recent findings due to Voss on DNA [Phys. Rev. Lett. 68,
+3805 (1992)].
+","[{""version"":""v1"",""created"":""Tue, 20 Apr 1993 07:41:43 GMT""},{""version"":""v2"",""created"":""Tue, 20 Apr 1993 08:10:58 GMT""}]","2008-02-03"

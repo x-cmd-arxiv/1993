@@ -1,0 +1,157 @@
+"astro-ph/9304022","Hume Feldman","Hume A. Feldman, Nick Kaiser and John A. Peacock","Power Spectrum Analysis of Three-Dimensional Redshift Surveys","31 pages, plain TeX, 9 figures available upon request. UM AC 93-5","Astrophys.J.426:23-37,1994","10.1086/174036",,"astro-ph",,"  We develop a general method for power spectrum analysis of three dimensional
+redshift surveys. We present rigorous analytical estimates for the statistical
+uncertainty in the power and we are able to derive a rigorous optimal weighting
+scheme under the reasonable (and largely empirically verified) assumption that
+the long wavelength Fourier components are Gaussian distributed. We apply the
+formalism to the updated 1-in-6 QDOT IRAS redshift survey, and compare our
+results to data from other probes: APM angular correlations; the CfA and the
+Berkeley 1.2Jy IRAS redshift surveys. Our results bear out and further quantify
+the impression from e.g.\ counts-in-cells analysis that there is extra power on
+large scales as compared to the standard CDM model with $\Omega h\simeq 0.5$.
+We apply likelihood analysis using the CDM spectrum with $\Omega h$ as a free
+parameter as a phenomenological family of models; we find the best fitting
+parameters in redshift space and transform the results to real space. Finally,
+we calculate the distribution of the estimated long wavelength power. This
+agrees remarkably well with the exponential distribution expected for Gaussian
+fluctuations, even out to powers of ten times the mean. Our results thus reveal
+no trace of periodicity or other non-Gaussian behavior.
+","[{""version"":""v1"",""created"":""Mon, 26 Apr 1993 15:26:48 GMT""}]","2011-05-05"
+"cond-mat/9304042","Kikuo Harigaya Harry-chan","Kikuo Harigaya (Department of Physics, University of Sheffield, United
+  Kingdom, and Fundamental Physics Section, Physical Science Division,
+  Electrotechnical Laboratory, Umezono, Tsukuba, Ibaraki, Japan)","Polaron Excitations in Doped C60: Effects of Disorders","Note: This manusript was accepted for publication in Physical Review
+  B. Figures will be sent to you via snail (conventional) mail","Phys. Rev. B 48 (1993) 2765-2772","10.1103/PhysRevB.48.2765",,"cond-mat",,"  Effects on C$_{60}$ by thermal fluctuations of phonons, misalignment of
+C$_{60}$ molecules in a crystal, and other intercalated impurities (remaining
+C$_{70}$, oxygens, and so on) are simulated by disorder potentials. The
+Su-Schrieffer-Heeger--type electron-phonon model for doped C$_{60}$ is solved
+with gaussian bond disorders and also with site disorders. Sample average is
+performed over sufficient number of disorder configurations. The distributions
+of bond lengths and electron densities are shown as functions of the disorder
+strength and the additional electron number. Stability of polaron excitations
+as well as dimerization patterns is studied. Polarons and dimerizations in
+lightly doped cases (C$_{60}^{-1,-2}$) are relatively stable against disorders,
+indicated by peak structures in distribution functions. In more heavily doped
+cases, the several peaks merge into a single peak, showing the breakdown of
+polaron structures as well as the decrease of the dimerization strength.
+Possibility of the observation of polaronic lattice distortions and electron
+structures in doped C$_{60}$ is discussed.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 1993 17:46:00 GMT""}]","2007-05-23"
+"cond-mat/9304043","Nobuki Maeda","Kenzo Ishikawa and Nobuki Maeda","A Mean Field Theory for the Quantum Hall Liquid. II --- The Vortex
+  Solution","16pages,EPHOU 93-001,phyzzx","Prog. Theor. Phys. Vol. 91 (1994) 237","10.1143/ptp/91.2.237",,"cond-mat hep-th",,"  In the Fractional Quantum Hall state, we introduce a bi-local mean field and
+get vortex mean field solutions. Rotational invariance is imposed and the
+solution is constructed by means of numerical self-consistent method. It is
+shown that vortex has a fractional charge, a fractional angular momentum and a
+magnetic field dependent energy. In $\nu=1/3$ state, we get finite energy gap
+at $B=10,15,20[T]$. We find that the gap vanishes at $B=5.5[T]$ and becomes
+negative below it. The uniform mean field becomes unstable toward vortex pair
+production below $B=5.5[T]$.
+","[{""version"":""v1"",""created"":""Mon, 26 Apr 1993 07:19:58 GMT""},{""version"":""v2"",""created"":""Fri, 4 Jun 1993 05:50:28 GMT""}]","2017-02-01"
+"cond-mat/9304044","Didier Poilblanc","D. Poilblanc, J. Riera and E. Dagotto","Bound states of holes in an antiferromagnet","12 pages and 3 figures (3 postscript files included), Report
+  LPQTH-93/06",,"10.1103/PhysRevB.49.12318",,"cond-mat",,"  The formation of bound states of holes in an antiferromagnetic spin-1/2
+background is studied using numerical techniques applied to the ${\rm t-J}$
+Hamiltonian on clusters with up to 26 sites. An analysis of the binding energy
+as a function of cluster size suggests that a two hole bound state is formed
+for couplings larger than a ``critical'' value ${\rm J/t]_c}$. The symmetry of
+the bound state is $\dx2y2$. We also observed that its ``quasiparticle'' weight
+${\rm Z_{2h}}$ (defined in the text), is finite for all values of the coupling
+${\rm J/t}$. Thus, in the region ${\rm J/t \geq J/t]_c}$ the bound state of two
+holes behaves like a quasiparticle with charge $Q=2e$, spin $S=0$, and $\dx2y2$
+internal symmetry. The relation with recent ideas that have suggested the
+possibility of d-wave pairing in the high temperature cuprate superconductors
+is briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 26 Apr 1993 12:58:42 GMT""}]","2009-10-22"
+"hep-lat/9304014","Igor Pesando","I. Pesando","Coloured Polymers","8 pag., Latex, NBI-HE-93-06","Mod. Phys. Lett. B7 (1993) 1695-1702","10.1142/S0217984993001739",,"hep-lat cond-mat",,"  We show that non-oriented coloured polymers (self--avoiding walks with
+different types of links) are in the same universality class of the ordinary
+self--avoiding walks, while the oriented coloured are not.
+","[{""version"":""v1"",""created"":""Mon, 26 Apr 1993 12:42:30 GMT""}]","2015-06-25"
+"hep-th/9304118","Edward Frenkel","Edward Frenkel and Andras Szenes","Crystal bases, dilogarithm identities and torsion in algebraic K-groups","34 pages",,,,"hep-th math.QA",,"  We give a new interpretation and proof of the dilogarithm identities,
+associated to the affine Kac-Moody algebra sl(2)^, using the path description
+of the corresponding crystal basis. We also discuss connections with algebraic
+K-theory.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 1993 22:55:34 GMT""},{""version"":""v2"",""created"":""Mon, 26 Apr 1993 20:31:33 GMT""}]","2008-02-03"
+"hep-th/9304119",,"A. Petermann","On a class of finite sigma-models and string vacua; a supersymmetric
+  extension","12 pages, CPT-93/P.2879,CERN-TH-6828/93, plain TeX",,,,"hep-th",,"  Following a suggestion made by Tseytlin, we investigate the case when one
+replaces the transverse part of the bosonic action by an $n=2$ supersymmetric
+sigma-model with a symmetric homogeneous K\""ahlerian target space. As
+conjectured by Tseytlin, the metric is shown to be exactly known since the beta
+function is known to reduce to its one-loop value.
+","[{""version"":""v1"",""created"":""Mon, 26 Apr 1993 09:06:44 GMT""}]","2007-05-23"
+"hep-th/9304120","Reinhard Werner","R.F. Werner","The Free Quon Gas Suffers Gibbs' Paradox","number-of-pages, LaTeX with REVTEX","Phys.Rev. D48 (1993) 2929-2934","10.1103/PhysRevD.48.2929",,"hep-th",,"  We consider the Statistical Mechanics of systems of particles satisfying the
+$q$-commutation relations recently proposed by Greenberg and others. We show
+that although the commutation relations approach Bose (resp.\ Fermi) relations
+for $q\to1$ (resp.\ $q\to-1$), the partition functions of free gases are
+independent of $q$ in the range $-1<q<1$. The partition functions exhibit
+Gibbs' Paradox in the same way as a classical gas without a correction factor
+$1/N!$ for the statistical weight of the $N$-particle phase space, i.e.\ the
+Statistical Mechanics does not describe a material for which entropy, free
+energy, and particle number are extensive thermodynamical quantities.
+","[{""version"":""v1"",""created"":""Mon, 26 Apr 1993 08:55:50 GMT""}]","2009-10-22"
+"hep-th/9304121","Sung-Kil Yang","T. Eguchi, Y. Yamada and S.-K. Yang","Topological Field Theories and the Period Integrals","12 pages, phyzzx, UT 641","Mod. Phys. Lett. A8 (1993) 1627-1638","10.1142/S0217732393001379",,"hep-th",,"  We discuss topological Landau-Ginzburg theories coupled to the 2-dimensional
+topological gravity. We point out that the basic recursion relations for
+correlation functions of the 2-dimesional gravity have exactly the same form as
+the Gauss-Manin differential equations for the period integrals of
+superpotentials. Thus the one-point functions on the sphere of the
+Landau-Ginzburg theories are given exactly by the period integrals. We discuss
+various examples, A-D-E minimal models and the $c=3$ topological theories.
+","[{""version"":""v1"",""created"":""Mon, 26 Apr 1993 09:15:36 GMT""}]","2015-06-26"
+"hep-th/9304122",,"Jiang-Bei Fan and Ming Yu","Modules Over Affine Lie Superalgebras","35 pages",,,"ASITP-93-14","hep-th math.QA",,"  Modules over affine Lie superalgebras ${\cal G}$ are studied, in particular,
+for ${\cal G}=\hat{OSP(1,2)}$. It is shown that on studying Verma modules, much
+of the results in Kac-Moody algebra can be generalized to the super case. Of
+most importance are the generalized Kac-Kazhdan formula and the
+Malikov-Feigin-Fuchs construction, which give the weights and the explicit form
+of the singular vectors in the Verma module over affine Kac-Moody
+superalgebras. We have also considered the decomposition of the admissible
+representation of $\hat{OSP(1,2)}$ into that of $\hat{SL(2)}\otimes$Virasoro
+algebra, through which we get the modular transformations on the torus and the
+fusion rules. Different boundary conditions on the torus correspond to the
+different modings of the current superalgebra and characters or
+super-characters, which might be relevant to the Hamiltonian reduction
+resulting in Neveu-Schwarz or Ramond superconformal algebras. Finally, the
+Felder BRST complex, which consists of Wakimoto modules by the free field
+realization, is constructed.
+","[{""version"":""v1"",""created"":""Mon, 26 Apr 1993 10:52:51 GMT""}]","2008-02-03"
+"hep-th/9304123",,"Jiang-Bei Fan and Ming Yu (CCAST and Institute of Theoretical Physics,
+  Academia Sinica)","$G/G$ Gauged Supergroup Valued WZNW Field Theory","AS-ITP-93-22",,,,"hep-th",,"  The $G/G$ gauged supergroup valued WZNW theory is considered. It is shown
+that for $G=\OSP$, the $G/G$ theory tensoring a ($b$, $c$, $\beta$, $\gamma$)
+system is equivalent to the non-critical fermionic theory. The relation between
+integral or half integral moded affine superalgebra and its reduced theory, the
+NS or R superconformal algebra, is discussed in detail. The physical state
+space, i.e. the BRST semi-infinite cohomology, is calculated, for the
+$\OSP/\OSP$ theory.
+","[{""version"":""v1"",""created"":""Mon, 26 Apr 1993 10:53:09 GMT""},{""version"":""v2"",""created"":""Fri, 9 Jul 1993 10:19:59 GMT""}]","2008-02-03"
+"hep-th/9304124","Juergen Laartz","Wolfgang Bischoff","On a Jordan-algebraic formulation of quantum mechanics: Hilbert space
+  construction","12pages, latex, THEP 93/7",,,,"hep-th",,"  In this note I discuss some aspects of a formulation of quantum mechanics
+based entirely on the Jordan algebra of observables. After reviewing some facts
+of the formulation in the \CS -approach I present a Jordan-algebraic Hilbert
+space construction (inspired by the usual GNS-construction), thereby obtaining
+a real Hilbert space and a (Jordan-) representation of the algebra of
+observables on this space. Taking the usual case as a guideline I subsequently
+derive a Schr\""odinger equation on this Hilbert space.
+","[{""version"":""v1"",""created"":""Mon, 26 Apr 1993 10:31:57 GMT""}]","2007-05-23"
+"hep-th/9304125","Laszlo Feher","L. Feher, L. O'Raifeartaigh, P. Ruelle and I. Tsutsui","On the Completeness of the Set of Classical W-Algebras Obtained from DS
+  Reductions","48 pages, plain TeX, BONN-HE-93-14, DIAS-STP-93-02","Commun.Math.Phys. 162 (1994) 399-432","10.1007/BF02102024",,"hep-th",,"  We clarify the notion of the DS --- generalized Drinfeld-Sokolov ---
+reduction approach to classical ${\cal W}$-algebras. We first strengthen an
+earlier theorem which showed that an $sl(2)$ embedding ${\cal S}\subset {\cal
+G}$ can be associated to every DS reduction. We then use the fact that a
+$\W$-algebra must have a quasi-primary basis to derive severe restrictions on
+the possible reductions corresponding to a given $sl(2)$ embedding. In the
+known DS reductions found to date, for which the $\W$-algebras are denoted by
+${\cal W}_{\cal S}^{\cal G}$-algebras and are called canonical, the
+quasi-primary basis corresponds to the highest weights of the $sl(2)$. Here we
+find some examples of noncanonical DS reductions leading to $\W$-algebras which
+are direct products of ${\cal W}_{\cal S}^{\cal G}$-algebras and `free field'
+algebras with conformal weights $\Delta \in \{0, {1\over 2}, 1\}$. We also show
+that if the conformal weights of the generators of a ${\cal W}$-algebra
+obtained from DS reduction are nonnegative $\Delta \geq 0$ (which is
+","[{""version"":""v1"",""created"":""Mon, 26 Apr 1993 12:01:09 GMT""},{""version"":""v2"",""created"":""Sun, 5 Sep 1993 18:20:20 GMT""}]","2009-10-22"
+"math/9304204","Claude Laflamme","Claude Laflamme","Bounding and dominating number of families of functions on N",,,,"Logic E-prints April 26, 1993","math.LO",,"  We pursue the study of families of functions on the natural numbers, with
+emphasis here on the bounded families. The situation being more complicated
+than the unbounded case, we attack the problem by classifying the families
+according to their bounding and dominating numbers, the traditional scheme for
+gaps. Many open questions remain.
+","[{""version"":""v1"",""created"":""Mon, 26 Apr 1993 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9304021","Thomas Meissner","T. Hatsuda, E.M. Henley, Th. Meissner and G. Krein","The Off Shell $\rho$-$\omega$ Mixing in the QCD Sum Rules","26 pages + 11 figures (PostScript)","Phys.Rev.C49:452-463,1994","10.1103/PhysRevC.49.452","DOE/ER/40561-103-INT93-00-36","nucl-th hep-ph",,"  The $q^2$ dependence of the $\rho-\omega$ mixing amplitude is analyzed with
+the use of the QCD sum rules and the dispersion relation. Going off shell the
+mixing decreases, changes sign at $q^2 \simeq 0.4 m_{\rho}^2 > 0$ and is
+negative in the space like region. Implications of this result to the isospin
+breaking part of the nuclear force are discussed.
+","[{""version"":""v1"",""created"":""Mon, 26 Apr 1993 01:51:19 GMT""}]","2008-11-26"

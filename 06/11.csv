@@ -1,0 +1,200 @@
+"adap-org/9306002","Mark Millonas","Mark M. Millonas (Center for Nonlinear Studies and Theoretical
+  Division, LANL and Santa Fe Institute)","Swarms, Phase Transitions, and Collective Intelligence","1.25Mb uuencoded postscript file, 30 pages, 9 figs",,,,"adap-org nlin.AO q-bio.PE",,"  A spacially extended model of the collective behavior of a large number of
+locally acting organisms is proposed in which organisms move probabilistically
+between local cells in space, but with weights dependent on local morphogenetic
+substances, or morphogens. The morphogens are in turn are effected by the
+passage of an organism. The evolution of the morphogens, and the corresponding
+flow of the organisms constitutes the collective behavior of the group. Such
+models have various types of phase transitions and self-organizing properties
+controlled both by the level of the noise, and other parameters.
+  The model is then applied to the specific case of ants moving on a lattice.
+The local behavior of the ants is inspired by the actual behavior observed in
+the laboratory, and analytic results for the collective behavior are compared
+to the corresponding laboratory results.
+  It is hoped that the present model might serve as a paradigmatic example of a
+complex cooperative system in nature. In particular swarm models can be used to
+explore the relation of nonequilibrium phase transitions to at least three
+important issues encountered in artificial life. Firstly, that of emergence as
+complex adaptive behavior. Secondly, as an exploration of continuous phase
+transitions in biological systems. Lastly, to derive behavioral criteria for
+the evolution of collective behavior in social organisms.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 03:26:04 GMT""}]","2008-06-25"
+"astro-ph/9306005","Kmannhe","Karl Mannheim","Gamma Rays and Neutrinos from a Powerful Cosmic Accelerator","21 pages latex using REVTEX macro packages (see 'list macros'), one
+  figure included as a postscript file, MPIfR preprint, accepted for
+  publication by Phys.Rev.D","Phys.Rev. D48 (1993) 2408-2414","10.1103/PhysRevD.48.2408",,"astro-ph",,"  Recent measurements of gamma rays from the powerful quasar 3C273 by the
+Compton Gamma Ray Observatory show that a powerful cosmic accelerator must be
+operating. In this paper the evidence for proton acceleration is collected with
+the result that (i) the gamma ray spectrum should flatten slightly above a few
+GeV and that (ii) high energy neutrinos from the decay of photomesons are
+difficult to observe, although the power carried by these particles is as large
+as the gamma ray power. However, the power is concentrated at energies in the
+EeV range, whereas in the TeV-PeV range neutrinos from pp and p$\alpha$
+collisions dominate due to their steeper spectrum. Consequently, the flux of
+cosmic neutrinos from flat spectrum radio sources such as 3C273 in the energy
+range relevant for proposed underwater or underice detectors could be much
+lower than inferred from assuming the same spectrum for gamma rays and
+neutrinos.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 12:04:57 GMT""}]","2009-10-22"
+"chao-dyn/9306005","Mark Millonas","Mark M. Millonas (Center for Nonlinear Studies and Theoretical
+  Division, LANL and Santa Fe Institute)","Stochastic chaos: An analog of quantum chaos","Uuencoded compressed postscript file, 4 pages, 3 figs",,"10.1063/1.44612",,"chao-dyn nlin.CD",,"  Some intriging connections between the properties of nonlinear noise driven
+systems and the nonlinear dynamics of a particular set of Hamilton's equation
+are discussed. A large class of Fokker-Planck Equations, like the Schr\""odinger
+equation, can exhibit a transition in their spectral statistics as a coupling
+parameter is varied. This transition is connected to the transition to
+non-integrability in the Hamilton's equations.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 19:08:24 GMT""}]","2009-10-22"
+"cond-mat/9306031",,"Lisa M. Lust and Oriol T. Valls (School of Physics and Astronomy,
+  Univ. of Minnesota) and Chandan Dasgupta (Dept. of Physics, Indian Institute
+  of Science)","Nonlinear Hydrodynamics of a Hard Sphere Fluid Near the Glass Transition","34 Pages, Plain TeX, 12 PostScript Figures (not included, available
+  on request)",,"10.1103/PhysRevE.48.1787",,"cond-mat",,"  We conduct a numerical study of the dynamic behavior of a dense hard sphere
+fluid by deriving and integrating a set of Langevin equations. The statics of
+the system is described by a free energy functional of the
+Ramakrishnan-Yussouff form. We find that the system exhibits glassy behavior as
+evidenced through stretched exponential decay and two-stage relaxation of the
+density correlation function. The characteristic times grow with increasing
+density according to the Vogel-Fulcher law. The wavenumber dependence of the
+kinetics is extensively explored. The connection of our results with
+experiment, mode coupling theory, and molecular dynamics results is discussed.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 23:58:46 GMT""}]","2009-10-22"
+"gr-qc/9306014",,"C.O.Lousto","The Fourth Law of Black Hole Thermodynamics","19 pages (two figures), Plain Tex. Preprint KONS-RGKU-93-11. To
+  appear in Nucl. Phys. B (1993)","Nucl.Phys. B410 (1993) 155-172; Erratum-ibid. B449 (1995) 433","10.1016/0550-3213(93)90577-C",,"gr-qc astro-ph hep-th",,"  We show that black holes fulfill the scaling laws arising in critical
+transitions. In particular, we find that in the transition from negative to
+positive values the heat capacities $C_{JQ}$, $C_{\Omega Q}$ and $C_{J\Phi}$
+give rise to critical exponents satisfying the scaling laws. The three
+transitions have the same critical exponents as predicted by the universality
+Hypothesis. We also briefly discuss the implications of this result with
+regards to the connections among gravitation, quantum mechanics and statistical
+physics.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 17:16:31 GMT""}]","2009-10-22"
+"gr-qc/9306015",,"M.Gasperini, M.Giovannini and G.Veneziano","Squeezed Thermal Vacuum and the Maximum Scale for Inflation","13 pages, plain tex, three figures available upon request, to appear
+  in Phys.Rev.D, CERN-TH.6836/93","Phys.Rev.D48:439-443,1993","10.1103/PhysRevD.48.R439",,"gr-qc astro-ph hep-th",,"  We consider the stimulated emission of gravitons from an initial state of
+thermal equilibrium, under the action of the cosmic gravitational background
+field. We find that the low-energy graviton spectrum is enhanced if compared
+with spontaneous creation from the vacuum; as a consequence, the scale of
+inflation must be lowered, in order not to exceed the observed CMB quadrupole
+anisotropy. This effect is particularly important for models based on a
+symmetry-breaking transition which require, as initial condition, a state of
+thermal equilibrium at temperatures of the order of the inflation scale.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 16:52:43 GMT""}]","2010-01-06"
+"gr-qc/9306016","Claus Kiefer","C. Kiefer","Topology, Decoherence, and Semiclassical Gravity","18 pages, ZU-TH 3/93, to appear in Phys. Rev. D","Phys.Rev.D47:5414-5421,1993","10.1103/PhysRevD.47.5414",,"gr-qc",,"  We address the issue of recovering the time-dependent Schr\""{o}dinger
+equation from quantum gravity in a natural way. To reach this aim it is
+necessary to understand the nonoccurrence of certain superpositions in quantum
+gravity.
+  We explore various possible explanations and their relation. These are the
+delocalisation of interference terms through interaction with irrelevant
+degrees of freedom (decoherence), gravitational anomalies, and the possibility
+of $\theta$ states. The discussion is carried out in both the geometrodynamical
+and connection representation of canonical quantum gravity.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 09:08:18 GMT""}]","2010-11-01"
+"hep-ph/9306257",,"Alakabha Datta, Sandip Pakvasa and Utpal Sarkar","Higher Dimensional Operators and Low Energy Left-Right Symmetry","LaTeX 6 pages,UH-511-765-93","Phys.Lett.B313:83-88,1993","10.1016/0370-2693(93)91194-R",,"hep-ph",,"  We consider higher dimensional operators due to quantum gravity or
+spontaneous compactification of extra dimensions in Kaluza-Klein type theory
+and their effect in the $SO(10)$ Lagrangian. These operators change the
+boundary conditions at the unification scale. As a result one can allow
+left-right symmetry to survive till very low energy (as low as $\sim$ TeV) for
+a wide range of values for the coupling of these higher dimensional operators
+and still make the theory compatible with the latest values of $\sin^2
+\theta_W$ and $\alpha_s$ derived from LEP. We consider both non-supersymmetric
+and supersymmetric cases with standard higgses. Proton lifetime is very large
+in these theories.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 03:25:50 GMT""}]","2019-08-17"
+"hep-ph/9306259","Rainer Jakob","R. Jakob and P. Kroll","The pion form factor: Sudakov suppressions and intrinsic transverse
+  momentum","LaTeX, 12 pages, 3 figures included with epsf-style option
+  (postscript files added as uuencoded tar-compressed file), CERN-TH.6900, WU-B
+  93-19","Phys.Lett. B315 (1993) 463-470; Erratum-ibid. B319 (1993) 545","10.1016/0370-2693(93)91770-N",,"hep-ph",,"  It is demonstrated that any attempt to calculate the perturbative QCD
+contribution to the pion form factor requires the inclusion of intrinsic
+transverse momentum besides Sudakov form factors. For momentum transfers of the
+order of a few GeV the intrinsic transverse momentum leads to a substantial
+suppression of the perturbative QCD contribution.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 07:11:31 GMT""}]","2009-10-22"
+"hep-ph/9306260","Krzywicki","Andre Krzywicki","Coherence and Decoherence in Radiation off Colliding Heavy Ions","15 latex pages, LPTHE Orsay 93/19, e-mail: krz@qcd.ups.circe.fr","Phys.Rev. D48 (1993) 5190-5195","10.1103/PhysRevD.48.5190",,"hep-ph",,"  We discuss the kinetics of a disoriented chiral condensate, treated as an
+open quantum system. We suggest that the problem is analogous to that of a
+damped harmonic oscillator. Master equations are used to establish a hierarchy
+of relevant time scales. Some phenomenological consequences are briefly
+outlined.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 15:17:58 GMT""}]","2009-10-22"
+"hep-ph/9306261","Matthias Jamin","Matthias Jamin","The Anatomy of eps'/eps Beyond Leading Logarithms with Improved Hadronic
+  Matrix Elements","Invited talk given at the XXVIII Rencontres de Moriond, Les Arcs,
+  1993, 5 pages, uuencoded tar-file including 1 figure",,,,"hep-ph",,"  Results of a recent calculation of the effective $\dS$ Hamiltonian at the
+next-to-leading order will be presented\footnote{Work done in collaboration
+with A. J. Buras and M. E. Lautenbacher.}. These, together with an improved
+treatment of hadronic matrix elements, are used to evaluate the measure for
+direct CP-violation, $\epe$, at the next-to-leading order. Taking
+$\mt=130\,GeV$, $\Lms=300\,MeV$ and calculating $\langle Q_6 \rangle$ and
+$\langle Q_8 \rangle$ in the $1/N$ approach, we find in the NDR scheme $\epe =
+(6.7 \pm 2.6)\times 10^{-4}$ in agreement with the experimental findings of
+E731. We point out however that the increase of $\langle Q_6 \rangle$ by only a
+factor of two gives $\epe = (20.0 \pm 6.5)\times 10^{-4}$ in agreement with the
+result of NA31. The dependencies of $\epe$ on $\Lms$, $\mt$, and some
+$B$-parameters, parameterizing hadronic matrix elements, are briefly discussed.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 14:18:47 GMT""}]","2007-05-23"
+"hep-th/9306051",,"D.C.Cabra, E.F.Moreno and C.M.Na\'on","Thirring Model with Non-conserved Chiral Charge","pages 17","Nucl.Phys. B424 (1994) 567-581","10.1016/0550-3213(94)90408-1",,"hep-th",,"  We study the Abelian Thirring Model when the fermionic fields have
+non-conserved chiral charge: $\Delta {\cal Q}_5 =N$. One of the main features
+we find for this model is the dependence of the Virasoro central charge on both
+the Thirring coupling constant and $N$. We show how to evaluate correlation
+functions and in particular we compute the conformal dimensions for fermions
+and fermionic bilinears, which depend on the fermionic chiral charge. Finally
+we build primary fields with arbitrary conformal weight.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 16:17:41 GMT""}]","2009-10-22"
+"hep-th/9306052",,"M. J. Duff and J. X. Lu","Black and super p-branes in diverse dimensions","42 pages, harvmac, CERN-TH.6675/93, CTP/TAMU-54/92","Nucl.Phys. B416 (1994) 301-334","10.1016/0550-3213(94)90586-X",,"hep-th",,"  We present a generic Lagrangian, in arbitrary spacetime dimension $D$,
+describing the interaction of a dilaton, a graviton and an antisymmetric tensor
+of arbitrary rank $d$. For each $D$~and~$d$, we find ``solitonic'' black
+$\tilde{p}$-brane solutions where $\tilde{p} = \tilde{d} - 1$~and~ $\tilde d =
+D - d - 2$. These solutions display a spacetime singularity surrounded by an
+event horizon, and are characterized by a mass per unit $\tilde p$-volume,
+${\cal M}_{\tilde{d}}$, and topological ``magnetic'' charge $g_{\tilde{d}}$,
+obeying $\kappa {\cal M}_{\tilde{d}} \geq g_{\tilde{d}}/ \sqrt{2}$. In the
+extreme limit $\kappa {\cal M}_{\tilde{d}}=g_{\tilde{d}}/ \sqrt{2}$, the
+singularity and event horizon coalesce. For specific values of $D$~and~$d$,
+these extreme solutions also exhibit supersymmetry and may be identified with
+previously classified heterotic, Type IIA and Type IIB super $\tilde p$-branes.
+The theory also admits elementary $p$-brane solutions with ``electric'' Noether
+charge $e_d$, obeying the Dirac quantization rule $e_d g_{\tilde{d}} = 2\pi n$,
+$n =$~integer. We also present the Lagrangian describing the theory dual to the
+original theory, whose antisymmetric tensor has rank $\tilde{d}$ and for which
+the roles of topological and elementary solutions are interchanged. The super
+$p$-branes and their duals are mutually non-singular. As special cases of our
+general solution we recover the black $p$-branes of Horowitz and Strominger $(D
+= 10)$, Guven $(D = 11)$ and Gibbons et al $(D = 4)$, the $N = 1$, $N =
+2a$~and~$N = 2b$ super-$p$-branes of Dabholkar et al $(4 \leq D \leq 10)$, Duff
+and Stelle $(D = 11)$, Duff and Lu $(D = 10)$ and Callan, Harvey and Strominger
+$(D = 10)$, and the axionic instanton of Rey $(D = 4)$. In particular, the
+electric/magnetic duality of Gibbons and Perry in $D = 4$ is seen to be a
+consequence of particle/sixbrane duality in $D = 10$. Among the new solutions
+is a self-dual superstring in $D = 6$.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 21:00:57 GMT""}]","2009-10-22"
+"hep-th/9306053","Anatoli Kirillov","Sergey Fomin, Anatol N. Kirillov","Combinatorial $B_n$-analogues of Schubert polynomials","14 pages, figures available upon request",,,"PAR-LPTHE 93/33","hep-th math.CO",,"  Combinatorial $B_n$-analogues of Schubert polynomials and corresponding
+symmetric functions are constructed from an exponential solution of the
+$B_n$-Yang-Baxter equation that involves the nilCoxeter algebra of the
+hyperoctahedral group.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 14:31:34 GMT""}]","2008-02-03"
+"hep-th/9306054","Friedemann Brandt","Friedemann Brandt","Anomaly candidates and invariants of D=4, N=1 supergravity theories","19 pages, LaTex, NIKHEF-H 93-12, ITP-UH 07/93","Class.Quant.Grav.11:849-864,1994","10.1088/0264-9381/11/4/006",,"hep-th",,"  All anomaly candidates and the form of the most general invariant local
+action are given for old and new minimal supergravity, including the cases
+where additional Yang--Mills and chiral matter multiplets are present.
+Furthermore nonminimal supergravity is discussed. In this case local
+supersymmetry itself may be anomalous and some of the corresponding anomaly
+candidates are given explicitly. The results are obtained by solving the
+descent equations which contain the consistency equation satisfied by
+integrands of anomalies and invariant actions.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 10:09:06 GMT""}]","2010-04-06"
+"nucl-th/9306011","Jorge Piekarewicz","J. Piekarewicz","Levinson's Theorem for Dirac Particles","Latex with Revtex, 7 postscript figures (available from the author),
+  SCRI-061093","Phys.Rev.C48:2174-2181,1993","10.1103/PhysRevC.48.2174",,"nucl-th hep-th",,"  Levinson's theorem for Dirac particles constraints the sum of the phase
+shifts at threshold by the total number of bound states of the Dirac equation.
+Recently, a stronger version of Levinson's theorem has been proven in which the
+value of the positive- and negative-energy phase shifts are separately
+constrained by the number of bound states of an appropriate set of
+Schr\""odinger-like equations. In this work we elaborate on these ideas and show
+that the stronger form of Levinson's theorem relates the individual phase
+shifts directly to the number of bound states of the Dirac equation having an
+even or odd number of nodes. We use a mean-field approximation to Walecka's
+scalar-vector model to illustrate this stronger form of Levinson's theorem. We
+show that the assignment of bound states to a particular phase shift should be
+done, not on the basis of the sign of the bound-state energy, but rather, in
+terms of the nodal structure (even/odd number of nodes) of the bound state.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 21:29:30 GMT""}]","2008-11-26"
+"nucl-th/9306012","Labarsouque","J.C. Caillon and J. Labarsouque","Dirac sea effects in $K^+$ scattering from nuclei","8 pages, LaTeX, 2 figures available upon request, LPTB-93-7","Phys.Lett.B311:19-21,1993","10.1016/0370-2693(93)90526-N",,"nucl-th",,"  The ratio $R_T$ of $K^+-^{12}C$ to $K^+-d$ cross sections has been calculated
+microscopically using a boson-exchange $KN$ amplitude in which the $\sigma$ and
+$\omega$ mesons are dressed by the modifications of the Dirac sea in nuclear
+matter. In spite of the fact that this dressing leads to a scaling of the
+mesons effective mass in nuclear matter, the effect on the $R_T$ ratio is found
+to be weak.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 14:00:53 GMT""}]","2011-08-17"

@@ -1,0 +1,161 @@
+"gr-qc/9302035","Kay Pirk","Dieter Brill and Kay-Thomas Pirk","A Pictorial History of Some Gravitational Instantons","20 pages, 14 beautiful figures (not included!), removing an extremely
+  annoying zero from the title Latex, to appear in C. Misner Festschrift",,,"MPA 714","gr-qc hep-th",,"  Four-dimensional Euclidean spaces that solve Einstein's equations are
+interpreted as WKB approximations to wavefunctionals of quantum geometry. These
+spaces are represented graphically by suppressing inessential dimensions and
+drawing the resulting figures in perspective representation of
+three-dimensional space, some of them stereoscopically. The figures are also
+related to the physical interpretation of the corresponding quantum processes.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 16:18:34 GMT""},{""version"":""v2"",""created"":""Wed, 3 Mar 1993 21:44:28 GMT""}]","2008-02-03"
+"gr-qc/9302036","Leonid Grishchuk","L.P. Grishchuk ( Physics Department, Washington University, St. Louis,
+  U.S.A.)","Quantum Effects In Cosmology","(43 pages, to be published in ""The Origin of Structure in the
+  Universe"", ed. P.Nardone)","Class.Quant.Grav.10:2449-2478,1993","10.1088/0264-9381/10/12/006",,"gr-qc",,"  Contents:
+  Introduction. The Present State of the Universe.
+  What Can We Expect From a Complete Cosmological Theory?
+  An Overview of Quantum Effects in Cosmology.
+  Parametric (Superadiabatic) Amplification of Classical Waves.
+  Graviton Creation in the Inflationary Universe.
+  Quantum States of a Harmonic Oscillator.
+  Squeezed Quantum States of Relic Gravitons and Primordial Density
+Perturbations.
+  Quantum Cosmology, Minisuperspace Models and Inflation.
+  From the Space of Classical Solutions to the Space of Wave Functions.
+  On the Probability of Quantum Tunneling From ""Nothing"".
+  Duration of Inflation
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 20:14:15 GMT""}]","2010-04-06"
+"gr-qc/9302037",,"M.Ferraris, M.Francaviglia and I.Volovich","A Model of Topological Affine Gravity in Two Dimensions","11 pages, TO-JLL-P2/92","Int.J.Mod.Phys. A12 (1997) 5067-5080","10.1142/S0217751X9700270X",,"gr-qc hep-th",,"  A model of two--dimensional gravity with an action depending only on a linear
+connection is considered. This model is a topological one, in the sense that
+the classical action does not contain a metric or zweibein at all. A metric and
+an additional vector field are instead introduced in the process of solving
+equations of motion for the connection. They satisfy the constant curvature
+equation. It is shown that the general solution of these equations of motion
+can be described by using the space of orbits under the action of the Weyl
+group in the functional space containing all pairs formed by a metric and a
+vectorfield. It is shown also that this model admits an equivalent description
+by using a family of actions depending on the metric and the connection as
+independent variables.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 21:43:00 GMT""}]","2019-08-17"
+"hep-lat/9302009","Dick Haymaker","Yingcai Peng and Richard W. Haymaker","SU(2) Flux Distributions on Finite Lattices","21 pages text, 12 pages of postscript figures","Phys.Rev. D47 (1993) 5104-5112","10.1103/PhysRevD.47.5104","LSUHE No. 141-1993","hep-lat",,"  We studied SU(2) flux distributions on four dimensional euclidean lattices
+with one dimension very large. By choosing the time direction appropriately we
+can study physics in two cases: one is finite volume in the zero temperature
+limit, another is finite temperature in the the intermediate to large volume
+limit. We found that for cases of beta > beta crit there is no intrinsic string
+formation. Our lattices with beta > beta crit belong to intermediate volume
+region, and the string tension in this region is due to finite volume effects.
+In large volumes we found evidence for intrinsic string formation.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 21:57:50 GMT""}]","2009-10-22"
+"hep-lat/9302010","Dick Haymaker","Vandana Singh, Dana Browne, Richard W. Haymaker","Measurement of the penetration depth and coherence length in U(1) and
+  SU(2) dual Abrikosov vortices","4 pages (figures not supplied, please request preprint), LSUHE NO.
+  137-1992","Nucl. Phys. Proc. Suppl. 30 (1993) 568","10.1016/0920-5632(93)90275-B",,"hep-lat",,"  We calculate the electric field and the curl of the magnetic monopole current
+for U(1) and for SU(2) in the maximal abelian gauge in the mid- plane between a
+quark antiquark pair. The results can be understood as a dual Abrikosov vortex
+in the Ginzburg-Landau theory.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 22:11:35 GMT""}]","2009-10-22"
+"hep-lat/9302011","Dick Haymaker","Richard W. Haymaker, Vandana Singh, Dana Browne and Jacek Wosiek","Vacuum structure of pure gauge theories on the lattice","14 pages (no figures, please request preprint), LSU HE NO. 130-1992",,,,"hep-lat",,"  We present results from simulations on two aspects of quark confinement in
+the pure gauge sector. First is the calculation of the profile of the flux tube
+connecting a static $q \bar{q}$ pair in $SU(2)$. By using the Michael sum rules
+as a constraint we give evidence that the energy density at the center of the
+flux tube goes to a constant as a function of quark separation. Slow variation
+of the width and energy density is not ruled out. Secondly in the confined
+phase of lattice $U(1)$ we calculate the curl of the magnetic monopole current
+and show that the dual London equation is satisfied and that the electric
+fluxoid is quantized.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 22:21:18 GMT""}]","2007-05-23"
+"hep-ph/9302315",,"E. Christova and M. Fabbrichesi","T Violation Induced by Supersymmetry in t\bar{t} and W^+W^- Physics","16 pages (8 figures, not included)","Phys.Lett.B315:338-348,1993","10.1016/0370-2693(93)91622-T","CERN-TH.6751/92","hep-ph",,"  T-odd correlations of polarizations and momenta provide a promising testing
+ground for new physics beyond the standard model. We estimate the contribution
+of the minimal supersymmetric extension of the standard model to two such
+observables: in the production of $t\bar{t}$, we look for a term proportional
+to \mbox{${\bf J}_t \cdot ({\bf p}_q \times {\bf p}_{t})$}-where {\bf J}$_t$ is
+the polarization of the $t$ quark and {\bf p} $_{q,t}$ are the momenta of the
+initial and final particles-and find that it is of the order of $10^{-1} \times
+(\alpha_s/\pi)$. In the production of $W^+W^-$, we look for a term proportional
+to \mbox{${\bf E}_W \cdot ({\bf p}_q \times {\bf p}_{W})({\bf p}_q \cdot {\bf
+E}_W)$}-where {\bf E}$_W$ is the transverse polarization of W- to find that it
+can be as large as $10^{-1} \times (\alpha_w/\pi)$.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 16:36:10 GMT""},{""version"":""v2"",""created"":""Thu, 3 Jun 1993 14:13:11 GMT""}]","2010-11-01"
+"hep-ph/9302316",,"J. T. Peltoniemi and J. W. F. Valle","Reconciling Dark Matter, Solar and Atmospheric Neutrinos","15 pages, 2 figures available from the authors, FTUV/93-04,
+  IFIC/93-04","Nucl.Phys.B406:409-422,1993","10.1016/0550-3213(93)90174-N",,"hep-ph",,"  We present models that can reconcile the solar and atmospheric neutrino data
+with the existence of a hot dark matter component in the universe. This dark
+matter is a quasi-Dirac neutrino whose mass $m_{DM}$ arises at the one-loop
+level. The solar neutrino deficit is explained via nonadiabatic conversions of
+electron neutrino to a sterile neutrino and the atmospheric neutrino data via
+maximal muon neutrino to tau neutrino oscillations generated by higher order
+loop diagrams. For $m_{DM} \sim 30$ eV the radiative neutrino decay can lead to
+photons that can ionize interstellar hydrogen. In one of the models one can
+have observable $\nu_e$ to $\nu_\tau$ oscillation rates, with no appreciable
+muon neutrino oscillations at accelerator experiments. In addition, there can
+be observable rates for tau number violating processes such as $\tau \to 3e$
+and $\tau \to e + \gamma$. In the other model one can have sizeable $\nu_e$ to
+$\nu_\mu$ oscillation rates, as well as sizeable rates for muon number
+violating processes such as $\mu \to e + \gamma$, $\mu \to e + majoron$ and
+$\mu \to 3e$.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 17:51:00 GMT""}]","2016-09-01"
+"hep-ph/9302317",,"R. Arnowitt and Pran Nath","Cosmological Constraints and SU(5) Supergravity Grand Unification","11pages","Phys.Lett.B299:58-63,1993; ERRATUM-ibid.B307:403,1993","10.1016/0370-2693(93)90883-J","CTP-TAMU-65/92, NUB-TH-3055/92","hep-ph",,"  The predictions of SU(5) supergravity models with radiative breaking
+constrained by experimental proton decay bounds are discussed. It is shown that
+cosmological constraints further restrict the parameter space but can be
+satisfied for a wide range of parameters. It is also shown that no serious fine
+tuning problems (either at $M_{SUSY}$ or $M_{GUT}$) exist.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 21:38:48 GMT""}]","2008-11-26"
+"hep-ph/9302318",,"P. Nath and R. Arnowitt","Predictions in SU(5) Supergravity Grand Unification with Proton
+  Stability and Relic Density Constraints","(An error in the reheating factor is corrected, strengthening the
+  conclusions, i.e. the region in parameter space where the relic density
+  constraints are satisfied is enlarged.)","Phys.Rev.Lett.70:3696-3699,1993","10.1103/PhysRevLett.70.3696",,"hep-ph",,"  It is shown that in the physically interesting domain of the parameter space
+of SU(5) supergravity GUT, the Higgs and the Z poles dominate the LSP
+annihilation. Here the naive analyses on thermal averaging breaks down and
+formulae are derived which give a rigorous treatment over the poles. These
+results are then used to show that there exist significant domains in the
+parameter space where the constraints of proton stability and cosmology are
+simultaneously satisfied. New upper limits on light particle masses are
+obtained.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 21:43:08 GMT""},{""version"":""v2"",""created"":""Wed, 14 Apr 1993 22:32:37 GMT""}]","2008-11-26"
+"hep-ph/9302319","Drew Peterson","Stephen Godfrey and K. Andrew Peterson (Ottawa-Carleton Institute for
+  Physics)","Single $W$ Boson Production in High Energy $e\gamma$ Collisions","40 pages, 16 uuencoded figures, RevTex, OCIP/C 92-7",,,,"hep-ph",,"  We studied single $W$ boson production in high energy $e\gamma$ collisions
+and the sensitivity of various observables to the $WW\gamma$ gauge boson
+coupling. We evaluated the helicity amplitudes including the $W$ decay to final
+state fermions and all Feynman diagrams which give the same final state. At
+high energy, the non-resonant diagrams give significant contributions to the
+cross sections and should not be neglected. We first considered a
+$\sqrt{s}=120$~GeV $e^+e^-$ collider converted to an $e\gamma$ collider by
+backscattering a low energy laser off of one of the original electron beams.
+Such a collider could measure $\kappa_\gamma$ to $\simeq\pm 0.09$ at 95\% C.L.
+which is the same level of precision as could be achieved at LEP200 using $W$
+pair production. We next considered single $W$ production at a 200 GeV $e^+e^-$
+collider in the Weizacker-Williams approximation which can measure the
+$WW\gamma$ vertex independently of the $WWZ$ vertex. This process can measure
+$\kappa_\gamma$ to $\pm 0.15$ at 95\% C.L. which is comparable to the $W$ pair
+production process. Finally, we examined $W$ production at 500 GeV and 1 TeV
+$e^+e^-$ colliders, comparing results for photon spectra obtained from a
+backscattered laser and from beamstrahlung radiation. Here we found that the
+couplings could best be measured using the backscattered laser photons with
+$|\delta\kappa_\gamma|\leq 0.07$ and
+","[{""version"":""v1"",""created"":""Sat, 27 Feb 1993 00:07:54 GMT""}]","2007-05-23"
+"hep-th/9302137",,"Theodore J. Allen and Dennis B. Crossley","Harmonic BRST Quantization of Systems with Irreducible Holomorphic Boson
+  and Fermion Constraints","11 pages, phyzzx","Phys. Rev. D 47, 5494 (1993)","10.1103/PhysRevD.47.5494","UW-Madison Preprint MAD/TH-92-04","hep-th",,"  We show that the harmonic Becchi-Rouet-Stora-Tyutin method of quantizing
+bosonic systems with second-class constraints or first-class holomorphic
+constraints extends to systems having both bosonic and fermionic second-class
+or first-class holomorphic constraints. Using a limit argument, we show that
+the harmonic BRST modified path integral reproduces the correct Senjanovic
+measure.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 18:03:00 GMT""}]","2013-11-13"
+"hep-th/9302138","Denis Uglov","D. B. Uglov","The Lie algebra of sl(2)-valued automorphic functions on a torus","13 pages","Lett.Math.Phys. 31 (1994) 65-76","10.1007/BF00751172",,"hep-th math.QA",,"  It is shown that the Lie algebra of the automorphic, meromorphic sl(2, C)
+-valued functions on a torus is a geometric realization of a certain
+infinite-dimensional finitely generated Lie algebra. In the trigonometric
+limit, when the modular parameter of the torus goes to zero, the former Lie
+algebra goes over into the sl(2,C) -valued loop algebra, while the latter one -
+into the Lie algebra (sl(2)^)'/(centre) .
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 19:07:58 GMT""}]","2009-10-22"
+"hep-th/9302139","Denis Uglov","D. B. Uglov","The quantum bialgebra associated with the eight-vertex R-matrix","4 pages","Lett.Math.Phys. 28 (1993) 139-142","10.1007/BF00750306",,"hep-th math.QA",,"  The quantum bialgebra related to the Baxter's eight-vertex R-matrix is found
+as a quantum deformation of the Lie algebra of sl(2)-valued automorphic
+functions on a complex torus.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 19:12:19 GMT""}]","2009-10-22"
+"hep-th/9302140","Roland Koberle","R. Koberle and A. Lima - Santos","Exact solution of the deformed biquadratic spin 1 hamiltonian","9",,"10.1088/0305-4470/27/16/009",,"hep-th",,"  Remarks about highest weight states of the underlying quantum group are
+corrected.
+","[{""version"":""v1"",""created"":""Sat, 27 Feb 1993 15:51:00 GMT""},{""version"":""v2"",""created"":""Fri, 18 Jun 1993 18:45:00 GMT""}]","2009-10-22"
+"nucl-th/9302016",,"Wolfgang Bauer","Particle-particle correlations and the space-time structure of heavy ion
+  collisions","20 pages, Preprint MSUCL-864 (to be published in Progress in Particle
+  and Nuclear Physics, Vol. 30)",,"10.1016/0146-6410(93)90005-Z",,"nucl-th",,"  The present status of the use of two-particle intensity interferometry as a
+diagnostic tool to study the space-time dynamics of intermediate energy heavy
+ion collisions is examined. Calculations for the two-proton and two-pion
+correlation functions are presented and compared to experiment. The
+calculations are based on the nuclear Boltzmann-Uehling-Uhlenbeck transport
+theory.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 23:12:26 GMT""}]","2009-10-22"

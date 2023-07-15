@@ -1,0 +1,354 @@
+"astro-ph/9309038","Avishai Dekel","T. Kolatt and A. Dekel","Do Spirals and Ellipticals Trace the Same Velocity Field?","16 pages, compressed and uuencoded PostScript 0.6Mbyte, (Also
+  anonymous ftp venus.huji.ac.il pub/dekel/es/es.ps.Z of 0.43Mbyte)","Astrophys.J. 428 (1994) 35-42","10.1086/174217",,"astro-ph",,"  We test the hypothesis that the velocity field derived from Tully-Fisher
+measurements of spiral galaxies, and that derived independently from Dn-sigma
+measurements of ellipticals and S0s, are noisy versions of the same underlying
+velocity field. The radial velocity fields are derived using tensor Gaussian
+smoothing of radius 1200 km/s. They are compared at grid points near which the
+sampling by both types of galaxies is proper. This requirement defines a volume
+of ~(50 Mpc/h)^3, containing ~10 independent subvolumes, mostly limited by the
+available ellipticals. The two fields are compared using a correlation
+statistic, whose distribution is determined via Monte-Carlo simulations. We
+find that the data is consistent with the hypothesis, at the 10% level. We
+demonstrate that the failure to reject the correlation is not just a result of
+the errors being big, by using the same method to rule out complete
+independence between the fields at the 99.8% level. The zero points of the two
+distance indicators are matched by maximizing the correlation between the two
+velocity fields. There is a marginal hint that the ellipticals tend to stream
+slower than the spirals by ~8%. The correlation reinforced here is consistent
+with the common working hypotheses that (a) the derived large-scale velocity
+field is real, (b) it has a gravitational origin, and (c) the large-scale
+velocities of spirals and ellipticals are hardly biased relative to each other.
+On the other hand, it does not rule out any alternative to gravity where
+objects of all types obtain similar large-scale velocities.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 17:02:58 GMT""}]","2009-10-22"
+"astro-ph/9309039",,"F. Lucchin, S. Matarrese, L. Moscardini and G. Tormen","Galaxy Velocity Field in Tilted Cold Dark Matter Models","8 pages in Latex with conf_iap.sty (enclosed in this file) plus 3
+  figures (postscript files are here enclosed), Proc. of IX IAP Meeting on
+  Cosmic Velocity Fields, DAPD-288",,,,"astro-ph",,"  We study the cosmic peculiar velocity field as traced by a sample of 1184
+spiral, elliptical and S0 galaxies, grouped in 704 objects. We carry out a
+statistical analysis, by calculating bulk flows and velocity correlation
+functions for this sample and for mock catalogs which we extract from N--body
+simulations. For the simulations we consider tilted (i.e. with spectral index
+$n\leq 1$) CDM models with different values of the linear bias parameter $b$.
+By mean of a maximum likelihood analysis we estimate the ability of the models
+in fitting the observations as measured by the above statistics and in
+reproducing the Local Group properties.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 17:52:04 GMT""}]","2007-05-23"
+"astro-ph/9309040","Bhuvnesh Jain","Bhuvnesh Jain and Edmund Bertschinger","Nonlinear Effects due to the Coupling of Long-Wave Modes","2 pages, Latex file, Proceedings of IAP Colloq 9, ""Cosmological
+  Velocity Fields"" ed. F Bouchet & M. Lachieze-Rey, CSR-AT-93-22",,,,"astro-ph",,"  The cosmological fluid equations are used to study the nonlinear mode
+coupling of density fluctuations. We find that for realistic cosmological
+spectra there is a significant contribution to the nonlinear evolution on
+scales of interest to large-scale structure from the long-wave part of the
+initial spectrum. A consequence of this mode coupling is that at high redshift,
+$z$, the nonlinear scale [defined by $\sigma(z)=1$] can be significantly larger
+than a linear extrapolation would indicate. For the standard CDM spectrum with
+a $\sigma_8=1$ normalization the mass corresponding to the nonlinear scale at
+$z=20, 10, 5$ is about $100, 10, 3$ times (respectively) larger than the
+linearly extrapolated value. We also investigate the possibility of divergent
+contributions to the density field from long-wave modes if the spectral index
+of the power spectrum $\ n<-1$. Using an approximate non-perturbative approach
+we find that for $n>-3\,$ the divergent contribution appears only in the phase.
+This can be related to the large-scale bulk velocity, and clarifies previous
+results from N-body simulations.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 18:38:18 GMT""}]","2007-05-23"
+"astro-ph/9309041","Paul Steinhardt","J. R. Bond, Robert Crittenden, Richard L. Davis, George Efstathiou and
+  Paul J. Steinhardt","Measuring Cosmological Parameters with Cosmic Microwave Background
+  Experiments","10 pages, Penn Preprint","Phys.Rev.Lett.72:13-16,1994","10.1103/PhysRevLett.72.13",,"astro-ph",,"  The cosmic microwave background anisotropy is sensitive to the slope and
+amplitude of primordial energy density and gravitational wave fluctuations, the
+baryon density, the Hubble constant, the cosmological constant, the ionization
+history, {\it etc.} In this Letter, we examine the degree to which these
+factors can be separately resolved from combined small- and large-angular scale
+anisotropy observations. We isolate directions of degeneracy in this cosmic
+parameter space, but note that other cosmic observations can break the
+degeneracy. (Correction to Eq. 4)
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 04:44:49 GMT""},{""version"":""v2"",""created"":""Wed, 6 Oct 1993 14:27:48 GMT""}]","2008-11-26"
+"cond-mat/9309043","Ned Wingreen","Ned S. Wingreen and Yigal Meir","The Anderson Model out of Equilibrium: Non-Crossing-Approximation
+  Approach to Transport through a Quantum Dot","33 pages (and 10 figures, available by request to
+  wingreen@research.nj.nec.com), Latex",,"10.1103/PhysRevB.49.11040",,"cond-mat",,"  The infinite-U Anderson model is applied to transport through a quantum dot.
+The current and density of states are obtained via the non-crossing
+approximation for two spin-degenerate levels weakly coupled to two leads. At
+low temperatures, the Kondo peak in the equilibrium density of states strongly
+enhances the linear-response conductance. Application of a finite voltage bias
+reduces the conductance and splits the peak in the density of states. The split
+peaks, one at each chemical potential, are suppressed in amplitude by a finite
+dissipative lifetime. We estimate this lifetime perturbatively as the time to
+transfer an electron from the higher chemical potential lead to the lower
+chemical potential one. At zero magnetic field, the clearest signatures of the
+Kondo effect in transport through a quantum dot are the broadening, shift, and
+enhancement of the linear-response conductance peaks at low temperatures, and a
+peak in the nonlinear differential conductance around zero bias.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 23:53:03 GMT""}]","2009-10-22"
+"cond-mat/9309044","Junwu gan","Junwu Gan and Eugene Wong (Department of Physics, The University of
+  British Columbia)","Non-Fermi Liquid Behavior In Quantum Critical Systems","9 pages in REVTEX 2.0. Submitted to Phys. Rev. Lett. 3 figures in
+  postscript files can be obtained at anonymous@physics.ubc.ca. The filename is
+  gan.figures.tar.z and it's compressed. You can uncompress it by using
+  commands: ""uncompress gan.figures.tar.z"" and ""tar xvf gan.figures.tar""",,"10.1103/PhysRevLett.71.4226",,"cond-mat",,"  The problem of an electron gas interacting via exchanging transverse gauge
+bosons is studied using the renormalization group method. The long wavelength
+behavior of the gauge field is shown to be in the Gaussian universality class
+with a dynamical exponent $z=3$ in dimensions $D \geq 2$.
+  This implies that the gauge coupling constant is exactly marginal. Scattering
+of the electrons by the gauge mode leads to non-Fermi liquid behavior in $D
+\leq 3$. The asymptotic electron and gauge Green's functions, interaction
+vertex, specific heat and resistivity are presented.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 01:51:00 GMT""}]","2009-10-22"
+"cond-mat/9309045","Junwu gan","Junwu Gan (Department of Physics, The University of British Columbia)","On The Multichannel Kondo Model""","28 pages, REVTEX 2.0. Submitted to J. Phys.: Cond. Mat. Reference
+  .bbl file is appended at the end. 5 figures in postscript files can be
+  obtained at anonymous@physics.ubc.ca. The filename is gan.figures.tar.z and
+  it's compressed. You can uncompress it by using commands: ""uncompress
+  gan.figures.tar.z"" and ""tar xvf gan.figures.tar"". UBC Preprint",,"10.1088/0953-8984/6/24/016",,"cond-mat",,"  A detailed and comprehensive study of the one-impurity multichannel Kondo
+model is presented. In the limit of a large number of conduction electron
+channels $k \gg 1$, the low energy fixed point is accessible to a
+renormalization group improved perturbative expansion in $1/k$. This
+straightforward approach enables us to examine the scaling, thermodynamics and
+dynamical response functions in great detail and make clear the following
+features: i) the criticality of the fixed point; ii) the universal non-integer
+degeneracy; iii) that the compensating spin cloud has the spatial extent of the
+order of one lattice spacing.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 02:32:00 GMT""}]","2009-10-22"
+"cond-mat/9309046","Junwu gan","Junwu Gan (Department of Physics, The University of British Columbia)","Kondo Crossover In The Self-Consistent One-Loop Approximation""","19 pages in REVTEX 2.0, 2 tables, 3 figures. Submitted to Phys. Rev.
+  B. The reference .bbl file is appended at the end. 3 figures in postscript
+  files can be obtained at anonymous@physics.ubc.ca. The filename is
+  gan.figures.tar.z and it's compressed. You can uncompress it by using
+  commands: ""uncompress gan.figures.tar.z"" and ""tar xvf gan.figures.tar"". UBC",,"10.1103/PhysRevB.48.16547",,"cond-mat",,"  The free energy and magnetization for the general $SU(N)$ one impurity Kondo
+model in the magnetic field, $h$, are calculated by extending the previous
+$1/N$ expansion technique: the saddle point is determined self-consistently to
+the $1/N$ order. The obtained universal field dependent magnetization
+$M(h/T_{K})$ by this simple method is shown analytically to be asymptotically
+exact at both $h \ll T_{K}$ and $h \gg T_{K}$ limits. For general
+''$f$-electron'' fillings, except half filling, the $M(h/T_{K})$ curves cross
+continuously from weak to strong coupling limit, but overestimate the curvature
+in the crossover region for moderate $N$.
+  The magnetic Wilson crossover numbers are calculated for amusement. Our
+results explicitly verify that the $1/N$ parameter is non-singular under the
+adiabatic continuation.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 02:34:00 GMT""}]","2009-10-22"
+"cond-mat/9309047","Hans Gerd Evertz, Scri","M. Novotny and H.G. Evertz","Monte Carlo Renormalization Group Study of the d=1 XXZ Model","To appear in ""Quantum Monte Carlo Methods in Condensed Matter
+  Physics"", ed.\ M. Suzuki, World Scientific, 1993. 14 pages, LaTeX, (3 figures
+  available on request), FSU-SCRI-93-116",,"10.1142/9789814503815_0003",,"cond-mat",,"  We report current progress on the synthesis of methods to alleviate two major
+difficulties in implementing a Monte Carlo Renormalization Group (MCRG) for
+quantum systems. In particular, we have utilized the loop-algorithm to reduce
+critical slowing down, and we have implemented an MCRG method in which the
+symmetries of the classical equivalent model need not be fully understood,
+since the Renormalization Group is given by the Monte Carlo simulation. We
+report preliminary results obtained when the resulting MCRG method is applied
+to the d=1 XXZ model. Our results are encouraging. However, since this model
+has a Kosterlitz-Thouless transition, it does not yet provide a full test of
+our MCRG method.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 03:21:33 GMT""}]","2016-11-03"
+"cond-mat/9309048","Qingfeng Zhong","Zhong-Shui Ma, Yi-Xin Chen, Zhao-Bin Su","On the Conductance Sum Rule for the Hierarchical Edge States of the
+  Fractional Quantum Hall Effect","11 pages, no figure, Revtex 3.0, IC/93/329, ASITP-93-52",,"10.1103/PhysRevB.50.2232",,"cond-mat",,"  The conductance sum rule for the hierarchical edge channel currents of a
+Fractional Quantum Hall Effect state is derived analytically within the
+Haldane-Halperin hierarchy scheme. We provide also an intuitive interpretation
+for the hierarchical drift velocities of the edge excitations.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 14:54:14 GMT""}]","2009-10-22"
+"cond-mat/9309049","Dan Hone","Martin Holthaus and Daniel W. Hone","Ac Stark Effects and Harmonic Generation in Periodic Potentials","RevTeX, 10 pages (4 figures available on request), Preprint
+  UCSBTH-93-24",,"10.1103/PhysRevB.49.16605",,"cond-mat",,"  The ac Stark effect can shift initially nonresonant minibands in
+semiconductor superlattices into multiphoton resonances. This effect can result
+in strongly enhanced generation of a particular desired harmonic of the driving
+laser frequency, at isolated values of the amplitude.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 15:45:19 GMT""},{""version"":""v2"",""created"":""Wed, 29 Sep 1993 16:26:50 GMT""}]","2009-10-22"
+"gr-qc/9309027","Alberto Vazquez Saa","Alberto Saa","Einstein-Cartan theory of gravity revisited","19 pages, REVTEX 2.0, IFUSP/P-1072",,,,"gr-qc",,"  The role of space-time torsion in general relativity is reviewed in
+accordance with some recent results on the subject. It is shown that, according
+to the connection compatibility condition, the usual Riemannian volume element
+is not appropriate in the presence of torsion. A new volume element is proposed
+and used in the Lagrangian formulation for Einstein-Cartan theory of gravity.
+  The dynamical equations for the space-time geometry and for matter fields are
+obtained, and some of their new predictions and features are discussed. In
+particular, one has that torsion propagates and that gauge fields can interact
+with torsion without the breaking of gauge invariance. It is shown also that
+the new Einstein-Hilbert action for Einstein-Cartan theory may provide a
+physical interpretation for dilaton gravity in terms of the non-riemannian
+structure of space-time.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 07:54:23 GMT""}]","2007-05-23"
+"hep-lat/9309018","Istvan Montvay","Istvan Montvay","Anomalous fermion number violation and numerical simulations","17 pages, 10 figures, DESY-93-134. To be published in the Proceedings
+  of the 17th Johns Hopkins Workshop, 1993, Budapest",,,,"hep-lat",,"  After discussing the problem of lattice regularization of chiral gauge
+theories, a simple model for anomalous fermion number violation is formulated
+which can be numerically studied with present day technique. Exploratory
+results of numerical simulations of a two-dimensional U(1) Higgs model are
+presented.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 16:39:22 GMT""}]","2007-05-23"
+"hep-lat/9309019","Jose Carlos Ciria","J. C. Ciria, A. Tarancon","Renormalization Group Study of the soliton mass on the (lambda
+  Phi^4)_{1+1} lattice model","19 pages, preprint DFTUZ/93/04","Phys.Rev. D49 (1994) 1020-1028","10.1103/PhysRevD.49.1020",,"hep-lat",,"  We compute, on the $(\lambda \Phi^4)_{1+1}$ model on the lattice, the soliton
+mass by means of two very different numerical methods. First, we make use of a
+``creation operator'' formalism, measuring the decay of a certain correlation
+function. On the other hand we measure the shift of the vacuum energy between
+the symmetric and the antiperiodic systems. The obtained results are fully
+compatible.
+  We compute the continuum limit of the mass from the perturbative
+Renormalization Group equations. Special attention is paid to ensure that we
+are working on the scaling region, where physical quantities remain unchanged
+along any Renormalization Group Trajectory. We compare the continuum value of
+the soliton mass with its perturbative value up to one loop calculation. Both
+quantities show a quite satisfactory agreement. The first is slightly bigger
+than the perturbative one; this may be due to the contributions of higher order
+corrections.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 10:15:06 GMT""}]","2009-10-22"
+"hep-ph/9309327","Valera","Valeri V. Dvoeglazov, Rudolf N. Faustov, Yuri N. Tyukhtyaev","Energy Levels Of Hydrogen-Like Atomsand Fundamental Constants","LaTeX file, 68 pp. (figures are available on request)","Phys.Part.Nucl.25:58-91,1994",,"IFUNAM FT-93-032/033","hep-ph hep-th",,"  The present review includes the description of theoretical methods for the
+investigations of the spectra of hydrogen-like systems. Various versions of the
+quasipotential approach and the method of the effective Dirac equation are
+considered. The new methods, which have been developed in the eighties, are
+described. These are the method for the investigation of the spectra by means
+of the quasipotential equation with the relativistic reduced mass and the
+method for a selection of the logarithmic corrections by means of the
+renormalization group equation. The special attention is given to the
+construction of a perturbation theory and the selection of graphs, whereof the
+contributions of different orders of $\alpha$, the fine structure constant, to
+the energy of the fine and hyperfine splitting in a positronium, a muonium and
+a hydrogen atom could be calculated.
+  In the second part of this article the comparison of the experimental results
+and the theoretical results concerning the wide range of topics is produced.
+They are the fine and hyperfine splitting in the hydrogenic systems, the Lamb
+shift and the anomalous magnetic moments of an electron and a muon. Also, the
+problem of the precision determination of a numerical value of the fine
+structure constant, connected with the above topics, is discussed.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 19:38:55 GMT""},{""version"":""v2"",""created"":""Sun, 27 Mar 1994 01:12:15 GMT""}]","2011-07-19"
+"hep-ph/9309328",,"J. Milana","On the $A$ dependence of $R = \sigma_L/\sigma_T$ and the $Q^2$
+  dependence of Shadowing","10 pages + 2 Figures, DOE/ER/40762--019, UMPP \#94--039","Phys.Rev.C49:2820-2823,1994","10.1103/PhysRevC.49.2820",,"hep-ph",,"  A higher--twist nuclear enhancement of $R = \sigma_L/\sigma_T$, as might be
+expected to arise due to fermi motion and whose magnitude is within the
+error-bars of recent experiment, is shown to lead to a monotonic {\it decrease}
+in the ratio of nuclear vs. nucleon cross--sections at small Bjorken $x$ for
+{\it increasing} $Q^2$. This effect at small $x$, comparable in magnitude to
+those reported for shadowing, is driven mainly by kinematic factors and
+essentially vanishes for $x > .1$. Its unusual $Q^2$ dependence rather
+complicates the unravelling from present data in the shadowing region the
+corresponding dependence in $Q^2$ of the nuclear structure functions,
+$F_2^{A}(x,Q^2)$.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 18:23:44 GMT""}]","2008-11-26"
+"hep-ph/9309329","Andreas Schaale","A.A.Bel'kov, G.Bohm, A.V.Lanyov, A.Schaale","On the $p^4$--corrections to $K \to 3\pi$ decay amplitudes in nonlinear
+  and linear chiral models","14 pages",,,,"hep-ph",,"  The calculations of isotopic amplitudes and their results for the direct
+$CP$--violating charge asymmetry in $K^\pm \to 3\pi$ decays within the
+nonlinear and linear ($\sigma$--model) chiral Lagrangian approach are compared
+with each other. It is shown, that the latter, taking into account intermediate
+scalar resonances, does not reproduce the $p^4$--corrections of the nonlinear
+approach introduced by Gasser and Leutwyler, being saturated mainly by vector
+resonance exchange. The resulting differences concerning the $CP$ violation
+effect are traced in some detail.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 21:20:15 GMT""}]","2007-05-23"
+"hep-ph/9309330","Yoshio Koide","Yoshio Koide","Phenomenological Quark Mass Matrix Model with Two Adjustable Parameters","12 pages (Latex)","Phys.Rev.D49:2638-2641,1994","10.1103/PhysRevD.49.2638",,"hep-ph",,"  A phenomenological quark mass matrix model which includes only two adjustable
+parameters is proposed from the point of view of the unification of quark and
+lepton mass matrices. The model can provide reasonable values of quark mass
+ratios and Kobayashi-Maskawa matrix parameters.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 05:37:15 GMT""}]","2010-11-01"
+"hep-ph/9309331",,"A. Ballestrero, E. Maina, S. Moretti and C. Pistarino","Trying to Catch the Elusive $a^0$ and More. Reactions Initiated by
+  $b$--Quarks the Higgs Sector of ${\cal MSSM}$","10 Pages, 2 Figs using feynman.tex, 4 Figs in PS appended at the end","Phys. Lett. B320 (1994) 305","10.1016/0370-2693(94)90661-0",,"hep-ph",,"  We study the cross sections for the production of a neutral, intermediate
+mass Higgs boson in the processes $pp\rightarrow tq'\Phi$, $pp\rightarrow
+tW^-\Phi$ and $pp\rightarrow bZ^0\Phi$ in the Minimal Supersymmetric Standard
+Model ($\Phi=H^0,h^0$ and $A^0$) at Supercollider energies. The additional
+heavy particles ($t$, $W$, $Z$) in the final state can be used for tagging
+purposes, increasing the signal to background ratio. These reactions are
+dominated by $bq$ and $bg$ fusion. Their relevance for Higgs particle searches
+is discussed taking into account the expected efficiencies and purities for
+$b$--tagging. We find that, for tan$\beta = 30$, the cross sections for
+$pp\rightarrow bZ^0\Phi$ are larger than 14 $pb$, over the whole intemediate
+range of $M_{A^0}$, for $A^0$ and at least one of the other two Higgses.
+Therefore this reaction is an excellent candidate for the discovery of one or
+more $\cal MSSM$ Higgs particles.}
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 09:59:40 GMT""}]","2009-10-22"
+"hep-th/9309141","Greg Pelts","Gregory Pelts","Deformations of CFT Beyond the First Order and Closed String Field
+  Theory","7 pages, LaTeX, RU93-5-B","Int.J.Mod.Phys.D3:249-252,1994","10.1142/S0218271894000393",,"hep-th",,"  A self-consistent string field theory with interaction is formulated. The
+symmetry algebra of this theory includes, in the low-energy limit, local
+space-time symmetries, and the Brans-Dicke equation describes a class of
+low-energy solutions. (Talk given at the conference Journees Relativistes'93
+held on April 5-7 1993, To be published in the International Journal of Modern
+Physics D.)
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 18:03:04 GMT""}]","2010-11-01"
+"hep-th/9309144","Peter Freund","P. G. O. Freund, A. V. Zabrodin","The Spectral Problem for the q-Knizhnik-Zamolodchikov Equation and
+  Continuous q-Jacobi Polynomials","30 pages","Commun.Math.Phys. 173 (1995) 17","10.1007/BF02100180",,"hep-th math.QA",,"  The spectral problem for the q-Knizhnik-Zamolodchikov equations for
+$U_{q}(\widehat{sl_2}) (0<q<1)$ at arbitrary level $k$ is considered. The case
+of two-point functions in the fundamental representation is studied in
+detail.The scattering states are given explicitly in terms of continuous
+q-Jacobi polynomials, and the $S$-matrix is derived from their asymptotic
+behavior. The level zero $S$-matrix is shown to coincide, up to a trivial
+factor, with the kink-antikink $S$-matrix for the spin-$\frac{1}{2}$ XXZ
+antiferromagnet. In the limit of infinite level we observe connections with
+harmonic analysis on $p$-adic groups with the prime $p$ given by $p=q^{-2}$.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 20:18:22 GMT""}]","2009-10-22"
+"hep-th/9309145","Michael Douglas","Leonard Susskind","Some Speculations about Black Hole Entropy in String Theory","11 pp., 5 figures (amstex)",,,,"hep-th",,"  The classical Bekenstein entropy of a black hole is argued to arise from
+configurations of strings with ends which are frozen on the horizon. Quantum
+corrections to this entropy are probably finite unlike the case in quantum
+field theory. Finally it is speculated that all black holes are single string
+states. The level density of strings is of the right order of magnitude to
+reproduce the Bekenstein entropy.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 20:22:52 GMT""},{""version"":""v2"",""created"":""Thu, 30 Sep 1993 14:13:59 GMT""}]","2008-02-03"
+"hep-th/9309146","Gerard Watts","P. Bowcock and G.M.T. Watts","Null vectors, 3-point and 4-point functions in conformal field theory","10 pages, LaTeX 2.09, DAMTP-93-48","Theor.Math.Phys. 98 (1994) 350-356; Teor.Mat.Fiz. 98 (1994)
+  500-508","10.1007/BF01102212",,"hep-th",,"  We consider 3-point and 4-point correlation functions in a conformal field
+theory with a W-algebra symmetry. Whereas in a theory with only Virasoro
+symmetry the three point functions of descendants fields are uniquely
+determined by the three point function of the corresponding primary fields this
+is not the case for a theory with $W_3$ algebra symmetry. The generic 3-point
+functions of W-descendant fields have a countable degree of arbitrariness. We
+find, however, that if one of the fields belongs to a representation with null
+states that this has implications for the 3-point functions. In particular if
+one of the representations is doubly-degenerate then the 3-point function is
+determined up to an overall constant. We extend our analysis to 4-point
+functions and find that if two of the W-primary fields are doubly degenerate
+then the intermediate channels are limited to a finite set and that the
+corresponding chiral blocks are determined up to an overall constant. This
+corresponds to the existence of a linear differential equation for the chiral
+blocks with two completely degenerate fields as has been found in the work of
+Bajnok~et~al.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 09:12:41 GMT""}]","2009-10-22"
+"hep-th/9309147","Mikhail Plyushchay","Mikhail S. Plyushchay","Relativistic Particle with Torsion and Charged Particle in a Constant
+  Electromagnetic Field: Identity of Evolution","LATEX, 7 pages. Introductory part on the physical motivation and new
+  references are added. The revised version stresses the importance of the
+  observed duality for understanding noncorrelated behaviour of the signs of
+  squared velocity and energy-momentum vectors in the particle and string
+  systems with higher derivatives","Mod.Phys.Lett. A10 (1995) 1463-1469",,,"hep-th",,"  The identity of classical motion is established for two physically different
+models, one of which is the relativistic particle with torsion, whose action
+contains higher derivatives and which is the effective system for the
+statistically charged particle interacting with the Chern-Simons U(1) gauge
+field, and another is the (2+1)-dimensional relativistic charged particle in
+external constant electromagnetic field.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 20:45:43 GMT""},{""version"":""v2"",""created"":""Mon, 26 Jun 1995 09:04:54 GMT""}]","2008-02-03"
+"hep-th/9309148","Plyushchay Michail","Mikhail S. Plyushchay","Deformed Heisenberg algebra and fractional spin field in 2+1 dimensions","8 pages, latex file, preprint IC/93/328","Phys.Lett.B320:91-95,1994","10.1016/0370-2693(94)90828-1",,"hep-th",,"  With the help of the deformed Heisenberg algebra involving Klein operator, we
+construct the minimal set of linear differential equations for the
+(2+1)-dimensional relativistic field with arbitrary fractional spin, whose
+value is defined by the deformation parameter.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 20:49:02 GMT""}]","2008-11-26"
+"hep-th/9309149","Antonio Gabriel Oliveira Moreira","C. Aragone, Pio J. Arias and A. Khoudeir","Two gravitationally Chern-Simons terms are too many","Pages 7",,,"SB-F/204","hep-th",,"  It is shown that topological massive gravity augmented by the triadic
+gravitational Chern-Simons first order term is a curved a pure spin-2 action.
+This model contains two massive spin-2 excitations. However, since its
+light-front energy is not semidefinite positive, this double CS-action does not
+have any physical relevance.In other words, topological massive gravity cannot
+be spontaneously broken down by the presence of the triadic CS term.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 22:27:16 GMT""}]","2007-05-23"
+"hep-th/9309150",,"K.-I. Izawa","Another Perturbative Expansion in Nonabelian Gauge Theory","PHYZZX, 8 pages, KUNS 1098","Prog.Theor.Phys. 90 (1993) 911-916","10.1143/ptp/90.4.911",,"hep-th",,"  We consider a new perturbation scheme in nonabelian gauge theory. Pure
+Yang-Mills theory in three dimensions is taken as a concrete example. The
+zeroth-order in the perturbative expansion is given by BF theory coupled to a
+St{\"" u}ckelberg-like field. The effective coupling for the expansion can be
+small in the infrared regime, which implies that nonperturbative treatment of
+Yang-Mills theory may be partially reduced to that of BF theory.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 01:48:58 GMT""}]","2017-02-01"
+"hep-th/9309152","Steve Giddings","S.B. Giddings, J. A. Harvey, Joseph Polchinski, S.H. Shenker, and A.
+  Strominger","Hairy Black Holes in String Theory","14 pages (References added)","Phys.Rev.D50:6422-6426,1994","10.1103/PhysRevD.50.6422","NSF-ITP-93-58","hep-th",,"  Solutions of bosonic string theory are constructed which correspond to
+four-dimensional black holes with axionic quantum hair. The basic building
+blocks are the renormalization group flows of the CP1 model with a theta term
+and the SU(1,1)/U(1) WZW coset conformal field theory. However the solutions
+are also found to have negative energy excitations, and are accordingly
+expected to decay to the vacuum.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 23:31:35 GMT""},{""version"":""v2"",""created"":""Thu, 30 Sep 1993 18:42:44 GMT""},{""version"":""v3"",""created"":""Wed, 6 Oct 1993 01:12:51 GMT""}]","2009-09-17"
+"hep-th/9309154","Olivier Babelon","Olivier Babelon, Denis Bernard","The Sine-Gordon Solitons as a N-Body Problem","10 pages LATEX SPhT-93-072; LPTHE-93-40","Phys.Lett.B317:363-368,1993","10.1016/0370-2693(93)91009-C",,"hep-th",,"  We consider the N-soliton solutions in the sine-Gordon model as a N-body
+problem. This leads to a relativistic generalization of the Calogero model
+first introduced by Ruijsenaars. We show that the fundamental Poisson bracket
+of the Lax matrix is quadratic, and the $r$-matrix is a dynamical one. This is
+in contrast to the Calogero model where the fundamental Poisson bracket of the
+Lax matrix is linear.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 14:28:34 GMT""}]","2008-11-26"
+"math/9309213","Tom H. Koornwinder","Tom H. Koornwinder","Uniform multi-parameter limit transitions in the Askey tableau",,,,"OP-SF 28 Sep 1993","math.CA",,"  Extended abstract for the Proceedings of the Conference ``Modern developments
+in complex analysis and related topics'' (on the occasion of the 70th birthday
+of prof.\ dr.\ J. Korevaar), University of Amsterdam, January 27--29, 1993.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9309029","Herbert Muether","R.Fritz and H. M\""uther","NN Correlations and Relativistic Hartree Fock in Finite Nuclei","26 pages, 3 figures not included, TU-93-2809",,"10.1103/PhysRevC.49.633",,"nucl-th",,"  Two different approximation schemes for the self-consistent solution of the
+relativistic Brueckner-Hartree-Fock equation for finite nuclei are discussed
+using realistic One-Boson-Exchange potentials. In a first scheme, the effects
+of correlations are deduced from a study of nuclear matter and parameterized in
+terms of an effective $\sigma$, $\omega$ and $\pi$ exchange. Employing this
+effective interaction relativistic Hartree-Fock equations are solved for finite
+nuclei \osi , \caf\ and \cafe . In the second approach the effect of
+correlations are treated in the Brueckner-Hartree-Fock approximation directly
+for the finite nuclei, but the modifications of the Dirac spinors in the medium
+are derived from nuclear matter assuming a local-density approximation. Both
+approaches yield rather similar results for binding energies and radii in fair
+agreement with experimental data. The importance of the density dependent
+correlation effects is demonstrated and different ingredients to the spin-orbit
+splitting in the shell-model of the nucleus are discussed.
+","[{""version"":""v1"",""created"":""Tue, 28 Sep 1993 09:42:59 GMT""}]","2009-10-22"

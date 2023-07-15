@@ -1,0 +1,135 @@
+"astro-ph/9303007","P. Monaco","G. Giuricin, F. Mardirossian, M. Mezzetti, P. Monaco","The Local Galaxy Density and the Bars of Spiral Galaxies","23 pages, LaTeX, SISSA Ref. 178/92/A",,"10.1086/172489",,"astro-ph",,"  Using a variety of parameters of local galaxy density, we have examined the
+effects of the environmental density on the presence of bar structures in
+spiral galaxies of various morphological types. For an extensive sample of
+nearby galaxies, listed in the ``Nearby Galaxies Catalogue'' (Tully, 1988a), we
+have found that the spirals characterized by a high local density tend to be
+barred if they are early-type and early-type if they are barred (at the
+significance level of $\sim$3 sigma), confirming some earlier suggestion of low
+statistical significance. This fact, which is observed substantially in
+low-luminosity spirals, indicates that galaxy interactions can stimulate the
+formation of bars, primarily in early-type, low-luminosity spirals. This is in
+partial, qualitative agreement with the most recent relevant N-body
+simulations. On the other hand, no significant density segregation is observed
+between pure S-shaped (S(s)) spirals and spirals with inner rings (S(r)), which
+are often associated with bars. {\it Subject headings:} galaxies: general ---
+galaxies: structure --- galaxies: interactions --- galaxies: clustering
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 12:29:29 GMT""}]","2009-10-22"
+"cond-mat/9303027","Michael E. Flatte","M.E. Flatte', S. Quinlan, D.J. Scalapino","Method for Measuring the Momentum-Dependent Relative Phase of the
+  Superconducting Gap of High-Temperature Superconductors","13 pages (revtex) + 5 figures (postscript-included), NSF-ITP-93-25",,"10.1103/PhysRevB.48.10626",,"cond-mat",,"  The phase variation of the superconducting gap over the (normal) Fermi
+surface of the high-temperature superconductors remains a significant
+unresolved question. Is the phase of the gap constant, does it change sign, or
+is it perhaps complex? A detailed answer to this question would provide
+important constraints on various pairing mechanisms. Here we propose a new
+method for measuring the relative gap PHASE on the Fermi surface which is
+direct, is angle-resolved, and probes the bulk. The required experiments
+involve measuring phonon linewidths in the normal and superconducting state,
+with resolution available in current facilities. We primarily address the
+La_1.85Sr_.15CuO_4 material, but also propose a more detailed study of a
+specific phonon in Bi_2Sr_2CaCu_2O_8.
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 08:32:36 GMT""}]","2009-10-22"
+"hep-ph/9303255","Jim Botts","James Botts, Jorge G. Morfin, Joseph F. Owens, Jianwei Qiu, Wu-Ki Tung
+  and Harry Weerts","CTEQ Parton Distributions and Flavor Dependence of Sea Quarks","13 pages with figures, MSUHEP-92-27, Fermilab-Pub-92/371,
+  FSU-HEP-92-1225, ISU-NP-92-17","Phys.Lett. B304 (1993) 159-166","10.1016/0370-2693(93)91416-K",,"hep-ph",,"  This paper describes salient features of new sets of parton distributions
+obtained by the CTEQ Collaboration based on a comprehensive QCD global analysis
+of all available data. The accuracy of the new data on deep inelastic
+scattering structure functions obtained by the very high statistics NMC and
+CCFR experiments provides unprecedented sensitivity to the flavor dependence of
+the sea-quark distributions. In addition to much better determination of the
+small x dependence of all parton distributions, we found: (i) the strange quark
+distribution is much softer than the non-strange sea quarks and rises above the
+latter at small-x; and (ii) the difference $\bar d-\bar u$ changes sign as a
+function of x. A few alternative sets of viable distributions with conventional
+assumptions are also discussed.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1993 21:40:39 GMT""}]","2009-10-22"
+"hep-ph/9303256","Stevenson","M. Consoli and P.M. Stevenson","Resolution of the lambda Phi^4 Puzzle and a 2 Tev Higgs Boson","(Revised and expanded version) 18 pages, LaTeX, DE-FG05-92ER40717-5",,,,"hep-ph hep-lat",,"  We argue that massless (lambda Phi^4)_4 is ""trivial"" without being entirely
+trivial. It has a non-trivial effective potential which leads to spontaneous
+symmetry breaking, but the particle excitations above the broken vacuum are
+non-interacting. The key to this picture is the realization that the constant
+background field (the mode with zero 4-momentum) renormalizes differently from
+the fluctuation field (the finite-momentum modes). This picture reconciles
+rigorous results and lattice calculations with one-loop and
+Gaussian-approximation analyses. Because of ""triviality"", these latter two
+methods should be effectively exact. Indeed, they yield the same renormalized
+effective potential and the same relation m_h^2 = 8 pi^2 v^2 between the
+particle mass and the physical vacuum expectation value. This relation predicts
+a Higgs mass m_h about 2 TeV in the standard model. The non-interacting nature
+of the scalar sector implies, by the equivalence theorem, that Higgs and gauge
+bosons interact only weakly, through their gauge and Yukawa couplings.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1993 23:33:00 GMT""},{""version"":""v2"",""created"":""Tue, 3 Aug 1993 15:19:00 GMT""}]","2008-02-03"
+"hep-th/9303080","Oh phillial","Taejin Lee and Phillial Oh","Non-Abelian Chern-Simons Quantum Mechanics","11 pages, SNUTP-93-4","Phys.Rev.Lett. 72 (1994) 1141-1144","10.1103/PhysRevLett.72.1141",,"hep-th",,"  We propose a classical model for the non-Abelian Chern-Simons theory coupled
+to $N$ point-like sources and quantize the system using the BRST technique. The
+resulting quantum mechanics provides a unified framework for fractional spin,
+braid statistics and Knizhnik-Zamolodchikov equation.
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 07:28:58 GMT""}]","2009-10-22"
+"hep-th/9303081","Haruhiko Terao","Haruhiko Terao and Kiyonori Yamada","Equivalent models for gauged WZW theory","13pages, KANAZAWA 93-04","Mod.Phys.Lett. A8 (1993) 2471-2480","10.1142/S0217732393002798",,"hep-th",,"  We modify the $SL(2,{\bf R})/U(1)$ WZW theory, which was shown to describe
+strings in a 2D black hole, to be invariant under chiral $U(1)$ gauge symmetry
+by introducing a Steukelberg field. We impose several interesting gauge
+conditions for the chiral $U(1)$ symmetry. In a paticular gauge the theory is
+found to be reduced to the Liouville theory coupled to the $c=1$ matter
+perturbed by the so-called black hole mass operator. Also we discuss the
+physical states in the models briefly.
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 10:43:52 GMT""}]","2015-06-26"
+"hep-th/9303082","S. Kalyana Rama","S. Kalyana Rama and Siddhartha Sen","Comments on Witten Invariants of 3-Manifolds for SU(2) and $Z_m$","14 pages ; 6 figures not included, available in hard copy upon
+  request. TCD-2-93","Mod. Phys. Lett. A8 (1993) 2285-2298",,,"hep-th",,"  The values of the Witten invariants, $I_W$, of the lens space $L(p, 1)$ for
+SU(2) at level $k$ are obtained for arbitrary $p$. A duality relation for $I_W$
+when $p$ and $k$ are interchanged, valid for asymptotic $k$, is observed. A
+method for calculating $I_W$ for any group $G$ is described. It is found that
+$I_W$ for $Z_m$, even for $m = 2$, distinguishes 3-manifolds quite effectively.
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 11:39:02 GMT""}]","2007-05-23"
+"hep-th/9303083",,"M.C.B. Abdalla, F.P. Devecchi, E. Abdalla","On the Dirac Quantization of two Dimensional Gravity","IFUSP prep. 1041, 9 pages",,,,"hep-th",,"  We discuss the Dirac quantization of two dimensional gravity with bosonic
+matter fields. After defining the extended Hamiltonian it is possible to fix
+the gauge completely. The commutators can all be obtained in closed form;
+nevertheless, the results are not particularly simple.
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 13:40:01 GMT""}]","2007-05-23"
+"hep-th/9303084","Niklas Engberg","Niclas Engberg and Bengt E.W. Nilsson","A Four-Reggeon Vertex for ${\bf Z}_3$ Twisted Fermionic Fields","11 pages, LaTex, Goteborg ITP 93-3","Phys.Lett. B307 (1993) 61-67","10.1016/0370-2693(93)90193-L",,"hep-th",,"  Using operator sewing techniques we construct the Reggeon vertex involving
+four external ${\bf Z}_3$-twisted complex fermionic fields. Generalizing a
+procedure recently applied to the ordinary Ramond four-vertex, we deduce the
+closed form of the ${\bf Z}_3$ vertex by demanding it to reproduce the results
+obtained by sewing.
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 14:43:30 GMT""}]","2009-10-22"
+"math/9303207","Shelah Office","Ryszard Frankiewicz, Saharon Shelah, Pawel Zbierski","On closed P-sets with ccc in the space omega^*",,"J. Symbolic Logic 58 (1993), 1171--1176",,"Shelah [FShZ:396]","math.LO math.GN",,"  It is proved that -- consistently -- there can be no ccc closed P-sets in the
+remainder space omega^* .
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9303208","Shelah Office","Saharon Shelah","How special are Cohen and random forcings i.e. Boolean algebras of the
+  family of subsets of reals modulo meagre or null",,"Israel J. Math. 88 (1994), 159--174",,"Shelah [Sh:480]","math.LO math.FA",,"  The feeling that those two forcing notions-Cohen and Random-(equivalently the
+corresponding Boolean algebras Borel(R)/(meager sets), Borel(R)/(null sets))
+are special, was probably old and widespread. A reasonable interpretation is to
+show them unique, or ``minimal'' or at least characteristic in a family of
+``nice forcing'' like Borel. We shall interpret ``nice'' as Souslin as
+suggested by Judah Shelah [JdSh 292]. We divide the family of Souslin forcing
+to two, and expect that: among the first part, i.e. those adding some
+non-dominated real, Cohen is minimal (=is below every one), while among the
+rest random is quite characteristic even unique. Concerning the second class we
+have weak results, concerning the first class, our results look satisfactory.
+We have two main results: one (1.14) says that Cohen forcing is ``minimal'' in
+the first class, the other (1.10) says that all c.c.c. Souslin forcing have a
+property shared by Cohen forcing and Random real forcing, so it gives a weak
+answer to the problem on how special is random forcing, but says much on all
+c.c.c. Souslin forcing.
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9303009","Avraham Rinat","S.A. Gurvitz and A.S. Rinat","The response of non-relativistic confined systems","18 p. WIS-92/102/Dec PH","Phys.Rev.C47:2901-2909,1993","10.1103/PhysRevC.47.2901",,"nucl-th",,"  We study the non-relativistic response of a 'diquark' bound by confining
+forces, for which perturbation theory in the interaction fails. As
+non-perturbative alternatives we consider the Gersch-Rodriguez-Smith theory and
+a summation method. We show that, contrary to the case of singular repulsive
+forces, the GRS theory can generally be applied to confined systems. When
+expressed in the GRS-West kinematic variable y, the response has a standard
+asymptotic limit and calculable dominant corrections of orders 1/q,1/q. That
+theory therefore clearly demonstrates how constituents, confined before and
+after the absorption of the transferred momentum and energy, behave as
+asymptotically free particles. We compare the GRS results with those for a
+summation method for harmonic and square well confinement and also discuss the
+convergence of the GRS series for the response in powers of 1/q.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1993 16:07:22 GMT""}]","2008-11-26"
+"nucl-th/9303010",,"G. Krein, M. Nielsen, R.D. Puff and L. Wilets","Ghost Poles in the Nucleon Propagator: Vertex Corrections and Form
+  Factors","18 pages","Phys.Rev.C47:2485-2491,1993","10.1103/PhysRevC.47.2485",,"nucl-th",,"  Vertex corrections are taken into account in the Schwinger-Dyson equation for
+the nucleon propagator in a relativistic field theory of fermions and mesons.
+The usual Hartree-Fock approximation for the nucleon propagator is known to
+produce the appearance of complex (ghost) poles which violate basic theorems of
+quantum field theory. In a theory with vector mesons there are vertex
+corrections that produce a strongly damped vertex function in the ultraviolet.
+One set of such corrections is known as the Sudakov form factor in quantum
+electrodynamics. When the Sudakov form factor generated by massive neutral
+vector mesons is included in the Hartree-Fock approximation to the
+Schwinger-Dyson equation for the nucleon propagator, the ghost poles disappear
+and consistency with basic requirements of quantum field theory is recovered.
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 11:54:00 GMT""}]","2008-11-26"

@@ -1,0 +1,235 @@
+"astro-ph/9307007","Marcello Galli","Loretta Solmi and Marcello Galli","CBS - a Program for Close Binary System Light Curve Analysis","4 pages, Latex (Sait style included),2 figures (postscript available
+  on request), poster presented at the Astronet 93 Meeting Apr.93 Trieste, to
+  appear in Mem. Sait. vol XX,1993 ,Local Report: NONE-0",,,,"astro-ph",,"  CBS is a new program for binary system light curve analysis, it generates
+synthetic light curves for a binary system, accounting for eclipses, tidal
+distortion, limb darkening, gravity darkening and reflection; it is also
+possible to compute the light contribution and eclipses of an accretion disk.
+The bolometric light curve is generated, as well as curves for the U,B,V,R,I
+colour bands. In the following we give a brief description of the first version
+of the program and show some preliminary results.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 16:52:53 GMT""}]","2007-05-23"
+"astro-ph/9307009","Edvige Corbelli","Edvige Corbelli and Edwin E. Salpeter","Hi Spin Temperatures and Heating Requirements in Outer Regions of Disk
+  Galaxies","24 pages, 8 figures ARCETRI-PR-93-24","Astrophys.J. 419 (1993) 94","10.1086/173462",,"astro-ph",,"  ABSRACT:We show how to use 21-cm emission and absorption studies to estimate
+the heat inputs to the neutral gas in low pressure environments, such as in
+outer disks of spiral galaxies, in galactic halos or in intergalactic space.
+For a range of model parameters we calculate the gas kinetic and spin
+temperatures ($T_K$ and $T_S$) and the relation between $T_S$ and the heat
+input to the gas. We outline the conditions for a ``two phase medium'' to
+exist. We find that although $T_S$ can be much smaller than $T_K$, $T_S$ is
+always $ \gg 3$ K for column densities greater that $5 \times 10^{18}$
+cm$^{-2}$. This excludes the possibility that relevant HI masses at the
+periphery of galaxies are invisible at 21-cm in emission. The outermost
+interstellar gas in a disk galaxy is more directly affected by external
+processes and in this paper we estimate the intensity of the extragalactic
+background at energies close to 0.1 keV by comparing our theoretical results
+with HI emission/absorption studies. We take into account the possibility that
+some energy produced in the inner regions affects the energy balance in outer
+regions. We find that in the absence of any other local heat source QSO
+dominated background models are still compatible with the spin temperature
+limits derived for the two best documented HI emission/absorption studies in
+outer regions.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 16:02:01 GMT""}]","2009-10-22"
+"astro-ph/9307010","Edvige Corbelli","Edvige Corbelli and Edwin E. Salpeter","Sharp Hi Edges in the Outskirts of Disk Galaxies","17 pages, 5 figures ARCETRI-PR-93-25",,"10.1086/173463",,"astro-ph",,"  Observations indicate that some extended outer disks have a sharp cut off in
+the surface density of neutral hydrogen when this approaches the value of $\sim
+2\times 10^{19}$ cm$^{-2}$. In this paper we model these HI edges as places
+where the ratio of neutral to ionized hydrogen drops rapidly due to ionizing
+radiation. We use two different models for the vertical distribution of gas
+above the outer galactic plane: in the first model we derive the density from
+the ideal gas law while in the second model we insert a macroscopic pressure
+term and derive the density as for an isothermal slab. We consider two
+different sources of ionizing photons: external fluxes of different intensity
+and spectral index due to quasars, and a monochromatic UV flux due to neutrino
+decays. We find that galaxies which have a smaller gas scale height should show
+outer HI disks to a lower column density and smoother HI edges. The sharpness
+of the HI-HII transition and the total column density at which the medium is
+50$\%$ ionized, are strongly correlated. We present several model fits to the
+HI sharp edge observed in M33. If today's UV background is dominated by
+attenuated quasar light, which gives $\sim 10^{-14}$ H ionizations s$^{-1}$, a
+large gas scale height or equivalently a nearly spherical halo is preferred. If
+ionizing photons from decaying neutrinos are responsible for the sharp edge, a
+flat dark matter halo, is required.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 16:02:34 GMT""}]","2009-10-22"
+"astro-ph/9307011","Minho Choi","Minho Choi, Neal J. Evans II, and Daniel T. Jaffe","Exteremely High Velocity Outflows","25 pages + 1 figure, Prepared with the AAS LaTeX macro v 3.0",,"10.1086/173341",,"astro-ph",,"  Extremely high velocity (EHV) wings, with full widths of 72 to 140 km/s, are
+seen on the CO J=3-2 lines toward W3 IRS 5, GL 490, NGC 2071, W28 A2, GL 2591,
+S140, and Cepheus A.
+  The results of our survey suggest that EHV wings are common around infrared
+sources of moderate to high luminosity (500 to 4x10^5 Lsun) in dense regions.
+Line ratios imply that the EHV gas is usually optically thin and warm.
+Characteristic velocities range from 20 to 40 km/s, yielding timescales of
+1600-4200 yr. Since most sources in this study are producing some ionizing
+photons, these short timescales suggest that neutral winds coexist with
+ionizing photons.
+  We examined two possible sources for the EHV CO emission: a neutral stellar
+wind; and swept-up or entrained molecular gas. Neither can be ruled out. If the
+high-velocity (HV) gas is swept up by a momentum-conserving stellar wind traced
+by the extremely high velocity CO emission, most of the C in the winds from
+luminous objects cannot be in CO. If the EHV and HV forces are equal, the
+fraction of C in a form other than CO increases with source luminosity and with
+the production rate of ionizing photons.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 21:59:55 GMT""}]","2009-10-22"
+"cond-mat/9307007","Kikuo Harigaya Harry-chan","Kikuo Harigaya (1,2) and Shuji Abe (1), ((1) Elecrotechnical
+  Laboratory, Umezono, Tsukuba, Ibaraki, Japan, (2) Department of Physics,
+  University of Sheffield, United Kingdom)","Nonlinear Optical Response of C60 Molecules","Please request figures from one of the authors","J. Luminescence 60&61 (1994) 380-382","10.1016/0022-2313(94)90170-8",,"cond-mat",,"  The third-order nonlinear optical susceptiblity chi(3) of a C60 molecule is
+calculated by using a free-electron model as well as by taking Coulomb
+interactions into account. The free-electron model yields chi(3) magnitudes
+which are in agreement with experiment. Althugh Coulomb interactions reduce
+chi(3) by one order of magnitude, local-field corrections can be invoked to
+recover the agreement.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 08:21:41 GMT""}]","2007-05-23"
+"hep-ph/9307220","Boris Kastening","Boris Kastening","A New Gauge for Computing Effective Potentials in Spontaneously Broken
+  Gauge Theories","24 pages, figures produced by LaTeX, plain LaTeX, THU-93/16.
+  (Completely revised. Essential changes. New stuff added. To appear in
+  Phys.Rev.D.)","Phys.Rev. D51 (1995) 265-278","10.1103/PhysRevD.51.265",,"hep-ph hep-th",,"  A new class of renormalizable gauges is introduced that is particularly well
+suited to compute effective potentials in spontaneously broken gauge theories.
+It allows one to keep free gauge parameters when computing the effective
+potential from vacuum graphs or tadpoles without encountering mixed propagators
+of would-be-Goldstone bosons and longitudinal modes of the gauge field. As an
+illustrative example several quantities are computed within the Abelian Higgs
+model, which is renormalized at the two-loop level. The zero temperature
+effective potential in the new gauge is compared to that in $R_\xi$ gauge at
+the one-loop level and found to be not only easier to compute but also to have
+a more convenient analytical structure. To demonstrate renormalizability of the
+gauge for the non-Abelian case, the renormalization of an SU(2)-Higgs model
+with completely broken gauge group and of an SO(3)-Higgs model with an unbroken
+SO(2) subgroup is outlined and renormalization constants are given at the
+one-loop level.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 16:15:39 GMT""},{""version"":""v2"",""created"":""Tue, 21 Dec 1993 09:40:20 GMT""},{""version"":""v3"",""created"":""Mon, 22 Aug 1994 12:25:19 GMT""}]","2009-10-22"
+"hep-ph/9307221",,"P. Jain and H. J. Munczek","q\bar q$ bound states in the Bethe-Salpeter formalism","19 pages, 7 figures (hard copy available upon request), Style file
+  appended at the end of the paper, report # KU-HEP-93-30","Phys.Rev. D48 (1993) 5403-5411","10.1103/PhysRevD.48.5403",,"hep-ph",,"  We solve the Bethe-Salpeter equation in order to calculate the spectrum of
+pseudoscalar, vector and scalar meson bound states for light as well as heavy
+quarks, extending our previous calculation of pseudoscalar mesons. The fermion
+propagators appearing in the equation are obtained by solving the
+Schwinger-Dyson equation consistently with the Bethe-Salpeter equation, a
+procedure necessary for demonstrating the Goldstone nature of the pion in the
+chiral limit.
+  We probe in our calculations a model for the gluon propagator which leads to
+the expected three dimensional potential in configuration space, while
+maintaining its known ultraviolet behavior. Our procedure provides a unified
+description of both the light and heavy mesons and obeys known relations
+derived on the basis of current algebra for light quarks and nonrelativistic
+analysis for heavy quarks. The results are in good agreement with experiment
+for the mass spectrum and for the pseudoscalar mesons' decay constants. We also
+calculate electromagnetic and isospin mass splittings for these mesons.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 18:21:26 GMT""}]","2009-10-22"
+"hep-ph/9307222","Kingman","Kingman Cheung","$B_c$ Mesons Production at Hadron Colliders by Heavy Quark Fragmentation","11 pages, RevTex, 3 figures (send upon request), NUHEP-TH-93-19","Phys.Rev.Lett. 71 (1993) 3413-3416","10.1103/PhysRevLett.71.3413",,"hep-ph",,"  We present a reliable estimate on the production rate of $B_c$ mesons in $1S$
+and $2S$ states in the large transverse momentum region at hadronic colliders
+using heavy quark fragmentation functions derived within the framework of
+perturbative QCD. We also present the transverse momentum distribution for the
+$B_c$ mesons. The production rate is large enough for the $B_c$ mesons to be
+identified at the Tevatron. At the SSC/LHC the rate is so large that their
+properties can be studied in details.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 18:44:05 GMT""}]","2009-10-22"
+"hep-ph/9307223","Cliff Burgess","C.P. Burgess, Stephen Godfrey, Heinz K\""onig, David London and Ivan
+  Maksymyk","Bounding Anomalous Gauge-Boson Couplings","32 pages","Phys.Rev.D50:7011-7024,1994","10.1103/PhysRevD.50.7011","McGill-93/14, UdeM-LPN-TH-93-154, OCIP/C-93-7","hep-ph",,"  In this version we have corrected some minor errors in the tables, corrected
+typos, and added a reference. We have also updated our comparison with earlier
+workers. Figures are now included as uuencoded compressed tar files.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 03:11:28 GMT""},{""version"":""v2"",""created"":""Wed, 14 Jul 1993 16:20:56 GMT""}]","2010-11-01"
+"hep-ph/9307224","Boris Kastening","Boris Kastening","Bounds from Stability and Symmetry Breaking on Parameters in the
+  Two-Higgs-Doublet Potential","from last year, but due to recent interest now on the e-print
+  archive, 8 pages, no figures, plain latex",,,"UCLA/92/TEP/22","hep-ph",,"  The most general $SU(2)\times U(1)_Y$-symmetric quartic potential with two
+Higgs doublets, subject to an only softly broken discrete symmetry
+$(\phi_1,\phi_2)\to(-\phi_1,\phi_2)$, is considered. At tree-level, analytic
+bounds on the parameters are derived that ensure a stable vacuum, breaking
+$SU(2)\times U(1)_Y$ down to $U(1)_{em}$.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 11:28:57 GMT""}]","2007-05-23"
+"hep-th/9307028",,"K.S.Viswanathan and R.Parthasarathy","Extrinsic Curvature Induced 2-d Gravity","14 pages in latex, SFU-HEP-105-93",,,,"hep-th",,"  Abtract: 2-dimensional fermions are coupled to extrinsic geometry of a
+conformally immersed surface in ${\bf R}^3$ through gauge coupling. By
+integrating out the fermions, we obtain a WZNW action involving extrinsic
+curvature of the surface. Restricting the resulting effective action to
+surfaces of $h\sqrt g=1$, an explicit form of the action invariant under
+Virasaro symmetry is obtained. This action is a sum of the geometric action for
+the Virasaro group and the light-cone action of 2-d gravity plus an interaction
+term. The central charges of the theory in both the left and right sectors are
+calculated.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 20:47:31 GMT""}]","2007-05-23"
+"hep-th/9307029","Kenji Mouri","Kenji Mohri","$N=2$ super $W$ algebra in half-twisted Landau-Ginzburg model","25 pages , UTHEP-260 (preprint number and Abstract added)","Int. J. Mod. Phys. A9 (1994) 5097-5120","10.1142/S0217751X94002065",,"hep-th",,"  We investigate $N=2$ extended superconformal symmetry, using the half-twisted
+Landau-Ginzburg models. The first example is the $D_{2n+2}$ -type minimal
+model. It has been conjectured that this model has a spin $n$ super $W$
+current. We checked this by the direct computations of the BRS cohomology class
+up to $n=4$. We observe for $n\le 3$ the super W currents generate the ring
+isomorphic to the chiral ring of the model with respect to the classical
+product. We thus conjecture that this isomorphism holds for any $n$. The next
+example is $ CP_{n}$ coset model. In this case we find a sort of Miura
+transformation which gives the simple formula for the super W currents of spin
+\{1,2,...,n\} in terms of the chiral superfields. Explicit form of the super W
+currents and their Poisson brackets are obtained for $CP_{2},CP_{3}$ case. We
+also conjecture that as long as the classical product is concerned, these super
+W currents generate the ring isomorphic to the chiral ring of the model and
+this is checked for $CP_2$ model.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 05:32:10 GMT""}]","2015-06-26"
+"hep-th/9307030",,"J. Balog, P. Forg\'acs, Z. Horv\'ath and L. Palla","A new family of $SU(2)$ symmetric integrable sigma models","(ITP Budapest Report No. 502) (11 pages","Phys.Lett.B324:403-408,1994","10.1016/0370-2693(94)90213-5",,"hep-th",,"  (Minor corrections and reference added)
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 07:54:57 GMT""},{""version"":""v2"",""created"":""Tue, 13 Jul 1993 14:56:04 GMT""}]","2011-04-20"
+"hep-th/9307031","Ralf Huebel","Wolfgang Eholzer, Ralf H\""ubel","Fusion Algebras of Fermionic Rational Conformal Field Theories via a
+  Generalized Verlinde Formula","28 pages (Plain TeX), BONN-HE-93-05","Nucl.Phys. B414 (1994) 348-378","10.1016/0550-3213(94)90434-0",,"hep-th",,"  We prove a generalization of the Verlinde formula to fermionic rational
+conformal field theories. The fusion coefficients of the fermionic theory are
+equal to sums of fusion coefficients of its bosonic projection. In particular,
+fusion coefficients of the fermionic theory connecting two conjugate Ramond
+fields with the identity are either one or two. Therefore, one is forced to
+weaken the axioms of fusion algebras for fermionic theories. We show that in
+the special case of fermionic W(2,d)-algebras these coefficients are given by
+the dimensions of the irreducible representations of the horizontal subalgebra
+on the highest weight. As concrete examples we discuss fusion algebras of
+rational models of fermionic W(2,d)-algebras including minimal models of the
+$N=1$ super Virasoro algebra as well as $N=1$ super W-algebras SW(3/2,d).
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 08:33:34 GMT""}]","2009-10-22"
+"hep-th/9307032","Palev Tchavpar","T. D. Palev","Is it possible to extend the deformed Weyl algebra $W_q(n)$ to a Hopf
+  algebra?","6 pages",,,"ICTP Preprint IC/93/163","hep-th math.QA",,"  We argue that the algebra $W_q(n)$, generated by $n$ pairs of deformed
+$q$-bosons, does not allow a Hopfalgebra structure. To this end we show that it
+is impossible to define a comultiplication even for the usual, nondeformed
+case. We indicate how the comultiplication on $U_q[osp(1/2n)]$ can be used in
+order to construct representations of deformed (not necessarily Hopf) algebras
+in tensor products of Fock spaces.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 08:49:57 GMT""}]","2008-02-03"
+"hep-th/9307033",,"A. Mikovic and M. Navarro","Symplectic Structure of 2D Dilaton Gravity","12 pgs, Imperial TP/92-93/37, La-Tex file","Phys.Lett.B315:267-276,1993","10.1016/0370-2693(93)91611-P",,"hep-th",,"  We analyze the symplectic structure of two-dimensional dilaton gravity by
+evaluating the symplectic form on the space of classical solutions. The case
+when the spatial manifold is compact is studied in detail. When the matter is
+absent we find that the reduced phase space is a two-dimensional cotangent
+bundle and determine the Hilbert space of the quantum theory. In the
+non-compact case the symplectic form is not well defined due to an unresolved
+ambiguity in the choice of the boundary terms.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 09:56:16 GMT""}]","2009-01-16"
+"hep-th/9307034",,"T. Haugset and F. Ravndal","Scale anomalies in non-relativistic field theories in 2+1 dimensions","6, OSLO-TP 10-93","Phys.Rev. D49 (1994) 4299-4301","10.1103/PhysRevD.49.4299",,"hep-th cond-mat",,"  {}From the one-loop effective potential for a gas of non-relativistic bosons
+in two spatial dimensions interacting via a delta-function potential at
+zero-temperature and finite chemical potential, the anomaly of the
+energy-momentum tensor follows directly. It is also similarly derived when the
+bosons have an additional Chern-Simons interaction. In the special case of
+anyons, the scale anomaly vanishes to one-loop order in the effective potential
+and also to second order in the statistical angle.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 10:04:11 GMT""}]","2009-10-22"
+"hep-th/9307036","Martin Bordemann","Martin Bordemann and Jens Hoppe","The Dynamics of Relativistic Membranes I: Reduction to 2-dimensional
+  Fluid Dynamics","10 pages, LATEX, FR-THEP-93-13 and KA-THEP-4-93","Phys.Lett.B317:315-320,1993","10.1016/0370-2693(93)91002-5",,"hep-th",,"  We greatly simplify the light-cone gauge description of a relativistic
+membrane moving in Minkowski space by performing a field-dependent change of
+variables which allows the explicit solution of all constraints and a
+Hamiltonian reduction to a $SO(1,3)$ invariant $2+1$-dimensional theory of
+isentropic gas dynamics, where the pressure is inversely proportional to
+(minus) the mass-density. Simple expressions for the generators of the
+Poincar\'e group are given. We also find a generalized Lax pair which involves
+as a novel feature complex conjugation. The extension to the supersymmetric
+case, as well as to higher-dimensional minimal surfaces of codimension one is
+briefly mentioned.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 15:24:19 GMT""}]","2011-05-05"
+"hep-th/9307037",,"J. M. Isidro and A. V. Ramallo","gl(N,N) Current Algebras and Topological Field Theories","53 pages","Nucl.Phys. B414 (1994) 715-762","10.1016/0550-3213(94)90259-3",,"hep-th",,"  The conformal field theory for the $gl(N,N)$ affine Lie superalgebra in two
+space-time dimensions is studied. The energy-momentum tensor of the model, with
+vanishing Virasoro anomaly, is constructed. This theory has a topological
+symmetry generated by operators of dimensions 1, 2 and 3, which are represented
+as normal-ordered products of $gl(N,N)$ currents. The topological algebra they
+satisfy is linear and differs from the one obtained by twisting the $N=2$
+superconformal models. It closes with a set of $gl(N)$ bosonic and fermionic
+currents. The Wess-Zumino-Witten model for the supergroup $GL(N,N)$ provides an
+explicit realization of this symmetry and can be used to obtain a free-field
+representation of the different generators. In this free-field representation,
+the theory decomposes into two uncoupled components with $sl(N)$ and $U(1)$
+symmetries. The non-abelian component is responsible for the extended character
+of the topological algebra, and it is shown to be equivalent to an $SL(N)/
+SL(N)$ coset model. In the light of these results, the $G/ G$ coset models are
+interpreted as topological sigma models for the group manifold of $G$
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 15:25:49 GMT""}]","2009-10-22"
+"hep-th/9307038","Edward Witten","Shamit Kachru and Edward Witten","Computing the Complete Massless Spectrum of a Landau-Ginzburg Orbifold","34 pp, reference added","Nucl.Phys.B407:637-666,1993","10.1016/0550-3213(93)90093-5","IASSNS-HEP-93/40, PUPT-1397","hep-th",,"  We develop techniques to compute the complete the massless spectrum in
+heterotic string compactification on N=2 supersymmetric Landau-Ginzburg
+orbifolds. This includes not just the familiar charged fields, but also the
+gauge singlets. The number of gauge singlets can vary in the moduli space of a
+given compactification and can differ from what it would be in the large radius
+limit of the corresponding Calabi-Yau. Comparison with exactly soluble Gepner
+models provides a confirmation of our results at Gepner points. Our methods
+carry over straightforwardly to $(0,2)$ Landau-Ginzburg models.
+","[{""version"":""v1"",""created"":""Tue, 6 Jul 1993 15:36:39 GMT""},{""version"":""v2"",""created"":""Fri, 9 Jul 1993 20:10:07 GMT""}]","2010-04-07"

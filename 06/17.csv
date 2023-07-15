@@ -1,0 +1,279 @@
+"cond-mat/9306037","R. J. Radtke","R. J. Radtke","Comment on ""Theory of Impure Superconductors: Anderson versus Abrikosov
+  and Gor'kov""","8 pages, one figure sent on request, REVTEX 2.1, KOcomment",,,,"cond-mat",,"  In a recent article, Kim and Overhauser [Phys. Rev. B 47, 8025 (1993)] have
+found fault with the theory of impure superconductors by Abrikosov and Gor'kov
+and have proposed an alternative formalism based on Green's functions which are
+not derivable from a Dyson equation. Although the corrections to the
+Abrikosov-Gor'kov theory found by Kim and Overhauser are correct for
+non-retarded interactions, I argue that these corrections do not appear when
+one treats realistic retarded interactions within the field-theoretic approach
+of Abrikosov and Gor'kov. Direct numerical computation of the impurity-induced
+suppression of the superconducting transition temperature Tc for both retarded
+and non-retarded interactions illustrates these points. I conclude that
+Abrikosov-Gor'kov theory applied to physical electron-electron interactions
+yields a tractable formalism which accurately predicts the effects of magnetic
+and non-magnetic impurities on Tc.
+","[{""version"":""v1"",""created"":""Wed, 16 Jun 1993 18:18:27 GMT""}]","2007-05-23"
+"cond-mat/9306038","Fasol","Gerhard Fasol and Hiroyuki Sakaki","Electron--Electron Scattering in Quantum Wires and it's Possible
+  Suppression due to Spin Effects","11 pages, LaTeX and APS-RevteX 2, Rep.No. GF66,Figures from author,
+  Physical Review Letters, scheduled for 7 June 1993",,"10.1103/PhysRevLett.70.3643",,"cond-mat",,"  A microscopic picture of electron-electron pair scattering in single mode
+quantum wires is introduced which includes electron spin. A new source of
+`excess' noise for hot carriers is presented. We show that zero magnetic field
+`spin' splitting in quantum wires can lead to a dramatic `spin'-subband
+dependence of electron--electron scattering, including the possibility of
+strong suppression. As a consequence extremely long electron coherence lengths
+and new spin-related phenomena are predicted. Since electron bands in III-V
+semiconductor quantum wires are in general spin-split in zero applied magnetic
+field, these new transport effects are of general importance.
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 01:39:56 GMT""}]","2009-10-22"
+"cond-mat/9306039","Jeferson J. Arenzon If-Ufrgs","J.J. Arenzon and R.M.C. de Almeida","Neural networks with high order connections","24 pages, latex + 14 figures upon request, IFUFRGS-JJA-02-93","Phys. Rev. E 47 (1993) 4060","10.1103/PhysRevE.48.4060",,"cond-mat q-bio.NC",,"  We present results for two different kinds of high order connections between
+neurons acting as corrections to the Hopfield model. Equilibrium properties are
+analyzed using the replica mean-field theory and compared with numerical
+simulations. An optimal learning algorithm for fourth order connections is
+given that improves the storage capacity without increasing the weight of the
+higher order term. While the behavior of one of the models qualitatively
+resembles the original Hopfield one, the other presents a new and very rich
+behavior: depending on the strength of the fourth order connections and the
+temperature, the system presents two distinct retrieval regions separated by a
+gap, as well as several phase transitions. Also, the spin glass states seems to
+disappear above a certain value of the load parameter $\alpha$, $\alpha_g$.
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 15:15:00 GMT""}]","2009-10-22"
+"hep-lat/9306012","Wolfgang Bock","Wolfgang Bock, Jan Smit and Jeroen C. Vink","Staggered fermions for chiral gauge theories: Test on a two-dimensional
+  axial-vector model","17 pages, 5 postscript figures (appended), ITFA 93-13, UCSD/PTH 93-13","Nucl.Phys. B414 (1994) 73-92","10.1016/0550-3213(94)90422-7",,"hep-lat hep-ph",,"  As a first step towards constructing chiral models on the lattice with
+staggered fermions, we study a U(1) model with axial-vector coupling to an
+external gauge field in two dimensions. In our approach gauge invariance is
+broken, but it is restored in the classical continuum limit. We find that the
+continuum divergence relations for the vector and axial-vector currents are
+reproduced, up to contact terms, which we determine analytically. The current
+divergence relations are also studied numerically for smooth external gauge
+fields with topological charge zero. We furthermore investigate the effect of
+fluctuating gauge transformations and of gauge configurations with non-trivial
+topological charge.
+","[{""version"":""v1"",""created"":""Wed, 16 Jun 1993 16:31:59 GMT""}]","2009-10-22"
+"hep-lat/9306013","Paolo Marenzoni","P.Marenzoni, L.Pugnetti and P.Rossi","Measure of Autocorrelation Times of Local Hybrid Monte Carlo Algorithm
+  for Lattice QCD","11 pages Latex, UPRF June 93 preprint /370/","Phys.Lett. B315 (1993) 152-156","10.1016/0370-2693(93)90173-F",,"hep-lat",,"  We report on a study of the autocorrelation times of the local version of the
+Hybrid Monte Carlo (LHMC) algorithm for pure gauge $SU(3)$. We compare LHMC to
+standard multi-hit Metropolis and to the global version of the same HMC. For
+every algorithm we measure the autocorrelation time for a variety of
+observables and the string tension as a function of beta. The measurements
+performed on 8^4 and 16^4 lattices indicate that the autocorrelation time of
+LHMC is significantly shorter than for the other two algorithms.
+","[{""version"":""v1"",""created"":""Wed, 16 Jun 1993 17:01:15 GMT""}]","2009-10-22"
+"hep-lat/9306014","Kenton Yee","M. I. Polikarpov(ITEP,Moscow) and Ken Yee(LSU)","Properties of the Abelian Projection Fields in $SU(N)$ Lattice
+  Gluodynamics","13 pages, 1 postscript figure included","Phys.Lett. B316 (1993) 333-338","10.1016/0370-2693(93)90334-E","LSU-442-93","hep-lat hep-ph nucl-th",,"  't~Hooft's abelian projection of $SU(N)$ gauge theory yields $N$ mutually
+constrained, compact abelian fields which are permutationally equivalent. We
+formulate the notion of ``species permutation'' symmetry of the $N$ abelian
+projection fields and discuss its consequences for cross-species correlators.
+We show that at large $N$ cross-species interactions are ${1\over N}$
+suppressed relative to same-species interactions. Numerical simulations at
+$N=3$ support our symmetry arguments and reveal the existence of inter-species
+interactions of size ${\cal O\/}\bigl({1\over N-1}\bigr)$ as analytically
+predicted.
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 13:53:21 GMT""}]","2016-08-31"
+"hep-lat/9306015","Pierre LaCock","L. Karkkainen, P. Lacock, D.E. Miller, B. Petersson and T. Reisz","Spacelike Wilson Loops at Finite Temperature","Tex file. No figures included. Obtainable from P. Lacock at email
+  address: lacock@c240.uni-bielefeld.de","Phys.Lett.B312:173-178,1993","10.1016/0370-2693(93)90506-D",,"hep-lat",,"  In the high temperature phase of Yang-Mills theories, large spatial Wilson
+loops show area law behaviour with a string tension that grows with increasing
+temperature. Within the framework of the commonly used string picture we use a
+large scale expansion, which allows us to determine the string tension from
+measurements of intermediate and symmetric Wilson loops.
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 14:57:35 GMT""}]","2008-11-26"
+"hep-ph/9306278",,"Zurab G. Berezhiani and Anna Rossi","Matter Induced Neutrino Decay: New Candidate for the Solution to the
+  Solar Neutrino Problrm","15 pages, No Figures, LATEX file, INFN FE-08-93",,,,"hep-ph",,"  Effects of the dense matter can induce the neutrino decay even if neutrinos
+are stable in vacuum. This is due to coherent interactions with matter which
+lead to energy level-splitting between the neutrino and antineutrino states and
+thereby provide available phase space for the majoron emission. We show that
+the matter induced decay can be a plausible candidate for the explanation of
+solar neutrino deficit, provided that there exist new flavour-changing weak
+range interactions of neutrino with matter constituents, and constant of
+$\tau$-neutrino coupling to the majoron is sufficiently large. This mechanism
+naturally implies the hierarchy between the ratios Z=(measured signal)/(SSM
+expectation) for Ga-Ge, nu_e-e scattering and Cl-Ar experiments -
+Z_{GA}>Z_{K}>Z_{Cl}. The important feature of the matter induced decay is the
+prediction of solar antineutrino flux with substantially degraded energy
+spectrum compared to solar neutrinos. This scenario can be unambiguously tested
+by future solar neutrino detectors BOREXINO/BOREX and SNO.
+","[{""version"":""v1"",""created"":""Wed, 16 Jun 1993 20:12:00 GMT""}]","2007-05-23"
+"hep-ph/9306279","Ed Stoeffhaas","V. Barger and R.J.N. Phillips","Supersymmetry Phenomenology","Talk given by V. Barger at the HARC SUSY Workshop, Texas, April 1993.
+  Standard Latex, 15 pages without figures. Full 22 page version with 25
+  embedded figures available by fax or regular mail or as one postscript file
+  (10.5 MB), compressed (1 MB). MAD/PH/765",,,,"hep-ph",,"  We review some recent results and future prospects in the phenomenology of
+Supersymmmetry. We discuss the searches for superpartner states, the searches
+for Higgs bosons in the minimal SUSY model, and additional parameter
+constraints arising in SUSY-GUT models.
+","[{""version"":""v1"",""created"":""Wed, 16 Jun 1993 21:34:53 GMT""}]","2007-05-23"
+"hep-ph/9306280","Stephen Ellis","S.D. Ellis","Collider Jets in Perturbation Theory","Talk presented at the XXVIIIth Rencontres de Moriond, 1993, LATeX, 13
+  pages including figures (uu file at end), CERN-TH.6861/93",,,,"hep-ph",,"  Recent progress in the perturbative analysis of hadronic jets, especially in
+the context of hadron colliders, is discussed. The characteristic feature of
+this work is the emergence of a level of precision in the study of the strong
+interactions far beyond that previously possible. Inclusive cross sections for
+high energy jets at the Tevatron are now perturbatively calculable with a
+reliability on the order of 10%. At present this theoretical precision is
+comparable to the quoted experimental errors. Progress has also been made
+towards understanding both the internal structure of jets and the influence of
+the details of the jet-defining algorithm.
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 09:45:15 GMT""}]","2007-05-23"
+"hep-ph/9306281","Manfred B. Lindner","M. Lindner","The Phenomenological Viability of Top Condensation","HD-THEP-93-19, in LATEX 10 pages with figures appended as Postscript
+  files",,,,"hep-ph",,"  We discuss how the full dynamics of top condensation models can modify the
+relations between the physical top mass, the amount of custodial $SU(2)$
+violation and the weak gauge boson masses. It is emphasized that it is possible
+to get phenomenologically acceptable relations between $\Delta\rho$, $m_t$ and
+$M_W$ and that in addition the scale of new physics can be chosen to be ${\cal
+O}(TeV)$ such that a fine--tuning problem is avoided.
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 15:04:29 GMT""}]","2007-05-23"
+"hep-ph/9306282","Richard Steinberg","R.I. Steinberg (Drexel University)","Chooz and Perry: New Experiments for Long Baseline Reactor Neutrino
+  Oscillations","LaTeX, 10 pages, figures and some tables not included. Full
+  postscript file (481 KB) is available as follows: 1. via anonymous ftp at
+  duphy4.drexel.edu as 9306001.ps 2. via DECNET as
+  47582::disk$user2:[anonymous]9306001.ps 3. via BITNET requests to
+  steinberg@duphy1 Paper presented at the 5th International Workshop on
+  Neutrino Telescopes, Venice, March 1993, on behalf of the Chooz
+  Collaboration. To be published in the workshop proceedings, DUHEP-9306001",,,,"hep-ph",,"  We discuss the Chooz experiment, a long baseline search for neutrino vacuum
+oscillations, which will utilize a large gadolinium-loaded liquid scintillation
+detector one km from a large nuclear power station in France. The 300-meter
+(water equivalent) underground site of the detector reduces cosmic ray muons,
+the main source of background in this type of experiment, by a factor of 300,
+thereby allowing clean detection of antineutrinos from the reactor. The
+experimental goal is to probe \Delta m^2 values down to 1E-3 eV^2 for large
+values of sin^2 2\theta and mixing angles to 0.08 for favorable regions of
+\Delta m^2. A subsequent experiment which will have a 13 km baseline at the
+former IMB site in Ohio and which can reach \Delta m^2 = 8E-5 eV^2 is also
+briefly described.
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 15:44:20 GMT""}]","2007-05-23"
+"hep-th/9306071",,"Amir Aghamohammadi","The 2-Parametric Extension of $h$ Deformation of $GL(2)$, and The
+  Differential Calculus on Its Quantum Plane","11 pages, Institute for studies in Theoretical Physics and
+  Mathematics Tehran Iran","Mod.Phys.Lett. A8 (1993) 2607-2613","10.1142/S0217732393002981",,"hep-th",,"  We present an alternative 2-parametric deformation $ GL(2)_{h,h'} $ , and
+construct the differential calculus on the quantum plane on which this quantum
+group acts. Also we give a new deformation of the two dimensional Heisenberg
+algebra
+","[{""version"":""v1"",""created"":""Wed, 16 Jun 1993 18:14:07 GMT""}]","2015-06-26"
+"hep-th/9306072",,"M. R. Abolhassani and F. Ardalan","A Unified Scheme for Modular Invariant Partition Functions of WZW Models","30 page ,SUTDP/11/93/72 Department of Physics, Sharif University of
+  Technology","Int.J.Mod.Phys. A9 (1994) 2707-2740","10.1142/S0217751X94001102",,"hep-th",,"  We introuduce a unified method which can be applied to any WZW model at
+arbitrary level to search systematically for modular invariant physical
+partition functions. Our method is based essentially on modding out a known
+theory on group manifold $G$ by a discrete group $\Gamma$.
+  We apply our method to $\widehat {su(n)}$ with $n=2,3,4,5,6$, and to
+$\widehat {g_2}$ models, and obtain all the known partition functions and some
+new ones, and give explicit expressions for all of them.
+","[{""version"":""v1"",""created"":""Wed, 16 Jun 1993 19:21:53 GMT""},{""version"":""v2"",""created"":""Mon, 21 Jun 1993 17:14:49 GMT""}]","2009-10-22"
+"hep-th/9306073",,"M.C. Diamantini, P. Sodano and C. A. Trugenberger","Topological Excitations in Compact Maxwell-Chern-Simons Theory","harvmac, CERN-TH. 6906/93, DFUPG 80/93","Phys.Rev.Lett. 71 (1993) 1969-1972","10.1103/PhysRevLett.71.1969",,"hep-th cond-mat hep-lat",,"  We construct a lattice model of compact (2+1)-dimensional Maxwell-Chern-
+Simons theory, starting from its formulation in terms of gauge invariant
+quantities proposed by Deser and Jackiw. We thereby identify the topological
+excitations and their interactions. These consist of monopolo- antimonopole
+pairs bounded by strings carrying both magnetic flux and electric charge. The
+electric charge renders the Dirac strings observable and endows them with a
+finite energy per unit length, which results in a linearly confining string
+tension. Additionally, the strings interact via an imaginary, topological term
+measuring the (self-) linking number of closed strings.
+","[{""version"":""v1"",""created"":""Wed, 16 Jun 1993 18:23:19 GMT""}]","2009-10-22"
+"hep-th/9306074","Jens Erler","Jens Erler","Breakdown of Duality in (0,2) Superstring Models","10 pages of LaTeX, UPR--0574T",,,,"hep-th",,"  After pointing out the role of the compactification lattice for spectrum
+calculations in orbifold models, I discuss modular discrete symmetry groups for
+$Z_N$ or\-bi\-folds. I consider the $Z_7$ orbifold as a nontrivial example of a
+(2,2) model and give the generators of the modular group for this case, which
+does not contain $[SL(2,{\bf Z})]^3$ as had been speculated. I also discuss how
+to treat cases where quantized Wilson lines are present. I consider in detail
+an example, demonstrating that quantized Wilson lines affect the modular group
+in a nontrivial manner. In particular, I show that it is possible for a Wilson
+line to break $SL(2,{\bf Z})$.}
+","[{""version"":""v1"",""created"":""Wed, 16 Jun 1993 20:39:38 GMT""}]","2007-05-23"
+"hep-th/9306075","Evan Reidell","R. Jackiw","(Constrained) Quantization Without Tears","16 pages in Plain TeX, MIT CTP #2215",,,,"hep-th",,"  An alternative to Dirac's constrained quantization procedure is explained.
+","[{""version"":""v1"",""created"":""Wed, 16 Jun 1993 20:24:15 GMT""}]","2007-05-23"
+"hep-th/9306076","Hoi Kwong Lo","Hoi-Kwong Lo","Exact Wavefunctions for non-Abelian Chern-Simons Particles","19 pages, CALT-68-1875","Phys.Rev.D48:4999-5005,1993","10.1103/PhysRevD.48.4999",,"hep-th cond-mat",,"  Exact wavefunctions for N non-Abelian Chern-Simons (NACS) particles are
+obtained by the ladder operator approach. The same method has previously been
+applied to construct exact wavefunctions for multi-anyon systems. The two
+distinct base states of the NACS particles that we use are multi-valued and are
+defined in terms of path ordered line integrals. Only strings of operators that
+preserve the monodromy properties of these base states are allowed to act on
+them to generate new states.
+","[{""version"":""v1"",""created"":""Wed, 16 Jun 1993 23:21:40 GMT""}]","2014-11-18"
+"hep-th/9306077","Andrei Matytsin","A. Matytsin","On the Large N Limit of the Itzykson-Zuber Integral","19 pages","Nucl.Phys. B411 (1994) 805-820","10.1016/0550-3213(94)90471-5",,"hep-th",,"  We study the large N limit of the Itzykson -- Zuber integral and show that
+the leading term is given by the exponent of an action functional for the
+complex inviscid Burgers (Hopf) equation evaluated on its particular classical
+solution; the eigenvalue densities that enter in the IZ integral being the
+imaginary parts of the boundary values of this solution. We show how this
+result can be applied to ``induced QCD"" with an arbitrary potential $U(x)$. We
+find that for a nonsingular $U(x)$ in one dimension the eigenvalue density
+$\rho(x)$ at the saddle point is the solution of the functional equation
+$G_{+}(G_{-}(x))=G_{-}(G_{+}(x))=x$, where $G_{\pm}(x) \equiv
+{1\over{2}}U^{\prime}(x)\pm i\pi \rho(x)$. As an illustration we present a
+number of new particular solutions of the $c=1$ matrix model on a discrete real
+line.
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 01:49:38 GMT""}]","2009-10-22"
+"hep-th/9306078",,"Giovanni Modanese (Center for Theoretical Physics, M.I.T., Cambridge,
+  MA U.S.A.)","A formula for the static potential energy in quantum gravity","13 pages, LaTex, report CTP #2217, June 1993. -- REVISED VERSION: the
+  section ""Interaction energy versus ADM energy has been rewritten""",,,,"hep-th",,"  We give a general expression for the static potential energy of the
+gravitational interaction of two massive particles, in terms of an invariant
+vacuum expectation value of the quantized gravitational field. This formula
+holds for functional integral formulations of euclidean quantum gravity,
+regularized to avoid conformal instability. It could be regarded as the
+analogue of the Wilson loop for gauge theories and allows in principle, through
+numerical simulations or other approximation techniques, non perturbative
+evaluations of the potential or of the effective coupling constant. The
+geometrical meaning of this expression is quite simple, as it represents the
+``average proper-time delay'', respect to two neighboring lines, of a very long
+geodesic with unit timelike tangent vector.
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 09:16:52 GMT""},{""version"":""v2"",""created"":""Mon, 8 Nov 1993 18:15:16 GMT""}]","2008-02-03"
+"hep-th/9306079",,"E. Ragoucy","Osp(1|2) and Sl(2) Reductions in Generalised Super-Toda Models and
+  Factorization of Spin 1/2 Fields","22 pages, Latex, NORDITA-93/39 P","Nucl.Phys. B411 (1994) 778-804","10.1016/0550-3213(94)90470-7",,"hep-th",,"  I show that the classical Toda models built on superalgebras, and obtained
+from a reduction with respect to an $Sl(2)$ algebra, are ""linearly
+supersymmetrizable"" (by adding spin 1/2 fields) if and only if the $Sl(2)$ is
+the bosonic part of an $OSp(1|2)$ algebra. In that case, the model is
+equivalent to the one constructed from a reduction with respect to the
+$OSp(1|2)$ algebra, up to spin 1/2 fields. The corresponding $W$ algebras are
+related through a factorization of spin 1/2 fields (bosons and fermions). I
+illustrate this factorization on an example: the superconformal algebra built
+on $Sl(n+1|2)$.
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 08:39:23 GMT""}]","2009-10-22"
+"hep-th/9306080","Damiano Anselmi","Damiano Anselmi and Pietro Fre'","Topological Sigma-Models in Four Dimensions and Triholomorphic Maps","43 pages, LaTeX file, SISSA/ISAS 73/93/EP. (reference [32] corrected)","Nucl.Phys. B416 (1994) 255-300","10.1016/0550-3213(94)90585-1",,"hep-th",,"  It is well-known that topological sigma-models in 2 dimensions constitute a
+path-integral approach to the study of holomorphic maps from a Riemann surface
+S to an almost complex manifold K, the most interesting case being that where K
+is a Kahler manifold. We show that, in the same way, topological sigma-models
+in 4 dimensions introduce a path integral approach to the study of
+triholomorphic maps q:M-->N from a 4dimensional Riemannian manifold M to an
+almost quaternionic manifold N. The most interesting cases are those where M, N
+are hyperKahler or quaternionic Kahler. BRST-cohomology translates into
+intersection theory in the moduli-space of this new class of instantonic maps,
+named by us hyperinstantons. The definition of triholomorphicity that we
+propose is expressed by the equation q_*-J_u q_* j_u = 0, u=1,2,3, where {j_u}
+is an almost quaternionic structure on M and {J_u} is an almost quaternionic
+structure on N. This is a generalization of the Cauchy-Fueter equations. For M,
+N hyperKahler, this generalization naturally arises by obtaining the
+topological sigma-model as a twisted version of the N=2 globally supersymmetric
+sigma-model. We discuss various examples of hyperinstantons, in particular on
+the torus and the K3 surface. We also analyse the coupling of the topological
+sigma-model to topological gravity. The study of
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 12:47:08 GMT""},{""version"":""v2"",""created"":""Sat, 19 Jun 1993 08:23:36 GMT""}]","2009-10-22"
+"hep-th/9306081","Laurent Houart","Laurent Houart","Matrix Models and Integrable C<1 Open String Theories","4 pages(LaTex),ULB-TH-06/93","Int.J.Mod.Phys.D3:203-206,1994","10.1142/S0218271894000290",,"hep-th",,"  No change at all but this time is possible to typset it!.
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 15:50:23 GMT""},{""version"":""v2"",""created"":""Mon, 21 Jun 1993 16:00:06 GMT""}]","2010-11-01"
+"hep-th/9306128","Gleb Arutyunov","G. E. Arutyunov","Representations of the compact quantum group $SU_q(N)$ and geometrical
+  quantization","13 pages","Theor.Math.Phys. 100 (1995) 921-927; Teor.Mat.Fiz. 100N2 (1994)
+  163-172","10.1007/BF01016754","SMI-6-93","hep-th math.QA",,"  The method of geometrical quantization of symplectic manifolds is applied to
+constructing infinite dimensional irreducible unitary representations of the
+algebra of functions on the compact quantum group $SU_q(2)$. A formulation of
+the method for the general case $SU_q(n)$ is suggested. (This work is the
+English version of the article submitted for publication in Algebra Analiz.)
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 09:42:16 GMT""}]","2009-10-22"
+"nucl-th/9306017","Peter Henning","P.A.Henning","Thermo Field Dynamics and Kinetic Coefficients of a Charged Boson Gas","27 pages in LaTeX GSI-Preprint 93-45 (1993)","Nucl.Phys. A567 (1994) 844-864","10.1016/0375-9474(94)90330-1",,"nucl-th",,"  Thermo Field Dynamics for inhomogeneous systems is generalized to quantum
+fields with a continuous single-particle mass spectrum. The modification of the
+hamiltonian in states with a local thermal Bogoliubov symmetry is used to
+calculate thermal conductivity and diffusion coefficient of pions interacting
+with hot, compressed nuclear matter.
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 11:23:26 GMT""}]","2009-10-22"
+"nucl-th/9306018","Ami Leviatan","R. Bijker and A. Leviatan","Algebraic Treatment of Collective Excitations in Baryon Spectroscopy","15 pages in Latex, to appear in `Symmetries in Science VII', ed. B.
+  Gruber (Plenum Press, New York, 1993)",,,,"nucl-th",,"  We present an algebraic U(7) model for baryons which encompasses both
+single-particle and collective forms of quark dynamics. The mass operator by
+construction preserves the permutation symmetry between identical quarks. The
+underlying geometric structure of baryons is discussed in terms of a rigid
+rotating and vibrating oblate top shape. The model is applied to the mass
+spectrum of nonstrange baryons.
+","[{""version"":""v1"",""created"":""Thu, 17 Jun 1993 15:53:00 GMT""}]","2007-05-23"
+"solv-int/9306002","Peter Clarkson","Peter A. Clarkson and Elizabeth L. Mansfield (Department of
+  Mathematics, University of Exeter, Exeter, U.K. and Program in Applied
+  Mathematics, University of Colorado, Boulder, CO, U.S.A.)","Symmetry Reductions and Exact Solutions of a class of Nonlinear Heat
+  Equations","Latex file 32 pages, 13 figures available from author",,,"PAM #145","solv-int nlin.SI",,"  Classical and nonclassical symmetries of the nonlinear heat equation
+$$u_t=u_{xx}+f(u),\eqno(1)$$ are considered. The method of differential
+Gr\""obner bases is used both to find the conditions on $f(u)$ under which
+symmetries other than the trivial spatial and temporal translational symmetries
+exist, and to solve the determining equations for the infinitesimals. A
+catalogue of symmetry reductions is given including some new reductions for the
+linear heat equation and a catalogue of exact solutions of (1) for cubic $f(u)$
+in terms of the roots of $f(u)=0$.
+","[{""version"":""v1"",""created"":""Wed, 16 Jun 1993 19:02:15 GMT""}]","2008-02-03"

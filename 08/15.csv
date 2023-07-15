@@ -1,0 +1,102 @@
+"hep-th/9308069","Samir Mathur","Samir D. Mathur","Information Retrieval from a Charge `Trap'","21 pages, 1 figure, harvmac",,,,"hep-th",,"  We study the model of massless $1+1$ electrodynamics with nonconstant
+coupling, introduced by Peet, Susskind and Thorlacius as the `charge hole'. But
+we take the boundary of the strong coupling region to be first timelike, then
+spacelike for a distance $X$, and then timelike again (to mimic the structure
+of a black hole). For an incident charge pulse entering this `charge trap' the
+charge and information get separated. The charge comes out near the endpoint of
+the singularity. The `information' travels a well localised path through the
+strong coupling region and comes out later.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 02:34:29 GMT""}]","2007-05-23"
+"math/9308210","Shelah Office","Alan H. Mekler, Saharon Shelah","The canary tree",,"Canad. J. Math. 36 (1993), 209-215",,"Shelah [MkSh:398]","math.LO",,"  A canary tree is a tree of cardinality the continuum which has no uncountable
+branch, but gains a branch whenever a stationary set is destroyed (without
+adding reals). Canary trees are important in infinitary model theory. The
+existence of a canary tree is independent of ZFC + GCH.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9308211","Shelah Office","Paul C. Eklof, Saharon Shelah","On a conjecture regarding nonstandard uniserial modules",,"Trans. Amer. Math. Soc. 340 (1993), 337--351",,"Shelah [EkSh:422]","math.LO math.RA",,"  We consider the question of which valuation domains (of cardinality aleph_1)
+have non-standard uniserial modules. We show that a criterion conjectured by
+Osofsky is independent of ZFC + GCH.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9308212","Shelah Office","Saharon Shelah","On CH + 2^{aleph_1}-> (alpha)^2_2 for alpha < omega_2",,"Lecture Notes Logic 2 (1993), 281--289",,"Shelah [Sh:424]","math.LO",,"  We prove the consistency of ``CH + 2^{aleph_1} is arbitrarily large +
+2^{aleph_1} not-> (omega_1 x omega)^2_2''. If fact, we can get 2^{aleph_1}
+not-> [omega_1 x omega]^2_{aleph_0}. In addition to this theorem, we give
+generalizations to other cardinals.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9308213","Shelah Office","Paul C. Eklof, Alan H. Mekler, Saharon Shelah","On coherent systems of projections for aleph_1 separable groups",,"Comm. Algebra 21 (1993), 343--353",,"Shelah [EMSh:426]","math.LO math.RA",,"  It is proved consistent with either CH or the negation of CH that there is an
+aleph_1-separable group of cardinality aleph_1 which does not have a coherent
+system of projections. It had previously been shown that it is consistent with
+not CH that every aleph_1-separable group of cardinality aleph_1 does have a
+coherent system of projections.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9308214","Shelah Office","Saharon Shelah, Juris Stepr\=ans","Somewhere trivial automorphisms",,"J. London Math. Soc. 49 (1994), 569--580",,"Shelah [ShSr:427]","math.LO math.GN",,"  It is shown to be consistent that there is a non-trivial autohomeomorphism of
+beta N while all such autohomeomorphisms are trivial on some open set. The
+model used is one due to Velickovic in which, coincidentally, Martin's Axiom
+also holds.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9308215","Shelah Office","Reinhard Diestel, Saharon Shelah, Juris Stepr\=ans","Dominating functions and graphs",,"J. London Math. Soc. 49 (1994), 16--24",,"Shelah [DShS:443]","math.LO",,"  A graph is called dominating if its vertices can be labelled with integers in
+such a way that for every function f: omega-> omega the graph contains a ray
+whose sequence of labels eventually exceeds f. We obtain a characterization of
+these graphs by producing a small family of dominating graphs with the property
+that every dominating graph must contain some member of the family.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9308216","Shelah Office","Garvin Melles, Saharon Shelah","A saturated model of an unsuperstable theory of cardinality greater than
+  its theory has the small index property",,"Proc. London Math. Soc. 69 (1994), 449--463",,"Shelah [MeSh:450]","math.LO",,"  A model M of cardinality lambda is said to have the small index property if
+for every G subseteq Aut(M) such that [Aut(M):G] <= lambda there is an A
+subseteq M with |A|< lambda such that Aut_A(M) subseteq G. We show that if M^*
+is a saturated model of an unsuperstable theory of cardinality > Th(M), then
+M^* has the small index property.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9308217","Shelah Office","Saharon Shelah","Number of open sets for a topology with a countable basis",,"Israel J. Math. 83 (1993), 369--374",,"Shelah [Sh:454]","math.LO math.GN",,"  Let T be the family of open subsets of a topological space (not necessarily
+Hausdorff or even T_0). We prove that if T has a countable base and is not
+countable, then T has cardinality at least continuum.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9308218","Shelah Office","Renling Jin, Saharon Shelah","A model in which there are Jech-Kunen trees but there are no Kurepa
+  trees",,"Israel J. Math. 84 (1993), 1--16",,"Shelah [JiSh:466]","math.LO",,"  By an omega_1 --tree we mean a tree of power omega_1 and height omega_1. We
+call an omega_1 --tree a Jech--Kunen tree if it has kappa --many branches for
+some kappa strictly between omega_1 and 2^{omega_1}. In this paper we construct
+the models of CH plus 2^{omega_1}> omega_2, in which there are Jech--Kunen
+trees and there are no Kurepa trees.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9308219","Shelah Office","Shmuel Lifsches, Saharon Shelah","Peano Arithmetic may not be interpretable in the monadic theory of
+  orders",,"J. Symbolic Logic 62 (1997), 848--872",,"Shelah [LeSh:471]","math.LO",,"  Gurevich and Shelah have shown that Peano Arithmetic cannot be interpreted in
+the monadic second-order theory of short chains (hence, in the monadic
+second-order theory of the real line). We show here that it is consistent that
+there is no interpretation even in the monadic second-order theory of all
+chains.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9308220","Shelah Office","Lorenz Halbeisen, Saharon Shelah","Consequences of arithmetic for set theory",,"J. Symbolic Logic 59 (1994), 30--40",,"Shelah [HlSh:488]","math.LO",,"  In this paper, we consider certain cardinals in ZF (set theory without AC,
+the Axiom of Choice). In ZFC (set theory with AC), given any cardinals C and D,
+either C <= D or D <= C. However, in ZF this is no longer so. For a given
+infinite set A consider Seq(A), the set of all sequences of A without
+repetition. We compare |Seq(A)|, the cardinality of this set, to |P(A)|, the
+cardinality of the power set of A.
+  What is provable about these two cardinals in ZF? The main result of this
+paper is that
+  ZF |- for all A: |Seq(A)| not= |P(A)|
+  and we show that this is the best possible result.
+  Furthermore, it is provable in ZF that if B is an infinite set, then
+|fin(B)|<|P(B)|, even though the existence for some infinite set B^* of a
+function f from fin(B^*) onto P(B^*) is consistent with ZF.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9308221","Shelah Office","Peter Komjath, Saharon Shelah","Universal graphs without large cliques",,"J. Combin. Theory Ser. B 63 (1995), 125--135",,"Shelah [KoSh:492]","math.LO",,"  We give some existence/nonexistence statements on universal graphs, which
+under GCH give a necessary and sufficient condition for the existence of a
+universal graph of size lambda with no K(kappa), namely, if either kappa is
+finite or cf(kappa)>cf(lambda). (Here K(kappa) denotes the complete graph on
+kappa vertices.) The special case when lambda^{< kappa}= lambda was first
+proved by F. Galvin. Next, we investigate the question that if there is no
+universal K(kappa)-free graph of size lambda then how many of these graphs
+embed all the other. It was known, that if lambda^{< lambda}= lambda (e.g., if
+lambda is regular and the GCH holds below lambda), and kappa = omega, then this
+number is lambda^+. We show that this holds for every kappa <= lambda of
+countable cofinality. On the other hand, even for kappa = omega_1, and any
+regular lambda >= omega_1 it is consistent that the GCH holds below lambda,
+2^{lambda} is as large as we wish, and the above number is either lambda^+ or
+2^{lambda}, so both extremes can actually occur.
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9308222","Shelah Office","Peter Komjath, Saharon Shelah","On uniformly antisymmetric functions",,"Real Anal. Exchange 19 (1993-1994), 218--225",,"Shelah [KoSh:502]","math.LO",,"  We show that there is always a uniformly antisymmetric f:A-> {0,1} if A
+subset R is countable. We prove that the continuum hypothesis is equivalent to
+the statement that there is an f:R-> omega with |S_x| <= 1 for every x in R. If
+the continuum is at least aleph_n then there exists a point x such that S_x has
+at least 2^n-1 elements. We also show that there is a function f:Q-> {0,1,2,3}
+such that S_x is always finite, but no such function with finite range on R
+exists
+","[{""version"":""v1"",""created"":""Sun, 15 Aug 1993 00:00:00 GMT""}]","2016-09-06"

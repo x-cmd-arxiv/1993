@@ -1,0 +1,45 @@
+"cond-mat/9310018","Kai Nagel","K. Nagel","Life-Times of Simulated Traffic Jams","latex, figs. available upon request, WP-Cologne 93.141",,"10.1142/S012918319400074X",,"cond-mat adap-org chao-dyn nlin.AO nlin.CD nlin.PS patt-sol",,"  We study a model for freeway traffic which includes strong noise taking into
+account the fluctuations of individual driving behavior. The model shows
+emergent traffic jams with a self-similar appearance near the throughput
+maximum of the traffic. The lifetime distribution of these jams shows a short
+scaling regime, which gets considerably longer if one reduces the fluctuations
+for driving at maximum speed but leaves the fluctuations for slowing down or
+accelerating unchanged. The outflow from a traffic jam self-organizes into this
+state of maximum throughput.
+","[{""version"":""v1"",""created"":""Sun, 10 Oct 1993 01:59:32 GMT""}]","2009-10-22"
+"cond-mat/9310019","Kai Nagel","K. Nagel","Fast Low Fidelity Microsimulation of Vehicle Traffic on Supercomputers","11 pages, latex, figs. available upon request, Cologne-WP 93.140",,,,"cond-mat nlin.PS patt-sol",,"  A set of very simple rules for driving behavior used to simulate roadway
+traffic gives realistic results. Because of its simplicity, it is easy to
+implement the model on supercomputers (vectorizing and parallel), where we have
+achieved real time limits of more than 4~million~kilometers (or more than
+53~million vehicle sec/sec). The model can be used for applications where both
+high simulation speed and individual vehicle resolution are needed. We use the
+model for extended statistical analysis to gain insight into traffic phenomena
+near capacity, and we discuss that this model is a good candidate for network
+routing applications. (Submitted to Transportation Research Board Meeting, Jan.
+1994, Washington D.C.)
+","[{""version"":""v1"",""created"":""Sun, 10 Oct 1993 02:09:40 GMT""}]","2008-02-03"
+"hep-lat/9310012","Stephane Lantagne","H. Kr\""oger, S. Lantagne and K.J.M. Moriarty","Momentum Lattice Simulation on a Small Lattice Using Stochastic
+  Quantization","LaTeX, 6 pages plus 3 figures included, Laval preprint
+  LAVAL-PHY-31-93","J.Comput.Phys. 122 (1995) 335","10.1006/jcph.1995.1219",,"hep-lat",,"  We have studied the scalar $\phi^4$-model in the symmetric phase and the
+non--compact $U(1)$ gauge theory on a momentum lattice using the Langevin
+equation for generating configurations. In the $\phi^4$-model we have analyzed
+the renormalized mass and in the $U(1)$-model we have analyzed the Wilson loop
+operator. We used a second order algorithm for solving the Langevin equation,
+and we looked for the convergence rate of the method. We studied the stochastic
+time needed to generate equilibrium configurations and compared first and
+second order schemes for both models.
+","[{""version"":""v1"",""created"":""Sat, 9 Oct 1993 21:03:13 GMT""}]","2015-06-25"
+"hep-th/9310055","F. Ferrari","Franco Ferrari","On the Schwinger Model on Riemann Surfaces","22 pages, plain TeX + harvmac, Preprint MPI-Ph/93-71, LMU-TPW 93-26","Nucl.Phys.B439:692-710,1995","10.1016/0550-3213(95)00068-4",,"hep-th gr-qc",,"  In this paper, the massless Schwinger model or two dimensional quantum
+electrodynamics is exactly solved on a Riemann surface. The partition function
+and the generating functional of the correlation functions involving the
+fermionic currents are explicitly derived using a method of quantization valid
+for any abelian gauge field theory and explained in the recent references [F.
+Ferrari, {\it Class. Quantum Grav.} {\bf 10} (1993), 1065], [F. Ferrari, hep-th
+9310024]. In this sense, the Schwinger model is one of the few examples of
+interacting and nontopological field theories that are possible to quantize on
+a Riemann surface. It is also shown here that the Schwinger model is equivalent
+to a nonlocal integrable model which represents a generalization of the
+Thirring model. Apart from the possible applications in string theory and
+integrable models, we hope that this result can be also useful in the study of
+quantum field theories in curved space-times.
+","[{""version"":""v1"",""created"":""Sat, 9 Oct 1993 17:06:55 GMT""}]","2011-08-11"

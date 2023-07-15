@@ -1,0 +1,256 @@
+"astro-ph/9305020","Marc Kamionkowski","Marc Kamionkowski and John N. Bahcall","The Rate of the Proton-Proton Reaction","22 pages, (phyzzx.tex, 4 figures not included, available upon
+  request), IASSNS-HEP-93/21, IASSNS-AST-93/20","Astrophys.J. 420 (1994) 884-891","10.1086/173612",,"astro-ph hep-ph nucl-th",,"  We re-evaluate the matrix element for the proton-proton reaction which is
+important for stellar-evolution calculations and for the solar-neutrino
+problem. We self-consistently determine the effect of vacuum polarization on
+the matrix element by first correcting the low-energy scattering data to
+account for vacuum polarization. We then calculate the proton-proton wave
+function by integrating the Schrodinger equation with vacuum polarization
+included. We use improved data for proton-proton scattering and for the
+deuteron wave function. We evaluate the uncertainties that are due to
+experimental error and estimate those that are due to theoretical inadequacies.
+We estimate the theoretical uncertainty by using six different deuteron
+potentials and five different proton-proton potentials. Vacuum polarization
+decreases the calculated value by $0.6_{-0.4}^{+0.1}$\%. The complete result is
+$\Lambda^2=6.92\times(1\pm0.002^{+0.014}_{-0.009})$ where the first uncertainty
+is due to experimental errors and the second uncertainty is due to theoretical
+uncertainties. Our value of $\Lambda^2$ is 2\% smaller than the value obtained
+in 1969 by Bahcall and May. The improved calculations of the rate of the $pp$
+reaction described here increase slightly the predicted event rates for the
+chlorine and the Kamiokande solar-neutrino experiments.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 18:18:28 GMT""},{""version"":""v2"",""created"":""Thu, 24 Jun 1993 18:46:05 GMT""}]","2009-10-22"
+"chao-dyn/9305007","Carmen Chicone","Carmen Chicone (Department of Mathematics, University of Missouri
+  Columbia, MO 65211)","Periodic Solutions of a System of Coupled Oscillators Near Resonance","File is LaTeX siam style",,,,"chao-dyn nlin.CD",,"  Summary: A system of autonomous ordinary differential equations depending on
+a small parameter is considered such that the unperturbed system has an
+invariant manifold of periodic solutions that is not normally hyperbolic but is
+normally nondegenerate. The bifurcation function whose zeros are the
+bifurcation points for families of perturbed periodic solutions is determined.
+This result is applied to find the periodic solutions near resonance for a two
+degree of freedom mechanical system modeling a rotor interacting with an
+elastic support.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 21:58:45 GMT""}]","2008-02-03"
+"cond-mat/9305017","Eduardo Miranda","P. Coleman, E. Miranda and A. Tsvelik","Odd Frequency Pairing in the Kondo Lattice","67 pages",,"10.1103/PhysRevB.49.8955",,"cond-mat",,"  We discuss the possibility that heavy fermion superconductors involve
+odd-frequency pairing of the kind first considered by Berezinskii. Using a toy
+model for odd frequency triplet pairing in the Kondo lattice we are able to
+examine key properties of this new type of paired state. To make progress
+treating the strong $n_f=1$ constraint in the Kondo lattice model we use the
+technical trick of a Majorana representation of the local moments, which
+permits variational treatments of the model without a Gutzwiller approximation.
+The simplest mean field theory involves the development of bound states between
+the local moments and conduction electrons, characterized by a spinor order
+parameter. We show that this state is a stable realization of odd frequency
+triplet superconductivity with surfaces of gapless excitations whose spin and
+charge coherence factors vanish linearly in the quasiparticle energy. A $T^3$
+NMR relaxation rate coexists with a linear specific heat. We discuss possible
+extensions of our toy model to describe heavy fermion superconductivity.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 17:40:18 GMT""}]","2009-10-22"
+"cond-mat/9305018","Andrei Ruckenstein","Daniel L. Cox and Andrei E. Ruckenstein","Spin-Flavor Separation and Non-Fermi Liquid Behavior in the Multichannel
+  Kondo Problem: A Large N Approach","14 pages, 1 Figure (Poscript file attached), Revtex",,"10.1103/PhysRevLett.71.1613",,"cond-mat",,"  We consider a $SU(N)\times SU(M)$ generalization of the multichannel
+single-impurity Kondo model which we solve analytically in the limit
+$N\rightarrow \infty$, $M\rightarrow\infty$, with $\gamma=M/N$ fixed. Non-Fermi
+liquid behavior of the single electron Green function and of the local spin and
+flavor susceptibilities occurs in both regimes, $N\le M$ and $N > M$, with
+leading critical exponents {\em identical} to those found in the conformal
+field theory solution for {\em all} $N$ and $M$ (with $M\ge 2$). We explain
+this remarkable agreement and connect it to ``spin-flavor separation"", the
+essential feature of the non-Fermi-liquid fixed point of the multichannel Kondo
+problem.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 02:34:40 GMT""},{""version"":""v2"",""created"":""Tue, 18 May 1993 12:58:09 GMT""},{""version"":""v3"",""created"":""Tue, 1 Jun 1993 12:29:54 GMT""}]","2009-10-22"
+"cond-mat/9305019","Hans Gerd Evertz, Scri","H.G. Evertz and M. Marcu","Vertex Models and Quantum Spin Systems: a nonlocal approach","13 pages, LaTeX (2 LaTeX figures), FSU-SCRI-93C-65","Computer Simulations in Condensed Matter Physics VI, ed. D.P.
+  Landau et al., Springer Proceedings in Physics 76, 1993, p. 109",,,"cond-mat hep-lat",,"  Within a general cluster framework, we discuss the loop-algorithm, a new type
+of cluster algorithm that reduces critical slowing down in vertex models and in
+quantum spin systems. We cover the example of the 6-vertex model in detail. For
+the F-model, we present numerical results that demonstrate the effectiveness of
+the loop algorithm. We discuss how to modify the original algorithm for some
+more complicated situations, especially for quantum spin systems in one and two
+dimensions.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 20:32:49 GMT""}]","2007-05-23"
+"cond-mat/9305020","Aloysius Gottlob","A.P.Gottlob and M.Hasenbusch","Critical Behaviour of the 3D XY-Model: A Monte Carlo Study","24 pages (4 PS-Figures Not included, Revtex 3.O file), report No.:
+  CERN-TH.6885/93, KL-TH-93/10",,"10.1016/0378-4371(93)90131-M",,"cond-mat hep-lat",,"  We present the results of a study of the three-dimensional $XY$-model on a
+simple cubic lattice using the single cluster updating algorithm combined with
+improved estimators. We have measured the susceptibility and the correlation
+length for various couplings in the high temperature phase on lattices of size
+up to $L=112$. At the transition temperature we studied the fourth-order
+cumulant and other cumulant-like quantities on lattices of size up to $L=64$.
+From our numerical data we obtain for the critical coupling
+$\coup_c=0.45420(2)$, and for the static critical exponents $\gamma
+/\nu=1.976(6)$ and $\nu=0.662(7)$.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 09:31:29 GMT""}]","2009-10-22"
+"gr-qc/9305014","H. Shinkai","Hisa-aki SHINKAI and Kei-ichi MAEDA","Can Gravitational Waves Prevent Inflation?","LaTeX, 11 pages, 3 figures are available on request <To
+  62L508@jpnwas00.bitnet (Hisa-aki SHINKAI)>, WU-AP/29/93","Phys.Rev.D48:3910-3913,1993","10.1103/PhysRevD.48.3910",,"gr-qc",,"  To investigate the cosmic no hair conjecture, we analyze numerically
+1-dimensional plane symmetrical inhomogeneities due to gravitational waves in
+vacuum spacetimes with a positive cosmological constant. Assuming periodic
+gravitational pulse waves initially, we study the time evolution of those waves
+and the nature of their collisions. As measures of inhomogeneity on each
+hypersurface, we use the 3-dimensional Riemann invariant ${\cal I}\equiv
+{}~^{(3)\!}R_{ijkl}~^{(3)\!}R^{ijkl}$ and the electric and magnetic parts of
+the Weyl tensor. We find a temporal growth of the curvature in the waves'
+collision region, but the overall expansion of the universe later overcomes
+this effect. No singularity appears and the result is a ``no hair"" de Sitter
+spacetime. The waves we study have amplitudes between $0.020\Lambda \leq {\cal
+I}^{1/2} \leq 125.0\Lambda$ and widths between $0.080l_H \leq l \leq 2.5l_H$,
+where $l_H=(\Lambda/3)^{-1/2}$, the horizon scale of de Sitter spacetime. This
+supports the cosmic no hair conjecture.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 12:29:58 GMT""}]","2010-11-01"
+"hep-ph/9305276","Lee Jaeyoung","C. Giunti, C.W. Kim and J.A. Lee","On the Treatment of Neutrino Oscillations Without Resort to Weak
+  Eigenstates","LaTeX-18pages, JHU-TIPAC-930011,DFTT 22/93","Phys.Rev. D48 (1993) 4310-4317","10.1103/PhysRevD.48.4310",,"hep-ph",,"  We discuss neutrino oscillations in the framework of the quantum field theory
+without introducing the concept of neutrino weak eigenstates. The external
+particles are described by wave packets and the different mass eigenstate
+neutrinos propagate between the production and detection interactions, which
+are macroscopically localized in space-time. The time-averaged cross section,
+which is the measurable quantity in the usual experimental setting, is
+calculated. It is shown that only in the extremely relativistic limit the usual
+quantum mechanical oscillation probability can be factored out of the cross
+section.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 17:24:47 GMT""}]","2009-10-22"
+"hep-ph/9305277","Kingman Cheung","V. Barger, Kingman Cheung, T. Han and D. Zeppenfeld","Finding the Leptonic $WW$ Decay Mode of a Heavy Higgs Boson","LaTex(Revtex), 9 pages, 6 figures (available upon request),
+  MAD/PH/757","Phys.Rev.D48:5433-5436,1993","10.1103/PhysRevD.48.5433",,"hep-ph",,"  We reanalyze the extraction of the heavy Higgs boson signal $H\rightarrow
+W^+W^-\rightarrow \bar\ell\nu,\ell\bar\nu$ $(\ell=e\hbox{ or }\mu)$ from the
+Standard Model background at hadron supercolliders, taking into account revised
+estimates of the top quark background. With new acceptance criteria the
+detection of the signal remains viable. Requiring a forward jet-tag, a central
+jet-veto, and a large relative transverse momentum of the two charged leptons
+yields $S/\sqrt B>6$ for one year of running at the SSC or LHC.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 18:10:16 GMT""}]","2016-09-01"
+"hep-ph/9305278","Goran Senjanovic","Gia Dvali and Goran Senjanovi\'c","Topologically Stable Electroweak Flux Tube","10 pages, LATEX","Phys.Rev.Lett. 71 (1993) 2376-2379","10.1103/PhysRevLett.71.2376",,"hep-ph",,"  We show that for a large range of parameters in a $SU(2)_L\times U(1)$
+electroweak theory with two Higgs doublets there may exist classically stable
+flux tubes of Z boson magnetic field. In a limit of an extra global $\tilde
+U(1)$ symmetry, these flux-tubes become topologically stable. These results are
+automatically valid even if $\tilde U(1)$ is gauged.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 18:41:52 GMT""}]","2009-10-22"
+"hep-ph/9305279","Russel Kauffman","Russel P. Kauffman and Wendy Schaffer","QCD Corrections to Production of Higgs Pseudoscalars","9 pages, (BNL number added, 1 typo corrected, PHYZZX format, 4
+  figures not included, available on request), BNL-49061","Phys.Rev.D49:551-554,1994","10.1103/PhysRevD.49.551",,"hep-ph",,"  Models of electroweak symmetry breaking with more than a single doublet of
+Higgs scalars contain a neutral pseudoscalar boson. The production of such a
+pseudoscalar in hadron collisions proceeds primarily via gluon fusion through a
+top-quark loop (except for those models in which the pseudoscalar coupling to
+bottom quarks is strongly enhanced). We compute the QCD corrections to this
+process in the heavy-quark limit, using an effective Lagrangian derived from
+the axial anomaly.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 20:13:06 GMT""},{""version"":""v2"",""created"":""Wed, 9 Jun 1993 18:51:24 GMT""}]","2011-01-13"
+"hep-ph/9305280",,"Andreas Ringwald","Multi-W(Z) Production in High-Energy Collisions?","15 pages, CERN-TH.6862/93",,,,"hep-ph astro-ph",,"  There exists the possibility that the cross-section for the nonperturbative
+production of many, ${\cal O}(\alpha_W^{-1} \simeq 30 )$, weak gauge bosons may
+be as large as ${\cal O}(100\ {\rm pb}\ -\ 10\ \mu$b$)$ above a parton-parton
+center-of-mass threshold in the range $2.4\ -\ 30$ TeV. We review the
+theoretical considerations which lead to this suggestion and outline its
+phenomenological implications, both for present cosmic ray as well as for
+future collider experiments. (Lecture presented at the 4th Hellenic School on
+Elementary Particle Physics, September 2-20, 1992, Corfu, Greece) (Figures not
+included, available by ordinary mail)
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 09:14:09 GMT""}]","2007-05-23"
+"hep-ph/9305281","Michal Praszalowicz","M. Prasza{\L}OWICZ, A. Blotz and K. Goeke (Ruhr-University Bochum,
+  Germany)","Hyperons as Solitons in Chiral Quark Model","8 pages, talk presented at XXVIII Rencontres de Moriond, LaTeX, needs
+  psifig.tex. Two figures included at the end as uudecoded poscript file",,,,"hep-ph",,"  The paper describes the quantization of the SU(3) smibosonized
+Nambu-Jona-Lasinio model and results for mass splittings, including isospin
+splittings, and axial couplings. The agreement with the data is surprisingly
+good.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 12:13:34 GMT""}]","2009-09-25"
+"hep-th/9305073","Warren Siegel","W. Siegel","Superspace Duality in Low-Energy Superstrings","27 pg., (uuencoded compressed postscript file; NO CHANGES to output)
+  ITP-SB-93-28","Phys.Rev. D48 (1993) 2826-2837","10.1103/PhysRevD.48.2826",,"hep-th",,"  We extend spacetime duality to superspace, including fermions in the
+low-energy limits of superstrings. The tangent space is a curved, extended
+superspace. The geometry is based on an enlarged coordinate space where the
+vanishing of the d'Alembertian is as fundamental as the vanishing of the curl
+of a gradient.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 16:33:58 GMT""},{""version"":""v2"",""created"":""Thu, 20 May 1993 16:00:20 GMT""}]","2009-10-22"
+"hep-th/9305074","Konstadinos Sfetsos","Konstadinos Sfetsos","Effective Action and Exact Geometry in Chiral Gauged WZW Models","19 pages, harvmac, USC-93/HEP-S1, (A typo in eq. 4.5 is corrected and
+  a note is added )",,,,"hep-th",,"  Following recent work on the effective quantum action of gauged WZW models,
+we suggest such an action for {\it chiral} gauged WZW models which in many
+respects differ from the usual gauged WZW models. Using the effective action we
+compute the conformally exact expressions for the metric, the antisymmetric
+tensor, and the dilaton fields in the $\s$-model arising from a general {\it
+chiral } gauged WZW model. We also obtain the general solution of the geodesic
+equations in the exact geometry. Finally we consider in some detail a three
+dimensional model which has certain similarities with the three dimensional
+black string model. Finally we consider in some detail a three dimensional
+model which has certain similarities with the three dimensional black string
+model.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 16:56:21 GMT""},{""version"":""v2"",""created"":""Sat, 22 May 1993 21:04:18 GMT""},{""version"":""v3"",""created"":""Mon, 2 Aug 1993 11:01:35 GMT""}]","2008-02-03"
+"hep-th/9305075","Rohrlich","Y. Aharonov, S. Popescu, D. Rohrlich, and L. Vaidman","Measurements, errors, and negative kinetic energy","22 pp, TAUP 1850-90",,"10.1103/PhysRevA.48.4084",,"hep-th cond-mat",,"  An analysis of errors in measurement yields new insight into the penetration
+of quantum particles into classically forbidden regions. In addition to
+``physical"" values, realistic measurements yield ``unphysical"" values which, we
+show, can form a consistent pattern. An experiment to isolate a particle in a
+classically forbidden region obtains negative values for its kinetic energy.
+These values realize the concept of a {\it weak value}, discussed in previous
+works.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 18:04:44 GMT""}]","2009-10-22"
+"hep-th/9305076",,"Ovid C. Jacob","Parity-Conserving Light-Cone Quantization of Quantum Field Theories","12 pages, phyzzx, SLAC-PUB-6188",,,,"hep-th",,"  Parity violation is a long standing problem in light-cone quantization.
+\REF\CPT{D. Soper, SLAC-REP-137, 1970, Chap. I . } \refend We propose a new
+quantization on the light-cone which treats both the $x^{+}$ and the $x^{-}$
+coordinates as light-cone 'times.'This quantization respects both parity and
+time-reversal. We find that now both $P^{-}$ and $P^{+}$ become dynamical.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 19:36:00 GMT""}]","2007-05-23"
+"hep-th/9305077","Antti Niemi","A.J. Niemi and K. Palo (Uppsala University)","On Quantum Integrability and the Lefschetz Number","11 pages","Mod.Phys.Lett.A8:2311-2322,1993","10.1142/S0217732393003615",,"hep-th",,"  Certain phase space path integrals can be evaluated exactly using equivariant
+cohomology and localization in the canonical loop space. Here we extend this to
+a general class of models. We consider hamiltonians which are {\it a priori}
+arbitrary functions of the Cartan subalgebra generators of a Lie group which is
+defined on the phase space. We evaluate the corresponding path integral and
+find that it is closely related to the infinitesimal Lefschetz number of a
+Dirac operator on the phase space. Our results indicate that equivariant
+characteristic classes could provide a natural geometric framework for
+understanding quantum integrability.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 06:51:36 GMT""}]","2011-07-19"
+"hep-th/9305078",,"S.Bellucci, E.Ivanov, S.Krivonos and A.Pichugin","N=2 Super Boussinesq Hierarchy: Lax Pairs and Conservation Laws","LaTeX, 10 p","Phys.Lett.B312:463-470,1993","10.1016/0370-2693(93)90983-O",,"hep-th",,"  We study the integrability properties of the one-parameter family of $N=2$
+super Boussinesq equations obtained earlier by two of us (E.I. \& S.K., Phys.
+Lett. B 291 (1992) 63) as a hamiltonian flow on the $N=2$ super-$W_3$ algebra.
+We show that it admits nontrivial higher order conserved quantities and hence
+gives rise to integrable hierarchies only for three values of the involved
+parameter, $\alpha=-2,\;-1/2,\;5/2$. We find that for the case $\alpha = -1/2$
+there exists a Lax pair formulation in terms of local $N=2$ pseudo-differential
+operators, while for $\alpha = -2$ the associated equation turns out to be
+bi-hamiltonian.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 15:58:09 GMT""},{""version"":""v2"",""created"":""Fri, 21 May 1993 10:41:56 GMT""}]","2009-11-05"
+"math/9305202","Klaas Pieter Hart","Alan Dow and Klaas Pieter Hart","\v{C}ech-Stone remainders of spaces that look like $[0,\infty)$",,"Acta Univ. Carolin. Math. Phys. 34 (1993), no. 2, 31--39",,"Logic E-prints May 18, 1993","math.LO",,"  We show that many spaces that look like the half~line~$\halfline=[0,\infty)$
+have, under~$\CH$, a \v{C}ech-Stone-remainder that is homeomorphic to~$\Hstar$.
+We also show that $\CH$ is equivalent to the statement that all standard
+subcontinua of~$\Hstar$ are homeomorphic. The proofs use Model-theoretic tools
+like reduced products and elementary equivalence; rather than constructing
+homeomorphisms we show that the spaces in question have isomorphic bases for
+the closed sets.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 00:00:00 GMT""}]","2009-09-25"
+"nucl-th/9305010","Hans Hersbach","H. Hersbach","Relativistic meson spectroscopy","26 pages REVTEX 3.0, 1 PS figure, THU-93/13",,,,"nucl-th hep-ph",,"  In this paper a relativistic quantum theory introduced by de Groot and
+\mbox{Ruijgrok} in 1975, is used as a quark model in momentum space. The
+complete spectrum, with the exception of the selfconjugate light unflavoured
+mesons, is calculated. The potential used consists of an one-gluon-exchange
+(OGE) part and a confining part. For the confining part a relativistic
+generalization of the linear plus constant potential was used, which is
+well-defined in momentum space without introducing any singularities. For the
+OGE part several potentials were investigated. Retardations were included at
+all places. Using a fitting procedure involving 52 well-established mesons,
+best results were obtained for a potential consisting of a purely vector
+Richardson potential and a purely scalar confining potential. In this way a
+vector confining is entirely induced by the Richardson potential. Reasonable
+results were also obtained for a modified Richardson potential. Most meson
+masses, with the exception of the $\pi$, the $K$ and the $K_0^*$, were found to
+be reasonably well described by the model.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 12:09:41 GMT""}]","2007-05-23"
+"patt-sol/9305005","Stephen Morris","Stephen W. Morris, Eberhard Bodenschatz, David S. Cannell, and Guenter
+  Ahlers ( Department of Physics and Center for Nonlinear Science, University
+  of California Santa Barbara, CA 93106-9530)","Spiral Defect Chaos in Large Aspect Ratio Rayleigh-Benard Convection","Preprint of experimental paper submitted to Phys. Rev. Lett. May 12
+  1993. Text is preceeded by many TeX macros. Figures 1 and 2 are rather long",,"10.1103/PhysRevLett.71.2026",,"patt-sol chao-dyn nlin.CD nlin.PS",,"  We report experiments on convection patterns in a cylindrical cell with a
+large aspect ratio. The fluid had a Prandtl number of approximately 1. We
+observed a chaotic pattern consisting of many rotating spirals and other
+defects in the parameter range where theory predicts that steady straight rolls
+should be stable. The correlation length of the pattern decreased rapidly with
+increasing control parameter so that the size of a correlated area became much
+smaller than the area of the cell. This suggests that the chaotic behavior is
+intrinsic to large aspect ratio geometries.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 05:44:28 GMT""},{""version"":""v2"",""created"":""Tue, 18 May 1993 16:50:06 GMT""},{""version"":""v3"",""created"":""Tue, 25 May 1993 23:42:31 GMT""}]","2009-10-22"
+"patt-sol/9305006","Harvey Shepard","Fred Cooper (LANL and UNH), Harvey Shepard (UNH), and Pasquale Sodano
+  (U. Perugia)","Solitary Waves and Compactons in a class of Generalized Korteweg-DeVries
+  Equations","16 pages. LaTeX. Figures available upon request (Postscript or hard
+  copy)",,"10.1103/PhysRevE.48.4027",,"patt-sol nlin.PS",,"  We study the class of generalized Korteweg-DeVries equations derivable from
+the Lagrangian: $ L(l,p) = \int \left( \frac{1}{2} \vp_{x} \vp_{t} - {
+{(\vp_{x})^{l}} \over {l(l-1)}} + \alpha(\vp_{x})^{p} (\vp_{xx})^{2} \right)
+dx, $ where the usual fields $u(x,t)$ of the generalized KdV equation are
+defined by $u(x,t) = \vp_{x}(x,t)$. This class contains compactons, which are
+solitary waves with compact support, and when $l=p+2$, these solutions have the
+feature that their width is independent of the amplitude. We consider the
+Hamiltonian structure and integrability properties of this class of KdV
+equations. We show that many of the properties of the solitary waves and
+compactons are easily obtained using a variational method based on the
+principle of least action. Using a class of trial variational functions of the
+form $u(x,t) = A(t) \exp \left[-\beta (t) \left|x-q(t) \right|^{2n} \right]$ we
+find soliton-like solutions for all $n$, moving with fixed shape and constant
+velocity, $c$. We show that the velocity, mass, and energy of the variational
+travelling wave solutions are related by $ c = 2 r E M^{-1}$, where $ r =
+(p+l+2)/(p+6-l)$, independent of $n$.\newline \newline PACS numbers: 03.40.Kf,
+47.20.Ky, Nb, 52.35.Sb
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 15:36:27 GMT""}]","2009-10-22"

@@ -1,0 +1,267 @@
+"astro-ph/9302018",,"Arnon Dar, Ari Laor, and Abraham Loeb","Constraints on the Cosmic Rays in the Small Magellanic Cloud","4 pages, phyzzx file, Institute for Advanced Study number AST 93/8","Phys.Rev.Lett. 71 (1993) 3394","10.1103/PhysRevLett.71.3394",,"astro-ph",,"  We show that recent $\gamma$-ray observations of the Small Magellanic Cloud
+with EGRET rule out a universal cosmic ray flux only at energies below $\approx
+10$ GeV, while the observed diffuse X-ray and $\gamma$-ray background
+radiations have already ruled out, by more than three orders of magnitude, a
+universal extragalactic cosmic ray flux identical to that observed in the local
+solar neighborhood at energies below $10^6$ GeV.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 16:22:00 GMT""}]","2009-10-22"
+"comp-gas/9302002","James Theiler","James Theiler and Turab Lookman","Statistical error in a chord estimator of correlation dimension: the
+  ``rule of five''","CYCLER Paper 93feb010 Compress'ed PostScript file",,"10.1142/S0218127493000672",,"comp-gas nlin.CG",,"  The statistical precision of a chord method for estimating fractal dimension
+from a correlation integral is derived. The optimal chord length is determined,
+and a comparison is made to other estimators. These calculations use the
+approximation that all pairwise distances between the points are statistically
+independent; the adequacy of this approximation is assessed numerically. The
+chord method provides a very quick and easy dimension estimate which is only
+slightly less precise than the optimal estimator. Keywords: correlation
+dimension, statistical error
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 00:00:00 GMT""}]","2019-06-05"
+"comp-gas/9302003","James Theiler","James Theiler (LANL/SFI), Paul S. Linsay (MIT), and David M. Rubin
+  (USGS)","Detecting Nonlinearity in Data with Long Coherence Times","26 pages, Postscript, includes figures embedded in text. This version
+  fixes a very old postscript bug which prevented the paper from being printed
+  out on some machines",,,"LA-UR-92-2335","comp-gas nlin.CG",,"  We consider the limitations of two techniques for detecting nonlinearity in
+time series. The first technique compares the original time series to an
+ensemble of surrogate time series that are constructed to mimic the linear
+properties of the original. The second technique compares the forecasting error
+of linear and nonlinear predictors. Both techniques are found to be problematic
+when the data has a long coherence time; they tend to indicate nonlinearity
+even for linear time series. We investigate the causes of these difficulties
+both analytically and with numerical experiments on ``real'' and
+computer-generated data. In particular, although we do see some initial
+evidence for nonlinear structure in the SFI dataset E, we are inclined to
+dismiss this evidence as an artifact of the long coherence time.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 00:00:00 GMT""},{""version"":""v2"",""created"":""Fri, 15 Jul 1994 21:57:48 GMT""}]","2008-02-03"
+"cond-mat/9302038","Fazekas Patrik","P. Fazekas and Hae-Young Kee (International Centre for Theoretical
+  Physics, Trieste, Italy)","Multi-Channel Kondo Necklace","29 pages (2 figures upon request from fazekas@itsictp.bitnet), LATEX,
+  submitted for publication","Phys. Rev. B 48, 7274 (1993)","10.1103/PhysRevB.48.7274",,"cond-mat",,"  A multi--channel generalization of Doniach's Kondo necklace model is
+formulated, and its phase diagram studied in the mean--field approximation. Our
+intention is to introduce the possible simplest model which displays some of
+the features expected from the overscreened Kondo lattice. The $N$ conduction
+electron channels are represented by $N$ sets of pseudospins $\vt_{j}$, $j=1,
+... , N$, which are all antiferromagnetically coupled to a periodic array of
+$|\vs|=1/2$ spins. Exploiting permutation symmetry in the channel index $j$
+allows us to write down the self--consistency equation for general $N$. For
+$N>2$, we find that the critical temperature is rising with increasing Kondo
+interaction; we interpret this effect by pointing out that the Kondo coupling
+creates the composite pseudospin objects which undergo an ordering transition.
+The relevance of our findings to the underlying fermionic multi--channel
+problem is discussed.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 11:58:21 GMT""}]","2013-07-22"
+"cond-mat/9302039",,"Heiko Leschhorn","Interface Depinning in a Disordered Medium - Numerical Results","12 pages, (10 figures will be mailed upon request), Plain TeX,
+  RUB-TP3-93-01",,"10.1016/0378-4371(93)90161-V",,"cond-mat",,"  We propose a lattice model to study the dynamics of a driven interface in a
+medium with random pinning forces. For driving forces F smaller than a
+threshold force F_c the whole interface gets pinned. The depinning transition
+can be characterized by a set of critical exponents: the static and dynamical
+roughness exponent, the velocity exponent defined by the scaling of the
+velocity of the interface with F-F_c, and a correlation length exponent. The
+critical exponents are determined numerically in 1+1 and 2+1 dimensions. Our
+findings are compared with recent numerical and analytical results for a
+Langevin equation with quenched noise, which is expected to be in the same
+universality class. Our results support a recent functional renormalization
+group calculation by T.Nattermann et.al. (J.Phys.II France 2, 1483 (1992)).
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 14:30:35 GMT""}]","2009-10-22"
+"funct-an/9302008","Daniele Guido","R. Brunetti, D. Guido, R. Longo","Modular Structure and Duality in Conformal Quantum Field Theory","23 pages, plain TeX, TVM26-12-1992","Commun.Math.Phys.156:201-220,1993","10.1007/BF02096738",,"funct-an math.OA",,"  Making use of a recent result of Borchers, an algebraic version of the
+Bisognano-Wichmann theorem is given for conformal quantum field theories, i.e.
+the Tomita-Takesaki modular group associated with the von Neumann algebra of a
+wedge region and the vacuum vector concides with the evolution given by the
+rescaled pure Lorentz transformations preserving the wedge. A similar geometric
+description is valid for the algebras associated with double cones. Moreover
+essential duality holds on the Minkowski space $M$, and Haag duality for double
+cones holds provided the net of local algebras is extended to a pre-cosheaf on
+the superworld $\tilde M$, i.e. the universal covering of the Dirac-Weyl
+compactification of $M$. As a consequence a PCT symmetry exists for any
+algebraic conformal field theory in even space-time dimension. Analogous
+results hold for a Poincar\'e covariant theory provided the modular groups
+corresponding to wedge algebras have the expected geometrical meaning and the
+split property is satisfied. In particular the Poincar\'e representation is
+unique in this case.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 19:11:00 GMT""}]","2011-04-06"
+"hep-lat/9302008",,"Ulrich H.E. Hansmann and Yuko Okamoto","Prediction of Peptide Conformation by Multicanonical Algorithm: A New
+  Approach to the Multiple-Minima Problem","13 pages","J.Comput.Chem. 14 (1993) 1333-1338",,"FSU-SCRI-93-12, SLAC-PUB-6044","hep-lat cond-mat q-bio.BM",,"  We apply a recently developed method, multicanonical algorithm, to the
+problem of tertiary structure prediction of peptides and proteins. As a simple
+example to test the effectiveness of the algorithm, Met-enkephalin is studied
+and the ergodicity problem, or multiple-minima problem, is shown to be overcome
+by this algorithm. The lowest-energy conformation obtained agrees with that
+determined by other efficient methods such as Monte Carlo simulated annealing.
+The superiority of the present method to simulated annealing lies in the fact
+that the relationship to the canonical ensemble remains exactly controlled.
+Once the multicanonical parameters are determined, only one simulation run is
+necessary to obtain the lowest-energy conformation and furthermore the results
+of this one run can be used to calculate various thermodynamic quantities at
+any temperature. The latter point is demonstrated by the calculation of the
+average potential energy and specific heat as functions of temperature.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 20:58:36 GMT""}]","2009-09-25"
+"hep-ph/9302309",,"S. Dawson and G. Valencia","$K_L \ra \mu^\pm e^\mp \nu \overline{\nu}$ as background to $K_L \ra
+  \mu^\pm e^\mp$","8 pages, LaTeX, 1 figure appended as postscript file after
+  \end{document}. Fermilab-Pub-93/024-T","Phys.Rev. D48 (1993) 209-211","10.1103/PhysRevD.48.209",,"hep-ph",,"  We consider the process $K_L \ra \mu^\pm e^\mp \nu \overline{\nu}$ at next to
+leading order in chiral perturbation theory. This process occurs in the
+standard model at second order in the weak interaction and constitutes a
+potential background in searches for new physics through the modes $K_L \ra
+\mu^\pm e^\mp$. We find that the same cut, $M_{\mu e}>489$~MeV, used to remove
+the sequential decays $K_{l3}\ra \pi_{l2}$ pushes the $B(K_L \ra \mu^\pm e^\mp
+\nu \overline{\nu})$ to the $10^{-23}$ level, effectively removing it as a
+background.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 16:56:36 GMT""}]","2009-10-22"
+"hep-ph/9302310","Rajesh Ramchand Parwani","Rajesh R. Parwani","Dimensionality of spacetime as a gauge-invariance parameter in
+  Yang-Mills calculations","Latex, 23 pages; preprint number SPhT/93-004 (Revised)","Phys.Rev. D48 (1993) 3852-3859","10.1103/PhysRevD.48.3852",,"hep-ph",,"  This is the revised version of an earlier paper with the same title.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 17:15:37 GMT""},{""version"":""v2"",""created"":""Thu, 12 Aug 1993 19:29:10 GMT""}]","2009-10-22"
+"hep-ph/9302312","Noriaki Kitazawa","N. Kitazawa","Non-oblique Correction in Extenden Technicolor Theory","REVTEX, 11 pages, 3 figures (not included), DPNU-92-47","Phys.Lett. B313 (1993) 395-401","10.1016/0370-2693(93)90009-7",,"hep-ph",,"  We study radiative corrections on $Zb{\bar b}$ vertex generated by the ETC
+gauge bosons, ``diagonal'' as well as sideways. Although the oblique
+corrections due to the ETC bosons are small in comparison with the oblique
+correction due to the technicolor dynamics, the non-oblique corrections result
+in substantial shift of contour plot in the $S$-$T$ plane. We show that such a
+shift due to the non-oblique corrections is actually important for discussing
+$S$ and $T$ values in the technicolor models.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 09:34:13 GMT""}]","2009-10-22"
+"hep-ph/9302313","Jutta Kunz","Jutta Kunz and Yves Brihaye","Fermions in the background of the sphaleron barrier","9 pages, latex, 4 figures appended as postscript files after
+  \end{document}. THU-93/05","Phys.Lett. B304 (1993) 141-146","10.1016/0370-2693(93)91413-H",,"hep-ph",,"  We demonstrate the level crossing phenomenon for fermions in the background
+field of the sphaleron barrier, by numerically determining the fermion
+eigenvalues along the minimal energy path from one vacuum to another. We assume
+that the fermions of a doublet are degenerate in mass, allowing for spherically
+symmetric ans\""atze for all of the fields, when the mixing angle dependence is
+neglected.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 15:26:35 GMT""}]","2009-10-22"
+"hep-ph/9302314","Jutta Kunz","Sylvie Braibant, Yves Brihaye and Jutta Kunz","Sphalerons at finite temperature","14 pages, plain tex, 5 figures appended as postscript files at the
+  end of the paper. MONS-93/01, THU-93/01","Int.J.Mod.Phys. A8 (1993) 5563-5574","10.1142/S0217751X93002198",,"hep-ph",,"  We construct the sphaleron for several temperature dependent effective
+potentials. We determine the sphaleron energy as a function of temperature and
+demonstrate that the sphaleron energy at a given temperature $T$ is well
+approximated by the sphaleron energy at temperature zero scaled by the ratio of
+the vacuum expectation values of the Higgs field at temperatures $T$ and zero.
+We address the cosmological upper bound on the Higgs mass.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 15:27:33 GMT""}]","2015-06-25"
+"hep-th/9302125","Henrik Aratyn","H. Aratyn, L.A. Ferreira, J.F. Gomes, R.T. Medeiros, and A.H. Zimerman","Generalized Miura Transformations, Two-Boson KP Hierarchies and their
+  Reduction to KDV Hierarchies","12 pgs., LaTeX, IFT-P/011/93, UICHEP-TH/93-1","Mod.Phys.Lett. A8 (1993) 3079-3092","10.1142/S0217732393002038",,"hep-th",,"  Bracket preserving gauge equivalence is established between several two-boson
+generated KP type of hierarchies. These KP hierarchies reduce under symplectic
+reduction (via Dirac constraints) to KdV, mKdV and Schwarzian KdV hierarchies.
+Under this reduction the gauge equivalence is taking form of the conventional
+Miura maps between the above KdV type of hierarchies.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 18:52:38 GMT""}]","2015-06-26"
+"hep-th/9302126","Gary Horowitz","Gary T. Horowitz and Dean L. Welch","Exact Three Dimensional Black Holes in String Theory","11 pages, NSF-ITP-93-21, harvmac","Phys.Rev.Lett.71:328-331,1993","10.1103/PhysRevLett.71.328",,"hep-th gr-qc",,"  A black hole solution to three dimensional general relativity with a negative
+cosmological constant has recently been found. We show that a slight
+modification of this solution yields an exact solution to string theory. This
+black hole is equivalent (under duality) to the previously discussed three
+dimensional black string solution. Since the black string is asymptotically
+flat and the black hole is asymptotically anti-de Sitter, this suggests that
+strings are not affected by a negative cosmological constant in three
+dimensions.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 00:37:00 GMT""}]","2010-11-01"
+"hep-th/9302127",,"Juan Garcia-Bellido","Quantum Black Holes","6 pag, LaTeX, SU-ITP-93/4",,,,"hep-th",,"  Clarified certain points and related it to other work.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 01:29:00 GMT""},{""version"":""v2"",""created"":""Tue, 18 May 1993 18:05:00 GMT""}]","2008-02-03"
+"hep-th/9302128",,"L.G. Zastavenko","On the problem of unboundedness from below of the spinor QED Hamiltonian","14pages, latex",,,,"hep-th",,"  We show that the Hamiltonian $ h= H_{QED}+H_2$, where $H_{QED}$ is the spinor
+QED Hamiltonian and $H_2$ is the positive transversal photon mass term, is
+unbounded from below if the electromagnetic coupling constant $e^2$ is small
+enough, $e^2<e^2_0 $, and the transversal photon squared mass parameter $M^2$
+is not too large: $0\leq M^2<e^2l^2c$, here, $l$ is the cut-off parameter, and
+$c$ and $e^2_0$, positive constants which do not depend on any parameters.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 17:53:32 GMT""}]","2007-05-23"
+"hep-th/9302129","Richard Szabo","Mikhail I. Dobroliubov, David Eliezer, Ian I. Kogan, Gordon W.
+  Semenoff and Richard J. Szabo","The Spectrum of Topologically Massive Quantum Electrodynamics","14 pages, plain TeX; PUPT-1364, UBCTP 92-033","Mod.Phys.Lett. A8 (1993) 2177-2188","10.1142/S0217732393001902",,"hep-th",,"  We discuss the possibility for the spectrum of topologically massive quantum
+electrodynamics with spinor matter fields to contain unexpected and unusual
+stable particle excitations for certain values of the topological photon mass.
+The new field theoretical phenomena arising from this novel spectral structure
+are briefly discussed.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 03:04:00 GMT""}]","2015-06-26"
+"hep-th/9302130","Jisuke Kubo","T. Fujiwara, T. Tabei, Y. Igarashi, K. Maeda and J. Kubo","Canonical treatment of two dimensional gravity as an anomalous gauge
+  theory","11 pages, KANAZAWA-92-15","Mod.Phys.Lett. A8 (1993) 2147-2154","10.1142/S0217732393001872",,"hep-th",,"  The extended phase space method of Batalin, Fradkin and Vilkovisky is applied
+to formulate two dimensional gravity in a general class of gauges. A BRST
+formulation of the light-cone gauge is presented to reveal the relationship
+between the BRST symmetry and the origin of $SL(2,R)$ current algebra. From the
+same principle we derive the conformal gauge action suggested by David, Distler
+and Kawai.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 04:48:44 GMT""}]","2015-06-26"
+"hep-th/9302131",,"Makoto Natsuume","Natural Generalization of Bosonic String Amplitudes","15 pages + 1 figure (included as a uufile), LaTeX file (A note added)",,,,"hep-th",,"  The similarity between tree-level string theory scalar amplitudes, the
+Koba-Nielsen form ($S^{1}$) and the Virasoro-Shapiro form ($S^{2}$) suggests a
+natural $S^{n}$ generalization for a scalar amplitude. It is shown that the
+$S^{n}$ amplitude shares many essential properties of the string theory
+amplitudes, including $SO(n+1,1)$ conformal symmetry and linear Regge
+trajectories for the mass spectrum. We also discuss factorization and the
+critical dimension for the amplitude, which are the necessary conditions for
+the quantum mechanical consistency (unitarity) of the amplitude.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 07:12:00 GMT""},{""version"":""v2"",""created"":""Fri, 4 Jun 1993 00:58:00 GMT""}]","2008-02-03"
+"hep-th/9302132","Jisuke Kubo","T. Fujiwara, Y. Igarashi and J. Kubo","Unrecognizable Black Holes in Two Dimensions","14 pages, KANAZAWA-93-01","Phys.Lett. B316 (1993) 66-73","10.1016/0370-2693(93)90659-6",,"hep-th",,"  The classical 2D cosmological model of Callan, Giddings, Harvey and
+Strominger possesses a global symmetry that is responsible for decoupling of
+matter fields. The model is quantized on the basis of the extended phase space
+method to allow an exhaustive, algebraic analysis to find potential anomalies.
+Under a certain set of reasonable assumptions we show that neither the BRST
+symmetry of the theory nor the global symmetry suffers from an anomaly. From
+this we conclude that there is nothing to recognize the existence of black hole
+and therefore nothing to radiate in their cosmological model.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 06:55:53 GMT""}]","2009-10-22"
+"hep-th/9302133",,"H. Kawai, N. Kawamoto, T. Mogami and Y. Watabiki","Transfer Matrix Formalism for Two-Dimensional Quantum Gravity and
+  Fractal Structures of Space-time","13 pages, 5 figures, phyzzx","Phys.Lett. B306 (1993) 19-26","10.1016/0370-2693(93)91131-6","INS-969, UT-633","hep-th hep-lat",,"  We develop a transfer matrix formalism for two-dimensional pure gravity. By
+taking the continuum limit, we obtain a ""Hamiltonian formalism'' in which the
+geodesic distance plays the role of time. Applying this formalism, we obtain a
+universal function which describes the fractal structures of two dimensional
+quantum gravity in the continuum limit.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 09:25:05 GMT""}]","2009-10-22"
+"hep-th/9302134",,"S. Penati, M. Pernici and D. Zanon","Solitons in Two--Dimensional Topological Field Theories","14 pages, IFUM 441/FT","Phys.Lett. B309 (1993) 304-311","10.1016/0370-2693(93)90938-E",,"hep-th",,"  We consider a class of $N=2$ supersymmetric non--unitary theories in
+two--dimensional Minkowski spacetime which admit classical solitonic solutions.
+We show how these models can be twisted into a topological sector whose
+energy--momentum tensor is a BRST commutator. There is an infinite number of
+degrees of freedom associated to the zero modes of the solitons. As explicit
+realizations of such models we discuss the BRST quantization of a system of
+free fields, while in the interacting case we study $N=2$ complexified twisted
+Toda theories.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 10:01:07 GMT""}]","2009-10-22"
+"hep-th/9302135","Danny Birmingham","D. Birmingham and M. Rakowski","Subdivision Invariant Models in Lattice Gauge Theory","19 pages, LaTex, ITFA-93-03/YCTP-P4-93",,,,"hep-th hep-lat",,"  A class of lattice gauge theories is presented which exhibits novel
+topological properties. The construction is in terms of compact Wilson
+variables defined on a simplicial complex which models a four dimensional
+manifold with boundary. The case of Z2 and Z3 gauge groups is considered in
+detail, and we prove that at certain discrete values of the coupling parameter,
+the partition function in these models remains invariant under subdivision of
+the underlying simplicial complex. A variety of extensions is also presented.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 10:56:42 GMT""}]","2007-05-23"
+"hep-th/9302136",,"S. P. Sorella","Algebraic characterization of the Wess-Zumino consistency conditions in
+  gauge theories","16 pages, UGVA-DPT 1992/08-781 to appear in Comm. Math. Phys","Commun.Math.Phys. 157 (1993) 231-243","10.1007/BF02099759",,"hep-th",,"  A new way of solving the descent equations corresponding to the Wess-Zumino
+consistency conditions is presented. The method relies on the introduction of
+an operator $\delta$ which allows to decompose the exterior space-time
+derivative $d$ as a $BRS$ commutator. The case of the Yang-Mills theories is
+treated in detail.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 15:41:50 GMT""}]","2009-10-22"
+"math/9302203",,"James Sharp","Combinatorics on Ideals and Axiom A",,,,"Logic E-prints February 26, 1993","math.LO",,"  Throughout this abstract let U be a fixed p-point ultrafilter and let I be
+the dual ideal. Grigorieff forcing is P(U)={p:omega to 2|dom(p) is an element
+of I} ordered by reverse inclusion. It is well known that Grigorieff forcing is
+proper. The main result of this paper is the following:
+  THEOREM: Gregorieff forcing does not satisfy Axiom A. To prove this we use
+the following game, denoted G(U), for two players playing alternatively:
+  Player I plays a partition of omega, {J_n| n<omega}, such that for all
+n<omega, J_n is an element of I;
+  At the nth turn Player II plays a finite subset F_n of J_n. Player II wins
+iff the union of the F_n is an element of U.
+  The following two Lemmas prove the Theorem:
+  LEMMA 1: If P(U) satisfies axiom A, then player II has a winning strategy in
+the game G(U).
+  LEMMA 2:The game G(U) is undetermined.
+","[{""version"":""v1"",""created"":""Fri, 26 Feb 1993 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9302014","Harold W. Fearing","H. W. Fearing, G. I. Poulis and S. Scherer","Effective Hamiltonians with Relativistic Corrections I: The
+  Foldy--Wouthuysen transformation versus the direct Pauli reduction","TRIUMF preprint TRI-PP-93-12","Nucl.Phys. A570 (1994) 657-685","10.1016/0375-9474(94)90078-7",,"nucl-th hep-ph",,"  Two different methods of obtaining ``effective $2\times 2$ Hamiltonians''
+which include relativistic corrections to nonrelativistic calculations are
+discussed, the standard Foldy--Wouthuysen transformation and what we call the
+``direct Pauli reduction''. We wish to investigate under which circumstances
+the two approaches yield the same result. Using a generic interaction with
+harmonic time dependence we show that differences in the corresponding
+effective S--matrices do arise beyond first--order perturbation theory. We
+attribute them to the fact that the use of the direct reduction effective
+Hamiltonian involves the additional approximation of neglecting contributions
+from the negative--energy intermediate states, an approximation which is
+unnecessary in the Foldy--Wouthuysen case as there the $4\times 4$ Hamiltonian
+does not connect positive-- and negative--energy states. We conclude that at
+least in the cases where the relativistic Hamiltonian is known, using the
+direct Pauli reduction effective Hamiltonian introduces spurious relativistic
+effects and therefore the Foldy--Wouthuysen reduction should be preferred.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 18:54:25 GMT""}]","2009-10-22"
+"nucl-th/9302015","Harold W. Fearing","S. Scherer, G. I. Poulis and H. W. Fearing","Effective Hamiltonians with Relativistic Corrections II: Application to
+  Compton Scattering by a Proton","TRIUMF preprint TRI-PP-93-13","Nucl.Phys. A570 (1994) 686-700","10.1016/0375-9474(94)90079-5",,"nucl-th hep-ph",,"  We discuss two different methods of obtaining ``effective $2 \times 2$
+Hamiltonians'' of the electromagnetic interaction which include relativistic
+corrections. One is the standard Foldy--Wouthuysen transformation which we
+compare with the Hamiltonian obtained from a direct reduction of the matrix
+element of the interaction Hamiltonian between positive--energy solutions of
+the free Dirac equation. The two approaches are applied to Compton scattering
+by a proton for which a low--energy theorem exists. It is found that the
+Foldy--Wouthuysen Hamiltonian yields the same result as a covariant
+calculation. This is not true for the direct reduction method which will in
+general lead to incorrect results even after restoring the gauge invariance
+property of the Hamiltonian. Furthermore, it is shown that an identification of
+the Z--diagrams of the usual Dirac representation with the contact graphs of
+the Foldy--Wouthuysen representation is incorrect beyond the order of the
+low--energy theorem.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 18:55:22 GMT""}]","2009-10-22"

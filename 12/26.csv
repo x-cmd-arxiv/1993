@@ -1,0 +1,30 @@
+"hep-ph/9312339","Andrei Johansen","Minos Axenides and Andrei Johansen","Topological Classification of Odd-Parity Sphaleron Deformations","14 pages, latex, NBI-HE-93-74. More extended arguments and concrete
+  examples, 3 figures added","Mod.Phys.Lett. A9 (1994) 1033-1046","10.1142/S0217732394000861",,"hep-ph",,"  We discuss topological aspects of the electroweak sphaleron and its
+odd-parity deformations. We demonstrate that they are uniquely classified in
+terms of their odd and even-parity pure gauge field behaviour at spatial
+infinity. Fermion level crossing occurs only for odd-parity configurations
+which are topologically disconnected from the vacuum. They contribute to the
+high temperature unsuppressed baryon violating thermal transitions.
+Deformations with even-parity pure gauge behaviour at spatial infinity are
+topologically trivial and do not mediate baryon number violation in the early
+Universe.
+","[{""version"":""v1"",""created"":""Sat, 25 Dec 1993 17:18:40 GMT""},{""version"":""v2"",""created"":""Tue, 15 Feb 1994 21:50:33 GMT""}]","2009-10-22"
+"hep-ph/9312340","Andrei Johansen","M.Axenides, A.Johansen and H.B.Nielsen","On sphaleron deformations induced by Yukawa interactions","14 pages, Latex, NBI-HE-93-75","Mod.Phys.Lett. A9 (1994) 1529-1544","10.1142/S0217732394001374",,"hep-ph",,"  Due to the presence of the chiral anomaly sphalerons with Chern-Simons number
+a half (CS=1/2) are the only static configurations that allow for a fermion
+level crossing in the two-dimensional Abelian-Higgs model with massless
+fermions, i.e. in the absence of Yukawa interactions. In the presence of
+fermion-Higgs interactions we demonstrate the existence of zero energy
+solutions to the one-dimensional Dirac equation at deformed sphalerons with
+CS$\neq 1/2 .$ Induced level crossing due to Yukawa interactions illustrates a
+non-trivial generalization of the Atiyah-Patodi-Singer index theorem and of the
+equivalence between parity anomaly in odd and the chiral anomaly in even
+dimensions. We discuss a subtle manifestation of this effect in the standard
+electroweak theory at finite temperatures.
+","[{""version"":""v1"",""created"":""Sat, 25 Dec 1993 17:20:17 GMT""}]","2015-06-25"
+"hep-th/9312193","Vladimir Fock","V. V. Fock","Description of moduli space of projective structures via fat graphs","17 pages, 11 pictures (included)",,,"UUITP-2/93","hep-th math.QA",,"  We give an elementary explicit construction of cell decomposition of the
+moduli space of projective structures on a two dimensional surface analogous to
+the decomposition of Penner/Strebel for moduli space of complex structures. The
+relations between projective structures and $PGL(2,{\bf C})$ flat connections
+are also described. (in the revised version uuencoded pictures are made
+printable)
+","[{""version"":""v1"",""created"":""Sat, 25 Dec 1993 21:46:27 GMT""},{""version"":""v2"",""created"":""Tue, 1 Feb 1994 12:58:37 GMT""}]","2008-02-03"

@@ -1,0 +1,244 @@
+"astro-ph/9309035","Astrosim Project","T. Theuns","Parallel P3M with exact calculation of short range forces","plain TeX, 2 .ps Figs. available on request; SNS-ASTRO-93-0901","Comput.Phys.Commun. 78 (1994) 238-246","10.1016/0010-4655(94)90002-7",,"astro-ph",,"  A P3M (Particle-Particle, Particle-Mesh) algorithm to compute the
+gravitational force on a set of particles is described. The gravitational force
+is computed using Fast Fourier Transforms. This leads to an incorrect force
+when the distance between two particles is of the order of a grid cell. This
+incorrect force is subtracted exactly from all particles in parallel using
+convolution with the appropriate Green's function in real space in a time of
+order $N_T$, irrespective of the degree of clustering of particles. Next, the
+correct $1/r^2$ force is added for all neighbouring particles in parallel,
+leading to an accurate algorithm which runs efficiently on a highly parallel
+computer. A full force calculation for $128k$ particles on a $128^3$ grid in a
+mildly clustered situation requires approximately 196 seconds on a $8k$
+Connection Machine 2 with 8MHz clock. This decreases to an estimated 9.8
+seconds on a full-sized $64k$ CM200.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 10:50:19 GMT""}]","2009-10-22"
+"cond-mat/9309036","Norio Kawakami","N. Kawakami","Comment on ""Microscopic Theory of Periodic Conductances in Narrow
+  Channels""","REVTex, 4 pages",,,,"cond-mat",,"  In a recent letter Johnson and Payne (JP) have studied the effect of the
+electron interaction on the periodic conductance oscillations in narrow
+channels based on an exactly solvable model. In this Comment we discuss the
+exchange-correlation effect on JP's model using a solvable electron model. We
+wish to point out that when the interaction strength becomes rather small,
+there may appear two periods in the conductance oscillations due to the
+exchange effect.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 06:30:05 GMT""}]","2007-05-23"
+"cond-mat/9309037","Norio Kawakami","K. Vacek, A Okiji and N. Kawakami","Confined quantum systems in one dimension and conductance oscillations
+  in narrow channels","Latex 14 pages",,"10.1103/PhysRevB.49.4635",,"cond-mat",,"  An exactly solvable electron model of a confined system with inverse-square
+interaction is presented. The ground state is given by the Jastrow-product
+wavefunction of power-law form. We discuss the results in connection with
+conductance oscillations observed in semiconductor nanostructures, for which
+single-electron charging effects play a crucial role. Due to the internal spin
+degrees of freedom, there appear two independent periods of the conductance
+oscillations in very narrow channels even at zero temperature.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 06:35:23 GMT""}]","2009-10-22"
+"cond-mat/9309038","Norio Kawakami","N. Kawakami","Renormalized Harmonic-Oscillator Description of Confined Electron
+  Systems with Inverse-Square Interaction","RevTex, 7 pages",,"10.1143/JPSJ.62.4163",,"cond-mat",,"  An integrable model for SU($\nu$) electrons with inverse-square interaction
+is studied for the system with confining harmonic potential. We develop a new
+description of the spectrum based on the {\it renormalized
+harmonic-oscillators} which incorporate interaction effects via the repulsion
+of energy levels. This approach enables a systematic treatment of the
+excitation spectrum as well as the ground-state quantities.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 06:38:44 GMT""}]","2009-10-22"
+"gr-qc/9309022","Jasjeet Bagla","J.S.Bagla and T.Padmanabhan","Nonlinear Evolution of Density Perturbations","(Paper presented at the 6th Asia Pacific regional meeting of the IAU)
+  , 7 pages, 8 figures ( 4 figures not included, available on request),
+  uuencoded postscript file","J.Astrophys.Astron. 16 (1995) 77",,,"gr-qc astro-ph",,"  : From the epoch of recombination $(z\approx 10^3)$ till today, the typical
+density contrasts have grown by a factor of about $10^6$ in a Friedmann
+universe with $\Omega=1$. However, during the same epoch the typical
+gravitational potential has grown only by a factor of order unity. We present
+theoretical arguments explaining the origin of this approximate constancy of
+gravitational potential. This fact can be exploited to provide a new, powerful,
+approximation scheme to study the formation of nonlinear structures in the
+universe. The essential idea of this method is to evolve the initial
+distribution of particles using a gravitational potential frozen in time
+(Frozen Potential Approximation). This approximation provides valuable insight
+into understanding various features of nonlinear evolution; for example, it
+provides a simple explanation as to why pancakes remain thin during the
+evolution even in the absence of any artificial, adhesion-like, damping terms.
+We compare the trajectories of particles in various approximations. We also
+discuss a few applications of the frozen potential approximation.
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 19:31:32 GMT""}]","2009-09-25"
+"gr-qc/9309023",,"Jos\'e P. S. Lemos and Paulo M. S\'a","Non-Singular Constant Curvature Two-Dimensional Black Hole","6 pages, LaTex, Lisbon preprint DF/IST-8.93 (revised)","Mod.Phys.Lett. A9 (1994) 771-774","10.1142/S0217732394000587",,"gr-qc",,"  We show that the two-dimensional theory of Teitelboim and Jackiw has a black
+hole solution, with two surprising properties: first, it has constant
+curvature, and second, is free of spacetime singularities. The maximally
+extended spacetime consists of an infinite chain of universes connected by
+timelike wormholes.
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 17:40:51 GMT""}]","2009-10-22"
+"gr-qc/9309024","Guillermo Mena","Guillermo A. Mena Marugan","Reality Conditions in Nonperturbative Quantum Cosmology","34 pages, Preprint CGPG-93/9-3","Class.Quant.Grav.11:589-608,1994","10.1088/0264-9381/11/3/012",,"gr-qc",,"  We carry out the nonperturbative canonical quantization of several types of
+cosmological models that have already been studied in the geometrodynamic
+formulation using the complex path-integral approach. We establish a relation
+between the choices of complex contours in the path integral and the sets of
+reality conditions for which the metric representation is well defined, proving
+that the ambiguity in the selection of complex contours disappears when one
+imposes suitable reality conditions. In most of the cases, the wave functions
+defined by means of the path integral turn out to be non-normalizable and
+cannot be accepted as proper quantum states. Moreover, the wave functions of
+the Universe picked out in quantum cosmology by the no-boundary condition and
+the tunneling proposals do not belong, in general, to the Hilbert space of
+quantum states. Finally, we show that different sets of reality conditions can
+lead to equivalent quantum theories. This fact enables us to extract physical
+predictions corresponding to Lorentzian gravity from quantum theories
+constructed with other than Lorentzian reality conditions.
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 18:04:23 GMT""}]","2010-04-06"
+"hep-lat/9309015","Jeroen Vink","Maarten F.L. Golterman, Karl Jansen, Donald N. Petcher and Jeroen C.
+  Vink","Investigation of the Domain Wall Fermion Approach to Chiral Gauge
+  Theories on the Lattice","27p. Latex; UCSD/PTH 93-28, Wash. U. HEP/93-60","Phys.Rev. D49 (1994) 1606-1620","10.1103/PhysRevD.49.1606",,"hep-lat",,"  We investigate a recent proposal to construct chiral gauge theories on the
+lattice using domain wall fermions. We restrict ourselves to the finite volume
+case, in which two domain walls are present, with modes of opposite chirality
+on each of them. We couple the chiral fermions on only one of the domain walls
+to a gauge field. In order to preserve gauge invariance, we have to add a
+scalar field, which gives rise to additional light mirror fermion and scalar
+modes. We argue that in an anomaly free model these extra modes would decouple
+if our model possesses a so-called strong coupling symmetric phase. However,
+our numerical results indicate that such a phase most probably does not exist.
+---- Note: 9 Postscript figures are appended as uuencoded compressed tar file.
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 17:22:55 GMT""}]","2009-10-22"
+"hep-lat/9309016","Michael J. Creutz","Michael Creutz","Lattice Gauge Theory -- Present Status","11 pages, BNL-49465","NuovoCim.A107:2595-2602,1994","10.1007/BF02734035",,"hep-lat",,"  Lattice gauge theory is our primary tool for the study of non-perturbative
+phenomena in hadronic physics. In addition to giving quantitative information
+on confinement, the approach is yielding first principles calculations of
+hadronic spectra and matrix elements. After years of confusion, there has been
+significant recent progress in understanding issues of chiral symmetry on the
+lattice. (Talk presented at HADRON 93, Como, Italy, June 1993.)
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 15:20:28 GMT""}]","2008-11-26"
+"hep-ph/9309314","Ezio Maina","E. Maina and R. Torasso","Pion Compton Scattering in Perturbative QCD","9 Pages (18 Figs available through ordinary mail) Latex","Phys.Lett. B320 (1994) 337-345","10.1016/0370-2693(94)90666-1",,"hep-ph",,"  Pion Compton scattering is studied in perturbative QCD for real and
+space--like initial photons. Different methods for the convolution of the hard
+amplitude with the pion wave--functions, which have in the past led to
+conflicting results, are compared.
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 16:43:34 GMT""}]","2009-10-22"
+"hep-ph/9309315",,"Stephen Godfrey (Carleton University) and T. G. Rizzo (Argonne
+  National Lab)","Summary of the Extensions of the Standard Model Working Group","(at the Argonne-Madison Workshop on Physics at Current Accelerators
+  and the Supercollider), 6 pages, latex with epsfig and worldsci. The
+  postcript file is available via anonymous ftp at hepcu.physics.carleton.ca as
+  disk$userd:[peterson.tex]ocipc9311.ps ANL-HEP-CP-93-60, OCIP/C-93-11",,,,"hep-ph",,"  We summarize the results of the extended gauge group working group of the
+Madison-Argonne Workshop on Present and Future Colliders. Contributions are
+described on the previously unexamined two photon fusion production of heavy
+leptons, new studies of $Z'$ couplings to $\nu \bar{\nu}$ and $q\bar{q}$, and
+previously unexplored vector leptoquark production. More detailed accounts of
+these studies can be found in individual contributions.
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 19:18:07 GMT""}]","2007-05-23"
+"hep-ph/9309316","Jim Cline","James M. Cline, Kimmo Kainulainen and Sonia Paban","Stability of Neutrinos in the Singlet Majoron Model","11 pp., latex, UMN-TH-1218-93. Correct nucleosynthesis bound of 500
+  keV on nu_tau mass is incorporated; one-loop electroweak contribution to
+  neutrino mass is corrected","Phys.Lett. B319 (1993) 513-519","10.1016/0370-2693(93)91759-G",,"hep-ph astro-ph",,"  We show that there is no one-loop enhancement of the rate for a light
+neutrino to decay into a lighter neutrino plus a majoron, contrary to a recent
+claim. Thus the light neutrinos must satisfy the cosmological bound of having
+masses less than 35 eV in the singlet majoron model, or else violate the
+constraint imposed by galaxy formation. In the latter case, $\nu_\tau$ could
+have a mass between 40 and 500 keV, while satisfying all other cosmological
+constraints.
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 19:47:09 GMT""},{""version"":""v2"",""created"":""Sun, 26 Sep 1993 18:02:41 GMT""}]","2009-10-22"
+"hep-ph/9309317","John Collins","John C. Collins","Physics of Polarized pp Collisions","Talk presented at PANIC XIII--Particles and Nuclei International
+  Conference at Perugia, Italy 28 June -- 2 July 1993. 4 pages, LaTeX.",,,"PSU/TH/132","hep-ph",,"  I will summarize the physics that can be investigated with polarized pp
+collisions. It is technically feasible to use the RHIC collider for
+accelerating highly polarized protons to a center-of-mass energy of about 400
+GeV, with high luminosity. Such collisions can be used to probe the
+spin-dependence of hard collisions and of partons in a hadron, including the
+gluons. There are interesting twist 3 phenomena that are likely to be
+significant in view of the large transverse spin asymmetries at lower energies;
+this will have important implications for the spin structure of the proton wave
+function. Recent theoretical developments include the possibility of probing
+the spin of transversely polarized quarks via asymmetries in the jets they
+make.
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 20:20:29 GMT""}]","2007-05-23"
+"hep-ph/9309318",,"U. Baur","Electroweak Physics at Current Accelerators and the Supercollider","17 pages, Latex, 6 embedded postscript figures submitted as a
+  uuencoded file, talk given at the Workshop ``Physics at Current Accelerators
+  and the Supercollider'', Argonne National Laboratory, June~2 --~5, 1993, to
+  appear in the proceedings, FSU-HEP-930923",,,,"hep-ph",,"  The activities of the Electroweak Physics Working Group are summarized. Three
+main issues are addressed: 1) prospects for measuring the $W$ mass at the
+Tevatron using the inclusive electron energy spectrum, 2) constraining the
+strange quark distribution function in $W$ + charm production, and 3)
+possibilities to determine the three vector boson couplings at the Tevatron and
+SSC.
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 20:46:22 GMT""}]","2007-05-23"
+"hep-ph/9309319","Michael Dine","Michael Dine","Topics in String Phenomenology","20 pages, SCIPP 93/20",,,,"hep-ph",,"  We consider two questions in string ``phenomenology.''
+  First, are there any generic string predictions? Second, are there any
+general lessons which string theory suggests for thinking about low energy
+models, particularly in the framework of supersymmetry? Among the topics we
+consider are the squark and slepton spectrum, flavor symmetries, discrete
+symmetries including $CP$, and Peccei-Quinn symmetries. We also note that in
+some cases, discrete symmetries can be used to constrain the form of
+supersymmetry breaking.
+","[{""version"":""v1"",""created"":""Thu, 23 Sep 1993 21:09:40 GMT""}]","2007-05-23"
+"hep-ph/9309320","Dirk-Uwe Jungnickel","Dirk-Uwe Jungnickel and Dirk Walliser","Inhomogeneous Field Configurations and the Electroweak Phase Transition","23 pages of LaTeX + 3 PostScript figures included in uuencoded form,
+  FERMI-PUB-93/253-T","Phys.Rev. D49 (1994) 3869-3880","10.1103/PhysRevD.49.3869",,"hep-ph",,"  We investigate the effects of inhomogeneous scalar field configurations on
+the electroweak phase transition. For this purpose we calculate the leading
+perturbative correction to the wave function correction term $Z(\vph,T)$, i.e.,
+the kinetic term in the effective action, for the electroweak Standard Model at
+finite temperature and the top quark self--mass. Our finding for the fermionic
+contribution to $Z(\vph,T)$ is infra--red finite and disagrees with other
+recent results. In general, neither the order of the phase transition nor the
+temperature at which it occurs change, once $Z(\vph,T)$ is included. But a
+non--vanishing, positive (negative) $Z(\vph,T)$ enhances (decreases) the
+critical droplet surface tension and the strength of the phase transition. We
+find that in the range of parameter space, which allows for a first--order
+phase transition, the wave function correction term is negative --- indicating
+a weaker phase transition --- and especially for small field values so large
+that perturbation theory becomes unreliable.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 02:56:20 GMT""}]","2009-10-22"
+"hep-ph/9309321","Masashi Hayakawa","M.Hayakawa, T.Kurimoto and A.I.Sanda","Chiral Lagrangian with higher resonances and flavour $ SU(3) $ breaking","29 pages, REVTEX(ver.3), DPNU-93-34","Prog.Theor.Phys. 92 (1994) 377-396","10.1143/ptp/92.2.377",,"hep-ph",,"  A chiral Lagrangian with $ SU(3) $ breaking and higher resonances is
+proposed. In this model, the $ SU(3) $ breaking structure in
+vector-pseudoscalar sector is realized with the decay constants of pseudoscalar
+mesons and the masses of vector mesons used as inputs. We examine whether the
+resulting $ SU(3) $ breaking effect in the charge radii of pseudoscalar mesons
+is consistent with the experimental facts.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 05:41:27 GMT""}]","2017-02-01"
+"hep-ph/9309322",,"A.A.Likhoded, A.A.Pankov, N.Paver, M.V.Shevlyagin and O.P.Yushchenko","Probing Three-Boson Anomalous Couplings in $e^+e^-\to W^+W^-$ at Future
+  Linear $e^+e^-$ Colliders with Polarized Beams","19 pages in LaTeX (14 figures not included), Trieste Report N.
+  IC/93/288, UTS-DFT-93-22",,,,"hep-ph",,"  We study the potential of the next-generation $e^+ e^-$ linear colliders with
+longitudinally polarized beams, to restrict the values of the anomalous
+trilinear couplings $WW\gamma$ and $WWZ$ from the measurement of the process
+$e^+ e^-\to W^+ W^-$. Along with initial $e^+e^-$ polarization, we account also
+for the possibilities offered by cross sections for polarized final $W$, in
+order to disentangle the constraints on the various constants. The results show
+the essential role of the initial beams polarization in improving the bounds
+obtained from the unpolarized case.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 12:03:28 GMT""}]","2009-09-25"
+"hep-th/9309128","745","Koji Harada, Takanori Sugihara, Masa-aki Taniguchi and Masanobu Yahiro","The massive Schwinger model with $SU(2)_{f}$ on the light cone","35 pages (without figures), KYUSHU-HET-9","Phys.Rev. D49 (1994) 4226-4245","10.1103/PhysRevD.49.4226",,"hep-th",,"  The massive Schwinger model with two flavors is studied in the strong
+coupling region by using light-front Tamm-Dancoff approximation. The mass
+spectrum of the lightest particles is obtained numerically. We find that the
+mass of the lightest isotriplet (``pion'') behaves as $m^{0.50}$ for the strong
+couplings, where $m$ is the fermion mass. We also find that the lightest
+isosinglet is not in the valence state (``eta'') which is much heavier in the
+strong coupling region, but can be interpreted as a bound state of two pions.
+It is 1.762 times heavier than pion at $m=1.0\times10^{-3}(e/\sqrt\pi)$, while
+Coleman predicted that the ratio is $\sqrt3$ in the strong coupling limit. The
+``pion decay constant'' is calculated to be 0.3945.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 07:57:25 GMT""}]","2009-10-22"
+"hep-th/9309129","Euro Spallucci","A.Smailagic, Euro Spallucci","Kac-Moody structure of chiral gravity in the light-cone gauge","13 Pages, PhyzzX","Phys.Lett. B317 (1993) 526-532","10.1016/0370-2693(93)91367-V",,"hep-th",,"  We study the residual symmetry $SL(2,R)\otimes U(1)$ of the chiral gravity in
+the light-cone gauge. Quantum gravitational effects renormalize the Kac-Moody
+central charge and introduce, through the Lorentz anomaly, an arbitrary
+parameter. Due to the presence of this free parameter the Kac-Moody central
+charge has no forbidden range of values, and the strong gravity regime is open
+to investigations.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 10:17:04 GMT""}]","2009-10-22"
+"hep-th/9309130","Uwe Ritschel","Uwe Ritschel","Autonomous Renormalization of Phi^4 in Finite Geometry","8 pages, Latex","Phys.Lett. B318 (1993) 617-622","10.1016/0370-2693(93)90463-R",,"hep-th hep-ph",,"  The autonomous renormalization of the O(N)-symmetric scalar theory is based
+on an infinite re-scaling of constant fields, whereas finite-momentum modes
+remain finite. The natural framework for a detailed analysis of this method is
+a system of finite size, where all non-constant modes can be integrated out
+perturbatively and the constant mode is treated by a saddle-point approximation
+in the thermodynamic limit. The calculation provides a better understanding of
+the properties of of the effective action and corroborates earlier findings
+concerning a heavy Higgs particle at about 2 TeV.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 13:24:06 GMT""}]","2009-10-22"
+"hep-th/9309131","Antonio Gabriel Oliveira Moreira","C. Aragone P. J. Arias","More Gravitational Anyons","Pages:6 Report#: SB\F-212",,,,"hep-th",,"  The anyonic behaviour of massive spinning point particles coupled to
+linearized massive vector Chern-Simons gravity is studied. This model
+constitutes the uniform spin-2 generalization of the vector model formed by
+coupling charged point particles to the topological massive Maxwell-CS action.
+It turns out that, for this model, the linearized first order triadic
+Chern-Simons term is the source of the anyonic behaviour we found. This is in
+constrast with the third order topologically massive gravity, where the anyonic
+behaviour does not stem in its third-order Lorentz-Chern-Simons term, the
+second order Einstein's action .
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 15:59:31 GMT""}]","2007-05-23"
+"hep-th/9309133","Qmw Theory Group","D. Bailin, A. Love, W.A. Sabra and S. Thomas","Duality Symmetries in Orbifold Models","13 pages, QMW--TH--93/21, SUSX--TH--93/13","Phys.Lett. B320 (1994) 21-28","10.1016/0370-2693(94)90818-4",,"hep-th",,"  We derive the duality symmetries relevant to moduli dependent gauge coupling
+constant threshold corrections, in Coxeter $ {\bf Z_N} $ orbifolds. We consider
+those orbifolds for which the point group leaves fixed a 2-dimensional
+sublattice $\Lambda_2$, of the six dimensional torus lattice $\Lambda_6$, where
+$\Lambda_6 $ cannot be decomposed as $\Lambda_2 \bigoplus{\Lambda_4}.$
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 15:59:16 GMT""}]","2009-10-22"
+"hep-th/9309142","Andreas Fring","A. Fring and R. K\""oberle","Affine Toda Field Theory in the Presence of Reflecting Boundaries","21 pages, Latex, USP-IFQSC/TH/93-12","Nucl.Phys. B419 (1994) 647-664","10.1016/0550-3213(94)90349-2",,"hep-th",,"  We show that the ``boundary crossing-unitarity equation"" recently proposed by
+Ghoshal and Zamolodchikov is a consequence of the boundary bootstrap equation
+for the S-matrix and the wall-bootstrap equation. We solve this set of
+equations for all affine Toda theories related to simply laced Lie algebras,
+obtaining explicit formulas for the W-matrix which encodes the scattering of a
+particle with the boundary in the ground state. For each theory there are two
+solutions to these equations, related by CDD-ambiguities, each giving rise to
+different kind of physics.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 14:15:00 GMT""}]","2009-10-22"

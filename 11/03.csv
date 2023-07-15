@@ -1,0 +1,285 @@
+"astro-ph/9311012","Naoshi Sugiyama","Takashi Chiba, Naoshi Sugiyama and Yasushi Suto","Microwave Background Anisotropies in Primeval Isocurvature Baryon
+  Models: Constraints on the Cosmological Parameters","10pages and 4figures compressed uuencoded postscript (with figures),
+  UTAP-93-165","Astrophys.J. 429 (1994) 427-433","10.1086/174334",,"astro-ph",,"  We have performed the most comprehensive predictions of the temperature
+fluctuations \dtt in the primeval isocurvature baryon models to see whether or
+not the models are consistent with the recent data on the cosmic microwave
+background anisotropies. More specifically, we computed the \dtt corresponding
+to the experimental set-up by the South-Pole and the Owens Valley experiments
+as well as the COBE satellite. The amplitudes of the predicted \dtt are
+normalized by means of the COBE 10$^\circ$ data. The resulting constraints on
+the models are presented on $n - \Omega_b$ plane in the case of
+$\lambda_0=1-\Omega_b$ (flat models) and $\lambda_0=0$ (open models), where $n$
+is the primordial spectral index of entropy fluctuations and $\Omega_b$ is the
+present baryon density parameter.
+  Our results imply that the PIB models cannot be reconciled with the current
+observations for any reasonable set of cosmological parameters.
+","[{""version"":""v1"",""created"":""Tue, 2 Nov 1993 22:53:50 GMT""}]","2009-10-22"
+"comp-gas/9310002","Ed Bertschinger","Robert Ferrell and Edmund Bertschinger","Particle-Mesh Methods on the Connection Machine","22 pages, uuencoded compressed tarred postscript, 224 kB, available
+  by anonymous ftp to arcturus.mit.edu as Preprints/pm.ps.Z","Int. J. Mod. Phys. C 5 (1994) 933","10.1142/S0129183194001069","preprint MIT-CSR-93-29","comp-gas astro-ph nlin.CG",,"  We describe an efficient Particle-Mesh algorithm for the Connection Machine
+CM-5. Our particular method parallelizes well and the computation time per time
+step decreases as the particles become more clustered. We achieve
+floating-point computation rates of 4--5 MFlops/sec/processing node and total
+operations (the sum of floating-point and integer arithmetic plus
+communications) of 5--10 MOps/sec/processing node. The rates scale almost
+linearly from 32 to 256 processors. Although some of what we discuss is
+specific to the CM-5, many aspects (e.g., the computation of the force on a
+mesh) are generic to all implementations, and other aspects (e.g., the
+algorithm for assignment of the density to the mesh) are useful on any parallel
+computer.
+","[{""version"":""v1"",""created"":""Tue, 2 Nov 1993 23:06:29 GMT""}]","2009-10-22"
+"cond-mat/9311007","Lizeng Zhang","Michael Ma, Pornthep Nisamaneephong and Lizeng Zhang","Ground State and Excitations of Disordered Boson Systems","13 pages. (postscript file because of the figures inserted in the
+  text.)",,"10.1007/BF00692042",,"cond-mat",,"  After an introduction to the dirty bosons problem, we present a gaussian
+theory for the ground state and excitations. This approach is physically
+equivalent to the Bogoliubov approximation. We find that ODLRO can be destroyed
+with sufficient disorder. The density of states and localization of the
+elementary excitations are discussed. (To appear in JLTP Proceedings of the
+Conference on Condensed Bose Systems at the University of Minnesota, 1993.)
+","[{""version"":""v1"",""created"":""Wed, 3 Nov 1993 02:46:07 GMT""}]","2009-10-22"
+"cond-mat/9311008",,"D. Poilblanc, W. Hanke, and D. J. Scalapino","Resonant Impurity Scattering in a Strongly Correlated Electron Model","10 pages, 4 figures available on request, report LPQTH-93-20",,"10.1103/PhysRevLett.72.884",,"cond-mat",,"  Scattering by a single impurity introduced in a strongly correlated
+electronic system is studied by exact diagonalization of small clusters. It is
+shown that an inert site which is spinless and unable to accomodate holes can
+give rise to strong resonant scattering. A calculation of the local density of
+state reveals that, for increasing antiferromagnetic exchange coupling, d, s
+and p-wave symmetry bound states in which a mobile hole is trapped by the
+impurity potential induced by a local distortion of the antiferromagnetic
+background successively pull out from the continuum.
+","[{""version"":""v1"",""created"":""Wed, 3 Nov 1993 10:46:40 GMT""}]","2009-10-22"
+"gr-qc/9311002",,"Kin-Wang Ng","Graviton Mode Function in Inflationary Cosmology","26 pages, revtex, 4 figures (available upon request). We have added a
+  new Section VIII with four new figures, in which Eq. (35) is used to
+  calculate the graviton spectral energy density and the tensor-induced CMB
+  anisotropy","Int.J.Mod.Phys. A11 (1996) 3175-3193","10.1142/S0217751X96001528","IP-ASTP-31-93","gr-qc astro-ph",,"  We consider the production of gravitons in an inflationary cosmology by
+approximating each epoch of change in the equation of state as sudden, from
+which a simple analytic graviton mode function has been derived. We use this
+mode function to compute the graviton spectral energy density and the
+tensor-induced cosmic microwave background anisotropy. The results are then
+compared to the numerical calculations which incorporate a smooth
+radiation-matter phase transition. We find that the sudden approximation is a
+fairly good method. Besides, in determining the frequency range and amplitude
+of the mode function, we introduce a pre-inflationary radiation-dominated epoch
+and use a physically sensible regularization method.
+","[{""version"":""v1"",""created"":""Tue, 2 Nov 1993 22:50:00 GMT""},{""version"":""v2"",""created"":""Fri, 13 May 1994 17:56:19 GMT""},{""version"":""v3"",""created"":""Sat, 20 May 1995 04:17:32 GMT""}]","2009-10-22"
+"gr-qc/9311003","Sergey Tertychniy","S.Tertychniy","Local Determination of the Light Deflection in the Sperically Symmetric
+  Static Gravitational Field","23 pages including 2 figures, uuencoded compressed PostScript, no
+  local number",,,,"gr-qc",,"  The new method of invariant definition of the measurable angle of light
+deflection in the static central symmetric gravitational field is suggested.
+The predicted pure gravitational contribution to the deflection angle slightly
+differs from its classical estimate and one may hope that this discrepancy
+could be experimentally detected in the near future. (uuencoded,compressed
+PostScript, 23 p. inc. 2 fig.)
+","[{""version"":""v1"",""created"":""Tue, 2 Nov 1993 19:23:49 GMT""}]","2007-05-23"
+"hep-lat/9311002",,"S. Antonelli, M. Bellacci, A. Donini and R. Sarno","Full QCD on APE100 Machines","23 pages, LaTeX, 13 PS figures not included","Int. J. Mod. Phys. C6 (1995) 25","10.1142/S0129183195000046","ROME Preprint 93/972","hep-lat",,"  We present the first tests and results from a study of QCD with two flavours
+of dynamical Wilson fermions using the Hybrid Monte Carlo Algorithm (HMCA) on
+APE100 machines.
+","[{""version"":""v1"",""created"":""Tue, 2 Nov 1993 20:46:00 GMT""}]","2015-06-25"
+"hep-lat/9311003","Kenton Yee","Ken Yee","Compact U(1)xU(1) Model with Minimal Interspecies Interaction","1+10 pages, LSUHEP-1010-93, hep-lat/9311003","Mod.Phys.Lett. A9 (1994) 1991-1997","10.1142/S0217732394001854",,"hep-lat",,"  We introduce a minimally interacting pure gauge compact U(1)xU(1) model
+consistent with abelian projection symmetries. This paradigm, whose
+interactions are entirely due to compactness, illustrates how compactness can
+contribute to interspecies interactions. Furthermore, it has a much richer
+phase structure(including a magnetically confining phase) than obtained by
+naively tensoring together two compact U(1) copies.
+","[{""version"":""v1"",""created"":""Wed, 3 Nov 1993 07:55:59 GMT""}]","2009-10-22"
+"hep-ph/9311211","Roberto Ugoccioni","R. Ugoccioni, A. Giovannini and S. Lupia","The Generalized Simplified Parton Shower Model","(uuencoded, gzip-compressed postscript file, 6 pages) DFTT 52/93.
+  [Talk presented at XXIII Int'l. Symposium on Multiparticle Dynamics, Aspen,
+  CO, USA, 12-17 September 1993]",,,,"hep-ph",,"  We explore the consequences of considering clans real physical objects in the
+framework of a generalized version of the Simplified Parton Shower model for a
+single jet. We predict that the average number of clans at fixed energy grows
+linearly in rapidity and slowly decreases with energy in a fixed rapidity
+interval.
+","[{""version"":""v1"",""created"":""Tue, 2 Nov 1993 16:50:46 GMT""}]","2007-05-23"
+"hep-ph/9311212","Ming Lu","Mark B. Wise","Heavy Flavor Theory: Overview","25 pages, phyzzx, CALT-68-1901, Talk given at the Lepton Photon
+  Conference",,"10.1063/1.45482",,"hep-ph",,"  An introduction to the heavy quark effective theory and its symmetries is
+given. Some implications of the heavy quark spin and flavor symmetries are
+discussed. Recent results on fragmentation to quarkonium states are reviewed.
+","[{""version"":""v1"",""created"":""Tue, 2 Nov 1993 19:41:45 GMT""}]","2015-06-25"
+"hep-ph/9311213","Gregory D. Mahlon","Gregory Mahlon","One Loop Multiphoton Helicity Amplitudes","27 pages + 4 uuencoded figures (included), Fermilab-Pub-93/327-T,
+  RevTeX","Phys.Rev. D49 (1994) 2197-2210","10.1103/PhysRevD.49.2197",,"hep-ph",,"  We use the solutions to the recursion relations for double-off-shell fermion
+currents to compute helicity amplitudes for $n$-photon scattering and
+electron-positron annihilation to photons in the massless limit of QED. The
+form of these solutions is simple enough to allow {\it all}\ of the
+integrations to be performed explicitly. For $n$-photon scattering, we find
+that unless $n=4$, the amplitudes for the helicity configurations (+++...+) and
+(-++...+) vanish to one-loop order.
+","[{""version"":""v1"",""created"":""Tue, 2 Nov 1993 22:28:39 GMT""}]","2009-10-22"
+"hep-ph/9311214","Naoya Hata","Naoya Hata and Paul Langacker","Solar Model Uncertainties, MSW Analysis, and Future Solar Neutrino
+  Experiments","(Revtex 3.0, 43 pages + 26 figures (uuencoded ps files attached),
+  Easy way: ps files of entire text with embedded figures available by
+  anonymous ftp://upenn5.hep.upenn.edu/pub/hata/papers/msw_analysis.uu","Phys.Rev.D50:632-660,1994","10.1103/PhysRevD.50.632","UPR-0592T","hep-ph astro-ph",,"  Various theoretical uncertainties in the standard solar model and in the
+Mikheyev-Smirnov-Wolfenstein (MSW) analysis are discussed. It is shown that two
+methods of estimating the solar neutrino flux uncertainties are equivalent: (a)
+a simple parametrization of the uncertainties using the core temperature and
+the nuclear production cross sections; (b) the Monte Carlo method of Bahcall
+and Ulrich. In the MSW analysis, we emphasize proper treatments of correlation
+of theoretical uncertainties between flux components and between different
+detectors, the Earth effect, and multiple solutions in a combined $\chi^2$
+procedure. The MSW solutions for various standard and nonstandard solar models
+are also shown. The MSW predictions of the global solutions for the future
+solar neutrino experiments are given, emphasizing the measurement of the energy
+spectrum and the day-night effect in Sudbury Neutrino Observatory and
+Super-Kamiokande to distinguish the two solutions.
+","[{""version"":""v1"",""created"":""Tue, 2 Nov 1993 22:40:22 GMT""}]","2016-09-01"
+"hep-ph/9311215",,"L. Koyrakh","Nonperturbative Corrections to the Heavy Lepton Energy Distribution in
+  the Inclusive Decays $H_b\ra \tau\bar\nu X.$","LaTeX, 10 pages, 4 postscript figures included. Few typos corrected","Phys.Rev. D49 (1994) 3379-3384","10.1103/PhysRevD.49.3379",,"hep-ph",,"  Nonperturbative corrections up to $m_b^{-2}$ to the heavy lepton energy
+distributions are investigated in the inclusive semileptonic weak decays of
+heavy flavors in QCD. In the case of $B$-meson decays, for $b \ra u\tau\bnu$
+transitions they decrease the decay rate by 6\% of its perturbative value,
+while for $b \ra c\tau\bnu$ they decrease it by 10\%.
+","[{""version"":""v1"",""created"":""Wed, 3 Nov 1993 04:56:47 GMT""},{""version"":""v2"",""created"":""Tue, 14 Dec 1993 22:57:17 GMT""}]","2009-10-22"
+"hep-ph/9311216","Simonov","Yu.A.Simonov","Nonperturbative Effects in QCD at $T>0$","22 pages, preprint ITEP-03-93","Phys.Atom.Nucl.58:309-318,1995; Yad.Fiz.58N2:357-366,1995",,,"hep-ph",,"  The background field formalism is used to implement nonperturbative QCD
+contributions into diagrammatic technic at $T>0$. The leading terms both in the
+confining and nonconfining phase are identified at large $N_c$ and the
+transition temperature is calculated in this limit, which appears to be in good
+agreement with the Monte Carlo calculations.
+","[{""version"":""v1"",""created"":""Tue, 2 Nov 1993 17:05:00 GMT""},{""version"":""v2"",""created"":""Fri, 5 Nov 1993 15:06:00 GMT""}]","2011-08-11"
+"hep-ph/9311217","Simonov","Yu.A.Simonov","Ideas in Nonperturbative QCD","Invited Talk at the International conference Hadron--93, 21--25 June
+  Como (Italy), 15 pages, preprint ITEP-84-93","Nuovo Cim.A107:2629-2644,1994","10.1007/BF02734040",,"hep-ph",,"  The structure of the hadron spectrum is discussed in connection with the main
+phenomena of nonperturbative QCD: confinement and chiral symmetry breaking
+(CSB). For the higher part of the spectrum ($M \ge 2 GeV$) spin and chiral
+effects are unimportant; spectrum of $q\bar{q}$ system is described by an
+effective Hamiltonian deduced from QCD. The Hamiltonian reduces to relativistic
+quark potential model or to the open string model in two opposite limits.
+Hybrids are shown to appear naturally in theory and enter the multiplets which
+are compared to experiment and bosonic string theory. The phenomenon of
+conspiracy of the spectrum of radial excited states producing operator product
+expansion is discussed. The lower part of the spectrum $(M< 2 GeV)$ is
+influenced by spin and chiral effects. CSB and the chiral quark mass are
+deduced for the vacuum containing instantons and confining background. Main
+points are summarized in conclusion.
+","[{""version"":""v1"",""created"":""Tue, 2 Nov 1993 16:50:00 GMT""},{""version"":""v2"",""created"":""Tue, 9 Nov 1993 13:55:00 GMT""}]","2009-07-28"
+"hep-ph/9311218",,"I.I.Bigi","Marching towards a Theory of Non-leptonic Decays of heavy-Flavour
+  Hadrons""","10 pages, 1 figure included as EPS file and PSMACROS.TEX attached for
+  an input file; Invited Talk at the Heavy Flavour Conference, Pavia, 1993;
+  CERN-TH.7050/93",,,,"hep-ph",,"  Theoretical descriptions for the nonleptonic decays of heavy flavour hadrons
+have emerged that incorporate non-perturbative corrections in a systematic way
+and are genuinely based on QCD. One can reproduce $\tau (D^+)/\tau (D^0)$,
+$BR_{SL}(D^+)$ and $BR_{SL}(D^0)$ as due mainly to destructive interference in
+$D^+$ decays; one predicts $\tau (B^-)$ to exceed $\tau (B_d)$ by a few per
+cent; $BR_{SL}(B)$ is reduced only slightly, raising the prospects of a serious
+and tantalizing conflict with ARGUS \& CLEO data. It is emphasized that the
+lifetimes for the two mass eigenstates in the $B_s$-$\bar B_s$ system could
+differ by 30\% or even more. The status of phenomenological treatments of
+non-leptonic two-body modes is briefly reviewed.
+","[{""version"":""v1"",""created"":""Wed, 3 Nov 1993 10:23:43 GMT""}]","2007-05-23"
+"hep-ph/9311219",,"R. Guida, K. Konishi, N. Magnoli","Fermions, Anomaly and Unitarity in High-Energy Electroweak Scattering","59 (Latex) pages (+13 postscript figures (1075 blocks) available by
+  e-mail request), GEF-Th-17/1993","Int.J.Mod.Phys.A9:795-860,1994","10.1142/S0217751X94000376",,"hep-ph hep-th",,"  We report the ""state of the art"" of the problem of $B+L$ violation in
+high-energy electroweak scatterings. Results of various analyses point toward
+(though do not prove rigorously yet) the ""half-suppression"", i.e., that the
+$B+L$ violating cross section remains suppressed at least by the negative
+exponent of the single instanton action, at all energies. Most interesting
+techniques developed in this field are reviewed. Particular attention is paid
+to unitarity constraints on the anomalous cross section, and to some conceptual
+problem involving the use of the optical theorem in the presence of instantons.
+","[{""version"":""v1"",""created"":""Wed, 3 Nov 1993 10:53:23 GMT""}]","2009-12-10"
+"hep-ph/9311220","Anirban Kundu","A. Kundu, T. De and B. Dutta-Roy","Advantages in Choosing Real Generators for SU(N)","SINP report # SINP-TNP/93-08, LaTex (6 pages)",,,,"hep-ph",,"  Some results are presented indicating the distinct advantages that accrue
+from choosing a real representation for the generators of SU(N) rather than the
+usual and more popular Gell-Mann type matrices. A few examples in the context
+of quantum chromodynamics are used to serve as illustrations.
+","[{""version"":""v1"",""created"":""Wed, 3 Nov 1993 06:27:13 GMT""}]","2007-05-23"
+"hep-th/9311014","Per Berglund","P. Berglund and S. Katz","Mirror Symmetry for Hypersurfaces in Weighted Projective Space and
+  Topological Couplings","28p, use harvmac. A new derivation of the Yukawa coupling in the
+  large complex structure limit has been added to section 5.2","Nucl.Phys. B420 (1994) 289-314","10.1016/0550-3213(94)90382-4","IASSNS-HEP-93/65, NSF-ITP-93-128, OSU Math 1993-2, UTTG-24-93","hep-th alg-geom math.AG",,"  By means of toric geometry we study hypersurfaces in weighted projective
+space of dimension four. In particular we compute for a given manifold its
+intrinsic topological coupling. We find that the result agrees with the
+calculation of the corresponding coupling on the mirror model in the large
+complex structure limit.
+","[{""version"":""v1"",""created"":""Tue, 2 Nov 1993 19:47:36 GMT""},{""version"":""v2"",""created"":""Tue, 4 Jan 1994 23:01:26 GMT""}]","2009-10-22"
+"hep-th/9311015","Kresimir Demeterfi","Kre\v{s}imir Demeterfi, Igor R. Klebanov and Gyan Bhanot","Glueball spectrum in a (1+1)-dimensional model for QCD","17 pages, uses phyzzx and table.tex, 5 figures available upon request
+  from kresimir@puhep1.princeton.edu","Nucl.Phys. B418 (1994) 15-29","10.1016/0550-3213(94)90236-4","PUPT-1427, IASSNS-HEP-93/59","hep-th",,"  We consider (1+1)-dimensional QCD coupled to scalars in the adjoint
+representation of the gauge group SU($N$). This model results from dimensional
+reduction of the (2+1)-dimensional pure glue theory. In the large-N limit we
+study the spectrum of glueballs numerically, using the discretized \lcq. We
+find a discrete spectrum of bound states, with the density of levels growing
+approximately exponentially with the mass. A few low-lying states are very
+close to being eigenstates of the parton number, and their masses can be
+accurately calculated by truncated diagonalizations.
+","[{""version"":""v1"",""created"":""Tue, 2 Nov 1993 22:33:27 GMT""}]","2009-10-22"
+"hep-th/9311016",,"Ovid C. Jacob","Parity and Front-Form Quantization of Field Theories","18 pages, phyzzx","Mod.Phys.Lett. A9 (1994) 3219-3228","10.1142/S0217732394003038","SLAC-PUB-6391","hep-th",,"  Recently, we proposed a new front-form quantization which treated both the
+$x^{+}$ and the $x^{-}$ coordinates as front-form 'times.' This quantization
+was found to preserve parity explicitly. In this paper we extend this
+construction to fermion fields in the context of the Yukawa theory. We quantize
+this theory using a method proposed originally by Faddeev and Jackiw . We find
+that $P^-$ {\it and} $P^+$ become dynamical and that the theory is manifestly
+invariant under parity.
+","[{""version"":""v1"",""created"":""Wed, 3 Nov 1993 00:45:00 GMT""}]","2015-06-26"
+"hep-th/9311017",,"Ovid C. Jacob","Quantization of Gauge Field Theories on the Front-Form without Gauge
+  Constraints I : The Abelian Case","18 pages, phyzzx","Phys. Rev. D 50, 5289 (1994)","10.1103/PhysRevD.50.5289","SLAC-PUB-6392","hep-th",,"  Recently, we have proposed a new front-form quantization which treated both
+the $x^{+}$ and the $x^{-}$ coordinates as front-form 'times.' This
+quantization was found to preserve parity explicitly. In this paper we extend
+this construction to local Abelian gauge fields . We quantize this theory using
+a method proposed originally by Faddeev and Jackiw . We emphasize here the
+feature that quantizing along both $x^+$ and $x^-$ , gauge theories does not
+require extra constraints (also known as 'gauge conditions') to determine the
+solution uniquely.
+","[{""version"":""v1"",""created"":""Wed, 3 Nov 1993 00:46:00 GMT""}]","2013-11-13"
+"hep-th/9311018","Annemarie Blobel","Oliver Rudolph","Sum-over-histories representation for the causal Green function of free
+  scalar field theory","14 pages, latex, DESY 93-145","Phys.Rev. D51 (1995) 1818-1830","10.1103/PhysRevD.51.1818",,"hep-th",,"  A set of Green functions ${\cal G}_{\alpha}(x-y), \alpha \in [0, 2 \pi [$,
+for free scalar field theory is introduced, varying between the Hadamard Green
+function $\Delta_1(x-y) \equiv \linebreak[2] \lsta{0} \hspace{-0.1cm} \{
+\varphi(x), \varphi(y) \} \hspace{-0.1cm} \rsta{0}$ and the causal Green
+function ${\cal G}_{\pi}(x-y) = i \Delta(x-y) \equiv [\varphi(x), \varphi(y)]$.
+For every $\alpha \in [0, 2 \pi [$ a path-integral representation for ${\cal
+G}_{\alpha}$ is obtained both in the configuration space and in the phase space
+of the classical relativistic particle. Especially setting $\alpha = \pi$ a
+sum-over-histories representation for the causal Green function is obtained.
+Furthermore using BRST theory an alternative path-integral representation for
+${\cal G}_{\alpha}$ is presented. From these path integral representations the
+composition laws for the ${\cal G}_{\alpha}$'s are derived using a modified
+path decomposition expansion.
+","[{""version"":""v1"",""created"":""Wed, 3 Nov 1993 08:00:37 GMT""}]","2014-12-15"
+"hep-th/9311019",,"R. Brout, S. Massar, S. Popescu, R. Parentani, Ph. Spindel","Quantum Back Reaction on a Classical Field","23 pages (LATEX) plus 9 figures(available upon request), ULB-TH 93/16
+  UMH-MG 93/03","Phys.Rev. D52 (1995) 1119-1133","10.1103/PhysRevD.52.1119",,"hep-th",,"  We show how to apply post selection in the context of weak measurement of
+Aharonov and collaborators to construct the quantum back reaction on a
+classical field. The particular case which we study in this paper is pair
+creation in an external electric field and the back reaction is the counter
+field produced by the pair \underline {as} it is made. The construction leads
+to a complex electric field obtained from non diagonal matrix elements of the
+current operator, the interpretation of which is clear in terms of weak
+measurement. The analogous construction applied to black hole physics (thereby
+leading to a complex metric) is relegated to a future paper.
+","[{""version"":""v1"",""created"":""Wed, 3 Nov 1993 13:47:47 GMT""}]","2009-10-22"
+"hep-th/9311020",,"V.V. Mangazeev, S.M. Sergeev, Yu.G. Stroganov","New series of 3D lattice integrable models","17 pages, IHEP-93-126, Latex","Int. J. Mod. Phys. A9 (1994) 5517-5530","10.1142/S0217751X94002247",,"hep-th",,"  In this paper we present a new series of 3-dimensional integrable lattice
+models with $N$ colors. The case $N=2$ generalizes the elliptic model of our
+previous paper. The weight functions of the models satisfy modified tetrahedron
+equations with $N$ states and give a commuting family of two-layer
+transfer-matrices. The dependence on the spectral parameters corresponds to the
+static limit of the modified tetrahedron equations and weights are
+parameterized in terms of elliptic functions. The models contain two free
+parameters: elliptic modulus and additional parameter $\eta$. Also we briefly
+discuss symmetry properties of weight functions of the models.
+","[{""version"":""v1"",""created"":""Wed, 3 Nov 1993 13:17:04 GMT""}]","2015-06-26"
+"patt-sol/9310006","John D. Crawford","John David Crawford (Department of Physics and Astronomy, University
+  of Pittsburgh, Pittsburgh, PA)","D4-symmetric Maps with Hidden Euclidean Symmetry","51 pages (Latex), no figures; paper to appear in Proc. of the Fields
+  Institute Workshop on Pattern Formation and Symmetry Breaking in PDE's, M.
+  Golubitsky and W. Langford, eds., American Mathematical Society",,,"PITT-NL-0193","patt-sol nlin.PS",,"  Bifurcation problems in which periodic boundary conditions (PBC) or Neumann
+boundary conditions (NBC) are imposed often involve partial differential
+equations that have Euclidean symmetry. In this case posing the bifurcation
+problem with either PBC or NBC on a finite domain can lead to a symmetric
+bifurcation problem for which the manifest symmetries of the domain do not
+completely characterize the constraints due to symmetry on the bifurcation
+equations. Additional constraints due to the Euclidean symmetry of the
+equations can have a crucial influence on the structure of the bifurcation
+equations. An example is the bifurcation of standing waves on the surface of
+fluid layer. The Euclidean symmetry of an infinite fluid layer constrains the
+bifurcation of surface waves in a finite container with square cross section
+because the waves satisfying PBC or NBC can be shown to lie in certain
+finite-dimensional fixed point subspaces of the infinite-dimensional problem.
+These constraints are studied by analyzing the finite-dimensional vector fields
+obtained on these subspaces by restricting the bifurcation equations for the
+infinite layer. Particular emphasis is given to determining which bifurcations
+might reveal observable effects of the rotational symmetry of the infinite
+layer. It turns out that a necessary condition for this possibility to arise is
+that the subspace for PBC must carry a reducible representation of the
+normalizer subgroup acting on the subspace. This condition can be met in
+different ways in both codimension-one and codimension-two bifurcations.
+","[{""version"":""v1"",""created"":""Tue, 2 Nov 1993 17:26:31 GMT""}]","2008-02-03"
+"solv-int/9310003","Basile Grammaticos","B. Grammaticos (LPN, Universit\'e Paris VII, Tour 24-14, 5 etage,
+  Paris, France), F.W. Nijhoff (Department of Mathematics and Computer Science,
+  Clarkson University, Potsdam NY, USA), V. Papageorgiou (LPN, Universit\'e
+  Paris VII Tour 24-14, 5 etage, Paris, France and Department of Mathematics
+  and Computer Science Clarkson University, Potsdam NY, USA) and A. Ramani
+  (CPT, Ecole Polytechnique CNRS, UPR 14, 91128 Palaiseau, France)","Linearization And Solutions Of The Discrete Painlev\'e-III Equation",,,"10.1016/0375-9601(94)91124-X",,"solv-int nlin.SI",,"  We present particular solutions of the discrete Painlev\'e III
+(d-P$\rm_{III}$) equation of rational and special function (Bessel) type. These
+solutions allow us to establish a close parallel between this discrete equation
+and its continuous counterpart. Moreover, we propose an alternate form for
+d-P$\rm_{III}$ and confirm its integrability by explicitly deriving its Lax
+pair.
+","[{""version"":""v1"",""created"":""Wed, 3 Nov 1993 09:56:21 GMT""}]","2009-10-22"

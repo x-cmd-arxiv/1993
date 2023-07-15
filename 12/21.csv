@@ -1,0 +1,336 @@
+"astro-ph/9312049",,"J. P. Norris (NASA/GSFC), R. J. Nemiroff (NASA/GMU), J. D. Scargle
+  (NASA/AMES), C. Kouveliotou (NASA/USRA), G. J. Fishman (NASA/MSFC), C. A.
+  Meegan (NASA/MSFC), W. S. Paciesas (NASA/UAH), J. T. Bonnell (NASA/CSC)","Detection of Signature Consistent with Cosmological Time Dilation in
+  Gamma-Ray Bursts","in press: ApJ, Plain TeX: 18 pages, 4 figures, hard preprint
+  available upon request, Report # RJNSISSA003",,"10.1086/173912",,"astro-ph",,"  If gamma-ray bursters are at cosmological distances - as suggested by their
+isotropic distribution on the sky and by their number-intensity relation - then
+the burst profiles will be stretched in time, by an amount proportional to the
+redshift, 1 + $z$. We have tested data from the {\it Compton} Gamma Ray
+Observatory's Burst and Transient Source Experiment (BATSE) for such time
+dilation. Our measures of time scale are constructed to avoid selection effects
+arising from intensity differences by rescale all bursts to fiducial levels of
+peak intensity and noise bias. The three tests involved total count rate above
+background, wavelet decomposition, and alignment of the highest peaks. In all
+three tests, the dim bursts are stretched by a factor of about two relative to
+the bright ones, over seven octaves of time scale. We calibrated the
+measurements by dilating synthetic bursts that approximate the temporal
+characteristics of bright BATSE bursts. Results are consistent with bursts of
+BATSE's peak-flux completeness limit being at cosmological distances
+corresponding to $z \sim 1$, and thus with independent cosmological
+interpretations of the BATSE number-intensity relation.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 00:36:20 GMT""}]","2009-10-22"
+"astro-ph/9312050","Eduard Masso","Philippe Jetzer and Eduard Masso (Zurich Univ.)","On the Mass of the Dark Compact Halo Objects","ZU-TH 31/93, LaTex 5 pages, 1 Figure not included but available (by
+  fax) upon request","Phys.Lett. B323 (1994) 347-350","10.1016/0370-2693(94)91230-0",,"astro-ph",,"  Recently the French EROS collaboration and the American-Australian MACHO
+collaboration have reported the observation of altogether three possible
+microlensing events by monitoring over several years the brightness of millions
+of stars in the Large Magellanic Cloud. For each of these events, assuming they
+are due to microlensing, we compute the most likely mass for the dark compact
+halo object, which acted as gravitational lens. The most likely masses are
+0.12, 0.31 and 0.38 $M_{\odot}$. The average mass calculated using the method
+of moments turns out to be 0.14 $M_{\odot}$.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 12:02:14 GMT""}]","2009-10-22"
+"chao-dyn/9312007","Frederick H. Willeboordse","Frederick H. Willeboordse (University of Tokyo), Kunihiko Kaneko
+  (University of Tokyo)","Bifurcations and Spatial Chaos in an Open Flow Model","4 pages; single compressed and uuencoded Postscript file which
+  includes the 5 figures",,"10.1103/PhysRevLett.73.533",,"chao-dyn nlin.CD",,"  It is shown that a coupled map model for open flow may exhibit spatial chaos
+and spatial quasiperiodicity with temporal periodicity. The locations of these
+patterns, which cover a substantial part of parameter space, are indicated in a
+comprehensive phase diagram. In order to analyze the encountered phenomena, a
+novel class of spatial maps is introduced which is very efficient in accurately
+reproducing the original spatial patterns. It is found that temporally period
+one spatial chaos is convectively unstable, and that it is possible to predict
+an essential aspect of the bifurcation behavior of the coupled system solely by
+considering its corresponding spatial map.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 10:16:42 GMT""}]","2009-10-22"
+"chao-dyn/9312008","Alexander M. Iskoldsky","N.B. Volkov and A.M. Iskoldsky (Russian Academy of Science, Ural
+  Division, Institute of Electrophysics, 34, Komsomolskaya St., Ekaterinburg,
+  620219, Russia)","The Dynamics Of Vortex Structures And States Of Current In Plasma-Like
+  Fluids And The Electrical Explosion Of Conductors: 1. The model of a
+  non-equilibrium phase transition","LaTeX, 3 PostScript figures,(E-mail: ami@ami.e-burg.su)",,"10.1088/0305-4470/26/23/014",,"chao-dyn nlin.CD",,"  A set of equations according to which the conducting medium consists of two
+fluids - laminar and vortex, has been obtained in the present paper by
+transforming MHD equations. In a similar way, an electronic fluid is assumed to
+consist of a laminar and a vortex fluid. This system allows one to study the
+formation and the dynamics of large-scale hydrodynamic fluctuations. From this
+model a model of a non-equilibrium phase transition belonging to a class of the
+Lorenz-type models has been developed [Lorenz E N 1963 J. Atmos. Sci. {\bf 20}
+130]. Vortex structures resulting in the increase in an effective resistance of
+the conducting medium and the interruption of current have been shown to appear
+even at constant transport coefficients in a laminar electronic fluid. Critical
+exponents of the parameters of an order (amplitudes), which for a direct
+current coincide with the critical exponents in the Lorenz model, have been
+found. A spatial scale of the structure described by the theory is in good
+agreement with experiment. A further evolution of vortex structures has been
+shown to occur by splitting the spatial scale. A similarity, according to which
+the following sequence of splitting takes place:
+{\({k_0}{\rightarrow}{k_1}=0.5{k_0}{\rightarrow}
+{k_2}=2{k_0}{\rightarrow}{k_3}=2{k_2}\)}, etc. has been hypothesized.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 10:27:49 GMT""}]","2009-10-22"
+"cond-mat/9312080","Loic Turban","L. Turban (1), F. Igloi (2 and 3), B. Berche (1) ((1) Henri Poincare
+  University, Nancy, (2) Research Institute for Solid State Physics, Budapest,
+  (3) University of Szeged)","Surface Magnetization and Critical Behavior of Aperiodic Ising Quantum
+  Chains","8 pages, 7 eps-figures, uses RevTex and epsf, minor corrections","Phys. Rev. B 49 (1994) 12695","10.1103/PhysRevB.49.12695",,"cond-mat.stat-mech hep-th",,"  We consider semi-infinite two-dimensional layered Ising models in the extreme
+anisotropic limit with an aperiodic modulation of the couplings. Using
+substitution rules to generate the aperiodic sequences, we derive functional
+equations for the surface magnetization. These equations are solved by
+iteration and the surface magnetic exponent can be determined exactly. The
+method is applied to three specific aperiodic sequences, which represent
+different types of perturbation, according to a relevance-irrelevance
+criterion. On the Thue-Morse lattice, for which the modulation is an irrelevant
+perturbation, the surface magnetization vanishes with a square root
+singularity, like in the homogeneous lattice. For the period-doubling sequence,
+the perturbation is marginal and the surface magnetic exponent varies
+continuously with the modulation amplitude. Finally, the Rudin-Shapiro
+sequence, which corresponds to the relevant case, displays an anomalous surface
+critical behavior which is analyzed via scaling considerations: Depending on
+the value of the modulation, the surface magnetization either vanishes with an
+essential singularity or remains finite at the bulk critical point, i.e., the
+surface phase transition is of first order.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 16:14:48 GMT""},{""version"":""v2"",""created"":""Tue, 21 Dec 1993 10:15:03 GMT""},{""version"":""v3"",""created"":""Fri, 5 Sep 1997 15:04:01 GMT""}]","2009-10-22"
+"cond-mat/9312082","Noha Salem","R.J. Gooding, N.M. Salem and A. Mailhot","Theory of Coexisting Transverse Spin Freezing and Long-Ranged
+  Antiferromagnetic Order in Lightly Doped La_{2-x}Sr_x CuO_4","18 pages, figures available upon request, revtex, 5006",,"10.1103/PhysRevB.49.6067",,"cond-mat",,"  We provide an explanation of the spin-freezing transition recently observed
+by Chou et al. (Phys. Rev. Lett. 71, 2323 (1993)) in La_{2-x}Sr_x CuO_4 for x
+<= 0.02. We propose that topological excitations of the 2D Heisenberg quantum
+antiferromagnet having non-coplanar transverse components have a
+pair-interaction energy that qualitatively and quantitatively agrees with the
+observed values of spin-freezing temperature as a function of doping.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 19:19:19 GMT""}]","2009-10-22"
+"cond-mat/9312083",,"R. Hlubina","Luttinger Liquid in a Solvable 2-Dimensional Model","13 pages, 1 figure upon request, REVTEX, ETH-TH/93-50",,"10.1103/PhysRevB.50.8252",,"cond-mat",,"  We consider spinless electrons in two dimensions with the bare spectrum
+$\epsilon({\bf p})=|p_x|+|p_y|$. In momentum space, the interactions among
+electrons have a finite range $q_0$, which is small compared to the Fermi
+momentum. A golden rule calculation of the electron lifetime indicates a
+breakdown of the Landau Fermi liquid in the model. At the one-loop level of
+perturbation theory, we show that the density wave and the superconducting
+instabilities cancel each other and there is no symmetry breaking. We solve the
+model via bosonization; the excitation spectrum is found to consist of gapless
+bosonic modes as in a one-dimensional Luttinger liquid.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 02:26:00 GMT""}]","2009-10-22"
+"cond-mat/9312084",,"Kazuo Hida","Magnetic Properties of the Spin-1/2
+  Ferromagnetic-Ferromagnetic-Antiferromagnetic Trimerized Heisenberg Chain:","15 pages, LaTeX, Style Fie 'jour.sty' and postscript file for the
+  figures included. SKPH-93-C001","J. Phys. Soc. Jpn. 63 (1994) 2359","10.1143/JPSJ.63.2359",,"cond-mat",,"  The magnetic properties of the ferromagnetic-ferromagnetic-antiferromagnetic
+trimerized spin-1/2 Heisenberg chain are studied theoretically. The high
+temperature susceptibilty and the ground state saturation magnetic field are
+calculated and the exchange energies of the trimer compound 3CuCl${}_2\cdot$2dx
+are determined. The magnetization curve is obtained by numerical
+diagonalization of finite size systems. The result explains the low temperature
+magnetization data for 3CuCl${}_2\cdot$2dx with the exchange energies obtained
+as above. It is predicted that the magnetization curve has a plateau at 1/3 of
+the saturation magnetization if the ferromagnetic exchange energy is comparable
+to or smaller than the antiferromagnetic exchange energy.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 10:15:50 GMT""}]","2009-10-22"
+"hep-lat/9312079","Stefan Sint","Stefan Sint","On the Schroedinger functional in QCD","22 pages in postscript (no figures)","Nucl.Phys. B421 (1994) 135-158","10.1016/0550-3213(94)90228-3","DESY 93--165","hep-lat",,"  In a series of publications [\ref{LNWW},\ref{Schroedinger}], L\""uscher et al.
+have demonstrated the usefulness of the Schr\""odinger functional in pure SU(2)
+and SU(3) gauge theory. In this paper, it is shown how their formalism can be
+extended to include fermions. In the framework of Wilson's lattice QCD, we
+define the Schr\""odinger functional by making use of the transfer matrix
+formalism. Boundary conditions for the fermions arise naturally. We then take
+the naive continuum limit of the action and show that no lattice peculiarities
+are left over. The corresponding free Dirac operator has a unique self-adjoint
+extension with purely discrete spectrum and no zero modes.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 20:37:00 GMT""}]","2016-08-31"
+"hep-lat/9312080","Aida El-Khadra","Aida X. El-Khadra","The Strong Coupling from Quarkonia","7 pages, 1 uuencoded postscript file, OHSTPY-HEP-T-93-020,
+  DOE/ER/01545-614","Nucl.Phys.Proc.Suppl.34:141-146,1994","10.1016/0920-5632(94)90330-1",,"hep-lat hep-ph",,"  The status of determinations of $\al_s$ from quarkonia using lattice QCD is
+reviewed. We compare the results with those obtained from perturbative QCD.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 00:43:10 GMT""}]","2010-11-19"
+"hep-ph/9312311",,"Matthias Neubert","Analysis of the Photon Spectrum in Inclusive $B\to X_s\,\gamma$ Decays","(Sec. 5 has been modified, and a discussion of radiative corrections
+  has been added to Sec. 6), 26 pages, CERN-TH.7113/93","Phys.Rev.D49:4623-4633,1994","10.1103/PhysRevD.49.4623",,"hep-ph",,"  Using a combination of the operator product and heavy quark expansions, we
+resum the leading nonperturbative contributions to the inclusive photon
+spectrum in $B\to X_s\,\gamma$ decays. The shape of the spectrum is determined
+by a universal structure function, which describes the distribution of the
+light-cone momentum of the $b$-quark inside the $B$-meson. The moments of this
+function are proportional to forward matrix elements of higher-dimension
+operators. As a by-product, we obtain the bound $\lambda_1<0$ for one of the
+parameters of the heavy quark effective theory. The integral over the $B\to
+X_s\,\gamma$ structure function is related to the shape function that governs
+the fall-off of the lepton spectrum close to the endpoint in $B\to
+X_u\,\ell\,\bar\nu$ decays. A measurement of the photon spectrum in rare
+$B$-decays can therefore help to obtain a model-independent determination of
+$V_{ub}$.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 16:00:15 GMT""},{""version"":""v2"",""created"":""Tue, 18 Jan 1994 18:41:14 GMT""}]","2010-11-01"
+"hep-ph/9312312","James Liu","James T. Liu","Generation non-universality and flavor changing neutral currents in the
+  331 model","12 pages, CTP-TAMU-79/93","Phys.Rev.D50:542-547,1994","10.1103/PhysRevD.50.542",,"hep-ph",,"  The 331 model, an extension of the standard electroweak theory to
+$SU(3)_L\times U(1)_X$, naturally predicts three families of quarks and leptons
+via the requirement of anomaly cancellation. This is accomplished by making one
+of the quark families transform differently from the other two, thus leading to
+flavor changing neutral currents. Using experimental input on neutral meson
+mixing, we show that the third family must be the one that is singled out, at
+least up to small family mixing. We additionally describe a convenient way to
+parametrize the new mixing matrix that plays a role in the gauge interactions
+of the ordinary quarks with the new 331 quarks.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 17:47:55 GMT""}]","2010-11-01"
+"hep-ph/9312313",,"A.P. Kostyuk, A.P. Kobushkin, N.M. Chepilko and T. Okazaki","On validity of perturbative quantization of the breathing mode in the
+  Skyrme model","8 pages, LaTeX, ITP-93-64E","Phys.Atom.Nucl. 58 (1995) 1404-1407; Yad.Fiz. 58N8 (1995)
+  1488-1491",,,"hep-ph",,"  We present a detailed discussion of the breathing mode quantization in the
+Skyrme model and demonstrate that the chiral angle of the hedgehog soliton is
+strongly affected by the breathing motion.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 17:30:57 GMT""}]","2007-05-23"
+"hep-ph/9312314","Ed Stoeffhaas","V. Barger, E. Mirkes, J. Ohnemus and R.J.N. Phillips","Single-Lepton Top Signals with a b-Tag at the Tevatron","8 pages, Revtex file. 3 postscript figures submitted to hep-ph via
+  ""figures"" command, also available via fax or regular mail upon request.
+  Preprint no. MAD/PH/807",,,,"hep-ph",,"  Events with a leptonic W-decay plus jets should contain top-quark signals,
+but a QCD W+jets background must be separated. We compare transverse
+W-momentum, jet multiplicity, and b-tagging separation criteria, and find that
+the main background after tagging comes from mistagging. We illustrate how to
+extract the mass m_t via event reconstructions and how to confirm signal purity
+by lepton angular distributions.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 21:23:21 GMT""}]","2009-09-25"
+"hep-ph/9312315",,"K.S. Babu, Kazuo Fujikawa and Atsushi Yamada","Constraints on left-right symmetric models from the process $b
+  \rightarrow s \gamma$","in LaTeX, 12 pages + 4 figures (available on request), BA-93-69,
+  UT-662","Phys.Lett.B333:196-201,1994","10.1016/0370-2693(94)91029-4",,"hep-ph",,"  In left-right symmetric models, large contributions to the decay amplitude $b
+\rightarrow s+ \gamma$ can arise from the mixing of the $W_L$ and $W_R$ gauge
+bosons as well as from the charged Higgs boson. These amplitudes are enhanced
+by the factor $\mt/\mb$ compared to the contributions in the standard model. We
+use the recent CLEO results on the radiative $B$ decay to place constraints on
+the $W_L-W_R$ mixing angle $\zeta$ and the mass of the charged Higgs boson
+$m_{H^\pm}$. Significant departures from the standard model predictions occur
+when $|\zeta| > 0.003$ and/or when $m_{H^\pm} < $ a few TeV.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 22:09:08 GMT""}]","2011-05-12"
+"hep-ph/9312316","Sidney H. Kahana","David E. Kahana and Sidney H. Kahana","Top and Higgs Masses in Dynamical Symmetry Breaking","10 pages + refs. + table + 4 figs","Phys.Rev. D52 (1995) 3065-3071","10.1103/PhysRevD.52.3065",,"hep-ph",,"  A model for composite electroweak bosons is re-examined to establish
+approximate ranges for the initial predictions of the top and Higgs masses.
+Higher order corrections to this $4$-fermion theory at a high mass scale where
+the theory is matched to the Standard Model have little effect, as do wide
+variations in this scale. However, including all one loop evolution and
+defining the masses self-consistently, at their respective poles, moves the top
+mass upward by some $10$ GeV to near $175$ GeV and the Higgs mass down by a
+similar amount to near $125$ GeV.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 00:00:39 GMT""}]","2009-10-22"
+"hep-ph/9312317","Vassilis Koulovassilopoulos","Vassilis Koulovassilopoulos and R. Sekhar Chivukula","The Phenomenology of a Non-Standard Higgs Boson IN $W_{L}W_{L}$
+  Scattering","(minor changes in the text and in the references), 30 pages + 9 pages
+  uuencoded figures, Latex with FEYNMAN input required, BUHEP-93-30","Phys.Rev.D50:3218-3234,1994","10.1103/PhysRevD.50.3218",,"hep-ph",,"  In this paper we consider the phenomenology of a ``non-standard'' Higgs Boson
+in longitudinal gauge-Boson scattering. First, we present a composite Higgs
+model (based on an $SU(4)/Sp\,(4)$ chiral-symmetry breaking pattern) in which
+there is a non-standard Higgs Boson. Then we explore, in a model-independent
+way, the phenomenology of such a non-standard Higgs by calculating the chiral
+logarithmic corrections to longitudinal gauge scattering. This calculation is
+done using the Equivalence theorem and the Higgs is treated as a
+scalar-isoscalar resonance coupled to the Goldstone Bosons of the
+\mbox{$SU(2)_{L} \times SU(2)_{R}/SU(2)_{V}$} chiral symmetry breaking. We show
+that the most important deviation from the one Higgs-doublet standard model is
+parameterized by one unknown coefficient which is related to the Higgs width.
+The implications for future hadron colliders are discussed.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 04:19:51 GMT""},{""version"":""v2"",""created"":""Fri, 7 Jan 1994 21:19:39 GMT""}]","2010-11-01"
+"hep-ph/9312318","Fredrick Olness","M. A. G. Aivazis, Fredrick I. Olness, Wu-Ki Tung","Leptoproduction of Heavy Quarks I-- General Formalism and Kinematics of
+  Charged Current and Neutral Current Production Processes","LaTeX format, 28 pages, 7 figures. Revised to make auto-TeX-able","Phys.Rev.D50:3085-3101,1994","10.1103/PhysRevD.50.3085",,"hep-ph",,"  Existing calculations of heavy quark production in charged-current and
+neutral current lepton-hadron scattering are formulated differently because of
+the artificial distinction of ``light'' and ``heavy'' quarks made in the
+traditional approach. A proper QCD formalism valid for a wide kinematic range
+from near threshold to energies much higher then the quark mass should treat
+these processes in a uniform way. We formulate a unified approach to both types
+of leptoproduction processes based on the conventional factorization theorem.
+In this paper, we present the general framework with complete kinematics
+appropriate for arbitrary masses, emphasizing the simplifications provided by
+the helicity formalism. We illustrate this approach with an explicit
+calculation of the leading order contribution to the quark structure functions
+with general masses. This provides the basis for a complete QCD analysis of
+charged current and neutral current leptoproduction of charm and bottom quarks
+to be presented in subsequent papers.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 04:42:47 GMT""},{""version"":""v2"",""created"":""Tue, 8 Jun 1999 17:51:26 GMT""}]","2010-11-01"
+"hep-ph/9312319","Fredrick Olness 768-2500 or","M.A.G. Aivazis, John C. Collins, Fredrick I. Olness, and Wu-Ki Tung","Leptoproduction of Heavy Quarks II -- A Unified QCD Formulation of
+  Charged and Neutral Current Processes from Fixed-target to Collider Energies","LaTeX format, 29 pages, 11 figures. Revised to make auto-TeX-able","Phys.Rev.D50:3102-3118,1994","10.1103/PhysRevD.50.3102",,"hep-ph",,"  A unified QCD formulation of leptoproduction of massive quarks in charged
+current and neutral current processes is described. This involves adopting
+consistent factorization and renormalization schemes which encompass both
+vector-boson-gluon-fusion (flavor creation) and
+vector-boson-massive-quark-scattering (flavor excitation) production
+mechanisms. It provides a framework which is valid from the threshold for
+producing the massive quark (where gluon-fusion is dominant) to the very high
+energy regime when the typical energy scale \mu is much larger than the quark
+mass m_Q (where the quark-scattering should be prevalent). This approach
+effectively resums all large logarithms of the type (alpha_s(mu)
+log(mu^2/m_Q^2)^n which limit the validity of existing fixed-order calculations
+to the region mu ~ O(m_Q). We show that the (massive) quark-scattering
+contribution (after subtraction of overlaps) is important in most parts of the
+(x, Q) plane except near the threshold region. We demonstrate that the
+factorization scale dependence of the structure functions calculated in this
+approach is substantially less than those obtained in the fixed-order
+calculations, as one would expect from a more consistent formulation.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 04:43:27 GMT""},{""version"":""v2"",""created"":""Tue, 8 Jun 1999 18:10:40 GMT""}]","2010-11-01"
+"hep-ph/9312320","Dr. Ivica Picek","J.O. Eeg and I. Picek","New contribution to anomalous radiative $K^0$-decays","13 p.","Phys.Lett. B323 (1994) 193-200","10.1016/0370-2693(94)90291-7","Oslo TP 17-93 and Zagreb ZTF - 93/11","hep-ph",,"  We present a new contribution to the $K_L\rightarrow \gamma \gamma$
+amplitude, which is ${\cal{O}}(p^4)$ within the counting rules of chiral
+perturbation theory. This direct (non-pole) amplitude, obtained from
+short-distance $s \rightarrow d \gamma$ quark diagrams of order $e G_F
+\alpha_s/\pi$, and similar $s \rightarrow d \gamma \gamma$ diagrams, can
+account for about half of the experimental amplitude. Closely following the
+description of the $\pi ^0\rightarrow \gamma \gamma$ and $K_L\rightarrow \gamma
+\gamma$ processes in the variants of the same low-energy QCD, we find that both
+of these processes are anomalous in the same sense. Then, by the
+anomaly-matching principle, we arrive from the chiral-quark to the bosonic
+counterparts for both of these processes. In this way we add the
+$K_L\rightarrow \gamma \gamma$ decay to the existing list of anomalous
+radiative prosesses.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 11:30:39 GMT""}]","2009-10-22"
+"hep-ph/9312322","Akihiro Shibata","Kei-ichi Kondo, Akihiro Shibata, Masaharu Tanabashi and Koichi
+  Yamawaki","Phase Structure of the Gauged Yukawa Model","in LaTeX 44 pages +15 figures (figures are tared compressed uuencoded
+  postscript file ;separated 3 parts), DPNU-93-45, CHIBA-EP-73, KEK-TH-380 and
+  KEK Preprint 93-171","Prog.Theor.Phys.91:541-572,1994; ERRATUM-ibid.93:489,1995","10.1143/PTP.91.541",,"hep-ph hep-lat",,"  Based on the ladder Schwinger-Dyson equation, we investigate phase struc-
+ture of the gauged Yukawa model possessing a global $SU(2)_L \times SU(2)_R$
+symmetry and an unbroken (vector-like) gauge symmetry. We show that even when
+we tune the squared mass of the scalar boson in the Lagrangian to be positive,
+there still exists the dynamical chiral symmetry breaking due to fermion pair
+condensate (VEV of the composite scalar) triggered by the strong Yukawa
+coupling larger than a certain critical value. We find a ""nontrivial
+ultraviolet fixed line"" and ""renormalized trajectories"" in the
+three-dimensional coupling space of the Yukawa coupling, the gauge cou- pling
+and the ""hopping parameter"" of the elementary scalar field. Presence of the
+gauge coupling is crucial to existence of the fixed line. Implications of the
+result for the lattice calculation and the top quark condensate model are also
+discussed.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 13:13:40 GMT""}]","2011-01-13"
+"hep-th/9312163","Math guest","J. Anandan","Protective Measurement and Quantum Reality","(e-mail n530042@univscvm.bitnet) 30 pages, to be published in
+  Foundations of Physics Letters",,"10.1007/BF00662803",,"hep-th",,"  It is shown that from the expectation values of obervables, which can be
+measured for a single system using protective measurements, the linear
+structure, inner product, and observables in the Hilbert space can be
+reconstructed. A universal method of measuring the wave function of a single
+particle using its gravitational field is given. Protective measurement is
+generalized to the measurement of a degenerate state and to many particle
+systems. The question of whether the wave function is real is examined, and an
+argument of Einstein in favor of the ensemble interpretation of quantum theory
+is refuted.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 18:05:40 GMT""}]","2009-10-22"
+"hep-th/9312165","Dean Miller","Dean F. Miller","Current commutator anomalies in finite-element quantum electrodynamics","15, OKHEP-93-10",,"10.1016/0920-5632(94)90510-X",,"hep-th",,"  Four-dimensional quantum electrodynamics has been formulated on a hypercubic
+Minkowski finite-element lattice. The equations of motion have been derived so
+as to preserve lattice gauge invariance and have been shown to be unitary. In
+addition, species doubling is avoided due to the nonlocality of the
+interactions. The model is used to investigate the lattice current algebra.
+Regularization of the current is shown to arise in a natural and nonarbitrary
+way. The commutators of the lattice current are calculated and shown to have
+the expected qualitative behavior. These lattice results are compared to
+various continuum calculations. (Five figures available from author.)
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 16:33:46 GMT""}]","2009-10-22"
+"hep-th/9312166",,"J. Barcelos-Neto and S.M. de Souza","Geometric Quantization of Topological Gauge Theories","13 pages, plain TEX, IF/UFRJ/93","Z.Phys. C66 (1995) 315-320","10.1007/BF01496606",,"hep-th",,"  We study the symplectic quantization of Abelian gauge theories in $2+1$
+space-time dimensions with the introduction of a topological Chern-Simons term.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 19:17:22 GMT""}]","2015-06-26"
+"hep-th/9312167",,"K. Behrndt, S. Foerste","Cosmological String Solutions by Dimensional Reduction","9 Pages, 4 figures, Latex, epsfig.sty, SLAC--PUB--6411 T , additional
+  references",,,,"hep-th",,"  We obtain cosmological four dimensional solutions of the low energy effective
+string theory by reducing a five dimensional black hole, and black hole--de
+Sitter solution of the Einstein gravity down to four dimensions. The appearance
+of a cosmological constant in the five dimensional Einstein--Hilbert action
+produces a special dilaton potential in the four dimensional effective string
+action. Cosmological scenarios implemented by our solutions are discussed.
+(Talk presented at: ``27th Symposium on the Theory of Elementary Particles''
+Wendisch--Rietz, September 7--11, 1993)
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 20:18:53 GMT""},{""version"":""v2"",""created"":""Mon, 7 Feb 1994 19:38:21 GMT""}]","2008-02-03"
+"hep-th/9312168","Ergin Sezgin","E. Bergshoeff and E. Sezgin","Twistor-like Formulation of Super p-Branes","20 pages, plain tex, CTP TAMU-67/93, UG-5/93","Nucl.Phys. B422 (1994) 329-348","10.1016/0550-3213(94)00108-1",,"hep-th",,"  Closed super (p+2)-forms in target superspace are relevant for the
+construction of the usual super p-brane actions. Here we construct closed super
+(p+1)-forms on a {\it worldvolume superspace}. They are built out of the
+pull-backs of the Kalb-Ramond super (p+1)-form and its curvature. We propose a
+twistor-like formulation of a class of super p-branes which crucially depends
+on the existence of these closed super (p+1)-forms.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 00:11:33 GMT""}]","2009-10-22"
+"hep-th/9312169","Bernard Nienhuis","V. V. Bazhanov, B. Nienhuis and S. O. Warnaar","Lattice Ising model in a field: E$_8$ scattering theory","11 pages, LaTeX","Phys.Lett.B322:198-206,1994","10.1016/0370-2693(94)91107-X","ITF-A-93-40","hep-th",,"  Zamolodchikov found an integrable field theory related to the Lie algebra
+E$_8$, which describes the scaling limit of the Ising model in a magnetic
+field. He conjectured that there also exist solvable lattice models based on
+E$_8$ in the universality class of the Ising model in a field. The dilute A$_3$
+model is a solvable lattice model with a critical point in the Ising
+universality class. The parameter by which the model can be taken away from the
+critical point acts like a magnetic field by breaking the $\Integer_2$ symmetry
+between the states. The expected direct relation of the model with E$_8$ has
+not been found hitherto. In this letter we study the thermodynamics of the
+dilute A$_3$ model and show that in the scaling limit it exhibits an
+appropriate E$_8$ structure, which naturally leads to the E$_8$ scattering
+theory for massive excitations over the ground state.
+","[{""version"":""v1"",""created"":""Tue, 21 Dec 1993 09:32:46 GMT""}]","2011-02-11"
+"nucl-th/9312015",,"W. Melendez and C. J. Horowitz","Semiclassical Quark Model Of the Nuclear Matter Response","22 pages in RevTeX, IUNTC-93-30",,,,"nucl-th",,"  The longitudinal response function $R(q,w)$\ of nuclear matter is calculated
+in a semiclassical quark model. The model has a many- body string-flip
+potential that confines quarks into hadrons and avoids color van der Waals
+forces. Molecular dynamics simulations are used to calculate $R(q,w)$\ in one
+space dimension for a variety of momentum transfers $q$\ and excitation
+energies $w$. The response function decreases with density (compared to a free
+hadron response) because of quark exchange between hadrons.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 20:15:00 GMT""}]","2007-05-23"

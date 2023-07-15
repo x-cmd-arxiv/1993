@@ -1,0 +1,209 @@
+"alg-geom/9306004",,"O. Debarre, K. Hulek, J. Spandaw","Very ample linear systems on abelian varieties","29 pages, typeset with AMS-LaTeX 1.1",,,,"alg-geom math.AG",,"  Let $(X,L)$ be a polarized complex abelian variety of dimension $g$ where $L$
+is a polarization of type $(1,...,1,d)$. For $(X,L)$ genberic we prove the
+following:
+  (1) If $d \ge g+2$, then $\phi_L\colon X \to {\bf P}^{d-1}$ defines a
+birational morphism onto its image.
+  (2) If $d > 2^g$, then $L$ is very ample.
+  We show the latter by checking it on a suitable rank-$(g-1)$-degeneration.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 08:40:16 GMT""}]","2008-02-03"
+"chao-dyn/9306001","Shozo Uehara","Shuji MATSUMOTO (KEK, Japan), Shozo UEHARA (Yukawa Inst.,Japan), and
+  Yukinori YASUI (Osaka City U., JAPAN)","Chaotic System on the Super Riemann Surface","36 pages, phyzzx.tex",,,"YITP/U-93-14","chao-dyn nlin.CD",,"  A chaotic system of a nonrelativistic superparticle moving freely on the
+super Riemann surface (SRS) of genus $g \geq 2$ is reviewed.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 10:47:19 GMT""}]","2008-02-03"
+"cond-mat/9306010","Ben Lee","B. P. Lee and J. L. Cardy","Phase Ordering in One-Dimensional Systems with Long-Range Interactions","(resubmitted with uncompressed text file, compressed figures
+  appended), 32 pages (harvmac), 8 figures, UCSBTH-93-15","Phys. Rev. E 48, 2452 (1993)","10.1103/PhysRevE.48.2452",,"cond-mat",,"  We study the dynamics of phase ordering of a non-conserved, scalar order
+parameter in one dimension, with long-range interactions characterized by a
+power law $r^{-d-\sigma}$. In contrast to higher dimensional systems, the point
+nature of the defects allows simpler analytic and numerical methods. We find
+that, at least for $\sigma > 1$, the model exhibits evolution to a self-similar
+state characterized by a length scale which grows with time as
+$t^{1/(1+\sigma)}$, and that the late time dynamics is independent of the
+initial length scale. The insensitivity of the dynamics to the initial
+conditions is consistent with the scenario of an attractive, non-trivial
+renormalization group fixed point which governs the late time behavior. For
+$\sigma \le 1$ we find indications in both the simulations and an analytic
+method that this behavior may be system size dependent.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 17:11:22 GMT""},{""version"":""v2"",""created"":""Fri, 4 Jun 1993 20:51:34 GMT""}]","2009-10-22"
+"cond-mat/9306011","Mike Norman","M.R. Norman, G.J. McMullan, D.L. Novikov, and A.J. Freeman","Effect of Structure on the Electronic Density of States of Doped
+  Lanthanum Cuprate","9 pages, plain TeX plus macros, 4 figures available from the authors","Phys Rev B 48, 9935 (1993)","10.1103/PhysRevB.48.9935",,"cond-mat",,"  We present a series of detailed band calculations on the various structural
+phases of doped lanthanum cuprate: HTT, LTO, and LTT. The LTO distortion is
+shown to have little effect on the electronic density of states (DOS). A fit to
+the pressure dependence of the superconducting transition temperature indicates
+that only 2.5% of the DOS is affected by the HTT$\to$ LTO transition. The LTT
+distortion also has little effect on the DOS for the experimental value of the
+octahedral tilt angle. Larger tilt angles, though, lead to a dramatic change in
+the DOS.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 22:11:02 GMT""}]","2009-10-22"
+"cond-mat/9306012","Alessandro Pelizzola","C. Buzano and A. Pelizzola","Low-Temperature Expansion for a First Order Surface Transition","9 pages (plain TeX) + 1 figure (PostScript, appended),
+  POLFIS-TH.03/93",,"10.1088/0953-8984/5/40/007",,"cond-mat",,"  The question concerning the possibility of a first order surface transition
+in a semi--infinite Blume--Capel model is addressed by means of low temperature
+expansions. It is found that such a transition can exist, according to mean
+field and cluster variation approximations, and contrarily to renormalization
+group results.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 11:28:16 GMT""}]","2016-08-31"
+"cond-mat/9306013","Loic Turban","L. Turban, B. Berche (Henri Poincare University, Nancy)","Surface Magnetization of Aperiodic Ising Quantum Chains","11 pages, 6 eps-figures, Plain TeX, epsf","Z. Phys. B 92 (1993) 307","10.1007/BF01308747",,"cond-mat.stat-mech hep-th",,"  We study the surface magnetization of aperiodic Ising quantum chains. Using
+fermion techniques, exact results are obtained in the critical region for
+quasiperiodic sequences generated through an irrational number as well as for
+the automatic binary Thue-Morse sequence and its generalizations modulo p. The
+surface magnetization exponent keeps its Ising value, beta_s=1/2, for all the
+sequences studied. The critical amplitude of the surface magnetization depends
+on the strength of the modulation and also on the starting point of the chain
+along the aperiodic sequence.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 13:56:58 GMT""},{""version"":""v2"",""created"":""Thu, 11 Sep 1997 13:50:12 GMT""}]","2009-10-22"
+"funct-an/9306001",,"H.Falomir, M.A.Muschietti, E.M.Santangelo and J.Solomin","A calculation with a bi-orthogonal wavelet transformation","18 pages, see instead physics/9703002",,"10.1063/1.530580",,"funct-an math.FA",,"  We explore the use of bi-orthogonal basis for continuous wavelet
+transformations, thus relaxing the so-called admissibility condition on the
+analyzing wavelet. As an application, we determine the eigenvalues and
+corresponding radial eigenfunctions of the Hamiltonian of relativistic
+Hydrogen-like atoms.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 20:49:26 GMT""}]","2009-10-22"
+"gr-qc/9306007","Donald Marolf","Donald Marolf","Pull Back Invariant Matter Couplings","10 REVTEX pages, SU-GP-93/6-1","Class.Quant.Grav.11:239-251,1994","10.1088/0264-9381/11/1/023",,"gr-qc",,"  An algorithm is described for the construction of actions for scalar, spinor,
+and vector gauge fields that remains well-defined when the metric is degenerate
+and that involve no contravariant tensor fields. These actions produce the
+standard matter dynamics and coupling to gravity when tetrad is nondegenerate,
+but have the property that all fields that appear in them can be pulled back
+through an arbitrary map of degree one and that this pull back leave the action
+invariant when the map has degree one.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 16:12:00 GMT""}]","2010-04-06"
+"gr-qc/9306008","Boris Spokoiny","Boris Spokoiny","Deflationary Universe Scenario","18p, KUNS-1201 Plain TeX, phyzzx. Reference file is included which
+  previously was missed","Phys.Lett.B315:40-45,1993","10.1016/0370-2693(93)90155-B",,"gr-qc",,"  We show that it is possible to realize an inflationary scenario even without
+conversion of the false vacuum energy to radiation. Such cosmological models
+have a deflationary stage in which $Ha^2$ is decreasing and radiation produced
+by particle creation in an expanding Universe becomes dominant. The preceding
+inflationary stage ends since the inflaton potential becomes steep. False
+vacuum energy is finally (partly) converted to the inflaton kinetic energy ,
+the potential energy rapidly decreases and the Universe comes to the
+deflationary stage with a scale factor $a(t) \propto t^{1/3}$. Basic features
+and observational consequences of this scenario are indicated.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 12:42:31 GMT""},{""version"":""v2"",""created"":""Fri, 4 Jun 1993 16:42:50 GMT""}]","2010-04-06"
+"hep-lat/9306004","Kikuo Harigaya Harry-chan","Kikuo Harigaya and G. A. Gehring (Department of Physics, University of
+  Sheffield, Sheffield, United Kingdom)","Elastic anomaly of heavy fermion systems in a crystalline field",,"J.Phys.Condens.Matter 5 (1993) 5277-5282","10.1088/0953-8984/5/30/007",,"hep-lat",,"  An elastic anomaly, observed in the heavy fermi liquid state of Ce alloys
+(for example, CeCu$_6$ and CeTe), is analyzed by using the infinite-$U$
+Anderson lattice model. The four atomic energy levels are assumed for
+f-electrons. Two of them are mutually degenerate. A small crystalline splitting
+$2\Delta$ is assumed between two energy levels. The fourfold degenerate
+conduction bands are also considered in the model. We solve the model using the
+mean field approximation to slave bosons, changing the Fermi energy in order to
+keep the total electron number constant. The nonzero value of the mean field of
+the slave bosons persists over the temperatures much higher than the Kondo
+temperature. This is the effect of the constant electron number. Next, the
+linear susceptibility with respect to $\Delta$ is calculated in order to obtain
+the renomalized elastic constant. The resulting temperature dependence of the
+constant shows the downward dip. We point out the relation of our finding with
+the experimental data.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 21:56:27 GMT""}]","2007-05-23"
+"hep-ph/9306219","Schiff","S. Peigne, E. Pilon and D. Schiff","The heavy fermion damping rate puzzle","17 pages","Z.Phys. C60 (1993) 455-460","10.1007/BF01560043",,"hep-ph",,"  : We examine again the problem of the damping rate of a moving heavy fermion
+in a hot plasma within the resummed perturbative theory of Pisarski and
+Braaten. The ansatz for its evaluation which relates it to the imaginary part
+of the fermion propagator pole in the framework of a self-consistent approach
+is critically analyzed. As already pointed out by various authors, the only way
+to define the rate is through additional implementation of magnetic screening.
+We show in detail how the ansatz works in this case and where we disagree with
+other authors. We conclude that the self-consistent approach is not
+satisfactory.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 17:56:01 GMT""}]","2009-10-22"
+"hep-ph/9306220",,"T. Schaefer, E. V. Shuryak and J. Verbaarschot","Baryonic Correlation Functions in the Random Instanton Vacuum","31 pages (LaTex), figures can be obtained directly from the authors","Nucl.Phys. B412 (1994) 143-168","10.1016/0550-3213(94)90497-9",,"hep-ph",,"  We study baryon and diquark correlation functions in the framework of an
+instanton model for the QCD vacuum. The model naturally accomodates a light
+scalar diquark. As a consequence, the correlation functions for the nucleon and
+delta are found to be qualitatively different. Using a complete set of all
+available correlation functions we determine masses and coupling constants for
+these particles. We compare our results with predictions from QCD sum rules and
+recent lattice measurement of point-to-point correlators.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 16:44:54 GMT""}]","2009-10-22"
+"hep-ph/9306221","Evalyn Gates","R. R. Caldwell and E.Gates","Constraints on Cosmic Strings due to Black Holes Formed from Collapsed
+  Cosmic String Loops","(Plain Tex, uses tables.tex -- wrapped lines corrected), 11 pages,
+  FERMILAB-Pub-93/137-A","Phys.Rev.D48:2581-2586,1993","10.1103/PhysRevD.48.2581",,"hep-ph astro-ph gr-qc",,"  The cosmological features of primordial black holes formed from collapsed
+cosmic string loops are studied. Observational restrictions on a population of
+primordial black holes are used to restrict $f$, the fraction of cosmic string
+loops which collapse to form black holes, and $\mu$, the cosmic string
+mass-per-unit-length. Using a realistic model of cosmic strings, we find the
+strongest restriction on the parameters $f$ and $\mu$ is due to the energy
+density in $100 MeV$ photons radiated by the black holes. We also find that
+inert black hole remnants cannot serve as the dark matter. If earlier, crude
+estimates of $f$ are reliable, our results severely restrict $\mu$, and
+therefore limit the viability of the cosmic string large-scale structure
+scenario.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 22:16:43 GMT""}]","2008-11-26"
+"hep-ph/9306222","Jim Pantaleone","C.J. Horowitz and J. Pantaleone","Long Range Forces from the Cosmological Neutrino Background","14 pages, LATEX, IUHET-249, IUNTC93-14","Phys.Lett. B319 (1993) 186-190","10.1016/0370-2693(93)90800-W",,"hep-ph astro-ph",,"  The cosmological neutrino background will mediate long range forces between
+objects. For a background of temperature T, the potential decreases as 1/r^5
+for r >> 1/T and as 1/r for r << 1/T. These forces have large spin-dependent
+components. If the neutrino background is nonrelativistic, the long range
+forces are enhanced by a factor of the inverse neutrino velocity. These long
+range forces may provide a method for observing the cosmological neutrino
+background.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 21:51:35 GMT""}]","2009-10-22"
+"hep-ph/9306223","Ernest Ma","Ernest Ma","New Supersymmetric Two-Higgs-Doublet Structure at the Electroweak Energy
+  Scale","4 pages, UCRHEP-T112, June 1993, to appear in Proc. of Festschrift in
+  honor of Kameshwar Wali: New Directions in the Application of Symmetry
+  Principles to Elementary Particle Theory",,,,"hep-ph",,"  Contrary to common belief, the requirement that supersymmetry exists and that
+there are two Higgs doublets and no singlet at the electroweak energy scale
+does not necessarily result in the minimal supersymmetric standard model
+(MSSM). An interesting alternative is presented.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 22:35:41 GMT""}]","2007-05-23"
+"hep-th/9306020","Riccardo D'auria","R. D'Auria and S. Ferrara","String Quantum Symmetries From Picard-Fuchs Equations And Their
+  Monodromy","33 pages, plain TeX, CERN-TH.6777/93,POLFIS-TH.24/93",,"10.1006/aphy.1994.1034",,"hep-th",,"  Local and global properties of the moduli space of Calabi--Yau type
+compactifications determine the low energy parameters of the string effective
+action. We show that the moduli space geometry is entirely encoded in the
+Picard--Fuchs equations for the periods of the Calabi--Yau
+$H^{(3)}$--cohomology.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 20:24:53 GMT""}]","2016-09-06"
+"hep-th/9306021",,"Yi-Zhi Huang","Operadic formulation of topological vertex algebras and Gerstenhaber or
+  Batalin-Vilkovisky algebras","42 pages","Commun.Math.Phys. 164 (1994) 105-144","10.1007/BF02108808",,"hep-th math.QA",,"  We give the operadic formulation of (weak, strong) topological vertex
+algebras, which are variants of topological vertex operator algebras studied
+recently by Lian and Zuckerman. As an application, we obtain a conceptual and
+geometric construction of the Batalin-Vilkovisky algebraic structure (or the
+Gerstenhaber algebra structure) on the cohomology of a topological vertex
+algebra (or of a weak topological vertex algebra) by combining this operadic
+formulation with a theorem of Getzler (or of Cohen) which formulates
+Batalin-Vilkovisky algebras (or Gerstenhaber algebras) in terms of the homology
+of the framed little disk operad (or of the little disk operad).
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 19:56:37 GMT""}]","2009-10-22"
+"hep-th/9306022",,"Peter Schupp, Paul Watts, and Bruno Zumino","Cartan Calculus for Hopf Algebras and Quantum Groups","15 pages (submitted to Comm. Math. Phys.)",,,"NSF-ITP-93-75, LBL-34215, and UCB-PTH-93/20","hep-th math.QA",,"  A generalization of the differential geometry of forms and vector fields to
+the case of quantum Lie algebras is given. In an abstract formulation that
+incorporates many existing examples of differential geometry on quantum groups,
+we combine an exterior derivative, inner derivations, Lie derivatives, forms
+and functions all into one big algebra. In particular we find a generalized
+Cartan identity that holds on the whole quantum universal enveloping algebra of
+the left-invariant vector fields and implicit commutation relations for a
+left-invariant basis of 1-forms.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 22:07:18 GMT""}]","2008-02-03"
+"hep-th/9306023","Inagaki","T.Inagaki, T.Muta, S.D.Odinstov","Nambu-Jona-Lasinio Model in Curved Space-Time","8 pages, 3 figures not included, uses LaTeX, HUPD-9314","Mod.Phys.Lett.A8:2117-2124,1993","10.1142/S0217732393001835",,"hep-th",,"  The phase structure of Nambu-Jona-Lasinio model with N-component fermions in
+curved space-time is studied in the leading order of the 1/N expansion.
+  The effective potential for composite operator $\bar{\psi}\psi$ is calculated
+by using the normal coordinate expansion in the Schwinger proper-time method.
+  The existence of the first-order phase transition caused by the change of the
+space-time curvature is confirmed and the dynamical mass of the fermion is
+calculated as a simultaneous function of the curvature and the four-fermion
+coupling constant.
+  The phase diagram in the curvature and the coupling constant is obtained.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 12:04:52 GMT""}]","2009-09-17"
+"hep-th/9306027","M. B. Paranjape","Avinash Khare, R. B. MacKenzie, P. K. Panigrahi, and M. B. Paranjape","Spontaneous Symmetry Breaking and the Renormalization of the
+  Chern-Simons Term","Version to be published in Phys Lett B., minor additional changes","Phys.Lett. B355 (1995) 236-240","10.1016/0370-2693(95)00739-8","UdeM-LPS-TH-93-150","hep-th",,"  We calculate the one-loop perturbative correction to the coefficient of the
+\cs term in non-abelian gauge theory in the presence of Higgs fields, with a
+variety of symmetry-breaking structures. In the case of a residual $U(1)$
+symmetry, radiative corrections do not change the coefficient of the \cs term.
+In the case of an unbroken non-abelian subgroup, the coefficient of the
+relevant \cs term (suitably normalized) attains an integral correction, as
+required for consistency of the quantum theory. Interestingly, this coefficient
+arises purely from the unbroken non-abelian sector in question; the orthogonal
+sector makes no contribution. This implies that the coefficient of the \cs term
+is a discontinuous function over the phase diagram of the theory.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 15:44:02 GMT""},{""version"":""v2"",""created"":""Thu, 16 Mar 1995 15:49:18 GMT""},{""version"":""v3"",""created"":""Wed, 21 Jun 1995 14:31:41 GMT""}]","2009-10-22"
+"math/9306213","Doron Zeilberger","Shalosh B. Ekhad (Temple University) and Doron Zeilberger (Temple
+  University)","A WZ proof of Ramanujan's Formula for Pi","Plain TeX","``Geometry, Analysis, and Mechanics'', (J. M. Rassias, ed.), World
+  Scientific, Singapore, 1994, 107-108",,,"math.CO",,"  Ramanujan's series for Pi, that appeared in his famous letter to Hardy, is
+given a one-line WZ proof.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 20:12:51 GMT""}]","2008-02-03"
+"nucl-th/9306004",,"Kevin Haglin and Charles Gale","Dilepton Production in Nucleon-Nucleon Reactions With and Without
+  Hadronic Inelasticities","1+17 pages plus 11 PostScript figures uuencoded and appended,
+  McGill/93-9, TPI-MINN-93/18-T","Phys.Rev.C49:401-410,1994","10.1103/PhysRevC.49.401",,"nucl-th hep-ph",,"  We calculate elementary proton-proton and neutron-proton bremsstrahlung and
+their contribution to the $e^+e^-$ invariant mass distribution. At 4.9 GeV, the
+proton-proton contribution is larger than neutron-proton, but it is small
+compared to recent data. We then make a first calculation of bremsstrahlung in
+nucleon-nucleon reactions with multi-hadron final states. Again at 4.9 GeV, the
+many-body bremsstrahlung is larger than simple nucleon-nucleon bremsstrahlung
+by more than an order of magnitude in the low-mass region. When the
+bremsstrahlung contributions are summed with Dalitz decay of the $\eta$,
+radiative decay of the $\Delta$ and from two-pion annihilation, the result
+matches recent high statistics proton-proton data from the Dilepton
+Spectrometer collaboration.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 01:32:08 GMT""}]","2008-11-26"

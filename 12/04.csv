@@ -1,0 +1,239 @@
+"astro-ph/9312007","Francois Bouchet","F. R. Bouchet and R. Juszkiewicz","Perturbation Theory Confronts Observations~: Implications for the
+  ``Initial'' Conditions and Omega","19 pages including 7 figures, 418Kbytes, uuencoded compressed
+  postscript, Proceedings of the 9th IAP Meeting ""Cosmic Velocity Fields"" held
+  in July in Paris, Ed. Bouchet & Lachieze-Rey",,,,"astro-ph",,"  This paper covers the material of our two talks. We describe a series of
+projects based upon perturbative expansions to follow the gravitational
+evolution of the one point probability distribution functions (PDFs) for the
+density contrast field and for the divergence of the corresponding velocity
+field. The Edgeworth expansion greatly simplifies the problem. Indeed, the PDF
+can be described through several low order moments, with the first non-trivial
+contribution coming from the skewness, or third moment. Gaussian initial
+conditions imply that the skewness of the smoothed density field is
+proportional to the square of the variance. The constant of proportionality is
+then a function of the logarithmic slope of the variance versus scale, and is
+otherwise independent of scale. This constant is also practically independent
+of the density parameter $\Omega$, and has very nearly the same value when
+distances are estimated by redshifts. To show the latter property, we also
+briefly discuss our Lagrangian approach to perturbation theory. Finally, the
+observed skewness does depend, of course, on the relation between the
+distribution of light and mass; we describe the case of local biasing. For the
+divergence of the velocity field, the skewness of its PDF is also proportional
+to the square of its variance, but the ratio now strongly depends on the value
+of $\Omega$. This offers a new method to determine the density parameter which
+does not involve comparisons
+","[{""version"":""v1"",""created"":""Fri, 3 Dec 1993 18:27:03 GMT""}]","2007-05-23"
+"astro-ph/9312008",,"Evalyn Gates and Michael S. Turner","Halo Cold Dark Matter and Microlensing","11 pages Latex, 2 ps figures. FNAL-Pub-93/357-A","Phys.Rev.Lett. 72 (1994) 2520-2523","10.1103/PhysRevLett.72.2520",,"astro-ph hep-ph",,"  There is good evidence that most of the baryons in the Universe are dark and
+some evidence that most of the matter in the Universe is nonbaryonic with cold
+dark matter (cdm) being a promising possibility. We discuss expectations for
+the abundance of baryons and cdm in the halo of our galaxy and locally. We show
+that in plausible cdm models the local density of cdm is at least
+$10^{-25}\gcmm3$. We also discuss what one can learn about the the local cdm
+density from microlensing of stars in the LMC by dark stars in the halo and,
+based upon a suite of reasonable two-component halo models, conclude that
+microlensing is not a sensitive probe of the local cdm density.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1993 14:57:19 GMT""}]","2009-10-22"
+"chao-dyn/9312001",,"Siegfried Grossmann (1) and Detlef Lohse (2) ((1) Fachbereich Physik,
+  Philipps-Universit''at, Marburg, Germany (2) The James Franck Institute, The
+  University of Chicago, Chicago, IL)","Universality in fully developed turbulence","14 pages, Latex, 5 figures (on request), 3 tables, submitted to Phys.
+  Rev. E","Phys. Rev. E50, 2784-2789 (1994)","10.1103/PhysRevE.50.2784","Preprint 4, Marburg and Chicago, 1993","chao-dyn nlin.CD",,"  We extend the numerical simulations of She et al. [Phys.\ Rev.\ Lett.\ 70,
+3251 (1993)] of highly turbulent flow with $15 \le$ Taylor-Reynolds number
+$Re_\lambda\le 200$ up to $Re_\lambda \approx 45000$, employing a reduced wave
+vector set method (introduced earlier) to approximately solve the Navier-Stokes
+equation. First, also for these extremely high Reynolds numbers $Re_\lambda$,
+the energy spectra as well as the higher moments -- when scaled by the spectral
+intensity at the wave number $k_p$ of peak dissipation -- can be described by
+{\it one universal} function of $k/k_p$ for all $Re_\lambda$. Second, the ISR
+scaling exponents $\zeta_m$ of this universal function are in agreement with
+the 1941 Kolmogorov theory (the better, the large $Re_\lambda$ is), as is the
+$Re_\lambda$ dependence of $k_p$. Only around $k_p$ viscous damping leads to
+slight energy pileup in the spectra, as in the experimental data (bottleneck
+phenomenon).
+","[{""version"":""v1"",""created"":""Fri, 3 Dec 1993 19:19:49 GMT""}]","2009-10-22"
+"chao-dyn/9312002","Jimmy Law","M. Brack(1), R. K. Bhaduri(2), J. Law(3), Ch. Maier(1), and M. V. N.
+  Murthy ((1)Institute for Theoretical Physics, University of Regensburg,
+  D-93040 Regensburg, Germany. (2)Department of Physics and Astronomy, McMaster
+  University, Hamilton, Canada L8S 4M1. (3)Department of Physics, University of
+  Guelph, Guelph, Ontario, Canada N1G 2W1.)","Effect of a magnetic flux line on the quantum beats in the
+  H\'enon-Heiles level density",,,,,"chao-dyn nlin.CD",,"  The quantum density of states of the H\'enon-Heiles potential displays a
+pronounced beating pattern. This has been explained by the interference of
+three isolated classical periodic orbits with nearby actions and periods. A
+singular magnetic flux line, passing through the origin, drastically alters the
+beats even though the classical Lagrangean equations of motion remain
+unchanged. Some of the changes can be easily understood in terms of the
+Aharonov-Bohm effect. However, we find that the standard periodic orbit theory
+does not reproduce the diffraction-like quantum effects on those classical
+orbits which intersect the singular flux line, and argue that corrections of
+relative order $\hbar$ are necessary to describe these effects. We also discuss
+the changes in the distribution of nearest-neighbour spacings in the eigenvalue
+spectrum, brought about by the flux line. pacs{PACS numbers: 05.45.+b,
+02.50.+s,03.65.-w,03.65.Ge }
+","[{""version"":""v1"",""created"":""Fri, 3 Dec 1993 19:47:47 GMT""}]","2008-02-03"
+"cond-mat/9312017","Klaus Ziegler","K. Ziegler","The Energy-Energy Correlation Function of the Random Bond Ising Model in
+  Two Dimensions","8 pages, RevTeX 3.0, TKM-preprint",,,,"cond-mat",,"  The energy-energy correlation function of the two-dimensional Ising model
+with weakly fluctuating random bonds is evaluated in the large scale limit. Two
+correlation lengths exist in contrast to one correlation length in the pure 2D
+Ising model: one is finite whereas the other is divergent at the critical
+points. The corresponding exponent of the divergent correlation length is
+$\nu_e=1/2$ in contrast to the pure system where $\nu_e=1$. The calculation is
+based on a previously developed effective field theory for the energy density
+fluctuations.
+","[{""version"":""v1"",""created"":""Fri, 3 Dec 1993 16:22:47 GMT""}]","2007-05-23"
+"gr-qc/9312008",,"Guido Magnano and Leszek M. Sokolowski","On Physical Equivalence between Nonlinear Gravity Theories","37 pp., TO-JLL-P 3/93 Dec 1993","Phys.Rev.D50:5039-5059,1994","10.1103/PhysRevD.50.5039",,"gr-qc",,"  We argue that in a nonlinear gravity theory, which according to well-known
+results is dynamically equivalent to a self-gravitating scalar field in General
+Relativity, the true physical variables are exactly those which describe the
+equivalent general-relativistic model (these variables are known as Einstein
+frame). Whenever such variables cannot be defined, there are strong indications
+that the original theory is unphysical. We explicitly show how to map, in the
+presence of matter, the Jordan frame to the Einstein one and backwards. We
+study energetics for asymptotically flat solutions. This is based on the
+second-order dynamics obtained, without changing the metric, by the use of a
+Helmholtz Lagrangian. We prove for a large class of these Lagrangians that the
+ADM energy is positive for solutions close to flat space. The proof of this
+Positive Energy Theorem relies on the existence of the Einstein frame, since in
+the (Helmholtz--)Jordan frame the Dominant Energy Condition does not hold and
+the field variables are unrelated to the total energy of the system.
+","[{""version"":""v1"",""created"":""Fri, 3 Dec 1993 18:01:47 GMT""}]","2010-11-01"
+"gr-qc/9312009",,"J.G. Russo","On black hole singularities in quantum gravity","8 pages, 3 figures (included), UTTG-32-93","Phys.Lett. B339 (1994) 35-40","10.1016/0370-2693(94)91129-0",,"gr-qc hep-th",,"  We show that absence of space-like boundaries in 1+1 dimensional dilaton
+gravity implies a catastrophic event at the end point of black hole
+evaporation. The proof is completely independent of the physics at Planck
+scales, which suggests that the same will occur in any theory of quantum
+gravity which only admits trivial space-time topologies.
+","[{""version"":""v1"",""created"":""Fri, 3 Dec 1993 17:04:36 GMT""}]","2009-10-22"
+"gr-qc/9312010","Sergey Tertychniy","S.Tertychniy","On the principles of description of time and space relationships in
+  frames of general relativity","22 pages, uuencoded compressed PostScript, no local number",,,,"gr-qc",,"  The problem of the referring of space and time relationships between physical
+objects in a curved space-time is discussed. The basic notions of column and
+weak column that could constitute the basis for consistent general relativistic
+description of measurements of space and time relations are introduced and the
+corresponding equations are derived. A column of observers is proposed to
+realize still vague notion of `non-inertial frame of reference' in case of
+curved space-time, the criterion distinguishing `inertial columns' is suggested
+as well. A number of solutions of column equations is described. They are
+applied for calculation of gravitational, inertial (or gravitational-inertial
+in more general situation) and ``external"" forces and the strength of
+gravitational field in several cases of physical interest. In particular, the
+`general relativistic' version of Newton's law of inverse squares is derived in
+case of the interaction of test particle with a static central symmetric body.
+","[{""version"":""v1"",""created"":""Fri, 3 Dec 1993 19:57:32 GMT""}]","2007-05-23"
+"gr-qc/9312011","Masaru Siino","Masaru Siino","Compact Three Dimensional Black Hole: Topology Change and Closed
+  Timelike Curve (minor changes)","20 pages revtex.sty 8 figures contained, TIT/HEP-245/COSMO-40","Class.Quant.Grav.11:1995-2006,1994","10.1088/0264-9381/11/8/007",,"gr-qc hep-th",,"  We present a compactified version of the 3-dimensional black hole recently
+found by considering extra identifications and determine the analytical
+continuation of the solution beyond its coordinate singularity by extending the
+identifications to the extended region of the spacetime. In the extended region
+of the spacetime, we find a topology change and non-trivial closed timelike
+curves both in the ordinary 3-dimensional black hole and in the compactified
+one. Especially, in the case of the compactified 3-dimensional black hole, we
+show an example of topology change from one double torus to eight spheres with
+three punctures.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1993 07:54:08 GMT""},{""version"":""v2"",""created"":""Sun, 12 Dec 1993 06:20:37 GMT""}]","2010-04-06"
+"hep-lat/9312022","Andrew Lidsey","C.T.H. Davies","A review of heavy-heavy spectroscopy","talk at Lattice'93, Dallas. 6 pages of latex espcrc2.sty needed and
+  figures on request","Nucl.Phys.Proc.Suppl. 34 (1994) 135-140","10.1016/0920-5632(94)90329-8",,"hep-lat",,"  Calculations of the heavy-heavy spectrum present a good opportunity for
+precision tests of QCD using lattice techniques. All methods make use of a
+non-relativistic expansion of the action and its systematic improvement to
+remove lattice artefacts. There was convincing demonstration this year that
+these methods work and that the associated perturbation theory is well-behaved.
+Comparison to experimental results yields an accurate value for the lattice
+spacing, a, a key result in the determination of \alpha_{s}, and (for the first
+time this year) the mass of the b quark (4.7(1) GeV).
+","[{""version"":""v1"",""created"":""Fri, 3 Dec 1993 19:43:20 GMT""}]","2009-10-22"
+"hep-lat/9312023","Kari Rummukainen","K. Farakos, K. Kajantie, K. Rummukainen and M. Shaposhnikov","The Finite Temperature Phase Transition in the Lattice SU(2)-Higgs Model","3 pages postscript, contribution to the Lattice 93-conference,
+  Dallas, USA, October 1993, preprint IUHET-266","Nucl.Phys.Proc.Suppl. 34 (1994) 641-643","10.1016/0920-5632(94)90470-7",,"hep-lat",,"  We study the finite temperature transition of SU(2)-Higgs model with lattice
+Monte Carlo techniques. We use dimensional reduction to transform the original
+4-dimensional SU(2)-gauge + fundamental Higgs theory to an effective
+3-dimensional SU(2) + adjoint Higgs + fundamental Higgs model. The simulations
+were performed with Higgs masses of 35 and 80 GeV; in both cases we observe a
+stronger first order transition than the perturbation theory predicts,
+indicating that the dynamics of the transition strongly depend on
+non-perturbative effects.
+","[{""version"":""v1"",""created"":""Fri, 3 Dec 1993 19:39:47 GMT""}]","2009-10-22"
+"hep-ph/9312218","Andrew G. Morgan","Z. Bern and A. G. Morgan","Supersymmetry Relations Between Contributions To One-Loop Gauge Boson
+  Amplitudes","21 pages of plain TeX + 5 PostScript figures (compressed and
+  uuencoded), UCLA/93/TEP/36 and DTP/93/80","Phys.Rev. D49 (1994) 6155-6163","10.1103/PhysRevD.49.6155",,"hep-ph",,"  We apply ideas motivated by string theory to improve the calculational
+efficiency of one-loop weak interaction processes with massive external gauge
+bosons. In certain cases ``supersymmetry'' relations between diagrams with a
+fermion loop and with a gauge boson loop hold. This is explicitly illustrated
+for a particular one-loop standard model process with four-external gauge
+bosons. The supersymmetry relations can be used to provide further significant
+improvements in calculational efficiency.
+","[{""version"":""v1"",""created"":""Fri, 3 Dec 1993 17:10:10 GMT""}]","2009-10-22"
+"hep-th/9312032","German Sierra","C.Gomez and G.Sierra","On the integrability of N=2 supersymmetric massive theories","26 pages, Latex (this version replaces a previously corrupted one;
+  epic.sty macro needed, available from hep-th in compressed form
+  epic.sty.tar.Z)","Nucl.Phys. B419 (1994) 589-610","10.1016/0550-3213(94)90346-8",,"hep-th",,"  In this paper we propose a criteria to establish the integrability of N=2
+supersymmetric massive theories.The basic data required are the vacua and the
+spectrum of Bogomolnyi solitons, which can be neatly encoded in a graph
+(nodes=vacua and links= Bogomolnyi solitons). Integrability is then equivalent
+to the existence of solutions of a generalized Yang-Baxter equation which is
+built up from the graph (graph-Yang-Baxter equation). We solve this equation
+for two general types of graphs: circular and daisy, proving, in particular,
+the inte- grability of the following Landau-Ginzburg superpotentials: A_n(t_1),
+A_n(t_2), D_n(\tau),E_6(t_7), E_8(t_16). For circular graphs the solutions are
+intertwiners of the affine Hopf algebra $\tilde(U)_q(A^{(1)}_1)$, while for
+daisy graphs the solution corresponds to a susy generalization of the Boltzmann
+weights of the chiral Potts model in the trigonometric regime. A chiral Potts
+like solution is conjectured for the more tricky case $ D_n(t_2)$. The
+scattering theory of circular models, for instance $A_n(t_1)$ or $D_n(\tau)$,
+is Toda like. The physical spectrum of daisy models, as $A_n(t_2), E_6(t_7)$ or
+$E_8(t_16)$, is given by confined states of radial solitons. The scattering
+theory of the confined states is again Toda like. Bootstrap factors for the
+confined solitons are given by fusing the susy chiral Potts S-matrices of the
+elementary constituents, i.e. the radial solitons of the daisy graph.
+","[{""version"":""v1"",""created"":""Fri, 3 Dec 1993 16:15:18 GMT""},{""version"":""v2"",""created"":""Thu, 9 Dec 1993 10:55:39 GMT""}]","2009-10-22"
+"hep-th/9312033",,"J.M. Figueroa-O'Farrill","The Mechanism behind the Embeddings of String Theories","24 document pages (12 physical pages), uuencoded compressed .dvi file
+  (uses AmsFonts eu* msa* msb*) + 5 figures in Encapsulated PostScript,
+  QMW-PH-93-30","Nucl.Phys. B432 (1994) 404-424","10.1016/0550-3213(94)90608-4",,"hep-th",,"  It has been realised recently that there is no unique way to describe the
+physical states of a given string theory. In particular, it has been shown that
+any bosonic string theory can be embedded in a particular $N{=}1$ string
+background in such a way that the spectrum and the amplitudes of both theories
+agree. Similarly, it is also known that the amplitudes of any $N{=}1$ string
+theory can be obtained from a particular $N{=}2$ string background. When
+rephrased in the language of BRST cohomology, these results suggest a close
+connection to the theory of induced representations. The purpose of this note
+is to investigate this connection further and at the same time to reveal the
+mechanism behind these embeddings between string theories. We will first
+analyze the embedding of an affine algebra $\gghat$ in the $N{=}1$ affine
+algebra associated to $\gg$. Given any BRST cohomology theory for $\gghat$ we
+will be able to construct one for the $N{=}1$ affine algebra associated to
+$\gg$ such that the cohomologies agree as operator product algebras. This is
+proven in two different ways. This example is the simplest in its kind and, in
+a sense that is made precise in the paper, all other similar embeddings are
+deformations of this one. We conclude the paper with a brief treatment of the
+general case, where we prove that for a particular class of ``good''
+embeddings, the cohomologies are again isomorphic.
+","[{""version"":""v1"",""created"":""Fri, 3 Dec 1993 21:31:25 GMT""}]","2009-10-22"
+"hep-th/9312034","Jeff Harvey","A. Achucarro, R. Gregory, J. A. Harvey and K. Kuijken","Cinderella Strings","11 pages, harvmac (b) and epsf (2 figures uuencoded)","Phys. Rev. Lett. 72, 3646 (1994)","10.1103/PhysRevLett.72.3646","EFI-93-68","hep-th gr-qc hep-ph",,"  We investigate recent claims concerning a new class of cosmic string
+solutions in the Weinberg-Salam model. They have the general form of previously
+discussed semi-local and electroweak strings, but are modified by the presence
+of a non-zero W-condensate in the core of the string. We explicitly construct
+such solutions for arbitrary values of the winding number $N$. We then prove
+that they are gauge equivalent to bare electroweak strings with winding number
+$N-1$. We also develop new asymptotic expressions for large-$N$ strings.
+","[{""version"":""v1"",""created"":""Fri, 3 Dec 1993 22:40:26 GMT""}]","2013-11-13"
+"hep-th/9312035","Harnad John","John Harnad and P. Winternitz","Classical and Quantum Integrable Systems in $\wt{\gr{gl}}(2)^{+*}$ and
+  Separation of Variables","28 pages","Commun.Math.Phys. 172 (1995) 263-286","10.1007/BF02099428","CRM--1921 (1993)","hep-th nlin.SI solv-int",,"  Classical integrable Hamiltonian systems generated by elements of the Poisson
+commuting ring of spectral invariants on rational coadjoint orbits of the loop
+algebra $\wt{\gr{gl}}^{+*}(2,{\bf R})$ are integrated by separation of
+variables in the Hamilton-Jacobi equation in hyperellipsoidal coordinates. The
+canonically quantized systems are then shown to also be completely integrable
+and separable within the same coordinates. Pairs of second class constraints
+defining reduced phase spaces are implemented in the quantized systems by
+choosing one constraint as an invariant, and interpreting the other as
+determining a quotient (i.e., by treating one as a first class constraint and
+the other as a gauge condition). Completely integrable, separable systems on
+spheres and ellipsoids result, but those on ellipsoids require a further
+modification of order $\OO(\hbar^2)$ in the commuting invariants in order to
+assure self-adjointness and to recover the Laplacian for the case of free
+motion. For each case - in the ambient space ${\bf R}^{n}$, the sphere and the
+ellipsoid - the Schr\""odinger equations are completely separated in
+hyperellipsoidal coordinates, giving equations of generalized Lam\'e type.
+","[{""version"":""v1"",""created"":""Fri, 3 Dec 1993 23:23:26 GMT""}]","2009-10-22"
+"hep-th/9312036","Shin'ichi Nojiri","Shin'ichi Nojiri and I. Oda","Wormholes in Two Dimensional Dilaton Gravity","INS-Rep.-1012, NDA-FP-13/93, OCHA-PP-37, LATEX file, 9pp","Mod.Phys.Lett. A9 (1994) 959-966","10.1142/S0217732394000794",,"hep-th",,"  It is shown that the general solution of classical equations of motion in two
+dimensional dilaton gravity proposed by Callan, Giddings, Harvey and Strominger
+(CGHS) includes a Lorentzian wormhole solution in addition to a black hole
+solution. We also show that matter perturbation of the wormhole by a shock wave
+leads to the formation of a black hole where the curvature singularity is
+cloaked by the global event horizon. It is also argued that the classical
+wormhole would be stable against quantum corrections.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1993 11:52:00 GMT""}]","2009-10-22"
+"hep-th/9312037","Jean-Michel Maillet","J. M. Maillet (Laboratoire de Physique Theorique, ENS Lyon, France)","On Pentagon And Tetrahedron Equations","13 pages","St. Petersburg Math. J. 6:2 (1995) 375-383",,,"hep-th nlin.SI solv-int",,"  We show that solutions of Pentagon equations lead to solutions of the
+Tetrahedron equation. The result is obtained in the spectral parameter
+dependent case.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1993 10:58:01 GMT""}]","2018-08-30"

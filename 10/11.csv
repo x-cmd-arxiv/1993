@@ -1,0 +1,108 @@
+"chao-dyn/9310001","Petr Kurka","Petr Kurka","Regular unimodal systems and factors of finite automata","Presented at the workshop ""Continuous Algorithms and Complexity"",
+  Barcelona 4-6. October 1993. Latex",,,,"chao-dyn nlin.CD",,"  Dynamical systems at the edge of chaos, which have been considered as models
+of self-organization phenomena, are marked by their ability to perform
+nontrivial computations. To distinguish them from systems with limited
+computing power, we formulate two simplicity criteria for general dynamical
+systems, and apply them to unimodal systems on real interval. We say that a
+dynamical system is regular, if it yields a regular language when observed
+through arbitrary almost disjoint cover. Finite automata are regarded as
+dynamical systems on zero-dimensional spaces and their factors yield another
+class of simple dynamical systems. These two criteria coincide on subshifts,
+since a subshift is regular iff it is a factor of a finite automaton (sofic
+systems). A unimodal system on real interval is regular if it has only a finite
+number of periodic points, and nonrecursive otherwise. On the other hand each
+$S$-unimodal system with finite, periodic or preperiodic kneading sequence is a
+factor of a finite automaton. Thus preperiodic $S$-unimodal systems are factors
+of finite automata, which are not regular.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 13:32:01 GMT""}]","2008-02-03"
+"hep-ph/9310257","Errol Gotsman","E. Gotsman, E.M. Levin and U. Maor","Diffractive Dissociation and Eikonalization in High Energy pp and p $
+  {\bar p} $ Collisions","11 pages LATEX, ( two figures not included obtainable from authors)
+  (TAUP 2066-93 and FERMILAB PUB 93/ T)","Phys.Rev.D49:4321-4325,1994","10.1103/PhysRevD.49.R4321",,"hep-ph",,"  We show that eikonal corrections imposed on diffraction dissociation
+processes calculated in the triple Regge limit, produce a radical change in the
+energy dependence of the predicted cross section. The induced correction is
+shown to be in general agreement with the new experimental data measured at the
+Tevatron.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 06:36:52 GMT""}]","2009-12-30"
+"hep-ph/9310258","Roberto Ugoccioni","R. Ugoccioni, A. Giovannini and S. Lupia","Void Analysis and Hierarchical Structure for Single Jets","11 pages in Plain TeX, (8 figures not included, available on
+  request.) DFTT 41/93. [Talk presented at the Workshop ``Soft Physics and
+  Fluctuations'' Cracow, Poland, 4--7 May 1993.]",,,,"hep-ph",,"  After a brief review of the theoretical basis of void scaling function
+properties of hierarchical structure, we analyze the phenomenological
+consequences at single jet level in Monte Carlo e+e- annihilation events. We
+find an interesting alternative approach for characterizing quark and gluon
+jets.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 08:40:41 GMT""}]","2009-09-25"
+"hep-ph/9310259","Seongyoul Choi","S. Y. Choi, J. S. Shim, and H. S. Song(Seoul National University)","Factorization in graviton interactions","5 pages, Revtex 3.0, SNUTP 93-71","Phys.Rev.D48:5465-5466,1993","10.1103/PhysRevD.48.R5465",,"hep-ph hep-th",,"  The study of factorization in the linearized gravity is extended to the
+graviton scattering processes with a massive scalar particle, with a massless
+vector boson and also with a graviton. Every transition amplitude is shown to
+be completely factorized and the physical implications of their common factors
+are discussed.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 08:55:14 GMT""}]","2009-12-30"
+"hep-ph/9310260","Dudas","E.A. Dudas","Planck Scale Effects and Axions in Supersymmetry","12 pages, LPTHE Orsay 93/35","Phys.Lett.B325:124-128,1994","10.1016/0370-2693(94)90081-7",,"hep-ph",,"  The effects of possible explicit violation of the Peccei-Quinn symmetry
+responsible for the solution of the strong CP problem are studied in
+supersymmetric models. It is shown that automatic models with an abelian $U(1)$
+gauge symmetry are easy to construct both in the context of fundamental and
+composite models of axions. It is argued that it is preferable to use abelian
+rather than nonabelian gauge groups in order to obtains automatic symmetries. A
+composite model with no exact $R$ symmetry is studied and it is found that,
+unlike common belief, supersymmetry is broken.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 14:01:20 GMT""}]","2010-11-01"
+"hep-ph/9310261","""A. J."" Askew","A.J.Askew, J.Kwiecinski, A.D.Martin, P.J.Sutton","Properties of the BFKL equation and structure function predictions for
+  HERA","21 pages, 11 figures, Latex file, Durham preprint DTP 92/28","Phys.Rev. D49 (1994) 4402-4414","10.1103/PhysRevD.49.4402",,"hep-ph",,"  The general properties of the Lipatov or BFKL equation are reviewed.
+Modifications to the infrared region are proposed. Numerical predictions for
+the deep-inelastic electron-proton structure functions at small $x$ are
+presented and confronted with recent HERA measurements.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 13:43:06 GMT""}]","2009-10-22"
+"hep-ph/9310262","Martin Bucher","M. Bucher and A.S. Goldhaber","SO(10) Cosmic Strings and SU(3) Color Cheshire Charge","37 Pages, 8 Figures (available upon request) phyzzx, iassns-hep-93-6,
+  itp-sb-93-60","Phys.Rev. D49 (1994) 4167-4181","10.1103/PhysRevD.49.4167",,"hep-ph hep-th",,"  Certain cosmic strings that occur in GUT models such as $SO(10)$ can carry a
+magnetic flux which acts nontrivially on objects carrying $SU(3)_{color}$
+quantum numbers. We show that such strings are non-Abelian Alice strings
+carrying nonlocalizable colored ``Cheshire"" charge. We examine claims made in
+the literature that $SO(10)$ strings can have a long-range, topological
+Aharonov-Bohm interaction that turns quarks into leptons, and observe that such
+a process is impossible. We also discuss flux-flux scattering using a
+multi-sheeted formalism.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 14:47:39 GMT""}]","2009-10-22"
+"hep-th/9310056","Makoto Umeki","H. Cateau, Y. Matsuo and M. Umeki","Predictions on Two-dimensional Turbulence by Conformal Field Theory","30 pages + 15 figures, UT-652 replaced since the incorrect use of tex
+  command",,,,"hep-th",,"  A generalized theory of two-dimensional isotropic turbulence is developed
+based on conformal symmetry. A number of minimal models of conformal turbulence
+are solved under an extended constraint including both the enstrophy cascade by
+Kraichnan and the discontinuity of vorticity by Saffman. There are an infinite
+number of solutions which fall into two different categories. An explicit
+relation is derived in one of the categories between the central charge of
+Virasoro algebra, the lowest anomalous dimension and the power of the energy
+spectrum. Some statistical properties such as energy spectrum, skewness,
+flatness and Casimir invariants are predicted and compared with numerical
+simulation by the pseudospectral method.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 09:22:35 GMT""},{""version"":""v2"",""created"":""Tue, 12 Oct 1993 08:17:24 GMT""}]","2008-02-03"
+"hep-th/9310057","C. P. Staszkiewicz","B. Schroer","Modular Theory and Symmetry in QFT","35 pages, LaTeX",,,,"hep-th",,"  The application of the Tomita-Takesaki modular theory to the Haag-Kastler net
+approach in QFT yields external (space-time) symmetries as well as internal
+ones (internal ``gauge para-groups"") and their dual counterparts (the ``super
+selection para-group""). An attempt is made to develop a (speculative) picture
+on ``quantum symmetry"" which links space-time symmetries in an inexorable way
+with internal symmetries. In the course of this attempt, we present several
+theorems and in particular derive the Kac-Wakimoto formula which links Jones
+inclusion indices with the asymptotics of expectation values in physical
+temperature states. This formula is a special case of a new asymptotic
+Gibbs-state representation of mapping class group matrices (in a Haag-Kastler
+net indexed by intervals on the circle!) as well as braid group matrices.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 15:33:23 GMT""},{""version"":""v2"",""created"":""Sun, 17 Oct 1993 11:20:38 GMT""},{""version"":""v3"",""created"":""Wed, 27 Oct 1993 10:24:13 GMT""}]","2008-02-03"
+"nucl-th/9310009",,"M.M. Sharma, G.A. Lalazissis and P. Ring (Technical University Munich)","Anomaly in the charge radii of Pb isotopes","10 pages (Latex) and 3 figures (avilable upon request); Phys. Lett. B
+  (in print), TUM-ITP-SH93/2","Phys.Lett. B317 (1993) 9-13","10.1016/0370-2693(93)91561-Z",,"nucl-th",,"  The anomalous behaviour of the charge radii of the isotopic chain of Pb
+nuclei has been studied in the relativistic mean field theory. It has been
+shown that the relativistic mean field provides an excellent description of the
+anomalous kink in the isotopic shifts about $^{208}$Pb. This contrasts strongly
+from the Skyrme mean field, where almost all the known and realistic forces
+fail to reproduce the observed trend in the empirical data on the charge radii.
+The results have been discussed in the perspective of differences in the
+ans\""atze of the relativistic and the Skyrme mean-field theories.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 15:15:46 GMT""}]","2009-10-22"
+"nucl-th/9310010",,"Sadhan K. Adhikari, Lauro Tomio, J.P.B.C. DE Melo, and T. Frederico","Shape-Independent Expansion for the $^3S_1-^3D_1$ Mixing Parameter","7 pages, text and two postscript figures included","Phys.Lett.B318:14-18,1993","10.1016/0370-2693(93)91775-I","Preprint#ift-93","nucl-th",,"  A low-energy shape-independent expansion is suggested for the function
+$[tan(2\epsilon_{BB})/(2k^2)]$, where $\epsilon_{BB}$ is the Blatt-Biedenharn
+mixing parameter for the $^3S_1 -$ $^3D_1$ channel. This expansion allows an
+evaluation of the mixing parameter $\epsilon_{BB}$ from a knowledge of the
+deuteron asymptotic $D$ to $S$ ratio, pion mass and other low-energy
+observables, such as the scattering lengths, deuteron binding etc., of the
+nucleon-nucleon system. We demonstrate that the correct long range behavior of
+the tensor potential is essential for a realistic reproduction of
+$\epsilon_{BB}$.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 13:06:00 GMT""}]","2009-07-28"

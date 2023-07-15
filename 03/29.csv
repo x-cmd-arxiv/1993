@@ -1,0 +1,129 @@
+"alg-geom/9303004","Ron Donagi","Ron Donagi and Loring W. Tu","Theta Functions for $\SL(n)$ versus $\GL(n)$","10 pages, Latex",,,,"alg-geom math.AG",,"  Over a smooth complex projective curve $C$ of genus $g$ let $\M (n,d)$ be the
+moduli space of semistable bundles of rank $n$ and degree $d$ on $C$, and $\SM
+(n,L)$, the moduli space of those bundles whose determinant is isomorphic to a
+fixed line bundle $L$ over $C$. Let $\theta_F$ and $\theta$ be theta bundles
+over these two moduli spaces. We prove a simple formula relating their spaces
+of sections: if $h=\gcd (n,d)$ is the greatest common divisor of $n$ and $d$,
+and $L\in \Pic ^d(C)$, then $$\dim H^0(\SM (n,L), \theta^k) \cdot k^g=\dim
+H^0(\M(n,d),\theta_F^k)\cdot h^g.$$ We also formulate a conjectural duality
+between these two types of spaces of sections.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 1993 18:31:37 GMT""}]","2008-02-03"
+"alg-geom/9303005","Roberto Paoletti","Roberto Paoletti","Free pencils on divisors","18 pages, amslatex",,,,"alg-geom math.AG",,"  Let X be a smooth projective variety defined over an algebraically closed
+field, and let Y in X be a reduced and irreducible ample divisor in X. We give
+a numerical sufficient condition for a base point free pencil on $Y$ to be the
+restriction of a base point free pencil on $X$. This result is then extended to
+families of pencils and to morphisms to arbitrary smooth curves. Serrano had
+already studied this problem in the case n=2 and 3, and Reider had then
+attacked it in the case $n=2$ using vector bundle methods based on Bogomolov's
+instability theorem on a surface (char(k)=0). The argument given here is based
+on Bogomolov's theorem on an n-dimensional variety, and on its recent
+adaptations to the setting of prime charachterstic (due to Shepherd-Barron and
+Moriwaki).
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 1993 21:29:31 GMT""},{""version"":""v2"",""created"":""Fri, 9 Apr 1993 15:12:29 GMT""}]","2008-02-03"
+"alg-geom/9303006","Roberto Paoletti","Roberto Paoletti","Seshadri constants, gonality of space curves and restriction of stable
+  bundles","36 pages, amslatex",,,,"alg-geom math.AG",,"  We define the Seshadri constant of a space curve and consider ways to
+estimate it. We then show that it governs the gonality of the curve. We use an
+argument based on Bogomolov's instability theorem on a threefold. The same
+methods are then applied to the study of the behaviour of a stable vector
+bundle on P^3 under restriction to curves and surfaces.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 1993 23:23:01 GMT""},{""version"":""v2"",""created"":""Fri, 9 Apr 1993 15:15:04 GMT""}]","2008-02-03"
+"astro-ph/9303016","Bill Press","William H. Press, George B. Rybicki, and Donald P. Schneider","Properties of High-Redshift Lyman Alpha Clouds I. Statistical Analysis
+  of the SSG Quasars","29 pages, LaTeX using aastex30 macros, forthcoming as CfA preprint","Astrophys.J. 414 (1993) 64-81","10.1086/173057",,"astro-ph",,"  Techniques for the statistical analysis of the \Lya\ forest in high redshift
+quasars are developed, and applied to the low resolution (25 \AA) spectra of 29
+of the 33 quasars in the Schneider-Schmidt-Gunn (SSG) sample.We find that the
+mean absorption increases with $z$ approximately as a power law
+$(1+z)^{\gamma+1}$ with $\gamma = 2.46\pm 0.37$. The mean ratio of \Lya\ to
+Lyman $\beta$ absorption in the clouds is $0.476\pm 0.054$. We also detect, and
+obtain ratios, for Lyman $\beta$, $\gamma$, and possibly $\epsilon$. We are
+also able to quantify the fluctuations of the absorption around its mean, and
+find that these are comparable to, or perhaps slightly larger than, that
+expected from an uncorrelated distribution of clouds. The techniques in this
+paper, which include the use of bootstrap resampling of the quasar sample to
+obtain estimated errors and error covariances, and a mathematical treatment of
+absorption from a (possibly non-uniform) stochastic distribution of lines,
+should be applicable to future, more extensive, data sets.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 15:24:01 GMT""}]","2009-10-22"
+"astro-ph/9303017","Bill Press","William H. Press and George B. Rybicki","Properties of High-Redshift Lyman Alpha Clouds II. Statistical
+  Properties of the Clouds","32 pages, LaTeX using aastex30 macros, submitted to Ap.J","Astrophys.J. 418 (1993) 585","10.1086/173419",,"astro-ph",,"  Curve of growth analysis, applied to the Lyman series absorption ratios
+deduced in our previous paper, yields a measurement of the logarithmic slope of
+distribution of \Lya\ clouds in column density $N$. The observed exponential
+distribution of the clouds' equivalent widths $W$ is then shown to require a
+broad distribution of velocity parameters $b$, extending up to 80 km s$^{-1}$.
+We show how the exponential itself emerges in a natural way. An absolute
+normalization for the differential distribution of cloud numbers in $z$, $N$,
+and $b$ is obtained. By detailed analysis of absorption fluctuations along the
+line of sight we are able to put upper limits on the cloud-cloud correlation
+function $\xi$ on several megaparsec length scales. We show that observed $b$
+values, if thermal, are incompatible, in several different ways, with the
+hypothesis of equilibrium heating and ionization by a background UV flux.
+Either a significant component of $b$ is due to bulk motion (which we argue
+against on several grounds), or else the clouds are out of equilibrium, and
+hotter than is implied by their ionization state, a situation which could be
+indicative of recent adiabatic collapse.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 15:35:24 GMT""}]","2009-10-22"
+"gr-qc/9303034",,"Sean A. Hayward","Junction Conditions for Signature Change","13 pages. TeX. Revised to discuss further mistaken papers",,,,"gr-qc",,"  The change of signature of a metric is explained using simple examples and
+methods. The Klein-Gordon field on a signature-changing background is
+discussed, and it is shown how the approach of Dray et al.\ can be corrected to
+ensure that the Klein-Gordon equation holds. Isotropic cosmologies are
+discussed, and it is shown how the approach of Ellis et al.\ can be corrected
+to ensure that the Einstein-Klein-Gordon equations hold. A straightforward
+calculation shows that a well defined Ricci tensor requires the standard
+junction condition, namely vanishing of the second fundamental form of the
+junction surface.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 14:52:08 GMT""},{""version"":""v2"",""created"":""Mon, 12 Dec 1994 06:11:29 GMT""}]","2008-02-03"
+"hep-th/9303154","Jisuke Kubo","T. Fujiwara, Y. Igarashi, J. Kubo, and T. Tabei","Gauge Equivalence in Two--Dimensional Gravity","30 pages, KANAZAWA 93-2","Phys.Rev. D48 (1993) 1736-1747","10.1103/PhysRevD.48.1736",,"hep-th",,"  Two-dimensional quantum gravity is identified as a second-class system which
+we convert into a first-class system via the Batalin-Fradkin (BF) procedure.
+Using the extended phase space method, we then formulate the theory in most
+general class of gauges. The conformal gauge action suggested by David, Distler
+and Kawai is derived from a first principle. We find a local, light-cone gauge
+action whose Becchi-Rouet-Stora-Tyutin invariance implies Polyakov's curvature
+equation $\partial_{-}R=\partial_{-}^{3}g_{++}=0$, revealing the origin of the
+$SL(2,R)$ Kac-Moody symmetry. The BF degree of freedom turns out be dynamically
+active as the Liouville mode in the conformal gauge, while in the light-cone
+gauge the conformal degree of freedom plays that r{\^o}le. The inclusion of the
+cosmological constant term in both gauges and the harmonic gauge-fixing are
+also considered.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 02:56:26 GMT""}]","2016-09-06"
+"hep-th/9303155",,"Esko Keski-Vakkuri and Xiao-Gang Wen","The Ground State Structure and Modular Transformations of Fractional
+  Quantum Hall States on a Torus","28 pages, LATEX, 9 figures available by request from authors,
+  CTP-2197 (two references added + some minor typos corrected)","Int. J. Mod. Phys. B7 (1993) 4227-4260","10.1142/S0217979293003644",,"hep-th",,"  The structure of ground states of generic FQH states on a torus is studied by
+using both effective theory and electron wave function. The relation between
+the effective theory and the wave function becomes transparent when one
+considers the ground state structure. We find that the non-abelian Berry's
+phases of the abelian Hall states generated by twisting the mass matrix are
+identical to the modular transformation matrix for the characters of a Gaussian
+conformal field theory. We also show that the Haldane-Rezayi spin singlet state
+has a ten fold degeneracy on a torus which indicates such a state is a
+non-abelian Hall state.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 03:23:24 GMT""},{""version"":""v2"",""created"":""Sun, 6 Jun 1993 18:58:22 GMT""}]","2009-10-22"
+"hep-th/9303156",,"P. Pasti and M. Tonin","Twistor--like Formulation of the Supermembrane in D=11 $^*$","18 pages, TeX","Nucl.Phys. B418 (1994) 337-352","10.1016/0550-3213(94)90250-X",,"hep-th",,"  We propose a new formulation of the D=11 supermembrane theory that involves
+commuting spinors (twistor--like variables) and exhibits a manifest
+$n$--extended world volume supersymmetry $(1\leq n\leq 8)$. This supersymmetry
+replaces $n$ components of the usual $\kappa$--symmetry. We show that this
+formulation is classically equivalent to the standard one.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 13:43:41 GMT""}]","2009-10-22"
+"hep-th/9303157","Laurent Houart","Laurent Houart","Explicit Resolution of an Integrable c(4,3) Open String Theory","10 pages, phyzzx, ULB-TH-02/93","Phys.Lett.B311:71-75,1993","10.1016/0370-2693(93)90535-P",,"hep-th",,"  We study the two-matrix model which represents the sum over closed and open
+random surfaces coupled to an Ising Model. The boundary conditions are
+characterized by the fact that the Ising spins sitting at the vertices of the
+boundaries are all in the same state. We obtain the string equation and discuss
+the results. (No change in physics, only some misprints are corrected)
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 14:26:51 GMT""},{""version"":""v2"",""created"":""Mon, 21 Jun 1993 15:54:52 GMT""}]","2010-11-01"
+"hep-th/9303162","Sergei V. Kryukov","S. E. Parkhomenko","Physical States in Topological Phase of N=2 Supersymmetric WZNW Models","13 pages, latex","Mod. Phys. Lett. A9 (1994) 2049-2062","10.1142/S021773239400191X","LANDAU-93/TMP-2","hep-th",,"  N=2 supersymmetric WZNW models associated with finite-dimensional Manin
+triples is considered. Physical states in topological phase of these models are
+computed and them N=2 WZNW representatives are constracted. Ring structure of
+the physical states is computed.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 11:57:26 GMT""}]","2015-06-26"
+"nucl-th/9303023","Herbert Muether","H. M\""uther and L.D. Skouras","Correlations in Nuclei: Self-Consistent Treatment and the BAGEL Approach","9 pages","Phys.Lett. B306 (1993) 201-206","10.1016/0370-2693(93)90068-S",,"nucl-th",,"  An approach is presented which allows a self-consistent description of the
+fragmentation of single-particle strength for nucleons in finite nuclei
+employing the Greens function formalism. The self-energy to be considered in
+the Dyson equation for the single-particle Greens function contains all terms
+of first (Hartree-Fock) and second order in the residual interaction. It is
+demonstrated that the fragmentation of the single-particle strength originating
+from the terms of second order can efficiently be described in terms of the
+so-called BAGEL approximation. Employing this approximation the self-energy can
+be evaluated in a self-consistent way, i.e. the correlations contained in the
+Greens function are taken into account for the evaluation of the self-energy.
+As an example this scheme is applied to the nucleus $^{16}O$, using a realistic
+nucleon nucleon interaction. The effects of the correlations on the occupation
+probabilities and the binding energy are evaluated.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 14:58:38 GMT""}]","2009-10-22"

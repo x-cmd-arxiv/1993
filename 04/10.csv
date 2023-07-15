@@ -1,0 +1,43 @@
+"cond-mat/9304020","V. Privman","Vladimir Privman","Dissociative Adsorption: A Solvable Model","TeX (plain)","Europhys. Lett. 23, 341-345 (1993)","10.1209/0295-5075/23/5/007",,"cond-mat",,"  A model of ""hot""-dimer deposition in one dimension, introduced by Pereyra and
+Albano, is modified to have an unbounded dissociation range. The resulting
+dynamical equations are solved exactly. A related k-mer dissociation model is
+also introduced and its solution obtained as a quadrature.
+","[{""version"":""v1"",""created"":""Sat, 10 Apr 1993 00:14:02 GMT""}]","2010-10-12"
+"cond-mat/9304021","Fasol","Gerhard Fasol and Hiroyuki Sakaki","Spontaneous Spin-Polarization of Ballistic Electrons in Single Mode
+  Quantum Wires due to Spin-Splitting","9 pages, LaTeX and APS-RevteX, Rep.No. GF65,Figures from author",,"10.1063/1.109425",,"cond-mat",,"  We show that a quantum wire device with spin splitting can work as an active
+spin polarizer. Hot electrons in one `spin' subband (e.g. `spin-up') may pass
+such a device with weak electron pair scattering, while electrons in the
+opposite subband (`spin-down') may have high conversion probability into the
+`spin-up' subband, resulting in spin polarization of a hot electron beam. Under
+different circumstances a hot electron beam passing through a single mode
+quantum wire may induce a steady state magnetization of the background electron
+gas in a section of the wire weakly coupled to the environment.
+","[{""version"":""v1"",""created"":""Sat, 10 Apr 1993 11:57:02 GMT""}]","2009-10-22"
+"gr-qc/9304013",,"I. Hauser and F. J. Ernst","Gurses' Type (b) Transformations are Neighborhood-Isometries","10 pages, LATEX, FJE-93-003","Phys.Rev.Lett. 71 (1993) 316-319","10.1103/PhysRevLett.71.316",,"gr-qc",,"  Following an idea close to one given by C. G. Torre (private communication),
+we prove that Riemannian spaces (M,g) and (M,h) that are related by a Gurses
+type (b) transformation [M. Gurses, Phys. Rev. Lett. 70, 367 (1993)] or,
+equivalently, by a Torre-Anderson generalized diffeomorphism [C. G. Torre and
+I. M. Anderson, Phys. Rev. Lett. xx, xxx (1993)] are neighborhood-isometric,
+i.e., every point x in M has a corresponding diffeomorphism phi of a
+neighborhood V of x onto a generally different neighborhood W of x such that
+phi*(h|W) = g|V.
+","[{""version"":""v1"",""created"":""Fri, 9 Apr 1993 17:33:14 GMT""}]","2009-10-22"
+"hep-th/9304040","Francois Gieres","Francois Gieres and Stefan Theisen","Classical $N=1$ and $N=2$ super W-algebras from a zero-curvature
+  condition","18 pages, tex, LMU-TPW 93-07","Int.J.Mod.Phys. A9 (1994) 383-398","10.1142/S0217751X94000182",,"hep-th",,"  Starting from superdifferential operators in an $N=1$ superfield formulation,
+we present a systematic prescription for the derivation of classical $N=1$ and
+$N=2$ super W-algebras by imposing a zero-curvature condition on the connection
+of the corresponding first order system. We illustrate the procedure on the
+first non-trivial example (beyond the $N=1$ superconformal algebra) and also
+comment on the relation with the Gelfand-Dickey construction of $W$-algebras.
+","[{""version"":""v1"",""created"":""Fri, 9 Apr 1993 18:51:18 GMT""}]","2015-06-26"
+"patt-sol/9304002","Aric Hagberg","Aric Hagberg and Ehud Meron (Arizona Center for Mathematical Sciences
+  and Program in Applied Mathematics, University of Arizona)","Domain Walls in Non-Equilibrium Systems and the Emergence of Persistent
+  Patterns","12 pages LaTeX, 5 postscript figures To appear in Phys. Rev. E","Phys. Rev. E 48, 705 (1993)","10.1103/PhysRevE.48.705",,"patt-sol nlin.PS",,"  Domain walls in equilibrium phase transitions propagate in a preferred
+direction so as to minimize the free energy of the system. As a result, initial
+spatio-temporal patterns ultimately decay toward uniform states. The absence of
+a variational principle far from equilibrium allows the coexistence of domain
+walls propagating in any direction. As a consequence, *persistent* patterns may
+emerge. We study this mechanism of pattern formation using a non-variational
+extension of Landau's model for second order phase transitions. PACS numbers:
+05.70.Fh, 42.65.Pc, 47.20.Ky, 82.20Mj
+","[{""version"":""v1"",""created"":""Fri, 9 Apr 1993 21:23:24 GMT""}]","2009-10-22"

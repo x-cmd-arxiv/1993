@@ -1,0 +1,161 @@
+"astro-ph/9309008","Roland Bacon","R. Bacon, E. Emsellem, G. Monnet and J.L. Nieto","Sub-Arcsecond 2D Photometry and Spectrography of the Nucleus of M31: The
+  Supermassive Black Hole Revisited","(to appear in AA), 26 pages and 28 figures (available on anonymous
+  FTP: orion.univ-lyon1.fr in pub/m31), LaTeX file and laa.sty, OL-36",,,,"astro-ph",,"  Sub-arcsecond imagery (HRCAM, 0"".35 - 0"".57 FWHM) and two-dimensional
+spectrography (TIGER, 0"".9 FWHM) of the central nucleus of M31 have been
+obtained at CFHT. The photometric data clearly show the double-peaked nucleus,
+in excellent agreement with a recent HST image by Lauer et al. 1993. We built
+deconvolved surface brightness models, using the multi-Gaussian expansion
+method. We then perform a detailed morphological analysis of the three central
+photometric components (bulge, nucleus and bright secondary peak) and derive
+various spatial luminosity models (oblate and triaxial). Stellar velocity and
+velocity dispersion fields were derived from the TIGER data: the former
+displays an extremely rapid rotation around the true center of the galaxy,
+while the latter exhibits a peaked structure offset in the opposite direction
+of the brightest light peak. Neglecting these offsets,both extended versions of
+the virial theorem and detailed hydrodynamical models confirm the classical
+strong central mass concentration, perhaps a supermassive black hole of about
+7.10**7 Msun, as well as a large excess of circular motions. These offsets,
+however, suggest that the nucleus presently undergoes a strong stellar
+oscillation, with non-stationary, non-axisymmetric dynamics. This too reopens
+the case for a strong central mass concentration.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 16:33:30 GMT""}]","2007-05-23"
+"chao-dyn/9309001","Tae Hoon Ahn","Taehoon Ahn and Seunghwan Kim (Departments of Mathematics and Physics,
+  Basic Science Research Institute, POSTECH)","Chaotic Transport in Planar Periodic Vortical Flows","LaTex, 26 pages, 8 PostScript figures (uuencoded, tar-compressed)",,,,"chao-dyn nlin.CD",,"  We have studied a chaotic transport in a two-dimensional periodic vortical
+flow under a time-dependent perturbation with period T where the global
+diffusion occurs along the stochastic web. By using the Melnikov method we
+construct the separatrix map describing the approximate dynamics near the
+saddle separatrices. Focusing on the small T, the width of the stochastic layer
+is calculated analytically by using the residue criterion and the diffusion
+constant by using the random phase assumption and correlated random walks. The
+analytical results are in good agreements with the results of two different
+types of numerical simulations by integrations of the Hamilton's equation of
+motion and by iterations of the separatrix map, which establishes the validity
+of the use of the separatrix map.
+","[{""version"":""v1"",""created"":""Sat, 4 Sep 1993 05:58:13 GMT""},{""version"":""v2"",""created"":""Fri, 24 Sep 1993 18:22:21 GMT""}]","2008-02-03"
+"hep-lat/9309002","Ken Bowler","UKQCD Collaboration","The Light Hadron Spectrum and Decay Constants in Quenched Lattice QCD","27 pages, LaTeX, epsf, 11 figs (appended as 21 postscript files,
+  uuencoded), to appear in Phys Rev D, Edinburgh Preprint: 93/524, Southampton
+  Preprint SHEP 92/93-16","Phys.Rev.D49:474-485,1994","10.1103/PhysRevD.49.474",,"hep-lat",,"  We present results for light hadrons composed of both degenerate and
+non-degenerate quarks in quenched lattice QCD. We calculate masses and decay
+constants using 60 gauge configurations with an $O(a)$--improved fermion action
+at $\beta = 6.2$. Using the $\rho$ mass to set the scale, we find hadron masses
+within two to three standard deviations of the experimental values (given in
+parentheses): $m_{K^*}=868\er{9}{8}$~MeV (892~MeV),
+$m_{\phi}=970\err{20}{10}$~MeV (1020~MeV), $m_N=820\err{90}{60}$~MeV (938~MeV),
+$m_\Delta=1300\errr{100}{100}$~MeV (1232~MeV) and
+$m_\Omega=1650\err{70}{50}$~MeV (1672~MeV). Direct comparison with experiment
+for decay constants is obscured by uncertainty in current renormalisations.
+However, for ratios of decay constants we obtain $f_K/f_\pi=1.20\er{3}{2}$
+(1.22) and $f_\phi/f_\rho=1.13\er{2}{3}$ (1.22).
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 16:20:15 GMT""}]","2012-08-27"
+"hep-ph/9309222","Mirjam Cvetic","F. del Aguila, M. Cvetic, and P. Langacker","Review of Z' Constraints","6 pg., UPR-0583-T, (Invited talk presented by F. del Aguila at the
+  Workshop on Physics and Experiments with Linear e$^+$e$^-$ Colliders, Hawaii,
+  April 1993.)",,,,"hep-ph",,"  We review present Z' bounds, discuss future Z' constraints from TEVATRON,
+HERA and LEP, and give a brief review of the Z' diagnostics at future
+colliders.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 20:43:16 GMT""}]","2007-05-23"
+"hep-ph/9309223","Jim Pantaleone","K.S. Babu, C.N. Leung, J. Pantaleone","Renormalization of the Neutrino Mass Operator","17 pages, LATEX. Preprint IUHET-252, UDHEP-93-03, BA-93-44","Phys.Lett.B319:191-198,1993","10.1016/0370-2693(93)90801-N",,"hep-ph",,"  A small neutrino Majorana mass can arise in the Standard Model as an
+effective dimension 5 operator. We calculate the renormalization of this
+operator in the minimal Standard Model and in its two-Higgs-doublet and
+supersymmetric extensions. Renormalization from the scale of lepton number
+violation (e.g., the Planck scale or a GUT scale) to the weak scale decreases
+the strength of this operator by an order of magnitude or more if the top quark
+and Higgs boson masses are large. Neutrino mixing angles also run with
+momentum. We show instances where small mixing at a high scale becomes large at
+the weak scale, and vice versa.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 20:24:56 GMT""}]","2008-11-26"
+"hep-ph/9309224",,"Bijan Haeri Jr","Vertices and the CJT Effective Potential","10 pages (latex), PURD-TH-93-12","Phys.Rev. D48 (1993) 5930-5934","10.1103/PhysRevD.48.5930",,"hep-ph",,"  The Cornwall-Jackiw-Tomboulis effective potential is modified to include a
+functional dependence on the fermion-gauge particle vertex, and applied to a
+quark confining model of chiral symmetry breaking.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 22:03:03 GMT""},{""version"":""v2"",""created"":""Fri, 10 Sep 1993 20:01:39 GMT""}]","2009-10-22"
+"hep-ph/9309225","Jose","J. C. D'Olivo and Jose F. Nieves","Damping Rate of a Fermion in a Medium","Version to appear in Phys. Rev. D","Phys.Rev.D52:2987-2993,1995","10.1103/PhysRevD.52.2987",,"hep-ph",,"  We examine the relation between the damping rate of a massless, chiral
+fermion that propagates in a medium, and the rate $\Gamma$ of approach to
+equilibrium. It is proven that these quantities are equal, by showing that they
+are given by the same formula in terms of the imaginary part of the self-energy
+evaluated at the energy of the propagating fermion mode. This result is valid
+provided $\Gamma$ is defined by using the appropriate wave functions of the
+mode.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 23:00:00 GMT""},{""version"":""v2"",""created"":""Fri, 19 May 1995 14:02:00 GMT""}]","2008-11-26"
+"hep-ph/9309226","J. Gunion","J.F. Gunion","Higgs Sector Motivations for an e-minus e-minus Linear Collider","8 pages, requires phyzzx.tex, postscript file available by anonymous
+  ftp at ucdhep.ucdavis.edu as [anonymous.gunion]hawaii_eecollider.ps, preprint
+  UCD-93-29",,,,"hep-ph",,"  I briefly review the crucial role an $\emem$ linear collider could play in
+unravelling the nature of a non-minimal Higgs sector and/or
+strongly-interacting $WW$ sector.
+","[{""version"":""v1"",""created"":""Sat, 4 Sep 1993 00:51:00 GMT""}]","2007-05-23"
+"hep-th/9309023",,"M Gasperini and G Veneziano","Inflation Deflation and Frame-Independence in String Cosmology","14 pages, CERN-TH.6955/93","Mod.Phys.Lett. A8 (1993) 3701-3714","10.1142/S0217732393003433",,"hep-th astro-ph gr-qc",,"  The inflationary scenarios suggested by the duality properties of string
+cosmology in the Brans-Dicke (or String) frame are shown to correspond to
+accelerated contraction (deflation) when
+  Weyl-transformed to the Einstein frame. We point out that the basic virtues
+of inflation (solving the flatness and horizon problems, amplifying vacuum
+fluctuations, etc.) have physically equivalent counterparts in the deflationary
+(Einstein-frame) picture. This could be the answer to some objections recently
+raised to superstring cosmology.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 16:46:08 GMT""}]","2009-10-22"
+"hep-th/9309024","Ana-Beliakova","Anna Beliakova and Bergfinnur Durhuus","Topological quantum field theory and invariants of graphs for quantum
+  groups","38 pages","Commun.Math.Phys. 167 (1995) 395","10.1007/BF02100592","SFB 288 Preprint 78","hep-th math.QA",,"  On basis of generalized 6j-symbols we give a formulation of topological
+quantum field theories for 3-manifolds including observables in the form of
+coloured graphs. It is shown that the 6j-symbols associated with deformations
+of the classical groups at simple even roots of unity provide examples of this
+construction. Calculational methods are developed which, in particular, yield
+the dimensions of the state spaces as well as a proof of the relation,
+previously announced for the case of $SU_q(2)$ by V.Turaev, between these
+models and corresponding ones based on the ribbon graph construction of
+Reshetikhin and Turaev.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 17:07:48 GMT""},{""version"":""v2"",""created"":""Fri, 10 Sep 1993 14:55:55 GMT""}]","2009-10-22"
+"hep-th/9309025","Martin Bordemann","Martin Bordemann and Jens Hoppe","The Dynamics of Relativistic Membranes II: Nonlinear Waves and
+  Covariantly Reduced Membrane Equations","10 pages, LATEX, FR-THEP-93-19 and KA-THEP-5-93","Phys.Lett.B325:359-365,1994","10.1016/0370-2693(94)90025-6",,"hep-th",,"  By explicitly eliminating all gauge degrees of freedom in the $3+1$-gauge
+description of a classical relativistic (open) membrane moving in $\Real^3$ we
+derive a $2+1$-dimensional nonlinear wave equation of Born-Infeld type for the
+graph $z(t,x,y)$ which is invariant under the Poincar\'e group in four
+dimensions. Alternatively, we determine the world-volume of a membrane in a
+covariant way by the zeroes of a scalar field $u(t,x,y,z)$ obeying a
+homogeneous Poincar\'e-invariant nonlinear wave-equation. This approach also
+gives a simple derivation of the nonlinear gas dynamic equation obtained in the
+light-cone gauge.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 17:18:45 GMT""}]","2011-07-19"
+"hep-th/9309026","Montpetit Andre","Alexei Morozov and Luc Vinet","$q$--Hypergeometric Functions in the Formalism of Free Fields","11 pages, CRM-1884/ITEP-M8, AMS-TEX","Mod.Phys.Lett. A8 (1993) 2891-2902","10.1142/S0217732393003275",,"hep-th",,"  We describe a representation of the $q$--hypergeometric functions of one
+variable in terms of correlators of vertex operators made out of free scalar
+fields on the Riemann sphere.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 19:13:22 GMT""}]","2015-06-26"
+"hep-th/9309027","Barton Zwiebach","Ashoke Sen and Barton Zwiebach","A Note on Gauge Transformations in Batalin-Vilkovisky Theory","10 pages, phyzzx.tex, MIT-CTP-2240","Phys.Lett.B320:29-35,1994","10.1016/0370-2693(94)90819-2",,"hep-th",,"  We give a generally covariant description, in the sense of symplectic
+geometry, of gauge transformations in Batalin-Vilkovisky quantization. Gauge
+transformations exist not only at the classical level, but also at the quantum
+level, where they leave the action-weighted measure $d\mu_S = d\mu
+e^{2S/\hbar}$ invariant. The quantum gauge transformations and their Lie
+algebra are $\hbar$-deformations of the classical gauge transformation and
+their Lie algebra. The corresponding Lie brackets $[ , ]^q$, and $[ , ]^c$, are
+constructed in terms of the symplectic structure and the measure $d\mu_S$. We
+discuss closed string field theory as an application.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 20:44:46 GMT""}]","2009-09-15"
+"math/9309215","Mikhail Lyubich","Mikhail Lyubich","Geometry of quadratic polynomials: moduli, rigidity and local
+  connectivity","Abstract shortened in migration.",,,"Stony Brook IMS 1993/9","math.DS",,"  A while ago MLC (the conjecture that the Mandelbrot set is locally connected)
+was proven for quasi-hyperbolic points by Douady and Hubbard, and for
+boundaries of hyperbolic components by Yoccoz. More recently Yoccoz proved MLC
+for all at most finitely renormalizable parameter values. One of our goals is
+to prove MLC for some infinitely renormalizable parameter values. Loosely
+speaking, we need all renormalizations to have bounded combinatorial rotation
+number (assumption C1) and sufficiently high combinatorial type (assumption
+C2).
+  For real quadratic polynomials of bounded combinatorial type the complex a
+priori bounds were obtained by Sullivan. Our result complements the Sullivan's
+result in the unbounded case. Moreover, it gives a background for Sullivan's
+renormalization theory for some bounded type polynomials outside the real line
+where the problem of a priori bounds was not handled before for any single
+polynomial.
+  An important consequence of a priori bounds is absence of invariant
+measurable line fields on the Julia set (McMullen) which is equivalent to
+quasi-conformal (qc) rigidity. To prove stronger topological rigidity we
+construct a qc conjugacy between any two topologically conjugate polynomials
+(Theorem III). We do this by means of a pull-back argument, based on the linear
+growth of moduli and a priori bounds. Actually the argument gives the stronger
+combinatorial rigidity which implies MLC.
+","[{""version"":""v1"",""created"":""Sat, 4 Sep 1993 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9309002",,"M. Baldo, E.G. Lanza and A. Rapisarda","Chaotic Scattering in Heavy--Ion Reactions","35 pages in RevTex (version 3.0) plus 27 PostScript figures
+  obtainable by anonymous ftp from VAXFCT.CT.INFN.IT in directory kaos. Fig. 1
+  upon request to the authors. To be published in the October Focus issue on
+  chaotic scattering of CHAOS","Chaos 3 (1993) 691","10.1063/1.165930",,"nucl-th",,"  We discuss the relevance of chaotic scattering in heavy--ion reactions at
+energies around the Coulomb barrier. A model in two and three dimensions which
+takes into account rotational degrees of freedom is discussed both classically
+and quantum-mechanically. The typical chaotic features found in this
+description of heavy-ion collisions are connected with the anomalous behaviour
+of several experimental data.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 17:00:00 GMT""}]","2009-10-22"

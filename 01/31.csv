@@ -1,0 +1,37 @@
+"hep-th/9301128",,"K.G.Selivanov","Geometry and Physics on $w_{\infty}$ Orbits","19 pages, LATEX, with notation $w_N$ changed to $\bar{w}_N$, with 3
+  more references and with note added in proof","Mod. Phys. Lett. A8 (1993) 1139","10.1142/S0217732393002622","BONN-HE-93/06","hep-th",,"  We apply the coadjoint orbit technique to the group of area preserving
+diffeomorphisms (APD) of a 2D manifold, particularly to the APD of the
+semi-infinite cylinder which is identified with $w_{\infty}$. The geometrical
+action obtained is relevant to both $w$ gravity and 2D turbulence. For the
+latter we describe the hamiltonian, which appears to be given by the Schwinger
+mass term, and discuss some possible developments within our approach. Next we
+show that the set of highest weight orbits of $w_{\infty}$ splits into subsets,
+each of which consists of highest weight orbits of $\bar{w}_N$ for a given N.
+We specify the general APD geometric action to an orbit of $\bar{w}_N$ and
+describe an appropriate set of observables, thus getting an action and
+observables for $\bar{w}_N$ gravity. We compute also the Ricci form on the
+$\bar{w}_N$ orbits, what gives us the critical central charge of the
+$\bar{w}_N$ string, which appears to be the same as the one of the $W_N$
+string.
+","[{""version"":""v1"",""created"":""Sat, 30 Jan 1993 18:39:42 GMT""},{""version"":""v2"",""created"":""Thu, 11 Feb 1993 21:00:06 GMT""}]","2016-09-06"
+"hep-th/9301129","Nemanja Kaloper","B. A. Campbell, N. Kaloper, R. Madden and K. A. Olive","Physical Properties of Four Dimensional Superstring Gravity Black Hole
+  Solutions","38 pages LaTeX, Alberta-Thy-32-92/UMN-TH-1109/92. (6 figures
+  available upon request from N. Kaloper, email:
+  kaloper@hawking.phys.ualberta.ca) ( 4 typos in the previous version corrected
+  )","Nucl.Phys.B399:137-168,1993","10.1016/0550-3213(93)90620-5",,"hep-th gr-qc hep-ph",,"  We consider the physical properties of four dimensional black hole solutions
+to the effective action describing the low energy dynamics of the gravitational
+sector of heterotic superstring theory. We compare the properties of the
+external field strengths in the perturbative solution to the full $O(\alpha')$
+string effective action equations, to those of exact solutions in a truncated
+action for charged black holes, and to the Kerr-Newman family of solutions of
+Einstein-Maxwell theory. We contrast the numerical results obtained in these
+approaches, and discuss limitations of the analyses. Finally we discuss how the
+new features of classical string gravity affect the standard tests of general
+relativity.
+","[{""version"":""v1"",""created"":""Sun, 31 Jan 1993 09:22:09 GMT""},{""version"":""v2"",""created"":""Mon, 8 Feb 1993 23:25:01 GMT""}]","2009-09-15"
+"hep-th/9301130","H. S. Sharatchandra","H.S.Sharatchandra","Bosonisation in any dimension","9 pages Latex, imsc no. 93/",,,,"hep-th cond-mat hep-lat",,"  The mechanism underlying any bosonisation or fermionisation is exposed.It is
+shown that any local theory of fermions on a lattice in any spatial dimension
+greater than one is equivalent to a local theory of Ising spins coupled to a
+$Z_{2}$ gauge field.There is a close relation to the description of anyons
+using a Chern-Simons term.
+","[{""version"":""v1"",""created"":""Sun, 31 Jan 1993 13:43:42 GMT""}]","2007-05-23"

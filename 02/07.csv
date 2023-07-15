@@ -1,0 +1,34 @@
+"cond-mat/9302011",,"M. Long and X. Zotos","Hole-hole correlations in the $U=\infty $ limit of the Hubbard model and
+  the stability of the Nagaoka state","15 pages, REVTEX",,"10.1103/PhysRevB.48.317",,"cond-mat",,"  We use exact diagonalisation in order to study the infinite - $U$ limit of
+the two dimensional Hubbard model. As well as looking at single-particle
+correlations, such as $n_{{\bf k}\sigma }=\langle c^\dagger _{{\bf k}\sigma
+}c_{{\bf k}\sigma } \rangle $, we also study {\it N-particle correlation
+functions} which compare the relative positions of {\it all} the particles in
+different models. In particular we study 16 and 18-site clusters and compare
+the charge correlations in the Hubbard model with those of spinless fermions
+and hard-core bosons. We find that although low densities of holes favour a
+`locally-ferromagnetic' fermionic description, the correlations at larger
+densities resemble those of pure hard-core bosons surprisingly well .
+","[{""version"":""v1"",""created"":""Sat, 6 Feb 1993 16:13:00 GMT""}]","2009-10-22"
+"hep-lat/9302002","Nobuyasu","Nobuyasu Ito, Macoto Kikuchi and Yutaka Okabe","Recycle of random sequences","23pages( 1 figure is not included. The Postscript file is available.
+  Request the author directly. ), LaTeX",,"10.1142/S0129183193000562",,"hep-lat",,"  The correlation between a random sequence and its transformed sequences is
+studied. In the case of a permutation operation or, in other word, the
+shuffling operation, it is shown that the correlation can be so small that the
+sequences can be regarded as independent random sequences. The applications to
+the Monte Carlo simulations are also given. This method is especially useful in
+the Ising Monte Carlo simulation.
+","[{""version"":""v1"",""created"":""Sun, 7 Feb 1993 13:06:43 GMT""}]","2015-06-25"
+"hep-th/9302021","Boguslaw Broda","Boguslaw Broda (U. Clausthal and U. Lodz)","SU(2) and the Kauffman bracket","5 pages","J.Phys. A26 (1993) L401-L403","10.1088/0305-4470/26/8/002",,"hep-th math.QA",,"  A direct relationship between the (non-quantum) group SU(2) and the Kauffman
+bracket in the framework of Chern-Simons theory is explicitly shown.
+","[{""version"":""v1"",""created"":""Sat, 6 Feb 1993 17:28:27 GMT""}]","2009-10-22"
+"hep-th/9302022","Herman Verlinde","Erik Verlinde and Herman Verlinde","A Unitary S-matrix for 2D Black Hole Formation and Evaporation","19 pages, LaTeX","Nucl.Phys. B406 (1993) 43-58","10.1016/0550-3213(93)90160-Q",,"hep-th",,"  We study the black hole information paradox in the context of a
+two-dimensional toy model given by dilaton gravity coupled to $N$ massless
+scalar fields. After making the model well-defined by imposing reflecting
+boundary conditions at a critical value of the dilaton field, we quantize the
+theory and derive the quantum quantum $S$-matrix for the case that $N$=$24$.
+This $S$-matrix is unitary by construction, and we further argue that in the
+semiclassical regime it describes the formation and subsequent Hawking
+evaporation of two-dimensional black holes. Finally, we note an interesting
+correspondence between the dilaton gravity $S$-matrix and that of the $c=1$
+matrix model.
+","[{""version"":""v1"",""created"":""Sun, 7 Feb 1993 04:49:44 GMT""}]","2009-10-22"

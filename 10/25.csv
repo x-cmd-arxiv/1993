@@ -1,0 +1,111 @@
+"astro-ph/9310042",,"Sandip K. Chakrabarti and Diego Molteni","Smoothed Particle Hydrodynamics Confronts Theory: Formation of Standing
+  Shocks in Accretion Disks and Winds Around Black Holes","16 pages, LaTeX, ApJ-Nov.10th, 1993 (in press); Figures upon request",,"10.1086/173345",,"astro-ph",,"  We present results of numerical simulation of thin accretion disks and winds.
+We use the Smoothed Particle Hydrodynamics (SPH) technique for this purpose. We
+show that the simulation agrees very well with the recent theoretical work on
+the shock formation. The most significant conclusion is that shocks in an
+inviscid flow are extremely stable. For the first time, our work also removes
+the ambiguity in terms of the location and stability of shocks in adiabatic
+flows.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 14:45:00 GMT""},{""version"":""v2"",""created"":""Wed, 27 Oct 1993 07:48:00 GMT""}]","2009-10-22"
+"cond-mat/9310055",,"Haye Hinrichsen","A Generalized Duality Transformation of the Anisotropic Xy Chain in a
+  Magnetic Field","6 pages, LaTeX, BONN-HE-93-40","J.Phys. A27 (1994) 1121-1126","10.1088/0305-4470/27/4/008",,"cond-mat hep-th",,"  We consider the anisotropic $XY$ chain in a magnetic field with special
+boundary conditions described by a two-parameter Hamiltonian. It is shown that
+the exchange of the parameters corresponds to a similarity transformation,
+which reduces in a special limit to the Ising duality transformation.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 15:52:53 GMT""}]","2009-10-22"
+"gr-qc/9310032","Max Tegmark","Max Tegmark","Apparent wave function collapse caused by scattering","Final published version. 20 pages, Plain TeX, no figures. Online at
+  http://astro.berkeley.edu/~max/collapse.html (faster from the US), from
+  http://www.mpa-garching.mpg.de/~max/collapse.html (faster from Europe) or
+  from max@mppmu.mpg.de","Found. Phys. Lett., 6, 571-590 (1993)","10.1007/BF00662807",,"gr-qc",,"  Some experimental implications of the recent progress on wave function
+collapse are calculated. Exact results are derived for the center-of-mass wave
+function collapse caused by random scatterings and applied to a range of
+specific examples. The results show that recently proposed experiments to
+measure the GRW effect are likely to fail, since the effect of naturally
+occurring scatterings is of the same form as the GRW effect but generally much
+stronger. The same goes for attempts to measure the collapse caused by quantum
+gravity as suggested by Hawking and others. The results also indicate that
+macroscopic systems tend to be found in states with (Delta-x)(Delta-p) =
+hbar/sqrt(2), but microscopic systems in highly tiltedly squeezed states with
+(Delta-x)(Delta-p) >> hbar.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 06:47:37 GMT""},{""version"":""v2"",""created"":""Fri, 1 Mar 1996 16:23:32 GMT""}]","2009-10-22"
+"hep-lat/9310024","B. Grossmann","B.Grossmann and Sourendu Gupta","Interface Tensions and Perfect Wetting in the Two-Dimensional
+  Seven-State Potts Model","8 pages, LaTex file, 2 postscript figures appended, HLRZ 63/93","Phys.Lett. B319 (1993) 215-218","10.1016/0370-2693(93)90805-R",,"hep-lat",,"  We present a numerical determination of the order-disorder interface tension,
+\sod, for the two-dimensional seven-state Potts model. We find
+$\sod=0.0114\pm0.0012$, in good agreement with expectations based on the
+conjecture of perfect wetting. We take into account systematic effects on the
+technique of our choice: the histogram method. Our measurements are performed
+on rectangular lattices, so that the histograms contain identifiable plateaus.
+The lattice sizes are chosen to be large compared to the physical correlation
+length. Capillary wave corrections are applied to our measurements on finite
+systems.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 15:40:57 GMT""}]","2009-10-22"
+"hep-lat/9310025","Wolfhard Janke","W. Janke, M. Katoot, and R. Villanova","Ising Model Universality for Two-Dimensional Lattices","LaTeX file, 10 pages, 3 ps figures, preprint UAB-FT-318","Phys.Lett. B315 (1993) 412-416","10.1016/0370-2693(93)91633-X",,"hep-lat",,"  We use the single-cluster Monte Carlo update algorithm to simulate the Ising
+model on two-dimensional Poissonian random lattices of Delaunay type with up to
+80\,000 sites. By applying reweighting techniques and finite-size scaling
+analyses to time-series data near criticality, we obtain unambiguous support
+that the critical exponents for the random lattice agree with the exactly known
+exponents for regular lattices, i.e., that (lattice) universality holds for the
+two-dimensional Ising model.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 15:54:17 GMT""}]","2009-10-22"
+"hep-ph/9310344",,"M.Anselmino, M.Genovese and D.E.Kharzeev","Perturbative QCD Forbidden Charmonium Decays and Gluonia","8pages, lateX, DFTT 64-93","Phys.Rev. D50 (1994) 595-598","10.1103/PhysRevD.50.595",,"hep-ph",,"  We address the problem of observed charmonium decays which should be
+forbidden in perturbative QCD. We examine the model in which these decays
+proceed through a gluonic component of the $J/\Psi$ and the $\eta_c$, arising
+from a mixing of $(c\bar c)$ and glueball states. We give some bounds on the
+values of the mixing angles and propose the study of the $p \bar{p} \to \phi
+\phi$ reaction, at $\sqrt{s} \simeq 3$ GeV, as an independent test of the
+model.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 09:02:17 GMT""}]","2009-10-22"
+"hep-ph/9310345","Jean Cleymans","E. Suhonen, J. Cleymans, K. Redlich, H. Satz","Hadron Production Ratios as Probes of Confinement and Freeze-Out","3 Pages Latex and 3 figures available as Postscript files, talk
+  presented at the EPS Conference 1993, Marseilles, France",,,"UCT-TP 201/93","hep-ph",,"  Particle production in central S-A collisions at 200 GeV/A energy is analysed
+within a thermal model. Present data imply that the strange particles freeze
+out at a higher temperature than the non-strange particles and that the
+strangeness saturation is incomplete.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 10:13:31 GMT""}]","2016-08-16"
+"hep-ph/9310346","Marek Karliner","M. Karliner and R. W. Robinett","Aspects of Heavy Quark Production in Polarized Proton-Proton Collisions","23 pages (LaTeX) + 8 postscript figures encoded through uufiles;
+  PSU/TH/135, TAUP 2099-93","Phys.Lett.B324:209-216,1994","10.1016/0370-2693(94)90409-X",,"hep-ph",,"  We examine the spin-dependence of b-quark production at large transverse
+momentum in polarized proton-proton collisions. The leading-order (LO) 2 -> 2
+subprocesses, g + g -> Q + Q-bar and q+ q-bar -> Q + Q-bar have a large
+`analyzing power', as measured by the average spin-spin asymmetry <a-hat_{LL}>,
+at large p_T, approaching -100%. The contributions from next-to-leading order
+(NLO) 2 -> 3 processes are also discussed and found to be dominated at large
+transverse momentum by subprocesses with a large and positive partonic level
+spin asymmetry leading to strong cancellations with the LO predictions. The
+results suggest that b-quark production might constitute an interesting test of
+the spin-dependence of NLO QCD but they also point up the importance of a full
+calculation of the complete O(\alpha_S^3) spin-dependent corrections for a
+successful extraction of the polarized gluon distribution. Similarities to
+gluino pair production are also briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 15:17:00 GMT""}]","2010-11-01"
+"hep-th/9310160","Zurab Kakushadze","Zurab Kakushadze and S.-H. Henry Tye","Kac and New Determinants for Fractional Superconformal Algebras","33 pages, Revtex 3.0, Cornell preprint CLNS 93/1243","Phys.Rev. D49 (1994) 4122-4138","10.1103/PhysRevD.49.4122",,"hep-th",,"  We derive the Kac and new determinant formulae for an arbitrary (integer)
+level $K$ fractional superconformal algebra using the BRST cohomology
+techniques developed in conformal field theory. In particular, we reproduce the
+Kac determinants for the Virasoro ($K=1$) and superconformal ($K=2$) algebras.
+For $K\geq3$ there always exist modules where the Kac determinant factorizes
+into a product of more fundamental new determinants. Using our results for
+general $K$, we sketch the non-unitarity proof for the $SU(2)$ minimal series;
+as expected, the only unitary models are those already known from the coset
+construction. We apply the Kac determinant formulae for the spin-4/3
+parafermion current algebra ({\em i.e.}, the $K=4$ fractional superconformal
+algebra) to the recently constructed three-dimensional flat Minkowski
+space-time representation of the spin-4/3 fractional superstring. We prove the
+no-ghost theorem for the space-time bosonic sector of this theory; that is, its
+physical spectrum is free of negative-norm states.
+","[{""version"":""v1"",""created"":""Sun, 24 Oct 1993 19:25:34 GMT""}]","2009-10-22"
+"hep-th/9310162","Grosche Christian","Christian Grosche","On the Path Integral in Imaginary Lobachevsky Space","16 pages, LATEX, DESY 93-140","J.Phys. A27 (1994) 3475-3490","10.1088/0305-4470/27/10/023",,"hep-th",,"  The path integral on the single-sheeted hyperboloid, i.e.\ in $D$-dimensional
+imaginary Lobachevsky space, is evaluated. A potential problem which we call
+``Kepler-problem'', and the case of a constant magnetic field are also
+discussed.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 10:41:59 GMT""}]","2009-10-22"
+"hep-th/9310164","Dr John W. Barrett","John W. Barrett and Bruce W. Westbury","Spherical Categories","16 pages. Minor corrections","Adv.Math.143:357-375,1999","10.1006/aima.1998.1800",,"hep-th math.QA",,"  This paper is a study of monoidal categories with duals where the tensor
+product need not be commutative. The motivating examples are categories of
+representations of Hopf algebras and the motivating application is the
+definition of 6j-symbols as used in topological field theories.
+  We introduce the new notion of a spherical category. In the first section we
+prove a coherence theorem for a monoidal category with duals following MacLane
+(1963). In the second section we give the definition of a spherical category,
+and construct a natural quotient which is also spherical.
+  In the third section we define spherical Hopf algebras so that the category
+of representations is spherical. Examples of spherical Hopf algebras are
+involutory Hopf algebras and ribbon Hopf algebras. Finally we study the natural
+quotient in these cases and show it is semisimple.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 15:45:14 GMT""},{""version"":""v2"",""created"":""Wed, 22 Jul 1998 00:24:24 GMT""}]","2008-11-26"

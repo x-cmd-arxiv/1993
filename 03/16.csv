@@ -1,0 +1,180 @@
+"cond-mat/9303028","Henrik Bruus","Henrik Bruus, Karsten Flensberg, and Henrik Smith","Magnetoconductivity of quantum wires with elastic and inelastic
+  scattering","21 pages (revtex 3.0), 5 postscript figures available upon request at
+  bruus@cmphys.eng.yale.edu or karsten@nordita.dk",,"10.1103/PhysRevB.48.11144",,"cond-mat",,"  We use a Boltzmann equation to determine the magnetoconductivity of quantum
+wires. The presence of a confining potential in addition to the magnetic field
+removes the degeneracy of the Landau levels and allows one to associate a group
+velocity with each single-particle state. The distribution function describing
+the occupation of these single-particle states satisfies a Boltzmann equation,
+which may be solved exactly in the case of impurity scattering. In the case
+where the electrons scatter against both phonons and impurities we solve
+numerically - and in certain limits analytically - the integral equation for
+the distribution function, and determine the conductivity as a function of
+temperature and magnetic field. The magnetoconductivity exhibits a maximum at a
+temperature, which depends on the relative strength of the impurity and
+electron-phonon scattering, and shows oscillations when the Fermi energy or the
+magnetic field is varied.
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 02:58:39 GMT""}]","2009-10-22"
+"hep-ph/9303259",,"Pankaj Jain and John P. Ralston","Systematic Analysis Method for Color Transparency Experiments","11 pages, 11 figures (figures not included, available upon request),
+  report # KU-HEP-92-25","Phys.Rev.D48:1104-1111,1993","10.1103/PhysRevD.48.1104",,"hep-ph",,"  We introduce a data analysis procedure for color transparency experiments
+which is considerably less model dependent than the transparency ratio method.
+The new method is based on fitting the shape of the A dependence of the nuclear
+cross section at fixed momentum transfer to determine the effective attenuation
+cross section for hadrons propagating through the nucleus. The procedure does
+not require assumptions about the hard scattering rate inside the nuclear
+medium. Instead, the hard scattering rate is deduced directly from the data.
+The only theoretical input necessary is in modelling the attenuation due to the
+nuclear medium, for which we use a simple exponential law. We apply this
+procedure to the Brookhaven experiment of Carroll et al and find that it
+clearly shows color transparency: the effective attenuation cross section in
+events with momentum transfer $Q^2$ is approximately $40\ mb\ (2.2\
+GeV^2/Q^2)$. The fit to the data also supports the idea that the hard
+scattering inside the nuclear medium is closer to perturbative QCD predictions
+than is the scattering of isolated protons in free space. We also discuss the
+application of our approach to electroproduction experiments.
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 19:24:55 GMT""}]","2008-11-26"
+"hep-ph/9303260","Urs M. Heller","Urs M. Heller","Higgs Mass Bound in the Minimal Standard Model","To appear in the proceedings of the 4th Hellenic School on Elementary
+  Particle Physics, Corfu, Greece, Sept. 2--20, 1992. 10 pages with 3
+  postscript figures included. LaTeX file. Preprint FSU-SCRI-93-40",,,,"hep-ph hep-lat",,"  A brief review of the role of the Higgs mechanism and the ensuing Higgs
+particle in the Minimal Standard Model is given. Then the property of
+triviality of the scalar sector in the Minimal Standard Model and the upper
+bound on the Higgs mass that follows is discussed. It is emphasized that the
+bound is obtained by limiting cutoff effects on physical processes. Actions
+that allow a parameterization and tuning of the leading cutoff effects are
+studied both analytically, in the large $N$ limit of the generalization of the
+$O(4)$ symmetry of the scalar sector to $O(N)$, and numerically for the
+physical case $N = 4$. Combining those results we show that the Minimal
+Standard Model will describe physics to an accuracy of a few percent up to
+energies of the order 2 to 4 times the Higgs mass, $M_H$, only if $M_H \le 710
+\pm 60 ~ GeV$. This bound is the result of a systematic search in the space of
+dimension six operators and is expected to hold in the {\it continuum}.
+(Complete postscript file can be obtained by anonymous ftp from
+ftp.scri.fsu.edu as file ""corfu_92.ps"" from directory ""pub/heller"".)
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 19:41:30 GMT""}]","2009-09-25"
+"hep-ph/9303261","Ivan","Eric Braaten","Effective Field Theory for Plasmas at all Temperatures and Densities","Presented at the Workshop on Finite Temperature Field Theory,
+  Winnipeg, July 20-25, 1992. , LateX, 10 pages, NUHEP-TH-92-22","Can.J.Phys. 71 (1993) 215-218","10.1139/p93-034",,"hep-ph",,"  The solution of the plasmon problem and the subsequent development of an
+effective field theory approach to ultrarelativistic plasmas are reviewed. The
+effective lagrangians that summarize collective effects in ultrarelativistic
+quark-gluon and electron-photon plasmas are presented. A generalization that
+describes an electromagnetic plasma at all temperatures and densities is
+proposed.
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 23:42:19 GMT""}]","2015-06-25"
+"hep-ph/9303262","Paul Hoyer","Paul Hoyer","The Schwinger Model and Perturbative Charge Screening","20 pages in phyzzx, no figures. An error in the calculation is
+  corrected, the conclusions are strengthened",,,,"hep-ph hep-th",,"  \noindent The well-known exact solution of the massless Schwinger model can
+be simply obtained by perturbing around a vacuum without the Dirac sea of
+filled negative energy states. The unusual vacuum structure changes the sign of
+the $i\epsilon$ prescription at the negative energy pole of the free fermion
+propagator. Consequently, all convergent fermion loop integrals vanish. The
+logarithmically divergent two-point loop gives a mass $e/\sqrt\pi$ to the
+photon, which turns into the free pointlike boson of the Schwinger model. We
+discuss the possiblity of using corresponding expansions to describe charge
+screening effects in the massive Schwinger model and the confinement phenomenon
+of QCD.
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 07:52:57 GMT""},{""version"":""v2"",""created"":""Tue, 13 Jul 1993 13:30:38 GMT""}]","2008-02-03"
+"hep-ph/9303263","Takahiro Kubota","S. Kanemura, T. Kubota, and E. Takasugi","Lee-Quigg-Thacker Bounds for Higgs Boson Masses in a Two-Doublet Model","15pages, 2 figures (not included but available upon request), OS-GE
+  32-93","Phys.Lett.B313:155-160,1993","10.1016/0370-2693(93)91205-2",,"hep-ph",,"  Upper bounds for neutral as well as charged Higgs boson masses in a
+two-doublet model are obtained on the basis of tree unitarity conditions \`a la
+Lee, Quigg and Thacker. A wide variety of scattering processes are considered
+so extensively that our bounds are more restrictive than those obtained
+previously for neutral Higgs bosons and are also of a new kind for charged
+Higgs boson. It is argued that at least one of the Higgs bosons should be
+lighter than 580 ${\rm GeV}/c^{2}$.
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 11:36:35 GMT""}]","2008-11-26"
+"hep-ph/9303264","Bradley D. Keister","B. D. Keister","Rotational covariance and light-front current matrix elements","16 pages, [no number]","Phys.Rev.D49:1500-1505,1994","10.1103/PhysRevD.49.1500",,"hep-ph nucl-th",,"  Light-front current matrix elements for elastic scattering from hadrons with
+spin~1 or greater must satisfy a nontrivial constraint associated with the
+requirement of rotational covariance for the current operator. Using a model
+$\rho$ meson as a prototype for hadronic quark models, this constraint and its
+implications are studied at both low and high momentum transfers. In the
+kinematic region appropriate for asymptotic QCD, helicity rules, together with
+the rotational covariance condition, yield an additional relation between the
+light-front current matrix elements.
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 15:51:32 GMT""}]","2010-11-19"
+"hep-ph/9303269","Per","Per Elmfors, Kari Enqvist, Iiro Vilja","Finite temperature effective action and thermalization of perturbations","25 pages, plain TEX, 7 figures not included, NORDITA 93/22 P","Nucl.Phys. B422 (1994) 521-540","10.1016/0550-3213(94)90445-6",,"hep-ph",,"  The effective action is computed for the \lphi--theory at finite temperature
+for small perturbations about a constant background field, using a generalized
+tadpole method. We find the complete effective action, including the real and
+imaginary parts, to all orders in derivatives and to order ${\cal
+O}(\lambda^2)$. We demonstrate that the high $T$ approximation, where only the
+zero Matsubara frequency is included, is incorrect for the imaginary part even
+though it is UV-finite. The solutions of the dispersion relations show that
+initial perturbations do not necessarily thermalize fast enough to be absent at
+the onset of phase transition.
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 14:33:04 GMT""}]","2009-10-22"
+"hep-th/9303085","Karyn M. Apfeldorf","Karyn M. Apfeldorf and Joaquim Gomis","Superconformal theories from Pseudoparticle Mechanics","36 pages, UTTG-93-001","Nucl.Phys. B411 (1994) 745-777","10.1016/0550-3213(94)90469-3",,"hep-th",,"  We consider a one-dimensional Osp($N|2M$) pseudoparticle mechanical model
+which may be written as a phase space gauge theory. We show how the
+pseudoparticle model naturally encodes and explains the two-dimensional zero
+curvature approach to finding extended conformal symmetries. We describe a
+procedure of partial gauge fixing of these theories which leads generally to
+theories with superconformally extended ${\cal W}$-algebras. The pseudoparticle
+model allows one to derive the finite transformations of the gauge and matter
+fields occurring in these theories with extended conformal symmetries. In
+particular, the partial gauge fixing of the Osp($N|2$) pseudoparticle
+mechanical models results in theories with the SO($N$) invariant $N$-extended
+superconformal symmetry algebra of Bershadsky and Knizhnik. These algebras are
+nonlinear for $N \geq 3.$ We discuss in detail the cases of $N=1$ and $N=2,$
+giving two new derivations of the superschwarzian derivatives. Some comments
+are made in the $N=2$ case on how twisted and topological theories represent a
+significant deformation of the original particle model. The particle model also
+allows one to interpret superconformal transformations as deformations of flags
+in super jet bundles over the associated super Riemann surface.
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 20:25:11 GMT""}]","2009-10-22"
+"hep-th/9303086","Karyn M. Apfeldorf","J. Gomis, J. Herrero, K. Kamimura and J. Roca","Zero-curvature condition in two dimensions. Relativistic particle models
+  and finite \W-transformations","14 pages, UTTG-04-93","Prog.Theor.Phys. 91 (1994) 413-418","10.1143/ptp/91.2.413",,"hep-th",,"  A relation between an $Sp(2M)$ gauge particle model and the zero-curvature
+condition in a two-dimensional gauge theory is presented. For the $Sp(4)$ case
+we construct finite \W-transformations.
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 20:25:44 GMT""}]","2017-02-01"
+"hep-th/9303087",,"Raiko P. Zaikov","Extended Non-Abelian Gauge Symmetries in Classical WZNW Model","18 pages, HarvmacTeX, INRNE-TH/1/93","Lett. Math. Phys. 32 (1994) 283-298","10.1007/BF00761139",,"hep-th",,"  The present paper is revised copy of hep-th/9303087 in which higher spin
+extensions of the nonabelian gauge symmetries for the classical WZNW model are
+considered. Both linear and nonlinear realizations of the extended affine
+Kac-Moody algebra are obtained. A characteristic property of the WZNW model is
+that it admits a higher spin linear realization of the extended affine
+Kac-Moody algebra which is equivalent to the corresponding higher spin
+nonlinear realization of the same algebra. However, in both cases the higher
+spin currents do not form an invariant space with respect to their generating
+transformations. This makes it imposible for this symmetry to be gauged.
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 21:13:45 GMT""},{""version"":""v2"",""created"":""Wed, 4 Aug 1993 15:06:30 GMT""}]","2009-10-22"
+"hep-th/9303088","Steve Carlip","S. Carlip","Chern-Simons States in Topologically Massive Gauge Theories","6 pages, LaTeX. (Paper is being withdrawn: original conclusion is
+  incorrect for the nonabelian case. For a correct treatment, see M. Asorey, S.
+  Carlip, and F. Falceto, hep-th/9304081.)",,,"UCDHEP-93-7","hep-th",,"  The set of degenerate ground states of an arbitrary nonabelian topologically
+massive gauge theory is shown to be in one-to-one correspondence with the
+Hilbert space of the associated pure Chern-Simons theory. (Paper is being
+withdrawn: original conclusion is incorrect for the nonabelian case. For a
+correct treatment, see M. Asorey, S. Carlip, and F. Falceto, hep-th/9304081.)
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 21:55:05 GMT""},{""version"":""v2"",""created"":""Tue, 16 Mar 1993 22:29:13 GMT""},{""version"":""v3"",""created"":""Thu, 22 Apr 1993 22:37:55 GMT""}]","2016-09-06"
+"hep-th/9303089",,"H. Nishino","Supersymmetric KP Systems Embedded in Supersymmetric Self-Dual
+  Yang-Mills Theory","LATEX 10 pages, Maryland preprint, UMDEPP 93-145","Phys.Lett. B318 (1993) 107-114","10.1016/0370-2693(93)91792-L",,"hep-th",,"  We show that $~N=1$~ {\it supersymmetric} Kadomtsev-Petviashvili (SKP)
+equations can be embedded into recently formulated $~N=1$~ self-dual {\it
+supersymmetric} Yang-Mills theories after appropriate dimensional reduction and
+truncation, which yield three-dimensional supersymmetric Chern-Simons theories.
+Based on this result, we also give conjectural \hbox{$N=2~$} SKP equations.
+Subsequently some exact solutions of these systems including fermionic fields
+are given.
+","[{""version"":""v1"",""created"":""Mon, 15 Mar 1993 23:34:00 GMT""}]","2009-10-22"
+"hep-th/9303090","Saburo Higuchi","Saburo Higuchi, Chigak Itoi and Norisuke Sakai","Exact Beta Functions in the Vector Model and Renormalization Group
+  Approach","13 pages (no figures) in LaTeX, TIT/HEP-215, NUP-A-93-4, a few minor
+  corrections","Phys.Lett. B312 (1993) 88-96","10.1016/0370-2693(93)90493-2",,"hep-th",,"  The validity of the renormalization group approach for large $N$ is clarified
+by using the vector model as an example. An exact difference equation is
+obtained which relates free energies for neighboring values of $N$. The
+reparametrization freedom in field space provides infinitely many identities
+which reduce the infinite dimensional coupling constant space to that of finite
+dimensions. The effective beta functions give exact values for the fixed points
+and the susceptibility exponents.
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 05:48:20 GMT""},{""version"":""v2"",""created"":""Tue, 13 Apr 1993 07:08:08 GMT""}]","2009-10-22"
+"hep-th/9303091","Tatsuo Kobayshi","Tatsuo Kobayashi","Quantum Deformed $su(m|n)$ Algebra and Superconformal Algebra on Quantum
+  Superspace","27 pages, KUCP-59, LaTeX file","Z.Phys. C60 (1993) 101-110","10.1007/BF01650435",,"hep-th",,"  We study a deformed $su(m|n)$ algebra on a quantum superspace. Some
+interesting aspects of the deformed algebra are shown. As an application of the
+deformed algebra we construct a deformed superconformal algebra. {}From the
+deformed $su(1|4)$ algebra, we derive deformed Lorentz, translation of
+Minkowski space, $iso(2,2)$ and its supersymmetric algebras as closed
+subalgebras with consistent automorphisms.
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 06:21:15 GMT""}]","2009-10-22"
+"hep-th/9303092",,"S. P. Tsarev","Classical differential geometry and integrability of systems of
+  hydrodynamic type","12 pages. To be published in: Proc. NATO ARW ""Applications of
+  analytic and geometric methods to nonlinear differential equations, 14-19
+  July 1992, Exeter, UK)",,,,"hep-th math.DG",,"  Remarkable parallelism between the theory of integrable systems of
+first-order quasilinear PDE and some old results in projective and affine
+differential geometry of conjugate nets, Laplace equations, their
+Bianchi-Baecklund transformations is exposed.
+  These results were recently applied by I.M.Krichever and B.A.Dubrovin to
+prove integrability of some models in topological field theories. Within the
+geometric framework we derive some new integrable (in a sense to be discussed)
+generalizations describing N-wave resonant interactions.
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 10:03:04 GMT""}]","2008-02-03"

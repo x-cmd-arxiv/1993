@@ -1,0 +1,168 @@
+"astro-ph/9310040","David Schlegel","David Schlegel, Marc Davis, Frank Summers and Jon A. Holtzman","How Unusual is the Locally Quiet Hubble Flow?","9 pages including 6 figures, uuencoded compressed PostScript,
+  CfPA93-TH-33","Astrophys.J. 427 (1994) 527","10.1086/174164",,"astro-ph",,"  The local galaxy distribution offers an interesting constraint to
+cosmological models of structure formation. The galaxies are distributed in a
+long, filamentary structure, presumably the result of large amplitude
+gravitational instability, yet the local velocity field is cold. In particular,
+there are no blueshifted galaxies within 5h^-1 Mpc except those within the
+Local Group radius of 1h^-1 Mpc. Using numerical simulations we demonstrate
+that such a situation is extremely rare for an observer in Omega=1 CDM models,
+but is not uncommon in mixed dark matter (MDM) models that include massive
+neutrinos.
+","[{""version"":""v1"",""created"":""Fri, 22 Oct 1993 19:25:15 GMT""}]","2009-10-22"
+"chao-dyn/9310003","Guenter Troll","G. Troll (TU Berlin, D-10623 Berlin, Germany)","Truncated horseshoes and formal languages in chaotic scattering","39 pages postscript; use uudecode and uncompress ! 4 figures
+  available as hardcopies on request",,"10.1063/1.165952","SFB 288 preprint, October 1993, TU Berlin","chao-dyn adap-org nlin.AO nlin.CD",,"  In this paper we study parameter families of truncated horseshoes as models
+of multiscattering systems which show a transition to chaos without losing
+hyperbolicity, so that the topological features of the transition are
+completely describable by a parameterized family of symbolic dynamics. At a
+fixed parameter value the corresponding horseshoe represents the set of orbits
+trapped in the scattering region. The bifurcations are a pure boundary effect
+and no other bifurcations such as saddle center bifurcations occur in this
+transition scenario. Truncated horseshoes actually arise in concrete potential
+scattering under suitable conditions. It is shown that a simple scattering
+model introduced earlier can realize this scenario in a certain parameter range
+(the ""truncated sawshoe"") . For this purpose, we solve the inverse scattering
+problem of finding the central potential associated to the sawshoe model.
+Furthermore, we review classification schemes for the transition to chaos of
+truncated horseshoes originating from symbolic dynamics and formal language
+theory and apply them to the truncated double horseshoe and the truncated
+sawshoe.
+","[{""version"":""v1"",""created"":""Fri, 22 Oct 1993 18:44:56 GMT""}]","2009-10-22"
+"cond-mat/9310053","Marco Vekic","M. Vekic and S.R. White","Smooth Boundary Conditions For Quantum Lattice Systems","plain TeX 10 Pages + 4 Figures available upon request, UCI preprint",,"10.1103/PhysRevLett.71.4283",,"cond-mat",,"  We introduce a new type of boundary conditions, {\it smooth boundary
+conditions}, for numerical studies of quantum lattice systems. In a number of
+circumstances, these boundary conditions have substantially smaller finite-size
+effects than periodic or open boundary conditions. They can be applied to
+nearly any short-ranged Hamiltonian system in any dimensionality and within
+almost any type of numerical approach.
+","[{""version"":""v1"",""created"":""Fri, 22 Oct 1993 21:34:08 GMT""}]","2009-10-22"
+"cond-mat/9310054","Franco Nori","V. G. Benza, Franco Nori and Oscar Pla","Mean Field Theory of Sandpile Avalanches: from the Intermittent to the
+  Continuous Flow Regime","4 pages, RevTeX 3.0, postscript figures 1, 3 and 4 appended.","Phys. Rev. E 48 (1993) 4095-4098","10.1103/PhysRevE.48.4095",,"cond-mat.dis-nn adap-org nlin.AO",,"  We model the dynamics of avalanches in granular assemblies in partly filled
+rotating cylinders using a mean-field approach. We show that, upon varying the
+cylinder angular velocity $\omega$, the system undergoes a hysteresis cycle
+between an intermittent and a continuous flow regimes. In the intermittent flow
+regime, and approaching the transition, the avalanche duration exhibits
+critical slowing down with a temporal power-law divergence. Upon adding a white
+noise term, and close to the transition, the distribution of avalanche
+durations is also a power-law. The hysteresis, as well as the statistics of
+avalanche durations, are in good qualitative agreement with recent experiments
+in partly filled rotating cylinders.
+","[{""version"":""v1"",""created"":""Sat, 23 Oct 1993 10:27:21 GMT""}]","2009-10-22"
+"hep-ph/9310340","Kingman","Kingman Cheung","Possibility of Studying Electroweak Symmetry Breaking at \gamma \gamma
+  Colliders","LaTex (Revtex v.2), 14 pages, 1 figure not inlcuded","Phys.Lett. B323 (1994) 85-89","10.1016/0370-2693(94)00046-8","NUHEP-TH-93-27","hep-ph",,"  The studies of the electroweak symmetry breaking sector (EWSBS) at
+$\gamma\gamma$ colliders were considered previously in the loop processes of
+$\gamma\gamma \to w_Lw_L,\,z_Lz_L$, but they are suffered from the huge $W_T
+W_T$ and $Z_TZ_T$ backgrounds. Here we present another possible process that
+involves spectator $W$'s and $W_L$'s, the latter of which are scattered
+strongly by the interactions of the EWSBS. We also show that this process
+should be safe from the transverse backgrounds and it can probe the structure
+of the EWSBS.
+","[{""version"":""v1"",""created"":""Fri, 22 Oct 1993 19:14:39 GMT""}]","2016-09-01"
+"hep-ph/9310341",,"Edmond L. Berger and Ruibin Meng","Transverse Momentum Distributions for Heavy Quark Pairs","LaTeX (27 pages text, 8 figures not included, but available on
+  request)","Phys.Rev.D49:3248-3260,1994","10.1103/PhysRevD.49.3248",,"hep-ph",,"  We study the transverse momentum distribution for a $pair$ of heavy quarks
+produced in hadron-hadron interactions. Predictions for the large transverse
+momentum region are based on exact order $\alpha_s^3$ QCD perturbation theory.
+For the small transverse momentum region, we use techniques for all orders
+resummation of leading logarithmic contributions associated with initial state
+soft gluon radiation. The combination provides the transverse momentum
+distribution of heavy quark pairs for all transverse momenta. Explicit results
+are presented for $b\bar b$ pair production at the Fermilab Tevatron collider
+and for $c\bar c$ pair production at fixed target energies.
+","[{""version"":""v1"",""created"":""Fri, 22 Oct 1993 20:44:18 GMT""}]","2010-11-01"
+"hep-ph/9310342",,"I.B. Khriplovich and M.E. Pospelov","Magnetic quadrupole moment of $W$-boson in Kobayashi-Maskawa model","9 pages, BUDKERINP 93--88","Nucl.Phys.B420:505-516,1994","10.1016/0550-3213(94)90075-2",,"hep-ph",,"  Magnetic quadrupole moment of $W$-boson in Kobayashi-Maskawa model, I.B.
+Khriplovich and M.E. Pospelov, BUDKERINP 93--88 Due to CP-invariance violation
+a vector particle can acquire T- and P-odd electromagnetic moment, magnetic
+quadrupole one. The W-boson magnetic quadrupole moment is calculated in the
+Kobayashi-Maskawa model. This is the only known CP-odd moment arising in this
+model in two-loop approximation.
+","[{""version"":""v1"",""created"":""Sat, 23 Oct 1993 11:18:50 GMT""}]","2010-11-01"
+"hep-th/9310149",,"Marco Matone","The Higgs model for anyons and Liouville action","9 pages Latex file, DFPD/93/TH/65","J.Geom.Phys. 17 (1995) 49-58","10.1016/0393-0440(94)00043-4",,"hep-th cond-mat hep-ph",,"  We connect Liouville theory, anyons and Higgs model in a purely geometrical
+way.
+","[{""version"":""v1"",""created"":""Fri, 22 Oct 1993 17:10:13 GMT""},{""version"":""v2"",""created"":""Sat, 23 Oct 1993 17:34:11 GMT""}]","2009-10-22"
+"hep-th/9310151","Ignatios Antoniadis","I. Antoniadis and K. Benakli","Limits on extra dimensions in orbifold compactifications of superstrings","16 pages, CPTH-A257.0793","Phys.Lett.B326:69-78,1994","10.1016/0370-2693(94)91194-0",,"hep-th hep-ph",,"  Perturbative breaking of supersymmetry in four-dimensional string theories
+predict in general the existence of new large dimensions at the TeV scale. Such
+dimensions can be consistent with perturbative unification up to the Planck
+scale in a class of string models and open the exciting possibility of lowering
+a part of the massive string spectrum at energies accessible to future
+accelerators. The main signature is the production of Kaluza-Klein excitations
+which have a very particular structure, strongly correlated with the
+supersymmetry breaking mechanism. We present a model independent analysis of
+the physics of these states in the context of orbifold compactifications of the
+heterotic superstring. In particular, we compute the limits on the size of
+large dimensions used to break supersymmetry.
+","[{""version"":""v1"",""created"":""Fri, 22 Oct 1993 20:09:47 GMT""}]","2008-11-26"
+"hep-th/9310152","Herbert W. Hamber","Herbert W. Hamber (UC Irvine)","Scalar Fields Coupled to Four-Dimensional Lattice Gravity","(Talk presented at the Europhysics Conference on High Energy Physics,
+  Marseille, France, July 22-28, 1993) (3 pages)",,,,"hep-th",,"  I discuss some results we have obtained recently in a lattice model for
+quantized gravity coupled to scalar matter in four dimensions. We have looked
+at how the continuous phase transition separating the smooth from the rough
+phase of gravity is influenced by the presence of the scalar field. We find
+that close to the critical point, where the average curvature approaches zero,
+the effects of the scalar field are small and the coupling of matter to gravity
+seems to be weak. The nature of the phase diagram and the values for the
+critical exponents would suggest that gravitational interactions increase with
+distance.
+","[{""version"":""v1"",""created"":""Fri, 22 Oct 1993 22:50:59 GMT""}]","2007-05-23"
+"hep-th/9310153","Vladimir Sadov","V. Sadov","On equivalence of Floer's and quantum cohomology","28 pages, HUTP-93/A027","Commun.Math.Phys. 173 (1995) 77","10.1007/BF02100182",,"hep-th",,"  (In the revised version the relevant aspect of noncompactness of the moduli
+of instantons is discussed. It is shown nonperturbatively that any BRST trivial
+deformation of A-model which does not change the ranks of BRST cohomology does
+not change the topological correlation functions either) We show that the Floer
+cohomology and quantum cohomology rings of the almost Kahler manifold M, both
+defined over the Novikov ring of the loop space LM of M, are isomorphic. We do
+it using a BRST trivial deformation of the topological A-model. As an example
+we compute the Floer = quantum cohomology of the 3-dimensional flag space Fl_3.
+","[{""version"":""v1"",""created"":""Fri, 22 Oct 1993 23:53:20 GMT""},{""version"":""v2"",""created"":""Mon, 25 Oct 1993 15:25:11 GMT""},{""version"":""v3"",""created"":""Thu, 22 Sep 1994 16:58:20 GMT""}]","2009-10-22"
+"hep-th/9310155","Yuji Satou","Y. Kazama and Y. Satoh","Extraction of Black Hole Geometry in Exactly Quantized Two Dimensional
+  Dilaton Gravity","LATEX file 10 pages. UT-Komaba 93-13. 1 figure in postscript","Phys.Rev.D50:2368-2372,1994","10.1103/PhysRevD.50.R2368",,"hep-th",,"  Based on our previous work, in which a model of two dimensional dilaton
+gravity of the type proposed by Callan, Giddings, Harvey and Strominger was
+rigorously quantized, we explicitly demonstrate how one can extract space-time
+geometry in exactly solvable theory of quantum gravity. In particular, we have
+been able to produce a prototypical configuration in which a ( smeared ) matter
+shock wave generates a black hole without naked sigularity.
+","[{""version"":""v1"",""created"":""Sat, 23 Oct 1993 09:18:59 GMT""}]","2009-12-30"
+"hep-th/9310156","Yuji Satou","Y. Kazama and Y. Satoh","Space-time Geometry in Exactly Solvable Quantum Dilaton Gravity","LATEX file 49 pages. UT-Komaba 93-19. 4 figures in postscript","Phys.Rev. D50 (1994) 3889-3912","10.1103/PhysRevD.50.3889",,"hep-th",,"  We describe in detail how one can extract space-time geometry in an exactly
+solvable model of quantum dilaton gravity of the type proposed by Callan,
+Giddings, Harvey and Strominger ( CGHS ). Based on our previous work, in which
+a model with 24 massless matter scalars was quantized rigorously in BRST
+operator formalism, we compute, without approximation, mean values of the
+matter stress-energy tensor, the inverse metric and some related quantities in
+a class of coherent physical states constructed in a specific gauge within the
+conformal gauge. Our states are so designed as to describe a variety of
+space-time in which in-falling matter energy distribution produces a black hole
+with or without naked sigularity. In particular, we have been able to produce
+the prototypical configuration first discovered by CGHS, in which a ( smeared )
+matter shock wave produces a black hole without naked sigularity.
+","[{""version"":""v1"",""created"":""Sat, 23 Oct 1993 10:11:20 GMT""},{""version"":""v2"",""created"":""Thu, 4 Nov 1993 11:07:51 GMT""}]","2009-10-22"
+"hep-th/9310157",,"Michele Maggiore","Black Hole Complementarity and the Physical Origin of the Stretched
+  Horizon","9 pages","Phys.Rev. D49 (1994) 2918-2921","10.1103/PhysRevD.49.2918","IFUP-TH 44/93","hep-th gr-qc",,"  We discuss the idea of black hole complementarity, recently suggested by
+Susskind et al., and the notion of stretched horizon, in the light of the
+generalized uncertainty principle of quantum gravity. We discuss implications
+for the no-hair theorem and we show that within this approach quantum hair
+arises naturally.
+","[{""version"":""v1"",""created"":""Sat, 23 Oct 1993 15:29:15 GMT""}]","2009-10-22"
+"math/9310209",,"Guenther Huck and Stephan Rosebrock","A bicombing that implies a sub-exponential isoperimetric inequality","LaTex, 10 pages, no figures",,,"MAGNUS preprint #93-10-23A","math.GR",,"  The idea of applying isoperimetric functions to group theory is due to
+M.Gromov. We introduce the concept of a ``bicombing of narrow shape'' which
+generalizes the usual notion of bicombing. Our bicombing is related to but
+different from the combings defined by M. Bridson. If the Cayley graph of a
+group with respect to a given set of generators admits a bicombing of narrow
+shape then the group is finitely presented and satisfies a sub-exponential
+isoperimetric inequality, as well as a polynomial isodiametric inequality. We
+give an infinite class of examples which are not bicombable in the usual sense
+but admit bicombings of narrow shape.
+","[{""version"":""v1"",""created"":""Sat, 23 Oct 1993 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9310029",,"C. Ciofi degli Atti, E. Pace, G. Salme`, and S. Scopetta","Deep Inelastic Scattering of Polarized Electrons off Polarized $^3$HE:
+  Nuclear Effects and the Neutron Spin Structure Function","8 pages latex, 5 postscript figures available from above e-mail upon
+  request",,,,"nucl-th",,"  Nuclear effects in Deep Inelastic Scattering of polarized electrons off
+polarized $^3$He are analyzed in terms of a spin dependent spectral function
+taking into account $S'$ and $D$ waves in $^3$He, as well as Fermi motion and
+binding effects. A simple and reliable equation relating the neutron and $^3$He
+spin structure functions is proposed.
+","[{""version"":""v1"",""created"":""Fri, 22 Oct 1993 17:06:38 GMT""}]","2009-09-25"
+"nucl-th/9310030",,"Simon Capstick and Winston Roberts","Quasi-Two-Body Decays of Nonstrange Baryons","41 pages, CEBAF-TH-93-18","Phys.Rev.D49:4570-4586,1994","10.1103/PhysRevD.49.4570",,"nucl-th hep-ph",,"  We examine the decays of nonstrange baryons to the final states $\Delta\pi$,
+$N\rho$, $N\eta$, $N\eta^\prime$, $N\omega$, $N1/2^+(1440)\pi$, and
+$\Delta3/2^+(1600)\pi$, in a relativized pair-creation($^3P_0$) model which has
+been developed in a previous study of the $N\pi$ decays of the same baryon
+states. As it is our goal to provide a guide for the possible discovery of new
+baryon states at CEBAF and elsewhere, we examine the decays of resonances which
+have already been seen in the partial-wave analyses, along with those of states
+which are predicted by the quark model but which remain undiscovered. The level
+of agreement between our calculation and the available widths from the
+partial-wave analyses is encouraging.
+","[{""version"":""v1"",""created"":""Fri, 22 Oct 1993 20:03:21 GMT""}]","2014-11-18"

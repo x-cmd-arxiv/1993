@@ -1,0 +1,300 @@
+"astro-ph/9303003",,"Piet Hut","Blue Stragglers as Tracers of Globular Cluster Evolution","LaTeX file, 22 pages, Institute for Advanced Study number 93/11",,,,"astro-ph hep-lat",,"  Blue stragglers are natural phenomena in star clusters. They originate
+through mass transfer in isolated binaries, as well as through encounters
+between two or more stars, in a complex interplay between stellar dynamics and
+stellar evolution. While this interplay cannot be modeled quantitatively at
+present, we will be able to do so in one or two years time. With this prospect,
+the present paper is written largely as a preview.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 20:10:00 GMT""}]","2007-05-23"
+"astro-ph/9303004",,"M. Umemura, A. Loeb, and E. L. Turner","Early Cosmic Formation of Massive Black Holes","LaTeX file, figures not included. For hardcopy of figures contact
+  BEST@IASSNS.BITNET. Institute for Advanced Study number AST 93/11-2","Astrophys.J. 419 (1993) 459","10.1086/173499",,"astro-ph",,"  The evolution of nonlinear density fluctuations around the Jeans mass shortly
+after cosmological recombination is analyzed using a 3D
+hydrodynamics/dark--matter code. The Cosmic Background Radiation (CBR) exerts
+Compton friction on free electrons due to peculiar velocities. The dynamics
+therefore depends strongly on the gas ionization history. Under a variety of
+ionization conditions and in systems with or without non-baryonic components,
+the baryons lose angular momentum efficiently and collapse to form a compact
+optically--thick object which would probably quickly evolve into a massive
+black hole. Attention is concentrated on elucidating some of the novel physical
+effects in early cosmological collapses, but ways in which more realistic
+calculations might be made and in which the scenario could be incorporated into
+a more complete cosmogonic model are discussed.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 13:46:00 GMT""}]","2009-10-22"
+"chao-dyn/9303010","Bruno Eckhardt","Hirokazu Fujisaka, Hideto Shigematsu, and Bruno Eckhardt","Continued-fraction expansion of eigenvalues of generalized evolution
+  operators in terms of periodic orbits","CYCLER Paper 93mar007",,"10.1007/BF01312182",,"chao-dyn nlin.CD",,"  A new expansion scheme to evaluate the eigenvalues of the generalized
+evolution operator (Frobenius-Perron operator) $H_{q}$ relevant to the
+fluctuation spectrum and poles of the order-$q$ power spectrum is proposed. The
+``partition function'' is computed in terms of unstable periodic orbits and
+then used in a finite pole approximation of the continued fraction expansion
+for the evolution operator. A solvable example is presented and the approximate
+and exact results are compared; good agreement is found.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 00:00:00 GMT""}]","2019-08-17"
+"cond-mat/9303012","Kikuo Harigaya Harry-chan","Kikuo Harigaya (Department of Physics, University of Sheffield, UK,
+  and ETL, Japan)","Polaron excitations in doped C60: Effects of disorders","E-mail: harigaya@etl.go.jp, Figures: Please request to the above
+  e-mail address","Phys. Rev. B 48 (1993) 2765-2772","10.1103/PhysRevB.48.2765",,"cond-mat",,"  Effects on C60 by thermal fluctuations of phonons, misalignment of molecules
+in a crystal, and other intercalated impurities are simulated by disorder
+potentials. The SSH model for doped C60 is solved with gaussian bond and site
+disorders. Polarons and dimerizations in lightly doped cases (C60^{-1,-2}) are
+relatively stable against disorders, indicated by peak structures in
+distribution functions of bond length and charge density.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 22:12:00 GMT""}]","2007-05-23"
+"cond-mat/9303014","Subir Sachdev","Subir Sachdev","Quantum Antiferromagnets in Two Dimensions","59 pages, LATEX, 15 figures available by request from
+  subir@cmphys.eng.yale.edu, YCTP-93-xxxx","Low Dimensional Quantum Field Theories for Condensed Matter
+  Physicists edited by Y. Lu, S. Lundqvist, and G. Morandi, World Scientific,
+  Singapore, 1995",,,"cond-mat",,"  These are lectures presented at the summer course on ``Low Dimensional
+Quantum Field Theories for Condensed Matter Physicists'', 24 Aug. to 4 Sep.
+1992, Trieste, Italy. I review recent work, performed in collaboration
+primarily with N. Read and Jinwu Ye, on the properties of quantum
+antiferromagnets in two dimensions. The emphasis is on the properties of the
+antiferromagnet in states which do not have any long-range magnetic order. The
+universal spin dynamics in the quantum critical region of number of frustrated
+and random antiferromagnets is studied; implications for neutron scattering
+experiments in the lightly-doped cuprates are noted. The nature of the
+quantum-disordered phase of non-random frustrated antiferromagnets is examined
+in some detail: the states found have ({\em i\/}) collinear spin correlations,
+spin-Peierls or valence-bond-solid order, and confined spinons, order and
+confined spinons or ({\em ii\/}) coplanar spin correlations, no spin-Peierls
+order and deconfined bosonic spinons.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 14:37:48 GMT""}]","2007-05-23"
+"cond-mat/9303015","Leon Balents","Leon Balents and Mehran Kardar","Delocalization of Flux Lines from Extended Defects by Bulk Randomness","5 pages, 3 figures available upon request,REVTeX 3.0",,"10.1209/0295-5075/23/7/007",,"cond-mat",,"  We study the delocalization by bulk randomness of a single flux line (FL)
+from an extended defect, such as a columnar pin or twin plane. In three
+dimensions, the FL is always bound to a planar defect, while there is an
+unpinning transition from a columnar pin. Transfer matrix simulations confirm
+this picture, and indicate that the divergence of the localization length from
+the columnar defect is governed by a liberation exponent $\nu_\perp =1.3 \pm
+0.6$, for which a ``mean-field'' estimate gives $\nu_\perp \approx 0.78$. The
+results, and their extensions, are compared to other theories. The effects may
+be observable in thin samples close to $H_{c1}$.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 14:40:57 GMT""}]","2009-10-22"
+"gr-qc/9303012","John D. Brown","J. David Brown and James W. York","Microcanonical Action and the Entropy of a Rotating Black Hole","12 pages, plain tex",,,,"gr-qc astro-ph hep-th",,"  The authors have recently proposed a ``microcanonical functional integral""
+representation of the density of quantum states of the gravitational field. The
+phase of this real--time functional integral is determined by a
+``microcanonical"" or Jacobi action, the extrema of which are classical
+solutions at fixed total energy, not at fixed total time interval as in
+Hamilton's action. This approach is fully general but is especially well suited
+to gravitating systems because for them the total energy can be fixed simply as
+a boundary condition on the gravitational field. In this paper we describe how
+to obtain Jacobi's action for general relativity. We evaluate it for a certain
+complex metric associated with a rotating black hole and discuss the relation
+of the result to the density of states and to the entropy of the black hole.
+(Dedicated to Yvonne Choquet-Bruhat in honor of her retirement.)
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 20:35:45 GMT""}]","2007-05-23"
+"hep-lat/9303003","Leonardo Cosmai","P. Cea and L. Cosmai","Unstable Modes in Three-Dimensional SU(2) Gauge Theory","24 pages, REVTEX 3.0, 3 Postscript figures included. (the whole
+  postscript file (text+figures) is available on request from
+  cosmai@bari.infn.it)","Phys.Rev. D48 (1993) 3364-3376","10.1103/PhysRevD.48.3364","Preprint BARI - TH 129/93","hep-lat hep-th",,"  We investigate SU(2) gauge theory in a constant chromomagnetic field in three
+dimensions both in the continuum and on the lattice. Using a variational method
+to stabilize the unstable modes, we evaluate the vacuum energy density in the
+one-loop approximation. We compare our theoretical results with the outcomes of
+the numerical simulations.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 13:17:00 GMT""}]","2009-10-22"
+"hep-lat/9303004","Marcus Speh","S.A. Frolov and A.A. Slavnov","Removing fermion doublers in chiral gauge theories on the lattice","LaTeX, MPI-Ph 93-12","Nucl.Phys. B411 (1994) 647-664","10.1016/0550-3213(94)90465-0",,"hep-lat",,"  A method for removing fermion doublers in anomaly free chiral gauge theories
+on the lattice is proposed. It is proven that the resulting continuum theory is
+gauge invariant and does not require noninvariant counterterms of fine tuning
+of parameters.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 13:58:27 GMT""}]","2009-10-22"
+"hep-ph/9303229",,"John N. Bahcall and Pawan Kumar","g-modes and the Solar Neutrino Problem","10 pages, Institute for Advanced Study number AST 93/10","Astrophys.J. 409 (1993) L73-L76","10.1086/186863",,"hep-ph",,"  We show that low-order g-modes with large enough amplitudes to affect
+significantly the solar neutrino fluxes would produce surface velocities that
+are $10^4$ times larger than the observed upper limits and hence are ruled out
+by existing data. We also demonstrate that any large-amplitude, short-period
+oscillations that grow on a Kelvin-Helmholtz time scale will require, to affect
+solar neutrino fluxes, a large amount of energy (for g-modes, $10^9$ times the
+energy in the observed $p-$ mode oscillations) and a tiny amount of dissipation
+(for g-modes, $10^{-8}$ the dissipation rate of the $p$-modes).
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 17:16:00 GMT""}]","2009-10-22"
+"hep-ph/9303230",,"Michael Dine and Ann E. Nelson","Dynamical Supersymmetry Breaking at Low Energies","(23 pages), phyzzx, 8 figures not included, SCIPP 93/03, UCSD/PTH
+  93-05. Several references have been added","Phys.Rev. D48 (1993) 1277-1287","10.1103/PhysRevD.48.1277",,"hep-ph",,"  Conventional approaches to supersymmetric model building suffer from several
+naturalness problems: they do not explain the large hierarchy between the weak
+scale and the Planck mass, and they require fine tuning to avoid large flavor
+changing neutral currents and particle electric dipole moments. The existence
+of models with dynamical supersymmetry breaking, which can explain the
+hierarchy, has been known for some time, but efforts to build such models have
+suffered from unwanted axions and difficulties with asymptotic freedom. In this
+paper, we describe an approach to model building with supersymmetry broken at
+comparatively low energies which solves these problems, and give a realistic
+example.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 19:56:11 GMT""},{""version"":""v2"",""created"":""Fri, 12 Mar 1993 02:17:13 GMT""}]","2009-10-22"
+"hep-ph/9303231","My Account","J. Lopez, D. Nanopoulos, H. Pois, X. Wang, and A. Zichichi","Sparticle and Higgs Production and Detection at LEPII in two
+  Supergravity Models","20 pages plus 13 postscript figures (included); CTP-TAMU-89/92,
+  CERN-PPE/93-16","Phys.Rev.D48:4062-4075,1993","10.1103/PhysRevD.48.4062",,"hep-ph",,"  We study the most promising signals for supersymmetry at LEPII in the context
+of two well motivated supergravity models: (i) the minimal $SU(5)$ supergravity
+model including the stringent constraints from proton stability and a not too
+young Universe, and (ii) a recently proposed string-inspired no-scale flipped
+$SU(5)$ supergravity model. Our computations span the neutralino, chargino,
+slepton, and Higgs sectors together with their interconnections in this class
+of models. We find that the number of `mixed' (1-lepton + 2-jets + $\slash{p}$)
+events occuring in the decay of pair-produced charginos ($\chi^\pm_1$) is quite
+significant (per ${\cal L}=100\ipb$) for both models and that these predictions
+do not overlap. That is, if $m_{\chi^\pm_1}<100\GeV$ then LEPII should be able
+to exclude at least one of the two models. In the no-scale flipped $SU(5)$
+model we find that the number of acoplanar di-electron events from selectron
+pair production should allow for exploration of selectron masses up to the
+kinematical limit and chargino masses indirectly as high as 150 GeV. We find
+that the cross section $e^+e^-\to Z^*h$ deviates negligibly from the SM result
+in the minimal model, whereas it can be as much as $1/3$ lower in the flipped
+model. The usually neglected invisible mode $h\to\chi^0_1\chi^0_1$ can erode
+the preferred $h\to 2\,{\rm jets}$ signal by as much as $40\%$ in these models.
+We conclude that the charged slepton sector is a deeper probe than the
+chargino/neutralino or Higgs sectors of the flipped $SU(5)$ model at LEPII,
+while the opposite is true for the minimal $SU(5)$ model where the slepton
+sector is no probe at all.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 22:41:56 GMT""}]","2009-09-25"
+"hep-ph/9303232",,"Riccardo Guida and Kenichi Konishi","Fermions in Instanton Anti-Instanton Background","36 PAGES, GEF-Th-8/1993","Int.J.Mod.Phys.A9:2613-2644,1994","10.1142/S0217751X94001059",,"hep-ph",,"  We consider the behaviour of fermions in the background of
+instanton-anti\-instanton type configurations. Several different physics
+problems, from the high energy electroweak interactions to the study of vacuum
+structure of QCD and of large orders of perturbation theory are related to this
+problem. The spectrum of the Dirac operator in such a background is studied in
+detail. We present an approximation for the fermion correlation function when
+the instanton-anti\-instanton separation ($R$) is large compared to their sizes
+($\rho $). The situation when the instanton-anti\-instanton overlap and melt,
+is studied through the behaviour of the Chern Simons number as a function of $
+R/\rho$ and $x_4$.
+  Applying our results to widely discussed cases of fermion-number violation in
+the electroweak theory, we conclude that there are no theoretical basis for
+expecting anomalous cross sections to become observable at energies in $10$ TeV
+region.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 13:24:35 GMT""}]","2011-07-19"
+"hep-ph/9303233",,"Peter N. Maher, Loyal Durand, and Kurt Riesselmann","Two-loop renormalization constants and high energy $2\rightarrow 2$
+  scattering amplitudes in the Higgs sector of the standard model","47 pages, 7 figures available by request to LD, RevTEX 3.0,
+  MAD/TH/93-1","Phys.Rev.D48:1061,1993; Erratum-ibid.D52:553,1995;
+  Phys.Rev.D52:553,1995","10.1103/PhysRevD.48.1061 10.1103/PhysRevD.52.553",,"hep-ph",,"  We calculate the complete matrix of two-body scattering amplitudes for the
+scattering of longitudinally polarized gauge bosons $W_L^\pm$, $Z_L$ and Higgs
+bosons to two loops in the high-energy, heavy-Higgs limit $\sqrt{s}\gg M_H\gg
+M_W$. Use of the Goldstone boson equivalence theorem reduces the problem to one
+involving only the scalar fields $w^\pm$, $z$ (the Goldstone bosons of the
+original theory) and the Higgs boson. Renormalization of the scattering
+amplitudes requires the calculation of the self-energy functions $\Pi
+_i^0(M_i^2)$, the renormalization constants $Z_i$, and the bare quartic Higgs
+coupling $\lambda _0$ to two loops. The results will be useful in other
+calculations. To facilitate the calculations, we introduce a powerful new
+technique for evaluating integrals over Feynman parameters in dimensional
+regularization which is based on a Barnes' type representation of the binomial
+expansion. We also collect some useful integrals which extend the tables given
+by Devoto and Duke.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 14:38:00 GMT""}]","2014-11-17"
+"hep-ph/9303234",,"Loyal Durand, Peter N. Maher, and Kurt Riesselmann","Two-loop unitarity constraints on the Higgs boson coupling","29 pages, 6 figures available by request to LD, RevTEX 3.0,
+  MAD/TH/92-7","Phys.Rev. D48 (1993) 1084-1096","10.1103/PhysRevD.48.1084",,"hep-ph",,"  We use the results of Maher {\em et al.\/} (preceding paper) to construct the
+matrix of $j=0$ partial-wave two-body and $2\rightarrow3$ scattering amplitudes
+for the scattering of longitudinally polarized gauge bosons $W_L^\pm$, $Z_L$
+and Higgs bosons $H$ correct to two loops in the high-energy, heavy-Higgs limit
+$\sqrt{s}\gg M_H\gg M_W$. We show explicitly that the energy dependence of the
+$2\rightarrow2$ amplitudes can be completely absorbed into a running quartic
+Higgs coupling $\lambda_s= \lambda_s(s,M_H^2)$ and factors which involve small
+anomalous dimensions and remain near unity. After diagonalizing the matrix of
+partial-wave amplitudes, we use an Argand-diagram analysis to show that the
+elastic scattering amplitudes are approximately unitary and weakly interacting
+for $\lambda_s\alt2.3$, but that three-loop corrections are necessary to
+restore unitarity for larger values of $\lambda_s$. That is, the interactions
+in the Higgs sector of the standard model are effectively strong with respect
+to the perturbative expansion for $\lambda_s\agt2.3$. The bound
+$\lambda_s\alt2.3$ for a weakly interacting theory translates to a physical
+Higgs mass $M_H\alt380$ GeV if the bound is to hold for energies up to a few
+TeV, or $M_H\leq155$ GeV in perturbatively unified theories with mass scales of
+order $10^{16}$ GeV.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 15:32:00 GMT""}]","2009-10-22"
+"hep-th/9303044","Cristina Manuel","J.I. Latorre, C. Manuel and X. Vilasis-Cardona","Systematic Differential Renormalization to All Orders","TEX, 20 pages, UB-ECM-PF 93/4, 1 figureavailable upon request","Annals Phys. 231 (1994) 149-173","10.1006/aphy.1994.1037",,"hep-th",,"  We present a systematic implementation of differential renormalization to all
+orders in perturbation theory. The method is applied to individual Feynamn
+graphs written in coordinate space. After isolating every singularity. which
+appears in a bare diagram, we define a subtraction procedure which consists in
+replacing the core of the singularity by its renormalized form givenby a
+differential formula. The organizationof subtractions in subgraphs relies in
+Bogoliubov's formula, fulfilling the requirements of locality, unitarity and
+Lorentz invariance. Our method bypasses the use of an intermediate
+regularization andautomatically delivers renormalized amplitudes which obey
+renormalization group equations.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 17:05:38 GMT""}]","2019-08-17"
+"hep-th/9303045",,"R. Paunov","W-infinity structure of the $sl(N)$ conformal affine Toda theories","13 pages","Phys.Lett. B309 (1993) 297-303","10.1016/0370-2693(93)90937-D","SISSA--ISAS 32/93/EP","hep-th nlin.SI solv-int",,"  We reexamine the $W_{\infty}$ symmetry of the $sl(N)$ Conformal Affine Toda
+theories. It is shown that it is possible to reduce (nonuniquely) the zero
+curvature equation to a Lax equation for a first order pseudodifferential
+oprator, whose coefficients are the generators of the $W_{\infty}$ algebra.
+This clarifies the known relation between the Conformal Affine Toda theories
+and the KP hierarchy. A possible correspondence between the matrix models and
+the Conformal Affine Toda models is discussed.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 18:13:03 GMT""}]","2009-10-22"
+"hep-th/9303046",,"David J. Gross and Washington Taylor","Twists and Wilson Loops in the String Theory of Two Dimensional QCD","57 pages, CERN-TH. 6827/93, PUPT-1382,LBL-33458, UCB-PTH-93/09","Nucl.Phys.B403:395-452,1993","10.1016/0550-3213(93)90042-N",,"hep-th hep-ph",,"  Many Texo's have been corrected and a reference added.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 18:13:39 GMT""},{""version"":""v2"",""created"":""Tue, 16 Mar 1993 10:28:13 GMT""}]","2008-11-26"
+"hep-th/9303047","Pavel Etingof","Pavel Etingof and Igor B. Frenkel","Central extensions of current groups in two dimensions","17 pages","Commun.Math.Phys. 165 (1994) 429-444","10.1007/BF02099419",,"hep-th math.QA",,"  In this paper we generalize some of these results for loop algebras and
+groups as well as for the Virasoro algebra to the two-dimensional case. We
+define and study a class of infinite dimensional complex Lie groups which are
+central extensions of the group of smooth maps from a two dimensional
+orientable surface without boundary to a simple complex Lie group G. These
+extensions naturally correspond to complex curves. The kernel of such an
+extension is the Jacobian of the curve. The study of the coadjoint action shows
+that its orbits are labelled by moduli of holomorphic principal G-bundles over
+the curve and can be described in the language of partial differential
+equations. In genus one it is also possible to describe the orbits as conjugacy
+classes of the twisted loop group, which leads to consideration of difference
+equations for holomorphic functions. This gives rise to a hope that the
+described groups should possess a counterpart of the rich representation theory
+that has been developed for loop groups. We also define a two-dimensional
+analogue of the Virasoro algebra associated with a complex curve. In genus one,
+a study of a complex analogue of Hill's operator yields a description of
+invariants of the coadjoint action of this Lie algebra. The answer turns out to
+be the same as in dimension one: the invariants coincide with those for the
+extended algebra of currents in sl(2).
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 00:37:58 GMT""}]","2009-10-22"
+"hep-th/9303048","Mark Srednicki","Mark Srednicki","Entropy and Area","10 pages, in Plain TeX with one figure included, LBL-33754. (Revised
+  version adds an important reference and corrects minor typos.)","Phys.Rev.Lett. 71 (1993) 666-669","10.1103/PhysRevLett.71.666",,"hep-th gr-qc hep-lat",,"  The ground state density matrix for a massless free field is traced over the
+degrees of freedom residing inside an imaginary sphere; the resulting entropy
+is shown to be proportional to the area (and not the volume) of the sphere.
+Possible connections with the physics of black holes are discussed.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 00:45:13 GMT""},{""version"":""v2"",""created"":""Sat, 20 Mar 1993 00:05:47 GMT""}]","2009-10-22"
+"hep-th/9303049",,"Takayuki Hori","Exact Solutions to the Wheeler-DeWitt Equation of Two Dimensional
+  Dilaton Gravity","6 pages, LaTeX, to be published in Prog. Theor. Phys. (some comments
+  added, and minor generalization is made)","Prog.Theor.Phys. 90 (1993) 743-745","10.1143/ptp/90.3.743","TEP-11R","hep-th",,"  The two dimensional dilaton gravity with the cosmological term and with an
+even number of matter fields minimally coupled to the gravity is considered.
+The exact solutions to the Wheeler-DeWitt equation are obtained in an explicit
+functional form, which contain an arbitrary holomorphic function of the matter
+fields.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 11:02:59 GMT""},{""version"":""v2"",""created"":""Fri, 9 Jul 1993 19:16:16 GMT""}]","2017-02-01"
+"hep-th/9303050","Shin Hyun Jong","B.K. Chung, Soonkeon Nam, Q-Han Park, and H.J. Shin","Conformal Turbulence with Boundary","10pages, KHTP-93-01, SNUCTP-93-05","Phys.Lett.B309:58-62,1993","10.1016/0370-2693(93)91503-F",,"hep-th",,"  Based upon the formalism of conformal field theory with a boundary, we give a
+description of the boundary effect on fully developed two dimensional
+turbulence. Exact one and two point velocity correlation functions and energy
+power spectrum confined in the upper half plane are obtained using the image
+method. This result enables us to address the infrared problem of the theory of
+conformal turbulence.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 09:53:13 GMT""}]","2010-02-05"
+"hep-th/9303051",,"E. Bergshoeff, H.J. Boonstra, M. de Roo, S. Panda and A. Sevrin","On the BRST Operator of $W$-Strings","12 pages, UG-2/93, UCB-PTH-93/05, LBL-33737 (equations (30) and (31)
+  have been corrected)","Phys.Lett. B308 (1993) 34-41","10.1016/0370-2693(93)90598-C",,"hep-th",,"  We discuss the conditions under which the BRST operator of a $W$-string can
+be written as the sum of two operators that are separately nilpotent and
+anticommute with each other. We illustrate our results with the example of the
+non-critical $W_3$-string. Furthermore, we apply our results to make a
+conjecture about a relationship between the spectrum of a non-critical
+$W_n$-string and a $W_{n-1}$-string.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 13:46:00 GMT""},{""version"":""v2"",""created"":""Fri, 12 Mar 1993 11:53:00 GMT""}]","2009-10-22"
+"hep-th/9303053",,"Alan R. White","Analytic Multi-Regge Theory and the Pomeron in QCD : II. Gauge Theory
+  Analysis","149 pages","Int.J.Mod.Phys.A8:4755-4896,1993","10.1142/S0217751X93001910","ANL-HEP-PR-93-16","hep-th hep-ph",,"  The high-energy Regge behavior of gauge theories is studied via the formalism
+of Analytic Multi-Regge Theory. Perturbative results for spontaneously-broken
+theories are first organised into reggeon diagrams. Unbroken gauge theories are
+studied via a reggeon diagram infra-red analysis of symmetry restoration.
+Massless fermions play a crucial role and the case of QCD involves the
+Super-Critical Pomeron as an essential intermediate stage. An introductory
+review of the build up of transverse momentum diagrams and reggeon diagrams
+from leading log calculations in gauge theories is presented first. It is then
+shown that the results closely reproduce the general structure for multi-regge
+amplitudes derived in Part I of the article, allowing the construction of
+general reggeon diagrams for spontaneously-broken theories. Next it is argued
+that, with a transverse-momentum cut-off, unbroken gauge theories can be
+reached through an infra-red limiting process which successively decouples
+fundamental representation Higgs fields . The first infra-red limit studied is
+the restoration of SU(2) gauge symmetry. The analysis is dominated by the
+exponentiation of divergences imposed by Reggeon Unitarity and the contribution
+of massless quarks ...
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 14:33:25 GMT""},{""version"":""v2"",""created"":""Wed, 10 Mar 1993 10:12:48 GMT""}]","2014-11-18"
+"nucl-th/9303005","Jorge Piekarewicz","J. Piekarewicz","Off-shell Behavior of the $\pi\!-\!\eta$ Mixing Amplitude","13 pages, Latex with Revtex, 3 postscript figures (not included)
+  available on request, SCRI-030893","Phys.Rev.C48:1555-1561,1993","10.1103/PhysRevC.48.1555",,"nucl-th",,"  We extend a recent calculation of the momentum dependence of the
+$\rho-\omega$ mixing amplitude to the pseudoscalar sector. The $\pi\!-\!\eta$
+mixing amplitude is calculated in a hadronic model where the mixing is driven
+by the neutron-proton mass difference. Closed-form analytic expressions are
+presented in terms of a few nucleon-meson parameters. The observed momentum
+dependence of the mixing amplitude is strong enough as to question earlier
+calculations of charge-symmetry-breaking observables based on the on-shell
+assumption. The momentum dependence of the $\pi\!-\!\eta$ amplitude is,
+however, practically identical to the one recently predicted for $\rho-\omega$
+mixing. Hence, in this model, the ratio of pseudoscalar to vector mixing
+amplitudes is, to a good approximation, a constant solely determined from
+nucleon-meson coupling constants. Furthermore, by selecting these parameters in
+accordance with charge-symmetry-conserving data and SU(3)-flavor symmetry, we
+reproduce the momentum dependence of the $\pi\!-\!\eta$ mixing amplitude
+predicted from chiral perturbation theory. Alternatively, one can use
+chiral-perturbation-theory results to set stringent limits on the value of the
+$NN\eta$ coupling constant.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 16:56:29 GMT""}]","2008-11-26"

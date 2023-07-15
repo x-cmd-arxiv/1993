@@ -1,0 +1,151 @@
+"astro-ph/9305026","Ari Laor","Ari Laor, John N. Bahcall, Buell T. Jannuzi, Donald P. Schneider
+  (IAS), Richard F. Green (NOAO), George F. Hartig (STScI)","The Ultraviolet Emission Properties of Five Low-Redshift Active Galactic
+  Nuclei at High Signal to Noise and Spectral Resolution","39 pages (+ 6 pages of tables + 16 of figures), AST 93/27","Astrophys.J. 420 (1994) 110-125","10.1086/173545",,"astro-ph",,"  We analyze the ultraviolet (UV) emission line and continuum properties of
+five low-redshift active galactic nuclei (four luminous quasars:
+PKS~0405$-$123, H1821+643, PG~0953+414, and 3C273, and one bright Seyfert 1
+galaxy: Mrk~205). The HST spectra have higher signal-to-noise ratios (typically
+$\sim 60$ per resolution element) and spectral resolution ($R = 1300$) than all
+previously- published UV spectra used to study the emission characteristics of
+active galactic nuclei. We include in the analysis ground-based optical spectra
+covering \hb\ and the narrow [O III] $\lambda\lambda$4959,5007 doublet. The
+following new results are obtained: \lyb/\lya=0.03$-$0.12 for the four quasars,
+which is the first accurate measurement of the long-predicted \lyb\ intensity
+in QSOs. The cores of \lya\ and C~IV are symmetric to an accuracy of better
+than
+  2.5% within about 2000 km s$^{-1}$ of the line peak. This high degree of
+symmetry of \lya\ argues against models in which the broad line cloud velocity
+field has a significant radial component. The observed smoothness of the \lya\
+and C~IV line profiles requires at least $\sim 10^4$ individual clouds if bulk
+velocity is the only line-broadening mechanism. The overall similarity of the
+\lya\ and C IV $\lambda$1549 profiles rules out models for the broad line
+region (BLR) with a radial distribution of virialized....
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 16:40:59 GMT""}]","2011-02-19"
+"astro-ph/9305027","Tim Bedding","Timothy R. Bedding","The Orbit of the Binary Star Delta Scorpii","(LaTex 8 pages. Send email to 'tbedding@eso.org' for 4 postscript
+  figures). To appear in the Astronomical Journal, August, 1993. ESO-TRB","Astron.J. 106 (1993) 768-772","10.1086/116684",,"astro-ph",,"  Although delta Scorpii is a bright and well-studied star, the details of its
+multiplicity have remained unclear. Here we present the first
+diffraction-limited image of this 0.12 arcsec binary star, made using optical
+interferometry, and resolve the confusion that has existed in the literature
+over its multiplicity.
+  Examining published speckle measurements, together with the present result,
+reveals a periodicity of 10.5 yr and allows calculation of the orbital
+parameters. The orbit has a high eccentricity (e=0.82) and large inclination
+(i=70 degrees), making it a favourable target for radial velocity measurements
+during the next periastron (in 2000).
+","[{""version"":""v1"",""created"":""Sat, 22 May 1993 12:11:12 GMT""}]","2009-10-22"
+"astro-ph/9305028","Robert Brandenberger","O. Eboli and V. Ribelles","Lectures on Modern Cosmology and Structure Formation","Lectures at the 7'th Swieca Summer School in Particles and Fields,
+  January 1993, to be published in the proceedings, eds. (World Scientific,
+  Singapore, 1993), 94 pages, 35 figures (available from the author), Brown
+  preprint BROWN-HET-893 (Feb. 1993), uses phyzzx",,,,"astro-ph hep-ph",,"  Focus of these lectures is the challenge of explaining the origin of
+structure in the Universe. The interplay between quantum field theory and
+classical general relativity has given rise to several interesting cosmological
+models which contain mechanisms for generating density inhomogeneities. The
+three theories discussed here are the inflationary Universe, the cosmic string
+and the global texture models. The recent COBE discovery of anisotropies in the
+microwave background has provided some support for all three models. The
+present results do not allow a distinction between these models. Statistics
+which distinguish between the predictions of the three theories are discussed.
+","[{""version"":""v1"",""created"":""Sat, 22 May 1993 14:59:37 GMT""}]","2007-05-23"
+"cond-mat/9305025","Renate Darcangelo","David R. Nelson","Vortex Line Fluctuations in Superconductors from Elementary Quantum
+  Mechanics","24 pages, plain TeX, Report # CMT-HU-N01",,,,"cond-mat",,"  Concepts from elementary quantum mechanics can be used to understand vortex
+line fluctuations in high-temperature superconductors. Flux lines are
+essentially classical objects, described by a string tension, their mutual
+repulsion, and interactions with pinning centers. The classical partition
+function, however, is isomorphic to the imaginary time path integral
+description of quantum mechanics. This observation is used to determine the
+thermal renormalization of critical currents, the decoupling field, the flux
+lattice melting temperature at low and moderate inductions, and to estimate the
+degree of entanglement in dense flux liquids. The consequences of the ``polymer
+glass'' freezing scenario, which assumes that the kinetic constraints of
+entanglement prevent field cooled flux liquids from crystallizing, are
+reviewed.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 18:09:15 GMT""}]","2007-05-23"
+"hep-lat/9305018",,"Howard D. Trottier and R. M. Woloshyn","Exploring confinement by cooling: A study of compact QED$_3$","19 pages (LaTeX). 14 figures avaible by request from rwww@triumf.ca","Phys.Rev. D48 (1993) 4450-4457","10.1103/PhysRevD.48.4450","TRI-PP-93-23","hep-lat",,"  The role of monopoles in the confining behavior of compact lattice $QED_3$ is
+studied using an adiabatic cooling method. Monopole-antimonopole pairs with
+large separation suvive cooling and the presence or absence of such plasma
+monopoles provides a useful classification of the lattice gauge field
+configurations at large $\beta$. By calculating observables in subsets of gauge
+field configurations which contain or do not contain plasma monopoles it is
+seen that, in compact $QED_3$, monopoles dominate the long distance physics,
+e.g., the string tension, linear confining potential and dynamical mass
+generation. On the other hand, the spin-spin interaction is essentially
+unaffected by monopoles.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 23:11:52 GMT""}]","2009-10-22"
+"hep-ph/9305298","Aneesh V. Manohar","Aneesh V. Manohar","Chiral Perturbation Theory","(uses harvmac, 9 pages, 1 figure), UCSD/PTH 93-12",,,,"hep-ph",,"  The basic ideas and power counting rules of chiral perturbation theory are
+discussed. The formalism of velocity dependent fields for baryons, and for
+hadrons containing a heavy quark, is explained. (Invited Talk, 1993 QCD
+Rencontres de Moriond)
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 16:59:01 GMT""}]","2007-05-23"
+"hep-ph/9305299",,"Wai-Keung Tang","Observation of High Energy Quark-Antiquark Elastic Scattering with
+  Mesonic Exchange","12 pages","Phys.Lett. B314 (1993) 233-236; Erratum-ibid. B317 (1993) 660-661","10.1016/0370-2693(93)90454-P",,"hep-ph",,"  We studied the high energy quark anti-quark elastic scattering with an
+exchange of a mesonic state in the $t$ channel with $-t/\Lambda_{QCD}^{2} \gg
+1$. Two methods are proposed to eliminate the strong background from bare
+pomeron, reggized gluon and odderon exchange. The feasibility of measuring
+mesonic reggeon exchange is discussed.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 19:51:00 GMT""}]","2015-06-25"
+"hep-ph/9305300","Valeri Dvoeglazov","Natalia A. Boikova, Valeri V. Dvoeglazov, Yuri N. Tyukhtyaev, Rudolf
+  N. Faustov","Quasipotential in the Fourth Order of Perturbation Theory. Unequal mass
+  case","LaTeX file, 7 pages, 1 figure, JINR Communications E2-92-440",,,,"hep-ph",,"  The quasipotential in the fourth order of perturbation theory is calculated
+in the Coulomb gauge for the unequal mass particles. It could be used for the
+future calculations of energy spectra in two-body systems.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 21:48:36 GMT""}]","2007-05-23"
+"hep-ph/9305301","Allex","Alexander Kyatkin","Semiclassical transition in \phi^4 theory","26 pages, JHU-TIPAC-930013, (correct 2 typos, some notations)","Nucl.Phys.B415:660-680,1994","10.1016/0550-3213(94)90306-9",,"hep-ph hep-th",,"  We have shown an example of semiclassical transition in $\phi^{4}$ theory
+with positive coupling constant. This process can be described by the classical
+$O(4)$-invariant solution, considered on a contour in the complex time plane.
+The transition is technically analogous to the one-instanton transition in the
+electroweak model. It is suppressed by the factor $\exp(-2S_{0})$, where
+$S_{0}$ is Lipatov instanton action. This process describes a semiclassical
+transition between two coherent states with much smaller number of particles in
+the initial state than in the final state. Therefore, it could be relevant to
+the problem of calculation of amplitudes for multiparticle production in
+$\phi^4$-type models.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 23:57:00 GMT""},{""version"":""v2"",""created"":""Fri, 18 Jun 1993 05:25:00 GMT""}]","2010-11-01"
+"hep-th/9305107",,"M. Cadoni and S. Mignemi","Dilatonic black holes in theories with moduli fields","8 pages","Phys.Rev. D48 (1993) 5536-5538","10.1103/PhysRevD.48.5536",,"hep-th",,"  We discuss the low-energy effective string theory when moduli of the
+compactified manifold are present. Assuming a nontrivial coupling of the moduli
+to the Maxwell tensor, we find a class of regular black hole solutions. Both
+the thermodynamical and the geometrical structure of these solutions are
+discussed
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 18:13:00 GMT""}]","2009-10-22"
+"hep-th/9305108",,"L.A.Dickey","Why the general Zakharov-Shabat equations form a hierarchy?","13pp","Commun. Math. Phys. 163 (1994) 509-522","10.1007/BF02101461",,"hep-th",,"  The totality of all Zakharov-Shabat equations (ZS), i.e., zero-curvature
+equations with rational dependence on a spectral parameter, if properly
+defined, can be considered as a hierarchy. The latter means a collection of
+commuting vector fields in the same phase space. Further properties of the
+hierarchy are discussed, such as additional symmetries, an analogue to the
+string equation, a Grassmannian related to the ZS hierarchy, and a Grassmannian
+definition of soliton solutions.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 18:18:00 GMT""}]","2009-10-22"
+"hep-th/9305109","Tamiaki Yoneya","Antal Jevicki and Tamiaki Yoneya","A Deformed Matrix Model and the Black Hole Background in Two-Dimensional
+  String Theory","38 pages, NSF-ITP-93-67, BROWN-HET-904, UT-KOMABA 93/10","Nucl.Phys.B411:64-96,1994","10.1016/0550-3213(94)90054-X",,"hep-th",,"  The refrerences are corrected.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 19:45:00 GMT""},{""version"":""v2"",""created"":""Sat, 22 May 1993 19:15:00 GMT""},{""version"":""v3"",""created"":""Tue, 25 May 1993 19:14:00 GMT""}]","2011-07-19"
+"hep-th/9305110","Andre LeClair","Andre LeClair","Spectrum Generating Affine Lie Algebras in Massive Field Theory","49 pages, CLNS 93/1220","Nucl.Phys. B415 (1994) 734-780","10.1016/0550-3213(94)90308-5",,"hep-th",,"  We present a new application of affine Lie algebras to massive quantum field
+theory in 2 dimensions, by investigating the $q\to 1$ limit of the q-deformed
+affine $\hat{sl(2)}$ symmetry of the sine-Gordon theory, this limit occuring at
+the free fermion point. We describe how radial quantization leads to a
+quasi-chiral factorization of the space of fields. The conserved charges which
+generate the affine Lie algebra split into two independent affine algebras on
+this factorized space, each with level 1 in the anti-periodic sector. The space
+of fields in the anti-periodic sector can be organized using level-$1$ highest
+weight representations, if one supplements the $\slh$ algebra with the usual
+local integrals of motion. Using the integrals of motion, a momentum space
+bosonization involving vertex operators is formulated. This leads to a new way
+of computing form-factors, as vacuum expectation values in momentum space.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 22:32:03 GMT""},{""version"":""v2"",""created"":""Fri, 4 Jun 1993 15:27:47 GMT""},{""version"":""v3"",""created"":""Mon, 1 Nov 1993 15:18:53 GMT""}]","2009-10-22"
+"hep-th/9305111","Robert Brandenberger","M. Trodden (Brown University), V. Mukhanov (ETH Zuerich) and R.
+  Brandenberger (Brown University)","A Nonsingular Two Dimensional Black Hole","9 pages, 1 figure (available from the authors), uses LATEX, Brown
+  preprint BROWN-HET-907, May 1993","Phys.Lett. B316 (1993) 483-487","10.1016/0370-2693(93)91032-I",,"hep-th gr-qc",,"  We construct a model of gravity in 1+1 spacetime dimensions in which the
+solutions approach the Schwarzschild metric at large $r$ and de Sitter space
+far inside the horizon. Our model may be viewed as a two dimensional
+application of the `Limiting Curvature Construction' recently proposed by two
+of the authors.
+","[{""version"":""v1"",""created"":""Sat, 22 May 1993 14:17:18 GMT""}]","2009-10-22"
+"patt-sol/9305009","John Bechhoefer","John Bechhoefer (Dept. of Physics, Simon Fraser University, Burnaby,
+  British Columbia, V5A 1S6, Canada)","Nonequilibrium Phenomena in Liquid Crystals","18 pages, Revtex 3.0, no figures",,,,"patt-sol nlin.PS",,"  This paper summarizes a talk presented at the April NATO ASI on
+Spatiotemporal Chaos in Complex Fluids, in Santa Fe, NM. The paper gives
+reasons that make complex fluids good material systems for conducting
+experiments on pattern formation and other nonequilibrium phenomena. Much of
+the discussion focuses on the different phenomena observed in solidification
+and how the increasing complexity of fluid systems decreases the velocity scale
+for achieving ""rapid"" solidification. Five systems are compared to illustrate
+this point: simple fluids, simple alloys, thermotropic liquid crystals,
+lyotropic liquid crystals, and diblock copolymers. Finally, an example is given
+of the kinds of transitions that may be observed in rapid solidification.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 20:03:42 GMT""}]","2008-02-03"

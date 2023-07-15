@@ -1,0 +1,221 @@
+"alg-geom/9303007","Jose Gaite","J.A. Dominguez Perez, D. Hernandez Ruiperez and C. Sancho de Salas","The Variety of Positive Superdivisors of a Supercurve (Supervortices)","18 pages, AMS-TeX-ppt 2.1",,,,"alg-geom math.AG",,"  The supersymmetric product of a supercurve is constructed with the aid of a
+theorem of algebraic invariants and the notion of positive relative
+superdivisor (supervortex) is introduced. A supercurve of positive
+superdivisors of degree 1 (supervortices of vortex number 1) of the original
+supercurve is constructed as its supercurve of conjugate fermions, as well as
+the supervariety of relative positive superdivisors of degre p (supervortices
+of vortex number p.) A universal superdivisor is defined and it is proved that
+every positive relative superdivisor can be obtained in a unique way as a
+pull-back of the universal superdivisor. The case of SUSY-curves is discussed.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 19:17:32 GMT""}]","2008-02-03"
+"gr-qc/9303035","Carl Brans","Carl H. Brans","Exotic Black Holes?","6 pages plus 6 figures, not included, available on request",,,"IASSNS-HEP-93/18","gr-qc",,"  Exotic smooth manifolds, ${\bf R^2\times_\Theta S^2}$, are constructed and
+discussed as possible space-time models supporting the usual Kruskal
+presentation of the vacuum Schwarzschild metric locally, but {\em not
+globally}. While having the same topology as the standard Kruskal model, none
+of these manifolds is diffeomorphic to standard Kruskal, although under certain
+conditions some global smooth Lorentz-signature metric can be continued from
+the local Kruskal form. Consequently, it can be conjectured that such manifolds
+represent an infinity of physically inequivalent (non-diffeomorphic) space-time
+models for black holes. However, at present nothing definitive can be said
+about the continued satisfaction of the Einstein equations. This problem is
+also discussed in the original Schwarzschild $(t,r)$ coordinates for which the
+exotic region is contained in a world tube along the time-axis, so that the
+manifold is spatially, but not temporally, asymptotically standard. In this
+form, it is tempting to speculate that the confined exotic region might serve
+as a source for some exterior solution. Certain aspects of the Cauchy problem
+are also discussed in terms of ${\bf R^4_\\Theta}$\ models which are
+``half-standard'', say for all $t<0,$ but for which $t$ cannot be globally
+smooth.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 14:25:35 GMT""}]","2016-08-31"
+"gr-qc/9303036",,"R. Laflamme and A. Matacz","Decoherence Functional and Inhomogeneities in the Early Universe","15 pages in plain tex","Int. J. Mod. Phys. D2 (1993) 171-182","10.1142/S0218271893000155",,"gr-qc",,"  We investigate the quantum to classical transition of small inhomogeneous
+fluctuations in the early Universe using the decoherence functional of
+Gell-Mann and Hartle. We study two types of coarse graining; one due to coarse
+graining the value of the scalar field and the other due to summing over an
+environment. We compare the results with a previous study using an environment
+and the off-diagonal rule proposed by Zurek. We show that the two methods give
+different results.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 15:08:00 GMT""}]","2009-10-22"
+"hep-lat/9303015","Igor Pesando","I. Pesando","The dimer partition function","6 pages, Latex, NBI-HE-93-16",,,,"hep-lat",,"  We apply the Ginzburg criterion to the dimer problem and we solve the
+apparent contradiction of a system with mean field $\alpha={1\over2}$, the
+typical value of tricritical systems, and upper critical dimension $D_{cr}=6$.
+We find that the system has upper critical dimension $D_{cr}=6$ , while for
+$D\le4$ it should undergo a first order phase transition. We comment on the
+latter wrong result examining the approximation we used.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 14:22:17 GMT""}]","2007-05-23"
+"hep-ph/9303311","Ulf Meissner","V\'eronique Bernard, Norbert Kaiser and Ulf-G. Mei{\ss}ner","Critical Analysis of Baryon Masses and Sigma-Terms in Heavy Baryon
+  Chiral Perturbation Theory","18 pp, TeX, BUTP-93/05 and CRN-93-06","Z.Phys. C60 (1993) 111-120","10.1007/BF01650436",,"hep-ph nucl-th",,"  We present an analysis of the octet baryon masses and the $\pi N$ and $KN$
+$\sigma$--terms in the framework of heavy baryon chiral perturbation theory. At
+next-to-leading order, ${\cal O}(q^3)$, knowledge of the baryon masses and
+$\sigma_{\pi N}(0)$ allows to determine the three corresponding finite
+low--energy constants and to predict the the two $KN$ $\sigma$--terms
+$\sigma^{(1,2)}_{KN} (0)$. We also include the spin-3/2 decuplet in the
+effective theory. The presence of the non--vanishing energy scale due to the
+octet--decuplet splitting shifts the average octet baryon mass by an infinite
+amount and leads to infinite renormalizations of the low--energy constants. The
+first observable effect of the decuplet intermediate states to the baryon
+masses starts out at order $q^4$. We argue that it is not sufficient to retain
+only these but no other higher order terms to achieve a consistent description
+of the three--flavor scalar sector of baryon CHPT. In addition, we critically
+discuss an SU(2) result which allows to explain the large shift of $\sigma_{\pi
+N}(2M_\pi^2) - \sigma_{\pi N}(0)$ via intermediate $\Delta (1232)$ states.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 16:02:25 GMT""}]","2016-08-14"
+"hep-ph/9303312","Annamaria Zajec","A.P. Balachandran","Saha and the Dyon","(to be published in the Commemoration Volume celebrating the Birth
+  Centenary of Professor M.N. Saha), 15 pages, 1 figure in one Postscript file,
+  SU-4240-534",,,,"hep-ph hep-th",,"  Meghnad Saha occupies a special role in the history of Indian science, having
+been a pioneer in its organization already from the oppressive colonial period
+and having left important legacies to post-colonial India like the Saha
+Institute of Nuclear Physics. He is famous for his research in astrophysics,
+and has also made important, but less well-known contributions to magnetic
+monopole theory. This article attempts an elementary survey of this theory and
+its implications with special emphasis on Saha's work and argues that the
+latter has had wide ranging consequences for fundamental physics.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 22:02:00 GMT""}]","2009-09-25"
+"hep-ph/9303313","Edward Kolb","Edward W. Kolb and Igor I. Tkachev","Axion Miniclusters and Bose Stars","12 pages plus 3 eps figures (available via e-mail:
+  rocky@fnas01.fnal.gov), LaTeX, FERMILAB--PUB--93/066-A","Phys.Rev.Lett. 71 (1993) 3051-3054","10.1103/PhysRevLett.71.3051",,"hep-ph astro-ph gr-qc",,"  Evolution of inhomogeneities in the axion field around the QCD epoch is
+studied numerically, including for the first time important non-linear effects.
+It is found that perturbations on scales corresponding to causally disconnected
+regions at $T \sim 1 \, {\rm GeV}$ can lead to very dense axion clumps, with
+present density $\rho_a \ga 10^{-8}\,{\rm g \, cm^{-3}}$. This is high enough
+for the collisional $2a \rightarrow 2a$ process to lead to Bose--Einstein
+relaxation in the gravitationally bound clumps of axions, forming Bose stars.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 22:24:17 GMT""}]","2009-10-22"
+"hep-ph/9303314",,"A.Bassetto, I.A.Korchemskaya, G.P.Korchemsky and G.Nardelli","Gauge Invariance and Anomalous Dimensions of a Light-Cone Wilson Loop in
+  Light-Like Axial Gauge","24 pages and 4 figures (included), LaTeX style, UFPD-93/TH/23,
+  UPRF-93-366, UTF-93-291","Nucl.Phys. B408 (1993) 62-90","10.1016/0550-3213(93)90133-A",,"hep-ph",,"  Complete two-loop calculation of a dimensionally regularized Wilson loop with
+light-like segments is performed in the light-like axial gauge with the
+Mandelstam-Leibbrandt prescription for the gluon propagator. We find an
+expression which {\it exactly} coincides with the one previously obtained for
+the same Wilson loop in covariant Feynman gauge. The renormalization of Wilson
+loop is performed in the $\MS-$scheme using a general procedure tailored to the
+light-like axial gauge. We find that the renormalized Wilson loop obeys a
+renormalization group equation with the same anomalous dimensions as in
+covariant gauges. Physical implications of our result for investigation of
+infrared asymptotics of perturbative QCD are pointed out.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 11:53:00 GMT""}]","2009-10-22"
+"hep-ph/9303315",,"F. de Campos and J. W. F. Valle","Possible Implications of a Light Gluino","6 pag. + 2 fig(available upon request), FTUV/93-9 IFIC/93-5",,,,"hep-ph",,"  Light gluinos have been suggested in order to reconcile $\alpha_s$
+determinations from low energy deep inelastic experiments with those inferred
+from LEP measurements. {}From this hypothesis then one expects, in unified N=1
+supergravity models, that also the ""photino"" will be light. We show that this
+possibility is not in conflict with recent LEP measurements and also that
+cosmology does not necessarily rule it out in any convincing way. Moreover it
+leads to $upper$ limits on the masses of the other supersymmetric fermions, for
+example, the lightest chargino should be lighter than about 75 GeV}
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 10:55:00 GMT""}]","2007-05-23"
+"hep-th/9303158","Per Berglund","P. Berglund and T. H\""ubsch","Couplings for Compactifications","30 p. HUPAPP-93/2, NSF-ITP-93-37, UTTG-10-93, use harvmac. Minor
+  corrections to sections 4.3 and 4.4","Nucl.Phys.B411:223-256,1994","10.1016/0550-3213(94)90059-0",,"hep-th",,"  A general formula is obtained for Yukawa couplings in compactification on
+\LGO{s} and corresponding \CY\ spaces. Up to the kinetic term normalizations,
+this equates the classical Koszul ring structure with the \LGO\ chiral ring
+structure and the true super\CFT\ ring structure.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 18:57:00 GMT""},{""version"":""v2"",""created"":""Thu, 22 Apr 1993 01:56:00 GMT""}]","2010-11-01"
+"hep-th/9303159","Michael Douglas","Michael R. Douglas","Conformal Field Theory Techniques for Large N Group Theory","RU-93-13, NSF-ITP-93-39, 13 pp",,,,"hep-th",,"  We show how to use quantum mechanics on the group manifold U(N) as a tool for
+problems in U(N) representation theory. The quantum mechanics reduces to free
+fermions on the circle, which in the large N limit become relativistic. The
+theory can be bosonized giving the Das-Jevicki-Sakita collective field theory.
+The formalism is particularly suited to problems involving tensor product
+multiplicity (Littlewood-Richardson) coefficients. As examples, we discuss the
+partition function of two-dimensional Yang-Mills theory on the sphere, and the
+zero magnetic field limit of D-dimensional Eguchi-Kawai Yang-Mills theory. We
+give the leading O(N^0) solution of the latter theory, using a method which
+allows computing corrections. Largely (but not completely) superseded by
+hep-th/9311130.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 06:18:08 GMT""}]","2007-05-23"
+"hep-th/9303160","Victor Gurarie","V. Gurarie","Logarithmic Operators in Conformal Field Theory","13 pages, plain TEX, PUPT-1391 (minor changes and the appendix with
+  additional calculations is added)","Nucl.Phys. B410 (1993) 535-549","10.1016/0550-3213(93)90528-W",,"hep-th",,"  Conformal field theories with correlation functions which have logarithmic
+singularities are considered. It is shown that those singularities imply the
+existence of additional operators in the theory which together with ordinary
+primary operators form the basis of the Jordan cell for the operator $L_{0}$.
+An example of the field theory possessing such correlation functions is given.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 23:02:49 GMT""},{""version"":""v2"",""created"":""Fri, 9 Apr 1993 03:40:53 GMT""}]","2009-10-22"
+"hep-th/9303161","Uwe Grimm","Uwe Grimm and Paul A. Pearce","Multi-Colour Braid-Monoid Algebras","32 pages","J.Phys. A26 (1993) 7435-7460","10.1088/0305-4470/26/24/018",,"hep-th math.QA",,"  We define multi-colour generalizations of braid-monoid algebras and present
+explicit matrix representations which are related to two-dimensional exactly
+solvable lattice models of statistical mechanics. In particular, we show that
+the two-colour braid-monoid algebra describes the Yang-Baxter algebra of the
+critical dilute A-D-E models which were recently introduced by Warnaar,
+Nienhuis, and Seaton as well as by Roche. These and other solvable models
+related to dense and dilute loop models are discussed in detail and it is shown
+that the solvability is a direct consequence of the algebraic structure. It is
+conjectured that the Yang-Baxterization of general multi-colour braid-monoid
+algebras will lead to the construction of further solvable lattice models.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 15:56:06 GMT""}]","2009-10-22"
+"hep-th/9303163","Judy Mack","C.R. Hagen and E.C.G. Sudarshan","Comment on Operator Algebra in Chern-Simons Theory on a Torus","4 pages","Phys.Rev.Lett. 74 (1995) 1032","10.1103/PhysRevLett.74.1032","UR1308, ER-40685-757","hep-th",,"  It is shown that ""nonintegrable phases of Wilson line integrals"" are not true
+dynamical variables in Chern-Simons field theory.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 19:43:00 GMT""},{""version"":""v2"",""created"":""Tue, 30 Mar 1993 13:26:00 GMT""}]","2009-10-22"
+"hep-th/9303164","Krzysztof Pilch","P. Bouwknegt, J. McCarthy and K. Pilch","On the BRST structure of W_3 gravity coupled to c=2 matter","14 pages, USC-93/14, ADP-93-203/M17",,,,"hep-th",,"  We present some explicit results on the structure of singular vectors in
+$c=2$ Verma modules of the $\cW_3$ algebra. Using the embedding patterns of
+those vectors we construct resolutions for the $c=2$ irreducible modules, and
+thus are able to compute some of the BRST cohomology of $\cW_3$ gravity coupled
+to $c=2$ matter. In particular, we determine the states in the ground ring of
+the theory. (To appear in the proceedings of the AMS Special Session on
+""Geometry and Physics"", USC, Los Angeles, November 5-6, 1992)
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 01:03:25 GMT""}]","2007-05-23"
+"hep-th/9303165","Soon-Keon Nam","B.K. Chung, K.G. Joo, and Soonkeon Nam","Classical $W_3^{(2)}$ algebra and its Miura map","12pages, KHTP-93-02, SNUCTP-93-17","J.Korean Phys.Soc.26:557-561,1993",,,"hep-th",,"  We verify that the fractional KdV equation is a bi-hamiltonian system using
+the zero curvature equation in $SL(3)$ matrix valued Lax pair representation,
+and explicitly find the closed form for the hamiltonian operators of the
+system. The second hamiltonian operator is the classical version of the
+$W^{(2)}_3$ algebra. We also construct systematically the Miura map of
+$W^{(2)}_3$ algebra using a gauge transformation of the $SL(3)$ matrix valued
+Lax operator in a particular gauge, and construct the modified fractional KdV
+equaiotn as hamiltonian system.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 04:20:02 GMT""}]","2010-02-05"
+"hep-th/9303166","Arthur Mezhlumian","Alexander A.Belov and Karen D.Chaltikian","Lattice analogues of W-algebras and Classical Integrable Equations","LaTeX, ILG-TMP-93-01, (the problems caused by mailer are fixed)","Phys.Lett. B309 (1993) 268-274","10.1016/0370-2693(93)90932-8",,"hep-th",,"  We propose a regular way to construct lattice versions of $W$-algebras, both
+for quantum and classical cases. In the classical case we write the algebra
+explicitly and derive the lattice analogue of Boussinesq equation from the
+Hamiltonian equations of motion. Connection between the lattice
+Faddeev-Takhtadjan-Volkov algebra [1] and q-deformed Virasoro is also
+discussed.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 06:56:24 GMT""}]","2009-10-22"
+"math/9303202",,"Mikhail I. Ostrovskii","Topologies on the set of all subspaces of a banach space and related
+  questions of banach space geometry",,"Quaestiones Math., 17 (1994), no. 3, 259-319",,"Banach Archive 3/29/93","math.FA",,"  For a Banach space $X$ we shall denote the set of all closed subspaces of $X$
+by $G(X)$. In some kinds of problems it turned out to be useful to endow $G(X)$
+with a topology. The main purpose of the present paper is to survey results on
+two the most common topologies on $G(X)$.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 17:51:57 GMT""}]","2010-09-07"
+"math/9303203",,"Mikhail I. Ostrovskii","W^*-derived sets of transfinite order of subspaces of dual Banach spaces",,"Dokl. Akad. Nauk Ukrain. SSR. Ser. A, 1987, no. 10, 9-12",,"Banach Archive 3/29/93","math.FA",,"  It is an English translation of the paper originally published in Russian and
+Ukrainian in 1987. In the appendix of his book S.Banach introduced the
+following definition Let $X$ be a Banach space and $\Gamma$ be a subspace of
+the dual space $X^*$. The set of all limits of $w^{*}$-convergent sequences in
+$\Gamma $ is called the $w^*${\it -derived set} of $\Gamma $ and is denoted by
+$\Gamma _{(1)}$. For an ordinal $\alpha$ the $w^{*}$-{\it derived set of order}
+$\alpha $ is defined inductively by the equality: $$ \Gamma _{(\alpha
+)}=\bigcup _{\beta <\alpha }((\Gamma _{(\beta )})_{(1)}. $$
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 17:51:57 GMT""}]","2010-09-07"
+"math/9303204",,"Mikhail I. Ostrovskii","Total subspaces in dual Banach spaces which are not norming",,"Studia Math. 105 (1993), no. 1, 37-49",,"Banach Archive 3/29/93","math.FA",,"  The main result: the dual of separable Banach space $X$ contains a total
+subspace which is not norming over any infinite dimensional subspace of $X$ if
+and only if $X$ has a nonquasireflexive quotient space with the strictly
+singular quotient mapping.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 17:51:57 GMT""}]","2010-09-07"
+"math/9303205",,"Mikhail I. Ostrovskii","A note on analytical representability of mappings inverse to integral
+  operators",,"Matematicheskaya Fizika, Analiz i Geometriya, 1 (1994), no. 3/4,
+  513-519",,"Banach Archive 3/29/93","math.FA",,"  The condition onto pair ($F,G$) of function Banach spaces under which there
+exists a integral operator $T:F\to G$ with analytic kernel such that the
+inverse mapping $T^{-1}:$im$T\to F$ does not belong to arbitrary a priori given
+Borel (or Baire) class is found.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 17:51:57 GMT""}]","2010-09-07"
+"math/9303206",,"Mikhail I. Ostrovskii","Total subspaces with long chains of nowhere norming weak$^*$ sequential
+  closures",,"Note Mat., 13 (1993), no. 2, 217-227",,"Banach Archive 3/29/93","math.FA",,"  If a separable Banach space $X$ is such that for some nonquasireflexive
+Banach space $Y$ there exists a surjective strictly singular operator $T:X\to
+Y$ then for every countable ordinal $\alpha $ the dual of $X$ contains a
+subspace whose weak$^*$ sequential closures of orders less than $\alpha $ are
+not norming over any infinite-dimensional subspace of $X$ and whose weak$^*$
+sequential closure of order $\alpha +1$ coincides with $X^*$
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 17:51:57 GMT""}]","2010-09-07"
+"nucl-th/9303024",,"S.V.Akulinichev","Light front dynamics and the binding correction","6 pages, LATEX file.(address from April 21: Institute for Nuclear
+  Research, Moscow)",,,,"nucl-th",,"  It is shown that the nuclear binding correction in deep inelastic lepton
+scattering is essentially the same in light front and instant form
+representations. Some contradicting papers are discussed.
+","[{""version"":""v1"",""created"":""Mon, 29 Mar 1993 23:18:00 GMT""}]","2007-05-23"
+"nucl-th/9303025",,"M.R. Frank and P.C.Tandy","Gauge Invariance and the Electromagnetic Current of Composite Pions","29 pages, Latex, Revtex, 3 figures not included, KSUCNR-004-93,
+  CEBAF-TH-93-05, HU-93-01","Phys.Rev.C49:478-488,1994","10.1103/PhysRevC.49.478",,"nucl-th",,"  The Global Color-symmetry Model of QCD is extended to deal with a background
+electromagnetic field and the associated conserved current is identified for
+composite $\bar{q}q$ pion modes of the model. Although the analysis is limited
+to tree level in the bilocal fields that bosonize the model, the identified
+photon-pion vertex produces the charge form factor associated with ladder
+Bethe-Salpeter pion amplitudes. A Ward-Takahashi identity for this vertex is
+derived in terms of the effective inverse propagator for the equivalent local
+pion field and the intrinsic ladder Bethe-Salpeter amplitudes. This identity is
+then used to illustrate gauge invariance by showing that identical vertex
+information is produced from the gauge change of the free action once proper
+account is taken of the gauge transformation properties of the bilocal pion
+fields. Comments are made on the location of the vector dominance mechanism in
+this treatment.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 12:49:26 GMT""}]","2008-11-26"

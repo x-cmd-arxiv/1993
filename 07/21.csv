@@ -1,0 +1,237 @@
+"alg-geom/9307005","Siye Wu","Elisa Prato and Siye Wu","Duistermaat-Heckman measures in a non-compact setting","LaTeX file, 14 pages",,,,"alg-geom hep-th math.AG",,"  We prove a \dh type formula in a suitable non-compact setting. We use this
+formula to evaluate explicitly the pushforward of the Liouville measure via the
+moment map of both an abelian and a non-abelian group action. As an application
+we obtain the classical analogues of well-known multiplicity formulas for the
+holomorphic discrete series representations.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 03:59:57 GMT""}]","2008-02-03"
+"chao-dyn/9307009","J. Ringland","John Ringland (Math. Dept., SUNY Buffalo, Buffalo NY 14214), Charles
+  Tresser (IBM, Yorktown Heights NY 10598)","A Genealogy for Finite Kneading Sequences of Bimodal Maps on the
+  Interval","Text, in PostScript form, is compressed and uuencoded. Figures are in
+  Uuencoded tar-compressed bundle which expands to a directory containing 10
+  Postscript files one for each of the 10 figures. Total size when expanded is
+  approximately 0.5Mb. If preferred, hard copy is available by request from the
+  authors",,,,"chao-dyn nlin.CD",,"  We generate all the finite kneading sequences of one of the two kinds of
+bimodal map on the interval, building each sequence uniquely from a pair of
+shorter ones. There is a single pair at generation 0, with members of length 1.
+Concomitant with this genealogy of kneading sequences is a unified genealogy of
+all the periodic orbits. (6/93)
+","[{""version"":""v1"",""created"":""Tue, 20 Jul 1993 18:07:02 GMT""}]","2008-02-03"
+"cond-mat/9307044","Lizeng Zhang","P Nisamaneephong, L. Zhang and M. Ma","A Gaussian Theory of Superfluid--Bose-Glass Phase Transition","Revtex 3.0, 11 pages (4 figures will be sent through airmail upon
+  request)",,"10.1103/PhysRevLett.71.3830",,"cond-mat",,"  We show that gaussian quantum fluctuations, even if infinitesimal, are
+sufficient to destroy the superfluidity of a disordered boson system in 1D and
+2D. The critical disorder is thus finite no matter how small the repulsion is
+between particles. Within the gaussian approximation, we study the nature of
+the elementary excitations, including their density of states and mobility edge
+transition. We give the gaussian exponent $\eta$ at criticality in 1D and show
+that its ratio to $\eta$ of the pure system is universal.
+","[{""version"":""v1"",""created"":""Tue, 20 Jul 1993 16:32:42 GMT""}]","2009-10-22"
+"cond-mat/9307045",,"Alan T. Dorsey","Dynamics of Interfaces in Superconductors","22 pages, Revtex 3.0, no figures",,"10.1006/aphy.1994.1067",,"cond-mat",,"  The dynamics of an interface between the normal and superconducting phases
+under nonstationary external conditions is studied within the framework of the
+time-dependent Ginzburg-Landau equations of superconductivity, modified to
+include thermal fluctuations. An equation of motion for the interface is
+derived in two steps. First, the method of matched asymptotic expansions is
+used to derive a diffusion equation for the magnetic field in the normal phase,
+with nonlinear boundary conditions at the interface. These boundary conditions
+are a continuity equation which relates the gradient of the field at the
+interface to the normal velocity of the interface, and a modified Gibbs-Thomson
+boundary condition for the field at the interface. Second, the boundary
+integral method is used to integrate out the magnetic field in favor of an
+equation of motion for the interface. This equation of motion, which is highly
+nonlinear and nonlocal, exhibits a diffusive instability (the Mullins-Sekerka
+instability) when the superconducting phase expands into the normal phase
+(i.e., when the external field is reduced below the critical field). In the
+limit of infinite diffusion constant the equation of motion becomes local in
+time, and can be derived variationally from a static energy functional which
+includes the bulk free energy difference between the two phases, the
+interfacial energy, and a long range self-interaction of the interface of the
+Biot-Savart form. In this limit the dynamics is identical
+","[{""version"":""v1"",""created"":""Tue, 20 Jul 1993 19:40:29 GMT""}]","2009-10-22"
+"cond-mat/9307046","Alexander Sokol","Alexander Sokol, Rodney L. Glenister, and Rajiv R.P. Singh","Quantum Critical Scaling in a Moderately Doped Antiferromagnet","11 pages, REVTeX v3.0, PostScript file for 3 figures is attached,
+  UIUC-P-93-07-068. In this revised version, we calculate the scaling functions
+  and thus present new and more direct evidence in favor of our original
+  conclusions","Physical Review Letters 72, 1549 (1994)","10.1103/PhysRevLett.72.1549",,"cond-mat",,"  Using high temperature expansions for the equal time correlator $S(q)$ and
+static susceptibility $\chi(q)$ for the t-J model, we present evidence for
+quantum critical (QC), $z\!=\!1$, behavior at intermediate temperatures in a
+broad range of $t/J$ ratio, doping, and temperatures. We find that the
+dynamical susceptibility is very close to the universal scaling function
+computable for the asymptotic QC regime, and that the dominant energy scale is
+temperature. Our results are in excellent agreement with measurements of the
+spin-echo decay rate, $1/T_{\rm 2G}$, in La$_2$CuO$_4$, and provide qualitative
+understanding of both $1/T_1$ and $1/T_{\rm 2G}$ nuclear relaxation rates in
+doped cuprates.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 15:50:48 GMT""},{""version"":""v2"",""created"":""Wed, 17 Nov 1993 19:40:14 GMT""}]","2009-10-22"
+"gr-qc/9307024",,"M.Gasperini and M.Giovannini","Quantum Squeezing and Cosmological Entropy Production","7 pages, plain TEX, to appear in Class.Quantum Grav., CERN-TH.6954/93","Class.Quant.Grav.10:L133-L136,1993","10.1088/0264-9381/10/9/004",,"gr-qc astro-ph hep-th",,"  The entropy growth in a cosmological process of pair production is completely
+determined by the associated squeezing parameter, and is insensitive to the
+number of particles in the initial state. The total produced entropy may
+represent a significant fraction of the entropy stored today in the cosmic
+black-body radiation, provided pair production originates from a change in the
+background metric at a curvature scale of the Planck order.
+","[{""version"":""v1"",""created"":""Tue, 20 Jul 1993 18:16:00 GMT""}]","2010-04-06"
+"gr-qc/9307025","Jack Gegenberg","J. Gegenberg and G. Kunstatter","The Geometry and Topology of 3-Manifolds and Gravity","16 pages, LateX",,,,"gr-qc hep-th",,"  It is well known that one can parameterize 2-D Riemannian structures by
+conformal transformations and diffeomorphisms of fiducial constant curvature
+geometries; and that this construction has a natural setting in general
+relativity theory in 2-D. I will show that a similar parameterization exists
+for 3-D Riemannian structures, with the conformal transformations and
+diffeomorphisms of the 2-D case replaced by a finite dimensional group of gauge
+transformations. This parameterization emerges from the theory of 3-D gravity
+coupled to topological matter.
+","[{""version"":""v1"",""created"":""Tue, 20 Jul 1993 17:06:45 GMT""}]","2007-05-23"
+"gr-qc/9307026","Stephen Lau","Stephen Lau","Canonical variables and quasilocal energy in general relativity","(The manuscripts in the revised versions have not been changed. Some
+  problematic fonts have been removed, and some carriage returns have been
+  added), 31 pages, IFP-470 July 1993","Class.Quant.Grav.10:2379-2399,1993","10.1088/0264-9381/10/11/021",,"gr-qc",,"  Recently Brown and York have devised a new method for defining quasilocal
+energy in general relativity. Their method yields expressions for the
+quasilocal energy and momentum surface densities associated with the
+two-boundary of a spacelike slice of a spatially bounded spacetime. These
+expressions are essentially Arnowitt-Deser-Misner variables, but with canonical
+conjugacy defined with respect to the time history of the two-boundary. This
+paper introduces Ashtekar-type variables on the time history of the
+two-boundary and shows that these variables lead to elegant alternative
+expressions for the quasilocal surface densities. In addition, it is
+demonstrated here that both the boundary ADM variables and the boundary
+Ashtekar-type variables can be incorporated into a larger framework by
+appealing to the tetrad-dependent Sparling differential forms.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 14:22:56 GMT""},{""version"":""v2"",""created"":""Thu, 22 Jul 1993 13:59:42 GMT""},{""version"":""v3"",""created"":""Wed, 28 Jul 1993 19:21:21 GMT""}]","2010-04-06"
+"hep-ph/9307308","Giorgos Leontaris","G.K. Leontaris","FCNCs in SUSY GUTs (flavor changing neutral currents in predictive
+  SUSY-GUTS)","(IOA-294/July 1993, Revised Version,17p, 4 figures available upon
+  request)",,"10.1007/BF01559528",,"hep-ph",,"  Constraints from flavour changing neutral currents are discussed in the
+context of predictive Grand Unified Supersymmetric Theories. Uncertainties in
+the estimation of their amplitudes are minimized by using a successful mass
+matrix ansatz which predicts the arbitrary parameters of the Standard Model.
+Furthermore, Renormalization Group Equations are used in order to express the
+sparticle masses involved, in terms of the gaugino mass $m_{1/2}$, the
+universal scalar mass $m_0$ and the trilinear coupling $A$ at the GUT scale.
+Modifications in the low energy expressions for the squark masses due to a
+large top Yukawa coupling are also considered. The above results, reconciled
+with experimental limits are used to put lower bounds on the parameters
+$m_{1/2}$, $m_0$ and the low energy scalar masses.
+","[{""version"":""v1"",""created"":""Tue, 20 Jul 1993 17:30:24 GMT""},{""version"":""v2"",""created"":""Fri, 26 Nov 1993 12:46:06 GMT""}]","2009-10-22"
+"hep-ph/9307309",,"Graciela Gelmini","Beyond the Standard Model","48 pages, UCLA-93-TEP-33",,,,"hep-ph",,"  These are three lectures given at the ``Lake Louise Winter Institute"", (Lake
+Louise Canada, Feb 1993). A pedagogical introduction is given to attempts to
+formulate a more fundamental theory of elementary particles than that provided
+by the standard model. After a review of the basic elements of the standard
+model, its unsatisfactory features, and ideas to modify them will be discussed.
+An introduction to Technicolour, t-quark condensates, supersymmetric models,
+GUT's and a brief comment on composite models follow.
+","[{""version"":""v1"",""created"":""Tue, 20 Jul 1993 17:37:00 GMT""}]","2007-05-23"
+"hep-ph/9307310",,"Benjamin Grinstein, Yosef Nir and Joao M. Soares","Constraints on Extended Technicolor Models from B -> mu+ mu- X","7 pages and 1 figure (.ps file included), SSCL-Preprint-482,
+  WIS-93/67/July-PH, CMU-HEP93-10","Phys.Rev. D48 (1993) 3960-3962","10.1103/PhysRevD.48.R3960",,"hep-ph",,"  A recent study by Randall and Sundrum shows that models of Extended
+Technicolor (ETC) have interesting implications on rare B decays. We extend
+their study to the decay B -> mu+ mu- X. ETC models with a GIM mechanism
+predict a decay rate that is a factor of order 30 above the Standard Model,
+violating the experimental upper bound by a factor of 2-4. ``Traditional"" ETC
+models predict a decay rate that is a factor of order 4 above the Standard
+Model, and will be probed when an improvement in the sensitivity of experiments
+by a factor of order 2-4 is achieved.
+","[{""version"":""v1"",""created"":""Tue, 20 Jul 1993 20:54:00 GMT""}]","2009-10-22"
+"hep-ph/9307311",,"Dirk Graudenz","Next-to-Leading Order QCD Corrections to Jet Cross Sections and Jet
+  Rates in Deeply Inelastic Electron Proton Scattering","40 pages, LBL-34147 (Latex file). (figures available by mail on
+  request (send e-mail to graudenz@theorm.lbl.gov), please include your address
+  such that it can be used as an address label)","Phys.Rev. D49 (1994) 3291-3319","10.1103/PhysRevD.49.3291",,"hep-ph",,"  Jet cross sections in deeply inelastic scattering in the case of transverse
+photon exchange for the production of (1+1) and (2+1) jets are calculated in
+next-to-leading order QCD (here the `+1' stands for the target remnant jet,
+which is included in the jet definition for reasons that will become clear in
+the main text). The jet definition scheme is based on a modified JADE cluster
+algorithm. The calculation of the (2+1) jet cross section is described in
+detail. Results for the virtual corrections as well as for the real initial-
+and final state corrections are given explicitly. Numerical results are stated
+for jet cross sections as well as for the ratio $\sigma_{\mbox{\small (2+1)
+jet}}/\sigma_{\mbox{\small tot}}$ that can be expected at E665 and HERA.
+Furthermore the scale ambiguity of the calculated jet cross sections is studied
+and different parton density parametrizations are compared.
+","[{""version"":""v1"",""created"":""Tue, 20 Jul 1993 22:56:22 GMT""}]","2009-10-22"
+"hep-ph/9307313",,"M. Drees and R.M. Godbole","Hard $\gamma \gamma$ Collisions at Future $e^+ e^-$ LINACs","to appear in the Proceedings of the Linear Collider Workshop,
+  Waikoloa, Hawaii, April 1993; LaTeX with EQUATION.STY, 9 pages, 3 figures
+  available upon request from DREES@WISCPHEN; MAD/PH/776, BU-TH/93-3",,,,"hep-ph",,"  We update our previous calculation of di--jet production in two--photon
+collisions at future \ee\ colliders, including both beam-- and bremsstrahlung.
+We then discuss the production of heavy ($c,b,t$) quarks. Our study
+re--confirms that colliders with much beamstrahlung offer no physics advantages
+over designs with little beamstrahlung.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 15:30:00 GMT""}]","2007-05-23"
+"hep-th/9307128","Yannick Meurice","Yannick Meurice","A Perturbative Improvement of the Hierarchical Approximation","11 p., uses phyzzx.tex , UIowa 12-93",,,,"hep-th hep-lat",,"  We propose a perturbative improvement of the hierarchical approximation for
+gaussian models. The procedure is based on a relabeling of the momenta which
+allows one to express the symmetries of the hierarchical model using a simple
+multiplication group. The representations of this group are used to expand the
+action. The perturbative expansion is treated as a problem of symmetry breaking
+using Ward identity techniques.
+","[{""version"":""v1"",""created"":""Tue, 20 Jul 1993 16:45:24 GMT""}]","2007-05-23"
+"hep-th/9307129","Idzumi Makoto","Makoto Idzumi","Correlation functions of the spin-1 analog of the XXZ model","28 pages",,,"RIMS-926 (June 1993)","hep-th nlin.SI solv-int",,"  Exact integral representations of spin one-point functions (ground state
+expectation values) are reported for the spin-1 analog of the XXZ model in the
+region $-1<q<0$. The method enables one to calculate arbitrary $n$-point
+functions in principle. We also report a construction of level 2 irreducible
+highest weight representations of $U_q(\hat{sl}_2)$ in terms of boson and
+fermion operators, and explicit forms of related vertex operators.
+","[{""version"":""v1"",""created"":""Tue, 20 Jul 1993 17:25:12 GMT""}]","2008-02-03"
+"hep-th/9307130","Toshiki Nakashima","Toshiki Nakashima","Quantum R-matrix and Intertwiners for the Kashiwara Algebra","21 pages","Commun.Math.Phys. 164 (1994) 239-258","10.1007/BF02101701","Osaka Univ. Math. Sci. No.3(1993)","hep-th math.QA",,"  We study the algebra $B_q(\ge)$ presented by Kashiwara and introduce
+intertwiners similar to $q$-vertex operators. We show that a matrix determined
+by 2-point functions of the intertwiners coincides with a quantum R-matrix (up
+to a diagonal matrix) and give the commutation relations of the intertwiners.
+We also introduce an analogue of the universal R-matrix for the Kashiwara
+algebra.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 03:02:32 GMT""}]","2009-10-22"
+"hep-th/9307131","Shun'ya Mizoguchi","Shun'ya Mizoguchi and Hisashi Yamamoto","On the stability of renormalizable expansions in three-dimensional
+  gravity","32 pages. (A further discussion to avoid tachyons is included. To be
+  Published in Physical Review D.)","Phys.Rev. D50 (1994) 7351-7362","10.1103/PhysRevD.50.7351",,"hep-th",,"  Preliminary investigations are made for the stability of the $1/N$ expansion
+in three-dimensional gravity coupled to various matter fields, which are
+power-counting renormalizable. For unitary matters, a tachyonic pole appears in
+the spin-2 part of the leading graviton propagator, which implies the unstable
+flat space-time, unless the higher-derivative terms are introduced. As another
+possibility to avoid this spin-2 tachyon, we propose Einstein gravity coupled
+to non-unitary matters. It turns out that a tachyon appears in the spin-0 or -1
+part for any linear gauges in this case, but it can be removed if non-minimally
+coupled scalars are included. We suggest an interesting model which may be
+stable and possess an ultraviolet fixed point.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 05:46:00 GMT""},{""version"":""v2"",""created"":""Mon, 26 Sep 1994 12:26:42 GMT""}]","2009-10-22"
+"hep-th/9307132","Hideaki Hiro-Oka 0426-77-1111x3375","H. Hiro-Oka and H. Minakata","Large-N Collective Field Theory Applied to Anyons in Magnetic Fields","10 pages(Plain TeX) TMUP-HEL-9306","Mod. Phys. Lett. A8 (1993) 3547-3555","10.1142/S0217732393002282",,"hep-th",,"  We present a large-$N$ collective field formalism for anyons in external
+magnetic fields interacting with arbitrary two-body potential. We discuss how
+the Landau level is reproduced in our framework. We apply it to the soluble
+model for anyons proposed by Girvin et al., and obtain the dispersion relation
+of collective modes for arbitrary statistical parameters.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 08:51:19 GMT""}]","2015-06-26"
+"hep-th/9307133",,"M. Temple-Raston","Quantization of Bogomol'nyi soliton dynamics","9 pages, Plain TeX, 2 figures (not included), CON-93-1",,,,"hep-th hep-ph",,"  We approximate analytically the semi-classical differential cross-section for
+low-energy solitonic BPS SU(2) magnetic monopoles using the geodesic
+approximation. The semi-classical scattering amplitude, f(\theta), can be
+expressed as a conditionally convergent infinite series which is made
+absolutely convergent by analytic continuation of the generalised zeta
+function. Our results suggest that the classical solitonic cross-section
+(computed numerically in hep-th:9209063) and the semi-classical cross-section
+are in good agreement over a wide range of scattering angles,
+\pi/3<\theta<\pi/2 and \pi/2<\theta<2\pi/3.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 12:47:15 GMT""}]","2007-05-23"
+"hep-th/9307134","Mourad","J. Mourad","Optimal Photon Localization","6 pages",,"10.1016/0375-9601(93)90401-K",,"hep-th",,"  We show that there is only one operator having some minimal properties
+enabling it to be a one photon position operator. These proerties are stated,
+and the solution is shown to be the photon position operator proposed by Pryce.
+This operator has non-commuting components. Nevertheless, it is shown that one
+can find states localized with an arbitrary precision.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 14:53:39 GMT""}]","2009-10-22"
+"hep-th/9307135","Mourad","J. Mourad","The Wigner-Weyl formalism and the semi-classical relativistic
+  approximation","6 pages",,,,"hep-th",,"  The relativistic semi-classical approximation for a free massive particle is
+studied using the Wigner-Weyl formalism. A non-covariant Wigner function is
+proposed using the Newton-Wigner position operator. The perturbative solution
+for the time evolution is found. Causality is found to be perturbatively
+respected.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 14:44:04 GMT""}]","2007-05-23"
+"nucl-th/9307020","Ekkard Schnedermann","Ekkard Schnedermann, Josef Sollfrank, and Ulrich Heinz","Thermal phenomenology of hadrons from 200 AGeV S+S collisions","31 pages, 13 figs in seperate uuencoded file, for LaTeX, epsf.sty and
+  dvips, TPR-93-16 and BNL-(no number yet)","Phys.Rev.C48:2462-2475,1993","10.1103/PhysRevC.48.2462",,"nucl-th",,"  We develop a complete and consistent description for the hadron spectra from
+heavy ion collisions in terms of a few collective variables, in particular
+temperature, longitudinal and transverse flow. To achieve a meaningful
+comparison with presently available data, we also include the resonance decays
+into our picture. To disentangle the influences of transverse flow and
+resonance decays in the $m_T$-spectra, we analyse in detail the shape of the
+$m_T$-spectra.
+","[{""version"":""v1"",""created"":""Tue, 20 Jul 1993 20:06:39 GMT""}]","2008-11-26"
+"patt-sol/9307002","Fred Cooper","Avinash Khare (Center for Nonlinear Studies, Los Alamos National
+  Laboratory, Los Alamos, NM and Institute of Physics, Sachivalaya Marg,
+  Bhubaneswar, India) and Fred Cooper (Theoretical Division, Los Alamos
+  National Laboratory, Los Alamos, NM)","One parameter family of Compacton Solutions in a class of Generalized
+  Korteweg-DeVries Equations","Latex 4 pages and one figure available on request",,"10.1103/PhysRevE.48.4843",,"patt-sol nlin.PS",,"  We study the generalized Korteweg-DeVries equations derivable from the
+Lagrangian: $ L(l,p) = \int \left( \frac{1}{2} \varphi_{x} \varphi_{t} - {
+{(\varphi_{x})^{l}} \over {l(l-1)}} + \alpha(\varphi_{x})^{p}
+(\varphi_{xx})^{2} \right) dx, $ where the usual fields $u(x,t)$ of the
+generalized KdV equation are defined by $u(x,t) = \varphi_{x}(x,t)$. For $p$ an
+arbitrary continuous parameter $0< p \leq 2 ,l=p+2$ we find compacton solutions
+to these equations which have the feature that their width is independent of
+the amplitude. This generalizes previous results which considered $p=1,2$. For
+the exact compactons we find a relation between the energy, mass and velocity
+of the solitons. We show that this relationship can also be obtained using a
+variational method based on the principle of least action.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 00:27:36 GMT""}]","2009-10-22"

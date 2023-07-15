@@ -1,0 +1,23 @@
+"hep-ph/9301202","Jeff Forshaw","J.R.Forshaw","On the Validity of Perturbative Evolution of Structure Functions from
+  Low $Q^2$","13 pages, RAL 92-073","Phys.Lett.B314:425-429,1993","10.1016/0370-2693(93)91261-K",,"hep-ph",,"  The validity of using QCD perturbation theory to generate dynamically the
+parton distribution functions of hadrons, starting from a valencelike input at
+low $Q^2$, is discussed. In particular, we consider the prescription of Barone
+{\em et al} who evolve from $Q^2 = 0$, and that of Gl\""uck {\em et al} who
+start evolution from $Q^2 \simeq (2\Lambda_{QCD})^2$.
+","[{""version"":""v1"",""created"":""Mon, 4 Jan 1993 11:40:00 GMT""}]","2008-11-26"
+"hep-ph/9301203",,"R. Decker and E. Mirkes","Measuring the Wess-Zumino Anomaly in Tau Decays","16 pages (latex) 14 figures (post-script) available upon request,
+  TTP92-33","Phys.Rev. D47 (1993) 4012-4021","10.1103/PhysRevD.47.4012",,"hep-ph",,"  We propose to measure the Wess-Zumino anomaly contribution by considering
+angular distributions in the decays $\tau\to\nu_\tau \eta\pi^{-}\pi^{0}$,
+$\tau\to\nu_\tau K^- \pi^{-} K^+ $ and $\tau\to\nu_\tau K^- \pi^- \pi^+$.
+Radial excitations of the $K^*$, which cannot be seen in $e^++e^-$, should be
+observed in the $ K^- \pi^+ \pi^-$ decay channel.
+","[{""version"":""v1"",""created"":""Mon, 4 Jan 1993 15:05:00 GMT""},{""version"":""v2"",""created"":""Mon, 4 Jan 1993 15:55:00 GMT""}]","2009-10-22"
+"hep-th/9301010","Alok Kumar","Abbas Ali and Alok Kumar","A New $N = 4$ Superconformal Algebra","10 pages, Latex, IP/BBSR/92-90","Mod.Phys.Lett. A8 (1993) 1527-1532","10.1142/S0217732393001252",,"hep-th",,"  It is shown that the previously known $N=3$ and $N=4$ superconformal algebras
+can be contracted consistently by singular scaling of some of the generators.
+For the later case, by a contraction which depends on the central term, we
+obtain a new $N=4$ superconformal algebra which contains an $SU(2)\times
+{U(1)}^4$ Kac-Moody subalgebra and has nonzero central extension.
+","[{""version"":""v1"",""created"":""Mon, 4 Jan 1993 13:06:16 GMT""}]","2015-06-26"
+"math/9301202","Doron Zeilberger","Doron Zeilberger (Temple University)","Theorems for a Price: Tomorrow's Semi-Rigorous Mathematical Culture","Plain TeX","Notices of the Amer. Math. Soc. 40(1993), 978-981",,,"math.CO",,"  The future of mathematics is described, by using the WZ algorithmic proof
+theory as a parable.
+","[{""version"":""v1"",""created"":""Sun, 3 Jan 1993 20:34:57 GMT""}]","2008-02-03"

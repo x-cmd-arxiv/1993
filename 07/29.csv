@@ -1,0 +1,268 @@
+"alg-geom/9307008","Mikhail S. Verbitsky","Misha Verbitsky","Hyperholomorphic bundles","43 pages, LaTeX","Journ. of Alg. Geom., vol. 5 no. 4 pp. 633-669",,,"alg-geom math.AG",,"  Hyperholomorphic bundle is a bundle with connection defined over a
+hyperkaehler manifold such that this connection is holomorphic with respect to
+all complex structures induced by a hyperkaehler structure. A hyperholomorphic
+connection is Yang-Mills. If a stable bundle has first two Chern classes
+invariant with respect to ${\Bbb H}$, then it admits a hyperholomorphic
+connection. Deformation spaces of hyperholomorphic bundles are hyperkaehler.
+There are no higher obstructions to a deformation besides Ioneda product. This
+deformation space does not depend on a base manifold.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 01:49:54 GMT""}]","2008-02-03"
+"alg-geom/9307009","Mikhail S. Verbitsky","Misha Verbitsky","Hyperkaehler and holomorphic symplectic geometry","12 pages, LaTeX","Journ. of Alg. Geom., vol. 5 no. 3 pp. 401-415 (1996)",,,"alg-geom math.AG",,"  We prove that all complex analytic subvarieties of a generic compact
+hyperkaehler manifold are even-dimensional. Moreover, these subvarieties are
+holomorphically symplectic.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 01:59:29 GMT""}]","2008-02-03"
+"astro-ph/9307038","Amos Yahil","A. Nusser, A. Dekel, and A. Yahil","Evidence for Gaussian Initial Fluctuations from the 1.2 Jy IRAS Survey","16 pages, 4 figures, compressed and uunecoded PostScript",,,,"astro-ph",,"  We recover the one-point probability distribution function of the {\it
+initial} density fluctuations (\ipdf) from the quasi-linear galaxy density
+field of the 1.2 Jy \iras\ redshift survey smoothed by $10\hmpc$. The recovery,
+using the laminar, Eulerian, Zel'dovich approximation of Nusser and Dekel, is
+independent of $\Omega$ and is relatively insensitive to linear galaxy biasing
+in the range $0.5 \leq b \leq 2$. Errors due to discrete sampling, the limited
+survey volume, and the method of recovering the \ipdf\ are evaluated by
+comparing the \ipdf\ determined from the \iras\ data with Monte-Carlo
+\iras-like catalogs ``observed"" from $N$-body simulations of CDM models with
+Gaussian initial conditions. Eight sensitive statistical tests used in this
+comparison find the \iras\ \ipdf\ to be consistent with Gaussian. We provide
+observational constraints on possible deviations from Gaussianity, which should
+be obeyed by any theoretical model.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 04:53:44 GMT""}]","2009-09-25"
+"cond-mat/9307058","Kikuo Harigaya ""Harry-chan""","Kikuo Harigaya and G. A. Gehring (Department of Physics, University of
+  Sheffield, Sheffield, United Kingdom)","Elastic anomaly of heavy fermion systems in a crystalline field II","LaTeX file, 7 pages, 1 figure, Please request the figure to one of
+  Authors. It will be sent by the snail mail","J. Phys.: Condens. Matter 6 (1994) 977-984","10.1088/0953-8984/6/5/007",,"cond-mat",,"  An elastic anomaly, observed in the heavy Fermi liquid state of Ce alloys
+(for example, CeCu_6 and CeTe), is analyzed by using the infinite-U Anderson
+lattice model. Four atomic energy levels are assumed for f-electrons. Two of
+them are mutually degenerate. A small crystalline splitting 2 Delta is assumed
+between two energy levels. Fourfold degenerate conduction bands are also
+considered. We solve the model using the mean field approximation to slave
+bosons and the renormalized elastic constant is calculated. The temperature
+dependence of the constant shows the downward dip. The result is compared with
+the experimental data of CeTe.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 19:15:46 GMT""}]","2007-05-23"
+"cond-mat/9307059","Francois David","F. David, B. Duplantier and E. Guitter","Renormalization and Hyperscaling for Self-Avoiding Manifold Models","10 pages + 1 figure, TeX + harvmac & epsf (uuencoded file),
+  SPhT/93-074",,"10.1103/PhysRevLett.72.311",,"cond-mat hep-th",,"  The renormalizability of the self-avoiding manifold (SAM) Edwards model is
+established. We use a new short distance multilocal operator product expansion
+(MOPE), which extends methods of local field theories to a large class of
+models with non-local singular interactions. This validates the direct
+renormalization method introduced before, as well as scaling laws. A new
+general hyperscaling relation for the configuration exponent gamma is derived.
+Manifolds at the Theta-point, and long range Coulomb interactions are briefly
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 15:35:00 GMT""}]","2009-10-22"
+"gr-qc/9307037",,"David Hochberg, Thomas W. Kephart and James W. York, Jr","Effective Potential of a Black Hole in Thermal Equilibrium with Quantum
+  Fields","25 pages (not including seven figures), VAND-TH-93-6. Typed in Latex,
+  uses RevTex macros","Phys.Rev.D49:5257-5265,1994","10.1103/PhysRevD.49.5257",,"gr-qc",,"  Expectation values of one-loop renormalized thermal equilibrium stress-energy
+tensors of free conformal scalars, spin-${1 \over 2}$ fermions and U(1) gauge
+fields on a Schwarzschild black hole background are used as sources in the
+semi-classical Einstein equation. The back-reaction and new equilibrium metric
+are solved for at $O({\hbar})$ for each spin field. The nature of the modified
+black hole spacetime is revealed through calculations of the effective
+potential for null and timelike orbits. Significant novel features affecting
+the motions of both massive and massless test particles show up at lowest order
+in $\epsilon= (M_{Pl}/M)^2 < 1$, where $M$ is the renormalized black hole mass,
+and $M_{Pl}$ is the Planck mass. Specifically, we find the tendency for
+\underline{stable} circular photon orbits, an increase in the black hole
+capture cross sections, and the existence of a gravitationally repulsive region
+associated with the black hole which is generated from the U(1) back-reaction.
+We also consider the back-reaction arising from multiple fields, which will be
+useful for treating a black hole in thermal equilibrium with field ensembles
+belonging to gauge theories.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 21:46:51 GMT""}]","2012-08-27"
+"hep-lat/9307021","Sokal","Sergio Caracciolo, Andrea Pelissetto and Alan D. Sokal","A General Limitation on Monte Carlo Algorithms of Metropolis Type","8 pages, LaTeX plus subeqnarray.sty (included at end),
+  NYU-TH-93/07/01, IFUP-TH33/93","Phys.Rev.Lett.72:179-182,1994","10.1103/PhysRevLett.72.179",,"hep-lat",,"  We prove that for any Monte Carlo algorithm of Metropolis type, the
+autocorrelation time of a suitable ``energy''-like observable is bounded below
+by a multiple of the corresponding ``specific heat''. This bound does not
+depend on whether the proposed moves are local or non-local; it depends only on
+the distance between the desired probability distribution $\pi$ and the
+probability distribution $\pi^{(0)}$ for which the proposal matrix satisfies
+detailed balance. We show, with several examples, that this result is
+particularly powerful when applied to non-local algorithms.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 23:37:23 GMT""}]","2010-11-11"
+"hep-ph/9307355",,"U. Baur, S. Errede and G. Landsberg","Rapidity Correlations in $W\gamma$ Production at the Tevatron","LaTeX, 9 pages, 3 postscript figures in a separate uuencoded file,
+  FSU-HEP-930727, to appear in the Proceedings of the Workshop ``Physics at
+  Current Accelerators and the Supercollider'', Argonne National Laboratory,
+  June~2 --~5, 1993",,,,"hep-ph",,"  We study the correlation of photon and charged lepton pseudorapidities,
+$\eta(\gamma)$ and $\eta(\ell)$, $\ell=e,\,\mu$, in $p\bar p\rightarrow
+W^\pm\gamma+X\rightarrow \ell^\pm p\llap/_T\gamma+X$ at the Tevatron. In the
+Standard Model, the $\Delta\eta(\gamma,\ell)= \eta(\gamma) - \eta(\ell)$
+differential cross section is found to exhibit a pronounced dip at
+$\Delta\eta(\gamma,\ell) \approx \mp 0.4$, which originates from the radiation
+zero present in $q\bar q'\rightarrow W\gamma$. The sensitivity of the
+$\Delta\eta(\gamma,\ell)$ distribution to higher order QCD corrections,
+non-standard $WW\gamma$ couplings, and the cuts imposed is explored. The
+$\Delta\eta(\gamma,\ell)$ distribution is compared with other quantities which
+are sensitive to the radiation zero.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 16:15:42 GMT""}]","2007-05-23"
+"hep-ph/9307356","Dimitri Diakonov","D.Diakonov and V.Petrov (Ruhr-University Bochum, Germany)","Non-Perturbative Isotropic Multi-Particle Production in Yang--Mills
+  Theory","RUB preprint 52/93, 39p. Two figures (out of four) included at the
+  end as uudecoded poscript file. Two other figures can be sent upon request:
+  E-mail to diakonov@lnpi.spb.su","Phys.Rev.D50:266-282,1994","10.1103/PhysRevD.50.266",,"hep-ph",,"  We use singular Euclidean solutions to find multi-particle production cross
+sections in field theories. We investigate a family of time-dependent O(3)
+symmetrical solutions of the Yang--Mills equations, which govern the isotropic
+high-energy gauge boson production. At low energies our approach reproduces the
+instanton-induced cross sections. For higher energies we get new results. In
+particular, we show that the cross section for isotropic multiparticle
+production remains exponentially small in the running gauge coupling constant.
+The result applies both to the baryon number violation in the electro-weak
+theory and to the QCD jet production. We find that the isotropic multi-gluon
+production cross section falls off approximately as a ninth power of energy but
+possibly might be observable
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 19:19:15 GMT""}]","2010-11-01"
+"hep-ph/9307357","Marek Jezabek","M.Je\.zabek and C. J\""unger","Energy of W distribution in top quark decays","Karlsruhe Univ. preprint TTP 93-20, 8p., 2 figures not included","Acta Phys.Polon. B24 (1993) 1923-1930",,,"hep-ph",,"  A relatively simple analytical formula is derived for the energy spectrum of
+$W$ boson in top quark decays $t\to Wb$ including ${\cal O}(\alpha_s)$
+radiative corrections. We discuss the accuracy of this formula and compare it
+to a more general albeit more complicated one derived in \cite{CJK}~. A Monte
+Carlo algorithm for generation of $W$ energy spectrum is briefly described.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 23:25:00 GMT""}]","2007-05-23"
+"hep-ph/9307358","Marek Jezabek","Marek Je\.zabek, Johann H. K\""uhn and Thomas Teubner","Radiative Corrections to the top quark width","Karlsruhe Univ. preprint TTP 93-21, 6p., 2 figures not included (Talk
+  presented by M. Je\.zabek at the Workshop on Physics and Experiments at
+  Linear $e^+e^-$ Colliders, Waikoloa, Hawaii, April 1993)",,,,"hep-ph",,"  Calculations of radiative corrections to the top quark width are reviewed.
+QCD effects are discussed for $t-\bar t$ systems produced in $e^+e^-$
+annihilation near the energy threshold.}
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 23:31:00 GMT""}]","2007-05-23"
+"hep-ph/9307359","Bob Holdom","B. Holdom","Cosmic balloons","9 pages, LaTeX, 2 figures in separate file, UPTP-93-18","Phys.Rev.D49:3844-3846,1994","10.1103/PhysRevD.49.3844",,"hep-ph astro-ph",,"  Cosmic balloons, consisting of relativistic particles trapped inside a
+spherical domain wall, may be created in the early universe. We calculate the
+balloon mass $M$ as a function of the radius $R$ and the energy density
+profile, $\rho (r)$, including the effects of gravity. At the maximum balloon
+mass $2GM/R\approx 0.52$ for any value of the mass density of the wall.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 22:59:31 GMT""},{""version"":""v2"",""created"":""Tue, 21 Dec 1993 22:48:48 GMT""}]","2009-12-30"
+"hep-ph/9307360","Alexander Ignatiev","A.Yu.Ignatiev and G.C.Joshi","Can the Electric Charges of Elementary Particles Change with Time?","9 pages, Physical Review D, in press, in REVTEX, UM-P-93/42","Phys.Rev.D48:4481-4483,1993","10.1103/PhysRevD.48.4481",,"hep-ph",,"  We present the limits on possible time variation of the electric charges of
+quarks and leptons at the time of primordial nucleosynthesis within a model
+with dequantized electric charges which allows for the case of charged neutrino
+and neutron.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 02:10:35 GMT""}]","2010-11-01"
+"hep-ph/9307361","Tao Han","Tao Han","Strongly-Interacting Electroweak Sector at Future Colliders","26 pages in LaTeX, 12 figures available upon request from
+  HAN@FNALV.FNAL.GOV. (Invited talk at the ``2$^{nd}$ International Workshop on
+  Physics and Experiments at Linear $e^+e^-$ Colliders"", Waikoloa, Hawaii,
+  April 26-30, 1993. ) FERMILAB-CONF-93/217-T",,,,"hep-ph",,"  If there are no light Higgs bosons found below $\cal O$(800 GeV) or so, the
+interactions among longitudinally-polarized vector bosons ($\wl$) will become
+strong at the TeV region, and new physics that is responsible for the
+electroweak symmetry breaking must emerge at this energy scale. We discuss the
+phenomenological prospects of the Strongly-interacting Electro-Weak Sector
+(SEWS) at future TeV linear colliders and hadronic supercolliders.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 05:02:34 GMT""}]","2007-05-23"
+"hep-ph/9307362","Rudolf Baier","R. Baier and A. Niegawa","Analytic Continuation of Thermal $N$-Point Functions from Imaginary- to
+  Real-Energies","15 pages (2 figures not included), typeset using REVTEX, BI-TP 93/39","Phys.Rev.D49:4107-4112,1994","10.1103/PhysRevD.49.4107",,"hep-ph",,"  We consider thermal $n$-point Green functions in the framework of quantum
+field theory at finite temperature. We show how analytic continuations from
+imaginary to real energies relate these functions originally defined in the
+imaginary-time formalism to retarded and advanced real-time ones. The described
+method is valid to all orders of perturbation theory. It has the further
+advantage that it is independent of approximations often applied in actual
+finite-order calculations.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 12:50:04 GMT""}]","2014-11-17"
+"hep-ph/9307363","Charles Gale","Charles Gale and Peter Lichard","Lepton pairs from thermal mesons","In ReVTeX 3.0, 9 figs. available from above email address. McGill
+  93/8, TPI-MINN-93/19-T","Phys.Rev. D49 (1994) 3338-3344","10.1103/PhysRevD.49.3338",,"hep-ph nucl-th",,"  We study the net dielectron production rates from an ensemble of thermal
+mesons, using an effective Lagrangian to model their interaction. The coupling
+between the electromagnetic and the hadronic sectors is done through the vector
+meson dominance approach. For the first time, a complete set of light mesons is
+considered. We include contributions from decays of the type
+V~(PS)~$\rightarrow$~PS~(V)~+~$e^+~e^-$, where V is a vector meson and PS is a
+pseudoscalar, as well as those from binary reactions PS~+~PS, V~+~V, and
+V~+~PS~$\rightarrow~e^+e^-$. Direct decays of the type V~$\rightarrow~e^+ e^-$
+are included and shown to be important. We find that the dielectron invariant
+mass spectrum naturally divides in distinct regions: in the low mass domain the
+decays from vector and pseudoscalar mesons form the dominant contribution. The
+pion--pion annihilation and direct decays then pick up and form the leading
+signal in an invariant mass region that includes the $\rho - \omega$ complex
+and extends up to the $\phi$. Above invariant mass $M\ \approx$~1~GeV other
+two-body reactions take over as the prominent mechanisms for lepton pair
+generation. These facts will have quantitative bearing on the eventual
+identification of the quark--gluon plasma.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 13:49:35 GMT""}]","2009-10-22"
+"hep-th/9307174",,"M. Bonini, M. D'Attanasio and G. Marchesini","Ward identities and Wilson renormalization group for QED","LaTex file, 26 pages. Figures available upon request. Parma preprint
+  UPRF 93-382","Nucl.Phys. B418 (1994) 81-112","10.1016/0550-3213(94)90239-9",,"hep-th hep-ph",,"  We analyze a formulation of QED based on the Wilson renormalization group.
+Although the ``effective Lagrangian'' used at any given scale does not have
+simple gauge symmetry, we show that the resulting renormalized Green's
+functions correctly satisfies Ward identities to all orders in perturbation
+theory. The loop expansion is obtained by solving iteratively the Polchinski's
+renormalization group equation. We also give a new simple proof of perturbative
+renormalizability. The subtractions in the Feynman graphs and the corresponding
+counterterms are generated in the process of fixing the physical conditions.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 17:28:35 GMT""}]","2009-10-22"
+"hep-th/9307175","Zhiqing","Z. Zhu and D. G. Caldi","Multi--Soliton Solutions of Affine Toda Models","Latex, 25 Pages, UB-TH-0193","Nucl.Phys.B436:659-680,1995","10.1016/0550-3213(94)00326-A",,"hep-th",,"  Hirota's method is used to construct multi--soliton and plane--wave solutions
+for affine Toda field theories with imaginary coupling.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 18:24:11 GMT""},{""version"":""v2"",""created"":""Sat, 12 Mar 1994 21:35:51 GMT""}]","2008-11-26"
+"hep-th/9307176",,"J. M. Isidro and A.V. Ramallo","Topological current algebras in two dimensions","16 pages","Phys.Lett. B316 (1993) 488-495","10.1016/0370-2693(93)91033-J",,"hep-th",,"  Two-dimensional topological field theories possessing a non-abelian current
+symmetry are constructed. The topological conformal algebra of these models is
+analysed. It differs from the one obtained by twisting the $N=2$ superconformal
+models and contains generators of dimensions $1$, $2$ and $3$ that close a
+linear algebra. Our construction can be carried out with one and two bosonic
+currents and the resulting theories can be interpreted as topological sigma
+models for group manifolds
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 21:50:36 GMT""}]","2009-10-22"
+"hep-th/9307177","Jim Horne","James H. Horne and Gary T. Horowitz","Cosmic Censorship and the Dilaton","16 pages, NSF-ITP-93-95","Phys.Rev.D48:5457-5462,1993","10.1103/PhysRevD.48.R5457",,"hep-th gr-qc",,"  We investigate extremal electrically charged black holes in
+Einstein-Maxwell-dilaton theory with a cosmological constant inspired by string
+theory. These solutions are not static, and a timelike singularity eventually
+appears which is not surrounded by an event horizon. This suggests that cosmic
+censorship may be violated in this theory.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 23:47:45 GMT""}]","2010-01-06"
+"hep-th/9307178","Oh phillial","Taejin Lee and Phillial Oh","Coherent State Quantization of SU(N) Non-Abelian Chern-Simons Particles","13 pages, Latex File, SNUTP-93-42","Phys.Lett. B319 (1993) 497-504","10.1016/0370-2693(93)91757-E",,"hep-th",,"  We present a new method of formulating the classical theory of $SU(N+1)$
+non-Abelian Chern-Simons (NACS) particles for arbitrary $N\geq 1$ using the
+symplectic reduction of $CP(N)$ manifold from $S^{2N+1}$. Quantizing the theory
+using BRST formulation and coherent state path integral method , we obtain a
+quantum mechanical model for $SU(N+1)$ NACS particles.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 02:47:34 GMT""}]","2009-10-22"
+"hep-th/9307179",,"Daniel Armand-Ugon, Rodolfo Gambini, Jorge Griego and Leonardo Setaro","Classical Loop Actions of Gauge Theories","LaTeX 14 pages","Phys.Rev.D50:5352-5357,1994","10.1103/PhysRevD.50.5352",,"hep-th gr-qc hep-lat",,"  Since the first attempts to quantize Gauge Theories and Gravity in the loop
+representation, the problem of the determination of the corresponding classical
+actions has been raised. Here we propose a general procedure to determine these
+actions and we explicitly apply it in the case of electromagnetism. Going to
+the lattice we show that the electromagnetic action in terms of loops is
+equivalent to the Wilson action, allowing to do Montecarlo calculations in a
+gauge invariant way. In the continuum these actions need to be regularized and
+they are the natural candidates to describe the theory in a ``confining
+phase''.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 04:25:37 GMT""}]","2010-11-01"
+"hep-th/9307180","Shin Hyun Jong","B.K. Chung, Soonkeon Nam, Q-Han Park, and H.J. Shin","Possible Tests of Conformal Turbulence through Boundaries","11pages, KHTP-93-08, SNUCTP-93-38","Phys.Lett.B317:97-101,1993","10.1016/0370-2693(93)91576-9",,"hep-th",,"  We investigate various boundary conditions in two dimensional turbulence
+systematically in the context of conformal field theory. Keeping the conformal
+invariance, we can either change the shape of boundaries through finite
+conformal transformations, or insert boundary operators so as to handle more
+general cases. Effects of such operations will be reflected in physically
+measurable quantities such as the energy power spectrum $E(k)$ or the average
+velocity profiles. We propose that these effects can be used as a possible test
+of conformal turbulence in an experimental setting. We also study the periodic
+boundary conditions, i.e. turbulence on a torus geometry. The dependence of
+moduli parameter $q$ appears explictly in the one point functions in the
+theory, which can also be tested.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 04:45:55 GMT""}]","2010-02-05"
+"hep-th/9307181","M. Yoshimura","M.Hotta and M.Yoshimura","Wormhole and Hawking Radiation","9 pages, TU-93-440","Prog.Theor.Phys. 91 (1994) 181-186","10.1143/ptp/91.1.181",,"hep-th gr-qc",,"  It is shown in a variant of two dimensional dilaton gravity theories that an
+arbitrary, localized massive source put in an initially regular spacetime gives
+rise to formation of the wormhole classically, without accompanying the
+curvature singularity. The semiclassical quantum correction under this wormhole
+spacetime yields Hawking radiation. It is expected, with the quantum back
+reaction added to the classical equation, that the information loss paradox may
+be resolved in this model.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 08:29:18 GMT""},{""version"":""v2"",""created"":""Mon, 2 Aug 1993 10:02:36 GMT""},{""version"":""v3"",""created"":""Wed, 11 Aug 1993 04:28:21 GMT""},{""version"":""v4"",""created"":""Thu, 12 Aug 1993 07:14:20 GMT""}]","2017-02-01"
+"hep-th/9307183","Matthias R. Gaberdiel","M. Gaberdiel","Fusion in conformal field theory as the tensor product of the symmetry
+  algebra","21 pages, Latex, DAMTP-93-38","Int.J.Mod.Phys. A9 (1994) 4619-4636","10.1142/S0217751X94001849",,"hep-th",,"  Following a recent proposal of Richard Borcherds to regard fusion as the
+ring-like tensor product of modules of a {\em quantum ring}, a generalization
+of rings and vertex operators, we define fusion as a certain quotient of the
+(vector space) tensor product of representations of the symmetry algebra ${\cal
+A}$. We prove that this tensor product is associative and symmetric up to
+equivalence. We also determine explicitly the action of ${\cal A}$ on it, under
+which the central extension is preserved. \\ Having given a precise meaning to
+fusion, determining the fusion rules is now a well-posed algebraic problem,
+namely to decompose the tensor product into irreducible representations. We
+demonstrate how to solve it for the case of the WZW- and the minimal models and
+recover thereby the well-known fusion rules. \\ The action of the symmetry
+algebra on the tensor product is given in terms of a comultiplication. We
+calculate the $R$-matrix of this comultiplication and find that it is
+triangular. This seems to shed some new light on the possible r\^{o}le of the
+quantum group in conformal field theory.
+","[{""version"":""v1"",""created"":""Thu, 29 Jul 1993 15:11:51 GMT""}]","2015-06-26"
+"nucl-th/9307026",,"J.Resag, C.R.M\""unz, B.C.Metsch, H.R.Petry","Analysis of the instantaneous Bethe-Salpeter equation for
+  \(q\bar{q}\)-bound-states","11 pages, RevTeX, TK-93-13","Nucl.Phys. A578 (1994) 397-417","10.1016/0375-9474(94)90753-6",,"nucl-th hep-ph",,"  We investigate the structure of the instantaneous Bethe-Salpeter equation for
+\(q\bar{q}\)-bound states in the general case of unequal quark masses and
+develop a numerical scheme for the calculation of mass spectra and
+Bethe-Salpeter amplitudes. In order to appreciate the merits of the various
+competing models beyond the reproduction of the mass spectra we present
+explicit formulas to calculate electroweak decays. The results for an explicit
+quark model will be compared to experimental data in a subsequent paper
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 17:12:42 GMT""}]","2009-10-22"
+"nucl-th/9307027",,"C.R.M\""unz, J.Resag, B.C.Metsch, H.R.Petry","A Bethe-Salpeter model for light mesons: spectra and decays","12 pages, RevTeX, TK-93-14","Nucl.Phys.A578:418-440,1994","10.1016/0375-9474(94)90754-4",,"nucl-th hep-ph",,"  The spectra and electroweak decay properties of light mesons are analyzed
+within the framework of the instantaneous Bethe-Salpeter equation. The
+interaction kernel comprises alternative spin-structures for a parameterization
+of confinement and a residual quark-antiquark interaction based on instanton
+effects. It is shown that only with a vector confinement the parameters can be
+chosen such as to yield an excellent description of the light pseudoscalar and
+vector mesons including weak and two photon decays. However it is found that it
+is not possible to reconcile this with the Regge behavior of higher lying meson
+states with the same parameter set.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 17:14:21 GMT""}]","2011-07-19"

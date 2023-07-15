@@ -1,0 +1,142 @@
+"cond-mat/9312096","Jinlong Yang","Yang Jinlong, F.Toigo, Wang Kelin, and Zhang Manhong","Anomalous Magnetic Properties of Rh$_13$ Clusters","12 pages with 4 figure(available on request), REVTEX3.0",,,"USTC-GCMT-94-001","cond-mat",,"  Electronic structures of 13-atom Rh clusters with three possible
+high-symmetry geometries are studied using the discrete-variational
+local-spin-density-functional method. The ground state is found to be the
+icosahedral structure, and a total magnetic moment of 15$\mu_B$ is obtained for
+the cluster. This value is anomalously smaller than those for clusters with
+lower symmetries, but in agreement with recent experiments. The magnetic
+interactions between the central and surface atoms of the cluster are {\it not}
+fully ferromagnetic, and a small amount of antiferromagnetic interactions is
+found to be mixed in. An energy parameter is introduced to explain the
+anomalous magnetic properties, which is found to be also useful for judging
+whether some techniques can or must be used in the
+local-spin-density-functional calculations.
+","[{""version"":""v1"",""created"":""Fri, 31 Dec 1993 11:50:58 GMT""}]","2007-05-23"
+"hep-lat/9312088","James Simone","UKQCD Collaboration, James N. Simone","The Isgur-Wise Function: A Lattice Determination from Pseudoscalar -->
+  Pseudoscalar Form Factors","at LATTICE 93. (4 pages, LaTeX, 1 PostScript figure appended)
+  Edinburgh 93/539, FERMILAB-CONF-93/390-T","Nucl.Phys.Proc.Suppl.34:486-488,1994","10.1016/0920-5632(94)90425-1",,"hep-lat",,"  Form factors for pseudoscalar --> pseudoscalar decays of heavy-light mesons
+are found in quenched lattice QCD with heavy-quark masses in the range of
+approximately 1-2 GeV. The Isgur-Wise function, $\xi(\omega)$, is extracted
+from these form factors. Results are in good agreement with $\xi(\omega)$
+derived from CLEO measurements for B --> D*.
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 22:13:07 GMT""}]","2010-11-01"
+"hep-ph/9312357","Ed Stoeffhaas","A. Duff and D. Zeppenfeld","Heavy Higgs Boson Production in Association with Three Jets at Hadron
+  Supercolliders","29 pages, uses Revtex version 3. 12 postscript figures, uufiled and
+  submitted to hep-ph. MAD/PH/800","Phys.Rev. D50 (1994) 3204-3217","10.1103/PhysRevD.50.3204",,"hep-ph",,"  We consider the real emission QCD correction to heavy Higgs boson production
+via weak boson fusion in high energy $pp$ collisions. The ${\cal O}(\alpha_s)$
+corrections are determined for the complete electroweak $q q \rightarrow q q
+W^+ W^-$ process. The presence of a third parton in the final state affects the
+formation of rapidity gaps only slightly. In particular, soft emission into the
+gap region is severely suppressed. Also, we investigate how the additional hard
+emission affects forward-jet-tagging and central-jet-vetoing efficiencies in
+the search for $H \rightarrow W^+ W^- \rightarrow \ell^+ \nu \ell^- \bar{\nu}$
+decays.
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 21:37:25 GMT""}]","2009-10-22"
+"hep-ph/9312358",,"Brian H.Smith and M.B. Voloshin","E+ E- -> Tau+ Tau- at the Threshold and Beyond","7 pages, 1 figure (LaTeX, figure appended in PostScript),
+  UMN-TH-1232/93, TPI-MINN-93/61-T","Phys.Lett. B324 (1994) 117-120; Erratum-ibid. B333 (1994) 564","10.1016/0370-2693(94)00095-6",,"hep-ph",,"  The excitation curve for the $\tau^+ \, \tau^-$ production in electron
+positron annihilation near the threshold is revisited with the aim of updating
+and extending a previous work. We find that the corrections of the relative
+magnitude $O(\alpha)$ near the threshold are significantly contributed by the
+radiative modification of the Coulomb interaction between the $\tau$ leptons.
+The interpolation between the Coulomb effects at the threshold and the
+relativistic effects at higher energies is considered and the resulting formula
+is argued to have relative accuracy up to, but not including, terms of the
+order of $\alpha^2$ at any velocity of the $\tau$ leptons.
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 21:57:37 GMT""}]","2009-10-22"
+"hep-ph/9312359","Arkady Vainshtein","I.I.Bigi, M.A.Shifman, N.G.Uraltsev, A.I.Vainshtein","On the Motion of Heavy Quarks inside Hadrons: Universal Distributions
+  and Inclusive Decays","34 pages, Latex, 4 figures. Some clarifying comments and postscript
+  files of figures are added","Int.J.Mod.Phys. A9 (1994) 2467-2504","10.1142/S0217751X94000996",,"hep-ph",,"  In previous papers we have pointed out that there exists a QCD analog of the
+phenomenological concept of the so called Fermi motion for the heavy quark
+inside a hadron. Here we show in a more detailed way how this comes about and
+we analyze the limitations of this concept. Non-perturbative as well as
+perturbative aspects are included. We emphasize both the similarities and the
+differences to the well-known treatment of deep inelastic lepton-nucleon
+scattering. We derive a model-independent {\em lower} bound on the kinetic
+energy of the heavy quark inside the hadron.
+","[{""version"":""v1"",""created"":""Fri, 31 Dec 1993 05:45:29 GMT""},{""version"":""v2"",""created"":""Fri, 7 Jan 1994 08:46:01 GMT""}]","2009-10-22"
+"hep-ph/9312361","Anirban Kundu","A. Kundu, S. Raychaudhuri, T. De and B. Dutta-Roy","Radiative Corrections to $\zbb$ from Colored Scalars in a Model with
+  Dynamical Symmetry Breaking","9 pages + 3 figures (available upon request), TeX file. Saha
+  Institute Preprint no. SINP-TNP/93-22 (December 1993)","Phys.Rev. D50 (1994) 6872-6876","10.1103/PhysRevD.50.6872",,"hep-ph",,"  Isodoublet color-octet scalar bosons appear in the low-energy limit of a
+natural extension of the Standard Model in which the electroweak symmetry is
+broken by a $t\bar t$ condensate. We briefly discuss the model and show that
+radiative corrections (involving these scalars) to the branching ratio
+$R_b=\Gamma (Z\rightarrow b\bar b)/\Gamma (Z\rightarrow {\rm hadrons})$ are
+negative and thus place a stringent lower bound on the masses of the colored
+scalars. This turns out to be $\sim 400$ GeV with $m_t=150$ GeV and increases
+quadratically with $m_t$. It is emphasized that $R_b$ is a parameter that is
+well-determined experimentally and that theoretical estimates are relatively
+free from uncertainties emanating from hadronic corrections and are
+comparatively insensitive to the value of the top mass.
+","[{""version"":""v1"",""created"":""Fri, 31 Dec 1993 14:15:15 GMT""}]","2009-10-22"
+"hep-th/9312210","Andrei Mironov","S.Kharchev, A.Marshakov, A.Mironov, A.Morozov","Generalized Kazakov-Migdal-Kontsevich Model: group theory aspects","29 pages, UUITP-10/93, FIAN/TD-07/93, ITEP-M4/93","Int. J. Mod. Phys. A10 (1995) 2015","10.1142/S0217751X9500098X",,"hep-th nlin.SI solv-int",,"  The Kazakov-Migdal model, if considered as a functional of external fields,
+can be always represented as an expansion over characters of $GL$ group. The
+integration over ""matter fields"" can be interpreted as going over the {\it
+model} (the space of all highest weight representations) of $GL$. In the case
+of compact unitary groups the integrals should be substituted by {\it discrete}
+sums over weight lattice. The $D=0$ version of the model is the Generalized
+Kontsevich integral, which in the above-mentioned unitary (discrete) situation
+coincides with partition function of the $2d$ Yang-Mills theory with the target
+space of genus $g=0$ and $m=0,1,2$ holes. This particular quantity is always a
+bilinear combination of characters and appears to be a Toda-lattice
+$\tau$-function. (This is generalization of the classical statement that
+individual $GL$ characters are always singular KP $\tau$-functions.) The
+corresponding element of the Universal Grassmannian is very simple and somewhat
+similar to the one, arising in investigations of the $c=1$ string models.
+However, under certain circumstances the formal sum over representations should
+be evaluated by steepest descent method and this procedure leads to some more
+complicated elements of Grassmannian. This ""Kontsevich phase"" as opposed to the
+simple ""character phase"" deserves further investigation.
+","[{""version"":""v1"",""created"":""Fri, 31 Dec 1993 14:09:00 GMT""}]","2009-10-22"
+"hep-th/9312211",,"J. Finkelstein","The Projection Postulate of Quantum Mechanics on the Lightcone","5 pages, LaTex, SJSU/TP-93-11",,"10.1016/0375-9601(84)90004-5",,"hep-th",,"  We discuss an interpretation of the projection postulate that implies
+collapse of the wavefunction along the lightcone.
+","[{""version"":""v1"",""created"":""Fri, 31 Dec 1993 15:57:36 GMT""}]","2009-10-22"
+"hep-th/9312212","Andrei Mironov","A.Mironov","$2d$ gravity and matrix models. I. $2d$ gravity","33 pages, FIAN/TD-24/93, UBC/S-95/93","Int.J.Mod.Phys.A9:4355-4406,1994","10.1142/S0217751X94001746",,"hep-th",,"  Some approaches to $2d$ gravity developed for the last years are reviewed.
+They are physical (Liouville) gravity, topological theories and matrix models.
+A special attention is paid to matrix models and their interrelations with
+different approaches. Almost all technical details are omitted, but examples
+are presented.
+","[{""version"":""v1"",""created"":""Fri, 31 Dec 1993 14:34:00 GMT""}]","2011-04-15"
+"hep-th/9312213","Andrei Mironov","A. Mironov, A. Morozov, L. Vinet","On a c-number quantum $\tau$-function","12 pages, ITEP M-8/93, FIAN/TD-22/93, CRM-1934 (minor changes)","Theor.Math.Phys.100:890-899,1995; Teor.Mat.Fiz.100:119-131,1994","10.1007/BF01017328",,"hep-th nlin.SI solv-int",,"  We first review the properties of the conventional $\tau$-functions of the KP
+and Toda-lattice hierarchies. A straightforward generalization is then
+discussed. It corresponds to passing from differential to finite-difference
+equations; it does not involve however the concept of operator-valued
+$\tau$-function nor the one associated with non-Cartanian (level $k\ne1$)
+algebras. The present study could be useful to understand better $q$-free
+fields and their relation to ordinary free fields.
+","[{""version"":""v1"",""created"":""Fri, 31 Dec 1993 14:43:00 GMT""},{""version"":""v2"",""created"":""Wed, 12 Jan 1994 17:08:00 GMT""}]","2011-04-20"
+"hep-th/9312214","Romesh Kaul","R. K. Kaul","The representations of Temperley-Lieb-Jones algebras","24 pages","Nucl.Phys. B417 (1994) 267-288","10.1016/0550-3213(94)90547-9",,"hep-th math.QA",,"  Representations of braid group obtained from rational conformal field
+theories can be used to obtain explicit representations of Temperley-Lieb-Jones
+algebras. The method is described in detail for SU(2)$_k$ Wess - Zumino
+conformal field theories and its generalization to an arbitrary rational
+conformal field theory outlined. Explicit definition of an associated linear
+trace operation in terms of a certain matrix element in the space of conformal
+blocks of such a conformal theory is presented. Further for every primary field
+of a rational conformal field theory, there is a subfactor of hyperfinite
+II$_1$ factor with trivial relative commutant. The index of the subfactor is
+given in terms of identity - identity element of certain duality matrix for
+conformal blocks of four-point correlators. Jones formula for index ( $<$ 4 )
+for subfactors corresponds to spin ${\frac{1}{2}}$ representation of SU(2)$_k$
+Wess-Zumino conformal field theory. Definition of the trace operation also
+provides a method of obtaining link invariants explicitly.
+","[{""version"":""v1"",""created"":""Fri, 31 Dec 1993 09:29:22 GMT""}]","2009-10-22"
+"math/9312201",,"Puqi Tang","Quasiconformal Homeomorphisms on CR 3-Manifolds With Symmetries",,,,,"math.CV",,"  An extremal quasiconformal homeomorphisms in a class of homeomorphisms
+between two CR 3-manifolds is an one which has the least conformal distortion
+among this class. This paper studies extremal quasiconformal homeomorphisms
+between CR 3-manifolds which admit transversal CR circle actions. Equivariant
+$K$-quasiconformal homeomorphisms are characterized by an area-preserving
+property and the $K$-quasiconformality of their quotient maps on the spaces of
+$S^1$-orbits. A large family of invariant CR structures on $S^3$ is constructed
+so that the extremal quasiconformal homeomorphisms among the equivariant
+mappings between them and the standard structure are completely determined.
+These homeomorphisms also serve as examples showing that the extremal
+quasiconformal homeomorphisms between two invariant CR manifolds are not
+necessarily equivariant.
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 22:44:50 GMT""}]","2008-02-03"
+"math/9312202",,"Puqi Tang","Regularity And Extremality Of Quasiconformal Homeomorphisms On CR
+  3-Manifolds",,,,,"math.CV",,"  This paper first studies the regularity of conformal homeomorphisms on smooth
+locally embeddable strongly pseudoconvex CR manifolds. Then moduli of curve
+families are used to estimate the maximal dilatations of quasiconformal
+homeomorphisms. On certain CR 3-manifolds, namely, CR circle bundles over flat
+tori, extremal quasiconformal homeomorphisms in some homotopy classes are
+constructed. These extremal mappings have similar behaviors to Teichm\""uller
+mappings on Riemann surfaces.
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 22:44:53 GMT""}]","2009-09-25"

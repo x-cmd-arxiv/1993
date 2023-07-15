@@ -1,0 +1,338 @@
+"alg-geom/9310002","Yujiro Kawamata","Yujiro Kawamata","General hyperplane sections of nonsingular flops in dimension 3","3 pages, AMS-TEX",,,,"alg-geom math.AG",,"  We give a simple proof of a theorem of Katz and Morrison.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 07:19:49 GMT""}]","2008-02-03"
+"astro-ph/9310007",,"John F.L. Simmons, Andrew Newsam, Martin Hendry","Potent and Max-Flow Algorithms","9 pages includeing 5 figures, uuencoded compressed PostScript, for
+  Cosmic Velocity Fields, IAP Paris July 1993. UG-COS-JFLS-001",,,,"astro-ph",,"  Although Potent purports to use only radial velocities in retrieving the
+potential velocity field of galaxies, the derivation of transverse components
+is implicit in the smoothing procedures. Thus the possibility of using
+nonradial line integrals to derive the velocity field arises. In the case of
+inhomogeneous distributions of galaxies, the optimal path for integration need
+not be radial, and can be obtained by using max-flow algorithms. In this paper
+we present the results of using Dijkstra's algorithm to obtain this optimal
+path and velocity field.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 17:31:00 GMT""}]","2007-05-23"
+"astro-ph/9310008",,"Andrew Newsam, John F.L. Simmons, Martin Hendry","Bias in Velocity Field Recoveries","10 pages including 5 figures, uuencoded compressed PostScript, for
+  Cosmic Velocity Fields, IAP Paris July 1993. UG-COS-AMN-001",,,,"astro-ph",,"  We investigate the effect of using different distance estimators on the
+recovery of the peculiar velocity field of galaxies using Potent. An
+inappropriate choice of distance estimator will give rise to spurious flows. We
+discuss methods of minimising these biases and the levels of accuracy required
+of distance estimators to retrieve velocity fields to a given standard.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 17:34:00 GMT""}]","2007-05-23"
+"astro-ph/9310009","Albert Stebbins","Albert Stebbins","Bayesian Estimates of the Large-Scale Velocity Field in Real Space and
+  Redshift Space","10, PostScript, FERMILAB-Conf-93/295-A",,,,"astro-ph",,"  Methods for inferring the velocity field from the peculiar velocity data are
+described and applied to old and newer data. Inhomogeneous Malmquist bias and
+ways to avoid it are discussed and utilized. We infer that these biases are
+probably important in interpreting the data.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 21:46:15 GMT""}]","2007-05-23"
+"comp-gas/9310001","U. Chen","Yu Chen, Hirotada Ohashi and Mamoru Akiyama (Department of Quantumn
+  Engineering and Systems Science University of Tokyo, Japan)","Elimination of Nonlinear Deviations in Thermal Lattice BGK Models","4 pages, 1 table, 4 figures",,,,"comp-gas nlin.CG",,"  Abstracet: We present a new thermal lattice BGK model in D-dimensional space
+for the numerical calculation of fluid dynamics. This model uses a higher order
+expansion of equilibrium distribution in Maxwellian type. In the mean time the
+lattice symmetry is upgraded to ensure the isotropy of 6th order tensor. These
+manipulations lead to macroscopic equations free from nonlinear deviations. We
+demonstrate the improvements by conducting classical Chapman-Enskog analysis
+and by numerical simulation of shear wave flow. The transport coefficients are
+measured numerically, too.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 06:46:42 GMT""}]","2008-02-03"
+"cond-mat/9310006","Kareljan Schoutens","Kareljan Schoutens","Complete Solution of a Supersymmetric Extended Hubbard Model","16 pages, LaTex, PUPT-1420, CERN-TH.6982/93",,"10.1016/0550-3213(94)90007-8",,"cond-mat hep-th",,"  We show that the recently constructed exact solution of the $SU(2|2)$
+extended Hubbard model on a one-dimensional lattice provides a complete set of
+$4^L$ eigenstates of the hamiltonian, where $L$ is the length of the lattice.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 13:45:14 GMT""}]","2009-10-22"
+"hep-lat/9310003","Clive Baillie","C.F. Baillie and D.A. Johnston","2D O(3) + 2D QG","5 pages, COLO-HEP-324","Phys.Rev.D49:603-606,1994","10.1103/PhysRevD.49.603",,"hep-lat",,"  It has been suggested that the peak in the specific heat observed numerically
+for random surface actions with extrinsic curvature on dynamical lattices might
+be the result of a low mass bound state in an asymptotically free theory,
+rather than the signal for a real phase transition. The $O(3)$ model on a fixed
+lattice displays just such behaviour, but in general transitions appear to be
+weakened when the models concerned are put on dynamical lattices (ie coupled to
+2d quantum gravity). We have therefore performed simulations of the $O(3)$
+model on dynamical $\phi^3$ graphs to see if there is still a peak in the
+specific heat and compared the results with those on fixed lattices.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 16:02:06 GMT""}]","2008-11-26"
+"hep-lat/9310004","Stephen Sharpe","Stephen Sharpe and Apoorva Patel","Perturbative Corrections for Staggered Four-Fermion Operators","44 pages latex (uses psfig), 3 ps figures, all bundled using uufiles
+  (correctly this time!), UW/PT-93-1","Nucl.Phys.B417:307-356,1994","10.1016/0550-3213(94)90549-5",,"hep-lat",,"  We present results for one-loop matching coefficients between continuum
+four-fermion operators, defined in the Naive Dimensional Regularization scheme,
+and staggered fermion operators of various types. We calculate diagrams
+involving gluon exchange between quark lines, and ``penguin'' diagrams
+containing quark loops. For the former we use Landau gauge operators, with and
+without $O(a)$ improvement, and including the tadpole improvement suggested by
+Lepage and Mackenzie.For the latter we use gauge-invariant operators. Combined
+with existing results for two-loop anomalous dimension matrices and one-loop
+matching coefficients, our results allow a lattice calculation of the
+amplitudes for $K\bar K$ mixing and $K\to\pi\pi$ decays with all corrections of
+$O(g^2)$ included. We also discuss the mixing of $\Delta S=1$ operators with
+lower dimension operators, and show that, with staggered fermions, only a
+single lower dimension operator need be removed by non-perturbative
+subtraction.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 06:52:13 GMT""},{""version"":""v2"",""created"":""Tue, 5 Oct 1993 16:44:28 GMT""}]","2011-07-19"
+"hep-lat/9310005","Pierre van Baal","Pierre van Baal and Bas van den Heuvel","Zooming-in on the SU(2) fundamental domain","19p., 6 figs. appended in PostScript (uuencoded), preprint
+  INLO-PUB-12/93. Revision: ONLY change is a much more economic PostScript code
+  for figures 1-4 (with apologies)","Nucl.Phys. B417 (1994) 215-237","10.1016/0550-3213(94)90544-4",,"hep-lat hep-th",,"  For SU(2) gauge theories on the three-sphere we analyse the Gribov horizon
+and the boundary of the fundamental domain in the 18 dimensional subspace that
+contains the tunnelling path and the sphaleron and on which the energy
+functional is degenerate to second order in the fields. We prove that parts of
+this boundary coincide with the Gribov horizon with the help of bounds on the
+fundamental modular domain.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 15:19:12 GMT""},{""version"":""v2"",""created"":""Fri, 8 Oct 1993 15:42:24 GMT""}]","2009-10-22"
+"hep-ph/9310217","Rogerio Rosenfeld","R. Rosenfeld","Can $\gamma \gamma \rightarrow Z_L Z_L$ serve as a probe of the
+  electroweak symmetry breaking sector ?","14 pages, LaTex , 3 figures not included (available as post-script
+  files upon request), NUB-3074/93-Th","Mod.Phys.Lett. A9 (1994) 735-748","10.1142/S0217732394000551",,"hep-ph",,"  We investigate the feasibility of distinguishing among different models of
+electroweak symmetry breaking by studying the process $\gamma \gamma
+\rightarrow Z_L Z_L$ at photon colliders. For models with a low mass Higgs-like
+scalar resonance, the $s$-channel contribution provides a distinct resonance
+structure and large cross sections. However, the absence of a resonance
+structure in the cross section for the above process does not discriminate in
+principle between the existence of either a heavy Higgs boson or a vector
+resonance of a non-linearly realized symmetry.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 19:08:52 GMT""}]","2009-10-22"
+"hep-ph/9310218","Rick Weller","S. Kelley","Testing Unified Supersymmetric Models","25 pages, MIU-THP-93/65",,,,"hep-ph",,"  I define the Standard Supersymmetric Model (SSM) as the minimal
+supersymmetric extension ofthe Standard Model with gauge coupling unification
+and universal soft supersymmetry breaking at the unification scale. This
+well-defined model has a five-dimensional space of unknown parameters ($m_t,
+\tan\beta, m_{1/2}, m_0, A$). I outline the top-down and bottom-up methods of
+solving this model. Thresholds may be treated either by dropping heavy
+particles from the RGE's or by considering loop corrections to the vacuum
+energy. Substantial regions of the parameter space are consistent with all
+experimental constraints. I consider the relation of the SSM to more realistic
+models such as supersymmetric $SU(5)$, Flipped $SU(5)\times U(1)$, the
+String-Inspired Standard Model, and string-derived models. I briefly discuss
+sparticle spectroscopy and flavor changing neutral currents (FCNC's) as sample
+methods for determining the unknown parameters of the SSM, and discriminating
+between the SSM and more realistic models.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 20:24:12 GMT""}]","2007-05-23"
+"hep-ph/9310219","Frank Cuypers","Frank Cuypers","Hadron Multiplicities in the Presence of Light Gluinos","15 pages, LMU-09/93","Z.Phys. C61 (1994) 607-612","10.1007/BF01552628",,"hep-ph",,"  We consider the effect of a massless gluino on the evolution of a parton
+shower. The hadron multiplicity distribution is predicted to evolve as a
+function of the collider energy in the same way as in the absence of gluinos,
+except for a slower running of $\alpha_s$. A comparison of the predicted
+average hadron multiplicity with experimental data is presented as a fit
+constraining the values of the strong coupling constant at the $Z^0$ peak
+$\alpha_s(m_Z)$ and the scale of the onset of hadronization $m_0$. It appears
+that \lgl s are unlikely to be detected this way with less than 500 GeV of \cm\
+energy.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 20:34:56 GMT""}]","2009-10-22"
+"hep-ph/9310220","Andreas Kronfeld","Andreas S. Kronfeld","Beauty and the Beast: What Lattice QCD Can Do for $B$ Physics","FERMILAB-CONF-93/277-T, 17 pages, uucompressed PostScript file:
+  unpack and print. Errors in bibliography corrected",,,,"hep-ph hep-lat",,"  The role lattice QCD can play in $B$ physics is surveyed. We include results
+for the decay constant, and discuss upcoming calculations of semileptonic form
+factors and neutral-meson mixing. Together with experimental measurements,
+these calculations can determine the unitarity triangle. Plenary talk presented
+at the Workshop on $B$ Physics at Hadron Accelerators, Snowmass, Colo., 21
+June--2 July, 1993.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 20:49:05 GMT""},{""version"":""v2"",""created"":""Mon, 18 Oct 1993 22:47:05 GMT""}]","2008-02-03"
+"hep-ph/9310221","Sergei Khlebnikov","S. Yu. Khlebnikov","Strongly interacting $W$ bosons and supersymmetry","8 pages, LATEX, UCLA/93/TEP/29","Phys.Rev. D49 (1994) 5613-5616","10.1103/PhysRevD.49.5613",,"hep-ph",,"  We present arguments in favor of the idea that supersymmetric sigma models
+with compact symmetric K\""ahler spaces as target manifolds have a second-order
+phase transition in four dimensions. When applied to electroweak symmetry
+breaking, these models then do not require a light Higgs boson or
+techni-resonances but predict fermionic superpartners of longitudinal W's and Z
+with masses at or below TeV scale. Presence of the phase transition leads to a
+fractional-power energy dependence of fixed-angle scattering amplitude of
+longitudinal W's and Z's at high energies.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 22:36:00 GMT""}]","2009-10-22"
+"hep-ph/9310222",,"Zheng Huang (LBL)","Vacuum Misalignment in High Energy Collisions","12 LaTeX pages, An important numerical correction on the rate of eta
+  to pi pi decays is made, LBL-34703","Phys.Rev.D49:16-19,1994","10.1103/PhysRevD.49.16",,"hep-ph nucl-th",,"  We study a recent proposal to observe the disoriented chiral condensate in
+high energy collisions. In order to produce a large fluctuation in pion
+probability distribution, a large size of the correlated region is essential.
+We study the role of the intrinsic symmetry breaking and suggest that a
+negative (mass)^2 of mesons arising from a misaligned vacuum may be a candidate
+for such a mechanism. We further point out a possibility to observe
+unsuppressed strong $CP$ violation in the disoriented vacuum phase.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 22:59:30 GMT""},{""version"":""v2"",""created"":""Sun, 10 Oct 1993 01:27:09 GMT""}]","2009-12-30"
+"hep-ph/9310223","Gour Bhattacharya","G. Bhattacharya, P. A. Kalyniak, and K. A. Peterson","Heavy Charged Lepton Pair Production Through Photon Fusion at Hadron
+  Supercolliders","To appear in the Proceedings of the Madison-Argonne Workshop on
+  Physics at Current Accelerators and the Supercollider, March - June 1993. 7
+  pages, Latex with epsfig and world_sci style files, 3 postscript figures
+  embedded in the text, submitted as a uuencoded file. OCIP/C-93-12",,,,"hep-ph",,"  The pair production of charged heavy leptons via two photon fusion is
+considered for hadron collisions at SSC and LHC energies. Rates for the
+inelastic process $pp \rightarrow \gamma \gamma X \rightarrow L^+L^-X$ and the
+elastic process $pp \rightarrow \gamma \gamma pp \rightarrow L^+L^- pp$ are
+given in a Weizs\""{a}cker-Williams approximation and compared with production
+via the gluon fusion and Drell-Yan mechanisms
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 02:17:54 GMT""}]","2007-05-23"
+"hep-ph/9310224","Yoshiki Kizukuri","Yoshiki Kizukuri and Noriyuki Oshimo","{\it T}--odd Asymmetry in Chargino Pair Production Processes","10 pages with two ps-figures, IFM 11/93 TKU-HEP 93/06, Plain TeX,
+  Uuencoded figures are appended. ( To appear in the proceedings of the
+  Workshop on $e^+e^-$ Collisions at 500 GeV.)",,,,"hep-ph",,"  $T$--violating asymmetry in chargino pair production processes is studied in
+the Minimal Supersymmetric Standard Model. The asymmetry emerges at the tree
+level in the production of two different charginos,and could be as large as of
+order $10^{-2}$ in unpolarized electron beam experiments and $10^{-1}$ in
+polarized electron beam experiments. In the pair production of the same
+charginos, the asymmetry emerges through the electric and the weak ""electric""
+dipole moments of the charginos at the loop level. Its magnitude is of order
+$10^{-4}$. The consistency with the electric dipole moments of the neutron and
+the electron is also discussed.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 03:15:58 GMT""}]","2007-05-23"
+"hep-ph/9310225","Nils A. Tornqvist","Nils A. T\""ornqvist","On Deusons or Deuteronlike Meson-Meson Bound States","Invited talk at the Hadron93 International Conf. on Hadron
+  Spectroscopy, Como, Italy 22.-25.6. 1993. 5 pages in LATEX HU-SEFT R 1993-13b","NuovoCim.A107:2471-2476,1994","10.1007/BF02734018",,"hep-ph",,"  The systematics of deuteronlike two-meson bound states, {\it deusons}, is
+discussed. Previous arguments that many of the present non-$q\bar q$ states are
+such states are elaborated including, in particular, the tensor potential. For
+pseudoscalar states the important observation is made that the centrifugal
+barrier from the P-wave can be overcome by the $1/r^2$ and $1/r^3$ terms of the
+tensor potential. In the heavy meson sector one-pion exchange alone is strong
+enough to form at least deuteron-like $B\bar B^*$ and $B^*\bar B^*$ composites
+bound by approximately 50 MeV, while $D\bar D^*$ and $D^*\bar D^*$ states are
+expected near the threshold.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 09:35:56 GMT""},{""version"":""v2"",""created"":""Wed, 6 Oct 1993 09:03:51 GMT""}]","2008-11-26"
+"hep-ph/9310226",,"Kari Enqvist","Aspects of Neutrino Cosmology","16 pages, TEX, (2 figures available upon request). NORDITA-93/65 P",,,,"hep-ph",,"  Primordial nucleosynthesis constrains the properties of light, stable
+neutrinos. Apart from the well--known limit on the number of neutrino species,
+there are also bounds on neutrino masses and magnetic moments. I discuss also
+sterile neutrinos and neutrino propagation in a primordial magnetic field, such
+as could be the origin of the observed galactic magnetic fields.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 10:06:06 GMT""}]","2007-05-23"
+"hep-ph/9310227","Manfred Schuermann","R. Jakob, P. Kroll, M. Schuermann and W. Schweiger","Octet-Baryon Form Factors in the Diquark Model","16 pages, WU-B 93-07, latex, uuencoded postscript files of 7 figures
+  appended at the end of the latex file","Z.Phys. A347 (1993) 109-116","10.1007/BF01284677",,"hep-ph",,"  We present an alternative parameterization of the quark-diquark model of
+baryons which particularly takes care of the most recent proton electric
+form-factor data from the E136 experiment at SLAC. In addition to
+electromagnetic form factors of the nucleon, for which good agreement with data
+is achieved, we discuss the weak axial vector form factor of the nucleon as
+well as electromagnetic form factors of $\Lambda$ and $\Sigma$ hyperons.
+Technical advance in calculating the pertinent analytic expressions within
+perturbative quantum chromodynamics is gained by formulating the wave function
+of the quark-diquark system in a covariant way. Finally, we also comment on the
+influence of Sudakov corrections within the scope of the diquark model.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 12:47:24 GMT""}]","2009-10-22"
+"hep-th/9310019",,"Marco Billo' and Pietro Fre'","N=4 Versus N=2 Phases, Hyperk\""Ahler Quotients and the 2D Topological
+  Twist","plain Latex, 77 pages, SISSA/151/93/EP","Class.Quant.Grav.11:785-848,1994","10.1088/0264-9381/11/4/005",,"hep-th",,"  We consider N=2 and N=4 supersymmetric gauge theories in two-dimensions,
+coupled to matter multiplets. In analogy with the N=2 case also in the N=4 case
+one can introduce Fayet-Iliopoulos terms.The associated three-parameters have
+the meaning of momentum-map levels in a HyperK\""ahler quotient construction.
+Differently from the N=2 case, however, the N=4 has a single phase
+corresponding to an effective $\sigma$-model. There is no Landau-Ginzburg
+phase. The main possible application of our N=4 model is to an effective
+Lagrangian construction of a $\sigma$-model on ALE-manifolds. We discuss the A
+and B topological twists of these models clarifying some issues not yet
+discussed in the literature, in particular the identification of the
+topological systems emerging from the twist. Applying our results to the case
+of ALE-manifolds we indicate how one can use the topologically twisted theories
+to study the K\""ahler class and complex structure deformations of these
+gravitational instantons.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 18:11:17 GMT""}]","2010-04-06"
+"hep-th/9310020",,"C.F. Kristjansen","Random Geometries in Quantum Gravity","78 pages, PostScript. Ph.D. thesis, The Niels Bohr Institute,
+  University of Copenhagen, Sep. 1993",,,,"hep-th",,"  We describe the idea of studying quantum gravity by means of dynamical
+triangulations and give examples of its implementation in 2, 3 and 4 space time
+dimensions. For $d=2$ we consider the generic hermitian 1-matrix model. We
+introduce the so-called moment description which allows us to find the complete
+perturbative solution of the generic model both away from and in the continuum.
+Furthermore we show how one can easily by means of the moment variables define
+continuum times for the model so that its continuum partition function agrees
+with the partition function of the Kontsevich model except for some
+complications at genus zero. Finally we study the non perturbative definition
+of 2D quantum gravity provided by stochastic stabilization, showing how well
+known matrix model characteristica can be given a simple quantum mechanical
+interpretation and how stochastic quantization seems to hint to us the
+possibility of a strong coupling expansion of 2D quantum gravity. For $d=3$ and
+$d=4$ we consider the numerical approach to dynamically triangulated gravity.
+We present the results of simulating pure gravity as well as gravity
+interacting with matter fields. For $d=4$ we describe in addition the effect of
+adding to the Einstein Hilbert action a higher derivative term.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 16:04:17 GMT""}]","2007-05-23"
+"hep-th/9310021","Ravit Efraty","Ravit Efraty","Self-Intersection, Axial Anomaly and the String Picture of QCD","11 pages, tex dialect, CU-TP-613","Phys.Lett. B322 (1994) 84-90","10.1016/0370-2693(94)90494-4",,"hep-th",,"  The leading, planar diagrams of the $1/N_c$ expansion and the usual string
+description suggest that quarks propagate on the boundary of a two-dimensional
+world surface. We restrict the quarks to the boundary of the world surface by
+giving them infinitely large mass on the interior of the surface and zero mass
+on its boundary and show that in this picture the QCD $\theta$--vacua can be
+represented by the self-intersection number (or equivalently by the first Chern
+number of the normal bundle) of the surface.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 16:02:39 GMT""}]","2009-10-22"
+"hep-th/9310022","Edward Frenkel","Boris Feigin and Edward Frenkel","Integrals of Motion and Quantum Groups","71 pages (final version, to appear in Lect. Notes in Math, vol. 1620)",,,"YITP/K-1036","hep-th math.QA",,"  A homological construction of integrals of motion of the classical and
+quantum Toda field theories is given. Using this construction, we identify the
+integrals of motion with cohomology classes of certain complexes, which are
+modeled on the BGG resolutions of the associated Lie algebras and their quantum
+deformations. This way we prove that all classical integrals of motion can be
+quantized. For the Toda field theories associated to finite-dimensional Lie
+algebras, the algebra of integrals of motions is the corresponding W-algebra.
+For affine Toda field theories this algebra is a commutative subalgebra of a
+W-algebra; it consists of quantum KdV hamiltonians.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 22:48:42 GMT""},{""version"":""v2"",""created"":""Wed, 12 Jan 1994 21:33:48 GMT""},{""version"":""v3"",""created"":""Tue, 26 Sep 1995 22:50:14 GMT""}]","2008-02-03"
+"hep-th/9310023","Tatsuo Kobayashi","T. Kobayashi","Minimal String Unification and Hidden Sector in Z_8 Orbifold Models","14 pages, KANAZAWA-93-11, LaTeX file","Phys.Lett. B326 (1994) 231-237","10.1016/0370-2693(94)91315-3",,"hep-th",,"  We study the minimal supersymmetric standard model derived from the $Z_8$
+orbifold models and its hidden sectors. We use a target-space duality anomaly
+cancellation so as to investigate hidden sectors consistent with the MSSM
+unification. For the allowed hidden sectors, we estimate the running gauge
+coupling constants making use of threshold corrections due to the higher
+massive modes. The calculation is important from the viewpoint of gaugino
+condensations, which is one of the most promissing mechanism to break the
+supersymmetry.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 03:48:55 GMT""}]","2009-10-22"
+"hep-th/9310024","F. Ferrari","F. Ferrari","On the Quantization of Abelian Gauge Field Theories on Riemann Surfaces","21 pages (plain TeX + harvmac), Preprint LMU-TPW 14, MPI-Ph/93-50",,,,"hep-th",,"  In this paper general abelian gauge field theories interacting with matter
+fields are quantized on a closed and orientable Riemann surface $\Sigma$. The
+approach used is that of small perturbations around topologically nontrivial
+classical solutions $A^I_\mu$ of the Maxwell equations. The propagator of the
+gauge fields and the form of the fields $A^I_\mu$ are explicitly computed in
+the Feynman gauge. Despite of the fact that the quantization procedure
+presented here is mainly perturbative, in the case of the Schwinger model, or
+two dimensional quantum electrodynamics, it is also possible to derive
+nonperturbative results. As an example, we show that, at very short distances,
+the electromagnetic forces on a Riemann surface vanish up to zero modes.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 14:54:23 GMT""}]","2007-05-23"
+"math/9310210","Andreas Blass","Andreas Blass","On the divisible parts of quotient groups",,,,"Logic E-prints October 05, 1993","math.LO",,"  Techniques of combinatorial set theory are applied to the following algebraic
+problem. Suppose G is an abelian group such that, for all countable subgroups
+C, the divisible part of the quotient G/C is countable. What can one conclude
+about the size of the divisible part of G/K when the cardinality of the
+subgroup K is a given uncountable cardinal?
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9310211","Andreas Blass","Andreas Blass","Is game semantics necessary?",,,,"Logic E-prints October 05, 1993","math.LO",,"  We discuss the extent to which game semantics is implicit in the formalism of
+linear logic and in the intuitions underlying linear logic.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9310219","B. M. Brown","B. Malcolm Brown, Mourad E. H. Ismail","A right inverse of the Askey-Wilson operator",,,,"OP-SF 5 Oct 1993","math.CA",,"  We establish an integral representation of a right inverse of the
+Askey-Wilson finite difference operator on $L^2$ with weight $(1-x^2)^{-1/2}$.
+The kernel of this integral operator is $\vartheta'_4/\vartheta_4$ and is the
+Riemann mapping function that maps the open unit disc conformally onto the
+interior of an ellipse.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9310220",,"Antonio J. Dur\'an, Walter Van Assche","Orthogonal matrix polynomials and higher order recurrence relations",,,,"OP-SF 5 Oct 1993","math.CA",,"  It is well-known that orthogonal polynomials on the real line satisfy a
+three-term recurrence relation and conversely every system of polynomials
+satisfying a three-term recurrence relation is orthogonal with respect to some
+positive Borel measure on the real line. In this paper we extend this result
+and show that every system of polynomials satisfying some $(2N+1)$-term
+recurrence relation can be expressed in terms of orthonormal matrix polynomials
+for which the coefficients are $N\times N$ matrices. We apply this result to
+polynomials orthogonal with respect to a discrete Sobolev inner product and
+other inner products in the linear space of polynomials. As an application we
+give a short proof of Krein's characterization of orthogonal polynomials with a
+spectrum having a finite number of accumulation points.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9310221",,"Mourad E. H. Ismail, Mizan Rahman, Ruiming Zhang","Diagonalization of certain integral operators II",,,,"OP-SF 5 Oct 1993","math.CA",,"  We establish an integral representations of a right inverses of the
+Askey-Wilson finite difference operator in an $L^2$ space weighted by the
+weight function of the continuous $q$-Jacobi polynomials. We characterize the
+eigenvalues of this integral operator and prove a $q$-analog of the expansion
+of $e^{ixy}$ in Jacobi polynomials of argument $x$. We also outline a general
+procedure of finding integral representations for inverses of linear operators.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9310222",,"Edward Neuman, Patrick J. Van Fleet","Moments of Dirichlet splines and their applications to hypergeometric
+  functions",,,,"OP-SF 5 Oct 1993","math.CA math.NA",,"  Dirichlet averages of multivariate functions are employed for a derivation of
+basic recurrence formulas for the moments of multivariate Dirichlet splines. An
+algorithm for computing the moments of multivariate simplex splines is
+presented. Applications to hypergeometric functions of several variables are
+discussed.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9310003",,"Pawel HAENSEL and Bernard PICHON CNRS (Observatoire de Paris-Meudon)","Experimental Nuclear Masses and the Ground State of Cold Dense Matter","15 pages in standard TeX in this file, 5 tables in standard LaTeX in
+  a separate file and 4 figures in an attached uuencoded tar.Z file. Preprint
+  number not available, Accepted for publication in Astron. Astrophys",,,,"nucl-th astro-ph",,"  We study the consequences of recent progress in the experimental
+determination of masses of neutron rich nuclei for our knowledge of the ground
+state of cold dense matter. The most recent experimental data determine the
+ground state of cold dense matter up to $ \rho \simeq 10^{11}~{\rm g~cm^{-3}}
+$. The composition and the equation of state of the ground state of matter, in
+this density interval, are calculated.
+","[{""version"":""v1"",""created"":""Mon, 4 Oct 1993 16:06:30 GMT""}]","2007-05-23"
+"nucl-th/9310005","Wally Melnitchouk","W.Melnitchouk (U.Regensburg) and A.W.Thomas (U.Adelaide)","Nuclear Shadowing at Small x and Q^2","ADP-93-214/T132 (August 1993), accepted for publ. in Phys.Lett.B.
+  typeset using REVTeX, 12 pages, 4 uuencoded figures","Phys.Lett.B317:437-442,1993","10.1016/0370-2693(93)91021-E",,"nucl-th hep-ph",,"  Shadowing corrections to structure functions of heavy nuclei are calculated
+at very low values of Bjorken-$x$ and at values of the momentum transfer
+relevant to recent experiments. Good agreement is obtained with data from the
+E665 Collaboration for Xe/D and Pb/D, and with the NMC data on Ca/D and C/D
+structure function ratios. Corrections to the deuteron structure function are
+also estimated down to $x \sim 10^{-5}$, and found to be less than about $3\%$
+over the range of $x$ covered by the E665 data.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 14:01:41 GMT""},{""version"":""v2"",""created"":""Wed, 6 Oct 1993 09:47:38 GMT""}]","2008-11-26"
+"nucl-th/9310006","Klaus Morawetz","Klaus Morawetz, Dietrich Kremp","In-medium relativistic kinetic theory and nucleon-meson systems","See nucl-th/9310032 for revised version which the authors
+  incompetently resubmitted rather than correctly replacing this",,,,"nucl-th",,"  Within the $\sigma-\omega$ model of coupled nucleon-meson systems, a
+generalized relativistic Lenard--Balescu--equation is presented resulting from
+a relativistic random phase approximation (RRPA). This provides a systematic
+derivation of relativistic transport equations in the frame of nonequilibrium
+Green's function technique including medium effects as well as flucuation
+effects. It contains all possible processes due to one meson exchange and
+special attention is kept to the off--shell character of the particles. As a
+new feature of many particle effects, processes are possible which can be
+interpreted as particle creation and annihilation due to in-medium one meson
+exchange. In-medium cross sections are obtained from the generalized derivation
+of collision integrals, which possess complete crossing symmetries.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 14:12:31 GMT""}]","2007-05-23"
+"nucl-th/9310007",,"A. Holt, T. Engeland, M. Hjorth-Jensen and E. Osnes","The structure of the neutron deficient Sn isotopes","9 pages, plain Latex, report UiO/PHYS/93-21","Nucl.Phys. A570 (1994) 137-144","10.1016/0375-9474(94)90277-1",,"nucl-th",,"  We calculate the spectra for the neutron deficient Sn isotopes with mass
+numbers from A=102 to A=108, using standard many-body techniques. The G-matrix
+used in the perturbative expansion was calculated using the Bonn potentials. A
+good agreement with the available data is obtained.
+","[{""version"":""v1"",""created"":""Tue, 5 Oct 1993 14:42:47 GMT""}]","2009-10-22"

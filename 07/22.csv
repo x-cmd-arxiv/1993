@@ -1,0 +1,331 @@
+"astro-ph/9307029",,"D.C. Koo, C. Gronwall, and G. Bruzual","Counter-Evolution of Faint Field Galaxies","10 pages + 4 figures (appended), AAS LaTeX v3.0, Ap.J. Letters in
+  press, UCO/Lick Bulletin #1263","Astrophys.J. 415 (1993) L21","10.1086/187023",,"astro-ph",,"  We adopt a new approach to explore the puzzling nature of faint blue field
+galaxies. Instead of assuming that the local luminosity function is well
+defined, we first determine whether any non-evolving set of luminosity
+functions for different spectral types of galaxies is compatible with the
+observed marginal distributions in optical and near-infrared counts, B - R
+colors, and redshifts. Exploiting a non-negative least squares method, we
+derive a new no-evolution model that is found to fit all the observations
+surprisingly well. We conclude that models more exotic than mild luminosity
+evolution, such as those requiring rapid evolution in star formation rates,
+disappearing dwarf galaxy populations, high values of the cosmological
+constant, rapid mergers, or substantial non-conservation of galaxy numbers with
+time, are no longer as compelling.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 23:59:01 GMT""}]","2009-10-22"
+"astro-ph/9307030","Tomoyuki Hanawa","Tomoyuki Hanawa, Satoshi Yamamoto and Yasuhiro Hirahara","Sequential Star Formation in Taurus Molecular Cloud 1","23, AASTEX, DPNU-93-10",,"10.1086/173561",,"astro-ph",,"  We discuss the fragmentation of a filamentary cloud on the basis of a
+1-dimensional hydrodynamical simulation of a self-gravitating gas cloud. The
+simulation shows that dense cores are produced with a semi-regular interval in
+space and time from one edge to the other. At the initial stage the gas near
+one of the edges is attracted inwards by gravity and the accumulation of the
+gas makes a dense core near the edge. When the dense core grows in mass up to a
+certain amount, it gathers gas from the other direction. Accordingly the dense
+core becomes isolated from the main cloud and the parent filamentary cloud has
+a new edge. This cycle repeats and the fragmentation process propagates towards
+the other edge. The propagation speed is a few tens of percent larger than the
+sound speed. According to the theory, the age difference for the northwest-most
+and southeast-most cores in TMC-1 is estimated to be 0.68~pc/0.6~km~s$^{-1}$ =
+$ 10 ^6 $~y. The estimated age difference is consistent with that obtained from
+the chemical chronology.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 02:33:23 GMT""}]","2009-10-22"
+"astro-ph/9307031","Thomas Trappenberg","A.A. Coley and T. Trappenberg","The Quark-Hadron Phase Transition, QCD Lattice Calculations and
+  Inhomogeneous Big-Bang Nucleosynthesis","8 pages, LaTeX","Phys.Rev. D50 (1994) 4881-4885","10.1103/PhysRevD.50.4881",,"astro-ph hep-lat",,"  We review recent lattice QCD results for the surface tension at the finite
+temperature quark-hadron phase transition and discuss their implications on the
+possible scale of inhomogeneities. In the quenched approximation the average
+distance between nucleating centers is smaller than the diffusion length of a
+protron, so that inhomogeneities are washed out by the time nucleosynthesis
+sets in. Consequently the baryon density fluctuations formed by a QCD phase
+transition in the early universe cannot significantly affect standard big-bang
+nucleosynthesis calculations and certainly cannot allow baryons to close the
+universe. At present lattice results are inconclusive when dynamical fermions
+are included.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 03:41:41 GMT""}]","2009-10-22"
+"cond-mat/9307047",,"B. Sriram Shastry (AT& T Bell Laboratories, Murray Hill, New Jersey),
+  Elihu Abrahams Serin (Physics Laboratory, Rutgers University)","What Does The Korringa Ratio Measure?","849, Piscataway, New Jersey 08855 24 June 1993",,"10.1103/PhysRevLett.72.1933",,"cond-mat",,"  We present an analysis of the Korringa ratio in a dirty metal, emphasizing
+the case where a Stoner enhancement of the uniform susceptibilty is present. We
+find that the relaxation rates are significantly enhanced by disorder, and that
+the inverse problem of determining the bare density of states from a study of
+the change of the Knight shift and relaxation rates with some parameter, such
+as pressure, has rather constrained solutions, with the disorder playing an
+important role. Some preliminary applications to the case of chemical
+substitution in the Rb$_{3-x}$K$_x $C$_{60}$ family of superconductors is
+presented and some other relevant systems are mentioned.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 17:36:11 GMT""}]","2009-10-22"
+"cond-mat/9307048","Steve Simon","Steven H. Simon and Bertrand I. Halperin","Finite-Wavevector Electromagnetic Response of Fractional Quantized Hall
+  States","19 pages (REVTeX 3.0), 5 figures available on request; HU-CMT-93S01",,"10.1103/PhysRevB.48.17368",,"cond-mat",,"  A fractional quantized Hall state with filling fraction $\nu = p/(2mp+1)$ can
+be modeled as an integer quantized Hall state of transformed fermions,
+interacting with a Chern-Simons field. The electromagnetic response function
+for these states at arbitrary frequency and wavevector can be calculated using
+a semiclassical approximation or the Random Phase Approximation (RPA). However,
+such calculations do not properly take into account the large effective mass
+renormalization which is present in the Chern-Simons theory. We show how the
+mass renormalization can be incorporated in a calculation of the response
+function within a Landau Fermi liquid theory approach such that Kohn's theorem
+and the $f$-sum rules are properly satisfied. We present results of such
+calculations.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 18:49:52 GMT""}]","2009-10-22"
+"cond-mat/9307049","Ming-Che Chang","M.C.Chang and Q.Niu","Local Density of States and Level Width for Wannier-Stark Ladders","14 pages, plain TeX, 9 figures not included, available on request, to
+  be published in Phys.Rev.B47","Phys. Rev. B48, 2215 (93)","10.1103/PhysRevB.48.2215",,"cond-mat",,"  The local density of states \rho(x,E) is calculated for a Bloch electron in
+an electric field. Depending on the system size, we can see one or more
+sequences of Wannier-Stark ladders in \rho(x,E), with Lorentz type level widths
+and apparent spatial localization of the states. Our model is a chain of delta
+function potential barriers plus a step-like electric potential, with open
+boundary condition at both ends of the system. Using a wave tunneling picture,
+we find that the level widths shrink to zero as an inverse power as the system
+size approaches infinity, confirming an earlier result.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 20:34:40 GMT""}]","2009-10-22"
+"cond-mat/9307050","Dan Hone","D. Hone and M. Holthaus","Locally Disordered Lattices in Strong ac Electric Fields","LaTeX, 26 pages (8 figures available on request), Preprint
+  UCSBTH-93-20",,"10.1103/PhysRevB.48.15123",,"cond-mat",,"  We develop a formalism to study the role of local defects in tight binding
+systems in the presence of a strong external ac electric field. It is found
+that the appearance and disappearance of localized states, as well as their
+localization lengths, can be controlled by the amplitude or frequency of the
+driving field. The theory is illustrated by numerical model calculations for
+imperfect semiconductor superlattices in far--infrared laser fields.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 22:05:48 GMT""}]","2009-10-22"
+"funct-an/9307001","Alexander Turbiner","Gerhard Post and Alexander Turbiner","Classification of linear differential operators with an invariant
+  subspace of monomials","10 pp","Russ. Journ. Math. Phys. 3, 113-122 1995",,"memorandum No. 1143 of Univ.Twente (June 1993)","funct-an hep-th math.FA",,"  A complete classification of linear differential operators possessing
+finite-dimensional invariant subspace with a basis of monomials is presented.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 22:29:42 GMT""}]","2008-02-03"
+"gr-qc/9307027",,"Antonio Campos and Enric Verdaguer","Semiclassical Equations for Weakly Inhomogeneous Cosmologies","35 pages, UAB-FT 316, Latex (uses a4wide.sty, a4.sty included in the
+  file)(replaced due to tex problems)","Phys.Rev.D49:1861-1880,1994","10.1103/PhysRevD.49.1861",,"gr-qc",,"  The in-in effective action formalism is used to derive the semiclassical
+correction to Einstein's equations due to a massless scalar quantum field
+conformally coupled to small gravitational perturbations in spatially flat
+cosmological models. The vacuum expectation value of the stress tensor of the
+quantum field is directly derived from the renormalized in-in effective action.
+The usual in-out effective action is also discussed and it is used to compute
+the probability of particle creation. As one application, the stress tensor of
+a scalar field around a static cosmic string is derived and the backreaction
+effect on the gravitational field of the string is discussed.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 16:40:23 GMT""}]","2009-07-10"
+"gr-qc/9307028","Robert Mann","R.B. Mann and M.S. Morris","Classical Models of Subatomic Particles","7 pgs",,"10.1016/0375-9601(93)91146-V",,"gr-qc",,"  We look at the program of modelling a subatomic particle---one having mass,
+charge, and angular momentum---as an interior solution joined to a classical
+general-relativistic Kerr-Newman exterior spacetime. We find that the
+assumption of stationarity upon which the validity of the Kerr-Newman exterior
+solution depends is in fact violated quantum mechanically for all known
+subatomic particles. We conclude that the appropriate stationary spacetime
+matched to any known subatomic particle is flat space.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 18:05:33 GMT""}]","2009-10-22"
+"gr-qc/9307029","Bill Unruh","W. G. Unruh and Peter Newbury","Solution to 2+1 Gravity in DreiBein formalism","31pp","Int.J.Mod.Phys.D3:131-138,1994","10.1142/S0218271894000137",,"gr-qc",,"  The reduction of the dreibein formalism of 2+1 General Relativity to the
+holonomies is explicitly performed. We also show explicitly how to relate these
+holonomies to a geometry classically, and how to generate these holonomies from
+any initial data for 2+1 gravity obeying the constraints.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 17:40:00 GMT""},{""version"":""v2"",""created"":""Fri, 23 Jul 1993 00:29:00 GMT""}]","2010-11-01"
+"hep-lat/9307016","Urs M. Heller","Poul H. Damgaard and Urs M. Heller","On Spin and Matrix Models in the Complex Plane","25 pages with 5 postscript figures included. LaTeX file with style
+  file crnart11.sty included. CERN--TH-6956/93, FSU-SCRI-93-87","Nucl.Phys. B410 (1993) 494-520","10.1016/0550-3213(93)90526-U",,"hep-lat cond-mat hep-th",,"  We describe various aspects of statistical mechanics defined in the complex
+temperature or coupling-constant plane. Using exactly solvable models, we
+analyse such aspects as renormalization group flows in the complex plane, the
+distribution of partition function zeros, and the question of new
+coupling-constant symmetries of complex-plane spin models. The double-scaling
+form of matrix models is shown to be exactly equivalent to finite-size scaling
+of 2-dimensional spin systems. This is used to show that the string
+susceptibility exponents derived from matrix models can be obtained numerically
+with very high accuracy from the scaling of finite-$N$ partition function zeros
+in the complex plane.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 15:19:27 GMT""}]","2009-10-22"
+"hep-ph/9307312",,"Tadashi Kon, Tetsuro Kobayashi, Shoichi Kitamura, Keiichiro Nakamura
+  and Shunji Adachi","Signals for Scalar Top Quark at $ep$ Collider HERA","17 pages (revtex), 11 figures not included (available on request) ;
+  ITP-SU-93/03, TMU-HEL-9307","Z. Phys. C61 (1994) 239-246","10.1007/BF01413101",,"hep-ph",,"  In the framework of the minimal supersymmetric standard model (MSSM) and the
+R-parity breaking model (RBM), we investigate production processes of the
+scalar top (stop) at HERA energies. These models are characterized by the
+possible existence of the light stop whose mass is lighter than those of the
+top quark and the other squarks. It is shown that in the MSSM the stop pair
+production via boson-gluon fusion gives a sizeable cross section and the most
+serious background $ep\rightarrow ec\bar{c}X$ could be suppressed by
+appropriate kinematical cuts. We also show that in the RBM the stop is singly
+produced in the neutral current processes and we have a clear signal as a sharp
+peak in the Bjorken parameter $x$ distribution of the scattered electron.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 19:34:21 GMT""}]","2009-10-22"
+"hep-ph/9307314","Carlo Giunti","S.M. Bilenky, C. Giunti and V. Wataghin","On the Proton Form Factors in the Time-Like Region","Talk presented at the Workshop on Exclusive Reactions at High
+  Momentum Transfer, 24-26 June 1993, Marciana Marina, Elba, Italy. LaTeX file,
+  5 pages, no figures",,,,"hep-ph",,"  The process $ \bar{p} p \rightarrow e^{-} e^{+} $ is considered in the
+general case of polarized initial particles. A relation between the difference
+of the phases of the electromagnetic form factors $G_M$ and $G_E$ in the
+time-like region and measurable asymmetries is derived. It is shown that the
+moduli of the form factors can be determined from measurements of the total
+unpolarized cross section and of the integral asymmetry for longitudinally
+polarized (or transversely polarized) $\bar{p}$ and $p$. The behaviour of the
+proton form factors at high $q^2$ in the time-like region is also discussed.
+From the Phragm\'en-Lindel\""of's theorem it follows that the asymptotical
+behaviour of the form factors in the space-like and time-like regions must be
+the same. An analysis of experimental data in both regions based on
+perturbative QCD is presented.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 20:59:00 GMT""}]","2007-05-23"
+"hep-ph/9307315",,"Howard D. Trottier","$\Upsilon$ decay into charmonium and the color octet mechanism","13 Pages (regular LaTeX document). Includes three postscript figures","Phys.Lett. B320 (1994) 145-151","10.1016/0370-2693(94)90838-9","SFU HEP-104-93","hep-ph",,"  A factorization theorem for $P$-wave quarkonium production, recently derived
+by Bodwin, Braaten, Yuan and Lepage, is applied to $\Upsilon \to \chi_{cJ} +
+X$, where $\chi_{cJ}$ labels the ${}^3 P_J$ charmonium states. The widths for
+$\chi_{cJ}$ production through color-singlet $P$-wave and color-octet $S$-wave
+$c \bar c$ subprocesses are computed each to leading order in $\alpha_s$.
+Experimental data on $\Upsilon \to J / \psi + X$ is used to obtain an upper
+bound on a nonperturbative parameter (related to the probability for
+color-octet $S$-wave $c \bar c$ hadronization into $P$-wave charmonium) that
+enters into the factorization theorem. The bound obtained here adds to the
+limited information so far available on the color-octet mechanism for $P$-wave
+quarkonium production.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 22:35:20 GMT""}]","2009-10-22"
+"hep-ph/9307316","Cliff Burgess","C.P. Burgess and J.M. Cline","A New Class of Majoron-Emitting Double-Beta Decays","43 pages, 10 figures (included), [figure captions are now included]","Phys.Rev. D49 (1994) 5925-5944","10.1103/PhysRevD.49.5925","McGill/93-02, TPI-MINN-93/28-T, UMN-TH-1204-93","hep-ph",,"  Motivated by the excess events that have recently been found near the
+endpoints of the double beta decay spectra of several elements, we re-examine
+models in which double beta decay can proceed through the neutrinoless emission
+of massless Nambu-Goldstone bosons (majorons). Noting that models proposed to
+date for this process must fine-tune either a scalar mass or a VEV to be less
+than 10 keV, we introduce a new kind of majoron which avoids this difficulty by
+carrying lepton number $L=-2$. We analyze in detail the requirements that
+models of both the conventional and our new type must satisfy if they are to
+account for the observed excess events. We find: (1) the electron sum-energy
+spectrum can be used to distinguish the two classes of models from one another;
+(2) the decay rate for the new models depends on different nuclear matrix
+elements than for ordinary majorons; and (3) all models require a (pseudo)
+Dirac neutrino, having a mass of a several hundred MeV, which mixes with
+$\nu_e$.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 23:17:33 GMT""},{""version"":""v2"",""created"":""Tue, 27 Jul 1993 22:28:39 GMT""}]","2009-10-22"
+"hep-ph/9307317","Jonathan Bagger","Jonathan Bagger and Erich Poppitz","Destabilizing Divergences in Supergravity-Coupled Supersymmetric
+  Theories","JHU-TIPAC-93018","Phys.Rev.Lett. 71 (1993) 2380-2382","10.1103/PhysRevLett.71.2380",,"hep-ph hep-th",,"  Nonrenormalizable couplings in supergravity-coupled supersymmetric theories
+can give rise to power-law divergences that destabilize the weak-scale
+hierarchy. For the case of the standard-model gauge group, the problem can
+arise in theories with \321 gauge-singlet chiral superfields. The minimal
+supersymmetric standard model is free from such destabilizing divergences.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 03:57:55 GMT""},{""version"":""v2"",""created"":""Thu, 22 Jul 1993 04:01:32 GMT""},{""version"":""v3"",""created"":""Thu, 12 Aug 1993 00:49:22 GMT""},{""version"":""v4"",""created"":""Sat, 14 Aug 1993 21:37:54 GMT""},{""version"":""v5"",""created"":""Thu, 16 Sep 1993 18:30:21 GMT""}]","2016-09-01"
+"hep-ph/9307318","Peter Weisz","Andrzej J. Buras","A 1993 Look at the Lower Bound on the Top Quark Mass from CP Violation","latex, 8p, 3 figs not included, MPI-Ph/93-52 and TUM-T31-45/93","Phys.Lett.B317:449-453,1993","10.1016/0370-2693(93)91023-G",,"hep-ph",,"  We point out that the lower bound on $m_t$ from the CP violation parameter
+$\epsilon_K$ has increased considerably. Using Wolfenstein parametrization of
+the CKM matrix we derive an analytic expression for this bound as a function of
+$\mid V_{cb}\mid, \mid V_{ub}/V_{cb}\mid$ and the non-perturbative parameter
+$B_K$. For $B_K\leq 0.80,\mid V_{cb} \mid\leq 0.040$ and $\mid
+V_{ub}/V_{cb}\mid\leq 0.10$ we find $m_t > 130 GeV$. However, for $B_K \leq
+0.70, \mid V_{cb}\mid \leq 0.038 $ and $\mid V_{ub}/V_{cb}\mid \leq 0.08$ the
+bound is raised to $m_t > 205~GeV$. The lower bound on $m_t$ from $B^o-\bar
+B^o$ mixing is also reconsidered.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 13:00:32 GMT""}]","2010-11-01"
+"hep-ph/9307319",,"P.E. Haagensen","On The Exact Implementation Of Gauss' Law In Yang-Mills Theory","4 pages, TeX, UB-ECM-PF 93/16",,,,"hep-ph",,"  It is possible to find different sets of local coordinates in the field space
+of Yang-Mills theories which implement Gauss' law manifestly for physical
+states. The singular points of the transformations to these gauge-invariant
+coordinates induce energy barriers in the Hamiltonian much like angular
+momentum in quantum mechanics, and these formulations suggest a vacuum state
+functional qualitatively different from the perturbative one. Lecture given at
+the XIII Particles and Nuclei International Conference, Perugia, Italy, June 28
+- July 2, 1993.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 14:38:59 GMT""}]","2007-05-23"
+"hep-ph/9307320","L. Clavelli","M. Carena, L. Clavelli, D. Matalliotakis, H.P. Nilles, C.E.M. Wagner","Light Gluinos and Unification of Couplings","12 PAGES PLUS TWO FIGURES NOT INCLUDED BUT AVAILABLE BY FAX","Phys.Lett.B317:346-353,1993","10.1016/0370-2693(93)91006-9",,"hep-ph",,"  We analyze the implications of the light gluino scenario for the unification
+of gauge and Yukawa couplings within the minimal supersymmetric standard model.
+Within this scheme all fermionic supersymmetric particles are naturally light,
+while the scalar partners of quarks and leptons, together with the heavy Higgs
+doublet may be heavy. This implies both a bound on $\tan\beta < 2.3$, in order
+to fulfill the experimental constraints on the chargino masses, and a strong
+correlation between $\sin^2\theta_W(M_Z)$ and $\alpha_3(M_Z)$, due to the
+suppression of the supersymmetric threshold corrections to the low energy
+values of the gauge couplings. Assuming the scalar sparticles to be lighter
+than 10 TeV, the physical top quark mass is constrained to be 145 GeV $< M_T <$
+210 GeV for $\tan\beta>1$, while the strong gauge coupling values,
+$0.122\leq\alpha_3(M_Z) \leq 0.133$, are in good agreement with the measured
+LEP ones. We also show that a relaxation of some of the conventional
+assumptions is necessary in order to achieve radiative breaking of the
+electroweak symmetry within the grand unification scheme.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 15:51:46 GMT""}]","2008-11-26"
+"hep-ph/9307321","Akizo Kobayashi","Akizo Kobayashi and Shoji Sawada","Phase Structure of a Quantized Chiral Soliton on S^3","23 pages, plain TEX, 11 figures (not included, upon request)","Prog.Theor.Phys. 90 (1993) 1075-1090","10.1143/ptp/90.5.1075","DPNU 92-14","hep-ph",,"  A quantization of a breathing motion of a rotating chiral soliton on $S^3$ is
+performed in terms of a family of trial functions for a profile function of the
+hegdehog ansatz. We determine eigenenergies of the quantized $S^3$ skyrmion by
+solving the Schr\""odinger equation of the breathing mode for several lower spin
+and isospin states varying the Skyrme term constants $e$. When $S^3$ radius is
+smaller than $2/ef_\pi$, where $f_\pi$ is the pion decay constant, we always
+obtain a conformal map solution as the lowest eigenenergy state. In the
+conformal map case, allowed states have only symmetric or anti-symmetric wave
+function under inversion of a dynamical variable describing the breathing mode.
+As the $S^3$ radius increases the energy splitting between the symmetric and
+anti-symmetric states rapidly decreases and two states become completely
+degenerate state. When the $S^3$ radius larger than $3/ef_\pi$, for the small
+Skyrme term constant $e$ the lowest eigenenergy states are obtained with the
+profile function given by an arccosine form which is almost the same to those
+of usual $R^3$ skyrmion. When the effects of the Skyrme term are weak, i.e.
+large $e$, the lowest energy states are obtained by the profile function of
+conformal map, which correspond to the \lc\lc frozen states"" for the $R^3$
+skyrmion as the limit of $S^3$ radius $ \to \infty$.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 13:57:50 GMT""}]","2017-02-01"
+"hep-ph/9307322","U. Ellwanger","Ulrich Ellwanger, Michel Rausch de Traubenberg, Carlos A. Savoy","Particle Spectrum in Supersymmetric Models with a Gauge Singlet","9 pages, HD--THEP--93--25, CRN 93--34,Saclay T93/076","Phys.Lett.B315:331-337,1993","10.1016/0370-2693(93)91621-S",,"hep-ph",,"  We scan the complete parameter space of the supersymmetric standard model
+extended by a gauge singlet, which is compatible with the following
+constraints: universal soft supersymmetry breaking terms at the GUT scale,
+finite running Yukawa couplings up to the GUT scale and present experimental
+bounds on all sparticles, Higgs scalar and top quark. The full radiative
+corrections to the Higgs potential due to the top/stop sector are included. We
+find a lower limit on the gluino mass of 160 GeV, upper limits on the lightest
+neutral scalar Higgs mass dependent on $m_{top}$ and the size of the soft
+supersymmetry breaking terms, and the possibility of a Higgs scalar as light as
+10 GeV, but with reduced couplings to the Z boson.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 15:02:28 GMT""}]","2011-01-13"
+"hep-ph/9307325",,"Daren Austin, E.J. Copeland and T.W.B. Kibble","Evolution of cosmic string configurations","61 pages, requires RevTex v3.0, SUSSEX-TH-93/3-4,
+  IMPERIAL/TP/92-93/42","Phys.Rev. D48 (1993) 5594-5627","10.1103/PhysRevD.48.5594",,"hep-ph astro-ph",,"  We extend and develop our previous work on the evolution of a network of
+cosmic strings. The new treatment is based on an analysis of the probability
+distribution of the end-to-end distance of a randomly chosen segment of
+left-moving string of given length. The description involves three distinct
+length scales: $\xi$, related to the overall string density, $\bar\xi$, the
+persistence length along the string, and $\zeta$, describing the small-scale
+structure, which is an important feature of the numerical simulations that have
+been done of this problem. An evolution equation is derived describing how the
+distribution develops in time due to the combined effects of the universal
+expansion, of intercommuting and loop formation, and of gravitational
+radiation. With plausible assumptions about the unknown parameters in the
+model, we confirm the conclusions of our previous study, that if gravitational
+radiation and small-scale structure effects are neglected, the two dominant
+length scales both scale in proportion to the horizon size. When the extra
+effects are included, we find that while $\xi$ and $\bar\xi$ grow, $\zeta$
+initially does not. Eventually, however, it does appear to scale, at a much
+lower level, due to the effects of gravitational back-reaction.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 14:59:57 GMT""}]","2016-09-01"
+"hep-th/9307136","Ikehashi","Tamio Ikehashi","Hamiltonian Formulation of the Smooth Bosonization and Local Gauge
+  Symmetry of the Massless Thirring Model","7 pages. LaTeX. UT-Komaba 93-11","Phys.Lett. B313 (1993) 103-107","10.1016/0370-2693(93)91197-U",,"hep-th",,"  Using the hamiltonian formalism, we investigate the smooth bosonization
+method in which bosonization and fermionization are carried out through a
+specific gauge-fixing of an enlarged gauge invariant theory. The generator of
+the local gauge symmetry, which cannot be derived from the lagrangian of the
+enlarged theory, is obtained by making a canonical transformation. We also show
+that the massless Thirring model possesses a similar local gauge symmetry for a
+speific value of the coupling constant.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 06:33:34 GMT""}]","2009-10-22"
+"hep-th/9307137",,"A.L. Larsen","Scattering of string-waves on black hole background","18 pages + 2 figures, Latex, Nordita-93/52 P","Nucl.Phys. B412 (1994) 372-390","10.1016/0550-3213(94)90507-X",,"hep-th",,"  We consider the propagation of perturbations along an infinitely long
+stationary open string in the background of a Schwarzschild black hole. The
+equations of motion for the perturbations in the 2 transverse physical
+directions are solved to second order in a weak field expansion. We then set up
+a scattering formalism where an ingoing wave is partly transmitted and partly
+reflected due to the interaction with the gravitational field of the black
+hole. We finally calculate the reflection coefficient to third order in our
+weak field expansion.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 09:55:05 GMT""}]","2009-10-22"
+"hep-th/9307138",,"Hiromichi Nakazato and Saverio Pascazio","A Coherent Understanding of Solvable Models for Quantum Measurement
+  Processes","10 pages, report BA-TH/93-147",,"10.1016/0375-9601(94)90239-9",,"hep-th",,"  By making use of Schwinger's oscillator model of angular momentum, we put
+forward an interesting connection among three solvable Hamiltonians, widely
+used for discussions on the quantum measurement problem. This connection
+implies that a particular macroscopic limit has to be taken for these models to
+be physically sensible.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 13:38:00 GMT""}]","2009-10-22"
+"nucl-th/9307021","Niels R. Walet","Abraham Klein and Niels R. Walet","Classical mappings of the symplectic model and their application to the
+  theory of large-amplitude collective motion","23 pages, LaTeX using REVTeX 3.0","Phys.Rev.C49:840-851,1994","10.1103/PhysRevC.49.840","UPR-0088NT","nucl-th",,"  We study the algebra Sp(n,R) of the symplectic model, in particular for the
+cases n=1,2,3, in a new way. Starting from the Poisson-bracket realization we
+derive a set of partial differential equations for the generators as functions
+of classical canonical variables. We obtain a solution to these equations that
+represents the classical limit of a boson mapping of the algebra. The
+relationship to the collective dynamics is formulated as a theorem that
+associates the mapping with an exact solution of the time-dependent Hartree
+approximation. This solution determines a decoupled classical symplectic
+manifold, thus satisfying the criteria that define an exactly solvable model in
+the theory of large amplitude collective motion. The models thus obtained also
+provide a test of methods for constructing an approximately decoupled manifold
+in fully realistic cases. We show that an algorithm developed in one of our
+earlier works reproduces the main results of the theorem.
+","[{""version"":""v1"",""created"":""Wed, 21 Jul 1993 17:31:09 GMT""}]","2008-11-26"
+"nucl-th/9307022","Mike Musolf","M. J. Musolf, T. W. Donnelly, J. Dubach, S. J. Pollock, S. Kowalski,
+  and E. J. Beise","Intermediate-Energy Semileptonic Probes of the Hadronic Neutral Current","214 pages. Figures not included and may be obtained from authors by
+  request (musolf@cebaf.gov)",,"10.1016/0370-1573(94)90040-X","CEBAF preprint TH-93-11","nucl-th hep-ph",,"  The present and future prospects of intermediate-energy semileptonic neutral
+current studies are reviewed. Possibilities for using neutrino and
+parity-violating electron scattering from nucleons and nuclei to study hadron
+structure and nuclear dynamics are emphasized, with particular attention paid
+to probes of the nucleon's strangeness content. Connections are drawn between
+such studies and tests of electroweak gauge theory using electron or neutrino
+scattering. Outstanding theoretical issues in the interpretation of
+semileptonic neutral current measurements are highlighted, and the prospects
+for undertaking neutrino and parity-violating electron scattering experiments
+in the near future are surveyed.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 03:27:07 GMT""}]","2009-10-22"
+"nucl-th/9307023",,"R. Smola\'nczuk and J. Dobaczewski","Particle-drip lines from the Hartree-Fock-Bogoliubov theory with Skyrme
+  interaction","10 pages REVTEX 3.0, 3 uuencoded postscript figures included,
+  IFT/14/93","Phys.Rev.C48:R2166-R2169,1993","10.1103/PhysRevC.48.R2166",,"nucl-th",,"  We calculate positions of one- and two-particle, proton and neutron drip
+lines within the Hartree-Fock-Bogoliubov theory using Skyrme interaction. We
+also determine an approximate $r$-process path defined as a line where the
+neutron binding energy is equal to 2~MeV. A weakening of the nuclear shell
+structure at drip lines is found and interpreted as resulting from a coupling
+with continuum states.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 14:57:03 GMT""}]","2008-11-26"

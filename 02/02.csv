@@ -1,0 +1,126 @@
+"cond-mat/9302002",,"Yutaka Hosotani","Neutral and Charged Anyon Fluids","99 journal pages, plain Tex, 13 figures not included (please
+  request), UMN-TH-1106/92",,"10.1142/S0217979293002857",,"cond-mat hep-th",,"  (Review) Properties of neutral and charged anyon fluids are examined, with
+the main focus on the question whether or not a charged anyon fluid exhibits a
+superconductivity at zero and finite temperature. Quantum mechanics of anyon
+fluids is precisely described by Chern-Simons gauge theory. The random phase
+approximation (RPA), the linearized self-consistent field method (SCF), and the
+hydrodynamic approach employed in the early analysis of anyon fluids are all
+equivalent. Relations and differences between neutral and charged anyon fluids
+are discussed. It is necessary to go beyond RPA and the linearized SCF, and
+possively beyond the Hartree-Fock approximation, to correctly describe various
+phenomena such as the flux quantization, vortex formation, and phase
+transition.
+  Topics includes: Anyons, Aharonov-Bohm effect, Chern-Simons gauge theory,
+Hartree-Fock ground state, RPA and SCF, Path integral representation, RPA =
+linearized SCF, Response functions, Phonons and plasmons, Hydrodynamic
+description, Effective theory, Meissner effect at zero and finite temperature,
+de Haas - van Alphen effect in SCF, Thermodynamic potential in inhomogeneous
+fields, T_c, Other important issues. (To appear in Int. J. Mod. Phys. B)
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 20:18:35 GMT""}]","2015-06-25"
+"cond-mat/9302003","Alexander Sokol","A.V. Chubukov and A. Sokol","Theory of p-wave Pairing for $^3$He on Grafoil","12 pages, RevTex (2 PostScript figures appended), UIUC-P-93-01-008","Phys.Rev.B49:678,1994","10.1103/PhysRevB.49.678",,"cond-mat",,"  The specific heat and susceptibility data for $^3$He on Grafoil are analyzed
+in the framework of the Landau Fermi liquid theory. The dominant interaction
+between $^3$He quasiparticles is found to be in the p-wave channel for most
+experimentally accessible areal densities of $^{3}$He. This interaction is
+attractive and gives rise to the p-wave transition temperature which for
+moderate areal densities is estimated to be on the scale of several
+millikelvin. The relevance of these results to the anomaly in the specific heat
+observed at $ T_k = 3.2 \, \mbox{mK} $ is discussed.
+","[{""version"":""v1"",""created"":""Tue, 2 Feb 1993 02:45:32 GMT""}]","2008-12-18"
+"cond-mat/9302004","Kusu","Osamu Narikiyo and Daijiro Yoshioka","Excitation Spectrum of a Double Quantum Well System","15pages","Prog.Theor.Phys. 100 (1998) 205-210","10.1143/PTP.100.205",,"cond-mat",,"  The collective charge-excitation spectrum of a double quantum well system in
+a strong magnetic field is obtained within the random phase approximation.
+Correction to the spectrum coming from the finiteness of the magnetic field is
+calculated up to the first order in inverse of the magnetic field. Dependencies
+on the magnetic field of (i) the velocity of long wave length excitation and
+(ii) the phase boundary of the quantum Hall state signaled by the softening of
+the roton minimum of the spectrum are discussed. Keywords: quantum Hall effect,
+two dimensional electrons, strong magnetic field, double quantum well,
+excitonic state
+","[{""version"":""v1"",""created"":""Tue, 2 Feb 1993 04:01:03 GMT""}]","2009-10-22"
+"cond-mat/9302005","Hans","G. Ristow and H.J. Herrmann (HLRZ, Juelich)","Density Patterns in Granular Media","7 pages, plain TeX",,,"HLRZ 2/92","cond-mat",,"  Recent experiments by Baxter et al. showed the existence of density waves in
+granular material flowing out of a hopper. We show, using Molecular Dynamics
+Simulations, that this effect is a consequence of static friction and find that
+these density fluctuations follow a $1/f$ spectrum. The effect is enhanced when
+the opening angle of the hopper decreases.
+","[{""version"":""v1"",""created"":""Tue, 2 Feb 1993 08:41:02 GMT""}]","2007-05-23"
+"hep-ph/9302201",,"V. Pleitez and M.D. Tonasse","Neutrinoless double beta decay in an $SU(3)_L\otimes U(1)_N$ model","Revtex, 15 pages and 6 figures (available from the authors)","Phys.Rev. D48 (1993) 5274-5279","10.1103/PhysRevD.48.5274","IFT-P.008/93","hep-ph",,"  We consider a model for the electroweak interactions with $SU(3)_L\otimes
+U(1)_N$ gauge symmetry. We show that, it is the conservation of $F=L+B$ which
+forbids massive neutrinos and the neutrinoless double beta decay,
+$(\beta\beta)_{0\nu}$. Explicit and spontaneous breaking of $F$ imply that the
+neutrinos have an arbitrary mass and $(\beta\beta)_{0\nu}$ proceeds also with
+some contributions that do not depend explicitly on the neutrino mass.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 21:39:00 GMT""}]","2009-10-22"
+"hep-ph/9302202",,"T.Elliott, S.F.King and P.L.White","Supersymmetric Higgs Bosons at the Limit","15 pages of plain LaTeX, 6 figures as uuencoded compressed tar file,
+  SHEP 92/93-11","Phys.Lett. B305 (1993) 71-77","10.1016/0370-2693(93)91107-X",,"hep-ph",,"  We obtain an improved upper bound on the lightest neutral CP-even Higgs boson
+mass from a low energy renormalisation-group analysis of the Higgs sector of
+the next-to-minimal supersymmetric standard model. We find $m_h< 145$ GeV for
+$m_t=90$ GeV, decreasing to $m_h< 123$ GeV for $m_t=180$ GeV. We also discuss
+the light Higgs spectrum in the region of parameter space close to the upper
+bound.
+","[{""version"":""v1"",""created"":""Tue, 2 Feb 1993 13:19:02 GMT""}]","2009-10-22"
+"hep-ph/9302203",,"John F. Donoghue and Barry R. Holstein","Photon-Photon Scattering, Pion Polarizability and Chiral Symmetry","21 pages(+10 figures available on request), LATEX, UMHEP-383","Phys.Rev.D48:137-146,1993","10.1103/PhysRevD.48.137",,"hep-ph nucl-th",,"  Recent attempts to detect the pion polarizability via analysis of
+$\gamma\gamma\rightarrow\pi\pi$ measurements are examined. The connection
+between calculations based on dispersion relations and on chiral perturbation
+theory is established by matching the low energy chiral amplitude with that
+given by a full dispersive treatment. Using the values for the polarizability
+required by chiral symmetry, predicted and experimental cross sections are
+shown to be in agreement.
+","[{""version"":""v1"",""created"":""Tue, 2 Feb 1993 14:35:37 GMT""}]","2011-07-19"
+"hep-th/9302002",,"E. Abdalla, M.C.B. Abdalla, G. Sotkov, M. Stanishkov","Off critical current algebras","20 pages, IFUSP-prep 1027, January, 1993","Int. J. Mod. Phys. A10 (1995) 1717-1736","10.1142/S0217751X95000838",,"hep-th",,"  We discuss the infinite dimensional algebras appearing in integrable
+perturbations of conformally invariant theories, with special emphasis in the
+structure of the consequent non-abelian infinite dimensional algebra
+generalizing $W_\infty$ to the case of a non abelian group. We prove that the
+pure left-symmetry as well as the pure right-sector of the thus obtained
+algebra coincides with the conformally invariant case. The mixed sector is more
+involved, although the general structure seems to be near to be unraveled. We
+also find some subalgebras that correspond to Kac-Moody algebras. The
+constraints imposed by the algebras are very strong, and in the case of the
+massive deformation of a non-abelian fermionic model, the symmetry alone is
+enough to fix the 2- and 3-point functions of the theory.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 17:08:57 GMT""}]","2015-06-26"
+"hep-th/9302003",,"Eric D'Hoker and D.H. Phong","Momentum Analyticity and Finiteness of the 1-Loop Superstring Amplitude","10pp, /UCLA/93/TEP/1","Phys.Rev.Lett. 70 (1993) 3692-3695","10.1103/PhysRevLett.70.3692",,"hep-th",,"  The Type II Superstring amplitude to 1-loop order is given by an integral of
+$\vartheta$-functions over the moduli space of tori, which diverges for real
+momenta. We construct the analytic continuation which renders this amplitude
+well defined and finite, and we find the expected poles and cuts in the complex
+momentum plane.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 18:15:00 GMT""}]","2009-10-22"
+"hep-th/9302004","Tatsuya Ueno","A. Nakamichi and T. Ueno","New Vector Field and BRST Charges in 2-form Einstein Gravity","9 pages, phyzzx, TIT/HEP-206/COSMO-24","Phys.Lett. B313 (1993) 25-28","10.1016/0370-2693(93)91185-P",,"hep-th",,"  A new vector field is introduced into 2-form Einstein gravity in four
+dimensions to restore a large symmetry of its topological version. Two
+different expressions for the BRST charge are given in the system: one of them
+associated with a set of irreducible symmetries and the other with a set of
+on-shell reducible symmetries.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 20:25:55 GMT""}]","2009-10-22"
+"hep-th/9302005",,"M. Lukin, A. Stern and I. Yakushin","Lagrangian and Hamiltonian Formalism on a Quantum Plane",,"J.Phys.A26:5115-5132,1993","10.1088/0305-4470/26/19/039",,"hep-th",,"  We examine the problem of defining Lagrangian and Hamiltonian mechanics for a
+particle moving on a quantum plane $Q_{q,p}$. For Lagrangian mechanics, we
+first define a tangent quantum plane $TQ_{q,p}$ spanned by noncommuting
+particle coordinates and velocities. Using techniques similar to those of Wess
+and Zumino, we construct two different differential calculi on $TQ_{q,p}$.
+These two differential calculi can in principle give rise to two different
+particle dynamics, starting from a single Lagrangian. For Hamiltonian
+mechanics, we define a phase space $T^*Q_{q,p}$ spanned by noncommuting
+particle coordinates and momenta. The commutation relations for the momenta can
+be determined only after knowing their functional dependence on coordinates and
+velocities.
+  Thus these commutation relations, as well as the differential calculus on
+$T^*Q_{q,p}$, depend on the initial choice of Lagrangian. We obtain the
+deformed Hamilton's equations of motion and the deformed Poisson brackets, and
+their definitions also depend on our initial choice of Lagrangian. We
+illustrate these ideas for two sample Lagrangians. The first system we examine
+corresponds to that of a nonrelativistic particle in a scalar potential. The
+other Lagrangian we consider is first order in time derivatives
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 20:52:14 GMT""}]","2009-10-22"
+"hep-th/9302006","Jan de Boer","Jan de Boer and Tjark Tjin","The Relation between Quantum W algebras and Lie algebras","21 pages, THU-93/05, ITFA-93/2","Commun.Math.Phys.160:317-332,1994","10.1007/BF02103279",,"hep-th",,"  By quantizing the generalized Drinfeld-Sokolov reduction scheme for arbitrary
+$sl_2$ embeddings we show that a large set $\cal W$ of quantum W algebras can
+be viewed as (BRST) cohomologies of affine Lie algebras. The set $\cal W$
+contains many known $W$ algebras such as $W_N$ and $W_3^{(2)}$. Our formalism
+yields a completely algorithmic method for calculating the W algebra generators
+and their operator product expansions, replacing the cumbersome construction of
+W algebras as commutants of screening operators. By generalizing and quantizing
+the Miura transformation we show that any $W$ algebra in $\cal W$ can be
+embedded into the universal enveloping algebra of a semisimple affine Lie
+algebra which is, up to shifts in level, isomorphic to a subalgebra of the
+original affine algebra. Therefore {\em any} realization of this semisimple
+affine Lie algebra leads to a realization of the $W$ algebra. In particular,
+one obtains in this way a general and explicit method for constructing the free
+field realizations and Fock resolutions for all algebras in $\cal W$. Some
+examples are explicitly worked out.
+","[{""version"":""v1"",""created"":""Tue, 2 Feb 1993 13:48:20 GMT""}]","2014-11-18"

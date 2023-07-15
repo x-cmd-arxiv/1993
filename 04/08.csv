@@ -1,0 +1,289 @@
+"alg-geom/9304002","Xian Wu","Xian Wu","Refined intersection products and limiting linear subspaces of
+  hypersurfaces","AmS-Tex, 26 pages",,,,"alg-geom math.AG",,"  Let $X$ be a hypersurface of degree $d$ in $\Bbb P^n$ and $F_X$ be the scheme
+of $\Bbb P^r$'s contained in $X$. If $X$ is generic, then $F_X$ will have the
+expected dimension (or empty) and its class in the Chow ring of $G(r+1,n+1)$ is
+given by the top Chern class of the vector bundle $S^dU^*$, where $U$ is the
+universal subbundle on the Grassmannian $G(r+1,n+1)$. When we deform a generic
+$X$ into a degenerate $X_0$, the dimension of $F_X$ can jump. In this case,
+there is a subscheme $F_{lim}$ of $F_{X_0}$ with the expected dimension which
+consists of limiting $\Bbb P^r$'s in $X_0$ with respect to a general
+deformation. The simplest example is the well-known case of $27$ lines in a
+generic cubic surface. If we degenerate the surface into the union of a plane
+and a quadric, then there are infinitely many lines in the union. Which $27$
+lines are the limiting ones and how many of them are in the plane and how many
+of them are in the quadric? The goal of this paper is to study $F_{lim}$ in
+general.
+","[{""version"":""v1"",""created"":""Wed, 7 Apr 1993 19:25:11 GMT""}]","2008-02-03"
+"astro-ph/9304007","Ilona Bednarek","R.Manka, I.Bednarek, D.Karczewska","The Neutrino Ball Model of a Quasar","10, Latex, psbox, 3 figures, USL-TH-93-01",,,,"astro-ph",,"  It is suggested that the nonorthodox model of a quasar as a neutrino ball
+described in terms of the standard model extended by adding right-handed
+neutrinos and the Majorana scalar field can be presented in order to explain a
+quasar as a body of weak interacting neutrinos. Neutrino interaction with the
+scalar Majorana field violates the lepton number and produces the mass
+splitting of the neutrino due to the sea-saw mechanism. In this model a quasar
+is an object which appears in the result of the first order cosmological phase
+transition. In this interpretation a quasar may be regarded as a ball filled
+with Dirac neutrinos and can be treated as a remnant of phase transition with
+unbroken global lepton symmetry. In this paper we study the macroscopic
+parameters of such a configuration. In the result the mass-radius curve M(R)
+for the quasar is obtained.
+","[{""version"":""v1"",""created"":""Wed, 7 Apr 1993 16:26:33 GMT""}]","2019-08-17"
+"astro-ph/9304008",,"K. Krisciunas, C. Aspin, T. R. Geballe, H. Akazawa, C. F. Claver, E.
+  F. Guinan, H. J. Landis, K. D. Luedeke, N. Ohkura, O. Ohshima, and D. R.
+  Skillman","The 9 Aurigae System","16 pages plus 2 tables plus 6 figures Edinburgh Astronomy Preprint
+  6/93","Mon.Not.Roy.Astron.Soc. 263 (1993) 781","10.1093/mnras/263.3.781",,"astro-ph",,"  The F0 V star 9 Aur A exhibits an irregular variability of amplitude $\approx
+$0.1 magnitude at optical wavelengths. The variations are too slow for it to be
+a $\delta$ Scuti-type star. There is no evidence for a close, interacting
+companion or ring of dust, either from infrared, ultraviolet, or speckle data.
+The photometric variability of 9 Aur A is similar to two other early F dwarf
+stars: $\gamma$ Doradus and HD 96008. 9 Aur B appears to be an M dwarf, 9 Aur C
+is an early- to mid-K dwarf star, and 9 Aur E, if it is a member of the system,
+probably is a normal white dwarf. 9 Aur D is most likely an unrelated and
+distant K giant. [See note added in press regarding a fourth member of this
+class of ``variables without a cause"", and short term variations of the radial
+velocity of 9 Aur.]
+","[{""version"":""v1"",""created"":""Wed, 7 Apr 1993 23:55:45 GMT""}]","2015-06-24"
+"astro-ph/9304009",,"A. Biviano, M. Girardi, G. Giuricin, F. Mardirossian, and M. Mezzetti","The Mass Function of Nearby Galaxy Clusters","10 pages (2 figures not included, available upon request), LATEX,
+  Ref.SISSA 54/93/A","Astrophys.J.411:L13,1993","10.1086/186900",,"astro-ph",,"  We present the distribution of virial masses for nearby galaxy clusters, as
+obtained from a data-set of 75 clusters, each having at least 20 galaxy members
+with measured redshifts within 1 Abell radius. After having accounted for
+problems of incompleteness of the data-set, we fitted a power-law to the
+cluster mass distribution.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 14:21:31 GMT""}]","2009-10-22"
+"chao-dyn/9304002","Gregory J. Chaitin","G. J. Chaitin (IBM Research Division)","Randomness in Arithmetic and The Decline and Fall of Reductionism in
+  Pure Mathematics","27 pages, LaTeX",,,"RC-18532","chao-dyn nlin.CD",,"  Lecture given Thursday 22 October 1992 at a Mathematics-Computer Science
+Colloquium at the University of New Mexico. The lecture was videotaped; this is
+an edited transcript.
+","[{""version"":""v1"",""created"":""Wed, 7 Apr 1993 18:28:15 GMT""}]","2008-02-03"
+"cond-mat/9304009","Eric D. Williams","Eric D. Williams","Thermodynamics and Excitations of the Supersymmetric $t-J$ Model","20 pages (2 figures not included, will send on request), LaTex,
+  Preprint # ITP-SB-92-72",,,,"cond-mat",,"  The free energy of the supersymmetric $t-J$ model is expressed in terms of
+finite temperature excitations above thermodynamic equilibrium. This reveals
+that the free energy has the form of noninteracting fermions with temperature
+dependant excitation spectra. We also discuss the ground state and zero
+temperature excitations.
+","[{""version"":""v1"",""created"":""Wed, 7 Apr 1993 17:54:23 GMT""}]","2007-05-23"
+"cond-mat/9304010","Kyungsun Moon","K. Moon, H. Yi, C.L. Kane, S.M. Girvin, Matthew P.A. Fisher","Resonant Tunneling Between Quantum Hall Edge States","14 pages , revtex , IUCM93-005",,"10.1103/PhysRevLett.71.4381",,"cond-mat",,"  Resonant tunneling between fractional quantum Hall edge states is studied in
+the Luttinger liquid picture. For the Laughlin parent states, the resonance
+line shape is a universal function whose width scales to zero at zero
+temperature. Extensive quantum Monte Carlo simulations are presented for $\nu =
+1/3$ which confirm this picture and provide a parameter-free prediction for the
+line shape.
+","[{""version"":""v1"",""created"":""Wed, 7 Apr 1993 17:41:06 GMT""}]","2009-10-22"
+"cond-mat/9304011","Feng Shiping","Shiping Feng, J. B. Wu, Z. B. Su, and L. Yu","Slave Particle Studies of the Electron Momentum Distribution in the Low
+  Dimensional $t-J$ Model","REVTEX (26 pages, three figures upon request), International Centre
+  for Theoretical Physics preprint IC/92/377",,"10.1103/PhysRevB.47.15192",,"cond-mat",,"  The electron momentum distribution function in the $t-J$ model is studied in
+the framework of slave particle approach. Within the decoupling scheme used in
+the gauge field and related theories, we treat formally phase and amplitude
+fluctuations as well as constraints without further approximations. Our result
+indicates that the electron Fermi surface observed in the high-resolution
+angle-resolved photoemission and inverse photoemission experiments cannot be
+explained within this framework, and the sum rule for the physical electron is
+not obeyed. A correct scaling behavior of the electron momentum distribution
+function near $k \sim k_{F}$ and $k \sim 3k_{F}$ in one dimension can be
+reproduced by considering the nonlocal string fields [Z. Y. Weng et al., Phys.
+Rev. B45, 7850 (1992)], but the overall momentum distribution is still not
+correct, at least at the mean field level.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 12:24:27 GMT""}]","2009-10-22"
+"gr-qc/9304009","Piotr T. Chrusciel","P.T.Chrusciel, R.Wald","Maximal Hypersurfaces in Asymptotically Stationary Space-Times","44 pages, 2 figures non-included, Latex, MPA-708","Commun. Math. Phys. 163 (1994) 561-604","10.1007/BF02101463",,"gr-qc",,"  Existence of maximal hypersurfaces and of foliations by maximal hypersurfaces
+is proven in two classes of asymptotically flat spacetimes which possess a one
+parameter group of isometries whose orbits are timelike ``near infinity''. The
+first class consists of strongly causal asymptotically flat spacetimes which
+contain no ``black hole or white hole"" (but may contain ``ergoregions"" where
+the Killing orbits fail to be timelike). The second class of spacetimes possess
+a black hole and a white hole, with the black and white hole horizons
+intersecting in a compact 2-surface $S$.
+","[{""version"":""v1"",""created"":""Wed, 7 Apr 1993 16:05:53 GMT""}]","2015-06-25"
+"gr-qc/9304010","Viqar Husain","Viqar Husain","General covariance, loops and matter","17 pages, Alberta-Thy-2-93 (RevTex)","Phys.Rev. D47 (1993) 5394-5399","10.1103/PhysRevD.47.5394",,"gr-qc",,"  A four dimensional generally covariant field theory is presented which
+describes non-dynamical three geometries coupled to scalar fields. The theory
+has an infinite number of physical observables (or constants of the motion)
+which are constructed from loops made from scalar field configurations. The
+Poisson algebra of these observables is closed and is the same as that for the
+3+1 gravity loop variables in the Ashtekar formalism. The theory also has
+observables that give the areas of open surfaces and the volumes of finite
+regions. Solutions to all the Hamilton-Jacobi equations for the theory and the
+Dirac quantization conditions in the coordinate representation are given. These
+solutions are holonomies based on matter loops. A brief discussion of the loop
+space representation for the quantum theory is also given together with some
+implications for the quantization of 3+1 gravity.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 00:02:59 GMT""}]","2009-10-22"
+"gr-qc/9304011",,"D.H. Coule and D. Solomons","Can quantum wormholes set $Lam$ 0",,,,,"gr-qc",,"  We find the quantum analogues of Carlini-Mijic wormholes and consider their
+application to the cosmological constant problem. In a simple model with
+$\Lambda$ only we differ with the results of Strominger.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 14:31:19 GMT""}]","2007-05-23"
+"hep-lat/9304003","Haruto Hirose","S.Aoki, H. Hirose and Y. Kikukawa","Charged fermion states in the quenched U(1) chiral Wilson-Yukawa model","Latex 34 page (13 figures included), Uncompress file (original
+  compress file can not be uncompressed), epsf.sty (included), UTHEP-256","Int. J. Mod. Phys. A9 (1994) 4129-4148","10.1142/S0217751X94001679",,"hep-lat",,"  Property of charged fermion states is investigated in the quenched U(1)
+chiral Wilson-Yukawa model. Fitting the charged fermion propagator with a
+single hyperbolic cosine does not yield reliable results. On the other hand the
+behavior of the propagator including large lattice size dependence is well
+described by the large Wilson-Yukawa coupling expansion, providing strong
+evidence that no charged fermion state exists as an asymptotic particle in this
+model.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 07:21:56 GMT""},{""version"":""v2"",""created"":""Tue, 13 Apr 1993 02:10:19 GMT""}]","2009-10-22"
+"hep-lat/9304004","Thomas Kalkreuter","Thomas Kalkreuter","Idealized Multigrid Algorithm for Staggered Fermions","11 pages, no figures, DESY 93-046; can be formatted with plain LaTeX
+  article style","Phys.Rev. D48 (1993) 1926-1930","10.1103/PhysRevD.48.R1926",,"hep-lat",,"  An idealized multigrid algorithm for the computation of propagators of
+staggered fermions is investigated.
+  Exemplified in four-dimensional $SU(2)$ gauge fields, it is shown that the
+idealized algorithm preserves criticality under coarsening.
+  The same is not true when the coarse grid operator is defined by the Galerkin
+prescription.
+  Relaxation times in computations of propagators are small, and critical
+slowing is strongly reduced (or eliminated) in the idealized algorithm.
+  Unfortunately, this algorithm is not practical for production runs, but the
+investigations presented here answer important questions of principle.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 09:30:54 GMT""}]","2009-10-22"
+"hep-ph/9304227","Ivan","Eric Braaten","Tau Polarimetry with Inclusive Decays","LateX, 11 pages, no figures, NUHEP-TH-93-5","Phys.Rev.Lett. 71 (1993) 1316-1319","10.1103/PhysRevLett.71.1316",,"hep-ph",,"  The spin asymmetry parameter $A_\tau$ characterizing the angular distribution
+of the total hadron momentum in the decay of a polarized tau can be calculated
+rigorously using perturbative QCD and the operator product expansion.
+Perturbative QCD corrections to the free quark result $A_\tau = 1/3$ can be
+expressed as a power series in $\alpha_s(M_\tau)$ and nonperturbative QCD
+corrections can be expanded systematically in powers of $1/M_\tau^2$. The QCD
+prediction is $A_\tau = 0.41 \pm 0.02$. In the decay of a high energy tau into
+hadrons, the value of the hadronic energy distribution $dR_\tau/dz$ evaluated
+at the maximum hadronic energy fraction $z = 1$ can also be calculated
+rigorously from QCD.
+","[{""version"":""v1"",""created"":""Wed, 7 Apr 1993 16:16:35 GMT""}]","2009-10-22"
+"hep-ph/9304228","Edward Kolb","Edmund J. Copeland, Edward W. Kolb, Andrew R. Liddle, and James E.
+  Lidsey","Observing the Inflaton Potential","9 pages, LaTeX, FERMILAB--PUB--93/071--A; SUSSEX-AST 93/4-1","Phys.Rev.Lett. 71 (1993) 219-222","10.1103/PhysRevLett.71.219",,"hep-ph astro-ph gr-qc",,"  We show how observations of the density perturbation (scalar) spectrum and
+the gravitational wave (tensor) spectrum allow a reconstruction of the
+potential responsible for cosmological inflation. A complete functional
+reconstruction or a perturbative approximation about a single scale are
+possible; the suitability of each approach depends on the data available.
+Consistency equations between the scalar and tensor spectra are derived, which
+provide a powerful signal of inflation.
+","[{""version"":""v1"",""created"":""Wed, 7 Apr 1993 21:31:17 GMT""}]","2009-10-22"
+"hep-ph/9304229","Jim Cline","James M. Cline, Kimmo Kainulainen and Keith A. Olive","Constraints on Majoron Models, Neutrino Masses and Baryogenesis","19pp., latex, UMN-TH-1113-93","Astropart.Phys.1:387-398,1993","10.1016/0927-6505(93)90005-X",,"hep-ph",,"  We derive strong contraints on the Yukawa couplings and the vacuum
+expectation value in the singlet majoron model, taking into account the
+possibility of a small gravitationally induced mass for the majoron. If the
+present baryon asymmetry was created earlier than at the electroweak phase
+transition, then to preserve it from the combined effects of lepton number
+violating interactions and electroweak sphalerons, we find that stringent
+constraints on the Yukawa couplings, $h < 10^{-7}$, and the majoron scale, $v_s
+< v_{EW}$, must be satisfied. We also carefully rederive baryogenesis bounds on
+neutrino masses, finding that in general they apply not to the masses
+themselves, but only to related parameters, and they are numerically somewhat
+less stringent than has previously been claimed.
+","[{""version"":""v1"",""created"":""Wed, 7 Apr 1993 20:16:00 GMT""}]","2009-09-15"
+"hep-ph/9304230","Christopher Arzt","C. Arzt","Reduced Effective Lagrangians","14 pages, no figures, PHYZZX, report #UM-TH-92-28","Phys.Lett. B342 (1995) 189-195","10.1016/0370-2693(94)01419-D",,"hep-ph",,"  Effective Lagrangians, including those that are spontaneously broken, contain
+redundant terms. It is shown that the classical equations of motion may be used
+to simplify the effective Lagrangian, even when quantum loops are to be
+considered.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 07:45:13 GMT""}]","2009-10-22"
+"hep-ph/9304231",,"M. Genovese, D.B. Lichtemberg and E. Predazzi","Phenomenology of Spin Zero Mesons and Glueballs","25 pag, IUHET 248 andDFTT 14/93",,,,"hep-ph",,"  We discuss the phenomenology of scalar and pseudoscalar mesons, emphasizing
+those which do not carry manifest flavor quantum numbers. Many of the
+properties of these mesons are still not fully understood. Some of them
+probably do not have the usual two-quark (quark-antiquark) structure, but may
+be mixed with glueball states or other exotics. %, hybrids, or four-quark
+states. We construct or discuss simple models for these mesons and point out
+which measurements can shed light on their composition.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 10:27:13 GMT""}]","2007-05-23"
+"hep-ph/9304232","Joachim Levelt","J. Levelt and P.J. Mulders","Quark correlation functions in deep inelastic semi-inclusive processes","26 pages, plain LaTeX, 7 figures available upon request, NIKHEF 92-P9
+  (R)","Phys.Rev.D49:96-113,1994","10.1103/PhysRevD.49.96",,"hep-ph",,"  We investigate one-particle semi-inclusive processes in lepton-hadron
+scattering. In unpolarized scattering order $Q^{-1}$ corrections appear only
+when transverse momenta are detected. We consider the twist two and three
+matrix elements and calculate the semi-inclusive structure functions in terms
+of quark correlation functions. We find that at twist three level not only the
+standard quark distribution and fragmentation function contribute, but also two
+new transverse ""profile functions"". We demonstrate explicit gauge invariance of
+the hadronic tensor at the twist three level. The results of our approach are
+used to calculate expressions for some cross sections for semi-inclusive
+processes.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 12:11:17 GMT""}]","2009-12-15"
+"hep-ph/9304233","Silas Beane","Silas R. Beane and Samir Varma","Strongly Interacting W's and Z's and the Existence of a Heavy Fourth
+  Generation of Fermions","8 pages including 4 uuencoded, tarred, and compressed postscript
+  figures, CPP-93-09","Phys.Lett. B313 (1993) 165-170","10.1016/0370-2693(93)91207-4",,"hep-ph",,"  By employing the dictum that axiomatic principles are devoid of predictive
+power, we find that the elastic unitarity constraint, applied to strong
+W$_L$W$_L$ scattering, does not alter the assumed spectrum of intermediate
+states. We consider intermediate states involving a heavy Higgs and heavy
+fermions of a hypothetical fourth generation doublet. In contrast to recent
+studies, we find no p-wave resonance, and therefore no violation of the S
+parameter upper bound. We conclude that the elastic unitarity constraint sheds
+no light on the existence of a heavy fourth generation.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 14:14:24 GMT""}]","2009-10-22"
+"hep-th/9304026","Edward Witten","Edward Witten","On the Landau-Ginzburg Description of $N=2$ Minimal Models","24 pp., references added","Int.J.Mod.Phys.A9:4783-4800,1994","10.1142/S0217751X9400193X","IASSNS-HEP-93/10","hep-th",,"  The conjecture that $N=2$ minimal models in two dimensions are critical
+points of a super-renormalizable Landau-Ginzburg model can be tested by
+computing the path integral of the Landau-Ginzburg model with certain twisted
+boundary conditions. This leads to simple expressions for certain characters of
+the $N=2$ models which can be verified at least at low levels. An $N=2$
+superconformal algebra can in fact be found directly in the {\it noncritical}
+Landau-Ginzburg system, giving further support for the conjecture.
+","[{""version"":""v1"",""created"":""Wed, 7 Apr 1993 16:22:00 GMT""},{""version"":""v2"",""created"":""Thu, 3 Jun 1993 15:50:08 GMT""},{""version"":""v3"",""created"":""Fri, 9 Jul 1993 20:24:45 GMT""}]","2010-04-07"
+"hep-th/9304027","Steve Giddings","S.B. Giddings","Constraints on Black Hole Remnants","harvmac, 27 pages (l mode), 4 figures included with epsf. (Revision:
+  references added.) UCSBTH-93-08","Phys.Rev.D49:947-957,1994","10.1103/PhysRevD.49.947",,"hep-th gr-qc",,"  One possible fate of information lost to black holes is its preservation in
+black hole remnants. It is argued that a type of effective field theory
+describes such remnants (generically referred to as informons). The general
+structure of such a theory is investigated and the infinite pair production
+problem is revisited. A toy model for remnants clarifies some of the basic
+issues; in particular, infinite remnant production is not suppressed simply by
+the large internal volumes as proposed in cornucopion scenarios. Criteria for
+avoiding infinite production are stated in terms of couplings in the effective
+theory. Such instabilities remain a problem barring what would be described in
+that theory as a strong coupling conspiracy. The relation to euclidean
+calculations of cornucopion production is sketched, and potential flaws in that
+analysis are outlined. However, it is quite plausible that pair production of
+ordinary black holes (e.g. Reissner Nordstrom or others) is suppressed due to
+strong effective couplings. It also remains an open possibility that a
+microscopic dynamics can be found yielding an appropriate strongly coupled
+effective theory of neutral informons without infinite pair production.
+","[{""version"":""v1"",""created"":""Wed, 7 Apr 1993 17:34:20 GMT""},{""version"":""v2"",""created"":""Wed, 21 Apr 1993 01:58:49 GMT""},{""version"":""v3"",""created"":""Mon, 10 May 1993 22:00:04 GMT""}]","2014-11-18"
+"hep-th/9304028","Ez","Pavel M. Bleher","Energy--Level Statistics of Model Quantum Systems: Universality and
+  Scaling in a Lattice--Point Problem","48 pages, IASSNS-HEP 93/14",,"10.1007/BF02186812",,"hep-th",,"  We investigate the statistics of the number $N(R,S)$ of lattice points, $n\in
+\Z^2$, in a ``random'' annular domain $\Pi(R,w)=\,(R+w)A\,\setminus RA$, where
+$R,w >0$. Here $A$ is a fixed convex set with smooth boundary and $w$ is chosen
+so that the area of $\Pi (R,w)$ is $S$. The randomness comes from $R$ being
+taken as random ( with a smooth denisity ) in some interval $[c_1T,c_2T]$,
+$c_2>c_1>0$. We find that in the limit $T\to\infty $ the variance and
+distribution of $\De N=N(R;S)-S$ depends strongly on how $S$ grows with $T$.
+There is a saturation regime $S/T\to\infty$, as $T\to\infty$ in which the
+fluctuations in $\Delta N$ coming from the two boundaries of $\Pi $, are
+independent. Then there is a scaling regime, $S/T\to z$, $0<z<\infty $ in which
+the distribution depends on $z$ in an almost periodic way going to a Gaussian
+as $z\to\ 0$. The variance in this limit approaches $z$ for ``generic'' $A$ but
+can be larger for ``degenerate'' cases. The former behavior is what one would
+expect from the Poisson limit of a distribution for annuli of finite area.
+","[{""version"":""v1"",""created"":""Wed, 7 Apr 1993 20:15:00 GMT""}]","2009-10-22"
+"hep-th/9304029","Toshio Nakatsu","Toshio Nakatsu and Yuji Sugawara","Instanton and Spectral Flow in Topological Conformal Field Theories","50 pages, Latex file","Nucl.Phys. B405 (1993) 695-743","10.1016/0550-3213(93)90564-6",,"hep-th",,"  A class of two-dimensional topological conformal field theories (TCFTs) is
+studied within the framework of gauged WZW models in order to gain some
+insights on the global geometrical nature of TCFTs. The BRST quantizations of
+topological G/H gauged WZW models (the twisted versions of SUSY gauged WZW
+models) are given under fixed back-ground gauge fields. The BRST-cohomology of
+the system is investigated and the correlation functions among these physical
+observables are considered under the instanton back-grounds. As a consequence,
+two-dimensional BF gauge theoretical aspects of TCFTs are revealed. Especially
+it is shown that two correlation functions under the different instanton
+back-grounds can change to each other. This process of transmutation is
+described by the spectral flow. The flow is formulated as a ""singular"" gauge
+transformation which creates an appropriate back-ground charge on the physical
+vacuum of the system. The field identification problem of the system is also
+discussed from the above point of view.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 12:54:38 GMT""}]","2009-10-22"
+"hep-th/9304030","A. P. Martin","A.C.Davis and A.P.Martin","A Global Analogue of the Aharonov-Bohm Effect","6 pages, DAMTP 93-09 This paper has been heavily revised, the final
+  results now being contained in hep-ph/9311202 and hep-ph/9311203",,,,"hep-th",,"  This paper has been heavily revised, the final results now being contained in
+hep-ph/9311202 and hep-ph/9311203.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 14:17:08 GMT""},{""version"":""v2"",""created"":""Thu, 27 Oct 1994 09:50:14 GMT""}]","2008-02-03"
+"hep-th/9304031","Erik Aurell","Erik Aurell and Per Salomonson","On Functional Determinants of Laplacians in Polygons and Simplices","40 pages","Commun.Math.Phys. 165 (1994) 233-260","10.1007/BF02099770",,"hep-th math.DG",,"  The functional determinant of an elliptic operator with positive, discrete
+spectrum may be defined as $e^{-Z'(0)}$, where $Z(s)$, the zeta function, is
+the sum $\sum_n^{\infty} \lambda_n^{-s}$ analytically continued to $s$ around
+the origin. In this paper $Z'(0)$ is calculated for the Laplace operator with
+Dirichlet boundary conditions inside polygons and simplices with the topology
+of a disc in the Euclidean plane. The domains we consider are hence piece--wise
+flat with corners on the boundary and in the interior. Our results are
+complementary to earlier investigations of the determinants on smooth surfaces
+with smooth boundaries. We have explicit closed integrated expressions for
+triangles and regular polygons.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 15:23:52 GMT""}]","2009-10-22"
+"nucl-th/9304005","Peter Henning","P.A.Henning and H.Umezawa","The Delta-Hole model at Finite Temperature","34 pages in standard LaTeX GSI-preprint No. GSI-93-23","Nucl.Phys. A571 (1994) 617-644","10.1016/0375-9474(94)90713-7",,"nucl-th",,"  The spectral function of pions interacting with a gas of nucleons and
+Delta-33-resonances is investigated using the formalism of Thermo Field
+Dynamics. After a discussion of the zero Delta-width approximation at finite
+temperature, we take into account a constant width of the resonance. Apart from
+a full numerical calculation, we give analytical approximations to the pionic
+spectral function including such a width. They are found to be different from
+previous approximations, and require an increase of the effective Delta-width
+in hot compressed nuclear matter. The results are summarized in an effective
+dispersion relation for interacting pions.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 10:33:58 GMT""}]","2009-10-22"
+"nucl-th/9304006","Peter Henning","P.A.Henning and H.Umezawa","Diagonalization of full finite temperature Green's function by
+  quasi-particles","9 pages in standard LaTeX","Phys.Lett. B303 (1993) 209-214","10.1016/0370-2693(93)91421-I",,"nucl-th",,"  For thermal systems, standard perturbation theory breaks down because of the
+absence of stable, observable asymptotic states. We show, how the introduction
+of {\it statistical} quasi-particles (stable, but not observable) gives rise to
+a consistent description. Statistical and spectral information can be cleanly
+separated also for interacting systems.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 11:07:42 GMT""}]","2009-10-22"

@@ -1,0 +1,166 @@
+"alg-geom/9301006",,"Sheldon Katz","Rational curves on Calabi-Yau manifolds: verifying predictions of Mirror
+  Symmetry","12 pages, LaTeX (Replaced version corrects an error in the formula
+  for bundle $B'$ on page 5, and changes the order of some entries in tables 2
+  and 3 for compatibility with the associated computer file)",,,"OSU Math 1992-3","alg-geom hep-th math.AG",,"  Mirror symmetry, a phenomenon in superstring theory, has recently been used
+to give tentative calculations of several numbers in algebraic geometry. In
+this paper, the numbers of lines and conics on various hypersurfaces which
+satisfy certain incidence properties are calculated, and shown to agree with
+the numbers predicted by Greene, Morrison, and Plesser using mirror symmetry in
+every instance. This increases the number of verified predictions from 3 to 65.
+Calculations are performed using the Maple package {\sc schubert} written by
+Katz and Str{\o}mme.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 23:05:22 GMT""},{""version"":""v2"",""created"":""Mon, 1 Feb 1993 19:39:30 GMT""}]","2008-02-03"
+"cond-mat/9301036","Charles A. Stafford","C. A. Stafford and A. J. Millis","Scaling theory of the Mott-Hubbard metal-insulator transition in one
+  dimension","34 pages, REVTEX (5 figures by request)","Phys.Rev. B48 (1993) 1409","10.1103/PhysRevB.48.1409",,"cond-mat",,"  We use the Bethe ansatz equations to calculate the charge stiffness $D_{\rm
+c} = (L/2) d^2 E_0/d\Phi_{\rm c}^2|_{\Phi_{\rm c}=0}$ of the one-dimensional
+repulsive-interaction Hubbard model for electron densities close to the Mott
+insulating value of one electron per site ($n=1$), where $E_0$ is the ground
+state energy, $L$ is the circumference of the system (assumed to have periodic
+boundary conditions), and $(\hbar c/e)\Phi_{\rm c}$ is the magnetic flux
+enclosed. We obtain an exact result for the asymptotic form of $D_{\rm c}(L)$
+as $L\to \infty$ at $n=1$, which defines and yields an analytic expression for
+the correlation length $\xi$ in the Mott insulating phase of the model as a
+function of the on-site repulsion $U$. In the vicinity of the zero temperature
+critical point U=0, $n=1$, we show that the charge stiffness has the
+hyperscaling form $D_{\rm c}(n,L,U)=Y_+(\xi \delta, \xi/L)$, where $\delta
+=|1-n|$ and $Y_+$ is a universal scaling function which we calculate. The
+physical significance of $\xi$ in the metallic phase of the model is that it
+defines the characteristic size of the charge-carrying solitons, or {\em
+holons}. We construct an explicit mapping for arbitrary $U$ and $\xi \delta \ll
+1$ of the holons onto weakly interacting spinless fermions, and use this
+mapping to obtain an asymptotically exact expression for the low temperature
+thermopower near the metal-insulator transition, which is a generalization to
+arbitrary $U$ of a result previously obtained using a weak- coupling
+approximation, and implies hole-like transport for $0<1-n\ll\xi^{-1}$.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 23:05:42 GMT""}]","2007-05-23"
+"cond-mat/9301037","Wei Chen","Wei Chen (UBC), Matthew P.A. Fisher (IBM), and Yong-Shi Wu (Utah)","Mott Transition in An Anyon Gas","text and figures in Latex, 41 pages, UBCTP-92-28, CTP\#2157","Phys.Rev.B48:13749-13761,1993","10.1103/PhysRevB.48.13749",,"cond-mat hep-th",,"  We introduce and analyze a lattice model of anyons in a periodic potential
+and an external magnetic field which exhibits a transition from a Mott
+insulator to a quantum Hall fluid. The transition is characterized by the anyon
+statistics, $\alpha$, which can vary between Fermions, $\alpha=0$, and Bosons,
+$\alpha=1$. For bosons the transition is in the universality class of the
+classical three-dimensional XY model. Near the Fermion limit, the transition is
+described by a massless $2+1$ Dirac theory coupled to a Chern-Simons gauge
+field. Analytic calculations perturbative in $\alpha$, and also a large
+N-expansion, show that due to gauge fluctuations, the critical properties of
+the transition are dependent on the anyon statistics. Comparison with previous
+calcualations at and near the Boson limit, strongly suggest that our lattice
+model exhibits a fixed line of critical points, with universal critical
+properties which vary continuosly and monotonically as one passes from Fermions
+to Bosons. Possible relevance to experiments on the transitions between
+plateaus in the fractional quantum Hall effect and the magnetic field-tuned
+superconductor-insulator transition are briefly discussed.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 02:40:00 GMT""}]","2008-11-26"
+"gr-qc/9301022","Marco","M. Cavaglia' V. de Alfaro and F. de Felice","An Anisotropic Wormhole:TUNNELLING in Time and Space","PLAIN-TEX, 16 pages (4 figures not included), Report DFTT 2/93","Phys.Rev. D49 (1994) 6493-6499","10.1103/PhysRevD.49.6493",,"gr-qc",,"  We discuss the structure of a gravitational euclidean instanton obtained
+through coupling of gravity to electromagnetism. Its topology at fixed $t$ is
+$S^1\times S^2$. This euclidean solution can be interpreted as a tunnelling to
+a hyperbolic space (baby universe) at $t=0$ or alternatively as a static
+wormhole that joins the two asymptotically flat spaces of a
+Reissner--Nordstr\""om type solution with $M=0$.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 17:12:57 GMT""}]","2009-10-22"
+"hep-lat/9301020","B. Grossmann","B. Grossmann, M. L. Laursen","The Confined-Deconfined Interface Tension in Quenched QCD using the
+  Histogram Method","15 pages, 9 figures (of which 2 are included, requiring the epsf
+  style file), preprint HLRZ-93-7","Nucl.Phys. B408 (1993) 637-656","10.1016/0550-3213(93)90383-Z",,"hep-lat",,"  We present results for the confinement-deconfinement interface tension
+$\sigma_{cd}$ of quenched QCD. They were obtained by applying Binder's
+histogram method to lattices of size $L^2\times L_z\times L_t$ for $L_t=2$ and
+$L=8,10,12\mbox{ and }14$ and various $L_z\in [L,\, 4\, L]$. The use of a
+multicanonical algorithm and rectangular geometries have turned out to be
+crucial for the numerical studies. We also give an estimate for $\sigma_{cd}$
+at $L_t=4$ using published data.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 08:54:04 GMT""}]","2009-10-22"
+"hep-ph/9301286",,"R.N. Mohapatra and X. Zhang","Restrictions on B-L Symmetry Breaking Implied by a Fourth Generation
+  Neutrino","8 pages, Tex, UMDHEP 93-126","Phys.Lett. B305 (1993) 106-108","10.1016/0370-2693(93)91112-Z",,"hep-ph",,"  Several misprints in the earlier version (hep-ph/9301286) have been
+corrected.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 16:21:00 GMT""},{""version"":""v2"",""created"":""Sun, 31 Jan 1993 21:35:00 GMT""}]","2009-10-22"
+"hep-ph/9301287","Michael Joyce","Michael Joyce and Neil Turok","Family Symmetry, Fermion Mass Matrices and Cosmic Texture","35 pages, PUP-TH-1374 (1993)","Nucl.Phys. B416 (1994) 389-413","10.1016/0550-3213(94)90320-4",,"hep-ph",,"  The observed replication of fermions in three families is undoubtedly a
+reflection of a deeper symmetry underlying the standard model. In this paper we
+investigate one very elementary possibility, that physics above the grand
+unification scale is described by the symmetry group $G\timesSU(3)_{fam}$ with
+$G$ a gauged grand unified group, and $SU(3)_{fam}$ a global family symmetry.
+The breaking of this symmetry at the GUT scale produces global texture,
+providing a mechanism for structure formation in the universe, and sets strong
+constraints on the low energy fermion mass matrix. With the addition of a ${\bf
+45}$ Higgs and certain assumptions about the relative strength of Higgs
+couplings, the simplest $SU(5)$ theory yields an eight parameter form for the
+fermion mass matrices, which we show is consistent with the thirteen observable
+masses and mixing angles. We discuss the natural suppression of flavour
+changing neutral currents (FCNCs) and emphasise the rich low energy Higgs
+sector. With minor assumptions, the theory unifies consistently with the recent
+LEP data. We consider the extension to $G=SO(10)$, where some simplification
+and further predictiveness emerges. Finally we discuss the dynamics of
+$SU(3)_{fam}$ texture and show that the known constraints on unification
+`predict' a GUT symmetry breaking scale of the order required for cosmic
+structure formation, and by the recent detection of cosmic microwave anisotropy
+by COBE.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 16:52:29 GMT""}]","2009-10-22"
+"hep-ph/9301288","Kingman Cheung","Kingman Cheung","$WZ$, $W\gamma$, $WW$ and $ZZ$ pair productions at TeV $e\gamma$
+  colliders","Latex(Revtex), 17 pages, 5 figures in postscript format (uuencoded),
+  NUHEP-TH-92-24","Nucl.Phys. B403 (1993) 572-586","10.1016/0550-3213(93)90362-S",,"hep-ph",,"  We calculate the gauge-boson pairs $W^-Z$, $W^-\gamma$, $W^+W^-$, $ZZ$
+productions in the $e^- \gamma$ collisions, where the photon beam is realized
+by the laser back-scattering method. These processes are important tests for
+the non-abelian gauge sector of the standard model (SM). Precise calculations
+of these processes can therefore probe the anomalous gauge-boson interactions.
+Besides, these processes are important potential backgrounds for the
+intermediate mass Higgs (IMH) search in the $e\gamma\rightarrow WH\nu$
+production.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 20:01:03 GMT""}]","2009-10-22"
+"hep-ph/9301289",,"J. G. Koerner, A. Pilaftsis, K. Schilcher","Leptonic CP Asymmetries in Flavor-changing H0 Decays","22 pages(1 Fig. not included), LaTeX, MZ-TH/92-30","Phys.Rev.D47:1080-1086,1993","10.1103/PhysRevD.47.1080",,"hep-ph",,"  Leptonic flavor-changing $H^0$ decays with branching ratios of the order of
+$10^{-5}-10^{-6}$ may constitute an interesting framework when looking for
+large $CP$-violating effects. We show that leptonic $CP$~asymmetries of an
+intermediate $H^0$ boson can be fairly large in natural scenarios of the
+minimal Standard Model ($SM$) with right-handed neutrinos, at a level that may
+be probed at future $H^0$~factories.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 12:11:00 GMT""}]","2010-11-01"
+"hep-ph/9301290",,"J.G. Koerner, A. Pilaftsis, K. Schilcher","Leptonic Flavor-changing Z0 Decays in SU(2)xU(1) Theories with Right-
+  handed Neutrinos","11 pages(2 Figs not included), LaTeX, MZ-TH/92-49","Phys.Lett. B300 (1993) 381-386","10.1016/0370-2693(93)91350-V",,"hep-ph",,"  We analyze possible lepton-flavor-violating decays of the $Z^0$ particle in a
+minimal extension of the Standard Model, in which one right-handed neutral
+field for each family has been introduced. Such rare leptonic decays are
+induced by Majorana neutrinos at the first electroweak loop level and are
+generally not suppressed by the ordinary ""see-saw"" mechanism. In particular, we
+find that experimental bounds on branching ratios of the order of
+$10^{-5}-10^{-6}$ attainable at $LEP$ may impose constraints on
+lepton-flavor-mixing parameters and the masses of the heavy Majorana neutrinos.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 12:30:00 GMT""}]","2009-10-22"
+"hep-ph/9301291","N. Tracas","G.K. Leontaris, and J.D. Vergados","Neutrino Masses in Flipped SU(5)","(14 Pages,No figures,TEX,IOA-290/92 preprint)","Phys.Lett.B305:242-251,1993","10.1016/0370-2693(93)90114-W",,"hep-ph",,"  We analyse the fermion masses and mixings in the flipped SU(5) model. The
+fermion mass matrices are evolved from the GUT scale down to $m_W$ by solving
+the renormalization group equations for the Yukawa couplings. The constraints
+imposed by the charged fermion data are then utilised to make predictions about
+the neutrino properties . It is found that the {\it generalized } see-saw
+mechanism which occurs naturally in this model can provide {\it i})a solution
+to the solar neutrino problem via the MSW mechanism and {\it ii})a sufficiently
+large $\nu _{\tau }$ mass to contribute as a hot dark matter component as
+indicated by the recent COBE data.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 13:24:51 GMT""}]","2010-11-01"
+"hep-th/9301116",,"Hiromichi Nakazato and Saverio Pascazio","Macroscopic limit of a solvable dynamical model","30 pages, report BA-TH/93-133","Phys.Rev.A48:1066-1081,1993","10.1103/PhysRevA.48.1066",,"hep-th hep-ph",,"  The interaction between an ultrarelativistic particle and a linear array made
+up of $N$ two-level systems (^^ ^^ AgBr"" molecules) is studied by making use of
+a modified version of the Coleman-Hepp Hamiltonian. Energy-exchange processes
+between the particle and the molecules are properly taken into account, and the
+evolution of the total system is calculated exactly both when the array is
+initially in the ground state and in a thermal state. In the macroscopic limit
+($N \rightarrow \infty$), the system remains solvable and leads to interesting
+connections with the Jaynes-Cummings model, that describes the interaction of a
+particle with a maser. The visibility of the interference pattern produced by
+the two branch waves of the particle is computed, and the conditions under
+which the spin array in the $N \rightarrow \infty$ limit behaves as a ^^ ^^
+detector"" are investigated. The behavior of the visibility yields good insights
+into the issue of quantum measurements: It is found that, in the
+thermodynamical limit, a superselection-rule space appears in the description
+of the (macroscopic) apparatus. In general, an initial thermal state of the ^^
+^^ detector"" provokes a more substantial loss of quantum coherence than an
+initial ground state. It is argued that a system decoheres more as the
+temperature of the detector increases. The problem of ^^ ^^ imperfect
+measurements"" is also shortly discussed.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 20:05:00 GMT""}]","2008-11-26"
+"hep-th/9301117","John Gracey","J.A. Gracey","Analysis of Abelian Gauge Theory with Four Fermi Interaction at
+  $O(1/N^2)$ in Arbitrary Dimensions","latex, 13 pages, 4 figures available on request from the author,
+  LTH-297","J.Phys. A26 (1993) 1431-1440","10.1088/0305-4470/26/6/024",,"hep-th",,"  An arbitrary dimensional expression is given for the anomalous dimension of
+the fermion field in a model with a four point interaction and a $U(1)$ gauge
+field, at $O(1/N^2)$ within a large flavour expansion in the Landau gauge.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 08:58:00 GMT""}]","2009-10-22"
+"hep-th/9301118","Ofer Aharony","Ofer Aharony","Generalized Fusion Potentials","TAUP-2029-93, 16 pages of plain Tex. (Added a reference)","Phys.Lett.B306:276-282,1993","10.1016/0370-2693(93)90079-W",,"hep-th",,"  Recently, DiFrancesco and Zuber have characterized the RCFTs which have a
+description in terms of a fusion potential in one variable, and proposed a
+generalized potential to describe other theories. In this note we give a simple
+criterion to determine when such a generalized description is possible. We also
+determine which RCFTs can be described by a fusion potential in more than one
+variable, finding that in fact all RCFTs can be described in such a way, as
+conjectured by Gepner.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 13:57:59 GMT""},{""version"":""v2"",""created"":""Sun, 31 Jan 1993 10:55:27 GMT""}]","2009-09-29"

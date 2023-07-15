@@ -1,0 +1,267 @@
+"adap-org/9305002","Russell W. Anderson","Russell W. Anderson (Los Alamos National Laboratory)","Biased Random-Walk Learning: A Neurobiological Correlate to
+  Trial-and-Error","In press: Progress in Neural Networks",,,,"adap-org nlin.AO q-bio",,"  Neural network models offer a theoretical testbed for the study of learning
+at the cellular level. The only experimentally verified learning rule, Hebb's
+rule, is extremely limited in its ability to train networks to perform complex
+tasks. An identified cellular mechanism responsible for Hebbian-type long-term
+potentiation, the NMDA receptor, is highly versatile. Its function and efficacy
+are modulated by a wide variety of compounds and conditions and are likely to
+be directed by non-local phenomena. Furthermore, it has been demonstrated that
+NMDA receptors are not essential for some types of learning. We have shown that
+another neural network learning rule, the chemotaxis algorithm, is
+theoretically much more powerful than Hebb's rule and is consistent with
+experimental data. A biased random-walk in synaptic weight space is a learning
+rule immanent in nervous activity and may account for some types of learning --
+notably the acquisition of skilled movement.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 20:55:57 GMT""}]","2008-02-03"
+"alg-geom/9306003","Gwoho Liu","Z. Ran","Linear Structure on Calabi-Yau Moduli Spaces","9 pages, amstex2.1",,,,"alg-geom math.AG",,"  We show that the formal moduli space of a Calabi-Yau manifold $X^n$ carries a
+linear structure, as predicted by mirror symmetry. This linear structure is
+canonically associated to a splitting of the Hodge filtration on $H^n(X)$.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 05:51:40 GMT""},{""version"":""v2"",""created"":""Thu, 10 Jun 1993 23:22:27 GMT""}]","2008-02-03"
+"cond-mat/9306006","Nick Bonesteel","N.E. Bonesteel","Compressible Phase of a Double-Layer Electron System with Total
+  Landau-Level Filling Factor One-Half","13 pages, RevTex 3.0, NHMFL-93-0018",,"10.1103/PhysRevB.48.11484",,"cond-mat",,"  Following recent work of Halperin, Lee, and Read, and Kalmeyer and Zhang, a
+double-layer electron system with total Landau-level filling factor $\nu=1/2$
+is mapped onto an equivalent system of fermions in zero average magnetic field
+interacting via a Chern-Simons gauge field. Within the random-phase
+approximation a new, low-lying, diffusive mode, not present in the $\nu=1/2$
+single-layer system, is found. This mode leads to more singular low-energy
+scattering than appears in the single layer system, and to an attractive
+pairing interaction between fermions in different layers which grows stronger
+as the layer spacing is decreased. The possible connection between this pairing
+interaction and the experimentally observed fractional quantum Hall effect in
+double-layer systems is discussed.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 18:51:28 GMT""},{""version"":""v2"",""created"":""Sun, 6 Jun 1993 19:24:37 GMT""}]","2009-10-22"
+"cond-mat/9306007","Alexander Sokol","A. Sokol and D. Pines","Toward a Unified Magnetic Phase Diagram of the Cuprate Superconductors","14 pages, REVTeX v2.1, PostScript file for 3 figures attached,
+  UIUC-P-93-06-048","Physical Review Letters 71, 2813 (1993)","10.1103/PhysRevLett.71.2813",,"cond-mat",,"  We propose a unified magnetic phase diagram of cuprate superconductors. A new
+feature of this phase diagram is a broad intermediate doping region of
+quantum-critical, $z=1$, behavior, characterized by temperature independent
+$T_1T/T_{\rm 2G}$ and linear $T_1T$, where the spin waves are not completely
+absorbed by the electron-hole continuum. The spin gap in the moderately doped
+materials is related to the suppression of the low-energy spectral weight in
+the quantum disordered, $z=1$, regime. The crossover to the $z=2$ regime, where
+$T_1T/T_{\rm 2G}^2 \simeq \mbox{const}$, occurs only in the fully doped
+materials.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 19:31:55 GMT""}]","2009-10-22"
+"cond-mat/9306008","Michael Johnson","S.-R. Eric Yang, A.H. MacDonald, and M.D. Johnson","Addition Spectra of Quantum Dots in Strong Magnetic Fields","11 pages, 3 figures (available from yang@nrcphy1.phy.nrc.ca). Revtex
+  3.0. (IUCM93-010)",,"10.1103/PhysRevLett.71.3194",,"cond-mat",,"  We consider the magnetic field dependence of the chemical potential for
+parabolically confined quantum dots in a strong magnetic field. Approximate
+expressions based on the notion that the size of a dot is determined by a
+competition between confinement and interaction energies are shown to be
+consistent with exact diagonalization studies for small quantum dots. Fine
+structure is present in the magnetic field dependence which cannot be explained
+without a full many-body description and is associated with ground-state level
+crossings as a function of confinement strength or Zeeman interaction strength.
+Some of this fine structure is associated with precursors of the bulk
+incompressible states responsible for the fractional quantum Hall effect.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 13:53:10 GMT""}]","2009-10-22"
+"cond-mat/9306009","Assa Auerbach","Assa Auerbach","Vibrations and Berry Phases of Charged Buckminsterfullerene","Latex 11 pages. IIT-003",,"10.1103/PhysRevLett.72.2931",,"cond-mat",,"  A simple model of electron-vibron interactions in buckminsterfullerene ions
+is solved semiclassically. Electronic degeneracies of C$_{60}$$^{n-}$ induce
+dynamical Jahn-Teller distortions, which are unimodal for $n\!\ne\!3$ and
+bimodal for $n\!=\!3$. The quantization of motion along the Jahn-Teller
+manifold leads to a symmetric-top rotator Hamiltonian. I find Molecular
+Aharonov-Bohm effects where electronic Berry phases determine the vibrational
+spectra, zero point fluctuations, and electrons' pair binding energies. The
+latter are relevant to superconductivity in alkali-fullerenes.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 14:17:58 GMT""}]","2009-10-22"
+"gr-qc/9306004","Jason Twamley","J.Twamley","Phase-Space Decoherence: a comparison between Consistent Histories and
+  Environment Induced Superselection","27 pages, 5 postscript figs in uuencoded compressed tar format
+  Replaced: definition of special character for the complex numbers","Phys.Rev. D48 (1993) 5730-5745","10.1103/PhysRevD.48.5730",,"gr-qc",,"  We examine the decoherence properties of a quantum open system as modeled by
+a quantum optical system in the Markov regime. We look for decoherence in both
+the Environment Induced Superselection (EIS) and Consistent Histories (CH)
+frameworks. We propose a general measure of the coherence of the reduced
+density matrix and find that EIS decoherence occurs in a number of bases for
+this model. The degree of ``diagonality'' achieved increases with bath
+temperature. We evaluate the Decoherence Functional of Consistent Histories for
+coarse grained phase space two-time projected histories. Using the measures
+proposed by Dowker and Halliwell we find that the consistency of the histories
+improves with increasing bath temperature, time and final grain size and
+decreases with initial grain size. The peaking increases with increasing grain
+size and decreases with increasing bath temperature. Adopting the above
+proposed measure of ``coherence'' to the Decoherence Functional gives similar
+results. The results agree in general with expectations while the anomalous
+dependence of the consistency on the initial grain size is discussed.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 21:34:35 GMT""},{""version"":""v2"",""created"":""Mon, 7 Jun 1993 23:39:54 GMT""}]","2009-10-22"
+"gr-qc/9306006","Bill Pezzaglia","William M. Pezzaglia","Classification of Multivector Theories and the Modification of the
+  Postulates of Physics","7 pages, report# clf-alg/pezz-93-03",,,,"gr-qc hep-th",,"  We propose a graded classification of the entire field of multivector
+physics, including all alternative points of view. The (often tacit) postulates
+of different types of formulations are contrasted, summarizing their
+consequences. Specifically, spin-gauge formulations of gravitation and GUT
+which assume standard column spinors will require unnecessarily large matrix
+algebras. An extreme generalization is introduced, where wavefunctions are
+multivectors, in which multiple generations of particles naturally appear
+without resorting to increasing the size of the algebra. Further, this allows
+for two-sided (bilateral) operators, which can accomodate in excess of 10 times
+more gauge fields without increasing the algebraic representation. As this
+generalization encompasses all the essential features of the other categories,
+it is proposed to be the best path to new physics. [Summary of talk at 3rd
+International Conf on Clifford Algebras and Their Appl. in Physics, Deinze,
+Belgium May 1993].
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 03:56:55 GMT""}]","2007-05-23"
+"hep-lat/9306003","Uwe-Jens","U.-J. Wiese, HLRZ Juelich","Fixed Point Actions for Wilson Fermions","12 pages, 6 figures","Phys.Lett. B315 (1993) 417-424","10.1016/0370-2693(93)91634-Y",,"hep-lat",,"  Iterating renormalization group transformations for lattice fermions the
+Wilson action is driven to fixed points of the renormalization group. A line of
+fixed points is found and the fixed point actions are computed analytically.
+They are local and may be used to improve scaling in lattice QCD. The action at
+the line's endpoint is chirally invariant and still has no fermion doubling.
+The Nielsen-Ninomiya theorem is evaded because in this case the fixed point
+action is nonlocal. The use of this action for a construction of lattice chiral
+fermions is discussed.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 11:48:13 GMT""}]","2009-10-22"
+"hep-ph/9306213","Nir Polonsky-3C13-949","Nir Polonsky","Coupling Constant and Yukawa Coupling Unifications: Uncertainties and
+  Constraints","(talk presented at the SUSY-93 Workshop), 7 pages + 2 figures
+  (figures are available upon request), LaTex, UPR-0571T",,,,"hep-ph",,"  The status of coupling constant unification (with and without a unification
+of Yukawa couplings) is discussed. Uncertainties associated with the input
+coupling constants, $m_{b}$ and $m_{t}$, threshold corrections at the low and
+high scale, and possible nonrenormalizable operators are described and a
+discrepancy between effective and physical scales is pointed out. Theoretical
+uncertainties in the predictions of $\alpha_{s}(M_{Z})$, $m_{b}$, and the
+unification scale, $M_{G}$, are discussed and estimated. Constraints on the
+super-partner spectrum are found to be weak if uncertainties associated with
+the high-scale are included. However, requiring $h_{b} = h_{\tau}$ at $M_{G}$
+excludes $3 < \tan \beta < 40$ (for $m_{t} < 200$ GeV).
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 16:06:16 GMT""}]","2007-05-23"
+"hep-ph/9306214",,"Eduardo de Rafael and Josep Taron","Analyticity Properties and Unitarity Constraints of Heavy Meson Form
+  Factors","22 pages","Phys.Rev. D50 (1994) 373-380","10.1103/PhysRevD.50.373",,"hep-ph",,"  We derive new bounds on the b-number form factor $F(q^2)$ of the B meson.
+(Revised version of hep-ph/9306214).
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 21:55:00 GMT""},{""version"":""v2"",""created"":""Wed, 19 Jan 1994 16:52:15 GMT""}]","2009-10-22"
+"hep-ph/9306215","Xinnian Wang","Xin-Nian Wang","Studying minijets via the $p_T$ dependence of two-particle correlation
+  in azimuthal angle $\phi$","11 pages Latex text and 8 ps figures, LBL-33499","Phys.Rev.D47:2754-2760,1993","10.1103/PhysRevD.47.2754",,"hep-ph nucl-th",,"  Following my previous proposal that two-particle correlation functions can be
+used to resolve the minijet contribution to particle production in minimum
+biased events of high energy hadronic interactions, I study the $p_T$ and
+energy dependence of the correlation. Using HIJING Monte Carlo model, it is
+found that the correlation $c(\phi_1,\phi_2)$ in azimuthal angle $\phi$ between
+two particles with $p_T>p_T^{cut}$ resembles much like two back-to-back jets as
+$p_T^{cut}$ increases at high colliding energies due to minijet production. It
+is shown that $c(0,0)-c(0,\pi)$, which is related to the relative fraction of
+particles from minijets, increases with energy. The background of the
+correlation for fixed $p_T^{cut}$ also grows with energy due to the increase of
+multiple minijet production. Application of this analysis to the study of jet
+quenching in ultrarelativistic heavy ion collisions is also discussed.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 23:45:22 GMT""}]","2011-02-15"
+"hep-ph/9306216","Sanghyeon Chang","Sanghyeon Chang, Kiwoon Choi","Hadronic axion window and the big-bang nucleosynthesis","14pages","Phys.Lett.B316:51-56,1993","10.1016/0370-2693(93)90656-3","SNUTP 93-11","hep-ph astro-ph",,"  Hadronic axions with the decay constant $f_a\simeq 10^{6}$ GeV may fulfill
+all astrophysical and laboratory constraints discussed so far. In this paper,
+we reexamine the possibility of the hadronic axion window while taking into
+account the uncertainties of some parameters describing low energy axion
+dynamics. It is found that $f_a$ in the range from $3\times 10^5$ GeV to
+$3\times 10^6$ can not be excluded by existing arguments. We then examine the
+implication of this hadronic axion window for the big-bang nucleosynthesis (NS)
+by evaluating the energy density of thermal axions at the nucleosynthesis
+epoch. Our analysis yields $(\rho_a/\rho_{\nu})_{NS}=0.4\sim 0.5$ which exceeds
+slightly the current best bound $(\rho_a/\rho_{\nu})_{NS}\leq 0.3$.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 05:04:25 GMT""}]","2008-11-26"
+"hep-ph/9306217","Dr Krzysztof Charchula","K.Charchula","Coherence effects in the current fragmentation region at HERA","8 pages (LaTex with 3 PostScript figures appended at end), DTP-93-42","J.Phys.G19:1587-1593,1993","10.1088/0954-3899/19/10/015",,"hep-ph",,"  The structure of the hadronic final state in deep inelastic scattering at
+HERA is studied on the level of the Monte Carlo event generator. Special
+emphasis is given to the colour coherence phenomenon in the current
+fragmentation region. It is shown that results of perturbative QCD recently
+tested in $e^+e^-$ annihilation at LEP also describe production of hadrons in
+current fragmentation region of deep inelastic scattering.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 07:57:29 GMT""}]","2011-04-15"
+"hep-ph/9306218",,"G. Domokos and S. Kovesi--Domokos (Department of Physics and Astronomy
+  The Johns Hopkins University, Baltimore, MD)","Astrophysical Limit on the Deformation of the Poincare Group","SKD@JHUP.PHA.JHU.EDU 7 pages; 1 figure available upon request. Report
+  # JHU-TIPAC920027/rev hep-ph/yymmnnn --- Latex","J.Phys. G20 (1994) 1989-1996","10.1088/0954-3899/20/12/014",,"hep-ph",,"  The deformed Poincar\'{e} group contains a characteristic mass, $\kappa$. At
+energies exceeding $\kappa$, deviations from the special theory of relativity
+become significant. However, small deviations from ordinary relativistic
+kinematics are observable even at energies substantially lower than $\kappa$.
+The observation of distant events producing ultra high energy (UHE) particles
+leads to a lower limit on $\kappa$. From an analysis of the UHE data on the
+burst in the binary system HER X1 in 1986, we deduce $\kappa > 1.3
+10^{12}$~GeV.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 15:19:04 GMT""}]","2009-10-22"
+"hep-th/9306013","David Kutasov","David Kutasov","Two Dimensional QCD coupled to Adjoint Matter and String Theory","harvmac, 19 pages, EFI-93-30","Nucl.Phys. B414 (1994) 33-52","10.1016/0550-3213(94)90420-0",,"hep-th",,"  We study $2d$ QCD coupled to fermions in the adjoint representation of the
+gauge group $SU(N)$ at large $N$, and its relation to string theory. It is
+shown that the model undergoes a deconfinement transition at a finite
+temperature (analogous to the Hagedorn transition in string theory), with
+certain winding modes in the Euclidean time direction turning tachyonic at high
+temperature. The theory is supersymmetric for a certain ratio of quark mass and
+gauge coupling. For other values of that ratio, supersymmetry is softly broken.
+The spectrum of bound states contains an infinite number of approximately
+linear Regge trajectories, approaching at large mass $M$, $\alpha^\prime
+M^2=\sum_i i l_i$ $(l_i\in{\bf Z_+})$. Thus, the theory exhibits an
+exponentially growing density of bosonic and fermionic states at high energy.
+We discuss these results in light of string expectations.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 17:29:05 GMT""}]","2009-10-22"
+"hep-th/9306015","Mirjam Cvetic","Mirjam Cvetic","Ordinary and Dilatonic Domain Walls: Solutions and Induced Space-Times","(A compilation of invited talks presented at INFN Eloisatron Project
+  26th Workshop, ``From Superstrings to Supergravity'', Erice, Italy, December
+  5-12 1992 and SUSY 93 Conference, Boston, MA, March 29-April 2, 1993) 12
+  pages + 4 figs available upon request, UPR-566-T",,,,"hep-th gr-qc hep-ph",,"  Recent developments in unifying treatment of domain wall configurations and
+their global space-time structure is presented. Domain walls between vacua of
+non-equal cosmological constant fall in three classes depending on the value of
+their energy density $\sigma$: (i) extreme walls with $\sigma=\sigma_{ext}$ are
+planar, static walls corresponding to the supersymmetric configurations, (ii)
+non-extreme walls with $\sigma>\sigma_{ext}$ are expanding bubbles with two
+insides, (iii) ultra-extreme walls with $\sigma<\sigma_{ext}$ are bubbles of
+false vacuum decay. As a prototype exhibiting all three types of configurations
+vacuum walls between Minkowski and anti-deSitter vacua are discussed.
+Space-times associated with these walls exhibit non-trivial causal structure
+closely related to the one of the corresponding extreme and non-extreme charged
+black holes, however, without singularities. Recently discovered extreme
+dilatonic walls, pertinent to string theory, are also addressed. They are
+static, planar domain walls with metric in the string frame being {\it flat}
+everywhere. Intriguing similarities between the global space-time of dilatonic
+walls and that of charged dilatonic black holes are pointed out.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 22:07:07 GMT""}]","2009-09-25"
+"hep-th/9306016","Palev Tchavpar","T. D. Palev","Quantisation of U$_q$[OSP(1/2N)] with Deformed Para-Bose Operators","7 pages, TeX, Preprint TWI-93-24 University of Ghent","J.Phys. A26 (1993) L1111-L1116",,,"hep-th",,"  The observation that $n$ pairs of para-Bose (pB) operators generate the
+universal enveloping algebra of the orthosymplectic Lie superalgebra
+$osp(1/2n)$ is used in order to define deformed pB operators. It is shown that
+these operators are an alternative to the Chevalley generators. On this
+background $U_q[osp(1/2n)]$, its ""Cartan-Weyl"" generators and their
+""supercommutation"" relations are written down entirely in terms of deformed pB
+operators. An analog of the Poincare- Birkhoff-Witt theorem is formulated.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 08:36:41 GMT""}]","2007-05-23"
+"hep-th/9306017","Mikhail Plyushchay","Mikhail S. Plyushchay and Alexander V. Razumov","Dirac versus reduced phase space quantization for systems admitting no
+  gauge conditions","36 pages, LaTeX; changes in the title, abstract and references and
+  throughout the main text; the version to appear in Inter. J. Mod. Phys. A","Int.J.Mod.Phys. A11 (1996) 1427-1462","10.1142/S0217751X96000663",,"hep-th",,"  The constrained Hamiltonian systems admitting no gauge conditions are
+considered. The methods to deal with such systems are discussed and developed.
+As a concrete application, the relationship between the Dirac and reduced phase
+space quantizations is investigated for spin models belonging to the class of
+systems under consideration. It is traced out that the two quantization methods
+may give similar, or essentially different physical results, and, moreover, a
+class of constrained systems, which can be quantized only by the Dirac method,
+is discussed. A possible interpretation of the gauge degrees of freedom is
+given.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 08:35:13 GMT""},{""version"":""v2"",""created"":""Thu, 30 Nov 1995 00:03:09 GMT""}]","2009-10-22"
+"hep-th/9306018","Philippe Di Francesco","P. Di Francesco, F. Lesage and J.-B. Zuber","Graph Rings and Integrable Perturbations of $N=2$ Superconformal
+  Theories","44 pages, uuencoded, compressed tar file using harvmac and epsf, four
+  figures included, Saclay preprint SPhT 93/057","Nucl.Phys. B408 (1993) 600-634","10.1016/0550-3213(93)90382-Y",,"hep-th",,"  We show that the connection between certain integrable perturbations of $N=2$
+superconformal theories and graphs found by Lerche and Warner extends to a
+broader class. These perturbations are such that the generators of the
+perturbed chiral ring may be diagonalized in an orthonormal basis. This allows
+to define a dual ring, whose generators are labelled by the ground states of
+the theory and are encoded in a graph or set of graphs, that reproduce the
+pattern of the ground states and interpolating solitons. All known
+perturbations of the $ADE$ potentials and some others are shown to satisfy this
+criterion. This suggests a test of integrability.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 14:14:33 GMT""}]","2009-10-22"
+"hep-th/9306019","Klaus Hornfeck","K. Hornfeck","Explicit Construction of the BRST Charge for W_4","9 pages (A4), LaTeX, DFTT-25/93","Phys.Lett. B315 (1993) 287-291","10.1016/0370-2693(93)91614-S",,"hep-th",,"  We give the explicite form of the BRST charge Q for the algebra W_4=WA_3 in
+the basis where the spin-3 and the spin-4 field are primary as well as for a
+basis where the algebra closes quadratically.
+","[{""version"":""v1"",""created"":""Thu, 3 Jun 1993 13:56:14 GMT""}]","2009-10-22"
+"nucl-th/9306001","Niels R. Walet","Niels R. Walet","From Skyrmions to NN phaseshifts","Latex, 1+14 pages, 6 encapsulated postscript figures. Uses epsf.sty","Phys.Rev.C48:2222-2229,1993","10.1103/PhysRevC.48.2222","UPR-0126MT","nucl-th",,"  We study the $NN$ phaseshifts in a Hamiltonian obtained from quantization of
+the collective modes in the Skyrme model. We show that a combination of an
+adiabatic and diabatic approximation gives a good $NN$ force, with sufficient
+attraction to produce a bound deuteron. The description of the repulsive core
+appears to be the main cause for the remaining discrepancies between the Skyrme
+model force and phenomenology. Finally we discuss the possibility of finding
+non-strange dibaryon resonances in the $J^\pi=3^+$ channel.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 16:24:01 GMT""}]","2008-11-26"
+"nucl-th/9306002","Berndt Mueller","T.S. Biro, C. Gong, B. Mueller, and A. Trayanov","Hamiltonian Dynamics of Yang-Mills Fields on a Lattice","REVTeX, 51 pages, 20 figures","Int.J.Mod.Phys.C5:113-149,1994","10.1142/S0129183194000106","DUKE-TH-93-40","nucl-th hep-lat hep-th",,"  We review recent results from studies of the dynamics of classical Yang-Mills
+fields on a lattice. We discuss the numerical techniques employed in solving
+the classical lattice Yang-Mills equations in real time, and present results
+exhibiting the universal chaotic behavior of nonabelian gauge theories. The
+complete spectrum of Lyapunov exponents is determined for the gauge group
+SU(2). We survey results obtained for the SU(3) gauge theory and other
+nonlinear field theories. We also discuss the relevance of these results to the
+problem of thermalization in gauge theories.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 18:44:11 GMT""},{""version"":""v2"",""created"":""Mon, 6 Jun 2005 15:02:46 GMT""}]","2008-11-26"
+"nucl-th/9306003","Xinnian Wang","Mikols Gyulassy and Xin-Nian Wang","Multiple Collisions and Induced Gluon Bremsstrahlung in QCD","42 pages in LaTex, LBL-32682 and CU-TP-598","Nucl.Phys.B420:583-614,1994","10.1016/0550-3213(94)90079-5",,"nucl-th hep-ph",,"  Induced soft gluon bremsstrahlung associated with multiple collisions is
+calculated via perturbative QCD. We derive the non-abelian analog of the
+Landau-Pomeranchuk effect that suppresses induced soft radiation with formation
+times exceeding the mean free path, $\lambda$. The dependence of the
+suppression effect on the $SU(N)$ representation of the jet parton as well as
+the kinematic variables is expressed through a radiation formation factor.
+Unlike in QED, the finite contribution from the small $x$ regime in QCD leads
+to an approximately constant radiative energy loss per unit length,
+$dE/dz\propto \mu^2$, in the high energy limit that is sensitive to the
+infrared screening scale, $\mu$, of the medium. As a function of the
+dimensionless parameter $\zeta=\lambda \mu^2/E$, we show furthermore how the
+energy dependence of $dE/dz$ evolves from the above constant for $\zeta\ll 1$
+to the more familiar (Bethe-Heitler) linear dependence for $\zeta \gg 1$.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 21:43:39 GMT""}]","2009-10-09"

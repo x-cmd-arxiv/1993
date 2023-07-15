@@ -1,0 +1,143 @@
+"alg-geom/9306008","Ez","Pavel Bleher","Distribution of Energy Levels of a Quantum Free Particle on a Surface of
+  Revolution","43 pages, IAS-HEP 93/35",,,,"alg-geom hep-th math.AG",,"  We prove that the error term $\La(R)$ in the Weyl asymptotic formula $$\#\{
+E_n\le R^2\}={\Vol M\over 4\pi} R^2+\La(R),$$ for the Laplace operator on a
+surface of revolution $M$ satisfying a twist hypothesis, has the form $\La(R)
+=R^{1/2}F(R)$ where $F(R)$ is an almost periodic function of the Besicovitch
+class $B^2$, and the Fourier series of $F(R)$ in $B^2$ is $\sum_\g
+A(\g)\cos(|\g|R-\phi)$ where the sum goes over all closed geodesics on $M$, and
+$A(\g)$ is computed through simple geometric characteristics of $\g$. We extend
+this result to surfaces of revolution, which violate the twist hypothesis and
+satisfy a more general Diophantine hypothesis. In this case we prove that
+$\La(R)=R^{2/3}\Phi(R)+R^{1/2}F(R)$, where $\Phi(R)$ is a finite sum of
+periodic functions and $F(R)$ is an almost periodic function of the Besicovitch
+class $B^2$. The Fourier series of $\Phi(R)$ and $F(R)$ are computed.
+","[{""version"":""v1"",""created"":""Fri, 18 Jun 1993 18:54:28 GMT""}]","2008-02-03"
+"astro-ph/9306016","Marco Fatuzzo","M. Fatuzzo and F. Melia","Focusing of Alfvenic Power in the Context of Gamma-Ray Burst Emissivity","12, Plain TEX, UM AC 93-6","Astrophys.J. 414 (1993) L89","10.1086/187003",,"astro-ph",,"  Highly dynamic magnetospheric perturbations in neutron star environments can
+naturally account for the features observed in Gamma-ray Burst spectra. The
+source distribution, however, appears to be extragalactic. Although
+noncatastrophic isotropic emission mechanisms may be ruled out on energetic and
+timing arguments, MHD processes can produce strongly anisotropic gamma-rays
+with an observable flux out to distances of around 1-2 Gpc. Here we show that
+sheared Alfven waves propagating along open magnetospheric field lines at the
+poles of magnetized neutron stars transfer their energy dissipationally to the
+current sustaining the field misalignment and thereby focus their power into a
+spatial region around 1000 times smaller than that of the crustal disturbance.
+This produces a strong (observable) flux enhancement along certain directions.
+We apply this model to a source population of ``turned-off'' pulsars that have
+nonetheless retained their strong magnetic fields and have achieved alignment
+at a period of greater than 5 seconds.
+","[{""version"":""v1"",""created"":""Fri, 18 Jun 1993 17:46:15 GMT""}]","2009-10-22"
+"astro-ph/9306017","Fulvio Melia","Fulvio Melia & Ranjeev Misra","A Self-Consistent Model For The Long-Term Gamma-Ray Spectral Variability
+  of Cygnus X-1","13 pages, Plain TeX, (Steward Preprint)","Astrophys.J. 411 (1993) 797-801","10.1086/172883",,"astro-ph gr-qc",,"  The long-term transitions of the black hole candidate Cygnus X-1 (between the
+states gamma_1, gamma_2, and gamma_3) include the occasional appearance of a
+strong ~ MeV bump (gamma_1), whose strength appears to be anti-correlated with
+the continuum flux (~ 400 keV) due to the Compton upscattering of cold disk
+photons by the inner, hot corona. We develop a self-consistent disk picture
+that accounts naturally for these transitions and their corresponding spectral
+variations. We argue that the bump is due to the self-Comptonization of
+bremsstrahlung photons emitted predominantly near the plane of the corona
+itself. Our results suggest that a decrease by a factor of approx 2 in the
+viscosity parameter alpha is responsible for quenching this bump and driving
+the system to the gamma_2 state, whereas a transition from gamma_2 to gamma_3
+appears to be induced by an increase of about 25 % in the accretion rate Mdot.
+In view of the fact that most of the transitions observed in this source seem
+to be of the gamma_2 to gamma_3 variety, we conclude that much of the long term
+gamma-ray spectral variability in Cygnus X-1 is due to these small fluctuations
+in Mdot. The unusual appearance of the gamma_1 state apparently reflects a
+change in the dissipative processes within the disk.
+","[{""version"":""v1"",""created"":""Sat, 19 Jun 1993 05:42:50 GMT""}]","2009-10-22"
+"chao-dyn/9306006","Fernando Lund","Enrique cerda and Fernando Lund (Departamento de Fisica, Facultad de
+  Ciencias Fisicas y Matematicas, Universidad de Chile, Casilla 487-3,
+  Santiago, Chile)","Interaction of surface waves with vorticity in shallow water","9 pages in LATEX. E-mail: flund@camilo.dfi.uchile.cl",,"10.1103/PhysRevLett.70.3896",,"chao-dyn nlin.CD",,"  Vortical flows in shallow water interact with long surface waves by virtue of
+the nonlinear terms of the fluid equations. Analytical formulae are derived
+that quantify the spontaneous generation of such waves by unsteady vorticity as
+well as the scattering of surface waves by vorticity. In a first Born
+approximation the radiated surface elevation is linearly related to the Fourier
+transform of the vorticity. The ``dislocated'' wavefronts that are analogous to
+the Aharonov-Bohm effect are obtained as a special case.
+","[{""version"":""v1"",""created"":""Fri, 18 Jun 1993 16:09:20 GMT""}]","2009-10-22"
+"cond-mat/9306042","Nigel Wilding","N.B. Wilding","Critical Point Field Mixing in an Asymmetric Lattice Gas Model","10 Pages, LaTeX + 8 figures available from author on request, To
+  appear in Z. Phys. B",,"10.1007/BF01308815",,"cond-mat",,"  The field mixing that manifests broken particle-hole symmetry is studied for
+a 2-D asymmetric lattice gas model having tunable field mixing properties.
+Monte Carlo simulations within the grand canonical ensemble are used to obtain
+the critical density distribution for different degrees of particle-hole
+asymmetry. Except in the special case when this asymmetry vanishes, the density
+distributions exhibit an antisymmetric correction to the limiting
+scale-invariant form. The presence of this correction reflects the mixing of
+the critical energy density into the ordering operator. Its functional form is
+found to be in excellent agreement with that predicted by the mixed-field
+finite-size-scaling theory of Bruce and Wilding. A computational procedure for
+measuring the significant field mixing parameter is also described, and its
+accuracy gauged by comparing the results with exact values obtained
+analytically.
+","[{""version"":""v1"",""created"":""Sat, 19 Jun 1993 13:33:12 GMT""}]","2009-10-22"
+"gr-qc/9306024","Viqar Husain","Viqar Husain","Faraday lines and observables for the Einstein-Maxwell theory","8 pages, Alberta-Thy-30-93 (RevTeX)","Class.Quant.Grav.10:L233-L238,1993","10.1088/0264-9381/10/12/004",,"gr-qc hep-th",,"  In recent work on Einstein gravity in four dimensions using the Ashtekar
+variables, non-local loop variables have played an important role in attempts
+to formulate a quantum theory. The introduction of such variables is guided by
+gauge invariance, and here an infinite set of loop variables is introduced for
+the Hamiltonian form of the Einstein-Maxwell theory. The loops that enter the
+description naturally are the (source free) electric field lines. These
+variables are invariant under spatial diffeomorphisms and they also form a
+closed Poisson algebra. As such they may be useful for quantization attempts
+and for studying classical solutions.
+","[{""version"":""v1"",""created"":""Fri, 18 Jun 1993 16:55:54 GMT""}]","2010-04-06"
+"hep-lat/9306016","Michael P. Grady","M. Grady","Can a Logarithmically Running Coupling Mimic a String Tension?","13 pages, LaTeX, two figures not included, available from author.
+  revision - Line lengths fixed so it will tex properly","Phys.Rev. D50 (1994) 6009-6012","10.1103/PhysRevD.50.6009","SUNY-FRE-93-02","hep-lat hep-ph",,"  It is shown that a Coulomb potential using a running coupling slightly
+modified from the perturbative form can produce an interquark potential that
+appears nearly linear over a large distance range. Recent high-statistics SU(2)
+lattice gauge theory data fit well to this potential without the need for a
+linear string-tension term. This calls into question the accuracy of string
+tension measurements which are based on the assumption of a constant
+coefficient for the Coulomb term. It also opens up the possibility of obtaining
+an effectively confining potential from gluon exchange alone.
+","[{""version"":""v1"",""created"":""Fri, 18 Jun 1993 16:31:44 GMT""},{""version"":""v2"",""created"":""Mon, 21 Jun 1993 13:16:40 GMT""}]","2009-10-22"
+"hep-ph/9306289",,"F.E. Close and R.G. Roberts","Consistent Analysis of the Spin Content of the Nucleon","RAL-93-040 Rutherford Lab. UK 10 pages; 3 figures not included","Phys.Lett. B316 (1993) 165-171","10.1016/0370-2693(93)90673-6",,"hep-ph",,"  The recent measurements of lepton nucleon scattering with polarised neutron
+and deuteron targets are analysed together with the previous polarised proton
+data in a mutually consistent way. The detailed $x$-dependence of the
+polarisation asymmetry in the valence region is shown to be in agreement with
+historical predictions based on quark models. The Bjorken sum rule is shown to
+be confirmed at the $1\sigma$ level and estimates of the spin content of the
+nucleon $\Delta q$ are extracted. While the average value of $\Delta q$ from
+the three experiments comes out to be $0.41\pm0.05$ (to be compared with the
+naive quark model theoretical expectation of 0.58) this experimental average
+value is more than one standard deviation from the value obtained from any
+individual experiment.This inconsistency can be overcome by allowing arbitrary
+higher twist contributions but the resulting precision is poor, $\Delta q =
+0.38\pm 0.48$.
+","[{""version"":""v1"",""created"":""Fri, 18 Jun 1993 16:50:00 GMT""}]","2009-10-22"
+"hep-ph/9306290",,"Ravi Kuchimanchi and R.N. Mohapatra (University of Maryland Preprint
+  No. UMP-PP-93-209, College Park, MD)","No Parity Violation without R Parity Violation",,"Phys.Rev.D48:4352-4360,1993","10.1103/PhysRevD.48.4352",,"hep-ph",,"  In a class of supersymmetric left-right models (SUSYLR) of weak interactions
+where R-parity is automatically conserved, we show that spontaneous breakdown
+of parity CANNOT occur without spontaneous breakdown of R-parity. This
+intriguing result connects two physically different scales in supersymmetric
+models.
+","[{""version"":""v1"",""created"":""Fri, 18 Jun 1993 17:37:00 GMT""},{""version"":""v2"",""created"":""Wed, 23 Jun 1993 21:01:50 GMT""}]","2009-07-09"
+"hep-th/9306088",,"G. Papadopoulos and B. Spence","The Space of Solutions of Toda Field Theory","14pp","Class.Quant.Grav.11:533-542,1994","10.1088/0264-9381/11/3/008",,"hep-th",,"  A new parameterisation of the solutions of Toda field theory is introduced.
+In this parameterisation, the solutions of the field equations are real,
+well-defined functions on space-time, which is taken to be two-dimensional
+Minkowski space or a cylinder. The global structure of the covariant phase
+space of Toda theory is examined and it is shown that it is isomorphic to the
+Hamiltonian phase space. The Poisson brackets of Toda theory are then
+calculated. Finally, using the methods developed to study the Toda theory, we
+extend these results to the non-Abelian Toda field theories.
+","[{""version"":""v1"",""created"":""Fri, 18 Jun 1993 18:06:20 GMT""}]","2010-04-06"
+"hep-th/9306092",,"Adrian Neagu and Adriaan M.J. Schakel","Induced quantum numbers in the (2+1)-dimensional electron gas","19 pages, REVTEX","Phys.Rev. D48 (1993) 1785-1791","10.1103/PhysRevD.48.1785",,"hep-th",,"  A gas of electrons confined to a plane is examined in both the relativistic
+and nonrelativistic case. Using a (0+1)-dimensional effective theory, a
+remarkably simple method is proposed to calculate the spin density induced by
+an uniform magnetic background field. The physical properties of possible
+fluxon excitations are determined. It is found that while in the relativistic
+case they can be considered as half-fermions (semions) in that they carry half
+a fermion charge and half the spin of a fermion, in the nonrelativistic case
+they should be thought of as fermions, having the charge and spin of a fermion.
+","[{""version"":""v1"",""created"":""Fri, 18 Jun 1993 16:54:14 GMT""}]","2009-10-22"
+"nucl-th/9306019","Dr Tony Williams","G. Krein, A.W. Thomas and A.G. Williams","Charge-Symmetry Breaking, Rho-Omega Mixing and the Quark Propagator","14 pages, LaTeX file (uuencoded postscript file of 4 figures
+  appended), ADP-93-211/T129",,"10.1016/0370-2693(93)90998-W",,"nucl-th",,"  The momentum-dependence of the $\rho^0$-$\omega$ mixing contribution to
+charge-symmetry breaking (CSB) in the nucleon-nucleon interaction is compared
+in a variety of models. We focus in particular on the role that the structure
+of the quark propagator plays in the predicted behaviour of the
+$\rho^0$-$\omega$ mixing amplitude. We present new results for a confining
+(entire) quark propagator and for typical propagators arising from explicit
+numerical solutions of quark Dyson-Schwinger equations. We compare these to
+hadronic and free quark calculations. The implications for our current
+understanding of CSB experiments is discussed.
+","[{""version"":""v1"",""created"":""Fri, 18 Jun 1993 21:17:57 GMT""}]","2009-10-22"

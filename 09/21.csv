@@ -1,0 +1,207 @@
+"alg-geom/9309004","Sinan Sertoz","Sinan Sertoz","Generic Singularities of Holomorphic Foliations","9 pages, LaTeX version 2.09",,,,"alg-geom math.AG",,"  A holomorphic foliation is defined as an integrable coherent subsheaf of the
+tangent sheaf. The structure of the leaves around a singularity is read off
+from the structure of the stalks. This was done by Baum when the dimension of
+the singular set is one less than the leaf dimension. In this article we study
+the general case and construct some examples.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 12:43:28 GMT""}]","2008-02-03"
+"cond-mat/9309028","Jose Riera","E. Dagotto, J. Riera, Y. C. Chen, A. Moreo, A. Nazarenko, F. Alcaraz,
+  and F. Ortolani (Florida State University)","Superconductivity Near Phase Separation in Models of Correlated
+  Electrons","29 pages, 12 figures available upon request, Tex. FSU-NHMFL-10-93",,"10.1103/PhysRevB.49.3548",,"cond-mat",,"  Numerical and analytical studies of several models of correlated electrons
+are discussed. Based on exact diagonalization and variational Monte Carlo
+techniques, we have found strong indications that the two dimensional t-J model
+superconducts near phase separation in the regime of quarter-filling density,
+in agreement with previous results reported by Dagotto and Riera (Phys. Rev.
+Letters 70, 682 (1993)). At this density the dominant channel is d_{x^2-y^2},
+but a novel transition to s-wave superconductivity is observed decreasing the
+electronic density. In addition, the one band t-U-V model has also been studied
+using the mean-field approximation that accurately described the spin density
+wave phase of the repulsive Hubbard model at half-filling. Finally, the two
+band Hubbard model on a chain is also analyzed. Superconducting correlations
+near phase separation exist in this model, as it occurs in the t-J model. Based
+on these nontrivial examples it is $conjectured$ that electronic models tend to
+have superconducting phases in the vicinity of phase separation.Reciprocally,
+if it is established that a model that does not phase separate, then its
+chances of presenting a superconducting phase are considerably reduced.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 18:06:06 GMT""}]","2009-10-22"
+"cond-mat/9309029",,"Dallas C. Kennedy","The Thermodynamics and Economics of Waste","14 pp., FERMILAB-PUB-93/15-T",,,,"cond-mat",,"  Natural resource use and waste production, disposal, and reuse in human
+economies are treated in their economic, technological and thermodynamic
+aspects. The physical nature of economic production, consumption, saving, and
+waste is compared and contrasted with non-human ecologies in terms of entropy
+production and evolutionary complexity.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 22:09:08 GMT""},{""version"":""v2"",""created"":""Thu, 23 Sep 1993 20:41:21 GMT""},{""version"":""v3"",""created"":""Tue, 28 Sep 1993 14:48:15 GMT""},{""version"":""v4"",""created"":""Fri, 15 Oct 1993 23:22:47 GMT""},{""version"":""v5"",""created"":""Sun, 17 Oct 1993 19:38:42 GMT""},{""version"":""v6"",""created"":""Fri, 14 Jan 1994 01:45:58 GMT""},{""version"":""v7"",""created"":""Wed, 19 Jan 1994 00:47:39 GMT""},{""version"":""v8"",""created"":""Wed, 26 Jan 1994 19:36:59 GMT""}]","2008-02-03"
+"gr-qc/9309020","Steve Carlip","S. Carlip","Geometric Structures and Loop Variables in (2+1)-Dimensional Gravity","14 pages, LaTeX, UCD-93-30",,,,"gr-qc",,"  This paper is a review of the relationship between the metric formulation of
+(2+1)-dimensional gravity and the loop observables of Rovelli and Smolin. I
+emphasize the possibility of reconstructing the geometry, via the theory of
+geometric structures, from the values of the loop variables. I close with a
+brief discussion of implications for quantization, particularly for covariant
+canonical approaches to quantum gravity.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 00:53:39 GMT""}]","2007-05-23"
+"gr-qc/9309021","Redouane Fakir","Redouane Fakir","Early Direct Detection of Gravity Waves","plain LaTeX, 11p, UBCTP-93-016",,,,"gr-qc astro-ph",,"  Recently, the possibility has emerged of an early detection of astrophysical
+gravity waves. In certain astronomical configurations, and through a new
+light-deflection effect, gravity waves can cause apparent shifts in stellar
+angular positions as large as $10^{-7}arcsec$. In these same configurations,
+the magnitude of the gravity-wave-induced time-delay effect can exceed
+$10^{-14}$. Both these figures lie just at present-day theoretical limits of
+detectability. For instance, cases are described where the very faint
+neutron-star gravity waves could soon become detectable. The detection meant
+here involves direct observations of the very wave-forms.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 00:08:01 GMT""}]","2007-05-23"
+"hep-ph/9309294","Alan Stange","A. Stange, W. Marciano and S. Willenbrock","Higgs Bosons at the Fermilab Tevatron","20 pages, Fermilab-pub-93/142-T, BNL-49447 (uses Latex)","Phys.Rev. D49 (1994) 1354-1362","10.1103/PhysRevD.49.1354",,"hep-ph",,"  The Wjj background has increased by 70%. This decreases the significance of
+the WH signal somewhat. The significance of the ZH signal remains about the
+same.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 18:47:49 GMT""},{""version"":""v2"",""created"":""Mon, 15 Nov 1993 16:27:41 GMT""}]","2009-10-22"
+"hep-ph/9309295","Francesco Sannino","Francesco Sannino","Violation Of The $\Delta I = 1/2$ Rule In $D \to \pi\pi$ Decays","Pages 13","Phys. Lett. B322 (1994) 259-262","10.1016/0370-2693(94)91117-7","SU-HEP-4240-551","hep-ph",,"  A strong violation of the $\displaystyle{\Delta I = {1\over 2}} $ rule has
+experimentally been found in the $\displaystyle{D \to \pi\pi}$ decays [1]. In
+this letter we will show that the order of magnitude of this violation can be
+understood in terms of the pure quantum chromo dynamics corrections to the weak
+interactions.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 17:09:00 GMT""}]","2009-10-22"
+"hep-ph/9309296",,"Marco Aurelio Diaz","The Effect of Supersymmetric Particles on b -> s \gamma Decay in
+  Supergravity Models","9 pages (plain tex), figures not included, VAND-TH-93-11",,,,"hep-ph",,"  The effect of loops involving charginos with up-type squarks, and gluinos
+with down-type squarks, on the inclusive decay mode $b\rightarrow s\gamma$ is
+studied in the context of minimal $N=1$ Supergravity models with a radiatively
+broken electroweak symmetry group. It is confirmed that the strong constraints
+imposed by the CLEO upper bound $B(b\rightarrow s\gamma)<5.4\times 10^{-4}$ on
+two-Higgs doublets models are much weaker in supersymmetric theories due to
+partial cancelations from loops involving charginos and up-type squarks. The
+dependence of the branching ratio and the supersymmetry masses on the top quark
+mass is explored.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 18:36:21 GMT""}]","2007-05-23"
+"hep-ph/9309298",,"A. Djouadi and P. Gambino","Electroweak gauge bosons self--energies: complete QCD corrections","21 pages + 2 figures (available upon request), standard Latex,
+  Preprints UdeM-LPN-TH-93-169 and NYU--TH--93/09/04","Phys.Rev.D49:3499-3511,1994; Erratum-ibid.D53:4111,1996","10.1103/PhysRevD.49.3499 10.1103/PhysRevD.53.4111",,"hep-ph",,"  We present the (two--loop) QCD corrections to the longitudinal and transverse
+components of the electroweak gauge bosons self--energies for arbitrary
+momentum transfer and for different internal quark masses. Compact formulae for
+both the real and imaginary parts are given in the general case as well as in
+some physically interesting special cases. The dependence on the definition of
+the quark masses is discussed.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 21:50:13 GMT""}]","2014-11-17"
+"hep-ph/9309299","Nathan Seiberg","Ann E. Nelson and Nathan Seiberg","R Symmetry Breaking Versus Supersymmetry Breaking","20 pages, UCSD/PTH 93-27, RU-93-42","Nucl.Phys.B416:46-62,1994","10.1016/0550-3213(94)90577-0",,"hep-ph hep-th",,"  We point out a connection between R symmetry and \susy\ breaking. We show
+that the existence of an R symmetry is a necessary condition for \susy\
+breaking and a spontaneously broken R symmetry is a sufficient condition
+provided two conditions are satisfied. These conditions are: {\it genericity},
+\ie\ the effective Lagrangian is a generic Lagrangian consistent with the
+symmetries of the theory (no fine tuning), and {\it calculability}, \ie\ the
+low energy theory can be described by a supersymmetric Wess-Zumino effective
+Lagrangian without gauge fields. All known models of dynamical supersymmetry
+breaking possess such a spontaneously broken R symmetry and therefore contain a
+potentially troublesome axion. However, we use the fact that genericity is {\it
+not} a feature of supersymmetric theories, even when nonperturbative
+renormalization is included, to show that the R symmetry can in many cases be
+explicitly broken without restoring supersymmetry and so the axion can be given
+an acceptably large mass.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 23:37:11 GMT""}]","2009-09-15"
+"hep-ph/9309300","Donald Shaw","D. S. Shaw and R. R. Volkas","Effective Lagrangian Approach to the Fermion Mass Problem","21 pages, UM-P-93/81, latex file, 1 figure available on request","Phys.Rev. D49 (1994) 4773-4779","10.1103/PhysRevD.49.4773",,"hep-ph",,"  An effective theory is proposed, combining the standard gauge group
+$SU(3)_{C}\otimes SU(2)_{L}\otimes U(1)_{Y}$ with a horizontal discrete
+symmetry. By assigning appropriate charges under this discrete symmetry to the
+various fermion fields and to (at least) two Higgs doublets, the broad spread
+of the fermion mass and mixing angle spectrum can be explained as a result of
+suppressed, non-renormalisable terms. A particular model is constructed which
+achieves the above while simultaneously suppressing neutral Higgs-induced
+flavour-changing processes.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 14:10:06 GMT""}]","2009-10-22"
+"hep-ph/9309301",,"J. Schechter, A. Subbaraman and S. Surya","Resonant and Non-Resonant Pieces of the $D\rightarrow \bar{K}\pi$
+  Semileptonic Transition Amplitude","(16 pages, LaTex, SU-4228-545, figures available upon request from
+  Schechter@suhep.phy.syr.edu)","Int.J.Mod.Phys.A9:3773-3784,1994","10.1142/S0217751X94001515",,"hep-ph",,"  We compare the resonant and non-resonant contributions in various regions of
+phase space for the $D\rightarrow \bar{K}\p$ semileptonic transition amplitude,
+computed in a chiral model which incorporates the heavy quark symmetry. Remarks
+on the significance for experiment and for chiral perturbation theory are made.
+hep-ph/yymmnnn
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 06:45:00 GMT""}]","2011-07-19"
+"hep-ph/9309302",,"I.B. Khriplovich, A.I. Milstein, and A.S. Yelkhovsky","Order \alpha^4 R_{\infty} corrections to positronium P levels","LaTeX, 15 pages, BudkerINP-93-80",,,,"hep-ph",,"  The order $\alpha^4 R_{\infty}$ corrections to positronium $P$ levels are
+found. The calculation is reduced to the ordinary perturbation theory for the
+nonrelativistic Schr\""odinger equation. The perturbation operators have the
+Breit-type structure and are obtained by calculating on-mass-shell diagrams.
+Found energy corrections constitute numerically $\delta E(2 ^1 P_1)=0.06$ MHz,
+$\delta E(2 ^3 P_2)=0.08$ MHz, $\delta E(2 ^3 P_1)=0.025$ MHz, $\delta E(2 ^3
+P_2)=-0.58$ MHz.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 07:49:04 GMT""},{""version"":""v2"",""created"":""Mon, 27 Sep 1993 02:07:45 GMT""}]","2008-02-03"
+"hep-ph/9309303",,"S. Zouzou (Universit\'e de Constantine, Alg\'erie) and J.-M. Richard
+  (Institut des Sciences Nucl\'eaires, Grenoble)","Search for Flavoured Multiquarks in a Simple Bag Model","REVTEX, VERSION 3.0","Few Body Syst.16:1-15,1994","10.1007/BF01077693",,"hep-ph",,"  We use a bag model to study flavoured mesonic $(Qq\bar q\bar q)$ and baryonic
+$({\overline Q}qqqq)$ states, where one heavy quark $Q$ is associated with
+light quarks or antiquarks, and search for possible stable multiquarks. No
+bound state is found. However some states lie not too high above their
+dissociation threshold, suggesting the possibility of resonances, or perhaps
+bound states in improved models.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 11:41:21 GMT""}]","2016-04-26"
+"hep-ph/9309305","Carlo Gobbi","C. Gobbi and N.N. Scoccola","Bound State Soliton Description of Low Partial Wave Octet Baryon
+  Resonances","8 pages (+ 2 figures, available from the authors), Latex file,
+  TAN-FNT-93-08","Phys.Lett.B318:382-386,1993","10.1016/0370-2693(93)90143-6",,"hep-ph",,"  A version of the bound state soliton model which allows both $\eta$ and $K$
+bound states is used to study low partial wave octet baryon resonances. It is
+found that negative parity $S-$wave resonances are well described within this
+framework. A possible interpretation of the $P-$wave resonances is also
+discussed.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 15:31:58 GMT""}]","2011-07-19"
+"hep-th/9309106","Igor Klebanov","I. R. Klebanov, I. I. Kogan and A. M. Polyakov","Gravitational Dressing of Renormalization Group","preprint PUPT-1421 10 pages","Phys.Rev.Lett. 71 (1993) 3243-3246","10.1103/PhysRevLett.71.3243",,"hep-th",,"  We study the gravitational dressing of renormalizable two-dimensional field
+theories. Our main result is that the one-loop $\beta$-function is finitely
+renormalized by the factor ${k+2\over k+1}$, where $k$ is the central charge of
+the gravitational $SL(2, R)$ current algebra.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 17:54:29 GMT""}]","2009-10-22"
+"hep-th/9309107","Lorenzo Magnea","M. Caselle, A. D'Adda, L. Magnea and S. Panzeri","Two-dimensional QCD on the sphere and on the cylinder","12 pages, plain latex, DFTT 50/93",,,,"hep-th",,"  The partition functions of QCD2 on simple surfaces admit representations in
+terms of exponentials of the inverse coupling, that are modular transforms of
+the usual character expansions. We review the construction of such a
+representation in the case of the cylinder, and show how it leads to a
+formulation of QCD2 as a $c=1$ matrix model of the Kazakov-Migdal type. The
+eigenvalues describe the positions of $N$ Sutherland fermions on a circle,
+while their discretized momenta label the representations in the corresponding
+character expansion. Using this language, we derive some new results: we give
+an alternative description of the Douglas-Kazakov phase transition on the
+sphere, and we argue that an analogous phase transition exists on the cylinder.
+We calculate the large $N$ limit of the partition function on the cylinder with
+boundary conditions given by semicircular distributions of eigenvalues, and we
+find an explicit expression for the large $N$ limit of the Itzykson-Zuber
+integral with the same boundary conditions. (Talk given at the ``Workshop on
+high energy physics and cosmology'' at Trieste, July 1993.)
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 20:26:00 GMT""}]","2007-05-23"
+"hep-th/9309108","Miao Li","Miao Li","Dirichlet String Theory and Singular Random Surfaces","8 pages, BROWN-HET-923, a minor error is corrected",,,,"hep-th",,"  We show that string theory with Dirichlet boundaries is equivalent to string
+theory containing surfaces with certain singular points. Surface curvature is
+singular at these points. A singular point is resolved in conformal coordinates
+to a circle with Dirichlet boundary conditions. We also show that moduli
+parameters of singular surfaces coincide with those of smooth surfaces with
+boundaries. Singular surfaces with saddle points indeed arise in the strong
+coupling expansion in lattice QCD. The kind of saddle point, which may be the
+origin of a singular point we need, is of infinite order.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 19:01:21 GMT""},{""version"":""v2"",""created"":""Wed, 22 Sep 1993 19:36:12 GMT""}]","2008-02-03"
+"hep-th/9309109","Tanmay Vachaspati","Tanmay Vachaspati","Production of Vortices by Scattering Particles","14 pages, TUTP-93-11","Phys.Rev.D49:4985-4989,1994","10.1103/PhysRevD.49.4985",,"hep-th hep-ph",,"  We give an action that can be used to describe the production of global
+vortices in 2+1 dimensions by scattering Nambu-Goldstone bosons. At strong
+self-coupling the action reduces to scalar QED with particular values of the
+coupling constants and the production cross-section is explicitly found. We
+also consider the production of gauged vortices by scattering particles that
+have an Aharanov-Bohm interaction with the vortex.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 19:22:48 GMT""}]","2009-12-30"
+"hep-th/9309110","Jacques Distler","J. Distler and S. Kachru","(0,2) Landau-Ginzburg Theory","34pp, harvmac Some minor revisions to bring this into line with the
+  published version. The main changes are in the discussion of (0,2) models
+  which are alleged to be deformations of (2,2) models","Nucl.Phys.B413:213-243,1994","10.1016/0550-3213(94)90619-X",,"hep-th",,"  A large class of (0,2) Calabi-Yau $\sigma$-models and Landau-Ginzburg
+orbifolds are shown to arise as different ``phases'' of supersymmetric gauge
+theories. We find a phenomenon in the Landau-Ginzburg phase which may enable
+one to understand which Calabi-Yau $\sigma$-models evade destabilization by
+worldsheet instantons. Examples of (0,2) Landau-Ginzburg vacua are analyzed in
+detail, and several novel features of (0,2) models are discussed. In
+particular, we find that (0,2) models can have different quantum symmetries
+from the (2,2) models built on the same Calabi-Yau manifold, and that a new
+kind of topology change can occur in (0,2) models of string theory.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 22:11:29 GMT""},{""version"":""v2"",""created"":""Fri, 5 Nov 1993 20:51:41 GMT""}]","2009-10-07"
+"hep-th/9309111",,"K. Landsteiner, M. Langer, M. Schweda and S. P. Sorella","Interpolating gauge fixing for Chern-Simons theory","11 pages, Report TUW-93-22","Phys.Lett. B337 (1994) 294-302","10.1016/0370-2693(94)90978-4",,"hep-th",,"  Chern-Simons theory is analyzed with a gauge-fixing which allows to discuss
+the Landau gauge and the light-cone gauge at the same time.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 10:27:02 GMT""}]","2009-10-22"
+"nucl-th/9309022",,"W.R. Greenberg(2) and G.A. Miller(1), ((1)Department of Physics,
+  FM-15, University of Washington, Seattle, WA (2)Department of Physics,
+  University of Pennsylvania, Philadelphia, PA)","Vector Color Transparency","70 pages, 24 figures available from author Miller Report Number
+  DOE/ER 40427-16-N93",,,,"nucl-th",,"  Color transparency (CT) in high momentum transfer $(e,e' \vec p)$ reactions
+is explored. The spin of the proton and photon are treated explicitly, hence
+the name ``Vector CT"". The Dirac distorted wave impulse approximation is used
+as a starting point; then CT effects are embedded. A hadronic basis is used to
+describe the struck proton as a wavepacket of physical baryon resonances. The
+effects of the wavepacket expansion on the normal component of the ejectile
+polarization, which vanishes in the limit of full CT, are investigated. This
+formalism is also applied to study CT effects in total cross sections,
+individual separated nuclear response functions, Fermi motion of the initial
+nucleon, non-zero size of the initial wavepacket and the effects of
+relativistic lower components. We show that including CT reduces the violations
+of current conservation (CC), a typical problem in calculations of this kind.
+The energy dependence of the normal polarization in $(e,e' \vec p)$ reactions
+is found to be slow. However, a measurement of the normal transverse response
+in a heavy nucleus, such as $^{208}Pb$ seems to afford the opportunity to see
+CT at quite low momentum transfers. The effects of Fermi motion are
+investigated, and choosing the momentum of the struck nucleon to be large leads
+to significant violations of CC.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 20:05:06 GMT""}]","2007-05-23"

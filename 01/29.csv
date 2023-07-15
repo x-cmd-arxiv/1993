@@ -1,0 +1,186 @@
+"astro-ph/9301012","Biman Nath","Biman Nath and David Eichler","A Possible Forest of Emission Lines from Proto-galaxies","7 pages (4 figs, available upon request). (To appear in MNRAS pink
+  pages)",,"10.1093/mnras/261.1.L25",,"astro-ph",,"  The possibility of detecting proto-galaxies in the UV band is pointed out,
+assuming that galaxy formation occured at z $\sim 5-6$. It is shown that the
+diffuse gas in collapsing galaxy sized objects with temperatures $\sim
+10^{6\pm0.5}$ K, and with a modest amount of metallicity, should copiously
+produce emission lines from highly ionized Iron atoms. The expected luminosity
+from models of galaxy formation is compared with the sensitivity of HST.
+","[{""version"":""v1"",""created"":""Fri, 29 Jan 1993 15:06:35 GMT""}]","2016-06-08"
+"cond-mat/9301038","Ofer Biham","Wei Li, Gianfranco Vidali and Ofer Biham","Scaling of Island Growth in Pb Overlayers on Cu(001)","23 pages, 10 Figures (available upon request). SU-PHYS-93-443-3752",,"10.1103/PhysRevB.48.8336",,"cond-mat",,"  The growth and ordering of a Pb layer deposited on Cu(001) at 150 K has been
+studied using atom beam scattering. At low coverage, ordered Pb islands with a
+large square unit cell and nearly hexagonal internal structure are formed. This
+is a high order commensurate phase with 30 atoms in the unit cell. From the
+measurement of the island diffraction peak profiles we find a power law for the
+mean island - size versus coverage with an exponent $n=0.54 \pm 0.03$. A
+scaling behavior of growth is confirmed and a simple model describing island
+growth is presented. Due to the high degeneracy of the monolayer phase,
+different islands do not diffract coherently. Therefore, when islands merge
+they still diffract as separate islands and coalescence effects are thus
+negligible. From the result for $n$ we conclude that the island density is
+approximately a constant in the coverage range $0.1 < \Theta < 0.5$ where the
+ordered islands are observed. We thus conclude that most islands nucleate at
+$\Theta < 0.1$ and then grow in an approximately self similar fashion as
+$\Theta$ increases.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 16:11:52 GMT""}]","2009-10-22"
+"cond-mat/9301039","Ben Hu","Ben Yu-Kuang Hu and S. Das Sarma","Many-body exchange-correlation effects in the lowest subband of
+  semiconductor quantum wires","93 pages, REVTEX (LaTex) version 2, 16 Figures (not included,
+  available upon request), UM-CM#0813",,,,"cond-mat",,"  We consider theoretically the electron--electron interaction induced
+exchange-correlation effects in the lowest subband of a quasi-one-dimensional
+GaAs quantum wire structures. We calculate, within the leading order dynamical
+screening approximation ({\em i.e.} the so-called $GW$ approximation of the
+electron gas theory), the electron self-energy, spectral function, momentum
+distribution function, inelastic scattering rate, band gap renormalization,
+and, the many-body renormalization factor both at zero and finite temperatures,
+and, both with and without impurity scattering effects. We also calculate the
+effects of finite temperatures and finite impurity scattering on the many-body
+properties. We propose the possibility of a hot-electron transistor device with
+a large negative differential resistance which is based on the sudden onset of
+plasmon emission by energetic ballistic electrons in one dimension. The issue
+of the existence or non-existence of the Fermi surface among the interacting
+one-dimensional quantum wire electrons is critically discussed based on our
+numerical results.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 22:58:34 GMT""}]","2007-05-23"
+"funct-an/9301003","Larry Schweitzer","Larry B. Schweitzer","A Factorization Theorem for Smooth Crossed Products","16 pages, AMS Tex 2.1, 1-28-93","Michigan Math. J. 41(1) (1994), 97-109",,,"funct-an math.OA",,"  We show that if E is a Frechet G\rtimes S(M)-module, for which the canonical
+map from the projective completion G\rtimes S(M) {\widehat \otimes} E to E is
+surjective, then every element of E can be written as a finite sum of elements
+of the form ae where e\in E and a is an element of the smooth crossed product
+G\rtimes S(M). We require that the Schwartz functions S(M) vanish rapidly with
+repsect to a continuous, proper map \s : M ---> [0, \infty).
+","[{""version"":""v1"",""created"":""Fri, 29 Jan 1993 01:55:37 GMT""}]","2016-02-15"
+"funct-an/9301004","Beatriz Abadie","Beatriz Abadie","""Vector bundles"" over quantum Heisenberg manifolds","10 pages, LaTeX format, BA-93-01",,,,"funct-an math.OA",,"  By means of techniques from the Morita equivalence theory, we get finitely
+generated and projective modules over the quantum Heisenberg manifolds. This
+enables us to get some information about the range of the trace of these
+algebras, at the level of the K_{0}-group, in terms of the Poisson bracket in
+whose direction the manifolds are deformed.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 16:46:21 GMT""}]","2008-02-03"
+"funct-an/9301005","Beatriz Abadie","Beatriz Abadie","Generalized fixed-point algebras of certain actions on crossed products","23 pages, LaTeX format, BA-93-02",,,,"funct-an math.OA",,"  Let G and H be two locally compact groups acting on a C*-algebra A by
+commuting actions. We construct an action on the crossed product AXG out of a
+unitary 2-cocycle u and the action of H on A. For A commutative, and free and
+proper actions of G and H, we show that if the roles of these two actions are
+reversed, and u is replaced by u*, then the corresponding generalized
+fixed-point algebras, in the sense of Rieffel, are strong-Morita equivalent. We
+apply this result to the computation of the K-theory of quantum Heisenberg
+manifolds.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 16:47:10 GMT""}]","2008-02-03"
+"hep-lat/9301021","Jeff Greensite","L. DelDebbio, M. Faber, and J. Greensite","Charge Screening, Large-N, and the Abelian Projection Model of
+  Confinement","20 pages (Latex), 8 figures, IFUP-TH 54/92","Nucl.Phys.B414:594-613,1994","10.1016/0550-3213(94)90256-9",,"hep-lat",,"  We point out that the abelian projection theory of quark confinement is in
+conflict with certain large-N predictions. According to both large-N and
+lattice strong-coupling arguments, the perimeter law behavior of adjoint Wilson
+loops at large scales is due to charge-screening, and is suppressed relative to
+the area term by a factor of $1/N^2$. In the abelian projection theory,
+however, the perimeter law is due to the fact that $N-1$ out of $N^2-1$ adjoint
+quark degrees of freedom are (abelian) neutral and unconfined; the suppression
+factor relative to the area law is thus only $1/N$. We study numerically the
+behavior of Wilson loops and Polyakov lines with insertions of (abelian) charge
+projection operators, in maximal abelian gauge. It appears from our data that
+the forces between abelian charged, and abelian neutral adjoint quarks are not
+significantly different. We also show via the lattice strong-coupling expansion
+that, at least at strong couplings, QCD flux tubes attract one another, whereas
+vortices in type II superconductors repel.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 20:40:36 GMT""}]","2008-11-26"
+"hep-ph/9301292","Jean Cleymans","N. Bili\'c, J. Cleymans, E. Suhonen, D.W. von Oertzen","Indications for a Detonating Quark-Gluon Plasma","Latex file 9 pages + 6 figures available as postscript files","Phys.Lett.B311:266-272,1993","10.1016/0370-2693(93)90566-Z","University of Cape Town preprint number UCT-TP 191/93","hep-ph",,"  We propose a mechanism which naturally contains the relation $\mu_{B} =
+3\mu_{S}$ of the hadronic gas produced in heavy-ion collisions at CERN. Our
+starting assumption is the existence of a sharp front separating the
+quark-gluon plasma phase from the hadronic phase. Energy-momentum conservation
+across the front leads to the following consequences for an adiabatic process
+a) The baryon chemical potential, $\mu_{B}$, is approximately continuous across
+the front. b) The temperature in the hadronic gas is higher than the phase
+transition temperature due to superheating. c) In the region covered by the
+experiments the velocity of the hadronic gas approximately equals the speed of
+sound in the hadronic gas.
+","[{""version"":""v1"",""created"":""Fri, 29 Jan 1993 08:49:40 GMT""}]","2010-11-01"
+"hep-th/9301119","Ian Kogan","A. Bilal and I. Kogan","Hamiltonian Approach to 2D Dilaton-Gravities and Invariant Adm Mass","revised, 12 pages, PUPT-1379; we added a reference and corrected some
+  minor typos","Phys.Rev. D47 (1993) 5408-5413","10.1103/PhysRevD.47.5408",,"hep-th gr-qc",,"  The formula existing in the literature for the ADM mass of 2D dilaton gravity
+is incomplete. For example, in the case of an infalling matter shockwave this
+formula fails to give a time-independent mass, unless a very special coordinate
+system is chosen. We carefully carry out the canonical formulation of 2D
+dilaton gravity theories (classical, CGHS and RST). As in 4D general relativity
+one must add a boundary term to the bulk Hamiltonian to obtain a well-defined
+variational problem. This boundary term coincides with the numerical value of
+the Hamiltonian and gives the correct mass which obviously is time-independent.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 20:44:55 GMT""},{""version"":""v2"",""created"":""Wed, 17 Feb 1993 18:16:13 GMT""}]","2009-10-22"
+"hep-th/9301120",,"A.P. Balachandran, G. Bimonte and P. Teotonio-Sobrinho","Edge States in 4D and their 3D Groups and Fields","12 pages, SU-4240-429","Mod. Phys. Lett. A8 (1993) 1305","10.1142/S0217732393001033",,"hep-th",,"  It is known that the Lagrangian for the edge states of a Chern-Simons theory
+describes a coadjoint orbit of a Kac-Moody (KM) group with its associated
+Kirillov symplectic form and group representation. It can also be obtained from
+a chiral sector of a nonchiral field theory. We study the edge states of the
+abelian $BF$ system in four dimensions (4d) and show the following results in
+almost exact analogy: 1) The Lagrangian for these states is associated with a
+certain 2d generalization of the KM group. It describes a coadjoint orbit of
+this group as a Kirillov symplectic manifold and also the corresponding group
+representation. 2) It can be obtained from with a ``self-dual"" or
+``anti-self-dual"" sector of a Lagrangian describing a massless scalar and a
+Maxwell field [ the phrase ``self-dual"" here being used essentially in its
+sense in monopole theory]. There are similar results for the nonabelian $BF$
+system as well. These shared features of edge states in 3d and 4d suggest that
+the edge Lagrangians for $BF$ systems are certain natural generalizations of
+field theory Lagrangians related to KM groups.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 22:55:00 GMT""}]","2015-06-26"
+"hep-th/9301121","Sanjaye Ramgoolam","Sanjaye Ramgoolam","New Modular Hopf Algebras related to rational $k$ $\widehat {sl(2)}$","30 pages (minor typos corrected, refs added)",,,"YCTP-P2-93","hep-th math.QA",,"  We show that the Hopf link invariants for an appropriate set of finite
+dimensional representations of $ U_q SL(2)$ are identical, up to overall
+normalisation, to the modular S matrix of Kac and Wakimoto for rational $k$
+$\widehat {sl(2)}$ representations. We use this observation to construct new
+modular Hopf algebras, for any root of unity $q=e^{-i\pi m/r}$, obtained by
+taking appropriate quotients of $U_q SL(2)$, that give rise to 3-manifold
+invariants according to the approach of Reshetikin and Turaev. The phase factor
+correcting for the `framing anomaly' in these invariants is equal to $ e^{- {{i
+\pi} \over 4} ({ {3k} \over {k+2}})}$, an analytic continuation of the anomaly
+at integer $k$. As expected, the Verlinde formula gives fusion rule
+multiplicities in agreement with the modular Hopf algebras. This leads to a
+proposal, for $(k+2)=r/m$ rational with an odd denominator, for a set of
+$\widehat {sl(2)}$ representations obtained by dropping some of the highest
+weight representations in the Kac-Wakimoto set and replacing them with lowest
+weight representations. For this set of representations the Verlinde formula
+gives non-negative integer fusion rule multiplicities. We discuss the
+consistency of the truncation to highest and lowest weight representations in
+conformal field theory.
+","[{""version"":""v1"",""created"":""Fri, 29 Jan 1993 03:00:30 GMT""},{""version"":""v2"",""created"":""Thu, 18 Feb 1993 19:26:02 GMT""}]","2008-02-03"
+"hep-th/9301122",,"F. De Jonghe, R. Siebelink and W. Troost","Hiding Anomalies","10p","Phys.Lett. B306 (1993) 295-300","10.1016/0370-2693(93)90082-S",,"hep-th",,"  Anomalies can be anticipated at the classical level without changing the
+classical cohomology, by introducing extra degrees of freedom. In the process,
+the anomaly does not quite disappear. We show that, in fact, it is shifted to
+new symmetries that come with the extra fields.
+","[{""version"":""v1"",""created"":""Fri, 29 Jan 1993 08:21:50 GMT""}]","2009-10-22"
+"hep-th/9301123","John Gracey","J.A. Gracey","Algorithm for Computing the $\BETA$-Function of Quantum Electrodynamics
+  in the Large N_f Expansion","latex file, 22 pages, 12 figures available on request from the
+  author, LTH-294","Int. J. Mod. Phys. A8 (1993) 2465-2486","10.1142/S0217751X93000977",,"hep-th",,"  By considering corrections to the asymptotic scaling functions of the photon
+and electron in quantum electrodynamics with $\Nf$ flavours, we solve the
+skeleton Dyson equations at $O(1/\Nf)$ in the large $\Nf$ expansion at the
+$d$-dimensional critical point of the theory and deduce the critical exponent
+$\beta^\prime(g_c)$, in arbitrary dimensions, and subsequently present a method
+for computing higher order corrections to $\beta(g)$.
+","[{""version"":""v1"",""created"":""Fri, 29 Jan 1993 09:13:00 GMT""}]","2015-06-26"
+"hep-th/9301124","T. R. Govindarajan","T.R.Govindarajan, R.Shankar, N.Shaji and M.Sivakumar","O(3) Non-linear $\sigma$ model with Hopf term and Higher spin theories","34 pages LATEX FILE","Int.J.Mod.Phys. A8 (1993) 3965-3992","10.1142/S0217751X93001612",,"hep-th",,"  Following our earlier work we argue in detail for the equivalence of the
+nonlinear $\sigma$ model with Hopf term at~$\theta=\pi/2s$ ~and an interacting
+spin-s theory. We give an ansatz for spin-s operators in the $\sigma$ model and
+show the equivalence of the correlation functions.We also show the relation
+between topological and Noether currents. We obtain the Lorentz and discrete
+transformation properties of the spin-s operator from the fields of the
+$\sigma$ model. We also explore the connection of this model with Quantum Hall
+Fluids.
+","[{""version"":""v1"",""created"":""Fri, 29 Jan 1993 15:09:27 GMT""}]","2019-08-17"
+"math/9301201",,"Peter G. Dodds, T. K. Dodds, Paddy N. Dowling, Christopher J. Lennard,
+  Fyodor A. Sukochev","A Uniform Kadec-klee Property For Symmetric Operator Spaces",,,,"Banach Archive 1/28/93","math.FA",,"  We show that if a rearrangement invariant Banach function space $E$ on the
+positive semi-axis satisfies a non-trivial lower $q-$ estimate with constant
+$1$ then the corresponding space $E(\nm)$ of $\tau-$measurable operators,
+affiliated with an arbitrary semi-finite von Neumann algebra $\nm$ equipped
+with a distinguished faithful, normal, semi-finite trace $\tau $, has the
+uniform Kadec-Klee property for the topology of local convergence in measure.
+In particular, the Lorentz function spaces $L_{q,p}$ and the Lorentz-Schatten
+classes ${\cal C}_{q,p}$ have the UKK property for convergence locally in
+measure and for the weak-operator topology, respectively. As a partial converse
+, we show that if $E$ has the UKK property with respect to local convergence in
+measure then $E$ must satisfy some non-trivial lower $q$-estimate. We also
+prove a uniform Kadec-Klee result for local convergence in any Banach lattice
+satisfying a lower $q$-estimate.
+","[{""version"":""v1"",""created"":""Thu, 28 Jan 1993 16:47:13 GMT""}]","2016-09-06"
+"nucl-th/9301019","Ruprecht Machleidt","R. Machleidt and G.Q. Li (University of Idaho)","Nucleon-Nucleon Potentials in Comparison: Physics or Polemics?","37 pages text (LaTex) and 15 figures (paper, available upon request),
+  UI-NTH-9302","Phys.Rept. 242 (1994) 5-35","10.1016/0370-1573(94)90139-2",,"nucl-th",,"  Guided by history, we review the major developments concerning realistic
+nucleon-nucleon (NN) potentials since the pioneering work by Kuo and Brown on
+the effective nuclear interaction. Our main emphasis is on the physics
+underlying various models for the NN interaction developed over the past
+quarter-century. We comment briefly on how to test the quantitative nature of
+nuclear potentials properly. A correct calculation (performed by independent
+researchers) of the $\chi^2$/datum for the fit of the world NN data yields 5.1,
+3.7, and 1.9 for the Nijmegen, Paris, and Bonn potential, respectively.
+Finally, we also discuss in detail the relevance of the on- and off-shell
+properties of NN potentials for microscopic nuclear structure calculations.
+","[{""version"":""v1"",""created"":""Fri, 29 Jan 1993 07:14:03 GMT""}]","2009-10-22"

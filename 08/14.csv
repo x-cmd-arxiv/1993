@@ -1,0 +1,68 @@
+"hep-ph/9308274","Andrey Kataev","D.J.Broadhurst and A.L.Kataev","Connections between Deep-Inelastic and Annihilation Processes at
+  Next-to-Next-to-Leading Order and Beyond","11 pages, LATEX, preprint INR-820/93, OUT-4102-45; In memoriam Sergei
+  Grogorievich Corishny, 1958-1988","Phys.Lett. B315 (1993) 179-187","10.1016/0370-2693(93)90177-J",,"hep-ph",,"  We have discovered 7 intimate connections between the published results for
+the radiative corrections, $\Ck$, to the Gross--Llewellyn Smith (GLS) sum rule,
+in deep-inelastic lepton scattering, and the radiative corrections, $\Cr$, to
+the Adler function of the flavour-singlet vector current, in $\ee$
+annihilation. These include a surprising relation between the
+scheme-independent single-electron-loop contributions to the 4-loop QED
+$\beta$\/-function and the zero-fermion-loop abelian terms in the 3-loop GLS
+sum rule. The combined effect of all 7 relations is to give the factorization
+of the 2-loop $\beta$\/-function in
+\[\Ds\equiv\Ck\Cr-1=\frac{\Be}{\Aq}\left\{S_1\Cf\Aq+\left[S_2\Tf\Nf
++\Sa\Ca+\Sf\Cf\right]\Cf\Aq^2\right\}+O(\Aq^4)\,,\] where
+$\Aq=\al(\mu^2=Q^2)/4\pi$ is the $\MS$ coupling of an arbitrary colour gauge
+theory, and \[S_1=-\Df{21}{2}+12\Ze3\,;\quad
+S_2=\Df{326}{3}-\Df{304}{3}\Ze3\,;\quad
+\Sa=-\Df{629}{2}+\Df{884}{3}\Ze3\,;\quad \Sf=\Df{397}{6}+136\Ze3-240\Ze5\]
+specify the sole content of $\Ck$ that is not already encoded in $\Cr$ and
+$\Be=Q^2\rd\Aq/\rd Q^2$ at $O(\Aq^3)$. The same result is obtained by combining
+the radiative corrections to Bjorken's polarized sum rule with those for the
+Adler function of the non-singlet axial current. We suggest possible origins of
+$\beta$ in the `Crewther discrepancy', $\Ds$, and determine $\Ds/(\Be/\Aq)$, to
+all orders in $\Nf\Aq$, in the large-$\Nf$ limit, obtaining the {\em entire\/}
+series of coefficients of which $S_1$ and $S_2$ are merely the first two
+members.
+","[{""version"":""v1"",""created"":""Fri, 13 Aug 1993 16:06:15 GMT""}]","2009-10-22"
+"hep-ph/9308275","James T. Liu","Paul H. Frampton, Plamen I. Krastev and James T. Liu","Cubic Mass Relation in $\rm SU(3)\times U(1)$ Electroweak Theory","12 pages (3 figures appended to RevTeX file), IFP-465-UNC","Mod.Phys.Lett. A9 (1994) 761-770","10.1142/S0217732394000575",,"hep-ph",,"  In the 331 model, lepton number may be explicitly broken by trilinear scalar
+self couplings. This leads to neutrino masses proportional to the cube of the
+corresponding charged lepton mass, with consequences for solar neutrinos and
+for hot dark matter.
+","[{""version"":""v1"",""created"":""Fri, 13 Aug 1993 18:36:27 GMT""},{""version"":""v2"",""created"":""Mon, 16 Aug 1993 00:38:41 GMT""}]","2009-10-22"
+"hep-ph/9308276",,"M.J. Herrero and E. Ruiz Morales","The Electroweak Chiral Lagrangian for the Standard Model with a Heavy
+  Higgs","pg.23, LaTeX, 3 figures (not included), FTUAM-93/24","Nucl.Phys. B418 (1994) 431-455","10.1016/0550-3213(94)90525-8",,"hep-ph",,"  The most general chiral Lagrangian for electroweak interactions with the
+complete set of $SU(2)_L\times U(1)_Y$ invariant operators up to dimension four
+is considered. The two-point and three-point functions with external gauge
+fields are derived from this effective chiral Lagrangian to one-loop order in a
+generic $R_\xi$-gauge. The same set of Green's functions are paralelly studied
+in the renormalizable standard model to one-loop order, in a $R_\xi$-gauge and
+in the large Higgs mass limit. An appropriate set of matching conditions
+connecting the Green's functions of the two theories allows us to derive,
+systematically, the values of the chiral Lagrangian coefficients corresponding
+to the large Higgs mass limit of the standard model. These chiral parameters
+represent the non-decoupling effects of a heavy Higgs particle and incorporate
+both the leading logarithmic dependence on $\mh$ and the next to leading
+constant contributions. Some phenomenological implications are also discussed.
+","[{""version"":""v1"",""created"":""Sat, 14 Aug 1993 01:18:00 GMT""}]","2009-10-22"
+"hep-th/9308067","Ivo Sachs","A. Dettki, I. Sachs and A. Wipf","Generalized Gauged Thirring Model on Curved Space-Times","70 pages PlainTex",,,"ETH-TH/93-14, MPI-PH/93-18","hep-th",,"  We analyse the interacting theory of charged fermions, scalars,
+pseuso-scalars and photons propagating in 2-dimensional curved spacetime in
+detail. For certain values of the coupling constants the theory reduces to the
+gauged Thirring model and for others the Schwinger model incurved spacetime. It
+is shown that the interaction of the fermions with the pseudo-scalars shields
+the electromagnetic interaction, and that the non-minimal coupling of the
+scalars to the gravitational field amplifies the Hawking radiation. We solve
+the finite temperature and density model by using functional techniques and in
+particular derive the exact equation of state. The explicit temperature and
+curvature dependence of the chiral condensate is found. When the
+electromagnetic field is switched off the model reduces to a conformal field
+theory. We determine the physically relevant expectation values and conformal
+weights of the fundamental fields in the theory.
+","[{""version"":""v1"",""created"":""Fri, 13 Aug 1993 17:11:34 GMT""}]","2007-05-23"
+"hep-th/9308068",,"E.E. Donets, D.V. Gal'tsov, M.S.Volkov","Non-Abelian Cornucopions","8 pages; CINVESTAV-GRG-10, July 93",,,,"hep-th",,"  An infinite family of cornucopions is found within the $SU(2)\times U(1)$
+sector of the 4--d heterotic string low-energy theory, the extremal $U(1)$
+magnetic dilatonic black hole being the lowest energy state. Non-abelian
+cornucopions are interpreted as sphalerons associated with potential barriers
+separating topologically distinct Yang-Mills vacua on the $U(1)$ cornucopion
+background. A mass formula for non-abelian dilatonic black holes is derived,
+and the free energy is calculated through the Euclidean action.
+","[{""version"":""v1"",""created"":""Fri, 13 Aug 1993 17:57:00 GMT""}]","2007-05-23"

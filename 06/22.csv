@@ -1,0 +1,257 @@
+"alg-geom/9306010",,"Thomas Peternell, Jaroslaw A. Wisniewski","On stability of tangent bundles of Fano manifolds with b_2=1","17 pages and 2 tables, plain TeX, Forschungsschwerpunkt Komplexe
+  Mannigfaltigkeiten, heft nr. 174, Bayreuth 1993",,,,"alg-geom math.AG",,"  In the present paper we discuss stability of the tanget bundle of a Fano
+n-fold of index >= n-2 and b_2=1. For example, we prove that all Fano 4-folds
+with b_2=1 have stable tangent bundle. For this purpose we prove some vanishing
+theorems for sheaves of twisted holomorphic forms on ample divisors and cyclic
+coverings of manifolds having ""special cohomology"".
+","[{""version"":""v1"",""created"":""Tue, 22 Jun 1993 15:06:24 GMT""},{""version"":""v2"",""created"":""Sun, 14 Nov 1993 22:04:50 GMT""}]","2008-02-03"
+"astro-ph/9306019","Redouin Fakir","Redouane Fakir","Almost Readily Detectable Time Delays from Gravity Waves?","16p., plain LaTeX (version 2.09), UBCTP-93-006","Phys.Rev.D50:3795-3800,1994","10.1103/PhysRevD.50.3795",,"astro-ph gr-qc",,"  When a source of gravity waves is conveniently placed between the Earth and
+some source of light, preferably a pulsating source, the magnitude of time
+delays induced by the gravity waves could, in optimal situations, be not too
+far out of the reach of already existing technology. Besides the odd case of
+near-to-perfect alignment one might be lucky enough to encounter in the Galaxy,
+there exists several astronomical sites where good alignment occurs naturally.
+A good example is when the light source and the gravity-wave source are,
+respectively, a high-frequency pulsar and a neutron star, locked together in a
+tight binary. We are lead to believe that neutron-star gravity waves might be
+directly observable in timing data of systems such as PSR B1913+16.
+","[{""version"":""v1"",""created"":""Mon, 21 Jun 1993 22:53:24 GMT""},{""version"":""v2"",""created"":""Tue, 22 Jun 1993 22:42:41 GMT""},{""version"":""v3"",""created"":""Thu, 16 Sep 1993 05:36:04 GMT""}]","2010-11-01"
+"astro-ph/9306020","Martin Weinberg","Martin D. Weinberg","Weakly Damped Modes in Star Clusters and Galaxies","19 pages, AAS LaTeX macros v3.0, 10 figures, UMASS-APT-002",,"10.1086/173665",,"astro-ph",,"  A perturber may excite a coherent mode in a star cluster or galaxy. If the
+stellar system is stable, it is commonly assumed that such a mode will be
+strongly damped and therefore of little practical consequence other than
+redistributing momentum and energy deposited by the perturber. This paper
+demonstrates that this assumption is false; weakly damped modes exist and may
+persist long enough to have observable consequences. To do this, a method for
+investigating the dispersion relation for spherical stellar systems and for
+locating weakly damped modes in particular is developed and applied to King
+models of varying concentration. This leads to the following remarkable result:
+King models exhibit {\it very} weakly damped $m=1$ modes over a wide range of
+concentration ($0.67\le c\le1.5$ have been examined). The predicted damping
+time is tens to hundreds of crossing times. This mode causes the peak density
+to shift from and slowly revolve about the initial center. The existence of the
+mode is supported by n-body simulation. Higher order modes and possible
+astronomical consequences are discussed. Weakly damped modes, for example, may
+provide a natural explanation for observed discrepancies between density and
+kinematic centers in galaxies, the location of velocity cusps due to massive
+black holes, and $m=1$ disturbances of disks embedded in massive halos.
+Gravitational shocking may excite the $m=1$ mode in globular clusters, which
+could modify their subsequent evolution and displace the positions of exotic
+remnants.
+","[{""version"":""v1"",""created"":""Tue, 22 Jun 1993 04:15:36 GMT""}]","2009-10-22"
+"chao-dyn/9306007","Jean Bricmont","J.Bricmont (UCL, Physique Theorique, Louvain-la-Neuve, Belgium),
+  A.Kupiainen (Helsinki University, Mathematics Department, Helsinki, Finland)","Universality in Blow-Up for Nonlinear Heat Equations","38 pages",,"10.1088/0951-7715/7/2/011",,"chao-dyn cond-mat nlin.CD",,"  We consider the classical problem of the blowing-up of solutions of the
+nonlinear heat equation. We show that there exist infinitely many profiles
+around the blow-up point, and for each integer $k$, we construct a set of
+codimension $2k$ in the space of initial data giving rise to solutions that
+blow-up according to the given profile.
+","[{""version"":""v1"",""created"":""Mon, 21 Jun 1993 16:54:00 GMT""}]","2009-10-22"
+"chao-dyn/9306008","Jean Bricmont","J.Bricmont (UCL, Physique Theorique, Louvain-la-Neuve, Belgium),
+  A.Kupiainen ( Helsinki University, Mathematics Department, Helsinki,
+  Finland), G.Lin ( Rutgers University, Mathematics Department, New Brunswick,
+  NJ, USA)","Renormalization Group and Asymptotics of Solutions of Nonlinear
+  Parabolic Equations","29 pages",,,,"chao-dyn nlin.CD",,"  We present a general method for studying long time asymptotics of nonlinear
+parabolic partial differential equations. The method does not rely on a priori
+estimates such as the maximum principle. It applies to systems of coupled
+equations, to boundary conditions at infinity creating a front, and to higher
+(possibly fractional) differential linear terms. We present in detail the
+analysis for nonlinear diffusion-type equations with initial data falling off
+at infinity and also for data interpolating between two different stationary
+solutions at infinity.
+","[{""version"":""v1"",""created"":""Mon, 21 Jun 1993 17:03:10 GMT""}]","2008-02-03"
+"chao-dyn/9306009","Jean Bricmont","J.Bricmont (UCL, Physique Theorique, Louvain-la-Neuve, Belgium),
+  A.Kupiainen (Helsinki University, Mathematics Department, Helsinki, Finland)","Stability of Moving Fronts in the Ginzburg-Landau Equation","31 pages",,"10.1007/BF02102640",,"chao-dyn nlin.CD",,"  We use Renormalization Group ideas to study stability of moving fronts in the
+Ginzburg-Landau equation in one spatial dimension. In particular, we prove
+stability of the real fronts under complex perturbations. This extends the
+results of Aronson and Weinberger to situations where the maximum principle is
+inapplicable and constitutes a step in proving the general marginal stability
+hypothesis for the Ginzburg-Landau equation.
+","[{""version"":""v1"",""created"":""Mon, 21 Jun 1993 17:07:57 GMT""}]","2009-10-22"
+"cond-mat/9306046","Mike Norman","M. R. Norman","Odd Parity Superconductivity in Heavy Fermion UPd_2Al_3",,,,,"cond-mat",,"  The simple argument given in the previous version ""that almost certainly
+restricts heavy fermion UPd_2Al_3 to be an odd parity superconductor with a
+single component order parameter"" is not correct.
+","[{""version"":""v1"",""created"":""Mon, 21 Jun 1993 19:38:28 GMT""},{""version"":""v2"",""created"":""Wed, 23 Jun 1993 14:31:15 GMT""}]","2008-02-03"
+"cond-mat/9306047","Albert-Laszlo Barabasi","Albert-L\'aszl\'o Barab\'asi","Surfactant-Mediated Growth of Nonequilibrium Interfaces","12 pg.,REVTEX",,"10.1103/PhysRevLett.70.4102",,"cond-mat",,"  A number of recent experiments have showed that surfactants can modify the
+growth mode of an epitaxial film, suppressing islanding and promoting
+layer-by-layer growth. Here I introduce a set of coupled equations to describe
+the nonequilibrium roughening of an interface covered with a thin surfactant
+layer. The surfactant may drive the system into a novel phase, in which the
+surface roughness is negative, corresponding to a flat surface.
+","[{""version"":""v1"",""created"":""Tue, 22 Jun 1993 01:22:54 GMT""}]","2009-10-22"
+"gr-qc/9306026","Alberto Vazquez Saa","Alberto Saa","Gauge fields on Riemann-Cartan space-times","16 pages, IFUSP/P-1031","Mod.Phys.Lett. A9 (1994) 971-982","10.1142/S0217732394000812",,"gr-qc",,"  Gauge fields are described on an Riemann-Cartan space-time by means of
+tensor-valued differential forms and exterior calculus. It is shown that
+minimal coupling procedure leads to a gauge invariant theory where gauge fields
+interact with torsion, and that consistency conditions for the gauge fields
+impose restrictions in the non-Riemannian structure of space-time. The new
+results differ from the well established ones obtained by using minimal
+coupling procedure at the action formulation. The sources of these differences
+are pointed out and discussed.
+","[{""version"":""v1"",""created"":""Tue, 22 Jun 1993 14:18:13 GMT""}]","2009-10-22"
+"hep-lat/9306018","Hazem Suman","H. Suman and K. Schilling","A Comperative Study of Gauge Fixing Procedures on the Connection
+  Machines CM2 and CM5","14 Pages (Latex), 8 Figures included, WUP 93-23",,,,"hep-lat",,"  Gauge fixing is a frequent task encountered in practical lattice gauge theory
+calculations. We review the performance characteristics of some standard
+gauging procedures for non-abelian gauge theories, implemented on the parallel
+machines CM2 and CM5.
+","[{""version"":""v1"",""created"":""Tue, 22 Jun 1993 12:29:54 GMT""}]","2007-05-23"
+"hep-ph/9306298",,"Hermann Schulz","Gluon Plasma Frequency -- the Next-to-Leading Order Term","41 pages, LaTeX, ITP-UH 8/93 and DESY 93-080","Nucl.Phys. B413 (1994) 353-395","10.1016/0550-3213(94)90624-6",,"hep-ph",,"  The longitudinal-electric oscillations of the hot gluon system are studied
+beyond the well known leading order term at high temperature $T$ and small
+coupling $g$. The coefficient $\eta$ in $\omega^2 = m^2 \, (1+ \eta \, g \wu N
+\, )$ is calculated, where \hbox{$\omega \equiv \omega (\vc q =0)$} is the
+long-wavelength limit of the frequency spectrum, $N$ the number of colours and
+$m^2=g^2 N T^2/9$. In the course of this, for the real part of the gluon
+self-energy, the Braaten-Pisarski resummation programme is found to work well
+in all details. The coefficient $\eta$ is explicitly seen to be gauge
+independent within the class of covariant gauges. Infrared singularities cancel
+as well as collinear singularities in the two-loop diagrams with both inner
+momenta hard. However, as it turns out, none of these two-loop contributions
+reaches the relative order $O(g)$ under study. The minus sign in our numerical
+result $\; \eta = -.18 \; $ is in accord with the intuitive picture that the
+studied mode might soften with increasing coupling (lower temperature) until a
+phase transition is reached at zero-frequency. The minus sign thus exhibits the
+'glue' effect for the first time in a dynamical quantity of hot QCD.
+","[{""version"":""v1"",""created"":""Mon, 21 Jun 1993 17:42:37 GMT""},{""version"":""v2"",""created"":""Mon, 20 Sep 1993 11:50:23 GMT""}]","2009-10-22"
+"hep-ph/9306299","Keh-Fei Liu","Keh-Fei Liu and Shao-Jing Dong","Origin of Difference between $\overline{d}$ and $\overline{u}$ Partons
+  in the Nucleon","8 Pages, 5 ps figures included in part 2, UK/93-02","Phys.Rev.Lett.72:1790-1793,1994","10.1103/PhysRevLett.72.1790",,"hep-ph hep-lat",,"  Using the Euclidean path-integral formulation for the hadronic tensor, we
+show that the violation of the Gottfried sum rule does not come from the
+disconnected quark-loop insertion. Rather, it comes from the connected (quark
+line) insertion involving quarks propagating in the backward time direction. We
+demonstrate this by studying sum rules in terms of the scalar and axial- vector
+matrix elements in lattice gauge calculations. The effects of eliminating
+backward time propagation are presented.
+","[{""version"":""v1"",""created"":""Mon, 21 Jun 1993 19:05:27 GMT""}]","2011-02-01"
+"hep-ph/9306300","Sylvie Zaffanella","C.A. Savoy","Electroweak symmetry breaking through supersymmetry breaking","{\lq\lq \rq\rq }, Saclay-T93/060",,,,"hep-ph",,"  The connection between the scales of $ {\rm SU} (2)\times {\rm U} (1) $ gauge
+symmetry breaking and supersymmetry breaking is didactically displayed in the
+framework of a T.O.Y. (Theory Overestimating Yukawas) model, a version of the $
+(M+1)SSM $ (supersymmetric extension of the standard model with a gauge
+singlet) in which the relevant parameters are determined in the fixed point
+regime. Some conspicuous features of supersymmetric particle physics are
+reviewed in the light of this simplified model. An alternative theory
+corresponding to lim $ (M+1)SSM \longrightarrow MSSM, $ leads to interesting
+inequalities among the supersymmetric breaking parameters of the $ MSSM. $
+","[{""version"":""v1"",""created"":""Tue, 22 Jun 1993 12:27:56 GMT""}]","2007-05-23"
+"hep-ph/9306301","Sylvie Zaffanella","Jean-Paul Blaizot, Dmitri Diakonov","On semi-classical pion production in heavy ion collisions","Saclay-T93/062","Phys.Lett.B315:226-231,1993","10.1016/0370-2693(93)91605-M",,"hep-ph nucl-th",,"  In high energy heavy ion collisions the pion multiplicity is large, and one
+might expect that pions are radiated semi-classically. The axial symmetry of
+the collision and approximately zero isotopic spin of the colliding nuclei
+result then in peculiar isotopic spin -- azimuth correlations of the produced
+pions. These correlations are easy to test -- and should be tested.
+","[{""version"":""v1"",""created"":""Tue, 22 Jun 1993 12:41:49 GMT""}]","2010-11-01"
+"hep-th/9306100","Coussaert Olivier","M. Henneaux","Ghosts of ghosts for second class constraints","7 pages in LaTex, ULB-PMIF/93-02","Phys.Lett. B315 (1993) 283-286","10.1016/0370-2693(93)91613-R",,"hep-th",,"  When one uses the Dirac bracket, second class constraints become first class.
+Hence, they are amenable to the BRST treatment characteristic of ordinary first
+class constraints. This observation is the starting point of a recent
+investigation by Batalin and Tyutin, in which all the constraints are put on
+the same footing. However, because second class constraints identically vanish
+as operators in the quantum theory, they are quantum-mechanically reducible and
+require therefore ghosts of ghosts. Otherwise, the BRST cohomology would not
+yield the correct physical spectrum. We discuss how to incorporate this feature
+in the formalism and show that it leads to an infinite tower of ghosts of
+ghosts. An alternative treatment, in which the brackets of the ghosts are
+modified, is also mentioned.
+","[{""version"":""v1"",""created"":""Mon, 21 Jun 1993 17:58:59 GMT""}]","2009-10-22"
+"hep-th/9306101","Coussaert Olivier","M. Henneaux","Remarks on the renormalization of gauge invariant operators in
+  Yang-Mills theory","12 pages in LaTex, ULB-PMIF/93-03","Phys.Lett. B313 (1993) 35-40; Erratum-ibid. B316 (1993) 633","10.1016/0370-2693(93)91187-R",,"hep-th",,"  A simplified proof of a theorem by Joglekar and Lee on the renormalization of
+local gauge invariant operators in Yang-Mills theory is given. It is based on
+(i) general properties of the antifield-antibracket formalism; and (ii)
+well-established results on the cohomology of semi-simple Lie algebras.
+","[{""version"":""v1"",""created"":""Mon, 21 Jun 1993 17:48:24 GMT""}]","2009-10-22"
+"hep-th/9306109",,"Nathan Berkovits","A New Approach to the Green-Schwarz Superstring","(based on talks given at SUSY '93 and at Strings '93), 6 pages plain
+  Tex, KCL-TH-93-9",,,,"hep-th",,"  By replacing two of the bosonic scalar superfields of the N=2 string with
+fermionic scalar superfields (which shifts $d_{critical}$ from (2,2) to (9,1)),
+a quadratic action for the ten-dimensional Green-Schwarz superstring is
+obtained. Using the usual N=2 super-Virasoro ghosts, one can construct a BRST
+operator, picture-changing operators, and covariant vertex operators for the
+Green-Schwarz superstring. Superstring scattering amplitudes with an arbitrary
+number of loops and external massless states are then calculated by evaluating
+correlation functions of these vertex operators on N=2 super-Riemann surfaces,
+and integrating over the N=2 super-moduli. These multiloop superstring
+amplitudes have been proven to be SO(9,1) super-Poincar\'e invariant (by
+constructing the super-Poincar\'e generators and writing the amplitudes in
+manifest SO(9,1) notation), unitary (by showing agreement with amplitudes
+obtained using the light-cone gauge Green-Schwarz formalism), and finite (by
+explicitly checking for divergences in the amplitudes when the Riemann surface
+degenerates). There is no multiloop ambiguity in these Green-Schwarz scattering
+amplitudes since spacetime-supersymmetry is manifest (there is no sum over spin
+structures), and therefore the moduli space can be compactified.
+","[{""version"":""v1"",""created"":""Mon, 21 Jun 1993 21:07:00 GMT""}]","2007-05-23"
+"hep-th/9306110","Ivan Kostov","I.K. Kostov","U(N) Gauge Theory and Lattice Strings","37 pages, 11 figures not included ; An extended version explaining in
+  addition the construction of the lattice string ansatz in D >2 dimensions.
+  (Note that the title has been changed.)",,,,"hep-th",,"  The U(N) gauge theory on a D-dimensional lattice is reformulated as a theory
+of lattice strings (a statistical model of random surfaces). The Boltzmann
+weights of the surfaces can have both signs and are tuned so that the
+longitudinal modes of the string are elliminated. The U(\infty) gauge theory is
+described by noninteracting planar surfaces and the 1/N corrections are
+produced by surfaces with higher topology as well as by contact interactions
+due to microscopic tubes, trousers, handles, etc. We pay special attention to
+the case D=2 where the sum over surfaces can be performed explicitly, and
+demonstrate that it reproduces the known exact results for the free energy and
+Wilson loops in the continuum limit. In D=4 dimensions, our lattice string
+model reproduces the strong coupling phase of the gauge theory. The weak
+coupling phase is described by a more complicated string whose world surface
+may have windows. A possible integration measure in the space of continuous
+surfaces is suggested.
+","[{""version"":""v1"",""created"":""Mon, 21 Jun 1993 22:26:46 GMT""},{""version"":""v2"",""created"":""Fri, 25 Jun 1993 10:37:51 GMT""},{""version"":""v3"",""created"":""Fri, 15 Oct 1993 11:23:28 GMT""}]","2008-02-03"
+"hep-th/9306111","Armen Nersessian","Armen Nersessian","Antibrackets and Supersymmetric Mechanics","8 pages, Preprint JINR E2-93-225 , LaTeX file",,,,"hep-th",,"  Using odd symplectic structure constructed over tangent bundle of the
+symplectic manifold, we construct the simple supergeneralization of an
+arbitrary Hamiltonian mechanics on it. In the case, if the initial mechanics
+defines Killing vector of some Riemannian metric, corresponding supersymmetric
+mechanics can be reformulated in the terms of even symplectic structure on the
+supermanifold.
+","[{""version"":""v1"",""created"":""Tue, 22 Jun 1993 10:26:52 GMT""},{""version"":""v2"",""created"":""Thu, 29 Jul 1993 15:32:58 GMT""}]","2008-02-03"
+"hep-th/9306112","Jean Avan","Jean Avan","Integrable extensions of the rational and trigonometric $A_N$ Calogero
+  Moser potentials","15 pages; LaTeX; PAR LPTHE 93-23 Revised version including extensive
+  modifications in the demonstrations and the references",,"10.1016/0375-9601(94)90618-1",,"hep-th",,"  We describe the $R$-matrix structure associated with integrable extensions,
+containing both one-body and two-body potentials, of the $A_N$ Calogero-Moser
+$N$-body systems. We construct non-linear, finite dimensional Poisson algebras
+of observables. Their $N
+  \rightarrow \infty$ limit realize the infinite Lie algebras Sdiff$({\Bbb R}
+\times S_1 )$ in the trigonometric case and
+  Sdiff$({\Bbb R }^2)$ in the rational case. It is then isomorphic to the
+algebra of observables constructed in the two-dimensional collective string
+field theory.
+","[{""version"":""v1"",""created"":""Tue, 22 Jun 1993 12:04:39 GMT""},{""version"":""v2"",""created"":""Mon, 5 Jul 1993 12:35:53 GMT""},{""version"":""v3"",""created"":""Wed, 12 Jan 1994 13:35:28 GMT""}]","2009-10-22"
+"hep-th/9306113",,"J. Sladkowski","The St\""uckelberg formalism is a field-enlarging transformation","16 pages, LaTeX-file",,,"BI-TP 93/27","hep-th hep-ph",,"  It is shown that the St\""uckelberg formalism can be regarded as a
+field-enlarging transformation that introduces an additional gauge symmetry to
+the considered model. The appropriate BRST charge can be defined. The physical
+state condition, demanding that that a physical state is to be anihilated by
+the BRST charge, is shown to be equivalent to the St\""uckelberg condition.
+Several applications of the new approach to the formalism are presented. The
+comparison with the BFV procedure is given. (The author field has been
+corrected.)
+","[{""version"":""v1"",""created"":""Tue, 22 Jun 1993 14:07:16 GMT""},{""version"":""v2"",""created"":""Mon, 12 Jul 1993 14:08:04 GMT""}]","2008-02-03"
+"hep-th/9306114",,"Jan Sladkowski","Field-enlarging transformations and chiral theories","14 pages, LaTeX-file, BI-TP 93/07","Int.J.Theor.Phys. 34 (1995) 1855-1862","10.1007/BF00674066",,"hep-th hep-ph",,"  A field-enlarging transformation in the chiral electrodynamics is performed.
+This introduces an additional gauge symmetry to the model that is unitary and
+anomaly-free and allows for comparison of different models discussed in the
+literature. The problem of superfluous degrees of freedom and their influence
+on quantization is discussed. Several ""mysteries"" are explained from this point
+of view.
+","[{""version"":""v1"",""created"":""Tue, 22 Jun 1993 14:59:23 GMT""}]","2015-06-26"
+"hep-th/9306115",,"Jan Sladkowski","Does noncommutative geometry predict nonlinear Higgs mechanism?","12 pages, LaTeX file, BI-TP 93/26","Int.J.Theor.Phys. 33 (1994) 2381-2388","10.1007/BF00673963",,"hep-th hep-ph",,"  It is argued that the noncommutative geometry construction of the standard
+model predicts a nonlinear symmetry breaking mechanism rather than the orthodox
+Higgs mechanism. Such models have experimentally verifiable consequences.
+","[{""version"":""v1"",""created"":""Tue, 22 Jun 1993 15:11:14 GMT""}]","2009-10-22"
+"math/9306210",,"Denny H. Leung","Some stability properties of $c_0$-saturated spaces",,,,"Banach Archive 6/21/93","math.FA",,"  A Banach space is $c_0$-saturated if all of its closed infinite dimensional
+subspaces contain an isomorph of $c_0$. In this article, we study the stability
+of this property under the formation of direct sums and tensor products. Some
+of the results are: (1) a slightly more general version of the fact that
+$c_0$-sums of $c_0$-saturated spaces are $c_0$-saturated; (2) $C(K,E)$ is
+$c_0$-saturated if both $C(K)$ and $E$ are; (3) the tensor product
+$JH\tilde{\otimes}_\epsilon JH$ is $c_0$-saturated, where $JH$ is the James
+Hagler space.
+","[{""version"":""v1"",""created"":""Mon, 21 Jun 1993 21:51:02 GMT""}]","2016-09-06"
+"math/9306211",,"R. Komowski, Nicole Tomczak-Jaegermann","Banach spaces without local unconditional structure",,,,"Banach Archive 6/21/93","math.FA",,"  For a large class of Banach spaces, a general construction of subspaces
+without local unconditional structure is presented. As an application it is
+shown that every Banach space of finite cotype contains either $l_2$ or a
+subspace without unconditional basis, which admits a Schauder basis. Some other
+interesting applications and corollaries follow.
+","[{""version"":""v1"",""created"":""Mon, 21 Jun 1993 21:51:02 GMT""}]","2016-09-06"
+"math/9306212",,"Bernard Maurey","A remark about distortion",,,,"Banach Archive 6/21/93","math.FA",,"  In this note we show that every Banach space $X$ not containing $\ell_1^n$
+uniformly and with unconditional basis contains an arbitrarily distortable
+subspace.
+","[{""version"":""v1"",""created"":""Mon, 21 Jun 1993 21:51:02 GMT""}]","2009-09-25"
+"nucl-th/9306021","Thomas Vetter","U. Kalmbach, T. Vetter, T. S. Biro and U. Mosel (Institut fuer
+  Theoretische Physik, Universitaet Giessen 35392 Giessen, West Germany)","A Quark Transport Theory to describe Nucleon--Nucleon Collisions","23 pages, LaTeX (figures available from the authors), UGI-93-1","Nucl.Phys. A563 (1993) 584-604","10.1016/0375-9474(93)90056-4",,"nucl-th",,"  On the basis of the Friedberg-Lee model we formulate a semiclassical
+transport theory to describe the phase-space evolution of nucleon-nucleon
+collisions on the quark level. The time evolution is given by a Vlasov-equation
+for the quark phase-space distribution and a Klein-Gordon equation for the
+mean-field describing the nucleon as a soliton bag. The Vlasov equation is
+solved numerically using an extended testparticle method. We test the
+confinement mechanism and mean-field effects in 1+1 dimensional simulations.
+","[{""version"":""v1"",""created"":""Tue, 22 Jun 1993 09:57:27 GMT""}]","2009-10-22"

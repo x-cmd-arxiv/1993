@@ -1,0 +1,126 @@
+"chao-dyn/9303004","David Egolf","David A. Egolf (Department of Physics and Center for Nonlinear and
+  Complex Systems, Duke University) and Henry S. Greenside (Departments of
+  Physics and Computer Science and Center for Nonlinear and Complex Systems,
+  Duke University)","Stochastic to deterministic crossover of fractal dimension for a
+  Langevin equation","12 pages including 3 figures, RevTex and epsf. To appear Phys. Rev.
+  E, April, 1993",,"10.1103/PhysRevE.47.3753","PRE-EG-0001","chao-dyn nlin.CD",,"  Using algorithms of Higuchi and of Grassberger and Procaccia, we study
+numerically how fractal dimensions cross over from finite-dimensional Brownian
+noise at short time scales to finite values of deterministic chaos at longer
+time scales for data generated from a Langevin equation that has a strange
+attractor in the limit of zero noise. Our results suggest that the crossover
+occurs at such short time scales that there is little chance of
+finite-dimensional Brownian noise being incorrectly identified as deterministic
+chaos.
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 21:53:56 GMT""}]","2009-10-22"
+"cond-mat/9303024",,"Ulrich H.E. Hansmann and Yuko Okamoto","Prediction of Peptide Conformation by the Multicanonical Algorithm","5 pages, Latex file with attached postscript files, FSU-SCRI-93C-34",,,,"cond-mat q-bio",,"  We test the effectiveness of the multicanonical algorithm for the tertiary
+structure prediction of peptides and proteins. As a simple example we study
+Met-enkephalin. The lowest-energy conformation obtained agrees with that
+determined by other methods such as Monte Carlo simulated annealing. But unlike
+to simulated annealing the relationship to the canonical ensemble remains
+exactly controlled. Thermodynamic quantities at various temperature can be
+calculated from one run.
+","[{""version"":""v1"",""created"":""Sat, 13 Mar 1993 00:23:21 GMT""}]","2007-05-23"
+"cond-mat/9303025",,"Tarik Celik, Ulrich H.E. Hansmann and Bernd Berg","Study of +/-J Ising Spin Glasses via Multicanonical Ensemble","no figures included, 5 pages, FSU-SCRI-93-31",,,,"cond-mat",,"  We performed numerical simulations of 2D and 3D Edwards-Anderson spin glass
+models by using the recently developed multicanonical ensemble. Our ergodicity
+times increase with the lattice size approximately as $V^3$. The energy,
+entropy and other physical quantities are easily calculable at all temperatures
+from a single simulation. Their finite size scalings and the zero temperature
+limits are also explored.
+","[{""version"":""v1"",""created"":""Sat, 13 Mar 1993 00:48:38 GMT""}]","2019-08-17"
+"cond-mat/9303026",,"Mohammad Katoot, Ulrich H.E. Hansmann and Tarik Celik","Multicanonical Simulation of the Van Hemmen Spin Glass","sorry: no figures included, 5 pages, FSU-SCRI-93-32",,,,"cond-mat hep-lat",,"  We studied the performance of the multicanonical algorithm by simulating the
+van Hemmen spin glass model and reproduced the exact results for this mean
+field model. Physical quantities such as energy density, specific heat,
+susceptibility and order parameters are evaluated at all temperatures.
+","[{""version"":""v1"",""created"":""Sat, 13 Mar 1993 00:49:28 GMT""}]","2007-05-23"
+"gr-qc/9303019","Donald Marolf","Donald Marolf","Loop Representations for 2+1 Gravity on a Torus","24 journal or 52 preprint pages, revtex, SU-GP-93/3-1","Class.Quant.Grav.10:2625-2648,1993","10.1088/0264-9381/10/12/020",,"gr-qc hep-th",,"  We study the loop representation of the quantum theory for 2+1 dimensional
+general relativity on a manifold, $M = {\cal T}^2 \times {\cal R}$, where
+${\cal T}^2$ is the torus, and compare it with the connection representation
+for this system. In particular, we look at the loop transform in the part of
+the phase space where the holonomies are boosts and study its kernel. This
+kernel is dense in the connection representation and the transform is not
+continuous with respect to the natural topologies, even in its domain of
+definition. Nonetheless, loop representations isomorphic to the connection
+representation corresponding to this part of the phase space can still be
+constructed if due care is taken. We present this construction but note that
+certain ambiguities remain; in particular, functions of loops cannot be
+uniquely associated with functions of connections.
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 16:30:00 GMT""}]","2010-04-06"
+"gr-qc/9303020","Don N. Page","Don N. Page","Clock Time and Entropy","14 pages, plain TeX, report Alberta-Thy-12-93, To be published in
+  {\it Physical Origins of Time Asymmetry,} Eds. J. J. Halliwell, J.
+  Perez-Mercader, and W. H. \.Zurek, Cambridge University Press, Cambridge
+  (1993)",,,,"gr-qc",,"  Testable conditional probabilities appear to be restricted to single
+hypersurfaces (marvelous moments) and depend only on stationary observables.
+Observable evolution, such as a change of entropy, should be expressed as a
+dependence upon clock time, not upon inaccessible coordinate time.
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 22:09:05 GMT""},{""version"":""v2"",""created"":""Fri, 12 Mar 1993 22:33:24 GMT""}]","2008-02-03"
+"hep-ph/9303250",,"Z.Lalak and S.Thomas","Domain Wall Formation In The Post-Inflationary Universe","12pages","Phys.Lett. B306 (1993) 10-18","10.1016/0370-2693(93)91130-F","qmw-ph-93-4","hep-ph astro-ph",,"  We consider the evolution of the probability distribution $\pp (\chi ,\chib,
+\t)$, associated with an inhomogeneous light scalar field $\chi$ in the
+Robertson-Walker Universe, where the inhomogeneities are produced by quantum
+fluctuations during an earlier inflationary epoch. For a specific choice of
+scalar potential which occurs in models of so called late-time phase
+transitions in which domain walls are produced, $\pp$ is shown to evolve from a
+Gaussian to a non-Gaussian distribution. The structure of the latter justifies
+the recent use of 3-dimensional percolation theory to describe the initial
+distribution of domain walls in these models.
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 17:29:41 GMT""}]","2009-10-22"
+"hep-ph/9303251",,"W. Buchm\""uller, Z. Fodor T. Helbig, D. Walliser","The weak electroweak phase transition","LaTeX, 45 pages, 13 figures [not included, can be sent upon
+  request],DESY 93-021","Annals Phys. 234 (1994) 260-299","10.1006/aphy.1994.1082",,"hep-ph",,"  We present a detailed analysis of the phase transition in the standard model
+at finite temperature. Using an improved perturbation theory, where plasma
+masses are determined from a set of one-loop gap equations, we evaluate the
+effective potential $V_{eff}(\varphi,T)$ in next-to-leading order, i.e.,
+including terms cubic in the gauge coupling $g$, the scalar self-coupling
+$\lambda^{1/2}$ and the top-quark Yukawa coupling $f_t$. The gap equations
+yield a non-vanishing magnetic plasma mass for the gauge bosons, originating
+from the non-abelian self-interactions. We discuss in detail size and origin of
+higher order effects and conclude that the phase transition is weakly
+first-order up to Higgs masses of about $70\ GeV$, above which our calculation
+is no longer self-consistent. For larger Higgs masses even an approximation
+containing all $g^4$ contributions to $V_{eff}$ is not sufficient, at least a
+full calculation to order $g^6$ is needed. These results turn out to be rather
+insensitive to the top-quark mass in the range $m_t=100\ -\ 180\ GeV$. Using
+Langer's theory of metastability we calculate the nucleation rate of critical
+droplets and discuss some aspects of the cosmological electroweak phase
+transition.
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 19:12:18 GMT""}]","2016-08-14"
+"hep-ph/9303252",,"H. Lew","A Shadow Matter Universe","11 pages (LaTeX), PURD-TH-93-04",,,,"hep-ph",,"  The cosmological and astrophysical implications of a shadow matter model
+which could also have interesting experimental consequences are examined. The
+model has identical microphysics for both the ordinary and shadow worlds but
+requires a macroscopic asymmetry from nucleosynthesis constraints. It is
+proposed that this macroscopic asymmetry can be generated at the quark-hadron
+phase transition.
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 20:17:14 GMT""}]","2007-05-23"
+"hep-ph/9303253","Kim Griest","Kim Griest","The Search for the Dark Matter: WIMPs and MACHOs","17 pages, tex, figures not included",,"10.1111/j.1749-6632.1993.tb43912.x","UCSD/ASTRO-TH 93-01","hep-ph astro-ph",,"  Review talk presented at the Texas/PASCOS Symposium, Berkeley, CA, Dec 1992.
+We review the status of experiments and ideas relevant for the detection of the
+dark matter which is suspected to be the dominant constituent of the Universe.
+Great progress is being made and the chances are non-negligible that one of the
+many currently in-progress experiments will discover the nature of the dark
+matter. We discuss the main dark matter candidates, and review the experiments
+relevant to each of them.
+","[{""version"":""v1"",""created"":""Sat, 13 Mar 1993 00:02:09 GMT""}]","2009-10-22"
+"hep-ph/9303254","Silas Beane","Silas R. Beane and Charles B. Chiu","Direct Channel Dominance in Goldstone Boson Scattering in the Resonance
+  Region","20,DOE-306-CPP-75",,,,"hep-ph",,"  We consider the scattering of Goldstone bosons in the range of intermediate
+energies, and in particular focus our attention on the scattering of pions in
+the $\rho$-resonance region. The chiral perturbation series is obtained to
+order $E^4$ from a chiral $SU(2)\times SU(2)$ invariant effective Lagrangian.
+At order $E^4$, we isolate the low-energy manifestation of heavy particle
+exchange in the s-channel. We find that the contributions of this type to the
+I=1 and I=2 amplitudes have a one parameter dependence. This observation
+provides a symmetry rationale for Chanowitz's recent observation that in a
+chiral model with an explicitly coupled $\rho$, the I=1 and I=2 channels are
+strongly correlated. In order to realize, in a quantitative way, the fact that
+in the resonance region the direct-channel dominates, we make use of a simple
+and intuitive unitarization scheme. This allows us to derive a renormalization
+constant-independent relation for the I=1 and I=2 phase shifts. With the
+assumption of a $\rho$-resonance, this relation determines the position of a
+pole at euclidean momentum in the I=2 channel. Through an analysis based on the
+theory of redundant poles and the Adler sum rule we show that this ``tachyon''
+pole actually represents a physical contribution to the unitary amplitude which
+accounts for $\rho$ and $\epsilon$ exchange in the u-channel.
+","[{""version"":""v1"",""created"":""Sat, 13 Mar 1993 01:37:26 GMT""}]","2007-05-23"
+"hep-th/9303077","Mike Clayton","M. A. Clayton, L. Demopoulos, J. W. Moffat","Abelian Anomalies in Nonlocal Regularization","21 pages, UTPT-93-05","Int. Journ. Mod. Phys. A9 (1994) Pg. 4549-4564","10.1142/S0217751X94001801",,"hep-th",,"  Nonlocal regularization of QED is shown to possess an axial anomaly of the
+same form as other regularization schemes. The Noether current is explicitly
+constructed and the symmetries are shown to be violated, whereas the identities
+constructed when one properly considers the contribution from the path integral
+measure are respected. We also discuss the barrier to quantizing the fully
+gauged chiral invariant theory, and consequences.
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 16:43:32 GMT""}]","2015-06-26"

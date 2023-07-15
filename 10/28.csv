@@ -1,0 +1,231 @@
+"astro-ph/9310048","Albert Stebbins","Scott Dodelson and Albert Stebbins","Analysis of Small Scale MBR Anisotropy in the Presence of Foreground
+  Contamination","28,TeX,FERMILAB-Pub-93/304-A","Astrophys.J. 433 (1994) 440-453","10.1086/174656",,"astro-ph",,"  Many of the current round of experiments searching for anisotropies in the
+MBR are confronting the problem of how to disentangle the cosmic signal from
+contamination due to galactic and intergalactic foreground sources. Here we
+show how commonly used likelihood function techniques can be generalized to
+account for foreground. Specifically we set some restrictions on the spectrum
+of foreground contamination but allow the amplitude to vary arbitrarily. The
+likelihood function thus generalized gives reasonable limits on the MBR
+anisotropy which, in some cases, are not much less restrictive than what one
+would get from more detailed modeling of the foreground. Furthermore, the
+likelihood function is exactly the same as one would obtain by simply
+projecting out foreground contamination and just looking at the reduced data
+set. We apply this generalized analysis to the recent medium angle data sets of
+ACME-HEMT and MAX. The resulting analysis constrains the one free parameter in
+the standard cold dark matter theory to be Q=18_-5^+8 microK. This best fit
+value, although in striking agreement with the normalization from COBE, is not
+a very good fit, with an overall chi^2/ degree of freedom =208/168. We also
+argue against three commonly used methods of dealing with foreground: (i)
+ignoring it completely; (ii) subtracting off a best fit foreground and treating
+the residuals as if uncontaminated; and (iii) culling data which appears to be
+contaminated by foreground.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 03:58:02 GMT""}]","2009-10-22"
+"chao-dyn/9310004","Harbir Lamba","Harbir Lamba (School of Mathematics, University of Bristol, UK)","Chaotic, regular and unbounded behaviour in the elastic impact
+  oscillator","26 Pages, LaTeX document with AMSTeX `mssymb' font, figures available
+  from the author (h.lamba@bristol.ac.uk) on request",,,"University of Bristol AM-93-15","chao-dyn nlin.CD",,"  A discontinuous area-preserving mapping derived from a sinusoidally-forced
+impacting system is studied. This system, the elastic impact oscillator, is
+very closely related to the accelerator models of particle physics such as the
+Fermi map. The discontinuity in the mapping is due to grazing which can have a
+surprisingly large effect upon the phase space. In particular, at the boundary
+of the stochastic sea, the discontinuity set and its images can act as a
+partial barrier which allows trajectories to move between chaotic and regular
+regions. The system at higher energies is also analysed and Moser's invariant
+curve theorem is used to find sufficient conditions for the existence of
+invariant curves that bound the energy of the motion. Finally the behaviour of
+the system under more general periodic forcing is briefly investigated.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 21:16:00 GMT""}]","2008-02-03"
+"chao-dyn/9310005","Giovanni Gallavotti","Garrido Pedro, Gallavotti Giovanni","Billiards correlation functions","25 pages, 27 figures, POSTSCRIPT, not encoded, 730K. Keywords:
+  Billiards, correlation functions, velocity autocorrelation, diffusion
+  coefficients, Lorentz model, mixing, ergodic theory, chaos, Lyapunov
+  exponents, numerical experiments","Journal of Statistical Physics 76, 549--586, 1994",,"FISROM-93-5","chao-dyn nlin.CD",,"  We discuss various experiments on the time decay of velocity autocorrelation
+functions in billiards. We perform new experiments and find results which are
+compatible with an exponential mixing hypothesis, first put forward by [FM]:
+they do not seem compatible with the stretched exponentials believed, in spite
+of [FM], to describe the mixing. The analysis led us to several byproducts: we
+obtain information about the normal diffusive nature of the motion and we
+consider the probability distribution of the number of collisions in time $t_m$
+(as $t_m\to\io$) finding a strong dependence on some geometric characteristics
+of the locus of the billiards obstacles.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 20:36:27 GMT""}]","2008-10-08"
+"cond-mat/9310064","Judy Mack","C. R. Hagen","Comment on ``Anomaly-Induced Magnetic Screening in (2+1) Dimensional QED
+  at Finite Density""","4 pages, UR-1323, ER-40685-773",,"10.1103/PhysRevLett.73.1303",,"cond-mat hep-th",,"  It is shown that a recent attempt to derive the Meissner effect from first
+principles in a model field theory is invalid.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 18:02:00 GMT""}]","2009-10-22"
+"cond-mat/9310065","Ely Ben-Naim","P.L. Krapivsky and E. Ben-Naim","Collectiive Properties of Adsorption-Desorption Processes","13 pages, 2 figures, TeX","J. Chem. Phys. 100, 6778 (1994)","10.1063/1.467037",,"cond-mat",,"  A reversible adsorption-desorption parking process in one dimension is
+studied. An exact solution for the equilibrium properties is obtained. The
+coverage near saturation depends logarithmically on the ratio between the
+adsorption rate, $\k_+$, and the desorption rate, $\k_-$, \hbox{$\req\cong
+1-1/\log(k_+/k_-)$}, when $\k_+\gg\k_-$. A time dependent version of the
+reversible problem with immediate adsorption ($k_+=\infty$) is also considered.
+Both heuristic arguments and numerical simulations reveal a logarithmically
+slow approach to the completely covered state, \hbox{$1-\rho(t)\sim
+1/\log(t)$}.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 22:12:20 GMT""}]","2009-10-22"
+"cond-mat/9310066","Carlo Beenakker","C.W.J. Beenakker and B. Rejaei (Instituut-Lorentz, Leiden, The
+  Netherlands)","Exact Solution for the Distribution of Transmission Eigenvalues in a
+  Disordered Wire and Comparison with Random-Matrix Theory","20 pages, REVTeX-3.0, INLO-PUB-931028a","Phys.Rev.B 49 (1994) 7499","10.1103/PhysRevB.49.7499",,"cond-mat",,"  An exact solution is presented of the Fokker-Planck equation which governs
+the evolution of an ensemble of disordered metal wires of increasing length, in
+a magnetic field. By a mapping onto a free-fermion problem, the complete
+probability distribution function of the transmission eigenvalues is obtained.
+The logarithmic eigenvalue repulsion of random-matrix theory is shown to break
+down for transmission eigenvalues which are not close to unity. ***Submitted to
+Physical Review B.****
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 09:23:01 GMT""}]","2007-05-23"
+"cond-mat/9310067","Carlo Beenakker","C.W.J. Beenakker (Instituut-Lorentz, Leiden, The Netherlands)","Universality of Weak Localization in Disordered Wires","7 pages, REVTeX-3.0, INLO-PUB-931028b","Phys.Rev.B 49 (1994) 2205","10.1103/PhysRevB.49.2205",,"cond-mat",,"  We compute the quantum correction due to weak localization for transport
+properties of disordered quasi-one-dimensional conductors, by integrating the
+Dorokhov-Mello-Pereyra-Kumar equation for the distribution of the transmission
+eigenvalues. The result is independent of sample length or mean free path, and
+has a universal dependence on the symmetry index of the ensemble of scattering
+matrices. This result generalizes the theory of weak localization for the
+conductance to all linear statistics on the transmission eigenvalues.
+***Accepted for publication in Physical Review B.****
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 09:24:23 GMT""}]","2007-05-23"
+"cond-mat/9310068","Carlo Beenakker","C.W.J. Beenakker and B. Rejaei (Instituut-Lorentz, Leiden, The
+  Netherlands)","Random-Matrix Theory of Parametric Correlations in the Spectra of
+  Disordered Metals and Chaotic Billiards","24 pages, REVTeX-3.0, INLO-PUB-931028c","Physica A 203 (1994) 61","10.1016/0378-4371(94)90032-9",,"cond-mat",,"  We study the response to an external perturbation of the energy levels of a
+disordered metallic particle, by means of the Brownian-motion model introduced
+by Dyson in the theory of random matrices, and reproduce the results of a
+recent microscopic theory of Altshuler, Simons, and Szafer. This establishes
+the validity of Dyson's basic assumption, that parametric correlations in the
+energy spectrum are dominated by level repulsion, and therefore solely
+dependent on the symmetry of the hamiltonian. ***Submitted to Physica A.****
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 09:24:48 GMT""}]","2007-05-23"
+"cond-mat/9310069","Shyam","F. Osterberg, M. Kriechbaum, A. Polcyn, V. Skita, M. W. Tate, P. T. C.
+  So, S. M. Gruner, and Shyamsunder Erramilli","Pressure Induced Hydration Dynamics of Membranes","REVTEX 3, 10 pages,3 figures(available on request),#0",,"10.1103/PhysRevLett.72.2967",,"cond-mat",,"  Pressure-jump initiated time-resolved x-ray diffraction studies of dynamics
+of the hydration of the hexagonal phase in biological membranes show that (i)
+the relaxation of the unit cell spacing is non-exponential in time; (ii) the
+Bragg peaks shift smoothly to their final positions without significant
+broadening or loss in crystalline order. This suggests that the hydration is
+not diffusion limited but occurs via a rather homogeneous swelling of the whole
+lattice, described by power law kinetics with an exponent $ \beta = 1.3 \pm
+0.2$.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 13:16:51 GMT""}]","2015-06-25"
+"cond-mat/9310070","Alfredo Levy Yeyati","A. Levy Yeyati, A. Mart\'in-Rodero, and F. Flores","Electron correlation resonances in the transport through a single
+  quantum level","4 pages (two columns), 3 figures under request","Phys. Rev. Lett. 71, 2991 (1993)","10.1103/PhysRevLett.71.2991",,"cond-mat",,"  Correlation effects in the transport properties of a single quantum level
+coupled to electron reservoirs are discussed theoretically using a
+non-equilibrium Green functions approach. Our method is based on the
+introduction of a second-order self-energy associated with the Coulomb
+interaction that consistently eliminates the pathologies found in previous
+perturbative calculations. We present results for the current-voltage
+characteristic illustrating the different correlation effects that may be found
+in this system, including the Kondo anomaly and Coulomb blockade. We finally
+discuss the experimental conditions for the simultaneous observation of these
+effects in an ultrasmall quantum dot.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 14:04:11 GMT""}]","2016-08-14"
+"cond-mat/9310071","Steven Girvin","Kun Yang, K. Moon, L. Zheng, A. H. MacDonald, S. M. Girvin, D.
+  Yoshioka, and Shou-Cheng Zhang","Quantum Ferromagnetism and Phase Transitions in Double-Layer Quantum
+  Hall Systems","4 pages, REVTEX 3.0, IUCM93-013, 1 FIGURE, hardcopy available from:
+  dklemme@indiana.edu",,"10.1103/PhysRevLett.72.732",,"cond-mat",,"  Double layer quantum Hall systems have interesting properties associated with
+interlayer correlations. At $\nu =1/m$ where $m$ is an odd integer they exhibit
+spontaneous symmetry breaking equivalent to that of spin $1/2$ easy-plane
+ferromagnets, with the layer degree of freedom playing the role of spin. We
+explore the rich variety of quantum and finite temperature phase transitions in
+these systems. In particular, we show that a magnetic field oriented parallel
+to the layers induces a highly collective commensurate-incommensurate phase
+transition in the magnetic order.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 14:27:51 GMT""}]","2009-10-22"
+"cond-mat/9310072","Olle Heinonen","O. Heinonen and M.D. Johnson","Density matrix for a mesoscopic current ribbon","11 pages, no figures. RevTeX 3.0 (UCF-CM-93-007)",,,,"cond-mat",,"  We consider an ideal mesoscopic ribbon in which a steady azimuthal current is
+generated. We show that the closed interacting electron system in the presence
+of the current is described by a density matrix which is that of an equilibrium
+system without current but with a constrained Hamiltonian.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 14:34:46 GMT""}]","2007-05-23"
+"hep-ph/9310356","Zoltan Ligeti","Zoltan Ligeti","The Determination of $|\Vcb|$ and QCD Sum Rules in Hqet","18pages, PHYZZX format (uses tables & epsf, figures included),
+  WIS-93/103/Oct-PH, Invited talk at the Advanced Study Conference on Heavy
+  Flavours, September 1993, Pavia, Italy",,,,"hep-ph",,"  I review recent developments in Heavy Quark Effective Theory (HQET) that lead
+to an almost model--independent determination of the $|\Vcb|$ element of the
+Cabibbo--Kobayashi--Maskawa matrix from exclusive semileptonic $B\ra D^{(*)}$
+decays. In particular, I compare the theoretical uncertainties in the $B\ra
+D^*\ell\,\bar\nu$ and the $B\ra D\,\ell\,\bar\nu$ decay modes. I discuss the
+applications of QCD sum rules within HQET to semileptonic heavy meson decays
+and give predictions for the form factors measurable in $B\ra
+D^{(*)}\ell\,\bar\nu$ decays.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 18:26:13 GMT""}]","2007-05-23"
+"hep-ph/9310362","Benjamin Grinstein","Benjamin Grinstein","Light-Quark, Heavy-Quark Systems: An Update","20p, two eps figures appended, SSCL-Preprint-514",,,,"hep-ph",,"  We review many of the recently developed applications of Heavy Quark
+Effective Theory techniques. After a brief update on Luke's theorem, we
+describe striking relations between heavy baryon form factors, and how to use
+them to estimate the accuracy of the extraction of $|V_{cb}|$. We discuss
+factorization and compare with experiment. An elementary presentation, with
+sample applications, of reparametrization invariance comes next. The final and
+most extensive chapter in this review deals with phenomenological lagrangians
+that incorporate heavy-quark spin-flavor as well as light quark chiral
+symmetries. We compile many interesting results and discuss the validity of the
+calculations.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 19:53:40 GMT""}]","2009-09-25"
+"hep-ph/9310363","Jim Pantaleone","J. Pantaleone","Constraints on Three-Neutrino Mixing from Atmospheric and Reactor Data","15 pages, preprint IUHET-264","Phys.Rev.D49:2152-2155,1994","10.1103/PhysRevD.49.R2152",,"hep-ph",,"  Observations of atmospheric neutrinos are usually analyzed using the
+simplifying approximation that either \(\nu_\mu \leftrightarrow \nu_\tau\) or
+\(\nu_e \leftrightarrow \nu_\mu\) two-flavor mixing is relevant. Here we
+instead consider the data using the simplifying approximation that only one
+neutrino mass scale is relevant. This approximation is the minimal three-flavor
+notation that includes the two relevant two-flavor approximations. The
+constraints in the parameter space orthogonal to the usual, two-flavor analyses
+are studied.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 18:52:38 GMT""}]","2009-12-30"
+"hep-ph/9310364",,"H. Georgi, L. Kaplan, and D. Morin","Nonperturbative Matching for Field Theories with Heavy Fermions","10 pages, no figures, uses harvmac, Harvard University Preprint
+  HUTP-93/A030","Phys.Rev.D49:2457-2461,1994","10.1103/PhysRevD.49.2457",,"hep-ph hep-th",,"  We examine a paradox, suggested by Banks and Dabholkar, concerning
+nonperturbative effects in an effective field theory which is obtained by
+integrating out a generation of heavy fermions, where the heavy fermion masses
+arise from Yukawa couplings. They argue that light fermions in the effective
+theory appear to decay via instanton processes, whereas their decay is
+forbidden in the full theory. We resolve this paradox by showing that such
+processes in fact do not occur in the effective theory, due to matching
+corrections which cause the relevant light field configurations to have
+infinite action.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 18:49:22 GMT""}]","2009-09-11"
+"hep-ph/9310365",,"Chris Carone, Howard Georgi and Sam Osofsky","On Spin Independence in Large $N_c$ Baryons","9 pages, \#HUTP-93/A032","Phys.Lett.B322:227-232,1994","10.1016/0370-2693(94)91112-6",,"hep-ph",,"  We argue directly from Witten's analysis of large $N_c$ baryons that the
+structure of the $s$-wave low-spin baryon states in QCD becomes
+spin-independent as $N_c\rightarrow\infty$. This property leads to $SU(6)$-like
+behavior of static matrix elements, such as the axial-vector current matrix
+elements recently studied by Dashen, Manohar and Jenkins. Our analysis suggests
+a method for applying large $N_c$ results for $N_c=3$, even though the baryon
+states for large $N_c$ are very different.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 00:30:18 GMT""}]","2009-09-11"
+"hep-ph/9310366",,"Michael Dine","Particle Astrophysics from the Particle Perspective","Talk presented at the Lepton-Photon Symposium, 1993, some discussion
+  of axions and anthropic principle revised, 34pp, SCIPP 93/31",,"10.1063/1.45469",,"hep-ph",,"  In this talk I discuss several topics at the interface of particle physics
+and astrophysics/cosmology. These include the problem of dark matter and two
+popular dark matter candidates: axions and neutralinos. I also discuss briefly
+some recent developments in electroweak baryogenesis, as well as a variety of
+somewhat more exotic topics: the fate of domain walls, axinos, non-vanishing
+cosmological constant, and cosmological constraints on models with dynamical
+supersymmetry breaking. Most of the material is review, however a few of the
+remarks, especially regarding axion cosmology in the framework of
+supersymmetry, I believe to be original.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 00:55:00 GMT""},{""version"":""v2"",""created"":""Fri, 5 Nov 1993 01:47:00 GMT""},{""version"":""v3"",""created"":""Fri, 5 Nov 1993 01:47:00 GMT""}]","2015-06-25"
+"hep-ph/9310367","Layssac Jacques","J. Layssac, F.M. Renard, C.Verzegnassi","Four Fermion Processes at Future $e^+e^-$ Colliders as a Probe of New
+  Resonant Structures","11 pages, postscript file of 3 figures appended at the end of the
+  latex file PM/93-34 UTS-DFT-93-28","Phys.Rev.D49:2143-2148,1994","10.1103/PhysRevD.49.R2143",,"hep-ph",,"  Possible oblique effects from vector particles that are strongly coupled to
+the known gauge bosons are calculated for the case of final hadronic states
+produced at future $e^+e^-$ colliders, using a formalism that was recently
+proposed and that exploits the information and the constraints provided by LEP
+1 results. Combining the hadronic channels with the previously analysed
+leptonic ones we derive improved limits for the masses of the resonances
+that,in technicolour-like cases, would range from one to two TeV for a 500 GeV
+linear collider, depending on the assumed theoretical constraints.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 13:45:07 GMT""}]","2019-08-17"
+"hep-th/9310182","Gerald Dunne","Gerald Dunne","Classification of Non-Abelian Chern-Simons Vortices","10 pages, LaTeX file, with 1 figure PostScript file ""vortex.ps""
+  included, and ""epsf.sty"" appended. UCONN-93-8",,,,"hep-th",,"  The two-dimensional self-dual Chern-Simons equations are equivalent to the
+conditions for static, zero-energy vortex-like solutions of the (2+1)
+dimensional gauged nonlinear Schr\""odinger equation with Chern-Simons
+matter-gauge coupling. The finite charge vacuum states in the Chern-Simons
+theory are shown to be gauge equivalent to the finite action solutions to the
+two-dimensional chiral model (or harmonic map) equations. The Uhlenbeck-Wood
+classification of such harmonic maps into the unitary groups thereby leads to a
+complete classification of the vacuum states of the Chern-Simons model. This
+construction also leads to an interesting new relationship between $SU(N)$ Toda
+theories and the $SU(N)$ chiral model.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 18:16:42 GMT""}]","2007-05-23"
+"hep-th/9310184","Thomas Mohaupt","Thomas Mohaupt","Orbifold Compactifications with continuous Wilson lines","27 pages, LATEX, MS-TPI-93-09","Int.J.Mod.Phys.A9:4637-4668,1994","10.1142/S0217751X94001850",,"hep-th",,"  We identify the untwisted moduli of heterotic orbifold compactifications for
+the case, when the gauge twist is realized by a rotation. The Wilson lines are
+found to have both continuous and discrete parts. For the case of the standard
+Z(3) orbifold we classify all possibilities of breaking the gauge group E(6)
+times SU(3) by nine of the eighteen Wilson moduli and by additional discrete
+Wilson lines.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 10:58:49 GMT""},{""version"":""v2"",""created"":""Mon, 8 Nov 1993 19:58:30 GMT""}]","2014-11-18"
+"hep-th/9310185",,"David McMullan and Izumi Tsutsui","BPST instanton and Spin from inequivalent quantizations","11 pages, plain TeX, PLY-MS-93-04, DIAS-STP-93-21 (This version
+  should now TeX)","Phys.Lett. B320 (1994) 287-293","10.1016/0370-2693(94)90658-0",,"hep-th",,"  We present a simple alternative to Mackey's account of the (infinite)
+inequivalent quantizations possible on a coset space G/H. Our reformulation is
+based on the reduction ${\rm G \rightarrow G/H}$ and employs a generalized form
+of Dirac's approach to the quantization of constrained systems. When applied to
+the four-sphere $S^4 \simeq {\rm Spin(5)/Spin(4)}$, the inequivalent
+quantizations induce relativistic spin and a background BPST instanton; thus
+they might provide a natural account of both of these physical entities.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 14:01:52 GMT""},{""version"":""v2"",""created"":""Tue, 2 Nov 1993 10:00:22 GMT""}]","2009-10-22"

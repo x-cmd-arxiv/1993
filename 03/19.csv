@@ -1,0 +1,271 @@
+"chao-dyn/9303005","David Ebin","David G. Ebin, SUNY at Stony Brook, NY 11794-3651","Global Solutions of the Equations of Elastodynamics of Incompressible
+  Neo-Hookean Materials","12 pages, Latex",,,,"chao-dyn nlin.CD",,"  We prove that the initial-value problem for the motion of a certain type of
+elastic body has a solution for all time if the initial data are sufficiently
+small. The body must fill all of three space, obey a ``neo-Hookean''
+stress-strain law, and be incompressible. The proof takes advantage of the
+delayed singularity formation which occurs for solutions of quasi-linear
+hyperbolic equations in more than one space dimension. It turns out that the
+curl of the displacement of the body obeys such an equation. Thus using
+Klainerman's inequality, one derives the necessary estimates to gaurantee that
+solutions persist for all time.
+","[{""version"":""v1"",""created"":""Thu, 18 Mar 1993 20:10:17 GMT""}]","2008-02-03"
+"cond-mat/9303031","Vladimir B. Cherepanov","E.F. Shender, V.B. Cherepanov, P.C.W. Holdsworth, and A.J. Berlinsky","The Kagome Antiferromagnet with Defects: Satisfaction, Frustration, and
+  Spin Folding in a Random Spin System","REVTEX, 11 pages + 3 pictures upon request",,"10.1103/PhysRevLett.70.3812",,"cond-mat",,"  It is shown that site disorder induces noncoplanar states, competing with the
+thermal selection of coplanar states, in the nearest neighbor, classical kagome
+Heisenberg antiferromagnet (AFM). For weak disorder, it is found that the
+ground state energy is the sum of energies of separately satisfied triangles of
+spins. This implies that disorder does not induce conventional spin glass
+behavior. A transformation is presented, mapping ground state spin
+configurations onto a folded triangular sheet (a new kind of ``spin origami'')
+which has conformations similar to those of tethered membranes.
+","[{""version"":""v1"",""created"":""Thu, 18 Mar 1993 23:40:36 GMT""}]","2009-10-22"
+"cond-mat/9303032","M. V. Sadovski","E.Z.Kuchinskii, M.V.Sadovskii","Impurities in ""Odd-Pairing"" Superconductors","6 pp.(revtex), two figures are available from the authors, IEF-LTF
+  1-93","JETP Letters 57 (1993) 515",,,"cond-mat",,"  We present the results of theoretical analysis of normal impurities effects
+in superconductors with the gap being an odd function of k-k_{F}. This model
+proposed by Mila and Abrahams leads to the possibility of pairing in the
+presence of arbitrarily strong short-range repulsion between electrons and may
+be applied to high-Tc oxides.However, we demonstrate that normal impurities
+lead to rather strong suppression of this type of pairing, which is actually
+stronger than in the case of magnetic impurities in traditional
+superconductors. Relative stability of high-Tc cuprates to disordering makes
+this model a rather unlikely candidate for the pairing mechanism in these
+systems.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 10:42:17 GMT""},{""version"":""v2"",""created"":""Tue, 23 Mar 1993 11:17:43 GMT""}]","2008-02-03"
+"gr-qc/9303023",,"Luca Amendola, Diego Bellisai and Franco Occhionero, Rome Astronomical
+  Observatory","Inflationary Attractors and Perturbation Spectra in Generally Coupled
+  Gravity","to appear in Phys. Rev. D, 10 pages, 4 figures available (also by
+  fax), LATEX, OAR 93/4","Phys.Rev. D47 (1993) 4267-4272","10.1103/PhysRevD.47.4267",,"gr-qc astro-ph",,"  A generic outcome of theories with scalar-tensor coupling is the existence of
+inflationary attractors, either power-law or de Sitter. The fluctuations
+arising during this phase are Gaussian and their spectrum depends on the
+wavenumber $k$ according to the power-law $k^{1/(1-p)}$, where $p$ is the
+inflationary power-law exponent. We investigate to which extent these
+properties depend on the coupling function and on the potential. We find the
+class of models in which viable attractors exist. Within this class, we find
+that the cosmic expansion and the scaling of the fluctuation spectrum are
+independent of the coupling function. Further, the analytical solution of the
+Fokker-Planck equation shows that the deviations from Gaussianity are
+negligible.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 15:01:00 GMT""}]","2009-10-22"
+"hep-ph/9303278","Craig Roberts","Craig D. Roberts","Schwinger-Dyson equations: Dynamical Chiral Symmetry Breaking and
+  Confinement","20 pages, PHY-7078-TH-92, LaTeX (Style File: ``citews.sty'' attached
+  at end of manuscript)",,,,"hep-ph",,"  A representative but not exhaustive review of the Schwinger-Dyson equation
+(SDE) approach to the nonperturbative study of QCD is presented. The main focus
+is the SDE for the quark self energy but studies of the gluon propagator and
+quark-gluon vertex are also discussed insofar as they are important to the
+quark SDE. The scope of this article is the application of these equations to
+the study of dynamical chiral symmetry breaking, quark confinement and the
+phenomenology of the spectrum and dynamics of QCD.
+","[{""version"":""v1"",""created"":""Thu, 18 Mar 1993 17:36:39 GMT""}]","2007-05-23"
+"hep-ph/9303279",,"Marco A. Diaz","Electroweak Corrections to the Supersymmetric Charged Higgs Fermionic
+  Decay","16 pages (plain tex), figures not included, VAND-TH-93-1","Phys.Rev.D48:2152-2159,1993","10.1103/PhysRevD.48.2152",,"hep-ph",,"  One-loop radiative corrections to the charged Higgs coupling to two fermions
+and to the charged Higgs fermionic decay are studied. A renormalization scheme
+is proposed including the definition of the parameter $\tan\beta$ through the
+coupling of the CP-odd Higgs boson to a charged lepton pair. Loops including
+top and bottom quarks and squarks are considered using the unitary gauge. Large
+corrections to the coupling are found when there is a substantial mixing in the
+squark mass matrix, but these corrections are suprress in the decay rate.
+Interesting applications to rare processes are discussed.
+","[{""version"":""v1"",""created"":""Thu, 18 Mar 1993 21:36:01 GMT""}]","2009-08-12"
+"hep-ph/9303280",,"Marco A. Diaz","Constraints on Supersymmetry due to b -> s \gamma : an Improved
+  Calculation","6 pages (plain tex), figure not included, VAND-TH-93-2","Phys.Lett. B304 (1993) 278-280","10.1016/0370-2693(93)90294-R",,"hep-ph",,"  The calculation of the one-loop induced decay rate b -> s \gamma is improved
+by including radiative corrections to the charged Higgs mass and to the
+charged-Higgs-fermion-fermion vertex. It is shown how the radiative corrections
+modify the excluded zone in the \tan\beta-m_A plane, imposed by the
+non-observation of this decay. In particular, a light CP-odd Higgs at large
+\tan\beta becomes allowed.
+","[{""version"":""v1"",""created"":""Thu, 18 Mar 1993 22:35:57 GMT""}]","2009-10-22"
+"hep-ph/9303281","Krishna Rajagopal","Krishna Rajagopal and Frank Wilczek","Emergence of Coherent Long Wavelength Oscillations After a Quench:
+  Application to QCD","18 pages, 4 figures included (uuencoded and compressed); uses phyzzx;
+  PUPT-1389, IASSNS-HEP-93/16","Nucl.Phys. B404 (1993) 577-589","10.1016/0550-3213(93)90591-C",,"hep-ph cond-mat nucl-th",,"  To model the dynamics of the chiral order parameter in a far from equilibrium
+phase transition, we consider quenching in the O(4) linear sigma model. We
+argue, and present numerical evidence, that in the period immediately following
+the quench long wavelength modes of the pion field are amplified. This results
+in large regions of coherent pion oscillations, and could lead to dramatic
+phenomenological consequences in heavy ion collisions.
+","[{""version"":""v1"",""created"":""Thu, 18 Mar 1993 23:12:50 GMT""}]","2009-10-22"
+"hep-ph/9303282",,"Vidyut Jain and Aris Papadopoulos","First Order Phase Transition in a Two Higgs-doublet Model with
+  $M_{h}>M_{W}$","15 pages","Phys.Lett.B314:95-103,1993","10.1016/0370-2693(93)91327-J",,"hep-ph",,"  We study the 3d effective field theory of a weakly coupled two Higgs-doublet
+scalar model at high temperature. Our model has three scalar quartic couplings
+and an $O(4)$ symmetry which is spontaneously broken by a nonzero scalar field
+$vev$ at zero temperature. Using high temperature perturbation theory,
+renormalization group arguments in $4-\epsilon$ dimensions, as well as $1/N$
+expansion techniques in 3 dimensions, we argue that the transition from the
+high temperature symmetry restoring phase to the low temperature phase is first
+order for a range of scalar couplings. This result is not due to gauge
+couplings. We discuss the implications of our results for baryogenesis in the
+two Higgs-doublet electroweak model, especially when the lightest neutral Higgs
+is heavier than the W--bosons.
+","[{""version"":""v1"",""created"":""Thu, 18 Mar 1993 23:27:04 GMT""},{""version"":""v2"",""created"":""Sat, 20 Mar 1993 00:48:59 GMT""}]","2010-11-01"
+"hep-ph/9303283","Brian Hanlon","B. E. Hanlon and G. C. Joshi","Ten Dimensional SO(10) G.U.T. Models with Dynamical Symmetry Breaking","27 pages, Latex, UM-P-93/01","Phys.Rev. D48 (1993) 2204-2213","10.1103/PhysRevD.48.2204",,"hep-ph",,"  We discuss the derivation of $SO(10)$ G.U.T. models from higher dimensional
+theories with intermediate breaking scales. We then present models based on the
+Coset Space Dimensional Reduction Scheme with intermediate symmetry breaking
+induced by four fermion condensates.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 00:34:31 GMT""}]","2009-10-22"
+"hep-ph/9303284","Markus Lautenbacher","Andrzej J. Buras, Matthias Jamin, Markus E. Lautenbacher","The Anatomy of $\varepsilon'/\varepsilon$ Beyond Leading Logarithms with
+  Improved Hadronic Matrix Elements","91 pages (A4) with 20 PostScript figures (distributed separately);
+  TUM-T31-35/93, MPI-Ph/93-11 and CERN-TH 6821/93","Nucl.Phys.B408:209-285,1993","10.1016/0550-3213(93)90535-W",,"hep-ph",,"  We use the recently calculated two--loop anomalous dimensions of
+current-current operators, QCD and electroweak penguin operators to construct
+the effective Hamiltonian for $\Delta S=1$ transitions beyond the leading
+logarithmic approximation. We solve the renormalization group equations and
+give the numerical values of Wilson coeff. functions. We propose a new
+semi-phenomenological approach to hadronic matrix elements which incorporates
+the data for $CP$-conserving $K \rightarrow \pi\pi$ amplitudes and allows to
+determine the matrix elements of all $(V-A)\otimes (V-A)$ operators in any
+renormalization scheme and do a renormalization group analysis of all hadronic
+matrix elements $\langle Q_i(\mu) \rangle$. We compare critically our treatment
+of these matrix elements with those given in the literature. We find in the NDR
+scheme $\epe = (6.7 \pm 2.6)\times 10^{-4}$ in agreement with the experimental
+findings of E731. We point out however that the increase of $\langle Q_6
+\rangle$ by only a factor of two gives $\epe = (20.0 \pm 6.5)\times 10^{-4}$ in
+agreement with the result of NA31. The dependence of $\epe$ on
+$\Lambda_{\bar{MS}}$, $m_t$ and $\langle Q_{6,8} \rangle$ is presented.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 08:53:27 GMT""}]","2010-11-01"
+"hep-ph/9303285","Ghosh","Varun Sahni and Tarun Souradeep","Post-COBE predictions for Inflationary Gravity Wave and Density
+  Perturbation spectra","Plain TeX 13 Pages, (4 Figures available on request) IUCAA - 27/92",,,,"hep-ph",,"  We assess the relative contribution to the COBE - measured microwave
+anisotropy arising both from relic gravity waves as well as primordial density
+perturbations originating during inflation. We show that the gravity wave
+contribution to the CMBR anisotropy depends sensitively upon $n$ -- the
+primordial spectral index ($\dk^2 \propto k^n$), increasing as $n$ deviates
+from a Harrison - Zeldovich spectrum (n = 1). As a result, for $n < 0.84$ the
+contribution from gravity waves towards $\delta T/ T $ is greater than the
+corresponding contribution from density perturbations, whereas for $n > 0.84$
+the reverse is true. ($ n = 0.84$ corresponds to an expansion index $p = 13.5$
+in models with power-law inflation $a \propto t^p$. ) Our results show that for
+a scale-invariant Harrison-Zeldovich spectrum generated by chaotic inflation,
+gravity waves contribute approximately $24\%$ to the CMBR anisotropy measured
+by COBE. Applying our results to the cold dark matter scenario for galaxy
+formation, we find that in general CDM models with tilted power spectra ($n <
+1$), require the biasing parameter to be greater than unity, on scales of
+$16h_{50}^{-1} Mpc$. We also obtain an expression for the COBE - normalised
+amplitude and spectrum of the stochastic gravity wave background and compare it
+with the sensitivity of planned laser-interferometer gravity wave detectors.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 14:58:47 GMT""}]","2007-05-23"
+"hep-ph/9303286",,"T.G. Rizzo","Extraction of Coupling Information From $Z' \to jj$","24 pages, 9 figures(available on request), LaTex, ANL-HEP-PR-93-18","Phys.Rev. D48 (1993) 4236-4242","10.1103/PhysRevD.48.4236",,"hep-ph",,"  An analysis by the ATLAS Collaboration has recently shown, contrary to
+popular belief, that a combination of strategic cuts, excellent mass
+resolution, and detailed knowledge of the QCD backgrounds from direct
+measurements can be used to extract a signal in the $Z' \to jj$ channel in
+excess of $6\sigma$ for certain classes of extended electroweak models. We
+explore the possibility that the data extracted from $Z$ dijet peak will have
+sufficient statistical power as to supply information on the couplings of the
+$Z'$ provided it is used in conjunction with complimentary results from the $Z'
+\to \ell^+ \ell^-$ `discovery' channel. We show, for a 1 TeV $Z'$ produced at
+the SSC, that this technique can provide a powerful new tool with which to
+identify the origin of $Z'$'s.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 12:49:54 GMT""}]","2009-10-22"
+"hep-th/9303102",,"S. Mignemi","Dyonic black holes in effective string theories","8 pages","Phys.Rev. D51 (1995) 934-937","10.1103/PhysRevD.51.934",,"hep-th",,"  The spherical symmetric dyonic black hole solutions of the effective action
+of heterotic string are studied perturbatively up to second order in the
+inverse string tension. An expression for the temperature in term of the mass
+and the electric and magnetic charge of the black hole is derived and it is
+shown that its behaviour is qualitatively different in the two special cases
+where either the electric or the magnetic charge vanishes
+","[{""version"":""v1"",""created"":""Thu, 18 Mar 1993 18:13:00 GMT""}]","2009-10-22"
+"hep-th/9303103","Ted Jacobson","Ted Jacobson","Black Hole Evaporation in the Presence of a Short Distance Cutoff","35 pages, plain LaTeX, UMDGR93-32, NSF-ITP-93-26","Phys.Rev. D48 (1993) 728-741","10.1103/PhysRevD.48.728",,"hep-th gr-qc",,"  A derivation of the Hawking effect is given which avoids reference to field
+modes above some cutoff frequency $\omega_c\gg M^{-1}$ in the free-fall frame
+of the black hole. To avoid reference to arbitrarily high frequencies, it is
+necessary to impose a boundary condition on the quantum field in a timelike
+region near the horizon, rather than on a (spacelike) Cauchy surface either
+outside the horizon or at early times before the horizon forms. Due to the
+nature of the horizon as an infinite redshift surface, the correct boundary
+condition at late times outside the horizon cannot be deduced, within the
+confines of a theory that applies only below the cutoff, from initial
+conditions prior to the formation of the hole. A boundary condition is
+formulated which leads to the Hawking effect in a cutoff theory. It is argued
+that it is possible the boundary condition is {\it not} satisfied, so that the
+spectrum of black hole radiation may be significantly different from that
+predicted by Hawking, even without the back-reaction near the horizon becoming
+of order unity relative to the curvature.
+","[{""version"":""v1"",""created"":""Thu, 18 Mar 1993 20:03:00 GMT""}]","2009-10-22"
+"hep-th/9303104","Per Berglund","P. Berglund","Dimensionally Reduced Landau-Ginzburg Orbifolds with Discrete Torsion","10p, NSF-ITP-93-27, UTTG-07-93, use harvmac","Phys.Lett.B319:117-124,1993","10.1016/0370-2693(93)90790-O",,"hep-th",,"  It is observed that a large class of $(2,2)$ string vacua with $n>5$
+superfields can be rewritten as Landau_Ginzburg orbifolds with discrete torsion
+and $n=5$. The naive geometric interpretation (if one exists) would be that of
+a complex 3-fold, not necessarily K\""ahler but still with vanishing first Chern
+class.
+","[{""version"":""v1"",""created"":""Thu, 18 Mar 1993 21:14:00 GMT""}]","2010-11-01"
+"hep-th/9303105","7353","Shinobu Hikami","Exponent of n-Ising matter fields coupled to 2d gravity","9pages","Phys.Lett. B305 (1993) 327-331","10.1016/0370-2693(93)91062-R","UT-Komaba-93-04","hep-th",,"  n-Ising spins on a random surface represented by a matrix model is studied as
+a model of the 2D gravity coupled to matter field with the central charge c >
+1. The magnetic field is introduced to discuss the scaling exponent $\Delta$,
+and the value of this magnetic field exponent is estimated by the series
+expansion.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 03:49:44 GMT""}]","2009-10-22"
+"hep-th/9303106","Andrei Linde","Renata Kallosh","Axion-Dilaton Black Holes","8 pages, LATEX, (Talk presented at the TEXAS/PASCOS conference,
+  Berkeley, December 1992)",,"10.1111/j.1749-6632.1993.tb43918.x",,"hep-th",,"  In this talk some essential features of stringy black holes are described. We
+consider charged four-dimensional axion-dilaton black holes. The Hawking
+temperature and the entropy of all solutions are shown to be simple functions
+of the squares of supercharges, defining the positivity bounds. Spherically
+symmetric and multi black hole solutions are presented. The extreme solutions
+have some unbroken supersymmetries. Axion-dilaton black holes with zero entropy
+and zero area of the horizon form a family of stable particle-like objects,
+which we call holons. We discuss the possibility of splitting of nearly extreme
+black holes into holons.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 04:31:37 GMT""}]","2009-10-22"
+"hep-th/9303107",,"M.Micu (Dept. theor. phys., Inst. Atomic Phys., Bucharest MG-6,
+  Romania)","Some Remarks on the Two Parameters Quantum Algebra $SU_{p,k}$}","plaintex",,,,"hep-th",,"  The two parameters quantum algebra $SU_{p,k}(2)$ can be obtained from a
+single parameter algebra $SU_q(2)$. This fact gives some relations between
+$SU_{p,k}(2)$ quantities and the corresponding ones of the $SU_q(2)$ algebra.
+In this paper are mentioned the relations concerning: Casimir operators,
+eigenvectors, matrix elements, Clebsch Gordan coefficients and irreducible
+tensors.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 08:32:00 GMT""}]","2007-05-23"
+"hep-th/9303108",,"A. Fring, G. Mussardo and P. Simonetti","Form Factors of the Elementary Field in the Bullough-Dodd Model","14 pages, LATEX file, ISAS/EP/92/208;USP-IFQSC/TH/92-51","Phys.Lett. B307 (1993) 83-90","10.1016/0370-2693(93)90196-O",,"hep-th",,"  We derive the recursive equations for the form factors of the local hermitian
+operators in the Bullough-Dodd model. At the self-dual point of the theory, the
+form factors of the fundamental field of the Bullough-Dodd model are equal to
+those of the fundamental field of the Sinh-Gordon model at a specific value of
+the coupling constant.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 08:55:44 GMT""}]","2009-10-22"
+"hep-th/9303109","Fiorenzo Bastianelli","Fiorenzo Bastianelli and Ulf Lindstrom","Induced Chiral Supergravities in 2D","28 pages, TeX, (improved text, unchanged conclusions), USITP-93-04","Nucl.Phys. B416 (1994) 227-254","10.1016/0550-3213(94)90584-3",,"hep-th",,"  We analyze actions for 2D supergravities induced by chiral conformal
+supermatter. The latter may be thought as described at the classical level by
+superspace actions invariant under super-reparametrization, super-Weyl and
+super-Lorentz transformations. Upon quantization various anomalies appear which
+characterize the non-trivial induced actions for the supergravitational sector.
+We derive these induced actions using a chiral boson to represent the chiral
+inducing matter. We show that they can be defined in a super-reparametrization
+invariant way, but with super-Weyl and super-Lorentz anomalies. We consider the
+case of $(1,0)$ and $(1,1)$ supergravities by working in their respective
+superspace formulations and investigate their quantization in the conformal
+gauge. The actions we consider arise naturally in off-critical heterotic and
+spinning strings. In the conformal gauge, they correspond to chiral extensions
+of the super-Liouville theory.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 09:12:00 GMT""},{""version"":""v2"",""created"":""Wed, 28 Jul 1993 10:31:49 GMT""}]","2009-10-22"
+"hep-th/9303110","Danny Birmingham","Danny Birmingham and Mark Rakowski","Combinatorial Invariants from Four Dimensional Lattice Models","15 pages","Int.J.Mod.Phys. A10 (1995) 1329-1342","10.1142/S0217751X95000632","ITFA-93-06/YCTP-P6-93","hep-th hep-lat math.QA",,"  We study the subdivision properties of certain lattice gauge theories based
+on the groups $Z_{2}$ and $Z_{3}$, in four dimensions. The Boltzmann weights
+are shown to be invariant under all type $(k,l)$ subdivision moves, at certain
+discrete values of the coupling parameter. The partition function then provides
+a combinatorial invariant of the underlying simplicial complex, at least when
+there is no boundary. We also show how an extra phase factor arises when
+comparing Boltzmann weights under the Alexander moves, where the boundary
+undergoes subdivision.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 12:50:11 GMT""}]","2009-10-22"
+"hep-th/9303111","Chih-Han sah","J. L. Dupont (Aarhus) and C. H. Sah (SUNY Stony Brook)","Dilogarithm Identities in Conformal Field Theory and Group Homology","20 pages, 2 figures not included","Commun.Math.Phys. 161 (1994) 265-282","10.1007/BF02099777",,"hep-th math.CA",,"  Recently, Rogers' dilogarithm identities have attracted much attention in the
+setting of conformal field theory as well as lattice model calculations. One of
+the connecting threads is an identity of Richmond-Szekeres that appeared in the
+computation of central charges in conformal field theory. We show that the
+Richmond-Szekeres identity and its extension by Kirillov-Reshetikhin can be
+interpreted as a lift of a generator of the third integral homology of a finite
+cyclic subgroup sitting inside the projective special linear group of all $2
+\times 2$ real matrices viewed as a {\it discrete} group. This connection
+allows us to clarify a few of the assertions and conjectures stated in the work
+of Nahm-Recknagel-Terhoven concerning the role of algebraic $K$-theory and
+Thurston's program on hyperbolic 3-manifolds. Specifically, it is not related
+to hyperbolic 3-manifolds as suggested but is more appropriately related to the
+group manifold of the universal covering group of the projective special linear
+group of all $2 \times 2$ real matrices viewed as a topological group. This
+also resolves the weaker version of the conjecture as formulated by Kirillov.
+We end with the summary of a number of open conjectures on the mathematical
+side.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 15:40:27 GMT""}]","2009-10-22"
+"hep-th/9303119",,"M. D. Freeman and P. West","On the relation between integrability and infinite-dimensional algebras","(Talk given at the 1992 Johns Hopkins meeting, Goteborg, Sweden), 22
+  pages, KCL-TH-93-1",,,,"hep-th",,"  We review our work on the relation between integrability and
+infinite-dimensional algebras. We first consider the question of what sets of
+commuting charges can be constructed from the current of a \mbox{\sf U}(1)
+Kac-Moody algebra. It emerges that there exists a set $S_n$ of such charges for
+each positive integer $n>1$; the corresponding value of the central charge in
+the Feigin-Fuchs realization of the stress tensor is $c=13-6n-6/n$. The charges
+in each series can be written in terms of the generators of an exceptional
+\W-algebra. We show that the \W-algebras that arise in this way are symmetries
+of Liouville theory for special values of the coupling. We then exhibit a
+relationship between the \nls equation and the KP hierarchy. From this it
+follows that there is a relationship between the \nls equation and the algebra
+\Wi. These examples provide evidence for our conjecture that the phenomenon of
+integrability is intimately linked with properties of infinite dimensional
+algebras.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 15:13:00 GMT""}]","2007-05-23"

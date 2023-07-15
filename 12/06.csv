@@ -1,0 +1,250 @@
+"chao-dyn/9312004","Maria Vieira","Maria de Sousa Vieira and Hans J. Herrmann","Self-Similarity of Friction Laws","Plain TEX. Figures not included",,"10.1103/PhysRevE.49.4534",,"chao-dyn nlin.CD",,"  The change of the friction law from a mesoscopic level to a macroscopic level
+is studied in the spring-block models introduced by Burridge-Knopoff. We find
+that the Coulomb law is always scale invariant. Other proposed scaling laws are
+only invariant under certain conditions.}
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 08:24:06 GMT""}]","2009-10-22"
+"cond-mat/9312021","Qimiao Si","Qimiao Si, M. J. Rozenberg, G. Kotliar, and A. E. Ruckenstein","Correlation Induced Insulator to Metal Transitions","12 pages, REVTEX",,"10.1103/PhysRevLett.72.2761",,"cond-mat",,"  We study a spinless two-band model at half-filling in the limit of infinite
+dimensions. The ground state of this model in the non-interacting limit is a
+band-insulator. We identify transitions to a metal and to a charge-Mott
+insulator, using a combination of analytical, Quantum Monte Carlo, and zero
+temperature recursion methods. The metallic phase is a non-Fermi liquid state
+with algebraic local correlation functions with universal exponents over a
+range of parameters.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1993 21:36:21 GMT""}]","2009-10-22"
+"cond-mat/9312022","Maria Vieira","Maria de Sousa Vieira and Hans J. Herrmann","Self-Similarity of Friction Laws","Plain TEX. Figures not included",,,,"cond-mat",,"  The change of the friction law from a mesoscopic level to a macroscopic level
+is studied in the spring-block models introduced by Burridge-Knopoff. We find
+that the Coulomb law is always scale invariant. Other proposed scaling laws are
+only invariant under certain conditions.}
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 08:04:27 GMT""}]","2007-05-23"
+"funct-an/9312001","Braverman Elena","L. Berezansky and E. Braverman","Boundedness and Stability of Impulsively Perturbed Systems in a Banach
+  Space","19 pages, LaTex-file",,"10.1007/BF00675173",,"funct-an math.DS math.FA",,"  Consider a linear impulsive equation in a Banach space
+  $$\dot{x}(t)+A(t)x(t) = f(t), ~t \geq 0,$$
+  $$x(\tau_i +0)= B_i x(\tau_i -0) + \alpha_i,$$
+  with $\lim_{i \rightarrow \infty} \tau_i = \infty $. Suppose each solution of
+the corresponding semi-homogeneous equation
+  $$\dot{x}(t)+A(t)x(t) = 0,$$
+  (2) is bounded for any bounded sequence $\{ \alpha_i \}$.
+  The conditions are determined ensuring
+  (a) the solution of the corresponding homogeneous equation has an exponential
+estimate;
+  (b) each solution of (1),(2) is bounded on the half-line for any bounded $f$
+and bounded sequence $\{ \alpha_i \}$ ;
+  (c) $\lim_{t \rightarrow \infty}x(t)=0$ for any $f, \alpha_i$ tending to
+zero;
+  (d) exponential estimate of $f$ implies a similar estimate for $x$.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 10:45:56 GMT""}]","2016-08-31"
+"hep-lat/9312026","Shinji Hioki","K. Akemi, Ph. deForcrand, M. Fujisaki, T. Hashimoto, S. Hioki, O.
+  Miyamura, A. Nakamura, M. Okuda, I.O. Stamatescu, Y. Tago and T. Takaishi","Systematic study of autocorrelation time in pure SU(3) lattice gauge
+  theory","3 pages of A4 format including 7-figures",,"10.1016/0920-5632(94)90515-0",,"hep-lat",,"  Results of our autocorrelation measurement performed on Fujitsu AP1000 are
+reported. We analyze (i) typical autocorrelation time, (ii) optimal mixing
+ratio between overrelaxation and pseudo-heatbath and (iii) critical behavior of
+autocorrelation time around cross-over region with high statistic in wide range
+of $\beta$ for pure SU(3) lattice gauge theory on $8^4$, $16^4$ and $32^4$
+lattices. For the mixing ratio K, small value (3-7) looks optimal in the
+confined region, and reduces the integrated autocorrelation time by a factor
+2-4 compared to the pseudo-heatbath. On the other hand in the deconfined phase,
+correlation times are short, and overrelaxation does not seem to matter For a
+fixed value of K(=9 in this paper), the dynamical exponent of overrelaxation is
+consistent with 2 Autocorrelation measurement of the topological charge on
+$32^3 \times 64$ lattice at $\beta$ = 6.0 is also briefly mentioned.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 03:02:24 GMT""}]","2009-10-22"
+"hep-lat/9312027",,"She-Sheng XUE","Aspects of Dynamical Symmetry Breaking on a Lattice","7 pages + 4 figures, MITH 93/20",,,,"hep-lat",,"  In the context of four-fermion and gauge interactions, the Schwinger-Dyson
+equation for the fermion self-energy function is studied with the Wilson
+fermion on a lattice. We find that the critical line obtained by Bardeen, Leung
+and Love is modified. No additional Goldstone bosons appear in the spectrum of
+fundamental particles. Massive solutions to the Schwinger-Dyson equation turn
+out to be possible for a small gauge coupling.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 11:35:43 GMT""}]","2009-09-25"
+"hep-lat/9312028","Matteo Beccaria","Matteo Beccaria","Bosonization and the lattice Gross-Neveu model","12 pags, IFUP-TH \ 62/93","Phys.Lett.B327:95-100,1994","10.1016/0370-2693(94)91535-0",,"hep-lat",,"  We consider a lattice version of the bosonized Gross-Neveu model. It is
+explicitely chiral symmetric and its numerical simulation does not involve any
+anticommuting field. We study its non trivial $1/N$ expansion up to the
+next-to-leading term comparing the results with explicit numerical simulations.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 14:59:40 GMT""}]","2011-07-19"
+"hep-ph/9312220",,"S.Balk, J.G.Korner, D.Pirjol and K.Schilcher","Inclusive Semileptonic Decays in QCD Including Lepton Mass Effects","16 pages + 4 figs. appended in uuencoded form, LaTeX, MZ-TH/93-32","Z.Phys.C64:37-44,1994","10.1007/BF01557233",,"hep-ph",,"  Starting from an Operator Product Expansion in the Heavy Quark Effective
+Theory up to order 1/m_b^2 we calculate the inclusive semileptonic decays of
+unpolarized bottom hadrons including lepton mass effects. We calculate the
+differential decay spectra d\Gamma/(dE_\tau ), and the total decay rate for B
+meson decays to final states containing a \tau lepton.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1993 16:19:06 GMT""}]","2011-01-27"
+"hep-ph/9312221","Peter Arnold","Peter Arnold and Laurence G. Yaffe","The $\epsilon$-expansion and the electroweak phase transition","71 pages w. 16 figs., UW/PT-93-24. (Latex, Revtex, epsf)","Phys.Rev.D49:3003-3032,1994; Erratum-ibid.D55:1114,1997","10.1103/PhysRevD.49.3003 10.1103/PhysRevD.55.1114",,"hep-ph",,"  Standard perturbative (or mean field theory) techniques are not adequate for
+studying the finite-temperature electroweak phase transition in some cases of
+interest to scenarios for electroweak baryogenesis. We instead study the
+properties of this transition using the renormalization group and the
+$\epsilon$-expansion. This expansion, based on dimensional continuation from 3
+to $4{-}\epsilon$ spatial dimensions, provides a systematic approximation for
+computing the effects of (near)-critical fluctuations. The $\epsilon$-expansion
+is known to predict a first-order transition in Higgs theories, even for heavy
+Higgs boson masses. The validity of this conclusion in the standard model is
+examined in detail. A variety of physical quantities are computed at leading
+and next-to-leading order in $\epsilon$. For moderately light Higgs masses
+(below 100~GeV), the $\epsilon$-expansion suggests that the transition is more
+strongly first order than is predicted by the conventional analysis based on
+the one-loop (ring-improved) effective potential. Nevertheless, the rate of
+baryon non-conservation after the transition is found to be {\em larger\/} than
+that given by the one-loop effective potential calculation. Detailed
+next-to-leading order calculations of some sample quantities suggests that the
+$\eps$-expansion is reasonably well behaved for Higgs masses below 100--200
+GeV. We also compare the $\eps$-expansion with large-$N$ results (where $N$ is
+the number of scalar fields) and find that the $\eps$-expansion is less well
+behaved in this limit.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1993 20:43:37 GMT""}]","2014-11-17"
+"hep-ph/9312222",,"Zurab G. Berezhiani","Grand Unification of Fermion Masses","22 pages (standard LATEX) + 1 Figure (postscript file, cut out and
+  print separately), Ferrara preprint INFN-FE-13-93",,,,"hep-ph",,"  After a brief review of the flavour problem we present a new predictive
+framework based on SUSY $SO(10)$ theory, where the first family plays a role of
+the mass unification point. The inter-family hierarchy is first generated in a
+sector of superheavy fermions and then transfered in an inverse way to ordinary
+quarks and leptons by means of the universal seesaw mechanism. The obtained
+mass matrices are simply parametrized by two small coefficients which can be
+given by the ratio of the GUT and superstring compactification scales. The
+model allows a natural (without fine tuning) doublet-triplet splitting. It has
+a strong predictive power, though no special texture is utilized in contrast to
+the known predictive frameworks. Namely, the model implies that $m_b=4-5$ GeV,
+$m_s=100-150$ MeV, $m_u/m_d=0.5-0.7$ and $\tan\beta<1.1$. The Top quark is
+naturally in the 100 GeV range, but not too heavy: $m_t<150$ GeV. All CKM
+mixing angles are in correct range. The Higgsino mediated $d=5$ operators for
+the proton decay are naturally suppressed. {On the basis of talks given at the
+XVI International Warsaw Meeting on Elementary Particle Physics ""New Physics
+with New Experiments"", Kazimierz, Poland, 24-28 May 1993, and at the II Gran
+Sasso Summer Institute ""From Particle Physics to Cosmology"", Gran Sasso
+National Laboratory, Italy, 6-17 September 1993.}
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 01:00:00 GMT""}]","2009-09-25"
+"hep-ph/9312224","Grant Baillie","Grant Baillie","$1/m_b$ Corrections in the ACCMM Model for Inclusive Semileptonic B
+  Decay","10 pages (uses revtex), UCLA/93/TEP/47","Phys.Lett.B324:446-450,1994","10.1016/0370-2693(94)90221-6",,"hep-ph",,"  We re-examine the model of Altarelli, Cabibbo, Corb\`{o}, Maiani and
+Martinelli for inclusive semileptonic B decay, in the light of recent
+calculations in heavy quark effective theory. The model can be shown to have
+no~$1/m_b$ corrections, with a suitable definition of the b quark mass~$m_b$.
+However, we find that the structure of the $1/m_b^2$~terms is incompatible with
+the predictions of heavy quark effective theory. The numerical significance of
+this discrepancy is discussed.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 06:59:18 GMT""}]","2011-01-27"
+"hep-ph/9312225","Noriaki Kitazawa","N.Kitazawa and T.Kurimoto","Heavy meson effective thoery with 1/M_Q correction","14pages, revtex","Phys.Lett. B323 (1994) 65-70","10.1016/0370-2693(94)00047-6","DPNU-93-37, OS-GE 38-93","hep-ph",,"  We construct an effective Lagrangian of heavy and light mesons with $1/M_Q$
+correction. The Lagrangian is constructed model independent way by using only
+the information of the symmetry of QCD. Reparameterisation invariance at the
+meson level is taken into account for the consistency of the theory. The
+partial decay width of the process $D^{*+} \rightarrow D^0 \pi^+$ and the form
+factors of the process ${\bar B}^0 \rightarrow \pi^+ l {\bar \nu}$ are
+calculated with the $1/M_Q$ correction. We also introduce the light vector
+mesons based on the approach of the hidden local symmetry. The form factors of
+the process ${\bar B}^0 \rightarrow \rho^+ l {\bar \nu}$ are calculated with
+thus introduced $\rho$-meson. These results are easily translated to the
+$D$-meson semileptonic decays.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 09:23:03 GMT""}]","2009-10-22"
+"hep-ph/9312226","Per Elmfors","P. Elmfors, D. Persson and B.-S. Skagerstam","Real-Time Thermal Propagators and the QED Effective Action for an
+  External Magnetic Field","36 pages, Latex + epsf.tex (ps-file appended at the end),
+  NORDITA-93/78P, Goteborg ITP 93-11, (some mishaps with table enumeration are
+  corrected)","Astropart.Phys.2:299-326,1994","10.1016/0927-6505(94)90008-6",,"hep-ph",,"  The thermal averaged real-time propagator of a Dirac fermion in a static
+uniform magnetic field $B$ is derived. At non-zero chemical potential and
+temperature we find explicitly the effective action for the magnetic field,
+which is shown to be closely related to the Helmholz free energy of a
+relativistic fermion gas, and it exhibits the expected de\ Haas -- van\ Alphen
+oscillations. An effective QED coupling constant at finite temperature and
+density is derived, and compared with renormalization group results. We discuss
+some astrophysical implications of our results.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 09:26:46 GMT""},{""version"":""v2"",""created"":""Tue, 7 Dec 1993 08:51:30 GMT""}]","2011-05-23"
+"hep-ph/9312227",,"A. Wambach","Heavy Quark S- to P-Wave Transitions in a Consistent Quark Model","18 pages, OUTP-93 28P, one figure available from the author by
+  request","Nucl.Phys. B434 (1995) 647-661","10.1016/0550-3213(94)00485-W",,"hep-ph",,"  In Heavy Quark Effective Theory the calculation of form-factors of higher
+excited states in a non-relativistic framework suffers severe inconsistencies
+due to frame dependencies. We show how careful inclusion of the Wigner-rotation
+of the spin of the light quark and a covariant description of the meson
+wave-function resolves these inconsistencies. We match this onto HQET and
+compute the relevant form factors $\xi_{1/2}$ and $\xi_{3/2}$ to order $v^2$.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 10:36:44 GMT""}]","2016-09-01"
+"hep-ph/9312228","Zhora Jikia","G. Jikia and A. Tkabladze","Photon-Photon Scattering at the Photon Linear Collider","Standard LaTeX. 8 pages+5 figures (available by regular mail). IHEP
+  93-89","Phys.Lett. B323 (1994) 453-458","10.1016/0370-2693(94)91246-7",,"hep-ph",,"  Photon-photon scattering at the Photon Linear Collider is considered.
+Explicit formulas for helicity amplitudes due to $W$ boson loops are presented.
+It is shown that photon-photon scattering should be easily observable at PLC
+and separation of the $W$ loop contribution (which dominates at high energies)
+will be possible at $e^+e^-$ c.m. energy of 500~GeV or higher.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 10:35:44 GMT""},{""version"":""v2"",""created"":""Mon, 20 Dec 1993 21:19:45 GMT""}]","2009-10-22"
+"hep-ph/9312229","Klaus Honscheid","K. Honscheid, R. Waldi, K. Schubert","The Semileptonic Decay Fraction of B Mesons in the Light of Interfering
+  Amplitudes","9 pages","Z.Phys. C63 (1994) 117-120","10.1007/BF01577550","OHSTPY-HEP-E-93-017, IKTP-DD/93-5","hep-ph",,"  Consequences of the interference between spectator amplitudes for the
+lifetimes and semileptonic decay fractions of B^0 and B^+ mesons are discussed.
+Assuming duality and constructive interference between spectator amplitudes we
+are able to explain the low experimental value for the semileptonic decay
+fraction of $B$ mesons. Extracting these amplitudes from a fit to 11 exclusive
+hadronic B decay fractions we find
+  a_1 = 1.05 +/- 0.03 +/- 0.10,
+  a_2 =+0.227 +/ 0.012 +/- 0.022,
+  an inclusive semileptonic decay fraction of
+  (11.2 +/- 0.5 +/- 1.7),
+  and a lifetime ratio
+  tau(B^+) / tau(B^0) = 0.83 +/- 0.01 +/- 0.01.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 14:36:04 GMT""}]","2016-09-01"
+"hep-th/9312038","Hai Ren","Hai Ren and Erick J. Weinberg","Radiation from a moving Scalar Source","15 pages, CU-TP-592","Phys.Rev.D49:6526-6533,1994","10.1103/PhysRevD.49.6526",,"hep-th",,"  We study classical radiation and quantum bremsstrahlung effect of a moving
+point scalar source. Our classical analysis provides another example of
+resolving a well-known apparent paradox, that of whether a constantly
+accelerating source radiates or not. Quantum mechanically, we show that for a
+scalar source with arbitrary motion, the tree level emission rate of scalar
+particles in the inertial frame equals the sum of emission and absorption rates
+of zero-energy Rindler particles in the Rindler frame. We then explicitly
+verify this result for a source undergoing constant proper acceleration.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 00:21:55 GMT""}]","2011-08-17"
+"hep-th/9312039","Smirnov Fedov","F.A. Smirnov","A new set of exact form factors",,"Int.J.Mod.Phys. A9 (1994) 5121-5144","10.1142/S0217751X94002077",,"hep-th",,"  Some mistaken reasonings at the end of the paper omitted.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 02:36:48 GMT""},{""version"":""v2"",""created"":""Fri, 7 Jan 1994 03:32:06 GMT""}]","2009-10-22"
+"hep-th/9312040","Mikhail Saveliev","Jean-Loup Gervais and Mikhail V. Saveliev","$W$--geometry of the Toda systems associated with non-exceptional simple
+  Lie algebras","30 pages, no figure","Commun.Math.Phys. 180 (1996) 265-296","10.1007/BF02099714","LPTENS-93/47","hep-th math.QA",,"  The present paper describes the $W$--geometry of the Abelian finite
+non-periodic (conformal) Toda systems associated with the $B,C$ and $D$ series
+of the simple Lie algebras endowed with the canonical gradation. The principal
+tool here is a generalization of the classical Pl\""ucker embedding of the
+$A$-case to the flag manifolds associated with the fundamental representations
+of $B_n$, $C_n$ and $D_n$, and a direct proof that the corresponding K\""ahler
+potentials satisfy the system of two--dimensional finite non-periodic
+(conformal) Toda equations. It is shown that the $W$--geometry of the type
+mentioned above coincide with the differential geometry of special holomorphic
+(W) surfaces in target spaces which are submanifolds (quadrics) of $CP^N$ with
+appropriate choices of $N$. In addition, these W-surfaces are defined to
+satisfy quadratic holomorphic differential conditions that ensure consistency
+of the generalized Pl\""ucker embedding. These conditions are automatically
+fulfiled when Toda equations hold.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 11:16:15 GMT""}]","2009-10-22"
+"hep-th/9312041",,"F. Delduc, L. Frappat, E. Ragoucy and P. Sorba","General properties of classical W algebras","16 pages",,,"ENSLAPP-449/93","hep-th math.QA",,"  After some definitions, we review in the first part of this talk the
+construction and classification of classical $W$ (super)algebras symmetries of
+Toda theories. The second part deals with more recently obtained properties. At
+first, we show that chains of $W$ algebras can be obtained by imposing
+constraints on some $W$ generators: we call secondary reduction such a gauge
+procedure on $W$ algebras. Then we emphasize the role of the Kac-Moody part,
+when it exists, in a $W$ (super) algebra. Factorizing out this spin 1
+subalgebra gives rise to a new $W$ structure which we interpret either as a
+rational finitely generated $W$ algebra, or as a polynomial non linear
+$W_\infty$ realization. (Plenary talk presented by P. SORBA at the $XXII^{th}$
+International Conference on Differential Geometric Methods in Theoretical
+Physics. Ixtapa Mexico, September 1993.)
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 11:15:41 GMT""}]","2008-02-03"
+"hep-th/9312042","Olivier Babelon","E. Billey, J. Avan, O. Babelon","The R-matrix structure of the Euler-Calogero-Moser model","7 pages",,"10.1016/0375-9601(94)90930-X","PAR LPTHE 93-55","hep-th nlin.SI solv-int",,"  We construct the $r$-matrix for the generalization of the Calogero-Moser
+system introduced by Gibbons and Hermsen. By reduction procedures we obtain the
+$r$-matrix for the $O(N)$ Euler-Calogero-Moser model and for the standard $A_N$
+Calogero-Moser model.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 14:41:14 GMT""}]","2009-10-22"
+"hep-th/9312043","Melzer Ezer","Ezer Melzer","The Many Faces of a Character","14/9 pages in harvmac, Tel-Aviv preprint TAUP 2125-93","Lett.Math.Phys. 31 (1994) 233-246","10.1007/BF00761715",,"hep-th",,"  We prove an identity between three infinite families of polynomials which are
+defined in terms of `bosonic', `fermionic', and `one-dimensional configuration'
+sums. In the limit where the polynomials become infinite series, they give
+different-looking expressions for the characters of the two integrable
+representations of the affine $su(2)$ algebra at level one. We conjecture yet
+another fermionic sum representation for the polynomials which is constructed
+directly from the Bethe-Ansatz solution of the Heisenberg spin chain.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 14:48:31 GMT""}]","2009-10-22"
+"hep-th/9312044",,"Luca Griguolo","Covariant Anomalies and Functional Determinants","55 pages","Fortschr.Phys.42:611-662,1994","10.1002/prop.2190420703",,"hep-th",,"  We analize the algebraic structure of consistent and covariant anomalies in
+gauge and gravitational theories: using a complex extension of the Lie algebra
+it is possible to describe them in a unified way. Then we study their
+representations by means of functional determinants, showing how the algebraic
+solution determines the relevant operators for the definition of the effective
+action. Particular attention is devoted to the Lorentz anomaly: we obtain by
+functional methods the covariant anomaly for the spin-current and for the
+energy-momentum tensor in presence of a curved background. With regard to the
+consistent sector we are able to give a general functional solution only for
+$d=2$: using the characterization derived from the extended algebra, we find a
+continuous family of operators whose determinant describes the effective action
+of chiral spinors in curved space. We compute this action and we generalize the
+result in presence of a $U(1)$ gauge connection. Accepted for publication in
+Fortschritte der Physik.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 14:00:31 GMT""}]","2010-11-01"
+"math/9312214","Maggie McLoughlin","Donald E. Knuth","The sandwich theorem",,"Electron. J. Combin. 1 (1994), #A1",,"Knuth migration 11/2004","math.CO",,"  This report contains expository notes about a function $\vartheta(G)$ that is
+popularly known as the Lov\'asz number of a graph~$G$. There are many ways to
+define $\vartheta(G)$, and the surprising variety of different
+characterizations indicates in itself that $\vartheta(G)$ should be
+interesting. But the most interesting property of $\vartheta(G)$ is probably
+the fact that it can be computed efficiently, although it lies ``sandwiched''
+between other classic graph numbers whose computation is NP-hard. I~have tried
+to make these notes self-contained so that they might serve as an elementary
+introduction to the growing literature on Lov\'asz's fascinating function.
+","[{""version"":""v1"",""created"":""Mon, 6 Dec 1993 00:00:00 GMT""}]","2008-02-03"

@@ -1,0 +1,134 @@
+"adap-org/9306001","Mark Millonas","Mark M. Millonas (CNLS and Theoretical Division, LANL; and Santa Fe
+  Institute)","A nonequilibrium statistical field theory of swarms and other spatially
+  extended complex systems","678Kb uuencoded, compressed postscript file, 10 pages, 3 figs",,,,"adap-org nlin.AO",,"  A class of models with applications to swarm behavior as well as many other
+types of spatially extended complex biological and physical systems is studied.
+Internal fluctuations can play an active role in the organization of the phase
+structure of such systems. Consequently, it is not possible to fully understand
+the behavior of these systems without explicitly incorporating the
+fluctuations. In particular, for the class of models studied here the effect of
+internal fluctuations due to finite size is a renormalized decrease in the
+temperature near the point of spontaneous symmetry breaking. We briefly outline
+how these models can be applied to the behavior of an ant swarm.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 03:26:04 GMT""}]","2008-02-03"
+"astro-ph/9306004",,"Ben Moore","An Upper Limit to the Mass of Black Holes in the Halo of our Galaxy","Four pages of TEX, one figure not included and one LATEX table
+  included. Accepted for Ap.J.Letters. (email moore@bkyast.berkeley.edu)","Astrophys.J. 413 (1993) L93","10.1086/186967",,"astro-ph",,"  If massive black holes constitute the dark matter in the halo surrounding the
+Milky Way, the existence of low mass globular clusters in the halo suggests an
+upper limit to their mass, $M_{_{BH}}$. We use a combination of the impulse
+approximation and numerical simulations to constrain $M_{_{BH}} \lsim
+10^3M_\odot$, otherwise several of the halo globular clusters would be heated
+to disruption within one half of their lifetime. Taken at face value, this
+constraint is three orders of magnitude stronger than the previous limit
+provided by disk heating arguments. However, since the initial mass function of
+clusters is unknown, we argue that the real constraint is at most, an order of
+magnitude weaker. Our results rule out cosmological scenarios, such as versions
+of the Primordial Baryonic Isocurvature fluctuation model, which invoke the low
+Jeans mass at early epochs to create a large population of black holes of mass
+$\sim 10^6M_\odot$.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 15:43:45 GMT""}]","2009-10-22"
+"cond-mat/9306026",,"Rodney Price, Xuejun Zhu, and P.M. Platzman (AT&T Bell Laboratories,
+  Murray Hill, NJ)","Freezing of the quantum Hall liquid at $\nu = $ 1/7 and 1/9","uses RevTeX 2.0 or 3.0",,"10.1103/PhysRevB.48.11473",,"cond-mat",,"  We compare the free energy computed from the ground state energy and
+low-lying excitations of the 2-D Wigner solid and the fractional quantum Hall
+liquid, at magnetic filling factors $\nu = 1/7$ and 1/9. We find that the
+Wigner solid melts into the fractional quantum Hall liquid at roughly the same
+temperature as that of some recent luminescence experiments, while it remains a
+solid at the lower temperatures characteristic of the transport experiments. We
+propose this melting as a consistent interpretation of both sets of
+experiments.
+","[{""version"":""v1"",""created"":""Wed, 9 Jun 1993 18:07:59 GMT""},{""version"":""v2"",""created"":""Fri, 11 Jun 1993 14:31:35 GMT""}]","2009-10-22"
+"cond-mat/9306027","Vladimir Dotsenko","Andrei Talapov and Vladimir Dotsenko","Critical Point Correlation Function for the 2D Random Coupling Ising
+  Model","7 pages (latex), 1 figure (ps file included), Landau LITP/3--CP--93,
+  PAR--LPTHE 93--34 (format of the file for the figure has been changed)",,,,"cond-mat",,"  High accuracy Monte Carlo simulation results for 1024*1024 Ising system with
+ferromagnetic impurity bonds are presented. Spin-spin correlation function at a
+critical point is found to be numerically very close to that of a pure system.
+This is not trivial since a critical temperature for the system with impurities
+is almost two times lower than pure Ising $T_c$. Small deviations from the pure
+behaviour contradict to some of the competing theories.
+","[{""version"":""v1"",""created"":""Wed, 9 Jun 1993 21:52:08 GMT""}]","2007-05-23"
+"cond-mat/9306029",,"Onuttom Narayan and B. Sriram Shastry","Dyson's Brownian Motion and Universal Dynamics of Quantum Systems","10 pages, revtex",,"10.1103/PhysRevLett.71.2106",,"cond-mat",,"  We establish a correspondence between the evolution of the distribution of
+eigenvalues of a $N\times N$ matrix subject to a random Gaussian perturbing
+matrix, and a Fokker-Planck equation postulated by Dyson. Within this model, we
+prove the equivalence conjectured by Altshuler et al between the space-time
+correlations of the Sutherland-Calogero-Moser system in the thermodynamic limit
+and a set of two-variable correlations for disordered quantum systems
+calculated by them. Multiple variable correlation functions are, however, shown
+to be inequivalent for the two cases.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 13:45:08 GMT""}]","2009-10-22"
+"cond-mat/9306030","Didier Poilblanc","Didier Poilblanc","On the Internal Structure of the Singlet d$_{X^2-Y^2}$ Hole Pair in an
+  Antiferromagnet","Report LPQTH-93/07, Latex file, 7 pages, 2 figures on request",,"10.1103/PhysRevB.49.1477",,"cond-mat",,"  Exact diagonalizations of two dimensional small t--J clusters reveal dominant
+hole-hole correlations at distance $\sqrt{2}$ (ie between holes on next nearest
+neighbor sites). A new form of singlet $d_{x^2-y^2}$ pair operator is proposed
+to account for the spatial extention of the two hole-bound pair beyond nearest
+neighbor sites.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 15:58:46 GMT""}]","2009-10-22"
+"hep-ph/9306252","Cliff Burgess","C.P. Burgess and Oscar Hernandez","A Common Explanation for the Atmospheric, Solar-Neutrino and Double Beta
+  Decay Anomalies","25 pages, 6 Figures, McGill-93/10","Phys.Rev. D48 (1993) 4326-4336","10.1103/PhysRevD.48.4326",,"hep-ph",,"  We make a number of small changes, including correcting an error in our
+heavy-neutrino decay rate. None of our analysis is changed, either in substance
+or detail.
+","[{""version"":""v1"",""created"":""Wed, 9 Jun 1993 19:57:36 GMT""},{""version"":""v2"",""created"":""Wed, 21 Jul 1993 22:36:23 GMT""}]","2009-10-22"
+"hep-ph/9306253","Tim Stelzer","R.S. Fletcher (Bartol Research Institute, University of Delaware), T.
+  Stelzer (University of Wisconsin-Madison)","Rapidity gap signals in Higgs production at the SSC","24 Latex pages 5 postscript figures available upon request MAD/PH/76
+  BA-93-31","Phys.Rev.D48:5162-5167,1993","10.1103/PhysRevD.48.5162",,"hep-ph",,"  We examine the structure of the underlying event in neutral Higgs production
+at the Superconducting-Supercollider (SSC). Gaps, regions of rapidity
+containing no soft particle production, can provide a clean signature for $W$
+boson fusion to the heavy Higgs. We first examine the physical basis of gap
+production and estimate the survival probability of gaps in the minijet model.
+Then, using PYTHIA, and HERWIG we compare gap events to $W$ pair production
+from top decay and $q\bar{q}$ fusion. We find that, if experimental problems
+can be overcome, gaps should provide a small, but clean, signal for heavy Higgs
+production at the SSC.
+","[{""version"":""v1"",""created"":""Wed, 9 Jun 1993 21:57:27 GMT""}]","2011-05-12"
+"hep-ph/9306254",,"Xiao-Gang He","Anomalous $WWZ$ couplings and $K_L\rightarrow \mu^+ \mu^-$","9 pages, Revtex, UM-P-93/58, OZ-93/13","Phys.Lett. B319 (1993) 327-331","10.1016/0370-2693(93)90821-X",,"hep-ph",,"  We study contributions to $K_L \rightarrow \mu^+\mu^-$ from anomalous $WWZ$
+interactions. There are, in general, seven anomalous couplings. Among the seven
+anomalous couplings, only two of them contribute significantly. The others are
+suppressed by factors like $m_s^2/M_W^2$, $m_d^2$, or $m_K^2/M_W^2$. Using the
+experimental data on $K_L\rightarrow \mu^+\mu^-$, we obtain strong bounds on
+the two anomalous couplings.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 02:47:17 GMT""},{""version"":""v2"",""created"":""Tue, 13 Jul 1993 00:57:57 GMT""},{""version"":""v3"",""created"":""Mon, 2 Aug 1993 03:54:55 GMT""}]","2009-10-22"
+"hep-ph/9306255","N. Tracas","O. Korakianitis and N.D. Tracas","Supersymmetry Breaking Threshold Corrections in the $SU(4)\times
+  SU(2)_L\times SU(2)_R$ Model","10 pages, 5 Figs not included (can be sent by mail or fax upon
+  request), NTUA 41/93","Phys.Lett. B319 (1993) 145-151","10.1016/0370-2693(93)90794-I",,"hep-ph",,"  We evaluate the SUSY and top threshold effects in the context of the MSSM and
+the string derived model based on SU(4)$\times$SU(2)$_L\times$SU(2)$_R$. In
+both cases we run the two loop RGEs and determine the lower bounds of the
+supersymmetric particle masses, dictated by the experimentally accepted regions
+of the values of the low energy parameters.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 08:49:11 GMT""}]","2009-10-22"
+"hep-ph/9306256",,"J. Bagger, V. Barger, K. Cheung, J. Gunion, T. Han, G. A. Ladinsky, R.
+  Rosenfeld and C.--P. Yuan","The Strongly Interacting $WW$ System: Gold--Plated Modes","39 pages, FERMILAB-Pub-93/040-T, JHU-TIPAC-930008, MAD/PH/747, MSUHEP
+  93/05, NUB 3060-93 TH, NUHEP-TH-93-13, UCD-93-5 (uses PHYZZX with the
+  tables.tex macro; nine pages of PostScript figures in uuencoded format)","Phys.Rev.D49:1246-1264,1994","10.1103/PhysRevD.49.1246",,"hep-ph",,"  In this paper we survey the signals and backgrounds for a
+strongly-interacting electroweak symmetry breaking sector at hadron
+supercolliders in the TeV region. We study the process pp->WWX, and compute the
+rates for the ``gold-plated'' channels, where W^{+/-}->l^{+/-}\nu and Z ->
+l^+l^- (l = e,\mu), for a wide variety of models. Using a forward jet-tag, a
+central jet-veto and a back-to-back lepton cut to suppress the Standard Model
+backgrounds, we demonstrate that the SSC and LHC have substantial sensitivity
+to strong interactions in the electroweak symmetry breaking sector.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 14:02:57 GMT""}]","2009-09-15"
+"hep-ph/9310240","Dam Thanh Son","D.T.Son and V.A.Rubakov","Instanton-Like Transitions at High Energies in (1+1) Dimensional Scalar
+  Models","LaTeX, 42pp. including 6 LaTeX figures, 3 figures available in
+  PostScript","Nucl.Phys.B422:195-226,1994","10.1016/0550-3213(94)90490-1",,"hep-ph",,"  Instanton-like transitions (``shadow processes'') are considered in (1+1)
+dimensional models with one scalar field whose potential is a quadratic well
+with a cliff. The corresponding classical boundary value problem is solved, and
+the semiclassical transition probabilities are found in a rather wide range of
+energies and the numbers of initial particles.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 15:13:35 GMT""},{""version"":""v2"",""created"":""Thu, 7 Oct 1993 11:50:26 GMT""}]","2010-11-01"
+"hep-th/9306050","Mario Bergeron","Mario Bergeron and Gordon Semenoff","Canonical Chern-Simons Theory and the Braid Group on a Riemann Surface","19 pages","Ann.Phys.245:1-22,1996","10.1006/aphy.1996.0001","UBCTP-93-009","hep-th math.QA",,"  We examine the problem of determining which representations of the braid
+group on a Riemann surface are carried by the wave function of a quantized
+Abelian Chern-Simons theory interacting with non-dynamical matter. We
+generalize the quantization of Chern-Simons theory to the case where the
+coefficient of the Chern-Simons term, $k$, is rational, the Riemann surface has
+arbitrary genus and the total matter charge is non-vanishing. We find an
+explicit solution of the Schr\""odinger equation. We find that the wave
+functions carry a representation of the braid group as well as a projective
+representation of the discrete group of large gauge transformations. We find a
+fundamental constraint which relates the charges of the particles, $q_i$, the
+coefficient $k$ and the genus of the manifold, $g$.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 01:31:00 GMT""}]","2011-07-19"
+"math/9306201",,"Jamshid Moori","(p,q,r)-Generations for Janko Groups $J_1$ and $J_2$","AMS-LaTex, 8 pages, no figures",,,"MAGNUS preprint #93-06-10A","math.GR",,"  No abstract is available
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 00:00:00 GMT""}]","2009-09-25"
+"nucl-th/9306010","Avraham Rinat","E. Pace, G. Salme and A.S. Rinat","Exact response of the non-relativistic harmonic oscillator","9p.; INFN-ISS 93/2; WIS-93/50/Jun-PH","Nucl.Phys. A572 (1994) 1-8","10.1016/0375-9474(94)90416-2",,"nucl-th",,"  Using Green$'$s function and operator techniques we give a closed expression
+for the response of a non-relativistic system interacting through confining,
+harmonic forces. The expression for the incoherent part permits rapid
+evaluation of coefficients in a 1/q expansion. A comparison is made with
+standard approximation methods.
+","[{""version"":""v1"",""created"":""Thu, 10 Jun 1993 15:30:17 GMT""}]","2009-10-22"

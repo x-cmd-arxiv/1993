@@ -1,0 +1,344 @@
+"astro-ph/9311027","Lev Kofman","Lev Kofman (Institute for Astronomy, University of Hawaii)","Cosmological Distribution Functions","14 pages, University of Hawaii Preprint, Talk presented at the 9-th
+  IAP Meeting ``Cosmic Velocity Field'', Paris, June 1993. LaTeX",,,,"astro-ph",,"  The evolution of probability distribution functions (PDFs) of continuous
+density, velocity and velocity derivatives ( deformation tensor) fields in the
+theory of cosmological gravitational instability are considered. We show that
+in the Newtonian theory the dynamical equations cannot be reduced to the closed
+set of Lagrangian equations.
+  Since continuous fields from galaxy surveys need sufficiently large smoothing
+which exceeds the scale of nonlinearity, one can use the Zel'dovich
+approximation to describe the mildly non-linear matter evolution, which allows
+the closed set of Lagrangian equations. The closed kinetic equation for the
+joint PDF of cosmological continuous fields is derived in this approximation.
+  The analytical theory of the cosmological PDFs with arbitrary (including
+Gaussian) initial statistics is developed, based on the solution on the kinetic
+equaiton. For Gaussian initial fluctuations, the PDFs are parametrized by only
+linear {\it rms} fluctuations $\sigma$ on given filtering scale. Density PDF
+$P(\rho, t)$ and PDF $M(\lambda_1, \lambda_2, \lambda_3; t)$ of eigenvalues of
+the deformation tensor field in the Eulerian space evolve very rapidly in
+non-linear regime. On the contrary, velocity PDF $Q(\vec v, t)$ remains
+invariant under non-linear evolution. For small $\sigma$ the Edgworth series is
+suggested to reconstruct
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 22:44:48 GMT""}]","2007-05-23"
+"astro-ph/9311028","Lev Kofman","Lev Kofman (IFA, U of Hawaii, and CITA), Edmund Bertschinger (MIT),
+  James M. Gelb (MIT), Adi Nusser (CPA, Berkeley) and Avishai Dekel (Hebrew
+  University)","Evolution of One-Point Distributions from Gaussian Initial Fluctuations","33 pages, 9 figures (available from the authors), CITA preprint
+  #93-13, accepted to The Astrophysical Journal} 1994,{\bf 420}, January 1","Astrophys.J. 420 (1994) 44-57","10.1086/173541",,"astro-ph",,"  We study the quasilinear evolution of the one-point probability density
+functions (PDFs) of the smoothed density and velocity fields in a cosmological
+gravitating system beginning with Gaussian initial fluctuations. Our analytic
+results are based on the Zel'dovich approximation and laminar flow. A numerical
+analysis extends the results into the multistreaming regime using the smoothed
+fields of a CDM N-body simulation. We find that the PDF of velocity, both
+Lagrangian and Eulerian, remains Gaussian under the laminar Zel'dovich
+approximation, and it is almost indistinguishable from Gaussian in the
+simulations. The PDF of mass density deviates from a normal distribution early
+in the quasilinear regime and it develops a shape remarkably similar to a
+lognormal distribution with one parameter, the \rms density fluctuation
+$\sigma$. Applying these results to currently available data we find that the
+PDFs of the velocity and density fields, as recovered by the \pot\ procedure
+from observed velocities assuming $\Omega=1$, or as deduced from a redshift
+survey of \iras\ galaxies assuming that galaxies trace mass, are consistent
+with Gaussian initial fluctuations.
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 22:45:45 GMT""}]","2009-10-22"
+"cond-mat/9311028",,"Sutapa Mukherji and Somendra M. Bhattacharjee","Directed Polymers with Random Interaction : An Exactly Solvable Case -","No of pages: 36, 7figures on request, Revtex3, Report No:IP/BBSR/9296",,"10.1103/PhysRevE.48.3483",,"cond-mat",,"  We propose a model for two $(d+1)$-dimensional directed polymers subjected to
+a mutual $\delta$-function interaction with a random coupling constant, and
+present an exact renormalization group study for this system. The exact
+$\beta$-function, evaluated through an $\epsilon(=1-d)$ expansion for second
+and third moments of the partition function, exhibits the marginal relevance of
+the disorder at $d=1$, and the presence of a phase transition from a weak to
+strong disorder regime for $d>1$. The lengthscale exponent for the critical
+point is $\nu=1/2\mid\epsilon\mid$. We give details of the renormalization. We
+show that higher moments do not require any new interaction, and hence the
+$\beta$ function remains the same for all moments. The method is extended to
+multicritical systems involving an $m$ chain interaction. The corresponding
+disorder induced phase transition for $d>d_m=1/(m-1)$ has the critical exponent
+${\nu}_m=[2d(m-1)-2]^{-1}$. For both the cases, an essential singularity
+appears for the lengthscale right at the upper critical dimension $d_m$. We
+also discuss the strange behavior of an annealed system with more than two
+chains with pairwise random interactions among each other.
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 19:43:42 GMT""}]","2009-10-22"
+"cond-mat/9311029","Kihong Kim","Kihong Kim, Ross H. McKenzie, and John W. Wilkins (The Ohio State
+  University)","Universal subgap optical conductivity in quasi-one-dimensional Peierls
+  systems","11 pages (+ 3 figures), LATEX (REVTEX 3.0)",,"10.1103/PhysRevLett.71.4015",,"cond-mat",,"  Quasi-one-dimensional Peierls systems with quantum and thermal lattice
+fluctuations can be modeled by a Dirac-type equation with a Gaussian-correlated
+off-diagonal disorder. A powerful new method gives the exact disorder-averaged
+Green function used to compute the optical conductivity. The strong subgap tail
+of the conductivity has a universal scaling form. The frequency and temperature
+dependence of the calculated spectrum agrees with experiments on KCP(Br) and
+trans-polyacetylene.
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 21:29:04 GMT""}]","2009-10-22"
+"cond-mat/9311030","Canessa Enrique","E. Canessa and Wei Wang (ICTP-Trieste, Italy and Physics Department,
+  Nanjing University, People's Republic of China)","Effects of Long-Range Coupling on Aggregation","IC/93/367",,,,"cond-mat",,"  Alternative to the Poisson growth model, numerical simulations of the
+two-dimensional biharmonic equation $\nabla^{2*2} u =0$ show that a transition
+from dense to multibranched growth is a consequence of the different coupling
+between displacements on the pattern formation of fractal aggregates.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 12:28:03 GMT""}]","2007-05-23"
+"cond-mat/9311031","Hisao Nakanishi","M. D. Rintoul, Jangnyeol Moon and Hisao Nakanishi","Statistics of self-avoiding walks on randomly diluted lattice","34 pages (+ 12 figures), REVTEX 3.0",,"10.1103/PhysRevE.49.2790",,"cond-mat",,"  A comprehensive numerical study of self-avoiding walks (SAW's) on randomly
+diluted lattices in two and three dimensions is carried out. The critical
+exponents $\nu$ and $\chi$ are calculated for various different occupation
+probabilities, disorder configuration ensembles, and walk weighting schemes.
+These results are analyzed and compared with those previously available.
+Various subtleties in the calculation and definition of these exponents are
+discussed. Precise numerical values are given for these exponents in most
+cases, and many new properties are recognized for them.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 14:04:38 GMT""}]","2009-10-22"
+"cond-mat/9311032","Hisao Nakanishi","Sonali Mukherjee, Hisao Nakanishi and Norman H. Fuchs","Markov chain analysis of random walks on disordered medium","34 pages, REVTEX 3.0",,"10.1103/PhysRevE.49.5032",,"cond-mat",,"  We study the dynamical exponents $d_{w}$ and $d_{s}$ for a particle diffusing
+in a disordered medium (modeled by a percolation cluster), from the regime of
+extreme disorder (i.e., when the percolation cluster is a fractal at $p=p_{c}$)
+to the Lorentz gas regime when the cluster has weak disorder at $p>p_{c}$ and
+the leading behavior is standard diffusion. A new technique of relating the
+velocity autocorrelation function and the return to the starting point
+probability to the asymptotic spectral properties of the hopping transition
+probability matrix of the diffusing particle is used, and the latter is
+numerically analyzed using the Arnoldi-Saad algorithm. We also present evidence
+for a new scaling relation for the second largest eigenvalue in terms of the
+size of the cluster, $|\ln{\lambda}_{max}|\sim S^{-d_w/d_f}$, which provides a
+very efficient and accurate method of extracting the spectral dimension $d_s$
+where $d_s=2d_f/d_w$.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 14:09:13 GMT""}]","2009-10-22"
+"gr-qc/9311018","Fonarev Oleg","Oleg A. Fonarev","Wigner Functions in Curved Space-Time and Quantum Corrections to Thermal
+  Equilibrium","3 p",,,,"gr-qc",,"  A brief review of the Wigner functions method in curved space-time.
+Contribution to the 3rd International Wigner Symposium, 5th-11th September
+1993, Oxford, UK.
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 19:19:34 GMT""}]","2007-05-23"
+"gr-qc/9311019","Jesus Barbero","J. Fernando Barbero","A Real Polynomial Formulation of General Relativity in terms of
+  Connections","13 pages, LATEX, Preprint CGPG-93/11-3","Phys.Rev.D49:6935-6938,1994","10.1103/PhysRevD.49.6935",,"gr-qc",,"  I show in this letter that it is possible to construct a Hamiltonian
+description for Lorentzian General Relativity in terms of two real $SO(3)$
+connections. The constraints are simple polynomials in the basic variables. The
+present framework gives us a new formulation of General Relativity that keeps
+some of the interesting features of the Ashtekar formulation without the
+complications associated with the complex character of the latter.
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 19:34:27 GMT""}]","2017-03-24"
+"gr-qc/9311020","Guillermo Mena","Guillermo A. Mena Marugan","Reality Conditions for Lorentzian and Euclidean Gravity in the Ashtekar
+  Formulation","24 pages (Latex), Preprint CGPG-93/11-2","Int. J. Mod. Phys. D3 (1994) 513-528","10.1142/S0218271894000678",,"gr-qc",,"  Using Ashtekar variables, we analyze Lorentzian and Euclidean gravity in
+vacuum up to a constant conformal transformation. We prove that the reality
+conditions are invariant under a Wick rotation of the time, and show that the
+compatibility of the algebra of commutators and constraints with the involution
+defined by the reality conditions restricts the possible values of the
+conformal factor to be either real or purely imaginary. In the first case, one
+recovers real Lorentzian general relativity. For purely imaginary conformal
+factors, the classical theory can be interpreted as real Euclidean gravity. The
+reality conditions associated with this Euclidean theory demand the hermiticity
+of the Ashtekar connection, but the densitized triad is represented by an
+anti-Hermitian operator. We also demonstrate that the Euclidean and Lorentzian
+sets of reality conditions lead to inequivalent quantizations of full general
+relativity. As a consequence, it seems impossible to obtain Lorentzian physical
+predictions from the quantum theory constructed with the Euclidean reality
+conditions.
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 20:16:11 GMT""}]","2009-10-22"
+"gr-qc/9311021","Thomas Thiemann","T. Thiemann","A completely solvable model with an infinite number of Dirac observables
+  for a real sector of complexified Ashtekar gravity","31 pages (Latex), Preprint PITHA 93-33, August 93",,,,"gr-qc",,"  We introduce a reduced model for a real sector of complexified Ashtekar
+gravity that does not correspond to a subset of Einstein's gravity but for
+which the programme of canonical quantization can be carried out completely,
+both, via the reduced phase space approach or along the lines of the algebraic
+quantization programme.\\ This model stands in a certain correspondence to the
+frequently treated cylindrically symmetric waves.\\ In contrast to other models
+that have been looked at up to now in terms of the new variables the reduced
+phase space is infinite dimensional while the scalar constraint is genuinely
+bilinear in the momenta.\\ The infinite number of Dirac observables can be
+expressed in compact and explicit form in terms of the original phase space
+variables.\\ They turn out, as expected, to be non-local and form naturally a
+set of countable cardinality.
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 23:25:07 GMT""}]","2007-05-23"
+"hep-ph/9311271",,"Chilong Lin, Chien-er Lee, and Yeou-Wei Yang","Spontaneous CP-Violation in the Extended Standard Models","14 pages, NCKU-HEP/93-06","Chin.J.Phys.32:41-50,1994",,,"hep-ph",,"  The spontaneous CP-violation in three kinds of extension of the standard
+model are investigated. We find that if no additional symmetry is introduced to
+reduce the number of coefficients, then all three extended models possess the
+spontaneous CP violation (SCPV) in the Higgs potential. When symmetry under
+which the doublets transform as $\Phi_1 \to \Phi_1$ and $\Phi_2 \to
+e^{i\gamma}\Phi_2$ is introduced, the two-Higgs doublet model will lose its
+SCPV terms. In the other two extended models, the SCPV terms will be preserved
+since both models contain at least one Higgs singlet which can appear in odd
+powers. The extended model with two doublets and one singlet is reviewed and
+the general conditions which make the CP-violating $V_{min}$ the true minimum
+are given. The generally called natural flavour-conserving models are also
+discussed briefly.
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 23:13:19 GMT""}]","2010-11-01"
+"hep-ph/9311272",,"Chilong Lin, Chien-er Lee, and Yeou-Wei Yang","Feynman Rules in the Type III Natural Flavour-Conserving Two-Higgs
+  Doublet Model","16 pages (figures not included), NCKU-HEP/93-11","Phys.Rev.D50:558-564,1994","10.1103/PhysRevD.50.558",,"hep-ph",,"  We consider a two Higgs-doublet model with $S_3$ symmetry, which implies a
+$\pi \over 2$ rather than 0 relative phase between the vacuum expectation
+values $<\Phi_1>$ and $<\Phi_2>$. The corresponding Feynman rules are derived
+accordingly and the transformation of the Higgs fields from the weak to the
+mass eigenstates includes not only an angle rotation but also a phase
+transformation. In this model, both doublets couple to the same type of
+fermions and the flavour-changing neutral currents are naturally suppressed. We
+also demonstrate that the Type III natural flavour-conserving model is valid at
+tree-level even when an explicit $S_3$ symmetry breaking perturbation is
+introduced to get a reasonable CKM matrix. In the special case $\beta =
+\alpha$, as the ratio $\tan\beta = {v_2 \over v_1}$ runs from 0 to $\infty$,
+the dominant Yukawa coupling will change from the first two generations to the
+third generation. In the Feynman rules, we also find that the charged Higgs
+currents are explicitly left-right asymmetric. The ratios between the left- and
+right-handed currents for the quarks in the same generations are estimated.
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 23:46:03 GMT""}]","2010-11-01"
+"hep-ph/9311277","Gye Park","J.L.Lopez, D.V.Nanopoulos, G.T.Park, and A.Zichichi","New Precision Electroweak Tests of SU(5) x U(1) Supergravity","LaTeX, 11 Pages+4 Figures(not included), the figures available upon
+  request as an uuencoded file(0.4MB) or 4 PS files from park@tac.harc.edu,
+  CERN-TH.7078/93, CTP-TAMU-68/93, ACT-24/93","Phys.Rev.D49:4835-4841,1994","10.1103/PhysRevD.49.4835",,"hep-ph",,"  We explore the one-loop electroweak radiative corrections in $SU(5)\times
+U(1)$ supergravity via explicit calculation of vacuum-polarization and
+vertex-correction contributions to the $\epsilon_1$ and $\epsilon_b$
+parameters. Experimentally, these parameters are obtained from a global fit to
+the set of observables $\Gamma_{l}, \Gamma_{b}, A^{l}_{FB}$, and $M_W/M_Z$. We
+include $q^2$-dependent effects, which induce a large systematic negative shift
+on $\epsilon_{1}$ for light chargino masses ($m_{\chi^\pm_1}\lsim70\GeV$). The
+(non-oblique) supersymmetric vertex corrections to $\Zbb$, which define the
+$\epsilon_b$ parameter, show a significant positive shift for light chargino
+masses, which for $\tan\beta\approx2$ can be nearly compensated by a negative
+shift from the charged Higgs contribution. We conclude that at the 90\%CL, for
+$m_t\lsim160\GeV$ the present experimental values of $\epsilon_1$ and
+$\epsilon_b$ do not constrain in any way $SU(5)\times U(1)$ supergravity in
+both no-scale and dilaton scenarios. On the other hand, for $m_t\gsim160\GeV$
+the constraints on the parameter space become increasingly stricter. We
+demonstrate this trend with a study of the $m_t=170\GeV$ case, where only a
+small region of parameter space, with $\tan\beta\gsim4$, remains allowed and
+corresponds to light chargino masses ($m_{\chi^\pm_1}\lsim70\GeV$). Thus
+$SU(5)\times U(1)$ supergravity combined with high-precision LEP data would
+suggest the presence of light charginos if the top quark is not detected at the
+Tevatron.
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 17:32:22 GMT""}]","2009-08-25"
+"hep-ph/9311278","Rudnei De Oliveira Ramos","M. Gleiser and R. O. Ramos","Microphysical Approach to Nonequilibrium Dynamics of Quantum Fields","30 pages, LaTex (uses RevTex 3.0), DART-HEP-93/06","Phys.Rev. D50 (1994) 2441-2455","10.1103/PhysRevD.50.2441",,"hep-ph gr-qc hep-th",,"  We examine the nonequilibrium dynamics of a self-interacting $\lambda\phi^4$
+scalar field theory. Using a real time formulation of finite temperature field
+theory we derive, up to two loops and $O(\lambda^2)$, the effective equation of
+motion describing the approach to equilibrium. We present a detailed analysis
+of the approximations used in order to obtain a Langevin-like equation of
+motion, in which the noise and dissipation terms associated with quantum
+fluctuations obey a fluctuation-dissipation relation. We show that, in general,
+the noise is colored (time-dependent) and multiplicative (couples nonlinearly
+to the field), even though it is still Gaussian distributed. The noise becomes
+white in the infinite temperature limit. We also address the effect of
+couplings to other fields, which we assume play the r\^ole of the thermal bath,
+in the effective equation of motion for $\phi$. In particular, we obtain the
+fluctuation and noise terms due to a quadratic coupling to another scalar
+field.
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 22:34:12 GMT""}]","2009-10-22"
+"hep-ph/9311279","Aram","Aram Antaramian, Lawrence J. Hall, and Andrija Ra\v{s}in","Hypercharge and the Cosmological Baryon Asymmetry","12 pages plus 1 Postscript figure available upon request. LBL 34827","Phys.Rev. D49 (1994) 3881-3885","10.1103/PhysRevD.49.3881",,"hep-ph",,"  Stringent bounds on baryon and lepton number violating interactions have been
+derived from the requirement that such interactions, together with electroweak
+instantons, do not destroy a cosmological baryon asymmetry produced at an
+extremely high temperature in the big bang. While these bounds apply in
+specific models, we find that they are generically evaded. In particular, the
+only requirement for a theory to avoid these bounds is that it contain charged
+particles which, during a certain cosmological epoch, carry a non-zero
+hypercharge asymmetry. Hypercharge neutrality of the universe then dictates
+that the remaining particles must carry a compensating hypercharge density,
+which is necessarily shared amongst them so as to give a baryon asymmetry.
+Hence the generation of a hypercharge density in a sector of the theory forces
+the universe to have a baryon asymmetry.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 01:12:39 GMT""}]","2009-10-22"
+"hep-ph/9311280",,"Su H. Lee, T. Hatsuda and G. A. Miller","Transverse Quark Distribution in Mesons - QCD Sum Rule Approach -","8 pages, Latex, Univ. of Washington preprint DOE/ER/40427-24-N93","Phys.Rev.Lett. 72 (1994) 2345-2348","10.1103/PhysRevLett.72.2345",,"hep-ph nucl-th",,"  QCD sum rules are used to compute the first few moments of the mesonic quark
+momentum. Transverse, longitudinal and mixed transverse-longitudinal components
+are examined. The transverse size of the pion is shown to be dictated by the
+gluon condensate, even though the mass and the longitudinal distribution are
+dominated by the quark condensate. The implications of our results for color
+transparency physics and finite temperature QCD are discussed.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 00:49:11 GMT""}]","2009-10-22"
+"hep-ph/9311281","David Kaplan","David B. Kaplan and Martin Schmaltz","Flavor Unification and Discrete Nonabelian Symmetries","24 pages, UCSD-PTH-93-30 (uuencoded file; requires epsf.tex,
+  available from this bulletin board)","Phys. Rev. D 49, 3741 (1994)","10.1103/PhysRevD.49.3741",,"hep-ph",,"  Grand unified theories with fermions transforming as irreducible
+representations of a discrete nonabelian flavor symmetry can lead to realistic
+fermion masses, without requiring very small fundamental parameters. We
+construct a specific example of a supersymmetric GUT based on the flavor
+symmetry $\Delta(75)$ --- a subgroup of $SU(3)$ --- which can explain the
+observed quark and lepton masses and mixing angles. The model predicts
+$\tan\beta \simeq 2-5$ and gives a $\tau$ neutrino mass $m_\nu\simeq M_p/G_F
+M_{GUT}^2 = 10$ eV, with other neutrino masses much lighter. Combined
+constraints of light quark masses and perturbative unification place flavor
+symmetry breaking near the GUT scale; it may be possible to probe these
+extremely high energies by continuing the search for flavor changing neutral
+currents.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 06:00:22 GMT""}]","2013-11-13"
+"hep-ph/9311282","Andreas Blumhofer","Andreas Blumhofer","Top Condensation without Fine-Tuning","LMU - 17/93, in LATEX, 12 pages and 3 pages of figures appended in
+  Postscript","Phys.Lett. B320 (1994) 352-358","10.1016/0370-2693(94)90668-8",,"hep-ph",,"  Quadratic divergencies which lead to the usual fine-tuning or hierarchy
+problem are discussed in top condensation models. As in the Standard Model a
+cancellation of quadratic divergencies is not possible without the boson
+contributions in the radiative corrections which are absent in lowest order of
+an $1/N_c$-expansion. To deal with the cancellation of quadratic divergencies
+we propose therefore an expansion in the flavor degrees of freedom. In leading
+order we find the remarkable result that quadratic divergencies automatically
+disappear.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 15:23:32 GMT""}]","2009-10-22"
+"hep-ph/9311283","Robert Peschanski","R. Peschanski","Soft Physics and Intermittency: Open Question(s) in Krakow","12p., Plain Tex file, Saclay-T93/118",,,,"hep-ph",,"  This contribution contains a summary of the Krakow meeting on Soft Physics
+and Fluctuations. It emphasizes both the experimental and the theoretical
+investigations on correlations/fluctuations and intermittency in multi-particle
+processes and discusses of the present status of this concept. A clarification
+of the main open questions in this field of research is now within reach,
+thanks to the studies presented at the meeting. Summary Talk of the Krakow
+Workshop on Multiparticle Physics, May, 4-7, 1993. E-mail contact:
+pesch@amoco.saclay.cea.fr
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 10:17:16 GMT""}]","2007-05-23"
+"hep-ph/9311285","Bruno Ehrnsperger","B. Ehrnsperger, L. Mankiewicz, A. Sch\""afer","OPE analysis for polarized deep inelastic scattering","10 pages, minor modifications, revised version for the journal","Phys.Lett. B323 (1994) 439-445","10.1016/0370-2693(94)91244-0",,"hep-ph",,"  We present an explicit OPE analysis for the first moment of $g_1$ up to order
+$M^2/Q^2$. This result allows to calculate power corrections to the Bjorken and
+Ellis--Jaffe sum rules.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 15:59:03 GMT""},{""version"":""v2"",""created"":""Mon, 2 May 1994 11:01:43 GMT""}]","2009-10-22"
+"hep-th/9311070",,"L.Bonora and C.S.Xiong","The (N,M)-th KdV hierarchy and the associated W algebra","40 pages, LaTeX, SISSA-171/93/EP, BONN-HE-46/93, AS-IPT-49/93","J.Math.Phys. 35 (1994) 5781-5819","10.1063/1.530710",,"hep-th",,"  We discuss a differential integrable hierarchy, which we call the (N, M)$--th
+KdV hierarchy, whose Lax operator is obtained by properly adding $M$
+pseudo--differential terms to the Lax operator of the N--th KdV hierarchy. This
+new hierarchy contains both the higher KdV hierarchy and multi--field
+representation of KP hierarchy as sub--systems and naturally appears in
+multi--matrix models. The N+2M-1 coordinates or fields of this hierarchy
+satisfy two algebras of compatible Poisson brackets which are {\it local} and
+{\it polynomial}. Each Poisson structure generate an extended W_{1+\infty} and
+W_\infty algebra, respectively. We call W(N, M) the generating algebra of the
+extended W_\infty algebra. This algebra, which corresponds with the second
+Poisson structure, shares many features of the usual $W_N$ algebra. We show
+that there exist M distinct reductions of the (N, M)--th KdV hierarchy, which
+are obtained by imposing suitable second class constraints. The most drastic
+reduction corresponds to the (N+M)--th KdV hierarchy. Correspondingly the W(N,
+M) algebra is reduced to the W_{N+M} algebra. We study in detail the
+dispersionless limit of this hierarchy and the relevant reductions.
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 16:48:18 GMT""}]","2009-10-22"
+"hep-th/9311071","Antonio Gabriel Oliveira Moreira","A.Restuccia and J. Stephany","Covariant Quantization Of Green Schwarz Superstring","21 pages","Proceedings of XIV National Meeting of Particles and Fields,
+  Brazil. Ed. Adilson J. Da Silva et al, p. 1-23. Sociedade Brasileira de
+  Fisica. (1994)",,"216-AR-JS","hep-th",,"  We describe a canonical covariant approach to the quantization of the
+Green-Schwarz superstring. The approach is first applied to the canonical
+covariant quantization of the Brink and Schwarz superparticle. The Kallosh
+action is obtained in this case, with the correct BRST cohomology.
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 21:36:34 GMT""}]","2007-05-23"
+"hep-th/9311072","Washington Taylor","D. J. Gross, W. Taylor","Two-dimensional QCD and strings","12 pages, talk presented by W. T. at Strings 1993, May 24-29,
+  Berkeley CA, MIT-CTP-2250, PUPT-1431",,,,"hep-th",,"  A review is given of recent research on two-dimensional gauge theories, with
+particular emphasis on the equivalence between these theories and certain
+string theories with a two-dimensional target space. Some related open problems
+are discussed.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 03:44:27 GMT""}]","2007-05-23"
+"hep-th/9311073",,"D.C.Cabra and C.M.Na\'on","2D Ising Model with a Defect Line","8 pages, report La Plata 93-08","Mod. Phys. Lett. A9 (1994) 2107-2112","10.1142/S0217732394001969",,"hep-th",,"  We study the two-dimensional Ising model with a defect line and evaluate
+multipoint energy correlation functions using non-perturbative
+field-theoretical methods. We also discuss the evaluation of the two spin
+correlator on the defect line.
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 19:08:33 GMT""}]","2015-06-26"
+"nucl-th/9311012","Ruprecht Machleidt","R. Machleidt and G. Q. Li (University of Idaho)","Constraints on the $\pi NN$ Coupling Constant from the $NN$ System","6 pages of LaTeX and 2 figures (paper, available upon request),
+  UI-NTH-9310",,,,"nucl-th",,"  The sensitivity of the deuteron and of $pp$ scattering to the $\pi NN$ and
+$\rho NN$ coupling constants is investigated systematically. We find that the
+deuteron can be described about equally well with either {\it large $\pi$ and
+$\rho$} or {\it small $\pi$ and $\rho$} coupling constants. However, $pp$
+scattering clearly {\it requires} the strong $\rho$, but favors the weak $\pi$
+(particularly, in $^3P_0$ at low energies). This apparent contradiction between
+bound-state and scattering can be resolved by either assuming charge-dependent
+$\pi NN$ coupling constants or by adding a heavy pion to the NN model. In both
+cases, the neutral-pion coupling constant is small ($g^2_{\pi^0}/4\pi= 13.5$).
+","[{""version"":""v1"",""created"":""Thu, 11 Nov 1993 22:10:19 GMT""}]","2009-09-25"
+"patt-sol/9311002","Marco Boiti","M. Boiti, L. Martina and F. Pempinelli (Dipartimento di Fisica
+  dell'Universita` e Sezione INFN)","Multidimensional Localized Solitons",,,,"to be published inn Chaos Solitons & Fractals","patt-sol nlin.PS",,"  Recently it has been discovered that some nonlinear evolution equations in
+2+1 dimensions, which are integrable by the use of the Spectral Transform,
+admit localized (in the space) soliton solutions. This article briefly reviews
+some of the main results obtained in the last five years thanks to the renewed
+interest in soliton theory due to this discovery. The theoretical tools needed
+to understand the unexpected richness of behaviour of multidimensional
+localized solitons during their mutual scattering are furnished. Analogies and
+especially discrepancies with the unidimensional case are stressed.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 08:06:45 GMT""}]","2008-02-03"
+"patt-sol/9311003","Marco Boiti","M. Boiti, F. Fempinelli (Dipartimento di Fisica dell'Universit\`a and
+  Sezione INFN, Lecce, Italy, and A. Pogrebkov, Steklov Mathematical Institute,
+  Moscow, Russia)","Properties Of Solutions Of The Kpi Equation",,,,,"patt-sol nlin.PS",,"  The Kadomtsev--Petviashvili I (KPI) is considered as a useful laboratory for
+experimenting new theoretical tools able to handle the specific features of
+integrable models in $2+1$ dimensions. The linearized version of the KPI
+equation is first considered by solving the initial value problem for different
+classes of initial data. Properties of the solutions in different cases are
+analyzed in details. The obtained results are used as a guideline for studying
+the properties of the solution $u(t,x,y)$ of the Kadomtsev--Petviashvili I
+(KPI) equation with given initial data $u(0,x,y)$ belonging to the Schwartz
+space. The spectral theory associated to KPI is studied in the space of the
+Fourier transform of the solutions. The variables $p=\{p_1,p_2\}$ of the
+Fourier space are shown to be the most convenient spectral variables to use for
+spectral data. Spectral data are shown to decay rapidly at large $p$ but to be
+discontinuous at $p=0$. Direct and inverse problems are solved with special
+attention to the behaviour of all the quantities involved in the neighborhood
+of $t=0$ and $p=0$. It is shown in particular that the solution $u(t,x,y)$ has
+a time derivative discontinuous at $t=0$ and that at any $t\not=0$ it does not
+belong to the Schwartz space no matter how small in norm and rapidly decaying
+at large distances the initial data are chosen.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 08:07:31 GMT""}]","2008-02-03"

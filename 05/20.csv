@@ -1,0 +1,208 @@
+"alg-geom/9305010","Bernd Sturmfels","David Eisenbud and Bernd Sturmfels","Finding Sparse Systems of Parameters","15 pages, plainTEX",,,,"alg-geom math.AC math.AG",,"  For several computational procedures such as finding radicals and Noether
+normalizations, it is important to choose as sparse as possible a system of
+parameters in a polynomial ideal or modulo a polynomial ideal. We describe new
+strategies for these tasks, thus providing solutions to problems (1) and (2)
+posed in [Eisenbud-Huneke-Vasconcelos 1992].
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 12:56:49 GMT""}]","2008-02-03"
+"astro-ph/9305024",,"V.F. Polcaro and R. Viotti","A forgotten episode of the $\eta ~Car$ light curve in 1860-1865","4 pages, 1 figure, Springer-Verlag TEX A&A macro package 1991,
+  IAS/ASPREP-93/1","Astron.Astrophys.274:807-810,1993",,,"astro-ph",,"  We have found previously unreported observations of the galactic Luminous
+Blue Variable $\eta ~Car$ covering the period 1860-1865. Contrary to the
+current belief, these data suggest that the star reached the first magnitude in
+1860-1862, with possible large luminosity fluctuations, followed by a steep
+fading in 1865. A revised historical light curve of this most interesting
+object is given. Paper in press in Astronomy and Astrophysics.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 16:17:51 GMT""}]","2011-05-23"
+"astro-ph/9305025","Xiaoming Fan","D. Tytler, X.-M Fan, V.T. Junkkarinen and R.D. Cohen","Lick Slit Spectra of Thirty-Eight Objective Prism QSO Candidates and Low
+  Metallicity Halo Stars","(Plain Tex, 21 pages, including tables. Send email to
+  'travell_oir%cass.span@sdsc.edu' for 12 pages of figures) To appear in the
+  %%Astronomical Journal, August, 1993","Astron.J. 106 (1993) 426-443","10.1086/116652",,"astro-ph",,"  We present Lick Observatory slit spectra of 38 objects which were claimed to
+have pronounced ultraviolet excess and emission lines by Zhan \& Chen. Most of
+our spectra have FWHM spectral resolutions of about 4~\AA , and relatively high
+S/N of about 10 -- 50, although some have FWHM $\simeq 15$~\AA ~or lower S/N.
+We find eleven QSOs, four galaxies at $z \simeq 0.1$, twenty-two stars and one
+unidentified object with a low S/N spectrum. Six of the QSOs show absorption
+systems, including Q0000+027A with a relatively strong associated C~IV
+absorption system, and Q0008+008 (V$\simeq 18.9$) with a damped Ly$\alpha $
+system with an H~I column density of $10^{21}$ cm$^{-2}$. The stars include a
+wide variety of spectral types. There is one new DA4 white dwarf at 170~pc, one
+sdB at 14~kpc, and three M stars. The rest are of types F, G and K. We have
+measured the equivalent widths of the Ca~II~K line, the G-band and the Balmer
+lines in ten stars with the best spectra, and we derive metallicities. Seven of
+them are in the range $-2.5 \leq$~[Fe/H]~$\leq -1.7$, while the others are less
+metal poor. If the stars are dwarfs, then they are at distances of 1 to 7~kpc,
+but if they are giants, typical distances will be about 10~kpc.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 22:30:23 GMT""}]","2009-10-22"
+"cond-mat/9305023","Alan Middleton","O. Narayan and A. Alan Middleton","Avalanches and the Renormalization Group for Pinned Charge-Density Waves","29 pages, 11 postscript figures included, REVTEX v3.0 (dvi and PS
+  files also available by anonymous ftp from external.nj.nec.com in directory
+  /pub/alan/cdwfigs)",,"10.1103/PhysRevB.49.244",,"cond-mat",,"  The critical behavior of charge-density waves (CDWs) in the pinned phase is
+studied for applied fields increasing toward the threshold field, using
+recently developed renormalization group techniques and simulations of
+automaton models. Despite the existence of many metastable states in the pinned
+state of the CDW, the renormalization group treatment can be used successfully
+to find the divergences in the polarization and the correlation length, and, to
+first order in an $\epsilon = 4-d$ expansion, the diverging time scale. The
+automaton models studied are a charge-density wave model and a ``sandpile''
+model with periodic boundary conditions; these models are found to have the
+same critical behavior, associated with diverging avalanche sizes. The
+numerical results for the polarization and the diverging length and time scales
+in dimensions $d=2,3$ are in agreement with the analytical treatment. These
+results clarify the connections between the behaviour above and below
+threshold: the characteristic correlation lengths on both sides of the
+transition diverge with different exponents. The scaling of the distribution of
+avalanches on the approach to threshold is found to be different for automaton
+and continuous-variable models.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 16:05:11 GMT""}]","2009-10-22"
+"hep-lat/9305015",,"Jos\'e A. Cuesta, Froil\'an C. Mart\'inez, Juan M. Molera, and Angel
+  S\'anchez Escuela (Polit\'ecnica Superior Universidad Carlos III de Madrid,
+  Avda. Mediterr\'aneo 20, E-28913 Legan\'es, Madrid, Spain)","Phase Transitions in Two-Dimensional Traffic Flow Models","RevTeX 3.0 file. Figures available upon request to e-address
+  cuesta@ing.uc3m.es (or 'dopico' or 'molera' or 'anxo', same node)",,"10.1103/PhysRevE.48.R4175","MA/UC3M/4/93","hep-lat cond-mat",,"  We introduce two simple two-dimensional lattice models to study traffic flow
+in cities. We have found that a few basic elements give rise to the
+characteristic phase diagram of a first-order phase transition from a freely
+moving phase to a jammed state, with a critical point. The jammed phase
+presents new transitions corresponding to structural transformations of the
+jam. We discuss their relevance in the infinite size limit.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 07:57:27 GMT""}]","2016-08-14"
+"hep-lat/9305016",,"W.Janke and T.Sauer","Multicanonical Multigrid Monte Carlo","12 pages LaTex, 1 PS figure appended. FU-Berlin preprint FUB-HEP 9/93","Phys.Rev.E49:3475-3479,1994","10.1103/PhysRevE.49.3475",,"hep-lat",,"  To further improve the performance of Monte Carlo simulations of first-order
+phase transitions we propose to combine the multicanonical approach with
+multigrid techniques. We report tests of this proposition for the
+$d$-dimensional $\Phi^4$ field theory in two different situations. First, we
+study quantum tunneling for $d = 1$ in the continuum limit, and second, we
+investigate first-order phase transitions for $d = 2$ in the infinite volume
+limit. Compared with standard multicanonical simulations we obtain improvement
+factors of several resp. of about one order of magnitude.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 12:41:22 GMT""}]","2008-11-26"
+"hep-lat/9305017","Carlos E. Piedrafita","V. Azcoiti, X.Q. Luo, C.E. Piedrafita, G. DiCarlo, A.F. Grillo and A.
+  Galante","Fermionic effective action and the pahse estructure of non compact
+  quantum electrodynamics in 2+1 dimensions","12 pags + 1 table + 5 figs; Ref: DFTUZ 93.08","Phys.Lett. B313 (1993) 180-186","10.1016/0370-2693(93)91209-6",,"hep-lat",,"  We study the phase diagram of non compact $QED_3$ using the microcanonical
+fermionic average method described elsewhere. We present evidence for a
+continuous phase transition line in the $\beta, N$ plane, extending down to
+arbitrarily small flavour number $N$.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 12:39:09 GMT""}]","2009-10-22"
+"hep-ph/9305287","Geert Jan van Oldenborgh","Frank Cuypers, Geert Jan van Oldenborgh and Reinhold R\""uckl","Supersymmetric Signals in $e^-e^-$ Collisions","18 pages including 8 figures, included as uufiled .ps files. LaTeX
+  with axodraw.sty for Feynman graphs, epsf.sty for figures; the texfile and
+  complete PSfile are available via ftp from pss058.psi.ch. CERN-TH.6807/93,
+  MPI-Ph/93-28, PSI-93-11","Nucl.Phys. B409 (1993) 128-143","10.1016/0550-3213(93)90449-Y",,"hep-ph",,"  We consider the production and decay of selectrons and charginos in $e^-e^-$
+collisions. The advantage over usual $e^+e^-$ collisions is the very low level
+of standard model backgrounds which should make the discovery of selectrons or
+charginos relatively straightforward. The use of polarized beams provides an
+additional powerful tool to determine the supersymmetry parameters.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 16:16:52 GMT""}]","2009-10-22"
+"hep-ph/9305288","Mike Berger","V. Barger, M. S. Berger, P. Ohmann, and R.J.N. Phillips","Phenomenological Implications of the m_t RGE Fixed Point for SUSY Higgs
+  Boson Searches","(Talk given at the Hawaii LCWS VB), 4 pages + 4 EPS figures included
+  (uuencoded), MAD/PH/760","Phys. Lett. B314 (1993) 351","10.1016/0370-2693(93)91248-L",,"hep-ph",,"  In minimal SUSY-GUT models with $M_{SUSY}\alt 1$ TeV, the renormalization
+group equations have a solution dominated by the infrared fixed point of the
+top Yukawa coupling. This fixed point predicts $m_t\simeq (200\; {\rm GeV})\sin
+\beta $; combined with the LEP results it excludes $m_t\alt 130$ GeV. For $m_t$
+in the range 130--160 GeV, it predicts that the lightest scalar $h$ has mass
+60--85 GeV (detectable at LEP\,II). At SSC/LHC, each of the five scalars $h$,
+$H$, $A$, $H^{\pm }$ may be detectable, but not all of them together; in one
+parameter region none would be detectable.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 17:08:14 GMT""}]","2009-10-22"
+"hep-ph/9305289",,"Lisa Randall and Raman Sundrum","$b \rightarrow s \gamma$ and $B_s \rightarrow \mu^+ \mu^-$ in Extended
+  Technicolor Models","15 pages, 1 figure (available upon request), MIT-CTP-2211, LBL-34110,
+  UCB-PTH-93/17","Phys.Lett.B312:148-154,1993","10.1016/0370-2693(93)90503-A",,"hep-ph",,"  The rates of the rare flavor-changing processes, $b \rightarrow s \gamma$ and
+$B_s \rightarrow \mu^+ \mu^-$ are estimated in extended technicolor models with
+and without a GIM mechanism. We find the $b \rightarrow s \gamma$ rate in ETC
+models with a GIM mechanism to be at most slightly larger than the standard
+model rate, whereas there is no significant extra model-independent
+contribution in other ETC scenarios.
+  In the case of $B_s \rightarrow \mu^+ \mu^-$, ETC models with a GIM mechanism
+can yield a rate up to two orders of magnitude bigger than that of the standard
+model, whereas generic ETC scenarios are likely to give a rate which is about
+an order of magnitude bigger than that of the standard model.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 18:49:06 GMT""}]","2009-09-15"
+"hep-ph/9305290",,"Andy Acker, Hisashi Kikuchi, Ernest Ma and Utpal Sarkar","CP Violation and Leptogenesis","8 pages LaTeX, UCRHEP-T109","Phys.Rev.D48:5006-5008,1993","10.1103/PhysRevD.48.5006",,"hep-ph",,"  Recently a model of chaotic inflation was proposed, where the right handed
+sneutrinos drive the baryogenesis. We study some of the details of the model,
+particularly the aspect of CP violation, and determine the number of right
+handed sneutrinos required for the viability of such models.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 21:42:47 GMT""}]","2010-11-01"
+"hep-ph/9305291","Ian Kogan","Ian I. Kogan","Two Dimensional Field Theory Description of Disoriented Chiral
+  Condensate","10 pages, preprint PUPT-1401, May 1993, plain LateX","Phys.Rev. D48 (1993) 3971-3975","10.1103/PhysRevD.48.R3971",,"hep-ph hep-th",,"  We consider the effective $1+1$-dimensional chiral theory describing
+fluctuations of the order parameter of the Disoriented Chiral Condensate (DCC)
+which can be formed in the central rapidity region in a relativistic
+nucleus-nucleus or nucleon-nucleon collisions at high energy. Using
+$1+1$-dimensional reduction of QCD at high energies and assuming spin
+polarization of DDC one can find the Wess-Zumino-Novikov-Witten (WZNW) model at
+level $k=3$ as the effective chiral theory for the one-dimensional DDC. Some
+possible phenomenological consequences are briefly discussed.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 01:04:15 GMT""}]","2016-09-01"
+"hep-th/9305089",,"Ramzi R. Khuri","Classical String Solitons","10 pages",,,,"hep-th",,"  We discuss some recent work in the field of classical solitonic solutions in
+string theory. In particular, we construct instanton and monopole solutions and
+discuss the dynamics of string-like solitons. Some of the motivation behind
+this work is that instantons may provide a nonperturbative understanding of the
+vacuum structure of string theory, while monopoles may appear in string
+predictions for grand unification. The string-like solitons represent extended
+states of fundamental strings. The essential role of supersymmetry in both the
+saturation of the Bogomol'nyi bound and in the cancellation of higher order
+corrections is emphasized. (Talk given at the International Workshop: ``Recent
+Advances in the Superworld'', Houston Advanced Research Center, The Woodlands,
+TX, April 14-16, 1993.)
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 16:44:31 GMT""}]","2007-05-23"
+"hep-th/9305090","Anton Gerasimov","A. Gerasimov","Localization in GWZW and Verlinde formula",,,,"UUITP 16/1993","hep-th",,"  Gauged Wess-Zumino-Witten theory for compact groups is considered. It is
+shown that this theory has fermionic BRST-like symmetry and may be exactly
+solved using localization approach. As an example we calculate functional
+integral for the case of SU(2) group on the arbitrary Riemann surface. The
+answer is the particular case of Verlinde formula for the number of conformal
+blocks.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 21:34:29 GMT""}]","2007-05-23"
+"hep-th/9305091","Peter Freund","Peter G. O. Freund and Anton V. Zabrodin","The Spectral Problem for the q-Knizhnik-Zamolodchikov Equation","11 pages","Phys.Lett. B311 (1993) 103-109","10.1016/0370-2693(93)90541-O",,"hep-th",,"  We analyse the spectral problem for the q-Knizhnik-Zamolodchikov equations
+for $U_q(\widehat{sl_2}) (0 < q \leq 1)$ at level zero. The case of 2-point
+functions in the fundamental representation is studied in detail. The
+scattering states are found explicitly in terms of continuous q-Jacobi
+polynomials. The corresponding S-matrix is shown to coincide, up to a trivial
+factor, with the kink-antikink S-matrix in the spin-1/2 XXZ antiferromagnet.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 00:22:48 GMT""}]","2009-10-22"
+"hep-th/9305092",,"Nikolaos Kalogeropoulos","Comments on the Gribov Ambiguity","13 pages, SU-HEP-4241-531, LaTeX","J.Math.Phys. 35 (1994) 587-595","10.1063/1.530889",,"hep-th",,"  We discuss the existence of Gribov ambiguities in $SU(m)\times U(1)$ gauge
+theories over the $n-$spheres. We achieve our goal by showing that there is
+exactly one conjugacy class of groups of gauge transformations for the theories
+given above. This implies that these transformation groups are conjugate to the
+ones of the trivial $SU(m)\times U(1)$ fiber bundles over the $n-$spheres. By
+using properties of the space of maps $Map_{\ast}(S^n,G)$ where $G$ is one of
+$U(1)$, $SU(m)$ we are able to determine the homotopy type of the groups of
+gauge transformations in terms of the homotopy groups of $G$. The
+non-triviality of these homotopy groups gives the desired result.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 04:18:00 GMT""}]","2009-10-22"
+"hep-th/9305093","Keith R. Dienes","Philip C. Argyres and Keith R. Dienes","Central Charge Reduction and Spacetime Statistics in the Fractional
+  Superstring","11 pages (LaTeX), CLNS 92/1168, McGill/92-41 (minor typos corrected)","Phys.Rev.Lett. 71 (1993) 819-822","10.1103/PhysRevLett.71.819",,"hep-th",,"  Fractional superstrings in the tensor-product formulation experience
+``internal projections'' which reduce their effective central charges. Simple
+expressions for the characters of the resulting effective worldsheet theory are
+found. All states in the effective theory can be consistently assigned definite
+spacetime statistics. The projection to the effective theory is shown to be
+described by the action of a dimension-three current in the original
+tensor-product theory.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 07:43:17 GMT""},{""version"":""v2"",""created"":""Wed, 30 Jun 1993 04:26:46 GMT""}]","2016-09-06"
+"hep-th/9305094","Keith R. Dienes","Keith R. Dienes","The Worldsheet Conformal Field Theory of the Fractional Superstring","56 pages (LaTeX), McGill/93-01. (discussion clarified in places, but
+  results unchanged)","Nucl.Phys. B413 (1994) 103-161","10.1016/0550-3213(94)90616-5",,"hep-th",,"  Two of the important unresolved issues concerning fractional superstrings
+have been the appearance of new massive sectors whose spacetime statistics
+properties are unclear, and the appearance of new types of ``internal
+projections'' which alter or deform the worldsheet conformal field theory in a
+highly non-trivial manner. In this paper we provide a systematic analysis of
+these two connected issues, and explicitly map out the effective
+post-projection worldsheet theories for each of the fractional-superstring
+sectors. In this way we determine their central charges, highest weights,
+fusion rules, and characters, and find that these theories are isomorphic to
+those of free worldsheet bosons and fermions.
+  We also analyze the recently-discovered parafermionic ``twist current'' which
+has been shown to play an important role in reorganizing the
+fractional-superstring Fock space, and find that this current can be expressed
+directly in terms of the primary fields of the post-projection theory. This
+thereby enables us to deduce some of the spacetime statistics properties of the
+surviving states.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 07:45:10 GMT""},{""version"":""v2"",""created"":""Wed, 30 Jun 1993 05:02:17 GMT""}]","2009-10-22"
+"nucl-th/9305015","B. K. Agrawala","B. K. Agrawal and A. Ansari","Temperature induced alignment in hot rotating nuclei","preprint number IP/BBSR/93-26, May'93,9 pages, figures can be
+  obtained by requesting to bijay@iopb.ernet.in",,"10.1103/PhysRevC.50.509",,"nucl-th",,"  Employing a cranking Hamiltonian, in the static path approximation to the
+partition function, we have studied the behaviour of the moment of inertia of
+$^{64}Zn$ at a few values of temperatures as a function of the rotation
+frequency. At a low temperature T = 0.5 MeV and J=16 rotational alignment of
+$0g_{9/2}$ orbitals takes place. But at a high temperature T = 2.0 MeV about 40
+- 45$\%$ of all the angular momenta are generated by the alignment of the same
+orbitals. This should imply a decrease in collectivity for all the spins at
+high temperatures.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 08:54:14 GMT""}]","2009-10-22"
+"solv-int/9305002","Jeremy Schiff","Jeremy Schiff","B\""acklund Transformations of MKdV and Painlev\'e Equations","8 pages, plain tex",,"10.1088/0951-7715/7/1/015","IASSNS-HEP-93/9","solv-int nlin.SI",,"  For $N\ge 3$ there are $S_N$ and $D_N$ actions on the space of solutions of
+the first nontrivial equation in the $SL(N) MKdV hierarchy, generalizing the
+two $Z_2$ actions on the space of solutions of the standard MKdV equation.
+These actions survive scaling reduction, and give rise to transformation groups
+for certain (systems of) ODEs, including the second, fourth and fifth
+Painlev\'e equations.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 19:07:45 GMT""}]","2009-10-22"

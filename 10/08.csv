@@ -1,0 +1,359 @@
+"alg-geom/9310005","Subhashis Nag","Subhashis Nag and Dennis Sullivan","Teichm\""uller Theory and the Universal Period Mapping via Quantum
+  Calculus and the $H^{1/2}$ Space on the Circle","39 pages (TEX)",,,,"alg-geom funct-an hep-th math.AG math.FA",,"  The Universal Teichm\""uller Space, $T(1)$, is a universal parameter space for
+all Riemann surfaces. In earlier work of the first author it was shown that one
+can canonically associate infinite- dimensional period matrices to the
+coadjoint orbit manifold $Diff(S^1)/Mobius(S^1)$ -- which resides within $T(1)$
+as the (Kirillov-Kostant) submanifold of ``smooth points'' of $T(1)$. We now
+extend that period mapping $\Pi$ to the entire Universal Teichm\""uller space
+utilizing the theory of the Sobolev space $H^{1/2}(S^1)$. $\Pi$ is an
+equivariant injective holomorphic immersion of $T(1)$ into Universal Siegel
+Space, and we describe the Schottky locus utilizing Connes' ``quantum
+calculus''. There are connections to string theory. Universal Teichm\""uller
+Space contains also the separable complex submanifold $T(H_\infty)$ -- the
+Teichm\""uller space of the universal hyperbolic lamination. Genus-independent
+constructions like the universal period mapping proceed naturally to live on
+this completion of the classical Teichm\""uller spaces. We show that
+$T(H_\infty)$ carries a natural convergent Weil-Petersson pairing.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 17:38:06 GMT""},{""version"":""v2"",""created"":""Fri, 8 Oct 1993 10:34:05 GMT""}]","2008-02-03"
+"alg-geom/9310006","Rick Miranda","Rick Miranda and Peter F. Stiller","Torsion Sections of Elliptic Surfaces","13 pages, AMS-LaTeX",,,,"alg-geom math.AG",,"  Given a torsion section of a semistable elliptic surface, we prove
+equidistribution results for the components of singular fibers which are hit by
+the section, and for the root of unity (identifying the zero component with
+${\Bbb C}$) which is hit by the section in case the section hits the zero
+component.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 16:21:45 GMT""}]","2008-02-03"
+"cond-mat/9310012",,"E. Brezin and A. Zee","Correlation Functions in Disordered Systems","19 pages, figures not included (available on request), Tex,
+  NSF-ITP-93-124",,"10.1103/PhysRevE.49.2588",,"cond-mat",,"  {Recently, we found that the correlation between the eigenvalues of random
+hermitean matrices exhibits universal behavior. Here we study this universal
+behavior and develop a diagrammatic approach which enables us to extend our
+previous work to the case in which the random matrix evolves in time or varies
+as some external parameters vary. We compute the current-current correlation
+function, discuss various generalizations, and compare our work with the work
+of other authors. We study the distribution of eigenvalues of Hamiltonians
+consisting of a sum of a deterministic term and a random term. The correlation
+between the eigenvalues when the deterministic term is varied is calculated.}
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 20:34:00 GMT""}]","2009-10-22"
+"cond-mat/9310013","John Cardy","John Cardy","Mean Area of Self-Avoiding Loops","12 pages, plain TeX, (one TeX macro omission corrected)",,"10.1103/PhysRevLett.72.1580","OUTP-93-??S","cond-mat hep-th",,"  The mean area of two-dimensional unpressurised vesicles, or self-avoiding
+loops of fixed length $N$, behaves for large $N$ as $A_0 N^{3/2}$, while their
+mean square radius of gyration behaves as $R^2_0 N^{3/2}$. The amplitude ratio
+$A_0/R_0^2$ is computed exactly and found to equal $4\pi/5$. The physics of the
+pressurised case, both in the inflated and collapsed phases, may be usefully
+related to that of a complex O(n) field theory coupled to a U(1) gauge field,
+in the limit $n \to 0$.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 11:09:42 GMT""},{""version"":""v2"",""created"":""Mon, 11 Oct 1993 08:54:14 GMT""}]","2009-10-22"
+"cond-mat/9310014","Ralf Bulla","R. Bulla, J. Keller, T. Pruschke","Functional Integral Approach to the Single Impurity Anderson Model","11 pages, LaTeX, figures upon request, preprint No. 93/10/1",,"10.1007/BF01307671",,"cond-mat",,"  Recently, a functional integral representation was proposed by Weller
+(Weller, W.: phys.~stat.~sol.~(b) {\bf 162}, 251 (1990)), in which the
+fermionic fields strictly satisfy the constraint of no double occupancy at each
+lattice site. This is achieved by introducing spin dependent Bose fields. The
+functional integral method is applied to the single impurity Anderson model
+both in the Kondo and mixed-valence regime. The f-electron Green's function and
+susceptibility are calculated using an Ising-like representation for the Bose
+fields. We discuss the difficulty to extract a spectral function from the
+knowledge of the imaginary time Green's function. The results are compared with
+NCA calculations.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 11:24:23 GMT""}]","2009-10-22"
+"gr-qc/9310014",,"J.E.Nelson","The Constraints of 2+1 Quantum Gravity","14 pages, plain TEX, no figures, DFTT 53/93",,,,"gr-qc hep-th",,"  To appear in proceedings of II Workshop on ``Constraints Theory and
+Quantisation Methods''Montepulciano (Siena) 1993}
+  General discussion of the constraints of 2+1 gravity, with emphasis on two
+approaches, namely the second order and first order formalisms, and comparison
+with the four dimensional theory wherever possible. Introduction to an operator
+algebra approach that has been developed in the last few years in collaboration
+with T.Regge, and discussion of the quantisation of the g=1 case.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 17:30:19 GMT""}]","2007-05-23"
+"gr-qc/9310015","K. Maeda","K.Maeda, T.Tachizawa, T.Torii and T.Maki","Stability of Non-Abelian Black Holes","4 Figures to be sent on request,8 pages, WU-AP/33/93","Phys.Rev.Lett. 72 (1994) 450-453","10.1103/PhysRevLett.72.450",,"gr-qc hep-th",,"  Two types of self-gravitating particle solutions found in several theories
+with non-Abelian fields are smoothly connected by a family of non-trivial black
+holes. There exists a maximum point of the black hole entropy, where the
+stability of solutions changes. This criterion is universal, and the changes in
+stability follow from a catastrophe-theoretic analysis of the potential
+function defined by black hole entropy.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 03:15:10 GMT""}]","2009-10-22"
+"gr-qc/9310016",,"J.W. Barrett and T.J. Foxon","Semi-Classical Limits of Simplicial Quantum Gravity","14 pages in Plain TeX, (figures available on request), DAMTP-R93/26","Class.Quant.Grav.11:543-556,1994","10.1088/0264-9381/11/3/009",,"gr-qc hep-th",,"  We consider the simplicial state-sum model of Ponzano and Regge as a path
+integral for quantum gravity in three dimensions.
+  We examine the Lorentzian geometry of a single 3-simplex and of a simplicial
+manifold, and interpret an asymptotic formula for $6j$-symbols in terms of this
+geometry. This extends Ponzano and Regge's similar interpretation for Euclidean
+geometry.
+  We give a geometric interpretation of the stationary points of this
+state-sum, by showing that, at these points, the simplicial manifold may be
+mapped locally into flat Lorentzian or Euclidean space. This lends weight to
+the interpretation of the state-sum as a path integral, which has solutions
+corresponding to both Lorentzian and Euclidean gravity in three dimensions.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 12:11:36 GMT""}]","2010-04-06"
+"hep-lat/9310008","Pavlos Vranas","K.M. Bitar and P.M. Vranas","The Nambu--Jona-Lasinio Model of QCD on the Lattice","10 pages, LaTex file. FSU-SCRI-93-127","Phys.Lett.B327:101-106,1994","10.1016/0370-2693(94)91536-9",,"hep-lat hep-ph",,"  In an effort to investigate some of the low energy properties of QCD, in
+particular those related to chiral symmetry breaking, as well as to obtain
+insights on the behavior of an interacting theory of fermions on the lattice,
+the two flavor Nambu--Jona-Lasinio model with $SU(2) \times SU(2)$ chiral
+symmetry is studied on the four--dimensional hypercubic lattice using large $N$
+techniques and numerical simulations. Naive and Wilson fermions are considered
+and transparent results are obtained regarding the following: the scalar and
+pseudoscalar spectrum, the approach to the continuum and chiral limits, the
+size of the $1/N$ corrections, and the effects of the zero momentum fermionic
+modes on finite lattices. Also, some interesting observations are made by
+viewing the model as an embedding theory of the Higgs sector. Note: The full ps
+file of this preprint is also available via anonymous ftp to ftp.scri.fsu.edu.
+To get the ps file, ftp to this address and use for username ""anonymous"" and
+for password your name. The file is in the directory pub/vranas (to go to that
+directory type: cd pub/vranas) and is called NJL.ps (to get it type: get
+NJL.ps)
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 17:59:06 GMT""}]","2011-07-19"
+"hep-lat/9310009","Don Weingarten","F. Butler, H. Chen, J. Sexton, A. Vaccarino, and D. Weingarten","Meson Decay Constants from the Valence Approximation to Lattice QCD","uufiles encoded copy of 40 page Latex article, including 14 figures
+  in Postscript. The long version of hep-lat/9302012, IBM/HET 93-3","Nucl.Phys. B421 (1994) 217-240","10.1016/0550-3213(94)90232-1",,"hep-lat",,"  We evaluate $f_{\pi}/ m_{\rho}$, $f_K/ m_{\rho}$, $1/f_{\rho}$, and $
+m_{\phi}/(f_{\phi} m_{\rho})$, extrapolated to physical quark mass, zero
+lattice spacing and infinite volume, for lattice QCD with Wilson quarks in the
+valence (quenched) approximation. The predicted ratios differ from experiment
+by amounts ranging from 12\% to 17\% equivalent to between 0.9 and 2.8 times
+the corresponding statistical uncertainties.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 21:34:17 GMT""}]","2009-10-22"
+"hep-ph/9310242","""V. A."" Khoze","Torbj\""orn Sj\""ostrand and Valery Khoze","On Colour Rearrangement in Hadronic W$^+$W$^-$ Events","45 pages, 19 Figures, Latex File, Durham Preprint DTP/93/74, CERN
+  Preprint CERN-TH.7011/93","Z.Phys.C62:281-310,1994","10.1007/BF01560244",,"hep-ph",,"  We discuss the possibility of colour rearrangement in $\ee \to \W^+ \W^- \to
+\q_1 \qbar_2 \q_3 \qbar_4$ events, i.e.\ that the original colour singlets
+$\q_1 \qbar_2$ and $\q_3 \qbar_4$ may be transmuted, for instance, into new
+singlets $\q_1 \qbar_4$ and $\q_3 \qbar_2$. The effects on event properties
+could be quite large if such a rearrangement would occur instantaneously, so
+that gluon emission would be restricted to each of the new singlets separately.
+We argue that such a scenario is unlikely for two reasons. Firstly, the $\W^+$
+and $\W^-$ usually decay at separate times after the $\W^+\W^-$ production,
+which leads to large relative phases for energetic radiation off the two
+constituents of a rearranged system, and a corresponding dampening of the QCD
+cascades. Secondly, within the perturbative scenario the colour transmutation
+appears only in order $\alpha_s^2$ and is colour-suppressed. Colour
+reconnection at longer time scales is quite feasible, however, and may affect
+the fragmentation phase. If so, the nature of non-perturbative QCD can be
+probed in a new way. We formulate several alternative toy models and use these
+to estimate the colour reconnection probability as a function of the event
+kinematics. Possible consequences for LEP~2 events are illustrated, with
+special attention to systematic errors in $\W$ mass determinations.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 16:14:00 GMT""}]","2011-02-15"
+"hep-ph/9310243","Postdoc Its","Xiao-Gang He, J.P. Ma and B. McKellar","CP Violation in Fermion Pair Decays of Neutral Boson Particles","14p, OZ-93/22, UM-93/89, OITS 519","Phys.Rev.D49:4548-4552,1994","10.1103/PhysRevD.49.4548",,"hep-ph",,"  We study CP violation in fermion pair decays of neutral boson particles with
+spin 0 or 1. We study a new asymmetry to measure CP violation in $\eta, K_L
+\rightarrow \mu^+\mu^-$ decays and discuss the possibility of measuring it
+experimentally. For the spin-1 particles case, we study CP violation in the
+decays of $J/\psi$ to $SU(3)$ octet baryon pairs. We show that these decays can
+be used to put stringent constraints on the electric dipole moments of
+$\Lambda$, $\Sigma$ and $\Xi$.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 18:34:14 GMT""}]","2010-11-01"
+"hep-ph/9310244",,"D.A. Morris, T.N. Truong and D. Zappala","Higgs Boson Interference in $\gamma \gamma \rightarrow W^+W^-$","8 pages (LaTeX) + 5 PostScript figures in accompanying file
+  (uuencoded), figures also available by fax upon request to
+  reyes@uclaph.bitnet, UCLA/TEP/93/35","Phys.Lett. B323 (1994) 421-426","10.1016/0370-2693(94)91241-6",,"hep-ph",,"  We study interference effects between resonant and nonresonant amplitudes for
+the $\gamma \gamma \rightarrow W^+ W^-$ process at a backscattered
+photon-photon collider. We show that a Higgs boson with $M_H$ > 200 GeV is
+manifest as a resonant dip in the $W^+W^-$ invariant mass spectrum and we
+investigate its statistical significance.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 21:26:00 GMT""}]","2009-10-22"
+"hep-ph/9310245","Ian Kogan","Ian I. Kogan","Squeezed Quantum State of Disoriented Chiral Condensate","9 pages","JETP Lett. 59 (1994) 307-314",,"PUPT-1424","hep-ph hep-th nucl-th",,"  We consider the quantum state describing the Disoriented Chiral Condensate
+(DCC) which may be produced in high energy collisions. Using the approach
+suggested by Rajagopal and Wilczek to describe the amplification of the long
+wavelength classical pion modes, we consider the quantum-mechanical evolution
+of the initial vacuum state into the final squeezed state describing the DCC.
+The obtained wave function has some interesting properties which are discussed.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 22:06:33 GMT""}]","2016-09-01"
+"hep-ph/9310246",,"JR Forshaw and RG Roberts","Determining the Gluon Distributions in the Proton and Photon from
+  Two-Jet Production at HERA","Rutherford Appleton Laboratory report RAL-93-071 7 pages 3 figs Fig2
+  and Fig3 included as psfiles","Phys.Lett.B319:539-543,1993","10.1016/0370-2693(93)91763-D",,"hep-ph",,"  Two-jet production from the direct photon contribution at HERA is a sensitive
+measure of the small-$x$ gluon in the proton. We propose measurements of ratios
+of the jet cross-sections which will clearly distinguish between gluons with or
+without singular behaviour at small $x$. Furthermore, we show that analogous
+ratio measurements for the resolved photon contribution provide a sensitive way
+of determining the gluon distribution in the photon.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 08:38:00 GMT""}]","2008-11-26"
+"hep-ph/9310247","Nils A. Tornqvist","Nils A. T\""ornqvist","From the Deuteron to Deusons, an Analysis of Deuteronlike Meson-Meson
+  Bound States","24pages in latex, 6 figures (not included), HU-SEFT R 1993-12","Z.Phys.C61:525-537,1994","10.1007/BF01413192",,"hep-ph",,"  A systematic study of possible deuteronlike two-meson bound states, {\it
+deusons}, is presented. Previous arguments that many such bound states may
+exist are elaborated with detailed arguments and numerical calculations
+including, in particular, the tensor potential. In the heavy meson sector
+one-pion exchange alone is strong enough to form at least deuteron-like $B\bar
+B^*$ and $B^*\bar B^*$ composites bound by approximately 50 MeV. Composites of
+$D\bar D^*$ and $D^*\bar D^*$ states bound by pion exchange alone are expected
+near the thresholds, while in the light meson sector one generally needs some
+additional short range attraction to form bound states. The quantum numbers of
+these states are I=0, In $B\bar B^*$ one predictss the states: $\eta_b(\approx
+10545),\ \chi_{b1}(\approx 10562)$, and in $B^*\bar B^*$ one finds the states:
+$\eta_b(\approx 10590),\ \chi_{b0}(\approx 10582),\ h_b(\approx 10608),\
+\chi_{b2}(\approx 10602)$. Near the $D\bar D^*$ threshold the states:
+$\eta_c(\approx 3870),\ \chi_{c0}(\approx 3870)$ are predicted, and near the
+$D^*\bar D^*$ threshold one finds the states: $\chi_{b0}(\approx 4015),\
+\eta_{c}(\approx 4015),\ h_c(\approx 4015),\ \chi_{c2}(\approx 4015)$. Within
+the light meson sector pion exchange gives strong attraction for $P\bar V$ and
+$V\bar V$ systems with quantum numbers where the best non-$q\bar q$ candidates
+exist, although pion exchange alone is not strong enough to support such bound
+states.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 12:16:57 GMT""}]","2009-07-09"
+"hep-ph/9310248","JiangLiu","Jiang Liu and Gino Segr\`e","Unstable particle mixing and CP violation in weak decays","16 pages in LaTeX, UPR-0582T","Phys.Rev.D49:1342-1349,1994","10.1103/PhysRevD.49.1342",,"hep-ph",,"  We discuss unstable particle mixing in CP-violating weak decays. It is shown
+that for a completely degenerate system unstable particle mixing does not
+introduce a CP-violating partial rate difference, and that when the mixings are
+small only the off-diagonal mixings are relevant. Also, in the absence of
+mixing, unstable particle wave function renormalization does not introduce any
+additional effect. An illustrative example is given to heavy scalar decays with
+arbitrary mixing.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 13:45:24 GMT""}]","2010-11-01"
+"hep-ph/9310249",,"Tanguy Altherr","Plasmon Decay: From QED to QCD","6 pages, 2 PostScript figures included (Talk given at the 3rd
+  Workshop on Thermal Field Theories and their Applications, Banff, Canada,
+  August 1993)",,,"CERN preprint CERN-TH-7031/93","hep-ph",,"  Upon using the same theoretical framework, I describe two interesting decay
+processes: the electromagnetic plasmon decay into neutrinos, which can be the
+dominant cooling mechanism for red giants and white dwarfs, and the gluonic
+plasmon decay into quarks, which can be measured in ultra-relativistic
+heavy-ion collisions.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 13:41:01 GMT""}]","2007-05-23"
+"hep-ph/9310250","Carlo Gobbi, Yale","C. Gobbi, F. Iachello and D. Kusnezov","Strong Decays of $Q \bar Q$ Mesons","24 pages (+6 figures, available from the authors), LATEX file, Yale
+  preprint YCTP-N18-93","Phys.Rev. D50 (1994) 2048-2057","10.1103/PhysRevD.50.2048",,"hep-ph",,"  We present a detailed study of the two-body strong decays of light mesons.
+Both the space part and the spin-flavor-color part of the wave functions are
+generated algebraically and closed forms are obtained for all decays.
+Experimental deviations from our systematics are seen to be suggestive of both
+missing mesons and exotic QCD configurations.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 14:08:15 GMT""}]","2009-10-22"
+"hep-ph/9310251",,"P.Colangelo","QCD Calculation of Heavy Meson Semileptonic Transitions","Latex, 12 pages, 2 figures (PostScript files included),
+  BARI-TH/93-152. Talk delivered at the 3rd Workshop on a Tau-Charm Factory,
+  Marbella (Spain) 1-6 June 1993",,,,"hep-ph",,"  I review the QCD sum rules calculations of the form factors governing the
+semileptonic decays of charmed and beauty mesons. In particular, I discuss the
+predicted dependence of the various form factors on $q^2$ and how it can be
+obtained for the form factors of vector and axial currents. In some cases the
+$q^2$ dependence, computed by QCD sum rules, is different from the outcome of
+lattice QCD. A Tau-Charm factory could be an efficient tool to study this
+aspect of the charmed meson transitions.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 15:24:00 GMT""}]","2007-05-23"
+"hep-ph/9310252",,"V.S. Fadin, R. Fiore and A. Quartarolo","Radiative corrections to quark-quark-reggeon vertex in QCD","27 pages+3figures(appended as postscript file), Latex","Phys.Rev. D50 (1994) 2265-2276","10.1103/PhysRevD.50.2265","DFUC October 1993","hep-ph",,"  One loop corrections to the coupling of the reggeized gluon to quarks are
+calculated in QCD. Combining this result with the known corrections to the
+gluon-gluon-reggeon vertex, we check the self-consistency of the representation
+of the amplitudes with gluon quantum numbers and negative signature in the
+$t$-channel in terms of Regge pole contribution.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 09:25:32 GMT""}]","2009-10-22"
+"hep-th/9310040","Washington Taylor","Washington Taylor IV","Coadjoint Orbits and Conformal Field Theory","121 pages (Ph.D. thesis) LBL-34507. Run LaTeX *3* times for t.o.c.
+  (no changes in content -- AMS fonts are replaced by more universal bold fonts
+  and some lines causing problems with non-standard tex versions are fixed.)",,,,"hep-th",,"  This thesis describes a new approach to conformal field theory. This approach
+combines the method of coadjoint orbits with resolutions and chiral vertex
+operators to give a construction of the correlation functions of conformal
+field theories in terms of geometrically defined objects. Explicit formulae are
+given for representations of Virasoro and affine algebras in terms of a local
+gauge choice on the line bundle associated with geometric quantization of a
+given coadjoint orbit; these formulae define a new set of explicit bosonic
+realizations of these algebras. The coadjoint orbit realizations take the form
+of dual Verma modules, making it possible to avoid the technical difficulties
+associated with the two-sided resolutions which arise from Feigin-Fuchs and
+Wakimoto realizations. Formulae are given for screening and intertwining
+operators on the coadjoint orbit representations. Chiral vertex operators
+between Virasoro modules are constructed, and related directly to Virasoro
+algebra generators in certain cases. From the point of view taken in this
+thesis, vertex operators have a geometric interpretation as differential
+operators taking sections of one line bundle to sections of another. A
+suggestion is made that by connecting this description with recent work
+deriving field theory actions from coadjoint orbits, a deeper understanding of
+the geometry of conformal field theory might be achieved.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 17:40:45 GMT""},{""version"":""v2"",""created"":""Mon, 11 Oct 1993 20:00:44 GMT""}]","2008-02-03"
+"hep-th/9310041",,"D.V. Boulatov","Wilson loop on a sphere","10 pages, NBI-HE-93-57","Mod.Phys.Lett. A9 (1994) 365-374","10.1142/S0217732394000381",,"hep-th",,"  We give the formula for a simple Wilson loop on a sphere which is valid for
+an arbitrary QCD$_2$ saddle-point $\rho(x)$: \mbox{$W(A_1,A_2)=\oint
+\frac{dx}{2\pi i} \exp(\int dy \frac{\rho(y)}{y-x}+A_2x)$}. The
+strong-coupling-phase solution is investigated.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 16:14:10 GMT""}]","2009-10-22"
+"hep-th/9310042","Richard Ball","R. D. Ball and R. S. Thorne","Renormalizability of Effective Scalar Field Theory","80 pages, TeX, OUTP-93-23P, CERN-TH.7067/93. Many minor revisions,
+  and several new paragraphs","Annals Phys. 236 (1994) 117-204","10.1006/aphy.1994.1109",,"hep-th hep-ph",,"  We present a comprehensive discussion of the consistency of the effective
+quantum field theory of a single $Z_2$ symmetric scalar field. The theory is
+constructed from a bare Euclidean action which at a scale much greater than the
+particle's mass is constrained only by the most basic requirements; stability,
+finiteness, analyticity, naturalness, and global symmetry. We prove to all
+orders in perturbation theory the boundedness, convergence, and universality of
+the theory at low energy scales, and thus that the theory is perturbatively
+renormalizable in the sense that to a certain precision over a range of such
+scales it depends only on a finite number of parameters. We then demonstrate
+that the effective theory has a well defined unitary and causal analytic
+S--matrix at all energy scales. We also show that redundant terms in the
+Lagrangian may be systematically eliminated by field redefinitions without
+changing the S--matrix, and discuss the extent to which effective field theory
+and analytic S--matrix theory are actually equivalent. All this is achieved by
+a systematic exploitation of Wilson's exact renormalization group flow
+equation, as used by Polchinski in his original proof of the renormalizability
+of conventional $\varphi^4$-theory.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 16:09:22 GMT""},{""version"":""v2"",""created"":""Fri, 5 Nov 1993 15:17:58 GMT""}]","2009-10-22"
+"hep-th/9310045","Osmo Pekonen","Osmo Pekonen","Universal Teichm\""uller space in geometry and physics","25 pages, AMS-Tex","J. Geom. Phys. 15 (1995) 227","10.1016/0393-0440(94)00007-Q",,"hep-th alg-geom math.AG",,"  Lipman Bers' universal Teichm\""uller space, classically denoted by $T(1)$,
+plays a significant role in Teichm\""uller theory, because all the Teichm\""uller
+spaces $T(G)$ of Fuchsian groups $G$ can be embedded into it as complex
+submanifolds. Recently, $T(1)$ has also become an object of intensive study in
+physics, because it is a promising geometric environment for a non-perturbative
+version of bosonic string theory. We provide a non-technical survey of what is
+currently known about the geometry of $T(1)$ and what is conjectured about its
+physical meaning.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 17:40:33 GMT""}]","2009-10-22"
+"hep-th/9310046",,"K. Becker and M. Becker","Interactions in the SL(2,R)/U(1) Black Hole Background","34 pages, CERN-TH.6976/93","Nucl.Phys. B418 (1994) 206-230","10.1016/0550-3213(94)90245-3",,"hep-th",,"  We calculate two- and three-point tachyon amplitudes of the SL(2,R)/U(1)
+two-dimensional Euclidean black hole for spherical topologies in the continuum
+approach proposed by Bershadsky and Kutasov. We find an interesting relation to
+the tachyon scattering amplitudes of standard non-critical string theory.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 17:56:46 GMT""}]","2009-10-22"
+"hep-th/9310047","Youngjai Kiem","Youngjai Kiem","An extension of Birkhoff's theorem to a class of 2-d gravity theories
+  containing black holes","11 pages, PUPT-1423","Phys.Lett.B322:323-330,1994","10.1016/0370-2693(94)91160-6",,"hep-th",,"  A class of 2-dimensional models including 2-d dilaton gravity, spherically
+symmetric reduction of d-dimensional Einstein gravity and other related
+theories are classically analyzed. The general analytic solutions in the
+absence of matter fields other than a U(1) gauge field are obtained under a new
+gauge choice and recast in the conventional conformal gauge. These solutions
+imply that Birkhoff's theorem, originally applied to spherically symmetric 4-d
+Einstein gravity, can be applied to all models we consider. Some issues related
+to the coupling of massless scalar fields and the quantization are briefly
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 18:24:20 GMT""}]","2010-11-01"
+"hep-th/9310048","Adel Khoudeir","C. Aragone & A. Khoudeir","Massive Triadic Chern-Simons Spin-3 Theory","5 pages, SB/F/93-211",,,,"hep-th",,"  We introduce the massive gauge invariant, second order pure spin-3 theory in
+three dimensions. It consists of the addition of the second order gauge
+invariant massless pure spin-3 action with the first order
+topological(generalized) Chern-Simons spin-3 term corrected with lower spin
+auxiliary actions which avoid lower spin ghosts propagation. This second order
+intermediate action completes the catalogue of massive spin-3 actions having
+topological structure. We also consider its spontaneous break down through the
+addition of the inertial spin-3 nontopological Fierz-Pauli mass term. It is
+shown that this non gauge invariant pure spin-3 system is the uniform
+generalization of linearized massive vector Chern-Simons gravity and propagates
+just two spin $3^{\pm}$ excitations having different masses.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 18:58:29 GMT""}]","2007-05-23"
+"hep-th/9310049",,"Jacobus Verbaarschot","Chiral random matrix theory and the spectrum of the Dirac operator near
+  zero virtuality","20 pages + 2 figures, SUNY-NTG-93/40","Acta Phys.Polon.B25:133-149,1994",,,"hep-th hep-ph",,"  We investigate the spectral properties of a random matrix model, which in the
+large $N$ limit, embodies the essentials of the QCD partition function at low
+energy. The exact spectral density and its pair correlation function are
+derived for an arbitrary number of flavors and zero topological charge. Their
+microscopic limit provide the master formulae for sum rules for the inverse
+powers of the eigenvalues of the QCD Dirac operator as recently discussed by
+Leutwyler and Smilga.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 19:48:41 GMT""}]","2011-04-20"
+"hep-th/9310050","M. B. Paranjape","T.Gisiger and M. B. Paranjape","Skyrmion-Skyrmion Scattering","7, UdeM-LPN-TH-93-176",,,,"hep-th nucl-th",,"  We study the scattering of Skyrmions at low energy and large separation using
+the method proposed by Manton of truncation to a finite number of degree
+freedom. We calculate the induced metric on the manifold of the union of
+gradient flow curves, which for large separation, to first non-trivial order is
+parametrised by the variables of the product ansatz.
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 20:18:54 GMT""}]","2007-05-23"
+"hep-th/9310051","K. P. Sankaran","Subhashis Nag","$DIFF(s^1)$, Teichm\""Uller Space and Period Matrices: Canonical Mappings
+  via String Theory","42 pages, TEX",,,,"hep-th",,"  There is a completely natural and intimate relationship between the
+diffeomorphism group of the circle and the Teichm\""uller spaces of Riemann
+surfaces discovered by us in 1988. Such a relationship had been sought-after by
+physicists from conjectures connecting the loop-space approach to string theory
+with the path-integral approach. Precisely, the remarkable homogeneous space
+Diff$(S^1)$/$SL(2,R)$ (which is one of the two possible quantizable coadjoint
+orbits of Diff$(S^1)$), embeds as a complex analytic and K\""ahler submanifold
+of the universal Teichm\""uller space. Furthermore, this very homogeneous space,
+Diff$(S^1)$/$SL(2,R)$, considered by the previous work as a K\""ahler
+submanifold of the universal Teichm\""uller space, allows on it a natural
+holomorphic period mapping, $\Pi$, that generalises the classical map
+associating to a genus $g$ Riemann surface its period matrix. Utilising the
+fact that the group of quasiconformal homeomorphisms of $S^1$ acts
+symplectically on the Sobolev space of order $1/2$ on the circle, we (with
+Dennis Sullivan) have recently extended $\Pi$ to the entire universal
+Teichm\""uller space. All this is related to non-perturbative string theory.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 12:06:22 GMT""}]","2007-05-23"
+"hep-th/9310052",,"M. Cassandro and P. K. Mitter","Renormalization Group Approach to Interacting Crumpled Surfaces: The
+  hierarchical recursion","47 pages in simple Latex, PAR-LPTHE 9346","Nucl.Phys. B422 (1994) 634-676","10.1016/0550-3213(94)90450-2",,"hep-th cond-mat hep-lat",,"  We study the scaling limit of a model of a tethered crumpled D-dimensional
+random surface interacting through an exclusion condition with a fixed impurity
+in d-dimensional Euclidean space by the methods of Wilson's renormalization
+group. In this paper we consider a hierarchical version of the model and we
+prove rigorously the existence of the scaling limit and convergence to a
+non-Gaussian fixed point for $1 \leq D< 2$ and $\epsilon >0$ sufficiently
+small, where $\epsilon = D - (2-D) {d\over 2}$.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 09:44:11 GMT""}]","2009-10-22"
+"hep-th/9310053",,"V.I.Man'ko, G.Marmo, P. Vitale and F.Zaccaria","A generalization of the Jordan-Schwinger map: classical version and its
+  q--deformation","LATEX,21 pages,INFN-NA-IV-93/38,DSF-T-93/38","Int. J. Mod. Phys. A9 (1994) 5541","10.1142/S0217751X94002260",,"hep-th",,"  For all three--dimensional Lie algebras the construction of generators in
+terms of functions on 4-dimensional real phase space is given with a
+realization of the Lie product in terms of Poisson brackets. This is the
+classical Jordan--Schwinger map which is also given for the deformed algebras
+${\cal {SL}}_{q}(2,\R)$, ${\cal E}_{q} (2)$ and ${\cal H}_q(1)$. The ${\cal
+U}_{q}(n)$ algebra is discussed in the same context.
+","[{""version"":""v1"",""created"":""Fri, 8 Oct 1993 15:19:00 GMT""}]","2019-08-17"
+"math/9310214","Stephen Montgomery-Smith","Stephen J. Montgomery-Smith","Comparison of Sums of independent Identically Distributed Random
+  Variables",,"Prob. and Math. Stat. 14, (1993), 281-285",,,"math.FA",,"  Let S_k be the k-th partial sum of Banach space valued independent
+identically distributed random variables. In this paper, we compare the tail
+distribution of ||S_k|| with that of ||S_j||, and deduce some tail distribution
+maximal inequalities.
+  Theorem: There is universal constant c such that for j < k
+  Pr(||S_j|| > t) <= c Pr(||S_k|| > t/c).
+","[{""version"":""v1"",""created"":""Thu, 7 Oct 1993 16:26:34 GMT""},{""version"":""v2"",""created"":""Mon, 6 Dec 1999 15:51:20 GMT""}]","2008-02-03"

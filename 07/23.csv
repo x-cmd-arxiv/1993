@@ -1,0 +1,293 @@
+"astro-ph/9307032","Fred Rasio","D. Lai, F. A. Rasio, and S. L. Shapiro","Equilibrium, Stability and Orbital Evolution of Close Binary Systems","37 pages, plain TeX, postscript figures and tables in separate
+  uufile, IAS AST 93/44","Astrophys.J. 423 (1994) 344","10.1086/173812",,"astro-ph",,"  We present a new analytic study of the equilibrium and stability properties
+of close binary systems containing polytropic components. Our method is based
+on the use of ellipsoidal trial functions in an energy variational principle.
+We consider both synchronized and nonsynchronized systems, constructing the
+compressible generalizations of the classical Darwin and Darwin-Riemann
+configurations. Our method can be applied to a wide variety of binary models
+where the stellar masses, radii, spins, entropies, and polytropic indices are
+all allowed to vary over wide ranges and independently for each component. We
+find that both secular and dynamical instabilities can develop before a Roche
+limit or contact is reached along a sequence of models with decreasing binary
+separation. High incompressibility always makes a given binary system more
+susceptible to these instabilities, but the dependence on the mass ratio is
+more complicated. As simple applications, we construct models of double
+degenerate systems and of low-mass main-sequence-star binaries. We also discuss
+the orbital evolution of close binary systems under the combined influence of
+fluid viscosity and secular angular momentum losses from processes like
+gravitational radiation. We show that the existence of global fluid
+instabilities can have a profound effect on the terminal evolution of
+coalescing binaries. The validity of our analytic solutions is examined by
+means of detailed comparisons with the results of recent numerical fluid
+calculations in three dimensions.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 16:42:28 GMT""}]","2009-10-22"
+"astro-ph/9307033","Ed Bertschinger","Edmund Bertschinger and Bhuvnesh Jain","Gravitational Instability of Cold Matter","23 pages, AAS LaTeX 3.0, postscript with figures available by
+  anonymous ftp to arcturus.mit.edu, revised version of MIT CSR-93-14; ApJ, in
+  press","Astrophys.J. 431 (1994) 486","10.1086/174501",,"astro-ph gr-qc",,"  We solve the nonlinear evolution of pressureless, irrotational density
+fluctuations in a perturbed Robertson-Walker spacetime using a new Lagrangian
+method based on the velocity gradient and gravity gradient tensors. Borrowing
+results from general relativity, we obtain a set of Newtonian ordinary
+differential equations for these quantities following a given mass element.
+Using these Lagrangian fluid equations we prove the following results: (1) The
+spherical tophat perturbation, having zero shear, is the slowest configuration
+to collapse for a given initial density and growth rate. (2) Initial density
+maxima are not generally the sites where collapse first occurs. (3) Initially
+underdense regions may undergo collapse if the shear is not too small. If the
+magnetic part of the Weyl tensor vanishes, the nonlinear evolution is described
+purely locally by our equations; this condition holds for spherical,
+cylindrical, and planar perturbations and may be a good approximation in other
+circumstances. Assuming the vanishing of the magnetic part of the Weyl tensor,
+we compute the exact nonlinear gravitational evolution of cold matter. We find
+that 56\% of initially underdense regions collapse in an Einstein-de Sitter
+universe for a homogeneous and isotropic random field. We also show that, given
+this assumption, the final stage of collapse is generically two-dimensional,
+leading to strongly prolate filaments rather than Zel'dovich pancakes. While
+this result may explain the prevalence of filamentary collapses in N-body
+simulations, it is not true in general, suggesting that the magnetic part of
+the Weyl tensor need not vanish in the Newtonian limit.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 21:50:36 GMT""},{""version"":""v2"",""created"":""Wed, 2 Mar 1994 22:14:28 GMT""}]","2009-10-22"
+"astro-ph/9307034","Ferrara Andrea","Andrea Ferrara & Yuri Shchekinov","Dynamics of Conductive/Cooling Fronts: Cloud Implosion and Thermal
+  Solitons","29 pages, Plain TeX, 14 figures, Space Telescope Preprint Series-No.
+  758",,"10.1086/173339",,"astro-ph",,"  We investigate the evolution of interfaces among phases of the interstellar
+medium with different temperature. It is found that, for some initial
+conditions, the dynamical effects related to conductive fronts are very
+important even if radiation losses, which tend to decelerate the front
+propagation, are taken into account. We have also explored the consequences of
+the inclusion of shear and bulk viscosity, and we have allowed for saturation
+of the kinetic effects. Numerical simulations of a cloud immersed in a hot
+medium have been performed; depending on the ratio of conductive to dynamical
+time, the density is increased by a huge factor and the cloud may become
+optically thick. Clouds that are highly compressed are able to stop the
+evaporation process even if their initial size is smaller than the Field
+length. In addition to the numerical approach, the time dependent evolution has
+been studied also analytically. Simple techniques have been applied to the
+problem in order to study the transition stages to a stationary state. The
+global properties of the solution for static and steady fronts and useful
+relations among the various physical variables are derived; a mechanical
+analogy is often used to clarify the physics of the results. It is demonstrated
+that a class of soliton-like solutions are admitted by the hydrodynamical
+equations appropriate to describe the conduction/cooling fronts (in the
+inviscid case) that do not require a heat flux at the boundaries. Some
+astrophysical consequences are indicated along with some possible applications
+to the structure of the Galactic ISM and to extragalactic objects.
+","[{""version"":""v1"",""created"":""Fri, 23 Jul 1993 12:37:50 GMT""}]","2009-10-22"
+"chao-dyn/9307010","David Egolf","David A. Egolf (Department of Physics and Center for Nonlinear and
+  Complex Systems, Duke University) and Henry S. Greenside (Departments of
+  Physics and Computer Science and Center for Nonlinear and Complex Systems,
+  Duke University)","Dependence of extensive chaos on the spatial correlation length
+  (substantial revision)","14 pages including 3 figures (Postscript files separate from the main
+  text), uses equations.sty and aip.sty macros. Submitted to Nature",,,,"chao-dyn comp-gas nlin.CD nlin.CG nlin.PS patt-sol",,"  We consider spatiotemporal chaotic systems for which spatial correlation
+functions decay substantially over a length scale xi (the spatial correlation
+length) that is small compared to the system size L. Numerical simulations
+suggest that such systems generally will be extensive, with the fractal
+dimension D growing in proportion to the system volume for sufficiently large
+systems (L >> xi). Intuitively, extensive chaos arises because of spatial
+disorder. Subsystems that are sufficiently separated in space should be
+uncorrelated and so contribute to the fractal dimension in proportion to their
+number. We report here the first numerical calculation that examines
+quantitatively how one important characterization of extensive chaos---the
+Lyapunov dimension density---depends on spatial disorder, as measured by the
+spatial correlation length xi. Surprisingly, we find that a representative
+extensively chaotic system does not act dynamically as many weakly interacting
+regions of size xi.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 16:03:53 GMT""},{""version"":""v2"",""created"":""Thu, 11 Nov 1993 01:52:23 GMT""}]","2008-02-03"
+"gr-qc/9307030","Mourad","J.Madore and J. Mourad","A Noncommutative Extension of Gravity","4 pages. Talk delivered at the 'journ\'ees Relativistes 93'","Int.J.Mod.Phys.D3:221-224,1994","10.1142/S0218271894000332",,"gr-qc",,"  The commutative algebra of functions on a manifold is extended to a
+noncommutative algebra by considering its tensor product with the algebra of
+nxn complex matrices. Noncommutative geometry is used to formulate an extension
+of the Einstein-Hilbert action. The result is shown to be equivalent to the
+usual Kaluza-Klein theory with the manifold SUn as an internal space, in a
+truncated approximation.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 16:55:13 GMT""}]","2011-04-20"
+"gr-qc/9307031","Jack Gegenberg","Y. Bi and J. Gegenberg","Loop Variables in Topological Gravity","20 pages, Latex","Class.Quant.Grav.11:883-896,1994","10.1088/0264-9381/11/4/008",,"gr-qc",,"  We examine the relationship between covariant and canonical
+(Ashtekar/Rovelli/Smolin) loop variables in the context of BF type topological
+field theories in 2+1 and 3+1 dimensions, with respective gauge groups SO(2,1)
+and SO(3,1). The latter model can be considered as the simplest topological
+gravity theory in 3+1 dimensions. We carry out the canonical quantization of
+this model in both the connection and loop representations, for the two spatial
+topologies $T^3$ and $S^2\times S^1$.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 17:24:00 GMT""}]","2010-04-06"
+"gr-qc/9307032","Bev Berger","B.K. Berger, V. Moncrief","Numerical Investigation of Cosmological Singularities","37 pp +14 figures (not included, available on request), plain TeX","Phys.Rev. D48 (1993) 4676-4687","10.1103/PhysRevD.48.4676",,"gr-qc",,"  Although cosmological solutions to Einstein's equations are known to be
+generically singular, little is known about the nature of singularities in
+typical spacetimes. It is shown here how the operator splitting used in a
+particular symplectic numerical integration scheme fits naturally into the
+Einstein equations for a large class of cosmological models and thus allows
+study of their approach to the singularity. The numerical method also naturally
+singles out the asymptotically velocity term dominated (AVTD) behavior known to
+be characteristic of some of these models, conjectured to describe others, and
+probably characteristic of a subclass of the rest. The method is first applied
+to the unpolarized Gowdy T$^3$ cosmology. Exact pseudo-unpolarized solutions
+are used as a code test and demonstrate that a 4th order accurate
+implementation of the numerical method yields acceptable agreement. For generic
+initial data, support for the conjecture that the singularity is AVTD with
+geodesic velocity (in the harmonic map target space) < 1 is found. A new
+phenomenon of the development of small scale spatial structure is also
+observed. Finally, it is shown that the numerical method straightforwardly
+generalizes to an arbitrary cosmological spacetime on $T^3 \times R$ with one
+spacelike U(1) symmetry.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 21:06:02 GMT""}]","2009-10-22"
+"gr-qc/9307033","Centro De Estudios Cientificos De Santia","Maximo Banados, Claudio Teitelboim and Jorge Zanelli","Dimensionally Continued Black Holes","RevTex (3.0), 33 pages","Phys.Rev. D49 (1994) 975-986","10.1103/PhysRevD.49.975",,"gr-qc",,"  Static, spherically symmetric solutions of the field equations for a
+particular dimensional continuation of general relativity with negative
+cosmological constant are studied. The action is, in odd dimensions, the
+Chern-Simons form for the anti-de Sitter group and, in even dimensions, the
+Euler density constructed with the Lorentz part of the anti-de Sitter curvature
+tensor. Both actions are special cases of the Lovelock action, and they reduce
+to the Hilbert action (with negative cosmological constant) in the lower
+dimensional cases $\mbox{$\cal D$}=3$ and $\mbox{$\cal D$}=4$. Exact black hole
+solutions characterized by mass ($M$) and electric charge ($Q$) are found. In
+odd dimensions a negative cosmological constant is necessary to obtain a black
+hole, while in even dimensions, both asymptotically flat and asymptotically
+anti-de Sitter black holes exist. The causal structure is analyzed and the
+Penrose diagrams are exhibited.
+","[{""version"":""v1"",""created"":""Fri, 23 Jul 1993 02:22:50 GMT""},{""version"":""v2"",""created"":""Tue, 21 Sep 1993 02:57:32 GMT""}]","2009-10-22"
+"gr-qc/9307034",,"David Wands","Extended Gravity Theories and the Einstein-Hilbert Action","12 pages, Plain Latex, SUSSEX-AST-93/7-1","Class.Quant.Grav.11:269-280,1994","10.1088/0264-9381/11/1/025",,"gr-qc",,"  I discuss the relation between arbitrarily high-order theories of gravity and
+scalar-tensor gravity at the level of the field equations and the action. I
+show that $(2n+4)$-order gravity is dynamically equivalent to Brans-Dicke
+gravity with an interaction potential for the Brans-Dicke field and $n$ further
+scalar fields. This scalar-tensor action is then conformally equivalent to the
+Einstein-Hilbert action with $n+1$ scalar fields. This clarifies the nature and
+extent of the conformal equivalence between extended gravity theories and
+general relativity with many scalar fields.
+","[{""version"":""v1"",""created"":""Fri, 23 Jul 1993 15:33:00 GMT""}]","2010-04-06"
+"hep-ph/9307323",,"A.I. Davydychev","Standard and hypergeometric representations for loop diagrams and the
+  photon-photon scattering","8 pages, to appear in: Proc. Intern. Conf. ""Quarks-92"" (Zvenigorod,
+  Russia, May 1992), World Scientific, Singapore, 1993",,,,"hep-ph",,"  By using the example of photon-photon scattering box diagrams, different
+representations for loop integrals are discussed. A connection between
+hypergeometric representation and dilogarithms is derived. An explicit analytic
+continuation formula to large values of Mandelstam variables is constructed.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 17:37:55 GMT""}]","2007-05-23"
+"hep-ph/9307324","David London","G. Belanger, D. London and H. Nadeau","Single Leptoquark Production at $e^+e^-$ and $\gamma\gamma$ Colliders","plain TeX, 14 pages, 6 figures (not included but available on
+  request), some minor changes to the text, one reference added, figures and
+  conclusions unchanged, UdeM-LPN-TH-93-152, McGill-93/23","Phys.Rev. D49 (1994) 3140-3147","10.1103/PhysRevD.49.3140",,"hep-ph",,"  We consider single production of leptoquarks (LQ's) at $e^+e^-$ and
+$\gamma\gamma$ colliders, for two values of the centre-of-mass energy,
+$\sqrt{s}=500$ GeV and 1 TeV. We find that LQ's which couple within the first
+generation are observable for LQ masses almost up to the kinematic limit, both
+at $e^+e^-$ and $\gamma\gamma$ colliders, for the LQ coupling strength equal to
+$\alpha_{em}$. The cross sections for single production of $2^{nd}$- and
+$3^{rd}$-generation LQ's at $e^+e^-$ colliders are too small to be observable.
+In $\gamma\gamma$ collisions, on the other hand, $2^{nd}$-generation LQ's with
+masses much larger than $\sqrt{s}/2$ can be detected. However,
+$3^{rd}$-generation LQ's can be seen at $\gamma\gamma$ colliders only for
+masses at most $\sim\sqrt{s}/2$, making their observation more probable via the
+pair production mechanism.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 19:57:42 GMT""},{""version"":""v2"",""created"":""Fri, 6 Aug 1993 15:17:58 GMT""}]","2009-10-22"
+"hep-ph/9307326","V. P. Nair","V.P.Nair","Hard Thermal Loops, Gauged WZNW Action and the Energy of Hot Quark-Gluon
+  Plasma","9 pages, CU-TP 601","Phys.Rev.D48:3432-3435,1993","10.1103/PhysRevD.48.R3432",,"hep-ph hep-th",,"  The generating functional for hard thermal loops in QCD is rewritten in terms
+of a gauged WZNW action by introducing an auxiliary field. This shows in a
+simple way that the contribution of hard thermal loops to the energy of the
+quark-gluon plasma is positive.
+","[{""version"":""v1"",""created"":""Fri, 23 Jul 1993 09:48:47 GMT""}]","2009-12-30"
+"hep-ph/9307327",,"N.I. Ussyukina and A.I. Davydychev","Some Exact Results for Two-Loop Diagrams with Three and Four External
+  Lines","To appear in Proc. VII Intern. Workshop ""High Energy Physics and
+  Quantum Field Theory"" (Sochi, Russia, October 1992), Yad.Fiz., v.56, No.11,
+  p.172-179 (November 1993)","Phys.Atom.Nucl. 56 (1993) 1553-1557; Yad.Fiz. 56N11 (1993) 172-179",,,"hep-ph",,"  Evaluation of three- and four-point diagrams with massless internal particles
+and arbitrary external momenta is considered. Exact results for some two-loop
+diagrams (planar and non-planar three-point contributions and the ""double box""
+diagram) are obtained in terms of polylogarithms.
+","[{""version"":""v1"",""created"":""Fri, 23 Jul 1993 15:29:18 GMT""}]","2007-05-23"
+"hep-th/9307139","Kai-Ming Lee","Kai-Ming Lee","Vortices on Higher Genus Surfaces","28 pages with 10 figures; uses phyzzx and psfig; Caltech preprint
+  CALT-68-1873","Phys.Rev. D49 (1994) 2030-2040","10.1103/PhysRevD.49.2030",,"hep-th",,"  We consider the topological interactions of vortices on general surfaces. If
+the genus of the surface is greater than zero, the handles can carry magnetic
+flux. The classical state of the vortices and the handles can be described by a
+mapping from the fundamental group to the unbroken gauge group. The allowed
+configurations must satisfy a relation induced by the fundamental group. Upon
+quantization, the handles can carry ``Cheshire charge.'' The motion of the
+vortices can be described by the braid group of the surface. How the motion of
+the vortices affects the state is analyzed in detail.
+","[{""version"":""v1"",""created"":""Fri, 23 Jul 1993 00:06:50 GMT""}]","2009-10-22"
+"hep-th/9307140","Senarath P. de Alwis","S. P. de Alwis","On the Passage from the Quantum theory to the Semi-Classical theory","19 pages, COLO-HEP-318","Phys.Lett.B317:46-52,1993","10.1016/0370-2693(93)91568-8",,"hep-th gr-qc",,"  In this paper an attempt is made to understand the passage from the exact
+quantum treatment of the CGHS theory to the semi-classical physics discussed by
+many authors. We find first that to the order of accuracy to which Hawking
+effects are calculated in the theory, it is inconsistent to ignore correlations
+in the dilaton gravity sector. Next the standard Dirac or BRST procedure for
+implementing the constraints is followed. This leads to a set of physical
+states, in which however the semi-classical physics of the theory seems to be
+completely obscured. As an alternative, we construct a coherent state
+formalism, which is the natural framework for understanding the semi-classical
+calculations, and argue that it satisfies all necessary requirements of the
+theory, provided that there exist classical ghost configurations which solve an
+infinite set of equations. If this is the case it may be interpreted as a
+spontaneous breakdown of general covariance.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 19:09:08 GMT""}]","2010-11-01"
+"hep-th/9307141","Nicholas Philip Warner","D. Nemeschansky and N.P. Warner","Off-Critical Lattice Analogues of $N=2$ Supersymmetric Quantum
+  Integrable Models","27 pages and 2 figures, harvmac","Nucl.Phys. B413 (1994) 629-652","10.1016/0550-3213(94)90005-1",,"hep-th cond-mat",,"  We obtain off-critical (elliptic) Boltzmann weights for lattice models whose
+continuum limits correspond to massive, $N=2$ supersymmetric, quantum
+integrable field theories. We also compute the free energies of these models
+and show that they are analytic in the region of parameter space where we
+believe that the supersymmetry is unbroken. While the supersymmetry is not
+directly realized on the lattice, there is still a very close connection
+between the models described here and topological lattice models. A simple
+example is discussed in detail and some corner transfer matrix computations are
+also presented.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 22:16:08 GMT""}]","2009-10-22"
+"hep-th/9307142",,"R. Loll, J.M. Mour\~ao and J.N. Tavares","Complexification of Gauge Theories","25pp., LaTeX, Syracuse SU-GP-93/6-2, Lisbon DF/IST 6.93","J.Geom.Phys. 18 (1996) 1-24","10.1016/0393-0440(94)00053-0",,"hep-th gr-qc",,"  For the case of a first-class constrained system with an equivariant momentum
+map, we study the conditions under which the double process of reducing to the
+constraint surface and dividing out by the group of gauge transformations $G$
+is equivalent to the single process of dividing out the initial phase space by
+the complexification $G_C$ of $G$. For the particular case of a phase space
+action that is the lift of a configuration space action, conditions are found
+under which, in finite dimensions, the physical phase space of a gauge system
+with first-class constraints is diffeomorphic to a manifold imbedded in the
+physical configuration space of the complexified gauge system. Similar
+conditions are shown to hold in the infinite-dimensional example of Yang-Mills
+theories. As a physical application we discuss the adequateness of using
+holomorphic Wilson loop variables as (generalized) global coordinates on the
+physical phase space of Yang-Mills theory.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 23:27:00 GMT""}]","2015-06-26"
+"hep-th/9307143",,"J.G. Russo","A theory of quantum black holes: non-perturbative corrections and
+  no-veil conjecture","24 pages, 12 figures (not included, available by request), UTTG-22-93","Phys.Rev.D49:5266-5277,1994","10.1103/PhysRevD.49.5266",,"hep-th gr-qc",,"  A common belief is that further quantum corrections near the singularity of a
+large black hole should not substantially modify the semiclassical picture of
+black hole evaporation; in particular, the outgoing spectrum of radiation
+should be very close to the thermal spectrum predicted by Hawking. In this
+paper we explore a possible counterexample: in the context of dilaton gravity,
+we find that non-perturbative quantum corrections which are important in strong
+coupling regions may completely alter the semiclassical picture, to the extent
+that the presumptive space-like boundary becomes time-like, changing in this
+way the causal structure of the semiclassical geometry. As a result, only a
+small fraction of the total energy is radiated outside the fake event horizon;
+most of the energy comes in fact at later retarded times and there is no
+information loss problem. Thus we propose that this may constitute a general
+characteristic of quantum black holes, that is, quantum gravity might be such
+as to prevent the formation of global event horizons. We argue that this is not
+unnatural from the viewpoint of quantum mechanics.
+","[{""version"":""v1"",""created"":""Thu, 22 Jul 1993 22:42:58 GMT""}]","2010-11-01"
+"hep-th/9307144","Makoto Umeki","Makoto Umeki","On the Probability Distribution of Velocity Circulation in
+  Three-Dimensional Turbulence","E-mail : umeki@tansei.cc.u-tokyo.ac.jp Text 6 pages + Figure 4 pages
+  UT-F-93-1",,"10.1143/JPSJ.62.3788",,"hep-th",,"  The probability distribution functions of the circulation of velocity in
+three-dimensional decaying isotropic turbulence are examined by the database of
+the numerical simulation based on the pseudospectral method. It is shown that
+the standard deviation increases nearly as $A^{2/3}$ where $A$ is the area of
+the loop. The PDFs change from exponential to gaussian as the size becomes
+large. The former agrees well with the prediction by Migdal (1993), although
+the latter does not match. A modification is proposed to explain the gaussian
+distribution with the $A^{2/3}$ dependence.
+","[{""version"":""v1"",""created"":""Fri, 23 Jul 1993 06:19:22 GMT""}]","2009-10-22"
+"hep-th/9307145","Maximilian Kreuzer","M. Kreuzer and H. Skarke","ADE string vacua with discrete torsion","13 pages (LaTeX), preprint CERN-TH.6931/93 and ITP-UH-20/93
+  (reference added)","Phys.Lett. B318 (1993) 305-314","10.1016/0370-2693(93)90133-3",,"hep-th",,"  We complete the classification of (2,2) string vacua that can be constructed
+by diagonal twists of tensor products of minimal models with ADE invariants.
+Using the \LG\ framework, we compute all spectra from inequivalent models of
+this type. The completeness of our results is only possible by systematically
+avoiding the huge redundancies coming from permutation symmetries of tensor
+products. We recover the results for (2,2) vacua of an extensive computation of
+simple current invariants by Schellekens and Yankielowitz, and find 4
+additional mirror pairs of spectra that were missed by their stochastic method.
+For the model $(1)^9$ we observe a relation between redundant spectra and
+groups that are related in a particular way.
+","[{""version"":""v1"",""created"":""Fri, 23 Jul 1993 15:12:18 GMT""},{""version"":""v2"",""created"":""Thu, 29 Jul 1993 22:19:29 GMT""}]","2009-10-22"
+"nucl-th/9307024","Stefan Teis","Tomoyuki Maruyama, Wolfgang Cassing, Ulrich Mosel, Stefan Teis and
+  Klaus Weber (Institut fuer Theoretische Physik, Universitaet Giessen, D-35392
+  Giessen, F. R. Germany)","Study of High Energy Heavy-Ion Collisions in a Relativistic BUU-Approach
+  with Momentum-Dependent Mean-Fields","27 pages, figures can be obtained from the authors, UGI-93-06","Nucl.Phys. A573 (1994) 653-675","10.1016/0375-9474(94)90235-6",,"nucl-th",,"  We introduce momentum-dependent scalar and vector fields into the Lorentz
+covariant relativistic BUU- (RBUU-) approach employing a polynomial ansatz for
+the relativistic nucleon-nucleon interaction. The momentum-dependent
+parametrizations are shown to be valid up to about 1 GeV/u for the empirical
+proton-nucleus optical potential. We perform numerical simulations for
+heavy-ion collisions within the RBUU-approach adopting momentum-dependent and
+momentum-independent mean-fields and calculate the transverse flow in and
+perpendicular to the reaction plane, the directivity distribution as well as
+subthreshold K+-production. By means of these observables we discuss the
+particular role of the momentum-dependent forces and their implications on the
+nuclear equation of state. We find that only a momentum-dependent parameter-set
+can explain the experimental data on the transverse flow in the reaction plane
+from 150 - 1000 MeV/u and the differential K+-production cross sections at 1
+GeV/u at the same time.
+","[{""version"":""v1"",""created"":""Fri, 23 Jul 1993 15:38:35 GMT""}]","2015-06-26"

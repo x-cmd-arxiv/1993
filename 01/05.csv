@@ -1,0 +1,151 @@
+"alg-geom/9301001","Anatoly S. Libgober","A.Libgober and J.Teitelbaum","Lines on Calabi Yau complete intersections, mirror symmetry, and Picard
+  Fuchs equations","10 pages, AMSTEX",,,,"alg-geom math.AG",,"  A relation between the number of rational curves of fixed degree on Calabi
+Yau threefolds and the Picard Fuchs equations, which was suggested as part of
+the study of mirror symmetry, is verified in the case of complete intersection
+of two cubics and lines.
+","[{""version"":""v1"",""created"":""Mon, 4 Jan 1993 20:48:04 GMT""}]","2008-02-03"
+"gr-qc/9301001","Barnich Glenn","Olivier Coussaert and Marc Henneaux","Bianchi Cosmological Models and Gauge Symmetries","16 pages, Latex file, ULB-PMIF-92/10","Class.Quant.Grav.10:1607-1618,1993","10.1088/0264-9381/10/8/018",,"gr-qc",,"  We analyze carefully the problem of gauge symmetries for Bianchi models, from
+both the geometrical and dynamical points of view. Some of the geometrical
+definitions of gauge symmetries (=``homogeneity preserving diffeomorphisms'')
+given in the literature do not incorporate the crucial feature that local gauge
+transformations should be independent at each point of the manifold of the
+independent variables ( = time for Bianchi models), i.e, should be arbitrarily
+localizable ( in time). We give a geometrical definition of homogeneity
+preserving diffeomorphisms that does not possess this shortcoming. The proposed
+definition has the futher advantage of coinciding with the dynamical definition
+based on the invariance of the action ( in Lagrangian or Hamiltonian form). We
+explicitly verify the equivalence of the Lagrangian covariant phase space with
+the Hamiltonian reduced phase space. Remarks on the use of the Ashtekar
+variables in Bianchi models are also given.
+","[{""version"":""v1"",""created"":""Tue, 5 Jan 1993 14:51:07 GMT""}]","2010-04-06"
+"hep-ph/9301204",,"J.H. K""uhn and E. Mirkes","QCD Corrections to Toponium Production at Hadron Colliders","16 pages (latex) 9 figures (postscript) available upon request,
+  TTP92-32","Phys.Rev.D48:179-189,1993","10.1103/PhysRevD.48.179",,"hep-ph",,"  Toponium production at future hadron colliders is investigated. Perturbative
+QCD corrections to the production cross section for gluon fusion are calculated
+as well as the contributions from gluon-quark and quark-antiquark collisions to
+the total cross section. The dependence on the renormalization and
+factorization scales and on the choice of the parton distribution functions is
+explored. QCD corrections to the branching ratio of $\eta_{t}$ into
+$\gamma\gamma$ are included and the two-loop QCD potential is used to predict
+the wave function at the origin. The branching ratio of $\eta_{t}$ into $\gamma
+Z$, $ZZ$, $HZ$ and $WW$ is compared with the $\gamma\gamma$ channel.
+","[{""version"":""v1"",""created"":""Mon, 4 Jan 1993 16:32:00 GMT""}]","2011-07-19"
+"hep-ph/9301205",,"John F. Gunion and Howard E. Haber","Errata for Higgs Bosons in Supersymmetric Models: I, II and III","4 pages, UCD-92-31 and SCIPP-92/59, PHYZZX format",,,,"hep-ph",,"  Errata are given for J.F. Gunion and H.E. Haber, Nucl. Phys. B272 (1986) 1,
+Nucl. Phys. B278 (1986) 449, and Nucl. Phys. B307 (1988) 445.
+","[{""version"":""v1"",""created"":""Tue, 5 Jan 1993 00:09:00 GMT""}]","2007-05-23"
+"hep-ph/9301206",,"Harry J. Lipkin","Implications of $\tau$ Decays into Strange Scalar and Axial Vector
+  Mesons","10 pages, Weizmann Report WIS-92/80/Oct-PH","Phys.Lett.B303:119-124,1993","10.1016/0370-2693(93)90054-L",,"hep-ph",,"  Recent reports of the observation of the decay $\tau \rarrow \nu_{\tau} + K +
+\pi + \pi$ raise interesting questions. The $u-s$ quark mass difference can
+induce an effective second-class current in the strange sector and enhance
+decays to helicity-suppressed scalar states. This suggests searches for scalar
+strange mesons in the $\tau \rarrow \nu_{\tau} + K + \eta' $ and $\tau \rarrow
+\nu_{\tau} + K + \pi$ decay modes. $\tau$ decays to axial vector final states
+may clarify strange meson spectroscopy by analogy with the clarification of the
+$a_1$ problem in the nonstrange sector. Open questions include mixing effects
+in the strange axial vector mesons and the implications of models based on QCD
+for hadronization and final state interactions following the creation of a $q
+\bar q$ pair by a weak vertex,
+","[{""version"":""v1"",""created"":""Tue, 5 Jan 1993 14:25:00 GMT""}]","2014-11-17"
+"hep-ph/9301207",,"O.W. Greenberg","Color, from baryon spectroscopy to qcd","14 pages, in LaTex, UMD 92-241",,,,"hep-ph",,"  I review the discovery of the color degree of freedom in hadronic physics,
+and the developments which led from that discovery to the local gauge theory of
+color, quantum chromodynamics.
+","[{""version"":""v1"",""created"":""Tue, 5 Jan 1993 13:58:00 GMT""}]","2007-05-23"
+"hep-ph/9301209",,"Alan R. White, Ian G. Knowles and Kyungsik Kang","The $\eta_6$ and Massive Photon Pairs at LEP","7 pages, ANL-HEP-CP-92-117/BROWN-HET-885",,,,"hep-ph",,"  The $\eta_6$, a ``heavy axion'' associated with sextet quark electroweak
+symmetry breaking, may have been seen at LEP via its two-photon decay mode and
+also at TRISTAN via its hadronic decay modes. - presented at DPF 92.
+","[{""version"":""v1"",""created"":""Tue, 5 Jan 1993 13:50:57 GMT""}]","2007-05-23"
+"hep-ph/9301210","Frank Dodd Smith","F. D. T. Smith","Calculation of 130 Gev Mass for T-Quark","10 pages, THEP-93-2 (Updated reference to work of Arason, et. al.)",,,,"hep-ph",,"  A 130 GeV mass is calculated for the t-quark, also called the truth quark or
+the top quark.
+  The 130 GeV T-quark mass is consistent with the analysis of Dalitz and
+Goldstein (131 GeV (-11, +22 )) of a CDF T-quark candidate event [1]. It is not
+consistent with the theoretical calculations of Dimopoulos, Hall, and Raby that
+the T-quark mass range should be 176 to 190 GeV [2].
+  The calculation uses a model in which the 28-dimensional adjoint
+representation of Spin(8) forms the gauge group of the model with an
+8-dimensional spacetime whose tangent vector space is represented by the vector
+representation of Spin(8); the first generation fermion particles and
+antiparticles are represented by the two mirror image 8-dimensional half-spinor
+representations of Spin(8). The 8-dimensional spacetime of the model is reduced
+to 4 dimensions. Dimensional reduction gives the fermions a 3-generation
+structure.
+  At request, I added a chronology including work of others.
+","[{""version"":""v1"",""created"":""Tue, 5 Jan 1993 10:51:01 GMT""},{""version"":""v2"",""created"":""Tue, 12 Jan 1993 04:31:44 GMT""},{""version"":""v3"",""created"":""Fri, 15 Jan 1993 22:50:38 GMT""}]","2008-02-03"
+"hep-th/9301004","Jean Zinn-Justin","B. Eynard and J. Zinn-Justin","Large Order Behaviour of 2D Gravity Coupled to $d<1$ Matter",,"Phys.Lett.B302:396-402,1993","10.1016/0370-2693(93)90416-F","SPhT/92-163 SPhT-Saclay","hep-th",,"  We discuss the large order behaviour and Borel summability of the topological
+expansion of models of 2D gravity coupled to general $(p,q)$ conformal matter.
+In a previous work it was proven that at large order $k$ the string
+susceptibility had a generic $a^k\Gamma(2k-\ud)$ behaviour. Moreover the
+constant $a$, relevant for the problem of Borel summability, was determined for
+all one-matrix models. We here obtain a set of equations for this constant in
+the general $(p,q)$ model. String equations can be derived from the
+construction of two differential operators $P,Q$ satisfying canonical
+commutation relations $[P,Q]=1$. We show that the equation for $a$ is
+determined by the form of the operators $P,Q$ in the spherical or semiclassical
+limits. The results for the general one-matrix models are then easily
+recovered. Moreover, since for the $(p,q)$ string models such $p=(2m+1)q\pm1$
+the semiclassical forms of $P,Q$ are explicitly known, the large order
+behaviour is completely determined. This class contains all unitary $(q+1,q)$
+models for which the answer is specially simple. As expected we find that the
+topological expansion for unitary models is not Borel summable.
+\preprint{SPhT/92-163}, Plain-TeX, macro harvmac
+","[{""version"":""v1"",""created"":""Mon, 4 Jan 1993 16:32:53 GMT""}]","2010-11-01"
+"hep-th/9301005",,"M{\aa}ns Henningson and Chiara R. Nappi","Duality, Marginal Perturbations and Gauging","15 pages","Phys.Rev.D48:861-868,1993","10.1103/PhysRevD.48.861",,"hep-th",,"  We study duality transformations for two-dimensional sigma models with
+abelian chiral isometries and prove that generic such transformations are
+equivalent to integrated marginal perturbations by bilinears in the chiral
+currents, thus confirming a recent conjecture by Hassan and Sen formulated in
+the context of Wess-Zumino-Witten models. Specific duality transformations
+instead give rise to coset models plus free bosons.
+","[{""version"":""v1"",""created"":""Mon, 4 Jan 1993 20:56:00 GMT""}]","2008-11-26"
+"hep-th/9301007","Frank Nijhoff","F.W. Nijhoff and H.W. Capel","Integrability and Fusion Algebra for Quantum Mappings","26 pages",,"10.1088/0305-4470/26/22/035","Clarkson University INS # 212/92","hep-th",,"  We apply the fusion procedure to a quantum Yang-Baxter algebra associated
+with time-discrete integrable systems, notably integrable quantum mappings. We
+present a general construction of higher-order quantum invariants for these
+systems. As an important class of examples, we present the Yang-Baxter
+structure of the Gel'fand-Dikii mapping hierarchy, that we have introduced in
+previous papers, together with the corresponding explicit commuting family of
+quantum invariants.
+","[{""version"":""v1"",""created"":""Mon, 4 Jan 1993 21:14:34 GMT""}]","2009-10-22"
+"hep-th/9301008","Don Spector","Donald Spector","A Simple Method for Computing Soliton Statistics","9 pages, harvmac, HWS-92/09. (Added substantial details in one
+  section.)","Mod.Phys.Lett. A9 (1994) 2245-2251","10.1142/S0217732394002100",,"hep-th cond-mat hep-ph",,"  I provide an extremely simple argument that the kink-type solitons in certain
+theories are fermionic. The argument is based on the Witten index, but can in
+fact be used to determine soliton statistics in non-supersymmetric theories as
+well.
+","[{""version"":""v1"",""created"":""Tue, 5 Jan 1993 00:16:41 GMT""},{""version"":""v2"",""created"":""Fri, 17 Jun 1994 15:21:08 GMT""}]","2009-10-22"
+"hep-th/9301009",,"Yi-Zhi Huang and James Lepowsky","Vertex operator algebras and operads","16 pages. Only the definitions of ""partial operad"" and of ""rescaling
+  group"" have been improved",,,,"hep-th math.QA",,"  Vertex operator algebras are mathematically rigorous objects corresponding to
+chiral algebras in conformal field theory. Operads are mathematical devices to
+describe operations, that is, $n$-ary operations for all $n$ greater than or
+equal to $0$, not just binary products. In this paper, a reformulation of the
+notion of vertex operator algebra in terms of operads is presented. This
+reformulation shows that the rich geometric structure revealed in the study of
+conformal field theory and the rich algebraic structure of the theory of vertex
+operator algebras share a precise common foundation in basic operations
+associated with a certain kind of (two-dimensional) ``complex'' geometric
+object, in the sense in which classical algebraic structures (groups, algebras,
+Lie algebras and the like) are always implicitly based on (one-dimensional)
+``real'' geometric objects. In effect, the standard analogy between
+point-particle theory and string theory is being shown to manifest itself at a
+more fundamental mathematical level.
+","[{""version"":""v1"",""created"":""Tue, 5 Jan 1993 04:03:30 GMT""},{""version"":""v2"",""created"":""Thu, 21 Jan 1993 21:23:13 GMT""},{""version"":""v3"",""created"":""Tue, 26 Jan 1993 19:34:40 GMT""}]","2008-02-03"
+"hep-th/9301011",,"E. Ragoucy","Characteristic Dynkin diagrams and W-algebras","20 pages","Nucl.Phys. B409 (1993) 213-236","10.1016/0550-3213(93)90453-V",,"hep-th math.QA",,"  We present a classification of characteristic Dynkin diagrams for the $A_N$,
+$B_N$, $C_N$ and $D_N$ algebras. This classification is related to the
+classification of \cw(\cg,\ck) algebras arising from non-Abelian Toda models,
+and we argue that it can give new insight on the structure of $W$ algebras.
+","[{""version"":""v1"",""created"":""Tue, 5 Jan 1993 11:59:34 GMT""}]","2009-10-22"
+"hep-th/9301012","Ronald Rietman","Bernard Nienhuis and Ronald Rietman","A Solvable Model for Intersecting Loops","9 pages LaTex, uses epsf.sty",,,"ITFA-92-35","hep-th",,"  We show that some models with non-local (and non-localizable) interactions
+have a property, called quasi-locality, which allows for the definition of a
+transfer matrix. We give the Yang-Baxter equation as a sufficient condition for
+the existence of a family of commuting transfer matrices and solve them for a
+loop model with intersections. This solvable model is then analyzed in some
+detail and its applications to a Lorentz gas are briefly discussed.
+","[{""version"":""v1"",""created"":""Tue, 5 Jan 1993 14:43:10 GMT""}]","2007-05-23"
+"nucl-th/9301002","Jorge Piekarewicz","J. Piekarewicz and A.G. Williams","The Momentum Dependence of the $\rho-\omega$ Mixing Amplitude in a
+  Hadronic Model","11 pages, SCRI-122192","Phys.Rev.C47:2462-2466,1993","10.1103/PhysRevC.47.R2462",,"nucl-th",,"  We calculate the momentum dependence of the $\rho-\omega$ mixing amplitude in
+a purely hadronic model. The basic assumption of the model is that the mixing
+amplitude is generated by $N{\bar{N}}$ loops and thus driven entirely by the
+neutron-proton mass difference. The value of the amplitude at the
+$\omega$-meson point is expressed in terms of only the $NN\omega$ and the
+$NN\rho$ coupling constants. Using values for these couplings constrained by
+empirical two-nucleon data we obtain a value for the mixing amplitude in
+agreement with experiment. Extending these results to the spacelike region, we
+find a $\rho-\omega$ contribution to the NN interaction that is strongly
+suppressed and opposite in sign relative to the conventional contribution
+obtained from using the constant on-shell value for the mixing amplitude.
+","[{""version"":""v1"",""created"":""Mon, 4 Jan 1993 16:38:24 GMT""}]","2008-11-26"

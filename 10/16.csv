@@ -1,0 +1,154 @@
+"cond-mat/9310039","Bulbul Chakraborty","Bulbul Chakraborty","Dynamics of Ordering in Alloys with Modulated Phases","18 pages, 3 figures (postscript files appended), Brandeis-BC93",,"10.1103/PhysRevB.49.8608",,"cond-mat",,"  This paper presents a theoretical model for studying the dynamics of ordering
+in alloys which exhibit modulated phases. The model is different from the
+standard time-dependent Ginzburg-Landau description of the evolution of a
+non-conserved order parameter and resembles the Swift-Hohenberg model. The
+early-stage growth kinetics is analyzed and compared to the Cahn-Hilliard
+theory of continuous ordering. The effects of non-linearities on the growth
+kinetics are discussed qualitatively and it is shown that the presence of an
+underlying elastic lattice introduces qualitatively new effects. A lattice
+Hamiltonian capable of describing these effects and suitable for carrying out
+simulations of the growth kinetics is also constructed.
+","[{""version"":""v1"",""created"":""Fri, 15 Oct 1993 17:00:25 GMT""}]","2009-10-22"
+"hep-lat/9310017",,"G. Bimonte, E .Ercolessi and P. Teotonio-Sobrinho","Discretized Laplacians on an Interval and their Renormalization Group","23 pages, 2 figures, DSF-T-28/93,INFN-NA-IV-28/93, SU-4240-548","Int.J.Mod.Phys. A9 (1994) 4485-4510","10.1142/S0217751X94001783",,"hep-lat hep-th",,"  The Laplace operator admits infinite self-adjoint extensions when considered
+on a segment of the real line. They have different domains of essential
+self-adjointness characterized by a suitable set of boundary conditions on the
+wave functions. In this paper we show how to recover these extensions by
+studying the continuum limit of certain discretized versions of the Laplace
+operator on a lattice. Associated to this limiting procedure, there is a
+renormalization flow in the finite dimensional parameter space describing the
+dicretized operators. This flow is shown to have infinite fixed points,
+corresponding to the self-adjoint extensions characterized by scale invariant
+boundary conditions. The other extensions are recovered by looking at the other
+trajectories of the flow.
+","[{""version"":""v1"",""created"":""Fri, 15 Oct 1993 18:30:00 GMT""}]","2015-06-25"
+"hep-ph/9310293","Herbert Weigel","H. Weigel","The Proton Spin Structure in Skyrme Type Models","4 pages, LaTeX, UNITU-THEP-12/1993 Talk presented at the 13$^{\rm
+  th}$ PANIC meeting, Perugia, June 28$^{\rm th}$-July 3$^{\rm nd}$ 1993",,,,"hep-ph",,"  It is demonstrated how in the soliton approach to baryons a small but
+non-vanishing matrix element of the axial singlet current is obtained.
+Furthermore it is shown that these models also provide a mechanism to
+disentangle the ``matter"" and ``glue"" contributions to this matrix element.
+Numerical results indeed exhibit a cancellation between these two components.
+However, the magnitudes of both turn out to be significantly smaller than
+unity.
+","[{""version"":""v1"",""created"":""Fri, 15 Oct 1993 17:45:52 GMT""}]","2007-05-23"
+"hep-ph/9310294","David London","David London","B Decays in the Standard Model and Beyond","LateX (style file included), 15 pages, 5 figures (not included, but
+  available upon request), UdeM-LPN-TH-93-178",,,,"hep-ph",,"  B decays in and beyond the standard model are reviewed. I specifically
+discuss right-handed B decays, rare B decays, B_c decays, B_s-B_s(bar) mixing,
+and T violation. (Plenary talk given at the `Workshop on B Physics at Hadron
+Accelerators', Snowmass, Colorado, June 21-July 2, 1993.)
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 1993 01:27:37 GMT""}]","2009-09-25"
+"hep-th/9310098","Steve Gubser","Steven S. Gubser and Igor R. Klebanov","Scaling Functions for Baby Universes in Two-Dimensional Quantum Gravity","20 pages, 6 figures (not included, available upon request), PUPT-1422","Nucl.Phys. B416 (1994) 827-849","10.1016/0550-3213(94)90557-6",,"hep-th gr-qc",,"  We apply the recently proposed transfer matrix formalism to 2-dimensional
+quantum gravity coupled to $(2, 2k-1)$ minimal models. We find that the
+propagation of a parent universe in geodesic (Euclidean) time is accompanied by
+continual emission of baby universes and derive a distribution function
+describing their sizes. The $k\to \infty~ (c\to -\infty)$ limit is generally
+thought to correspond to classical geometry, and we indeed find a classical
+peak in the universe distribution function. However, we also observe dramatic
+quantum effects associated with baby universes at finite length scales.
+","[{""version"":""v1"",""created"":""Fri, 15 Oct 1993 17:36:08 GMT""}]","2009-10-22"
+"hep-th/9310099",,"Q. Liu","Chern-Simons Soliton Dynamics in Modular Parameter Space","10 pages, CTP #2248","Phys. Lett. B321 (1994) 219-222","10.1016/0370-2693(94)90467-7",,"hep-th",,"  We study dynamics of non-relativistic Chern-Simons solitons, both in the
+absence and in the presence of external fields. We find that a phase, related
+to the $1$-cocyle of the Galileo group, must be included to give the correct
+dynamical behavior. We show that interactions among Chern-Simons solitons are
+mediated by an effective Chern-Simons gauge field induced by the solitons. In
+the two soliton case, we evaluate analytically the effective interaction
+Lagrangian, which previously was found numerically.
+","[{""version"":""v1"",""created"":""Fri, 15 Oct 1993 18:29:14 GMT""},{""version"":""v2"",""created"":""Thu, 28 Oct 1993 22:52:36 GMT""}]","2009-10-22"
+"hep-th/9310100",,"Chryssomalis Chryssomalakos, Peter Schupp and Paul Watts","The Role of the Canonical Element in the Quantized Algebra of
+  Differential Operators $\A\rtimes\U$","13 pages, LBL-33274 and UCB-PTH-92/42",,,,"hep-th",,"  We review the construction of the cross product algebra $\A\rtimes\U$ from
+two dually paired Hopf algebras $\U$ and $\A$. The canonical element in $\U
+\otimes \A$ is then introduced, and its properties examined. We find that it is
+useful for giving coactions on $\A\rtimes\U$, and it allows the construction of
+objects with specific invariance properties under these coactions. A ``vacuum
+operator'' is found which projects elements of $\A\rtimes\U$ onto said objects.
+We then discuss bicovariant vector fields in the context of the canonical
+element.
+","[{""version"":""v1"",""created"":""Fri, 15 Oct 1993 23:13:32 GMT""}]","2007-05-23"
+"hep-th/9310101","Steve Giddings","S.B. Giddings","Comments on information loss and remnants","30 pages (harvmac l mode) UCSBTH-93-35 (minor reference and typo
+  corrections)","Phys. Rev. D 49, 4078 (1994)","10.1103/PhysRevD.49.4078",,"hep-th",,"  The information loss and remnant proposals for resolving the black hole
+information paradox are reconsidered. It is argued that in typical cases
+information loss implies energy loss, and thus can be thought of in terms of
+coupling to a spectrum of ``fictitious'' remnants. This suggests proposals for
+information loss that do not imply planckian energy fluctuations in the low
+energy world. However, if consistency of gravity prevents energy
+non-conservation, these remnants must then be considered to be real. In either
+case, the catastrophe corresponding to infinite pair production remains a
+potential problem. Using Reissner-Nordstrom black holes as a paradigm for a
+theory of remnants, it is argued that couplings in such a theory may give
+finite production despite an infinite spectrum. Evidence for this is found in
+analyzing the instanton for Schwinger production; fluctuations from the
+infinite number of states lead to a divergent stress tensor, spoiling the
+instanton calculation. Therefore naive arguements for infinite production fail.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 1993 00:55:14 GMT""},{""version"":""v2"",""created"":""Sat, 23 Oct 1993 01:33:28 GMT""}]","2013-11-13"
+"hep-th/9310103","A. Khare","Avinash Khare (Institute of Physics, Bhubaneswar, India), and Rajat K.
+  Bhaduri (Dept.of Physics and Astronomy, Mcmaster Univ., Canada)","Some Exactly Solvable Three-Body Problems in One dimension","16 pages","J.Phys. A27 (1994) 2213-2224","10.1088/0305-4470/27/6/041","IP-BBSR/93-64","hep-th",,"  The three-body problem in one-dimension with a repulsive inverse square
+potential between every pair was solved by Calogero. Here, the known results of
+supersymmetric quantum mechanics are used to propose a number of new three-body
+potentials which can be solved algebraically. Analytic expressions for the
+eigenspectrum and the eigenfunctions are given with and without confinement.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 1993 10:28:16 GMT""}]","2009-10-22"
+"hep-th/9310104","A. Khare","Avinash Khare (Institute of Physics, Bhubaneswar, India) and Rajat K.
+  Bhaduri (Mcmaster Univ., Hamilton, Canada)","Supersymmetry,Shape Invariance and Exactly Solvable Noncentral
+  Potentials","16 pages","Am.J.Phys. 62 (1994) 1008-1014","10.1119/1.17698","IP-BBSR/93-65","hep-th",,"  Using the ideas of supersymmetry and shape invariance we show that the
+eigenvalues and eigenfunctions of a wide class of noncentral potentials can be
+obtained in a closed form by the operator method. This generalization
+considerably extends the list of exactly solvable potentials for which the
+solution can be obtained algebraically in a simple and elegant manner. As an
+illustration, we discuss in detail the example of the potential
+$$V(r,\theta,\phi)={\omega^2\over 4}r^2 + {\delta\over r^2}+{C\over r^2
+sin^2\theta}+{D\over r^2 cos^2\theta} + {F\over r^2 sin^2\theta sin^2
+\alpha\phi} +{G\over r^2 sin^2\theta cos^2\alpha\phi}$$ with 7 parameters.Other
+algebraically solvable examples are also given.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 1993 10:28:59 GMT""}]","2009-10-22"
+"math/9310207",,"Daniel E. Cohen","Projective resolutions for graph products","AMS-Tex, 4 pages, no figures",,,"MAGNUS preprint #93-10-16A","math.GR",,"  Let $\Gamma$ be a finite graph together with a group $G_v$ at each vertex
+$v$. The graph product $G(\Gamma)$ is obtained from the free product of all
+$G_v$ by factoring out by the normal subgroup generated by $\{g^{-1}h^{-1}gh;
+g\in G_v, h\in G_w\}$ for all adjacent $v,w$. In this note we construct a
+projective resolution for $G(\Gamma)$ given projective resolutions for each
+$G_v$, and obtain some applications.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9310208",,"Daniel E. Cohen","Isoperimetric functions for graph products","AMS-Tex, 5 pages, no figures",,,"MAGNUS preprint #93-10-16B","math.GR",,"  Let $\Gamma$ be a finite graph, and for each vertex $i$ let $G_i$ be a
+finitely presented group. Let $G$ be the graph product of the $G_i$. That is,
+$G$ is the group obtained from the free product of the $G_i$ by factoring out
+by the smallest normal subgroup containing all $[g,h]$ where $g\in G_i$ and
+$h\in G_j$ and there is an edge joining i and j . We show that $G$ has an
+isoperimetric function of degree $k\ge 2$ (or an exponential isoperimetric
+function) if each vertex group has such an isoperimetric function.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 1993 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9310021","Xinnian Wang","K. J. Eskola and Xin-Nian Wang","Minijet-associated Dilepton Production in Ultrarelativistic Heavy Ion
+  Collisions","23 pages in RevTex, 5 figures in uuencoded files, LBL-34409","Phys.Rev. D49 (1994) 4532-4541","10.1103/PhysRevD.49.4532",,"nucl-th hep-ph",,"  Dilepton production associated with minijets is calculated in
+ultrarelativistic heavy ion collisions using the first order approximation of
+the dilepton fragmentation functions of quarks and gluons. The full QCD
+evolution of the fragmentation functions is also studied. We find that the
+dilepton pairs from the fragmentation of minijets are comparable to direct
+Drell-Yan at $\sqrt{s}=200$ AGeV for small dilepton invariant mass $M\sim$ 1-2
+GeV/c$^2$ while dominant over a large range of mass at $\sqrt{s}=6400$ AGeV.
+","[{""version"":""v1"",""created"":""Fri, 15 Oct 1993 19:37:39 GMT""}]","2009-10-22"
+"nucl-th/9310022","Xinnian Wang","K. J. Eskola and Xin-Nian Wang","Calculating Dilepton Rates from Monte Carlo Simulations of Parton
+  Production","14 pages in RevTex, 3 figures in uuencoded files, LBL-34664","Phys.Rev. D49 (1994) 4542-4547","10.1103/PhysRevD.49.4542",,"nucl-th hep-ph",,"  To calculate dilepton rates in a Monte Carlo simulation of ultrarelativistic
+heavy ion collisions, one usually scales the number of similar QCD processes by
+a ratio of the corresponding differential probabilities. We derive the formula
+for such a ratio especially for dilepton bremsstrahlung processes. We also
+discuss the non-triviality of including higher order corrections to direct
+Drell-Yan process. The resultant mass spectra from our Monte Carlo simulation
+are consistent with the semi-analytical calculation using dilepton
+fragmentation functions.
+","[{""version"":""v1"",""created"":""Fri, 15 Oct 1993 19:43:18 GMT""}]","2009-10-22"
+"patt-sol/9310003","Hermann Riecke","Hermann Riecke (Department of Engineering Sciences and Applied
+  Mathematic, Northwestern University, Evanston, IL), Mary Silber (Department
+  of Applied Mechanics, Caltech, Pasadena, CA) and Lorenz Kramer
+  (Physikalisches Institut, Universit\""at Bayreuth, D-8580 Bayreuth, Germany)","Temporal Forcing of Small-Amplitude Waves in Anisotropic Systems","36 pages (Revtex 3), 12 figures (postscript)","Phys. Rev. E 49 (1994) 4100","10.1103/PhysRevE.49.4100",,"patt-sol nlin.PS",,"  We investigate the effect of resonant temporal forcing on an anisotropic
+system that exhibits a Hopf bifurcation to obliquely traveling waves in the
+absence of this forcing. We find that the forcing can excite various
+phase-locked standing-wave structures: rolls, rectangles and cross rolls. At
+onset, at most one of the two - rolls or rectangles - is stable. The cross
+rolls can arise in a secondary bifurcation and can be stable. Experimentally,
+they would appear as a periodic switching between a structure in which the
+`zig'-component dominates and one with dominating `zag'-structure. Since there
+are two symmetry-related states of this kind one may expect disordered
+structures to arise due to the break-up of the pattern into domains. The
+results are consistent with recent experiments on electro-convection in nematic
+liquid crystals by de la Torre and Rehberg. We also apply the general analysis
+to a model of the behavior near a Lifshitz point, where the angle of
+obliqueness vanishes. This analysis indicates that phase-locked standing
+rectangles are always unstable in this parameter regime.
+","[{""version"":""v1"",""created"":""Fri, 15 Oct 1993 22:46:39 GMT""}]","2009-10-22"

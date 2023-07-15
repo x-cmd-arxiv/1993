@@ -1,0 +1,99 @@
+"astro-ph/9302008","Frank Dodd Smith","Frank D. Smith Jr","Gamma Ray Bursts and CETI","1+5 pages, THEP-93-4, LaTex",,,,"astro-ph",,"  Gamma ray burst sources are isotropically distributed. They could be located
+at distances $\sim 1000$ AU. (Katz \cite{JK92}) GRB signals have many narrow
+peaks that are unresolved at the millisecond time resolution of existing
+observations. \cite{JK87} CETI could use stars as gravitational lenses for
+interstellar gamma ray laser beam communication. Much better time resolution of
+GRB signals could rule out (or confirm?) the speculative hypothesis that GRB =
+CETI.
+","[{""version"":""v1"",""created"":""Wed, 10 Feb 1993 21:09:22 GMT""}]","2007-05-23"
+"cond-mat/9302015","Jose Jesus Dorado Montero","Jose J. Dorado and F. Flores","Molecular-orbital theory for the stopping power of atoms in the low
+  velocity regime:the case of helium in alkali metals","LATEX, 3 PostScript Figures attached. Total size 0.54 M",,"10.1103/PhysRevA.47.3062",,"cond-mat",,"  A free-parameter linear-combination-of-atomic-orbitals approach is presented
+for analyzing the stopping power of slow ions moving in a metal. The method is
+applied to the case of He moving in alkali metals. Mean stopping powers for He
+present a good agreement with local-density-approximation calculations. Our
+results show important variations in the stopping power of channeled atoms with
+respect to their mean values.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 14:23:21 GMT""}]","2009-10-22"
+"gr-qc/9302014","Robert Brandenberger","Robert H. Brandenberger (Brown University)","Towards a Nonsingular Universe","9 pages, 2 figures (available from the author), uses phyzzx,
+  BROWN-HET-890",,"10.1111/j.1749-6632.1993.tb43916.x",,"gr-qc astro-ph hep-th",,"  A unified theory of all forces should be nonsingular. In such a unified
+theory, Einstein's general relativity will be a very low curvature effective
+theory. At larger curvatures, new terms will become important. The question
+then arises as to whether it is possible to construct an effective action for
+gravity which leads to a nonsingular theory. In this work, we construct an
+effective action for gravity in which all homogenerous and isotropic solutions
+are nonsingular. In particular, there is neither a big bang nor a big crunch.
+Preliminary work indicates that our construction provides a theory in which
+anisotropies decrease at large curvatures, and in which the inside of a black
+hole is singularity free.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 03:09:27 GMT""}]","2009-10-22"
+"hep-ph/9302246","Joaquim Prades","Joaquim Prades","Massive Spin-1 Field Chiral Lagrangian from an Extended
+  Nambu-Jona-Lasinio Model of QCD","38 text pages + 6 pages of figures in LaTeX, uses FEYNMAN macro
+  package, Marseille preprint CPT-93/P.2871","Z.Phys. C63 (1994) 491-506; Erratum: Eur. Phys. J C11 (1999) 571","10.1007/BF01580330",,"hep-ph",,"  We present a calculation of the coupling constants in the massive spin-1
+field chiral Lagrangian to chiral ${\cal O}(p^3)$ in the context of an extended
+Nambu--Jona-Lasinio cut-off model. Phenomenological applications of this
+Lagrangian to anomalous and non-anomalous low-energy hadronic transitions
+involving spin-1 particles are also discussed.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 09:55:38 GMT""}]","2009-10-22"
+"hep-ph/9302247","Ulf Meissner","Ulf-G. Mei{\ss}ner","Recent Developments in Chiral Perturbation Theory","TeX, 110 pages, 15 figures available upon request, BUTP-93/01","Rept.Prog.Phys.56:903-996,1993","10.1088/0034-4885/56/8/001",,"hep-ph nucl-th",,"  I review recent developments in chiral perturbation theory (CHPT) which is
+the effective field theory of the standard model below the chiral symmetry
+breaking scale. The effective chiral Lagrangian formulated in terms of the
+pseudoscalar Goldstone bosons ($\pi, \, K, \, \eta$) is briefly discussed. It
+is shown how one can gain insight into the ratios of the light quark masses and
+to what extent these statements are model--independent. A few selected topics
+concerning the dynamics and interactions of the Goldstone bosons are
+considered. These are $\pi \pi$ and $\pi K$ scattering, some non--leptonic kaon
+decays and the problem of strong pionic final state interactions. CHPT also
+allows to make precise statements about the temperature dependence of QCD Green
+functions and the finite size effects related to the propagation of the
+(almost) massless pseudoscalar mesons. A central topic is the inclusion of
+matter fields, baryon CHPT. The relativistic and the heavy fermion formulation
+of coupling the baryons to the Goldstone fields are discussed. As applications,
+photo--nucleon processes, the $\pi N$ $\Sigma$--term and non--leptonic hyperon
+decays are presented. Implications of the spontaneously broken chiral symmetry
+on the nuclear forces and meson exchange currents are also described. Finally,
+the use of effective field theory methods in the strongly coupled Higgs sector
+and in the calculation of oblique electroweak corrections is touched upon.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 10:18:01 GMT""}]","2010-12-17"
+"hep-ph/9302248","Errol Gotsman","E. Gotsman, E.M. Levin and U. Maor (School of Physics and
+  Astronomy,Tel Aviv University and Fermi National Accelerator Laboratory,
+  Batavia, Ill)","Large Rapidity Gaps in PP Collisions","11 pages, TAUP 2030-93 (LaTeX, two figures not attached, available
+  from authors)","Phys.Lett.B309:199-204,1993","10.1016/0370-2693(93)91527-T",,"hep-ph",,"  The survival probability of large rapidity gaps in pp collisions is
+calculated for several different eikonal models of the Gaussian form. Results
+obtained for models based on partonic interactions are quite similar. The
+Regge-pole model predicts a higher value of $ < \vert S \vert^{2} > $ .
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 11:09:20 GMT""}]","2011-05-05"
+"hep-ph/9302249","Sylvie Zaffanella","Ph. Brax, J.-L. Meunier, R. Peschanski","Angular Intermittency in QCD Jets","Saclay-t93/011","Z.Phys.C62:649-658,1994","10.1007/BF01574168",,"hep-ph",,"  Using two methods, via fluctuations and correlations, an analytical formula
+is derived for the factorial multiplicity moments in a QCD jet at the Double
+Leading Logarithm accuracy. The resulting self-similar dependence on the
+solid-angle cell size is characteristic of an intermittency behaviour in
+angular variables. The intermittency indices depend on the diffusion angle
+through the running of $ \alpha_ s. $ Physical features of jet fluctuations
+such as collimation at large angles and saturation at small angles are well
+described in the perturbative framework. A parameter-free prediction of angular
+intermittency is proposed for $ {\cal Z}^0 $ decays into hadrons, assuming
+hadron-parton duality.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 13:36:22 GMT""}]","2008-11-26"
+"hep-ph/9302253",,"Thomas G. Rizzo","Constraints on New Physics From Tevatron Dijet Data","18 pages, latex, 6 figures(not included),ANL-HEP-PR-93-8","Phys.Rev.D48:4470-4473,1993","10.1103/PhysRevD.48.4470",,"hep-ph",,"  New results from the CDF Collaboration on the invariant mass distribution of
+dijet events observed at the Tevatron are used to constrain the masses and
+couplings of new gauge bosons ($W'$ and $Z'$) as well as fundamental diquarks
+which can occur in some extended electroweak models. In the case of new gauge
+bosons, these new bounds are then compared to existing limits which arise from
+searches for the leptonic decay modes of these particles at the Tevatron.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 12:45:53 GMT""}]","2008-11-26"
+"hep-th/9302039",,"Katsushi Ito","Free Field Realization of $N=2$ Super $W_{3}$ Algebra","10 pages, latex, NBI-HE-93-08","Phys.Lett. B304 (1993) 271-277","10.1016/0370-2693(93)90293-Q",,"hep-th",,"  We study the quantum $N=2$ super-$W_{3}$ algebra using the free field
+realization, which is obtained from the supersymmetric Miura transformation
+associated with the Lie superalgebra $A(2|1)$. We compute the full operator
+product expansions of the algebra explicitly. It is found that the results
+agree with those obtained by the OPE method.
+","[{""version"":""v1"",""created"":""Wed, 10 Feb 1993 17:18:24 GMT""}]","2009-10-22"
+"hep-th/9302040","Solodukhin-63942","S.N.Solodukhin","Two-dimensional Black Hole With Torsion","11 pages, Preprint JINR E2-93-33","Phys.Lett. B319 (1993) 87-95","10.1016/0370-2693(93)90786-H",,"hep-th",,"  The 2D model of gravity with zweibeins $e^{a}$ and the Lorentz connection
+one-form $\omega^{a}_{\ b}$ as independent gravitational variables is
+considered and it is shown that the classical equations of motion are exactly
+integrated in coordinate system determined by components of 2D torsion. For
+some choice of integrating constant the solution is of the charged black hole
+type. The conserved charge and ADM mass of the black hole are calculated.
+","[{""version"":""v1"",""created"":""Wed, 10 Feb 1993 18:36:00 GMT""}]","2009-10-22"
+"hep-th/9302046","Amithaba Lahiri","Amitabha Lahiri,10","Constrained Dynamics of the Coupled Abelian Two-Form","LA-UR-93-474","Mod. Phys. Lett. A8 (1993) 2403-2412","10.1142/S021773239300369X",,"hep-th",,"  I present the reduction of phase space of the theory of an antisymmetric
+tensor potential coupled to an abelian gauge field, using Dirac's procedure.
+Duality transformations on the reduced phase space are also discussed.
+","[{""version"":""v1"",""created"":""Wed, 10 Feb 1993 18:26:44 GMT""}]","2015-06-26"

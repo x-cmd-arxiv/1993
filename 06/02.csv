@@ -1,0 +1,317 @@
+"alg-geom/9306001",,"Alexis Kouvidakis and Tony Pantev","The automorphism group of the moduli space of semi stable vector bundles","48 pages, LaTeX",,,,"alg-geom math.AG",,"  Let ${\cal S}{\cal U}(r, L_0)$ denote the moduli space of semi stable vector
+bundles of rank $r$ and fixed determinant $L_0$ of degree $d$ on a smooth curve
+$C$ of genus $g \geq 3$. In this paper we describe the group of automorphisms
+of $ {\cal S}{\cal U}(r, L_0) $. The analogue of this result is carried out for
+the space ${\cal U}(r,d) $ of semi stable vector bundles of rark $r$ and degree
+$d$. As an application of the technics we use, we give in the appendix at the
+end of the paper a proof of the Torelli theorem for the moduli spaces ${\cal
+S}{\cal U}(r, L_0) $ for any rank $r$ and degree $d$.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 02:02:05 GMT""}]","2008-02-03"
+"alg-geom/9306002",,"Alexis Kouvidakis","Picard groups of Hilbert schemes of curves","13 pages, LaTeX",,,,"alg-geom math.AG",,"  We calculate the Picard group, over the integers, of the Hilbert scheme of
+smooth, irreducible, non-degenerate curves of degree $d$and genus $g \geq 4$ in
+${\Bbb P}^r$, in the case when $d \geq 2g+1 $ and $r \leq d-g$. We express the
+classes of the generators in terms of some ``natural'' divisor classes.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 01:15:29 GMT""}]","2008-02-03"
+"astro-ph/9306001","Biman Nath","Biman B. Nath, Peter L. Biermann","Did Cosmic Rays Reionize the Intergalactic Medium?","15 pages, Plain TeX, (5 figures available upon request); To appear in
+  MNRAS, MPIfR Preprint #531",,"10.1093/mnras/265.1.241",,"astro-ph",,"  We investigate the role of cosmic rays from young galaxies in heating and
+ionizing the intergalactic medium (IGM) at high redshift. Using the IRAS
+observations at $60 \mu m$, we estimate the cosmic ray luminosity density at
+the present epoch. We consider various forms of luminosity evolution in
+redshift and calculate (a) the thresholds corresponding to the upper limits of
+Gunn-Peterson optical depth, (b) the Compton $y$ parameter for an IGM heated by
+cosmic rays and compare with the upper limits from COBE measurements and (c) an
+estimated limit from the integral of metal enrichment. We show that certain
+models, with rather strong evolution and early formation of galaxies, allow
+reionization of the IGM, consistent with all known constraints.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 14:39:54 GMT""}]","2015-06-24"
+"cond-mat/9306002",,"A.H. Castro Neto and A.O. Caldeira","On Quantum Scattering of a System with Internal Degrees of Freedom","11 pages, RevteX, ITP preprint (NEW VERSION)",,,,"cond-mat hep-th nucl-th",,"  We study the quantum tunnelling of a very complex object of which only part
+is coupled to an external potential ( the potential barrier ). We treat this
+problem as the tunnelling of a particle (part of the system affected by the
+potential) coupled to a ``heat bath"" ( all of the remaining degrees of freedom
+) from the point of view of the wavefunction of the whole system. We obtain an
+effective scattering equation for this wavefunction which resembles the
+integral equation for the wavefunction of the particle in the absence of the
+bath. We show that the effect of the interaction is to renormalize the mass and
+the potential of the problem and that these new parameters can be solely
+described in terms of the spectral function of the excitations of the system.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 20:52:02 GMT""},{""version"":""v2"",""created"":""Tue, 1 Nov 1994 06:54:12 GMT""}]","2008-02-03"
+"cond-mat/9306003","Erik Sorensen","E. S. Sorensen, S. Eggert and I. Affleck","Integrable versus Non-Integrable Spin Chain Impurity Models","20 pages 11 figures obtainable from authors, REVTEX 3.0",,"10.1088/0305-4470/26/23/023","UBCTP-93-007","cond-mat",,"  Recent renormalization group studies of impurities in spin-1/2 chains appear
+to be inconsistent with Bethe ansatz results for a special integrable model. We
+study this system in more detail around the integrable point in parameter space
+and argue that this integrable impurity model corresponds to a non-generic
+multi-critical point. Using previous results on impurities in half-integer spin
+chains, a consistent renormalization group flow and phase diagram is proposed.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 20:10:00 GMT""}]","2009-10-22"
+"cond-mat/9306004","Misha Dobroliubov","M. Dobroliubov, E. Langmann, P.C.E. Stamp","The Superfluidity and Experimental Properties of Odd-Energy-Gap
+  Superconductors","LaTeX, 13pp plus 6 PS figures included in PSBOX format UBCTP CM1-1993",,"10.1209/0295-5075/26/2/011",,"cond-mat",,"  We consider the experimental properties of superconductors with a gap which
+is an odd function of energy $\bepsk=\epsk - \mu$, i.e.\ , a gap which vanishes
+everywhere on the Fermi surface; this is done within a in a BCS framework.
+Apart from the standard phenomenology (density of states, penetration depth,
+NMR, $C_V(T)$, $B_{c2}(T)$), we also look at the stability of the
+superconducting state. It is stable to finite supercurrents (although with a
+normal fluid density which increases with the supercurrent density), and is
+also very weakly affected by non-magnetic impurities. We find two classes of
+odd-gap superconductors, which strongly differ in their low-energy properties.
+For a certain parameter range, most of the results resemble those for d-wave
+superconductors (except for the effect of impurities).
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 00:22:00 GMT""}]","2009-10-22"
+"cond-mat/9306005",,"S.J.B. Einchcomb and A.J. McKane","Escape Rates in Bistable Systems Induced by Quasi-Monochromatic Noise","20 pages (LaTex) + 4 figures (encapsulted postscript) upon request",,"10.1103/PhysRevE.49.259",,"cond-mat",,"  Path integral techniques are used to understand the behaviour of a particle
+moving in a bistable potential well and acted upon by quasi-monochromatic
+external noise. In the limit of small diffusion coefficient, a steepest descent
+evaluation of the path integral enables mean first passage times and the
+transition times from one well to the other to be computed. The results and
+general approach are compared with computer simulations of the process. It is
+found that the bandwidth parameter, $\Gamma$, has a critical value above which
+particle escape is by white-noise-like outbursts, but below which escape is by
+oscillatory type behaviour.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 10:46:00 GMT""}]","2009-10-22"
+"gr-qc/9306003",,"J. W. Moffat","Consistency of the Nonsymmetric Gravitational Theory","26 pages plain TeX. Revised version of UTPT-93-11. TeX macro provided",,,,"gr-qc",,"  The NGT field equations with sources are expanded first about a flat
+Minkowski background and then about a GR background to first-order in the
+antisymmetric part of the fundamental tensor, $g_{\mu\nu}$. From the general,
+static spherically symmetric solution of the field equation in empty space, we
+establish that there are two conserved charges $m$ and $\ell^2$ corresponding
+to the two basic gauge invariances of NGT. There is no direct contribution to
+the flux of gravitational waves from the antisymmetric, $g_{[\mu\nu]}$, sector
+in the linearized, lowest order of approximation, nor in the non-linear theory.
+It is demonstrated that the flux of gravitational waves is finite in magnitude
+and positive definite for solutions of the field equations which satisfy the
+boundary condition of asymptotic flatness.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 17:49:09 GMT""},{""version"":""v2"",""created"":""Mon, 7 Mar 1994 21:13:55 GMT""}]","2008-02-03"
+"gr-qc/9306005",,"Mirjam Cveti\v{c}, Stephen Griffies, and Harald H. Soleng","Local and global gravitational aspects of domain wall space-times","UPR-565-T, 26 REVTEX pages, 10 figures available upon request","Phys.Rev.D48:2613-2634,1993","10.1103/PhysRevD.48.2613",,"gr-qc hep-th",,"  Local and global gravitational effects induced by eternal vacuum domain walls
+are studied. We concentrate on thin walls between non-equal and non-positive
+cosmological constants on each side of the wall. These vacuum domain walls fall
+in three classes depending on the value of their energy density $\sigma$: (1)\
+extreme walls with $\sigma = \sigma_{{\text{ext}}}$ are planar, static walls
+corresponding to supersymmetric configurations, (2)\ non-extreme walls with
+$\sigma = \sigma_{{\text{non}}} > \sigma_{{\text{ext}}}$ correspond to
+expanding bubbles with observers on either side of the wall being {\em
+inside\/} the bubble, and (3)\ ultra-extreme walls with $\sigma =
+\sigma_{{\text{ultra}}} < \sigma_{{\text{ext}}}$ represent the bubbles of false
+vacuum decay. On the sides with less negative cosmological constant, the
+extreme, non-extreme, and ultra-extreme walls exhibit no, repulsive, and
+attractive effective ``gravitational forces,'' respectively. These
+``gravitational forces'' are global effects not caused by local curvature.
+Since the non-extreme wall encloses observers on both sides, the supersymmetric
+system has the lowest gravitational mass accessable to outside observers. It is
+conjectured that similar positive mass protection occurs in all physical
+systems and that no finite negative mass object can exist inside the universe.
+We also discuss the global space-time structure of these singularity free
+space-times and point out intriguing analogies with the causal structure of
+black holes.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 15:07:24 GMT""}]","2009-09-17"
+"hep-ph/9306202",,"Alexander Kyatkin","Multi Particle Semiclassical Process in \PHI^4 Theory","12 pages, PlainTeX, JHU-TIPAC-930016","Phys.Lett.B316:318-323,1993","10.1016/0370-2693(93)90331-B",,"hep-ph hep-th",,"  We have shown an example of semiclassical transition in \phi^4 model with
+positive coupling constant. This process describes a semiclassical transition
+between two coherent states with much smaller average number of particles in
+the initial state than in the final state. This transition is technically
+analogous to the one-instanton transition in the electroweak model. It is
+suppressed by the factor exp(-2S), where S is Lipatov instanton action. It
+could be important to the problem of calculation of amplitudes for
+multiparticle production in \phi^4-type models.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 17:08:54 GMT""}]","2010-11-01"
+"hep-ph/9306203","Stephen Parke, Fermilab","Tao Han and Stephen Parke","Heavy Top Quark Searches in the Di-Lepton Mode at the Tevatron","uses PHYZZX and TABLES macros, 10 pages, four figures not included
+  (available by request), FERMILAB-Pub-93/105-T","Phys.Rev.Lett. 71 (1993) 1494-1497","10.1103/PhysRevLett.71.1494",,"hep-ph",,"  We present the results of a detailed study of the effects of $b$-tagging on
+the heavy top-quark signal and backgrounds for the modes of the di-lepton plus
+two high transverse energy jets at the Fermilab Tevatron. The general
+characteristics of the heavy top-quark signal events are also discussed so that
+a comparison can be made between $b$-tagging and imposing stringent kinematical
+cuts to eliminate backgrounds.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 16:59:32 GMT""}]","2009-10-22"
+"hep-ph/9306204","J. Gunion","R. Michael Barnett, John F. Gunion, and Howard E. Haber","Discovering Supersymmetry with Like-sign Dileptons","14 pages, uses phyzzx.tex macro, full postscript file, including
+  embedded figure, available via anonymous ftp at ucdhep as
+  [anonymous.gunion]likesign.ps, preprint UCD-93-17","Phys.Lett. B315 (1993) 349-354","10.1016/0370-2693(93)91623-U",,"hep-ph",,"  Supersymmetry may be discovered at hadron colliders by searching for events
+similar to the top quark signal of two isolated leptons. In the case of gluino
+production, the most distinguishing feature is that in half the events the two
+leading leptons have the same sign. We demonstrate the remarkable sensitivity
+of this gluino signature at both the Fermilab Tevatron Collider and at the
+Superconducting Super Collider. Techniques for approximately determining the
+gluino mass are discussed.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 20:52:00 GMT""}]","2009-10-22"
+"hep-ph/9306205","Nir Polonsky-3C13-949","Paul Langacker and Nir Polonsky","The Bottom Mass Prediction in Supersymmetric Grand Unification;
+  Uncertainties and Constraints","23 pages + 7 figures (figures are available upon request), LaTex +
+  RevTex 3.0, UPR-0556T","Phys.Rev. D49 (1994) 1454-1467","10.1103/PhysRevD.49.1454",,"hep-ph",,"  Grand unified theories often predict unification of Yukawa couplings (e.g.,
+$h_{b} = h_{\tau}$), and thus certain relations among fermion masses. The
+latter can distinguish these from models that predict only coupling constant
+unification. The implications of Yukawa couplings of the heavy-family in the
+supersymmetric extension of the standard model (when embedded in a GUT) are
+discussed. In particular, uncertainties associated with $m_{t}$ and $m_{b}$,
+threshold corrections at the low-scale, and threshold and
+nonrenormalizable-operator corrections associated with a grand-unified sector
+at the high-scale are parametrized and estimated. The implication of these and
+of the correlation between $m_{t}$ and the prediction for $\alpha_{s}$ are
+discussed. Constraints on the $\tan\beta$ range in such models and an upper
+bound on the $t$-quark pole mass are given and are shown to be affected by the
+$\alpha_{s}-m_{t}$ correlation. Constraints on the low-scale thresholds are
+found to be weakened by uncertainties associated with the high-scale.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 23:11:04 GMT""}]","2009-10-22"
+"hep-ph/9306206",,"Heinz K\""onig","Contribution of Scalar Loops to the Three-Photon Decay of the Z","6 pages, plain Tex, 1 figure available under request via fax or mail,
+  OCIP/C-93-5, UQAM-PHE-93/07","Phys.Rev. D50 (1994) 602-605","10.1103/PhysRevD.50.602",,"hep-ph",,"  I corrected 3 mistakes from the first version: that were an omitted Feynman
+integration in the function f^3_{ij}, a factor of 2 in front of log f^3_{ij} in
+eq.2 and an overall factor of 2 in Fig.1 c). The final result is changed
+drastically. Doing an expansion in the Higgs mass I show that the matrix
+element is identically 0 in the order (MZ/MH)^2, which is due to gauge
+invariance. Left with an amplitude of the order (MZ/MH)^4 the final result is
+that the scalar contribution to this decay rate is several orders of magnitude
+smaller than those of the W boson and fermions.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 00:10:02 GMT""},{""version"":""v2"",""created"":""Sat, 20 Nov 1993 04:37:54 GMT""}]","2009-10-22"
+"hep-ph/9306207",,"Howard E. Haber","Introductory Low-Energy Supersymmetry","98 pages, SCIPP-92/33 (April, 1993) [TASI-92 Lectures] (PHYZZX
+  format; uses Ray Cowan's TABLES.TEX table macros)",,,,"hep-ph",,"  Low-energy supersymmetry is a theoretical extension of the Standard Model of
+particle physics in which supersymmetry is invoked to explain the origin of the
+electroweak scale. In this approach, the energy scale of supersymmetry breaking
+can be no larger than about 1 TeV. In these lectures, a pedagogical account of
+softly broken supersymmetric gauge theories is presented. The minimal
+supersymmetric extension of the Standard Model (MSSM) is defined and
+constraints on its parameters are explored. The implications of supersymmetric
+tree-level interactions and its one-loop corrections are discussed. Low-energy
+supersymmetric model alternatives to the MSSM are briefly mentioned.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 01:19:00 GMT""}]","2007-05-23"
+"hep-ph/9306208","Frans Klinkhamer","F. R. Klinkhamer","Existence of a New Instanton in Constrained Yang-Mills-Higgs Theory","32 pages, Latex, NIKHEF-H/93-02 (March 1993), postscript file
+  including 10 figures available by anonymous ftp from nikhefh.nikhef.nl","Nucl.Phys. B407 (1993) 88-114","10.1016/0550-3213(93)90275-T",,"hep-ph",,"  Our goal is to discover possible new 4-dimensional euclidean solutions
+(instantons) in fundamental SU(2) Yang-Mills-Higgs theory, with a constraint
+added to prevent collapse of the scale. We show that, most likely, there exists
+one particular new constrained instanton (\Istar) with vanishing Pontryagin
+index. This is based on a topological argument that involves the construction
+of a non-contractible loop of 4-dimensional configurations with a certain
+upperbound on the action, which we establish numerically. We expect \Istar to
+be the lowest action non-trivial solution in the vacuum sector of the theory.
+There also exists a related static, but unstable, solution, the new sphaleron
+\Sstar. Possible applications of \Istar to the electroweak interactions include
+the asymptotics of perturbation theory and the high-energy behaviour of the
+total cross-section.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 10:06:11 GMT""}]","2009-10-22"
+"hep-ph/9306209",,"Biswajoy Brahmachari, Anjan S. Joshipura, Saurabh D. Rindani, D.P. Roy
+  and Sridhar K","Mass Limits of Invisibly Decaying Higgs Particles from the LEP Data","(LATEX, 12 pages, 3 figures available on request), TIFR/TH/93-26","Phys.Rev. D48 (1993) 4224-4229","10.1103/PhysRevD.48.4224",,"hep-ph",,"  In the Majoron models the $SU(2)$ doublet Higgs can decay invisibly into a
+Majoron pair via its mixing with a singlet. An analysis of the LEP data shows
+the invisible decay mode to be more visible than the SM decay. For these
+models, the dominantly doublet Higgs $H$ is shown to have a mass limit within
+$\pm 6$ GeV of the SM limit irrespective of the model parameters. But the
+dominantly singlet one $S$ can be arbitrarily light for sufficiently small
+mixing angle.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 14:24:00 GMT""}]","2009-10-22"
+"hep-ph/9306210","Francoise Guerin","F. Guerin","Retarded-Advanced N-point Green Functions in thermal field theories",,"Nucl.Phys. B432 (1994) 281-314","10.1016/0550-3213(94)90603-3",,"hep-ph",,"  The general relationship between a Retarded-Advanced Green function of the
+Real Time formalism and analytical continuations of the Imaginary Time
+Amplitude is obtained via perturbation theory. A 4-point R-A function is, at
+most, a linear combination of three analytical continuations, and a 5-point R-A
+function of seven continuations. The R-A functions are written as the sum of
+one analytical continuation plus discontinuities across single momentum
+transfer variables. These discontinuities
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 11:55:39 GMT""}]","2009-10-22"
+"hep-ph/9306211","Eletsky Vladimir","V.L. Eletsky, J.I. Kapusta and R. Venugopalan","Screening Mass from Chiral Perturbation Theory, Virial Expansion, and
+  the Lattice","30 pages, TPI-MINN-93/22-T, NUC-MINN-93/10-T, BUTP-93/13","Phys.Rev. D48 (1993) 4398-4407","10.1103/PhysRevD.48.4398",,"hep-ph hep-lat nucl-th",,"  We calculate the electric screening mass in hot hadronic matter using two
+different approaches, chiral perturbation theory and the relativistic virial
+expansion with empirical phase shifts, and compare the results to each other
+and to a gas of free pions and $\rho$ mesons. We also compute the electric
+screening mass for noninteracting, charged bosons with mass $m$ on a lattice to
+study likely finite size effects in lattice gauge theory simulations of
+continuum QCD. For a lattice of given size, the continuum can be properly
+represented only for a window in the ratio $T/m$.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 13:13:27 GMT""}]","2009-10-22"
+"hep-ph/9306212","Naoya Hata","S. Bludman, N. Hata, and P. Langacker","Astrophysical Solutions are Incompatible with the Solar Neutrino Data","Revtex 3.0 (convertible to Latex), 10 pages, 4 postscript figures
+  attached (tar-compressed uuencoded), UPR-0572T","Phys.Rev.D49:3622-3625,1994","10.1103/PhysRevD.49.3622",,"hep-ph astro-ph",,"  We consider the most general solar model, using the neutrino fluxes as free
+parameters constrained only by the solar luminosity, and show that the combined
+solar neutrino data exclude any astrophysical solution at 98\% C.L.\ Our best
+fit to the $^7$Be and $^8$B fluxes is respectively $<$7\% and 37$\pm$4\% of the
+standard solar model prediction, but only with a large $\chi^2$ (5.6 for 1
+d.f.). This best fit to the fluxes contradicts explicit nonstandard solar
+models, which generally reduce the $^8$B flux more than the $^7$Be. Those
+models are well parameterized by a single parameter, the central temperature.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 12:44:06 GMT""}]","2009-04-13"
+"hep-th/9306002","Subir Ghoshal","Subir Ghoshal and Alexander Zamolodchikov","Boundary S-Matrix and Boundary State in Two-Dimensional Integrable
+  Quantum Field Theory","44pp, RU-93-20","Int.J.Mod.Phys. A9 (1994) 3841-3886; Erratum-ibid. A9 (1994) 4353","10.1142/S0217751X94001552",,"hep-th",,"  We study integrals of motion and factorizable S-matrices in two-dimensional
+integrable field theory with boundary. We propose the ``boundary
+cross-unitarity equation'' which is the boundary analog of the cross-symmetry
+condition of the ``bulk'' S-matrix. We derive the boundary S-matrices for the
+Ising field theory with boundary magnetic field and for the boundary
+sine-Gordon model.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 02:05:43 GMT""},{""version"":""v2"",""created"":""Wed, 2 Jun 1993 14:48:08 GMT""}]","2009-10-22"
+"hep-th/9306005","Anatoli Kirillov","Sergey Fomin and Anatol N. Kirillov","Yang-Baxter equation, symmetric functions and Grothendieck polynomials","25 pages",,,,"hep-th math.QA",,"  New development of the theory of Grothendieck polynomials, based on an
+exponential solution of the Yang-Baxter equation in the algebra of projectors
+are given.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 18:23:59 GMT""},{""version"":""v2"",""created"":""Wed, 2 Jun 1993 16:46:27 GMT""}]","2008-02-03"
+"hep-th/9306006","John Preskill","Hoi-Kwong Lo and John Preskill","Non-abelian vortices and non-abelian statistics","38 pages and 6 figures, REVTEX (version 2) and epsf.tex, CALT-68-1867","Phys.Rev. D48 (1993) 4821-4834","10.1103/PhysRevD.48.4821",,"hep-th cond-mat",,"  We study the interactions of non-abelian vortices in two spatial dimensions.
+These interactions have novel features, because the Aharonov-Bohm effect
+enables a pair of vortices to exchange quantum numbers. The cross section for
+vortex-vortex scattering is typically a multi-valued function of the scattering
+angle. There can be an exchange contribution to the vortex-vortex scattering
+amplitude that adds coherently with the direct amplitude, even if the two
+vortices have distinct quantum numbers. Thus two vortices can be
+``indistinguishable'' even though they are not the same.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 16:27:17 GMT""}]","2009-10-22"
+"hep-th/9306007",,"A.H.Castro Neto and A.O.Caldeira","Transport Properties of Solitons","16 Pages, RevTeX, Preprint UIUC",,"10.1103/PhysRevE.48.4037",,"hep-th cond-mat nucl-th",,"  We calculate in this article the transport coefficients which characterize
+the dynamics of solitons in quantum field theory using the methods of
+dissipative quantum systems. We show how the damping and diffusion coefficients
+of soliton-like excitations can be calculated using the integral functional
+formalism. The model obtained in this article has new features which cannot be
+obtained in the standard models of dissipation in quantum mechanics.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 19:41:04 GMT""}]","2009-10-22"
+"hep-th/9306008","Kurt Haller","K. Haller and E. Lim-Lombridas","Quantum Gauge Equivalence in QED","Contribution for a special issue of Foundations of Physics honoring
+  Fritz Rohrlich; edited by Larry P. Horwitz, Tel-Aviv University, and Alwyn
+  van der Merwe, University of Denver (Plenum Publishing, New York); 40 pages,
+  REVTEX, Preprint UCONN-93-3, 1 figure available upon request from authors","Found.Phys.24:217-247,1994","10.1007/BF02313123",,"hep-th",,"  We discuss gauge transformations in QED coupled to a charged spinor field,
+and examine whether we can gauge-transform the entire formulation of the theory
+from one gauge to another, so that not only the gauge and spinor fields, but
+also the forms of the operator-valued Hamiltonians are transformed. The
+discussion includes the covariant gauge, in which the gauge condition and
+Gauss's law are not primary constraints on operator-valued quantities; it also
+includes the Coulomb gauge, and the spatial axial gauge, in which the
+constraints are imposed on operator-valued fields by applying the
+Dirac-Bergmann procedure. We show how to transform the covariant, Coulomb and
+spatial axial gauges to what we call
+  ``common form,'' in which all particle excitation modes have identical
+properties. We also show that, once that common form has been reached, QED in
+different gauges has a common time-evolution operator that defines
+time-translation for states that represent systems of electrons and photons.
+  By combining gauge transformations with changes of representation from
+standard to common form, the entire apparatus of a gauge theory can be
+transformed from one gauge to another.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 21:12:09 GMT""}]","2010-11-01"
+"hep-th/9306009",,"Stephen L. Adler","Generalized quantum dynamics","48 pages, IASSNS-HEP-93/32","Nucl.Phys.B415:195-242,1994","10.1016/0550-3213(94)90072-8",,"hep-th",,"  We propose a generalization of Heisenberg picture quantum mechanics in which
+a Lagrangian and Hamiltonian dynamics is formulated directly for dynamical
+systems on a manifold with non--commuting coordinates, which act as operators
+on an underlying Hilbert space. This is accomplished by defining the Lagrangian
+and Hamiltonian as the real part of a graded total trace over the underlying
+Hilbert space, permitting a consistent definition of the first variational
+derivative with respect to a general operator--valued coordinate. The
+Hamiltonian form of the equations is expressed in terms of a generalized
+bracket operation, which is conjectured to obey a Jacobi identity. The
+formalism permits the natural implementation of gauge invariance under
+operator--valued gauge transformations. When an operator Hamiltonian exists as
+well as a total trace Hamiltonian, as is generally the case in complex quantum
+mechanics, one can make an operator gauge transformation from the Heisenberg to
+the Schr\""odinger picture. When applied to complex quantum mechanical systems
+with one bosonic or fermionic degree of freedom, the formalism gives the usual
+operator equations of motion, with the canonical commutation relations emerging
+as constraints associated with the operator gauge invariance. More generally,
+our methods permit the formulation of quaternionic quantum field theories with
+operator--valued gauge invariance, in which we conjecture that the operator
+constraints act as a generalization of the usual canonical commutators.
+","[{""version"":""v1"",""created"":""Tue, 1 Jun 1993 20:20:40 GMT""}]","2010-11-01"
+"hep-th/9306010","Hidetoshi Awata","H. Awata, M. Noumi and S. Odake","Heisenberg realization for U_q(sln) on the flag manifold","10 pages, YITP/K-1016, plain TEX (some mistakes corrected and a
+  reference added)","Lett.Math.Phys. 30 (1993) 35-44","10.1007/BF00761420",,"hep-th",,"  We give the Heisenberg realization for the quantum algebra $U_q(sl_n)$, which
+is written by the $q$-difference operator on the flag manifold. We construct it
+from the action of $U_q(sl_n)$ on the $q$-symmetric algebra $A_q(Mat_n)$ by the
+Borel-Weil like approach. Our realization is applicable to the construction of
+the free field realization for the $U_q(\widehat{sl_n})$ [AOS].
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 05:58:08 GMT""},{""version"":""v2"",""created"":""Thu, 10 Jun 1993 12:39:53 GMT""}]","2009-10-22"
+"hep-th/9306011","Frank Dodd Smith","F. D. T. Smith","Sets and C^n; Quivers and A-D-E; Triality; Generalized Supersymmetry;
+  and D4-D5-E6","1+22 pages, THEP-93-5, LaTex",,,,"hep-th",,"  The relation between Geisteswissenschaft and Naturwissenschaft has been
+discussed by Munster in hep-th/9305104. The plan of this paper is to begin with
+the empty set; use it to form sets and quivers (sets of points plus sets of
+arrows between pairs of points); and then use them to make complex vector
+spaces and to get the A-D-E Coxeter-Dynkin diagrams. The Dn Spin(2n) Lie
+algebras have spinor representations to describe fermions. D4 Spin(8) triality
+gives automorphisms among its vector and two half-spinor representations. D5
+Spin(10) contains both Spin(8) and the complexification of the vector
+representation of Spin(8). E6 contains both Spin(10) and the two half-spinor
+representations of Spin(10), and therefore contains the adjoint representation
+of Spin(8) and the complexifications of the vector and the two half-spinor
+representations of Spin(8). E6 is the basis for construction of a fundamental
+model of physics that is consistent with experiment (see hep-th/9302030,
+hep-ph/9301210).
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 08:16:04 GMT""}]","2007-05-23"
+"hep-th/9306012",,"D.Boulatov","qQCD$_2$ and G/G model","7pp, NBI-HE-93-27, revised. Small changes: several fixed inaccuracies
+  + updated references","Mod.Phys.Lett. A8 (1993) 3491-3496","10.1142/S0217732393003913",,"hep-th",,"  The 2D lattice gauge theory with a quantum gauge group $SL_q(2)$ is
+considered. When $q=e^{i\frac{2\pi}{k+2}}$, its weak coupling partition
+function coincides with the one of the G/G coset model ({\em i.e.} equals the
+Verlinde numbers). However, despite such a remarkable coincidence, these models
+are not equivalent but, in some certain sense, dual to each other.
+","[{""version"":""v1"",""created"":""Wed, 2 Jun 1993 13:41:30 GMT""},{""version"":""v2"",""created"":""Wed, 4 Aug 1993 15:18:32 GMT""}]","2009-10-22"

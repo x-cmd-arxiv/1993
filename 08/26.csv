@@ -1,0 +1,202 @@
+"astro-ph/9308033","Geoff Bicknell","Geoffrey V. Bicknell","On the Relationship between BL-Lacertae Objects and FRI Radio Galaxies","52 Pages including figures",,"10.1086/173748",,"astro-ph",,"  The idea that Fanaroff-Riley Class~I Radio Galaxies contain core jets with
+Lorentz factors of the order of a few and are the parent population for BL~Lac
+Objects is examined, with particular reference to the data on two FRI Radio
+Galaxies, NGC~315 and NGC~6251. Conservation laws for an entraining
+relativistic jet are derived and are used to determine a relationship between
+Mach number and velocity for initially relativistic jets. One immediate
+consequence of this relationship is that, if an initially relativistic jet is
+decelerated to a transonic Mach number between, say 0.5 and 1.5, then its
+velocity at this point is between 0.3 and 0.7 times the speed of light.
+Analysis of the milliarcsecond and arcsecond data on NGC~315 and NGC~6251 shows
+that the Lorentz factors of the core jets in these galaxies can be as high as
+2-4 provided that the jet pressures are not much more than an order of
+magnitude higher than the minimum pressures. Such Lorentz factors are more
+plausible if the jets are inclined at $\sim 30$ degrees to the line of sight,
+although larger angles would also be possible. For core Lorentz factors in the
+range 2-4, the jets are mildly relativistic on the large scale and their
+velocities are consistent with the jet brightness asymmetries being caused by
+Doppler beaming. The Lorentz factors required for significant beaming of core
+jets may be reconciled with subluminal motions of knots in the core if these
+are reverse shocks advected by the jet. Moderate jet Lorentz factors are
+possible if the shocks are normal and higher Lorentz factors are possible if
+the shocks are oblique. This paper provides support for the idea that the
+transition from two-sided to one-sided jets across the FRI/II break is due to
+the transition from
+","[{""version"":""v1"",""created"":""Wed, 25 Aug 1993 20:08:04 GMT""}]","2009-10-22"
+"astro-ph/9308034","Geoff Bicknell","Geoffrey V. Bicknell","Beamed Radiation in Radio Galaxies","10 pages inc. figures uuencoded, compressed postscript file Invited
+  Paper presented at The First Stromlo Symposium: The Physics of Active
+  Galaxies",,,,"astro-ph",,"  This paper focuses on two aspects of the Physics of Radio Galaxies in which
+it has been proposed that relativistic beaming of radiation is necessary to
+account for the observations. Physical arguments are presented which show that
+it is quite plausible that the jets in FRI radio galaxies are relativistic on
+the parsec scale and decelerate to subrelativistic flow on the kiloparsec
+scale. On the other hand it is shown that beaming of the optical continuum from
+the core of Centaurus~A is not necessary to account for the excitation of the
+emission line filaments in the ISM of this galaxy. Models involving
+autoionizing shocks produced by the interaction between a low Mach number jet
+and dense clouds along its path are capable of explaining the morphology of the
+filaments and the simultaneous high excitation and low excitation lines in
+their spectra.
+","[{""version"":""v1"",""created"":""Wed, 25 Aug 1993 20:23:15 GMT""}]","2007-05-23"
+"gr-qc/9308028","Othmar Brodbeck","O. Brodbeck and N. Straumann","Selfgravitating Yang-Mills solitons and their Chern-Simons numbers","31 pages, Latex, report ZU-TH 23/93, figure can be obtained from the
+  authors","J.Math.Phys.35:899-919,1994","10.1063/1.530620",,"gr-qc",,"  We present a classification of the possible regular, spherically symmetric
+solutions of the Einstein-Yang-Mills system which is based on a bundle
+theoretical analysis for arbitrary gauge groups. It is shown that such solitons
+must be of magnetic type, at least if the magnetic Yang-Mills charge vanishes.
+Explicit expressions for the Chern-Simons numbers of these selfgravitating
+Yang-Mills solitons are derived, which involve only properties of irreducible
+root systems and some information about the asymptotics of the solutions. It
+turns out, as an example, that the Chern-Simons numbers are always
+half-integers or integers for the gauge groups $SU(n)$. Possible physical
+implications of these results, which are based on analogies with the unstable
+sphaleron solution of the electroweak theory, are briefly indicated.
+","[{""version"":""v1"",""created"":""Thu, 26 Aug 1993 13:12:32 GMT""}]","2010-11-01"
+"gr-qc/9308029","Kouji Nakamura","K.Nakamura, S.Konno, Y.Shiro, A.Tomimatsu","Quantum Fluctuations of Black Hole Geometry","18 pages, DPNU-93-31","Prog.Theor.Phys. 90 (1993) 861-870","10.1143/ptp/90.4.861",,"gr-qc hep-th",,"  By using the minisuperspace model for the interior metric ofstatic black
+holes, we solve the Wheeler-DeWitt equation to study quantum mechanics of the
+horizon geometry. Our basic idea is to introduce the gravitational mass and the
+expansions of null rays as quantum operators. Then, the exact wave function is
+found as a mass eigenstate, and the radius of the apparent horizon is
+quantum-mechanically defined. In the evolution of the metric variables, the
+wave function changes from a WKB solution giving the classical trajectories to
+a tunneling solution. By virtue of the quantum fluctuations of the metric
+evolution beyond the WKB approximation, we can observe a static black hole
+state with the apparent horizon separating from the event horizon.
+","[{""version"":""v1"",""created"":""Thu, 26 Aug 1993 15:12:08 GMT""}]","2017-02-01"
+"hep-ph/9308336","My Account","J. Lopez, D. Nanopoulos, and X. Wang","""Large $(g-2)_\mu$ in SU(5)xU(1) supergravity models""","10 pages, 4 figures (not included), Latex. Figures available from
+  me@cryptons.tamu.edu as ps files (total 0.985MB) or uuencoded file (0.463MB).
+  CERN-TH.6986/93, CTP-TAMU-44/93","Phys.Rev. D49 (1994) 366-372","10.1103/PhysRevD.49.366",,"hep-ph",,"  We compute the supersymmetric contribution to the anomalous magnetic moment
+of the muon within the context of $SU(5)\times U(1)$ supergravity models. The
+largest possible contributions to $a^{susy}_\mu$ occur for the largest allowed
+values of $\tan\beta$ and can easily exceed the present experimentally allowed
+range, even after the LEP lower bounds on the sparticle masses are imposed.
+Such $\tan\beta$ enhancement implies that $a^{susy}_\mu$ can greatly exceed
+both the electroweak contribution ($\approx1.95\times10^{-9}$) and the present
+hadronic uncertainty ($\approx\pm1.75\times10^{-9}$). Therefore, the new E821
+Brookhaven experiment (with an expected accuracy of $0.4\times10^{-9}$) should
+explore a large fraction (if not all) of the parameter space of these models,
+corresponding to slepton, chargino, and squarks masses as high as 200, 300, and
+1000 GeV respectively. Moreover, contrary to popular belief, the $a^{susy}_\mu$
+contribution can have either sign, depending on the sign of the Higgs mixing
+parameter $\mu$: $a^{susy}_\mu>0\,(<0)$ for $\mu>0$ ($\mu<0$). The present
+$a_\mu$ constraint excludes chargino masses in the range $45-120\GeV$ depending
+on the value of $\tan\beta$, although there are no constraints for
+$\tan\beta\lsim8$. We also compute $a^{susy}_\tau$ and find
+$|a^{susy}_\tau|\approx(m_\tau/m_\mu)^2\,|a^{susy}_\mu|\lsim10^{-5}$ and
+briefly comment on its possible observability.
+","[{""version"":""v1"",""created"":""Wed, 25 Aug 1993 17:57:52 GMT""}]","2009-10-22"
+"hep-ph/9308337","Chris Quigg","Estia J. Eichten, Christopher T. Hill, and Chris Quigg","Properties of Orbitally Excited Heavy-Light Mesons","10 pages, FERMILAB--Pub--93/255--T (uses REVTEX macros)","Phys.Rev.Lett.71:4116-4119,1993","10.1103/PhysRevLett.71.4116",,"hep-ph",,"  Orbitally excited heavy-light mesons are potentially important as tools for
+tagging the flavors and momenta of ground-state pseudoscalars detected through
+weak decays. We use heavy-quark symmetry supplemented by insights gleaned from
+potential models to estimate masses and widths of $p$-wave $B$, $B_s$, and
+$D_s$ mesons. We generalize these results to higher excitations.
+","[{""version"":""v1"",""created"":""Wed, 25 Aug 1993 21:10:59 GMT""}]","2008-11-26"
+"hep-ph/9308338",,"A. Djouadi and P. Gambino","On the asymptotic ${\cal O}(\alpha \alpha_S)$ behavior of the
+  electroweak gauge bosons vacuum polarization functions for arbitrary quark
+  masses","14 pages + 2 figures (not included: available by mail from A.
+  Djouadi), Preprint UdeM-LPN-TH-93-156 and NYU-TH-93/05/02","Phys.Rev. D49 (1994) 4705-4712","10.1103/PhysRevD.49.4705",,"hep-ph",,"  We derive the QCD corrections to the electroweak gauge bosons vacuum
+polarization functions at high and zero--momentum transfer in the case of
+arbitrary internal quark masses. We then discuss in this general case (i) the
+connection between the $O(\alpha \alpha_S)$ calculations of the vector bosons
+self--energies using dimensional regularization and the one performed via a
+dispersive approach and (ii) the QCD corrections to the $\rho$ parameter for a
+heavy quark isodoublet.
+","[{""version"":""v1"",""created"":""Wed, 25 Aug 1993 20:20:47 GMT""}]","2009-10-22"
+"hep-ph/9308339",,"A. Djouadi","New Fermions at e$^+$e$^-$ Colliders: I. Production and Decay","21 pages (no figures), Preprint UdeM-LPN-TH-93-157","Z. Phys. C63 (1994) 317-326","10.1007/BF01411024",,"hep-ph",,"  We analyze the production in $e^+e^-$ collisions of new heavy fermions
+stemming from extensions of the Standard Model. We write down the most general
+expression for the production of two heavy fermions and their subsequent
+decays, allowing for the polarization of the e$^+$e$^-$ initial state and
+taking into account the final polarization of the fermions. We then discuss the
+various decay modes including cascade and three body decays, and the production
+mechanisms, both pair production and single production in association with
+ordinary fermions.
+","[{""version"":""v1"",""created"":""Wed, 25 Aug 1993 20:21:15 GMT""}]","2009-10-22"
+"hep-ph/9308340",,"G. Azuelos and A. Djouadi","New Fermions at e$^+$e$^-$ Colliders: II.~Signals and Backgrounds","22 pages + 9 figures (not included: available by mail from A.
+  Djouadi), Preprint UdeM-LPN-TH-93-158","Z. Phys. C63 (1994) 327-338","10.1007/BF01411025",,"hep-ph",,"  We discuss the production, at high--energy e$^+$e$^-$ linear colliders, of
+new heavy fermions predicted by extensions of the Standard Model. We analyze in
+great details the various signals and the corresponding backgrounds for both
+pair production and single production in association with ordinary fermions.
+Concentrating on new leptons, we use a model detector for e$^+$e$^-$ collisions
+at a center of mass energy of 500 GeV, to illustrate the discovery potential of
+the Next Linear Colliders.
+","[{""version"":""v1"",""created"":""Wed, 25 Aug 1993 20:21:46 GMT""}]","2009-10-22"
+"hep-ph/9308341","Erika Zynda","Frank Wilczek","Remarks on Hot QCD","19 pages, no figures, use Phyzzx, IASSNS-HEP 93/48","Nucl.Phys. A566 (1994) 123c-132c","10.1016/0375-9474(94)90616-5",,"hep-ph hep-th nucl-th",,"  After briefly reviewing work I've done recently with Krishna Rajagopal on the
+nature of the equilibrium phase transition in QCD at finite temperature and
+zero baryon number and on the possibility of forming misaligned vacuum by a
+quench, I discuss -- also briefly -- two new items. These are extension of the
+arguments concerning the order of the transition to to 2+1 dimensions, relating
+in this case gauge to conformal field theories, that could be explored in
+numerical experiments; and the energy budget at the chiral transition and its
+relevance to the nature of the transition and to quenching.
+","[{""version"":""v1"",""created"":""Thu, 26 Aug 1993 13:18:59 GMT""}]","2009-10-22"
+"hep-th/9308116",,"Paul Mansfield","Continuum Strong Coupling Expansion of Yang-Mills Theory: Quark
+  Confinement and Infra-Red Slavery","18 pages, DTP-93-43 [original version corrupted by mailer]","Nucl.Phys.B418:113-130,1994","10.1016/0550-3213(94)90240-2",,"hep-th",,"  We solve Schr\""odinger's equation for the ground-state of {\it
+four}-dimensional Yang-Mills theory as an expansion in inverse powers of the
+coupling. Expectation values computed with the leading order approximation are
+reduced to a calculation in {\it two}-dimensional Yang-Mills theory which is
+known to confine. Consequently the Wilson loop in the four-dimensional theory
+obeys an area law to leading order and the coupling becomes infinite as the
+mass-scale goes to zero.
+","[{""version"":""v1"",""created"":""Wed, 25 Aug 1993 16:41:00 GMT""},{""version"":""v2"",""created"":""Sat, 4 Sep 1993 19:18:00 GMT""}]","2008-11-26"
+"hep-th/9308117",,"Paul Mansfield","The Consistency of Topological Expansions in Field Theory: `BRST
+  Anomalies' in Strings and Yang-Mills","19 pages, DTP-93-45 [original version corrupted by mailer]","Nucl.Phys. B416 (1994) 205-226","10.1016/0550-3213(94)90583-5",,"hep-th",,"  Many field theories of physical interest have configuration spaces consisting
+of disconnected components. Quantum mechanical amplitudes are then expressed as
+sums over these components. We use the Faddeev-Popov approach to write the
+terms in this topological expansion as moduli space integrals. A cut-off is
+needed when these integrals diverge. This introduces a dependence on the choice
+of parametrisation of configuration space which must be removed if the theory
+is to make physical sense. For theories that have a local symmetry this also
+leads to a breakdown in BRST invariance. We discuss in detail the cases of
+Bosonic Strings and Yang-Mills theory, showing how this arbitrariness may be
+removed by the use of a counter-term in the former case, and by
+compactification on $S\sp 4$ in the latter.
+","[{""version"":""v1"",""created"":""Wed, 25 Aug 1993 16:42:00 GMT""},{""version"":""v2"",""created"":""Sat, 4 Sep 1993 19:19:00 GMT""}]","2009-10-22"
+"hep-th/9308118",,"Nadeem A. Ansari, L. Di Fiore, M. A. Man'ko, V.I. Man'ko, S. Solimeno
+  and F. Zaccaria","Quantum Limits in Interferometric GW Antennas in the Presence of Even
+  and Odd coherent states","LATEX,14 pages,INFN-NA-IV-93/20, DSF-T-93/35",,"10.1103/PhysRevA.49.2151",,"hep-th",,"  We discuss a model for interferometric GW antennas without dissipative or
+active elements.
+  It is predicted that the even and odd coherent states may play an alternative
+role to squeezed vacuum states in reducing the optimal power of the input
+laser.
+","[{""version"":""v1"",""created"":""Wed, 25 Aug 1993 17:36:00 GMT""}]","2009-10-22"
+"hep-th/9308119",,"I.Ya. Aref'eva, R. Parthasarathy, K.S. Viswanathan and I.V. Volovich","Coherent States, Dynamics and Semiclassical Limit on Quantum Groups","20 pages in latex, SFU-HEP-108-93","Mod.Phys.Lett.A9:689-704,1994","10.1142/S0217732394000502",,"hep-th",,"  Coherent states on the quantum group $SU_q(2)$ are defined by using harmonic
+analysis and representation theory of the algebra of functions on the quantum
+group. Semiclassical limit $q\rightarrow 1$ is discussed and the crucial role
+of special states on the quantum algebra in an investigation of the
+semiclassical limit is emphasized. An approach to $q$-deformation as a $q$-Weyl
+quantization and a relavence of contact geometry in this context is pointed
+out. Dynamics on the quantum group parametrized by a real time variable and
+corresponding to classical rotations is considered.
+","[{""version"":""v1"",""created"":""Wed, 25 Aug 1993 18:03:15 GMT""}]","2010-11-01"
+"hep-th/9308120","Christof Schmidhuber","Christof Schmidhuber","Running Coupling Constants in 2D Gravity","talk given at strings '93. 4 pages with 2 figures",,,,"hep-th",,"  The renormalization group flow in two--dimensional field theories that are
+coupled to gravity is discussed at the example of the sine-Gordon model. In
+order to derive the phase diagram in agreement with the matrix model results,
+it is necessary to generalize the theory of David, Distler and Kawai.
+","[{""version"":""v1"",""created"":""Thu, 26 Aug 1993 15:02:47 GMT""}]","2007-05-23"
+"hep-th/9308121","Christof Schmidhuber","Christof Schmidhuber, Caltech Ph.D. thesis","Extending the Theory of Random Surfaces","75 pages, Tex",,,,"hep-th",,"  The theory of embedded random surfaces, equivalent to two--dimensional
+quantum gravity coupled to matter, is reviewed, further developed and partly
+generalized to four dimensions. It is shown that the action of the Liouville
+field theory that describes random surfaces contains terms that have not been
+noticed previously. These terms are used to explain the phase diagram of the
+Sine--Gordon model coupled to gravity, in agreement with recent results from
+lattice computations. It is also demonstrated how the methods of
+two--dimensional quantum gravity can be applied to four--dimensional Euclidean
+gravity in the limit of infinite Weyl coupling. Critical exponents are
+predicted and an analog of the ``$c=1$ barrier'' of two--dimensional gravity is
+derived.
+","[{""version"":""v1"",""created"":""Thu, 26 Aug 1993 15:04:13 GMT""}]","2007-05-23"
+"hep-th/9308122",,"S. Hosono (1), A. Klemm (2), S. Theisen (2), S.-T. Yau (1) ((1) Dept.
+  of Mathematics, Harvard University; (2) Sektion Physik der Universit\""at
+  M\""unchen)","Mirror Symmetry, Mirror Map and Applications to Calabi-Yau Hypersurfaces","59 pages. Some changes in the references, a few minor points have
+  been clarified","Commun.Math.Phys.167:301-350,1995","10.1007/BF02100589","HUTMP-93/0801; LMU-TPW-93-22","hep-th alg-geom math.AG",,"  Mirror Symmetry, Picard-Fuchs equations and instanton corrected Yukawa
+couplings are discussed within the framework of toric geometry. It allows to
+establish mirror symmetry of Calabi-Yau spaces for which the mirror manifold
+had been unavailable in previous constructions. Mirror maps and Yukawa
+couplings are explicitly given for several examples with two and three moduli.
+","[{""version"":""v1"",""created"":""Thu, 26 Aug 1993 13:09:47 GMT""},{""version"":""v2"",""created"":""Fri, 12 Nov 1993 19:42:07 GMT""}]","2010-11-01"
+"hep-th/9308123","Weidong Zhao","Weidong Zhao","Fixed Point Structure for 3 dimensional rigid string","10 pages",,,,"hep-th",,"  We show that the usual fixed point for 3-d rigid string with topological term
+appears to be a trivial one, consisting of two decoupled conformal field
+theories. We further argue that by involving an additional term allowed by
+symmetries and thus generated by RG, the theory appears to exhibit a new fixed
+point with expected symmetriy. The new fixed point is studied in the weak- and
+string coupling limit.
+","[{""version"":""v1"",""created"":""Thu, 26 Aug 1993 14:20:17 GMT""}]","2007-05-23"

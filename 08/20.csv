@@ -1,0 +1,222 @@
+"alg-geom/9308003","Brussee Rogier","R. Brussee","Some remarks on the Kronheimer-Mrowka classes of algebraic surfaces","6 pages, Latex 2.09",,,,"alg-geom math.AG",,"  Define the Donaldson series of a simply connected 4-manifold by
+  q(X) = \sum_d q_d(X)/d!
+  Recently Kronheimer and Mroka have announced the result that the Donaldson
+series of so called simple 4-manifolds can be written as
+  q(X) = e^{Q/2}\sum_{i=1}^p a_i e^{K_i}
+  where $Q$ is the intersection form and the $K_i \in H^2(X,\Z)$ are the {\it
+Kronheimer-Mrowka classes}. We prove that for simple simply connected algebraic
+surfaces the $K_i$ are algebraic classes and that they are closely related to
+the canonical class $K_X$. For simple simply connected minimal surfaces of
+general type we prove $K_i^2 \le K_X^2$ with equality if and only if $K_i = \pm
+K_X$.
+  Remark: although no gauge theory is used in this paper it should have a cross
+reference with the as yet non existent e-print service for low dimensional
+topology.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 11:10:55 GMT""}]","2008-02-03"
+"astro-ph/9308025",,"Kevin Krisciunas (Joint Astronomy Centre, Hilo, Hawaii, USA)","Errata in \em {Enclyclopedia of Cosmology}","5 pages, Latex",,,,"astro-ph",,"  I have noted a number of errors, most of them quite minor, in the {\em
+Encyclopedia of Cosmology} (New York and London: Garland), 1993, Norriss S.
+Hetherington, ed. The majority occur in my mathematically verbose article,
+``Fundamental cosmological parameters"". Some errata were passed on to me by
+Prof. Ralph Alpher. In the interests of accuracy, I feel that the corrections
+should be publicized, since no book review will mention more than a couple of
+them. Also, the incorrectly typeset equations could lead to serious confusion
+in the minds of readers seeing such material for the first time.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 00:53:26 GMT""}]","2007-05-23"
+"cond-mat/9308028",,"Jose A. Riera (Physics Division, ORNL, Oak Ridge, Tennessee, USA)","Phase separation and pairing in coupled chains and planes","13 pages + 3 figures, available upon request, LATEX, preprint
+  ORNL/CCIP/93/12",,"10.1103/PhysRevB.49.3629",,"cond-mat",,"  A generalization of the $t-J$ model in a system of two coupled chains or
+planes is studied by numerical diagonalization of small clusters. In
+particular, the effect of density fluctuations between these one- or
+two-dimensional coupled layerson intralayer phase separation and pairing is
+analyzed. The most robust signals of superconductivity are found at quarter
+filling for couplings just before the fully interlayer phase separated regime.
+The possibility of an enhancement of the intralayer superconducting pairing
+correlations by the interlayer couplings is investigated.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 14:25:57 GMT""},{""version"":""v2"",""created"":""Tue, 24 Aug 1993 18:58:53 GMT""}]","2009-10-22"
+"cond-mat/9308029","Erwin Frey","Leo Radzihovsky and Erwin Frey","Kinetic Theory of Flux Line Hydrodynamics:LIQUID Phase with Disorder","61 pages and 6 figures available upon request, plain TEX using
+  Harvard macros",,"10.1103/PhysRevB.48.10357",,"cond-mat",,"  We study the Langevin dynamics of flux lines of high--T$_c$ superconductors
+in the presence of random quenched pinning. The hydrodynamic theory for the
+densities is derived by starting with the microscopic model for the flux-line
+liquid. The dynamic functional is expressed as an expansion in the dynamic
+order parameter and the corresponding response field. We treat the model within
+the Gaussian approximation and calculate the dynamic structure function in the
+presence of pinning disorder. The disorder leads to an additive static peak
+proportional to the disorder strength. On length scales larger than the line
+static transverse wandering length and at long times, we recover the
+hydrodynamic results of simple frictional diffusion, with interactions
+additively renormalizing the relaxational rate. On shorter length and time
+scales line internal degrees of freedom significantly modify the dynamics by
+generating wavevector-dependent corrections to the density relaxation rate.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 15:00:20 GMT""}]","2009-10-22"
+"gr-qc/9308018","Donald Marolf","Jorma Louko and Donald M. Marolf","Solution space of 2+1 gravity on ${\bf R} \times T^2$ in Witten's
+  connection formulation","23 pages, REVTeX v3.0, SU-GP-93/7-6, CGPG-93/8-3. (Discussion on the
+  gauge equivalence of degenerate and nondegenerate metrics extended.)","Class.Quant.Grav.11:311-330,1994","10.1088/0264-9381/11/2/005",,"gr-qc hep-th",,"  We investigate the space ${\cal M}$ of classical solutions to Witten's
+formulation of 2+1 gravity on the manifold ${\bf R} \times T^2$. ${\cal M}$ is
+connected, unlike the spaces of classical solutions in the cases where $T^2$ is
+replaced by a higher genus surface. Although ${\cal M}$ is neither Hausdorff
+nor a manifold, removing from ${\cal M}$ a set of measure zero yields a
+manifold which is naturally viewed as the cotangent bundle over a non-Hausdorff
+base space~${\cal B}$. We discuss the relation of the various parts of ${\cal
+M}$ to spacetime metrics, and various possibilities of quantizing~${\cal M}$.
+There exist quantizations in which the exponentials of certain momentum
+operators, when operating on states whose support is entirely on the part of
+${\cal B}$ corresponding to conventional spacetime metrics, give states whose
+support is entirely outside this part of~${\cal B}$. Similar results hold when
+the gauge group ${\rm SO}_0(2,1)$ is replaced by ${\rm SU}(1,1)$.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 22:51:00 GMT""},{""version"":""v2"",""created"":""Wed, 17 Nov 1993 23:25:00 GMT""}]","2010-04-06"
+"gr-qc/9308019",,"Victor M. Villalba","Particle Creation in a universe filled by radiation and dust-like matter","16pp. IVIC-CFLE-93/03","Prog.Theor.Phys. 90 (1993) 851-860","10.1143/ptp/90.4.851",,"gr-qc",,"  In this article the particle creation process of scalar and spin 1/2
+particles in a spatially open cosmological model associated with a universe
+filled by radiation and dustlike matter. The Klein-Gordon and Dirac equations
+are solved via separation of variables. After comparing the{\it \ in }and% {\it
+\ out} vacua, we obtain that the number of created particles corresponds to
+  Planckian and Fermi-Dirac distributions for the scalar and Dirac cases
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 21:51:11 GMT""}]","2017-02-01"
+"hep-ph/9308301","Felix Schlumpf","Felix Schlumpf","A Relativistic Constituent Quark Model","Talk given at XIVth European Conference on Few-Body Problems in
+  Physics, Amsterdam, The Netherlands, August 23-27, 1993, ReVTeX 9 pages, 4
+  figures included as uufile, SLAC-PUB-6335","Few Body Syst.Suppl.7:290-293,1994",,,"hep-ph",,"  We investigate the predictive power of a relativistic quark model formulated
+on the light-front. The nucleon electromagnetic form factors, the semileptonic
+weak decays of the hyperons and the magnetic moments of both baryon octet and
+decuplet are calculated and found to be in excellent agreement with experiment.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 16:46:48 GMT""}]","2011-04-15"
+"hep-ph/9308302","Judy Mack","S. Okubo","Possible Tests of CP-Violations in $B^\pm$ Decays","6 pages, UR-1318, ER-40685-768",,,,"hep-ph",,"  Some experimental tests are suggested for possible CP-violations for decays
+of $B^\pm$ bosons. Especially, a detailed comparison of decays $B^+ \rightarrow
+D^0 \pi^+ \pi^+ \pi^-$ and $B^- \rightarrow \overline{D^0} \pi^- \pi^- \pi^+$
+will lead to tests of not only CP, but also C, and P invariances.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 18:49:00 GMT""}]","2007-05-23"
+"hep-ph/9308303","Ed Stoeffhaas","M.B. Gay Ducati","The Pomeron as Massive Gluons","Talk presented at the Vth Bois Workshop on Elastic and Diffractive
+  Scattering, June 1993. Latex, 6 pages (also uses worldsci.sty -- can be
+  processed without, format will be different). 4 figures available by fax or
+  regular mail. MAD/PH/784",,,,"hep-ph",,"  A QCD-Pomeron composed by two non-perturbative gluons with a dynamically
+generated mass, is constructed in a gauge invariant way. The gluon propagator
+is infrared-finite. The model properly describes data on elastic scattering,
+exclusive $\rho$ production in deep inelastic scattering (DIS) and the
+$J/\Psi$-nucleon total cross-section in terms of a single gluon mass
+$m_g\simeq0.37$~GeV. The total cross sections of hadrons with small radii, such
+as $J/\Psi$, are very sensitive on the effective gluon mass.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 20:12:06 GMT""}]","2007-05-23"
+"hep-ph/9308304","Youichi Yamada","Youichi Yamada","Two-loop renormalization of gaugino masses in general supersymmetric
+  gauge models","8 pages + 1 figure (omitted),KEK-TH-371 / UT-653","Phys.Rev.Lett. 72 (1994) 25-27","10.1103/PhysRevLett.72.25",,"hep-ph",,"  We calculate the two-loop renormalization group equations for the running
+gaugino masses in general SUSY gauge models, improving our previous result. We
+also study its consequence to the unification of the gaugino masses in the SUSY
+SU(5) model. The two-loop correction to the one-loop relation
+$m_i(\mu)\propto\alpha_i(\mu)$ is found to be of the order of a few \%.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 01:45:57 GMT""}]","2009-10-22"
+"hep-ph/9308305","Valeri Dvoeglazov","Valeri V. Dvoeglazov, Sergei V. Khudyakov and Svyatoslav B. Salganik","Relativistic Covariant Equal-Time Equation For Quark-Diquark System","LaTeX file, 12 pp","Int.J.Theor.Phys. 37 (1998) 1895-1908",,"IFUNAM FT-93-024","hep-ph",,"  Relativistic three-dimensional quasipotential (equal-time) equations are
+considered, which describe bound states of fermion and boson of spin S=0 or
+S=1. The spin structure of the interaction quasipotentials in such systems is
+studied, and corresponding partial-wave equation for the simplest case is
+obtained. Such equations can be used in calculations of energy spectra, decay
+rates and structure functions of quark-diquark systems (nucleons and their
+resonances) as well as for description of ($\pi\mu$)- atom.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 03:24:36 GMT""}]","2007-05-23"
+"hep-ph/9308306","Kurt Langfeld","H. Reinhardt, K. Langfeld","Non-Trivial SU(N) Instantons and Exotic Skyrmions","10 LaTex pages (1 figure available on request), UNITUE-THEP-10-1993","Phys.Lett. B317 (1993) 590-595","10.1016/0370-2693(93)91377-Y",,"hep-ph",,"  The classical Yang-Mills equations are solved for arbitrary semi-simple gauge
+groups in the Schwinger-Fock gauge. A new class of SU(N) instantons is
+presented which are not embeddings of SU(N-1) instantons but have non-trivial
+SU(N) color structure and carry winding number $n=N(N^{2}-1)/6$. Explicit
+configurations are given for SU(3) and SU(4) gauge groups. By means of the
+Atiyah Manton procedure Skyrmion fields are constructed from the SU(N)
+instantons. These Skyrmions represent exotic baryon states.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 09:09:43 GMT""}]","2009-10-22"
+"hep-ph/9308308",,"Michael Gronau (Department of Physics, Technion) and Jonathan L.
+  Rosner (Enrico Fermi Institute and Department of Physics, University of
+  Chicago)","Framework for Identification of Neutral B Mesons","Submitted to Phys. Rev. Letters. 8 pages, LaTeX, Technion-PH-93-31 /
+  EFI 93-31","Phys.Rev.Lett.72:195-198,1994","10.1103/PhysRevLett.72.195",,"hep-ph",,"  We introduce a method for the study of CP-violating asymmetries in tagged
+states of neutral $B$ mesons with arbitrary coherence properties. A set of
+time-dependent measurements is identified which completely specifies the
+density matrix of the initial state in a two-component space with basis vectors
+$B^0$ and $\overline B^0$, and permits a determination of phases in the
+Cabibbo-Kobayashi-Maskawa matrix. For a given tagging configuration, the
+measurement of decays both to flavor eigenstates and to CP eigenstates provides
+the necessary information.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 14:41:12 GMT""}]","2010-11-01"
+"hep-ph/9308309","Terry Elliott","T. Elliott, S.F. King and P.L. White","Radiative Corrections to Higgs Boson Masses in the Next-to-Minimal
+  Supersymmetric Standard Model","38 pages, 29 figures available (see top of tex file for details), TeX
+  (macros included), SHEP-92/93-21","Phys.Rev.D49:2435-2456,1994","10.1103/PhysRevD.49.2435",,"hep-ph",,"  We perform a systematic study of radiative corrections to the masses of the
+Higgs bosons in the minimal supersymmetric standard model (MSSM) augmented by a
+single gauge singlet, the so-called next-to-minimal supersymmetric standard
+model (NMSSM). Our method is based on the one-loop effective potential and
+includes effects of top quark, squark, Higgs and Higgsino loops. We discuss the
+renormalisation group flows of Yukawa couplings and the upper bound on the
+lightest CP-even neutral Higgs boson mass as a function of the heavier stop
+mass and top mass. We then give a general discussion of Higgs boson
+phenomenology including radiative corrections. We survey as much of the
+parameter space of the Higgs sector of the NMSSM as is practicable, and analyse
+the full spectrum of Higgs masses and couplings in these regions of parameter
+space. Characteristic signatures of the NMSSM such as light charged bosons and
+weakly coupled neutral scalars are discussed, as are the relative sizes of the
+various radiative corrections. The MSSM is also discussed as a limiting case of
+the NMSSM for comparison.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 14:51:54 GMT""}]","2011-01-13"
+"hep-th/9308094","Savvidy","G.K.Savvidy and F.J.Wegner","Geometrical String and Spin Systems","10 pages, Latex,Crete-TH-5-July-1993","Nucl.Phys. B413 (1994) 605-613","10.1016/0550-3213(94)90003-5",,"hep-th",,"  We formulate a new geometrical string on the euclidean lattice. It is
+possible to find such spin systems with local interaction which reproduce the
+same surface dynamics.In the three-dimensional case this spin system is a usual
+Ising ferromagnet with additional diagonal antiferromagnetic interaction and
+with specially adjusted coupling constants. In the four-dimensional case the
+spin system coincides with the gauge Ising system with an additional
+double-plaquette interaction and also with specially tuned coupling constants.
+We extend this construction to random walks and random hypersurfaces (membrane
+and p-branes) of high dimensionality. We compare these spin systems with the
+eight-vertex model and BNNNI models.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 18:51:14 GMT""}]","2009-10-22"
+"hep-th/9308095","Jisuke Kubo","Takanori Fujiwara, Yuji Igarashi and Jisuke Kubo","Weyl Invariance and Spurious Black Hole in Two-Dimensional Dilaton
+  Gravity","28 pages, KANAZAWA-93-06","Int. J. Mod. Phys. A9 (1994) 4811-4835","10.1142/S0217751X94001953",,"hep-th",,"  In two-dimensional dilaton gravity theories, there may exist a global Weyl
+invariance which makes black hole spurious. If the global invariance and the
+local Weyl invariance of the matter coupling are intact at the quantum level,
+there is no Hawking radiation. We explicitly verify the absence of anomalies in
+these symmetries for the model proposed by Callan, Giddings, Harvey and
+Strominger. The crucial observation is that the conformal anomaly can be
+cohomologically trivial and so not truly anomalous in such dilaton gravity
+models.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 02:42:39 GMT""}]","2015-06-26"
+"hep-th/9308096","Josh Boorstein","Metin Arik, Gokhan Unel and Muhittin Mungan","q-Oscillators, q-Epsilon Tensor, q-Groups","11 pages","Phys.Lett. B321 (1994) 385","10.1016/0370-2693(94)90263-1","BUFB 93-05; EFI 93-45","hep-th math.QA",,"  Considering a multi-dimensional $q$-oscillator invariant under the (non
+quantum) group $U(n)$, we construct a $q$-deformed Levi-Civita epsilon tensor
+from the inner product states. The invariance of this $q$-epsilon tensor is
+shown to yield the quantum group $SL_{q}(n)$ and establishes the relationship
+of the $U(n)$ invariant $q$-oscillator to quantum groups and quantum group
+related oscillators. Furthermore the $q$-epsilon tensor provides the connection
+between $SL_{q}(n)$ and the volume element of the quantum hyper plane.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 18:49:44 GMT""}]","2009-10-22"
+"hep-th/9308097",,"I.V.Volovich","Positive Definite Gravitational Action, Cosmological Constant and
+  Superstring Theory","7pages, LATEX, SFU-HEP-110-93",,,,"hep-th gr-qc",,"  We use the recently discovered universality of Einstein equations in the
+first order formalism to suggest a positive definite Euclidean action. Possible
+implications for quantum gravity are considered. We discuss the Hawking and
+Coleman approach to the vanishing of the cosmological constant by using the new
+action and find that the cosmological constant is probably zero. A possible
+scenario for obtaining such an action from superstring field theory is
+discussed.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 06:16:39 GMT""}]","2007-05-23"
+"hep-th/9308100","Larus Thorlacius","L. Susskind and L. Thorlacius","Gedanken Experiments involving Black Holes","22 pages (including 7 figures), SU-ITP-93-19","Phys.Rev.D49:966-974,1994","10.1103/PhysRevD.49.966",,"hep-th",,"  Analysis of several gedanken experiments indicates that black hole
+complementarity cannot be ruled out on the basis of known physical principles.
+Experiments designed by outside observers to disprove the existence of a
+quantum-mechanical stretched horizon require knowledge of Planck-scale effects
+for their analysis. Observers who fall through the event horizon after sampling
+the Hawking radiation cannot discover duplicate information inside the black
+hole before hitting the singularity. Experiments by outside observers to detect
+baryon number violation will yield significant effects well outside the
+stretched horizon.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 10:35:49 GMT""}]","2009-10-07"
+"math/9308202","Juris Steprans","Saharon Shelah, Juris Stepr\=ans","Addendum to ``Maximal Chains in $\fomom$ and Ultrapowers of the
+  Integers''",,,,"Logic E-prints August 20, 1993; Shelah [ShSr:465a]","math.LO",,"  Upon presenting the proof of Theorem 3.3 in ""Maximal chains in $$ and
+ultrapowers of the integers"" I discovered that it is not entirely correct and
+certainly some details should be added. I have therefore written an addendum to
+the paper and made it available by ftp. Unfortunately the published version
+will be somewhat wanting.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9308016","Ruprecht Machleidt","G. Q. Li and R. Machleidt (University of Idaho)","Microscopic Calculation of in-Medium Proton-Proton Cross Sections","9 pages of RevTex and 4 figures (postscript in separate uuencoded
+  file), UI-NTH-9309","Phys.Rev.C49:566,1994","10.1103/PhysRevC.49.566",,"nucl-th",,"  We derive in-medium PROTON-PROTON cross sections in a microscopic model based
+upon the Bonn nucleon-nucleon potential and the Dirac-Brueckner approach for
+nuclear matter. We demonstrate the difference between proton-proton and
+neutron-proton cross sections and point out the need to distinguish carefully
+between the two cases. We also find substantial differences between our
+in-medium cross sections and phenomenological parametrizations that are
+commonly used in heavy-ion reactions.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 05:36:21 GMT""}]","2008-11-26"
+"nucl-th/9308017",,"Hiroko Ichie, Arata Hatashigaki, Akira Suzuki, and Masahiro Kimura","Effective Masses and Sizes of N(939), $\Delta\!\!\mbox{\boldmath(1232)}$
+  and N(1440) in Nuclear Medium","9 pages (2 figures not included, hard copy available upon request),
+  SUT-AS-930801",,,,"nucl-th",,"  The effective masses and sizes of N(939), $\Delta(1232)$ and N(1440) in
+nuclear medium are calculated for a model in which quarks are subjected to a
+confinement force quenched by the scalar part of nuclear interactions. At the
+nuclear matter density, the nucleon swells by 50\% relative to the free
+nucleon. The masses of $\Delta(1232)$ and N(1440) decrease in nuclear medium
+more than the nucleon, so that the pion requires less energy to excite them in
+nuclear medium than it does for a free nucleon.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 08:51:06 GMT""}]","2007-05-23"

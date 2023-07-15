@@ -1,0 +1,165 @@
+"hep-lat/9306005","Claude Bernard","Claude Bernard and Maarten Golterman","Partially Quenched Gauge Theories and a Application to Staggered
+  Fermions","21 pages, Wash. U. HEP/93-32","Phys.Rev. D49 (1994) 486-494","10.1103/PhysRevD.49.486",,"hep-lat hep-ph",,"  We extend our lagrangian technique for chiral perturbation theory for
+quenched QCD to include theories in which only some of the quarks are quenched.
+We discuss the relationship between the partially quenched theory and a theory
+in which only the unquenched quarks are present. We also investigate the
+peculiar infrared divergences associated with the $\eta'$ in the quenched
+approximation, and find the conditions under which such divergences can appear
+in a partially quenched theory. We then apply our results to staggered fermion
+QCD in which the square root of the fermion determinant is taken, using the
+observation that this should correspond to a theory with four quarks, two of
+which are quenched. [Uses harvmac macro package. No postscipt for the figures
+is available (sorry), but the figures are simple and we include do-it-yourself
+instructions for drawing them.]
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 22:29:19 GMT""}]","2016-08-31"
+"hep-ph/9306224","Kaloshin Alexander E.","A.E.Kaloshin and V.V.Serebryakov","$\pi^+$ and $\pi^0$ Polarizabilities from
+  {$\gamma\gamma\rightarrow\pi\pi$} Data on the Base of S-Matrix Approach","LaTeX, 14 pages plus 6 figures (not included, available upon request)
+  , ISU-IAP.Th93-03, Irkutsk","Z.Phys. C64 (1994) 689-694","10.1007/BF01957778",,"hep-ph",,"  We suggest the most model-independent and simple description of the
+$\gamma\gamma\rightarrow\pi\pi$ process near threshold in framework of S-matrix
+approach. The amplitudes contain the pion polarizabilities and rather
+restricted information about $\pi \pi$ interaction. Application of these
+formulae for description of MARK-II \cite{M2} and Crystal Ball \cite{CB} data
+gives: $(\alpha-\beta)^{C}=(6.0\pm 1.2)\cdot 10^{-42} {\rm cm}^{3}$,
+$(\alpha-\beta)^{N}=(-1.4\pm 2.1)\cdot 10^{-42} cm^3$ (in units system $e^2 = 4
+\pi \alpha$) at the experimental values of $\pi \pi$ scattering lengths. Both
+values are compartible with current algebra predictions.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 19:05:19 GMT""}]","2015-06-25"
+"hep-ph/9306225",,"O.W. Greenberg, D.M. Greenberger and T.V. Greenbergest","(Para)bosons, (para)fermions, quons and other beasts in the menagerie of
+  particle statistics","12 pages, in LaTex, UMD 93-203",,,,"hep-ph hep-th",,"  After some general comments about statistics and the TCP theorem, I discuss
+experimental searches for violations of the exclusion principle and theories
+which allow for such violations.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 16:20:00 GMT""}]","2007-05-23"
+"hep-ph/9306226","My Account","J. Lopez, D. Nanopoulos, and A. Zichichi","Towards a unified string supergravity model","CERN-TH.6903/93, CTP-TAMU-31/93, plain tex with harvmac, 3 figures. A
+  correction is made on the relation between $m_0$ and $m_{1/2}$, numerical
+  results changed significantly. The manuscript ps file and the three ps
+  figures are available via anonymous ftp site tamsun.tamu.edu in directory
+  incoming, filenames: CTP-TAMU-31-93.ps, CTP-TAMU-31-93a.ps,
+  CTP-TAMU-31-93b.ps, CTP-TAMU-31-93c.ps","Phys.Lett.B319:451-456,1993","10.1016/0370-2693(93)91750-H",,"hep-ph",,"  We present a unified string supergravity model based on a string-derived
+$SU(5)\times U(1)$ model and a string-inspired supersymmetry breaking scenario
+triggered by the $F$-term of the universally present dilaton field. This model
+can be described by three parameters: $m_t$, $\tan\beta$, and $m_{\tilde g}$.
+We work out the predictions for all sparticle and Higgs masses and discuss the
+prospects for their detection at the Tevatron, LEPI,II, and HERA. We find that
+the cosmological neutralino relic density is always within current expectations
+(\ie, $\Omega_\chi h^2_0\lsim0.9$). We also consider a more constrained version
+of this supersymmetry breaking scenario where the $B$-term is specified. In
+this case $\tan\beta$ can be determined ($\tan\beta\approx1.4-1.6$) and implies
+$m_t\lsim155\GeV$ and $m_h\lsim91\GeV$. Thus, continuing Tevatron top-quark
+searches and LEPI,II Higgs searches could probe this restricted scenario
+completely.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 19:36:13 GMT""},{""version"":""v2"",""created"":""Fri, 2 Jul 1993 16:41:29 GMT""}]","2009-08-25"
+"hep-ph/9306227","Valera","Valeri V. Dvoeglazov, Rudolf N. Faustov and Yuri N. Tyukhtyaev","Decay Rate of a Positronium. Review of Theory and Experiment","LaTeX file, 9 pp., Preprint IFUNAM FT-93-017","Mod.Phys.Lett. A8 (1993) 3263-3272","10.1142/S0217732393002191",,"hep-ph",,"  The present status of theoretical and experimental investigations of the
+decay rate of a positronium is considered. The increasing interest to this
+problem has been caused by the disagreement of the calculated value of
+$\Gamma_3 (o-Ps)$ and the recent series of precise experiments. The necessity
+of new calculations on the basis of the quantum field methods in bound state
+theory is pointed out with taking into account the dependence of the
+interaction kernel on relative energies.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 17:43:24 GMT""},{""version"":""v2"",""created"":""Sun, 27 Mar 1994 03:12:37 GMT""}]","2009-10-22"
+"hep-ph/9306228","David N. Williams","M. Veltman, D.N. Williams","Schoonschip '91","10 pages, Preprint# UM-TH-91-18. This corrected version is to fix a
+  problem in TeX'ing the previous version. It includes the TeX command \input
+  phyzzm to read the macros it needs from the file phyzzm.tex, available by
+  anonymous ftp from xxx.lanl.gov (hep-ph/papers/macros/phyzzm.tex) OR
+  archive.umich.edu (physics/tex/phyzzm.tex) The version of phyzzm.tex at
+  xxx.lanl.gov was broken and has been replaced",,,,"hep-ph",,"  The symbolic manipulation program Schoonschip is being made freely available
+for a number of computers with Motorola 680x0 cpu's. It can run on machines
+with relatively modest memory and disk resources, and is designed to run as
+fast as possible given the host constraints. Memory and disk utilization can be
+adapted to tune performance. Recently added capabilities include a system for
+efficient generation of diagrams, gamma algebra for continuous dimensions,
+algorithmic improvements for handling large problems, and an increase in the
+allowed number of {\tt X} expressions.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 18:52:25 GMT""},{""version"":""v2"",""created"":""Thu, 10 Jun 1993 20:50:58 GMT""}]","2008-02-03"
+"hep-ph/9306229","Oscar Eboli","O.J.P. Eboli, E.M. Gregores, M.B.Magro, P.G. Mercadante and S.F.
+  Novaes","Searching for Leptoquarks in electron-photon Collisions","12 pages in REVTeX3. 6 figures appended as postcript files. Report:
+  IFT-P.014/93 and IFUSP-P 1042","Phys.Lett. B311 (1993) 147-152","10.1016/0370-2693(93)90547-U",,"hep-ph",,"  We study the production of composite scalar leptoquarks in $e\gamma$
+colliders, and we show that an $e^+e^-$ machine operating in its $e\gamma$ mode
+is the best way to look for these particles in $e^+e^-$ collisions, due to the
+hadronic content of the photon.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 20:15:30 GMT""}]","2009-10-22"
+"hep-th/9306024","Parthasarathi Majumdar","Parthasarathi Majumdar","Discretized Superstring in Three Dimensional Superspace","8 pages","Phys.Rev.Lett. 71 (1993) 1140-1143","10.1103/PhysRevLett.71.1140",,"hep-th",,"  The partition function of the discretized superstring in a target superspace
+of three (Euclidean) bosonic dimensions, is shown, for a fixed triangulation of
+the random world sheet, to be derived from the partition function of a
+discretized bosonic string with an external field present in the action in the
+form of a specific constant matrix, using first order forms of the actions.
+This latter partition function appears more amenable to an exact analytical
+treatment.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 19:03:57 GMT""}]","2009-10-22"
+"hep-th/9306025",,"Chuan-Jie Zhu","The Complete structure of the nonlinear $W_4$ and $W_5$ algebras from
+  quantum Miura transformation","16 pages, phyzzx, SISSA/76/93/EP, No modification, only note added","Phys.Lett. B316 (1993) 264-274","10.1016/0370-2693(93)90324-B",,"hep-th",,"  Starting from the well-known quantum Miura transformation for the Lie algebra
+$A_n$, we compute explicitly the OPEs for $n=3$ and 4. The primary fields with
+spin 3, 4 and 5 are found (for general $n$). By using these primary fields and
+the OPEs from quantum Miura transformation, we derive the complete structure of
+the nonlinear $W_4$ and $W_5$ algebras.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 16:38:20 GMT""},{""version"":""v2"",""created"":""Fri, 11 Jun 1993 17:26:23 GMT""}]","2009-10-22"
+"hep-th/9306026",,"Chuan-Jie Zhu","The BRST quantization of the nonlinear $WB_2$ and $W_4$ algebras","24 pages, phyzzx, revised version, about 50% modified","Nucl.Phys. B418 (1994) 379-399","10.1016/0550-3213(94)90252-6","SISSA/77/93/EP","hep-th",,"  We construct the BRST operator for the nonlinear $WB_2$ and $W_4$ algebras.
+Contrary to the general belief, the nilpotent condition of the BRST operator
+doesn't determine all the coefficients. We find a three and seven parameter
+family of nilpotent BRST operator for $WB_2$ and $W_4$ respectively. These free
+parameters are related to the canonical transformation of the ghost antighost
+fields.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 16:38:33 GMT""},{""version"":""v2"",""created"":""Fri, 11 Jun 1993 17:24:42 GMT""}]","2009-10-22"
+"hep-th/9306028","John Cardy","John Cardy and G. Mussardo","Universal Properties of Self-Avoiding Walks from Two-Dimensional Field
+  Theory","48 pages, UCSBTH-93-12, ISAS-93-75","Nucl.Phys.B410:451-493,1993","10.1016/0550-3213(93)90525-T",,"hep-th cond-mat",,"  We use the recently conjectured exact $S$-matrix of the massive ${\rm O}(n)$
+model to derive its form factors and ground state energy. This information is
+then used in the limit $n\to0$ to obtain quantitative results for various
+universal properties of self-avoiding chains and loops. In particular, we give
+the first theoretical prediction of the amplitude ratio $C/D$ which relates the
+mean square end-to-end distance of chains to the mean square radius of gyration
+of closed loops. This agrees with the results from lattice enumeration studies
+to within their errors, and gives strong support for the various assumptions
+which enter into the field theoretic derivation. In addition, we obtain results
+for the scaling function of the structure factor of long loops, and for various
+amplitude ratios measuring the shape of self-avoiding chains. These quantities
+are all related to moments of correlation functions which are evaluated as a
+sum over $m$-particle intermediate states in the corresponding field theory. We
+show that in almost all cases, the restriction to $m\leq2$ gives results which
+are accurate to at least one part in $10^3$. This remarkable fact is traced to
+a softening of the $m>2$ branch cuts relative to their behaviour based on phase
+space arguments alone, a result which follows from the threshold behaviour of
+the two-body $S$-matrix, $S(0)=-1$. Since this is a general property of
+interacting 2d field theories, it suggests that similar approximations may well
+hold for other models. However, we also study the moments of the area of
+self-avoiding loops,
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 16:24:03 GMT""}]","2014-11-18"
+"hep-th/9306029",,"J. Bordes, A. Abdurrahman and F. Anton","N-String Vertices in String Field Theory","22 pages, A4-Latex (latex twice), FTUV IFIC","Phys.Rev. D49 (1994) 2966-2977","10.1103/PhysRevD.49.2966",,"hep-th",,"  We give the general form of the vertex corresponding to the interaction of an
+arbitrary number of strings. The technique employed relies on the ``comma""
+representation of String Field Theory where string fields and interactions are
+represented as matrices and operations between them such as multiplication and
+trace. The general formulation presented here shows that the interaction vertex
+of N strings, for any arbitrary N, is given as a function of particular
+combinations of matrices corresponding to the change of representation between
+the full string and the half string degrees of freedom.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 16:28:02 GMT""}]","2009-10-22"
+"hep-th/9306030",,"Gaetano Fiore","The $SO_q(N,{\bf R})$-Symmetric Harmonic Oscillator on the Quantum
+  Euclidean Space ${\bf R}_q^N$ and its Hilbert Space Structure","55 pages, tex, to appear in the Int. J Mod. Phys. A, 1993. Revised
+  Feb. 1993","Int.J.Mod.Phys.A8:4679-4729,1993","10.1142/S0217751X93001880","Sissa preprint 102/92/EP","hep-th",,"  We show that the isotropic harmonic oscillator in the ordinary euclidean
+space ${\bf R}^N$ ($N\ge 3$) admits a natural q-deformation into a new quantum
+mechanical model having a q-deformed symmetry (in the sense of quantum groups),
+$SO_q(N,{\bf R})$. The q-deformation is the consequence of replacing $ R^N$ by
+${\bf R}^N_q$ (the corresponding quantum space). This provides an example of
+quantum mechanics on a noncommutative geometrical space. To reach the goal, we
+also have to deal with a sensible definition of integration over ${\bf R}^N_q$,
+which we use for the definition of the scalar product of states.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 18:05:58 GMT""}]","2010-11-01"
+"hep-th/9306031",,"Jonathan Underwood","On the Topological Charges of Affine Toda Solitons","6 pages, Imperial/TP/92-93/38",,,,"hep-th",,"  We provide a proof of a formula conjectured in \cite{OU93} for some
+coefficients relevant in the principal vertex operator construction of a
+simply-laced affine algebra $\gh$. These coefficients are important for the
+study of the topological charges of the solitons of affine Toda theories, and
+the construction of representations of non-simply-laced $\gh$ and their
+associated Toda solitons.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 19:22:07 GMT""}]","2007-05-23"
+"hep-th/9306032","Don N. Page","Don N. Page","Inconsistency of Canonically Quantized N=1 Supergravity?","4 pages, Alberta Thy-28-93, LaTeX",,,,"hep-th gr-qc",,"  D'Eath's proof (hep-th/9304084) that there can be at most two allowed quantum
+states of N=1 supergravity with zero or a finite number of fermions can be
+extended to show that there are no such states.
+","[{""version"":""v1"",""created"":""Fri, 4 Jun 1993 21:24:50 GMT""},{""version"":""v2"",""created"":""Fri, 4 Jun 1993 21:50:23 GMT""}]","2008-02-03"
+"hep-th/9306033","Alexander Sevrin","A. Sevrin and W. Troost","Extensions of the Virasoro Algebra and Gauged WZW Models","10 pages, LaTeX, LBL-34125, UCB-PTH-93/19, KUL-TF-93/21","Phys.Lett. B315 (1993) 304-310","10.1016/0370-2693(93)91617-V",,"hep-th",,"  To any non-trivial embedding of sl(2) in a (super) Lie algebra, one can
+associate an extension of the Virasoro algebra. We realize the extended
+Virasoro algebra in terms of a WZW model in which a chiral, solvable group is
+gauged, the gauge group being determined by the sl(2) embedding. The resulting
+BRST cohomology is computed and the field content of the extended Virasoro
+algebra is determined. The (quantum) closure of the extended Virasoro algebra
+is shown. Applications such as the quantum Miura transformation and the
+effective action of the associated extended gravity theory are discussed in
+detail.
+","[{""version"":""v1"",""created"":""Sat, 5 Jun 1993 04:46:42 GMT""}]","2009-10-22"

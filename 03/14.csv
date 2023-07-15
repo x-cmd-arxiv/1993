@@ -1,0 +1,52 @@
+"hep-ph/9303257","Harada Masayasu","Masayasu Harada, Taichiro Kugo and Koichi Yamawaki","Proving the Low Energy Theorem of Hidden Local Symmetry","12 pages, LaTeX, DPNU-93-01/KUNS-1178","Phys.Rev.Lett. 71 (1993) 1299-1302","10.1103/PhysRevLett.71.1299",,"hep-ph",,"  Based on the Ward-Takahashi identity for the BRS symmetry, we prove to all
+orders of the loop expansion the low energy theorem of hidden local symmetry
+for the vector mesons (KSRF (I) relation) in the $U(N)_{\rm L}$ $\times$
+$U(N)_{\rm R}$ / $U(N)_{\rm V}$ nonlinear chiral Lagrangian.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1993 14:00:36 GMT""}]","2009-10-22"
+"hep-ph/9303258","Harada Masayasu","Masayasu Harada, Taichiro Kugo and Koichi Yamawaki","Low Energy Theorems of Hidden Local Symmetries","36 pages, plain TeX (using `phyzzx' macro), KUNS-1179 HE(TH)93/02,
+  DPNU-93-02 In this revised version we have replaced only the macro line <
+  \mathchardef\bftheta=""0B12 > into < \mathchardef\bftheta=""0912 >, for the
+  former code `0B**' works only for the Japanese ASCII TeX","Prog.Theor.Phys. 91 (1994) 801-828","10.1143/ptp/91.4.801",,"hep-ph",,"  We prove to all orders of the loop expansion the low energy theorems of
+hidden local symmetries in four-dimensional nonlinear sigma models based on the
+coset space $G/H$, with $G$ and $H$ being arbitrary compact groups. Although
+the models are non-renormalizable, the proof is done in an analogous manner to
+the renormalization proof of gauge theories and two-dimensional nonlinear sigma
+models by restricting ourselves to the operators with two derivatives (counting
+a hidden gauge boson field as one derivative), i.e., with dimension 2, which
+are the only operators relevant to the low energy limit. Through loop-wise
+mathematical induction based on the Ward-Takahashi identity for the BRS
+symmetry, we solve renormalization equation for the effective action up to
+dimension-2 terms plus terms with the relevant BRS sources. We then show that
+all the quantum corrections to the dimension-2 operators, including the finite
+parts as well as the divergent ones, can be entirely absorbed into a
+re-definition (renormalization) of the parameters and the fields in the
+dimension-2 part of the tree-level Lagrangian.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1993 14:03:40 GMT""},{""version"":""v2"",""created"":""Tue, 23 Mar 1993 13:36:13 GMT""}]","2017-02-01"
+"hep-th/9303078","Richard MacKenzie","Didier Caenepeel and Richard MacKenzie","Parity violation and the mean field approximation for the anyon gas","11 pages, UdeM-LPN-TH-130","Mod. Phys. Lett. A8 (1993) 1909-1916","10.1142/S021773239300163X",,"hep-th cond-mat",,"  We examine an approach to justifying the mean field approximation for the
+anyon gas, using the scattering of anyons. Parity violation permits a nonzero
+average scattering angle, from which one can extract a mean radius of curvature
+for anyons. If this is larger than the interparticle separation, one expects
+that the graininess of the statistical magnetic field is unimportant, and that
+the mean field approximation is good. We argue that a non-conventional
+interaction between anyons is crucial, in which case the criterion for validity
+of the approximation is identical to the one deduced using a self-consistency
+argument.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1993 13:21:21 GMT""}]","2015-06-26"
+"hep-th/9303079","Yuri Makeenko","Yu. Makeenko","Matrix Models of Induced Large-N QCD","LaTex (5 LaTex figures), 17 pages, ITEP-YM-11-92. Talk at the Seminar
+  on Strings, Matrix Models and all that",,,,"hep-th hep-lat",,"  I review recent works on the problem of inducing large-N QCD by matrix
+fields. In the first part of the talk I describe the matrix models which induce
+large-N QCD and present the results of studies of their phase structure by the
+standard lattice technology (in particular, by the mean field method). The
+second part is devoted to the exact solution of these models in the strong
+coupling region by means of the loop equations.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1993 13:05:48 GMT""}]","2007-05-23"
+"patt-sol/9305003","David Cai","David Cai, A. R. Bishop, and Niels Gr{\o}nbech-Jensen (Theoretical
+  Division and Center for Nonlinear Studies, LANL)","Localized States in Discrete Nonlinear Schr\""{o}dinger Equations","LaTeX file. Two postscript figure files",,"10.1103/PhysRevLett.72.591",,"patt-sol nlin.PS",,"  A new 1-D discrete nonlinear Schr\""{o}dinger (NLS) Hamiltonian is introduced
+which includes the integrable Ablowitz-Ladik system as a limit. The symmetry
+properties of the system are studied. The relationship between intrinsic
+localized states and the soliton of the Ablowitz-Ladik NLS is discussed. It is
+pointed out that a staggered localized state can be viewed as a particle of a
+{\em negative} effective mass. It is shown that staggered localized states can
+exist in the discrete dark NLS. The motion of localized states and
+Peierls-Nabarro pinning are studied.
+","[{""version"":""v1"",""created"":""Sun, 14 Mar 1993 03:20:05 GMT""}]","2009-10-22"

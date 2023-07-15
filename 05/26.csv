@@ -1,0 +1,336 @@
+"astro-ph/9305032",,"J.N.Fry and Enrique Gaztanaga","Redshift distortions of galaxy correlation functions","20 pages (12 figues available on request), LaTeX,
+  FERMILAB-Pub-93-097-A","Astrophys.J.425:1-13,1994","10.1086/173956",,"astro-ph",,"  To examine how peculiar velocities can affect the 2-, 3-, and 4-point
+redshift correlation functions, we evaluate volume-average correlations for
+configurations that emphasize and minimize redshift distortions for four
+different volume-limited samples from each of the CfA, SSRS, and IRAS redshift
+catalogs. We find a characteristic distortion for the 2-point correlation,
+$\xibar_2$: the slope $\gamma$ is flatter and the correlation length is larger
+in redshift space than in real space; that is, redshift distortions ``move''
+correlations from small to large scales. At the largest scales (up to $12
+\Mpc$), the extra power in the redshift distribution is compatible with
+$\Omega^{4/7}/b \approx 1$. We estimate $\Omega^{4/7}/b$ to be $0.53 \pm 0.15$,
+$1.10 \pm 0.16$ and $0.84 \pm 0.45$ for the CfA, SSRS and IRAS catalogs. Higher
+order correlations $\xibar_3$ and $\xibar_4$ suffer similar redshift
+distortions, but in such a way that, within the accuracy of our analysis, the
+normalized amplitudes $S_3$ and $S_4$ are insensitive to this effect. The
+hierarchical amplitudes $S_3$ and $S_4$ are constant as a function of scale
+between 1--$12 \Mpc$ and have similar values in all samples and catalogues,
+$S_3 \approx 2$ and $S_4 \approx 6$, despite the fact that $\xibar_2$,
+$\xibar_3$, and $\xibar_4$ differ from one sample to another by large factors
+(up to a factor of 4 in $\xibar_2$, 8 for $\xibar_3$, and 12 for $\xibar_4$).
+The agreement between the independent estimations of $S_3$ and $S_4$
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 10:09:55 GMT""}]","2008-11-26"
+"astro-ph/9305033","researcher Dch","Mirek Giersz and Rainer Spurzem","Comparing Direct N-Body Integration with Anisotropic Gaseous Models of
+  Star Clusters","24 pages (25 figures appended as postsript files)",,"10.1093/mnras/269.2.241",,"astro-ph",,"  We compare the results for the dynamical evolution of star clusters derived
+from anisotropic gaseous models with the data from N-body simulations of
+isolated and one-component systems, each having modest number of stars. The
+statistical quality of N-body data was improved by averaging results from many
+N-body runs, each with the same initial parameters but with different sequences
+of random numbers used to initialize positions and velocities of the particles.
+We study the development of anisotropy, the spatial evolution and energy
+generation by three-body binaries and its N-dependence. We estimate the
+following free parameters of anisotropic gaseous models: the time scale for
+collisional anisotropy decay and the coefficient in the formulae for energy
+generation by three-body binaries. To achieve a fair agreement between N-body
+and gaseous models for the core in pre- as well as in post-collapse only the
+energy generation by binaries had to be varied by N. We find that anisotropy
+has considerable influence on the spatial structure of the cluster particularly
+for the intermediate and outer regions.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 15:29:25 GMT""}]","2015-06-24"
+"comp-gas/9305002","Bracy H. Elton","Bracy H. Elton (Fujitsu America, Inc.), Garry H. Rodrigue (Lawrence
+  Livermore National Laboratory and University of California, Davis), and C.
+  David Levermore (University of Arizona)","Convergence of Convective-Diffusive Lattice Boltzmann Methods","39 pages; LaTeX and PsFig; 400kb uuencoded/compressed/tarred
+  PostScript figures; submitted to the SIAM Journal on Numerical Analysis.
+  AMS(MOS) subject classifications 35F25, 65M06, 65M12, 76R99, 82C40",,,"Lawrence Livermore National Laboratory #UCRL-JC-113509","comp-gas nlin.CG",,"  Lattice Boltzmann methods are numerical schemes derived as a kinetic
+approximation of an underlying lattice gas. A numerical convergence theory for
+nonlinear convective-diffusive lattice Boltzmann methods is established.
+Convergence, consistency, and stability are defined through truncated Hilbert
+expansions. In this setting it is shown that consistency and stability imply
+convergence. Monotone lattice Boltzmann methods are defined and shown to be
+stable, hence convergent when consistent. Examples of diffusive and
+convective-diffusive lattice Boltzmann methods that are both consistent and
+monotone are presented.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 22:18:51 GMT""}]","2008-02-03"
+"cond-mat/9305031",,"B. R. Trees and D. L. Cox","Superconductivity in the Anderson Lattice","14 pages, Revtex",,,,"cond-mat",,"  Using an anisotropic hybridization matrix element, V($\vec k$), reflecting
+cubic symmetry at the ``rare-earth'' sites of the infinite U Anderson lattice,
+we calculate the bare quasiparticle scattering amplitude to order 1/N using
+slave Bosons and find significant differences with previous results under
+spherical symmetry. Due to exchange of density fluctuations, we find an
+instability. toward E$_g$ and T$_{1g}$ (even-parity) pairing.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 22:54:04 GMT""}]","2007-05-23"
+"cond-mat/9305032",,"Seungoh Ryu, A. Kapitulnik and S. Doniach","Effects of Columnar Pins on Flux Line Dynamics","11 pages, RevTeX3.0, four figres upon request",,"10.1103/PhysRevLett.71.4245",,"cond-mat",,"  The effects of columnar pins on the flux lines in a model High-Tc
+superconductor in an applied field are studied through Monte Carlo simulations.
+An analytic solution for a single line case is obtained and compared with the
+simulation results. By introducing a tilted potential, we study simulated ``IV""
+characteristics and the results indicate a distinct scaling behavior above and
+below the depinning temperature. We introduce a diverging length scale measured
+in terms of a ``retrapping length'' to analyze self-similar behavior across the
+depinning transition.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 05:36:43 GMT""},{""version"":""v2"",""created"":""Tue, 5 Oct 1993 08:14:33 GMT""}]","2009-10-22"
+"funct-an/9305004",,"Alexander Turbiner and Gerhard Post","On some operator identities and representations of algebras","4 pages, Ams-Latex, IHES-P-93/18",,,,"funct-an hep-th math.OA",,"  Certain infinite families of operator identities related to powers of
+positive root generators of (super) Lie algebras of first-order differential
+operators and $q$-deformed algebras of first-order finite-difference operators
+are presented.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 14:16:31 GMT""}]","2008-02-03"
+"gr-qc/9305022","Robert Manuel Wald","Robert M. Wald","The First Law of Black Hole Mechanics","9 pages, to appear in Misner Festschrift",,,,"gr-qc",,"  A simple proof of a strengthened form of the first law of black hole
+mechanics is presented. The proof is based directly upon the Hamiltonian
+formulation of general relativity, and it shows that the the first law
+variational formula holds for arbitrary nonsingular, asymptotically flat
+perturbations of a stationary, axisymmetric black hole, not merely for
+perturbations to other stationary, axisymmetric black holes. As an application
+of this strengthened form of the first law, we prove that there cannot exist
+Einstein-Maxwell black holes whose ergoregion is disjoint from the horizon.
+This closes a gap in the black hole uniqueness theorems.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 19:37:36 GMT""}]","2007-05-23"
+"gr-qc/9305023","Robert Manuel Wald","Daniel Sudarsky and Robert M. Wald","Mass Formulas for Stationary Einstein-Yang-Mills Black Holes and a
+  Simple Proof of Two Staticity Theorems","8 pages","Phys.Rev.D47:5209-5213,1993","10.1103/PhysRevD.47.R5209",,"gr-qc",,"  We derive two new integral mass formulas for stationary black holes in
+Einstein-Yang-Mills theory. From these we derive a formula for $ \J \Omega -Q V
+$, from which it follows immediately that any stationary, nonrotating,
+uncharged black hole is static and has vanishing electric field on the static
+slices. In the Einstein-Maxwell case, we have, in addition, the ``generalized
+Smarr mass formula"", for which we provide a new, simple derivation. When
+combined with the other two formulas, we obtain a simple proof that nonrotating
+Einstein-Maxwell black holes must be static and have vanishing magnetic field
+on the static slices. Our mass formulas also can be generalized to cases with
+other types of matter fields, and we describe the nature of these
+generalizations.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 19:39:50 GMT""}]","2010-01-06"
+"gr-qc/9305024","Robert Manuel Wald","Robert M. Wald","A Proposal for Solving the ``Problem of Time"" in Canonical Quantum
+  Gravity","15 pages","Phys.Rev.D48:2377-2381,1993","10.1103/PhysRevD.48.R2377",,"gr-qc",,"  The ""problem of time"" in canonical quantum gravity refers to the difficulties
+involved in defining a Hilbert space structure on states -- and local
+observables on this Hilbert space -- for a theory in which the spacetime metric
+is treated as a quantum field, so no classical metrical or causal structure is
+present on spacetime. We describe an approach -- much in the spirit of ideas
+proposed by Misner, Kuchar and others -- to defining states and local
+observables in quantum gravity which exploits the analogy between the
+Hamiltonian formulation of general relativity and that of a relativistic
+particle. In the case ofminisuperspace models, a concrete theory is obtained
+which appears to be mathematically and physically viable, although it contains
+some radical features with regard to the presence of an ""arrow of time"". The
+viability of this approach in the case ofinfinitely many degrees of freedom
+rests on a number of fairlywell defined issues, which, however, remain
+unresolved. As a byproduct of our analysis, the theory of a relativistic
+particle in curved spacetime is developed.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 19:42:55 GMT""}]","2009-12-30"
+"gr-qc/9305025","Hans-Juergen Matschull","H.-J. Matschull","Solutions to the Wheeler DeWitt Constraint of Canonical Gravity Coupled
+  to Scalar Matter Fields","7 pages, LaTeX","Class.Quant.Grav.10:L149-L154,1993","10.1088/0264-9381/10/9/007",,"gr-qc hep-th",,"  It is shown that the Wheeler DeWitt constraint of canonical gravity coupled
+to Klein Gordon scalar fields and expressed in terms of Ashtekar's variables
+admits formal solutions which are parametrized by loops in the three
+dimensional hypersurface and which are extensions of the well known Wilson loop
+solutions found by Jacobson, Rovelli and Smolin.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 11:52:00 GMT""}]","2010-04-06"
+"hep-lat/9305020","Jim Hetrick","James E. Hetrick","Canonical Quantization of Two Dimensional Gauge Fields","32 pages, 3 figures uuencoded, Plain TeX","Int.J.Mod.Phys. A9 (1994) 3153-3178","10.1142/S0217751X94001242","UvA-ITFA 93-15","hep-lat hep-th",,"  $SU(N)$ gauge fields on a cylindrical spacetime are canonically quantized via
+two routes revealing almost equivalent but different quantizations. After
+removing all continuous gauge degrees of freedom, the canonical coordinate
+$A_\mu$ (in the Cartan subalgebra $\h$) is quantized. The compact route, as in
+lattice gauge theory, quantizes the Wilson loop $W$, projecting out gauge
+invariant wavefunctions on the group manifold $G$. After a Casimir energy
+related to the curvature of $SU(N)$ is added to the compact spectrum, it is
+seen to be a subset of the non-compact spectrum. States of the two
+quantizations with corresponding energy are shifted relative each other, such
+that the ground state on $G$, $\chi_0(W)$, is the first excited state
+$\Psi_1(A_\mu)$ on $\h$. The ground state $\Psi_0(A_\mu)$ does not appear in
+the character spectrum as its lift is not globally defined on $G$. Implications
+for lattice gauge theory and the sum over maps representation of two
+dimensional QCD are discussed.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 11:06:28 GMT""}]","2015-06-25"
+"hep-ph/9305313",,"Ina Sarcevic","Total and Jet Photoproduction Cross Sections at HERA","University of Arizona preprint, AZPH-TH/93-13, PlainTex, 7 pages, 4
+  figs. (available on request)",,,,"hep-ph",,"  We show that the recent measurements of the total photoproduction cross
+section at HERA energies [1] are in agreement with our earlier prediction based
+on high-energy hadronic structure of the photon in the QCD minijet-type model
+[2]. We discuss an improved calculation of the photoproduction cross section,
+in which the soft part, motivated by the Regge theory, is taken to be
+energy-dependent and the semi-hard hadronic part is carefully eikonalized to
+take into account for the multiple scatterings and to include the appropriate
+hadronic probability of the photon [3]. We show that the extrapolation of our
+cross section to ultra-high energies, of relevance to the cosmic ray physics,
+gives significant contribution to the ``conventional'' value, but cannot
+account for the anomalous muon content observed in the cosmic ray air-showers
+associated with astrophysical point sources [4]. (invited talk presented at QCD
+Recontres de Moriond 1993)
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 18:01:35 GMT""}]","2007-05-23"
+"hep-ph/9305314",,"U. Baur, T. Han, and J. Ohnemus","QCD Corrections to Hadronic $W\gamma$ Production with Non-standard
+  $WW\gamma$ Couplings","52 pages, REVTEX 2.0, 18 figures (uuencoded postscript files)","Phys.Rev. D48 (1993) 5140-5161","10.1103/PhysRevD.48.5140","FSU-HEP-930519, FERMILAB-PUB-93/096-T, DTP/93/26","hep-ph",,"  The process $p \pbar \rightarrow W^{\pm}\gamma + X \rightarrow \ell^\pm \nu
+\gamma + X$ is calculated to ${\cal O}(\alpha_s)$ for general $CP$ conserving
+$WW\gamma$ couplings. At the Tevatron center of mass energy, the QCD
+corrections to $W\gamma$ production are modest, and the Born and inclusive
+${\cal O}(\alpha_s)$ cross sections have similar sensitivities to the effects
+of anomalous couplings. At supercollider energies, the inclusive QCD
+corrections are large at high photon transverse momenta, reducing the
+sensitivity to non-standard $WW\gamma$ couplings by up to a factor~2. The size
+of the QCD corrections can be reduced significantly, and a large fraction of
+the sensitivity lost can be regained, if a jet veto is imposed.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 19:57:47 GMT""}]","2009-10-22"
+"hep-ph/9305315","Michael Luke","Adam F. Falk, Michael Luke, Martin J. Savage and Mark B. Wise","Heavy Quark Fragmentation to Baryons Containing Two Heavy Quarks","9 pages, 1 figure included, uses harvmac.tex and epsf.tex, UCSD/PTH
+  93-11, CALT-68-1868, SLAC-PUB-6226","Phys.Rev.D49:555-558,1994","10.1103/PhysRevD.49.555",,"hep-ph",,"  We discuss the fragmentation of a heavy quark to a baryon containing two
+heavy quarks of mass $m_Q\gg\Lambda_{\rm QCD}$. In this limit the heavy quarks
+first combine perturbatively into a compact diquark with a radius small
+compared to $1/\Lambda_{\rm QCD}$, which interacts with the light hadronic
+degrees of freedom exactly as does a heavy antiquark. The subsequent evolution
+of this $QQ$ diquark to a $QQq$ baryon is identical to the fragmentation of a
+heavy antiquark to a meson. We apply this analysis to the production of baryons
+of the form $ccq$, $bbq$, and $bcq$.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 20:09:44 GMT""}]","2010-03-25"
+"hep-ph/9305316","Ed Stoeffhaas","V. Barger and R.J.N. Phillips","Search for Physics Beyond the Standard Model","Standard Latex file. 18 pages without figures. (Calls to postscript
+  figure files blocked out. Full 32 page version with 37 in-text figures
+  available via regular mail.) MAD/PH/752",,"10.1063/1.45432",,"hep-ph",,"  We survey some recent ideas and progress in looking for particle physics
+beyond the Standard Model, connected by the theme of Supersymmetry (SUSY). We
+review the success of SUSY-GUT models, the expected experimental signatures and
+present limits on SUSY partner particles, and Higgs phenomenology in the
+minimal SUSY model.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 20:42:45 GMT""}]","2015-06-25"
+"hep-ph/9305317",,"B.K. Jennings (Triumf, 4004 Wesbrook Mall, Vancouver, B.C., V6T 2A3,
+  Canada) and G.A. Miller (Department of Physics, FM-15, University of
+  Washington, Seattle, WA, USA)","Natural Color Transparency in High Energy (p,pp) Reactions","latex file, 13 pages, 4 figures appended as ps files, look for ""cut
+  here ..."" 1993 Univ. of Washington preprint 404427-00-N93-11","Phys.Lett.B318:7-13,1993","10.1016/0370-2693(93)91774-H",,"hep-ph nucl-th",,"  New parameter free calculations including a variety of necessary kinematic
+and dynamic effects show that the results of BNL $(p,2p)$ measurements are
+consistent with the expectations of color transparency.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 23:48:03 GMT""}]","2009-09-25"
+"hep-ph/9305318","Ariel Zhitnitsky","A Zhitnitsky","Rigid String From QCD Lagrangian","14 pages No changes to the paper. Corrected file formatting to allow
+  proper tranmission by e-mail",,,,"hep-ph hep-th",,"  Starting from the 4-dimensional gluodynamics, we discuss the statistical
+ensemble of torons ( the toron is a self-dual solution with fractional
+topological number; it can be understood as a point defect) which interact
+strongly. It is shown that the effective Lagrangian describing this statistical
+ensemble possesses the fourth derivative kinetic term and leads to the area law
+for the Wilson loop. Besides that we derive the effective string action
+containing the rigid (extrinsic curvature) term as a consequence of the fourth
+derivative action.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 10:35:20 GMT""},{""version"":""v2"",""created"":""Thu, 27 May 1993 13:50:18 GMT""},{""version"":""v3"",""created"":""Fri, 28 May 1993 14:26:17 GMT""}]","2008-02-03"
+"hep-ph/9305319","Peter Landshoff","A Donnachie and P V Landshoff","Proton structure function at small Q^2","10 pages plus 9 figures","Z.Phys. C61 (1994) 139-146","10.1007/BF01641896","M/C-TH 93/11, DAMTP 93-23","hep-ph",,"  A fit is made to the data for the proton structure function up to Q^2=10
+GeV^2, including the real gamma p total cross-section. It is economical and
+simple, and its form is motivated by physical principles. It is extrapolated
+down to very small values of x. Data for the ratio (nu W_2^n/nu W_2^p) are also
+fitted. A FORTRAN program for the fit to (nu W_2^p) is available by email on
+request Figure 5 from the original version has been deleted.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 13:10:22 GMT""},{""version"":""v2"",""created"":""Mon, 12 Jul 1993 15:40:44 GMT""}]","2009-10-22"
+"hep-ph/9305320",,"Richard D. Ball, Stefano Forte and Jason Tigg","A Dynamical Resolution of the Sigma Term Puzzle","14 pages and 4 figures (not included), plain TeX and harvmac, DFTT
+  92/69 and OUTP-92-35P","Nucl.Phys. B428 (1994) 485-498","10.1016/0550-3213(94)90210-0",,"hep-ph",,"  We propose a resolution of the puzzle posed by the discrepancy between the
+pion-nucleon sigma term inferred from pion-nucleon scattering, and that deduced
+from baryon mass splittings using the Zweig rule. We show that there is a
+significant hypercharge-dependent dynamical contribution to baryon masses, not
+hitherto included in the analysis, which may be estimated using the scale Ward
+identity, and computed by solution of the Schwinger-Dyson equation for the
+quark self-energy. We find that the discrepancy is completely resolved without
+the need for any Zweig rule violation.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 14:42:16 GMT""}]","2009-10-22"
+"hep-ph/9305321",,"M. Nowakowski and A. Pilaftsis","On Gauge Invariance of Breit-Wigner Propagators","16 p., TeX, (final version)","Z.Phys. C60 (1993) 121-126","10.1007/BF01650437",,"hep-ph",,"  We present an approach to bosonic ($Z^0, W^{\pm}$) as well as fermionic
+(top-quark) Breit-Wigner propagators which is consistent with gauge invariance
+arguments. In particular, for the $Z^0$-boson propagator we extend previous
+analyses and show that the part proportional to $k_{\mu} k_{\nu}/M^2$ must be
+modified near the resonance. We derive a mass shift which agrees with results
+obtained elsewhere by different methods. The modified form of a resonant heavy
+fermion propagator is also given.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 14:43:11 GMT""}]","2009-10-22"
+"hep-ph/9305322","Steven Bass","S.D. Bass (Cavendish Lab., Cambridge, U.K.) and A. W. Thomas (Univ.
+  Adelaide, Australia)","Mapping the x dependence of the axial anomaly in polarised deep
+  inelastic scattering","11pages Latex, 6 Figs. appended as .ps files after main text,
+  Cavendish preprint HEP-93/1","Phys.Lett.B312:345-350,1993","10.1016/0370-2693(93)91091-Z",,"hep-ph",,"  We discuss the role of the U(1) axial anomaly in the spin structure functions
+of the nucleon, with particular emphasis on how one might determine its x
+dependence in present and future deep inelastic scattering experiments. We
+focus on the C-odd spin structure function g3 and also the deuteron structure
+function g1^d.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 14:59:10 GMT""}]","2010-02-17"
+"hep-ph/9305323","Steven Bass","S.D. Bass (Cavendish Lab., Cambridge, U.K.)","Gauge symmetry and the EMC spin effect","17 pages, Latex, Cavendish preprint HEP 93/2","Z.Phys. C60 (1993) 343-348","10.1007/BF01474632",,"hep-ph",,"  We emphasise the EMC spin effect as a problem of symmetry and discuss the
+renormalisation of the $C=+1$ axial tensor operators. This involves the
+generalisation of the Adler-Bell-Jackiw anomaly to each of these operators. We
+find that the contribution of the axial anomaly to the spin dependent structure
+function $g_1 (x, Q^2)$ scales at $O(\alpha_s)$. This means that the anomaly
+can be a large $x$ effect in $g_1$. Finally we discuss the jet signature of the
+anomaly.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 15:07:42 GMT""}]","2009-10-22"
+"hep-th/9305137","Miguel Angel Vazquez Mozo","M.A.R. Osorio and M.A. Vazquez-Mozo","Variations on Kaluza-Klein Cosmology","22 pages, 7 figures in a uuencoded file (using uufiles), LaTeX,
+  FTUAM-93/13 (LaTeX errors corrected)","Mod.Phys.Lett.A8:3111-3128,1993","10.1142/S0217732393002063",,"hep-th",,"  We investigate the cosmological consequences of having quantum fields living
+in a space with compactified dimensions. We will show that the equation of
+state is not modified by topological effects and so the dynamics of the
+universe remains as it is in the infinite volume limit. On the contrary the
+thermal history of the universe depends on terms that are associated with
+having non-trivial topology. In the conclusions we discuss some issues about
+the relationship between the $c=1$ non-critical string-inspired cosmology and
+the result obtained with matter given by a hot massless field in $S^{1}\times
+\mbox{\bf
+  R}$.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 17:20:13 GMT""},{""version"":""v2"",""created"":""Wed, 26 May 1993 15:24:54 GMT""}]","2010-11-01"
+"hep-th/9305138","Miguel Angel Vazquez Mozo","M.A.R. Osorio and M.A. Vazquez-Mozo","String Variations on Kaluza-Klein Cosmology","20 pages, including 10 figures in a uuencoded file (using uufiles),
+  LaTeX, FTUAM-93/14 (LaTeX errors corrected)","Mod. Phys. Lett. A8 (1993) 3215-3232",,,"hep-th",,"  We study the cosmological solutions of the two-dimensional Brans-Dicke
+equations considering a gas of $c=1$ strings in $S^{1}\times \mbox{\bf R}$ as
+the source of the gravitational field. We also study the implications of the
+$R$-duality invariance on the solutions. To this purpose we conjecture that, as
+it happens for massless fields in finite boxes, the free energy of a gas of
+massless string excitations is not given by the corresponding toroidal
+compactification.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 17:26:20 GMT""},{""version"":""v2"",""created"":""Wed, 26 May 1993 15:40:28 GMT""}]","2008-02-03"
+"hep-th/9305139","Gregory Moore","G. Moore","Finite in All Directions","65pp., YCTP-P12-93",,,,"hep-th",,"  We study toroidal compactifications of string theories which include
+compactification of a timelike coordinate. Some new features in the theory of
+toroidal compactifications arise. Most notably, Narain moduli space does not
+exist as a manifold since the action of duality on background data is ergodic.
+For special compactifications certain infinite dimensional symmetries,
+analogous to the infinite dimensional symmetries of the $2D$ string are
+unbroken. We investigate the consequences of these symmetries and search for a
+universal symmetry which contains all unbroken gauge groups. We define a flat
+connection on the moduli space of toroidally compactified theories. Parallel
+transport by this connection leads to a formulation of broken symmetry Ward
+identities. In an appendix this parallel transport is related to a definition
+of conformal perturbation theory.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 19:11:14 GMT""}]","2007-05-23"
+"hep-th/9305140","Eduardo Ramos","E. Ramos and O. A. Soloviev","A symplectic structure for the space of quantum field theories","7 pages, plain TeX",,,,"hep-th",,"  We use the formal Lie algebraic structure in the ``space'' of hamiltonians
+provided by equal time commutators to define a Kirillov-Konstant symplectic
+structure in the coadjoint orbits of the associated formal group. The dual is
+defined via the natural pairing between operators and states in a Hilbert
+space.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 21:04:24 GMT""}]","2007-05-23"
+"hep-th/9305141","Valeri Dvoeglazov","Valeriy V. Dvoeglazov","The 2(2S+1)- Formalism and Its Connection with Other Descriptions","13pp., merged hep-th/9305141 and hep-th/9306108 with revisions.
+  Accepted in ""Int. J. Geom. Meth. Phys.""","IJGMMP 13, No. 04, 1650036 (2016)","10.1142/S0219887816500365",,"hep-th hep-ph math-ph math.MP physics.hist-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  In the framework of the Joos-Weinberg 2(2S+1)- theory for massless particles,
+the dynamical invariants have been derived from the Lagrangian density which is
+considered to be a 4- vector. A la Majorana interpretation of the 6- component
+""spinors"", the field operators of S=1 particles, as the left- and
+right-circularly polarized radiation, leads us to the conserved quantities
+which are analogous to those obtained by Lipkin and Sudbery. The scalar
+Lagrangian of the Joos-Weinberg theory is shown to be equivalent to the
+Lagrangian of a free massless field, introduced by Hayashi. As a consequence of
+a new ""gauge"" invariance this skew-symmetric field describes physical particles
+with the longitudinal components only. The interaction of the spinor field with
+the Weinberg's 2(2S+1)- component massless field is considered. New
+interpretation of the Weinberg field function is proposed. KEYWORDS: quantum
+electrodynamics, Lorentz group representation, high-spin particles, bivector,
+electromagnetic field potential. PACS: 03.50.De, 11.10.Ef, 11.10.Qr, 11.17+y,
+11.30.Cp
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 02:32:11 GMT""},{""version"":""v2"",""created"":""Tue, 9 Feb 2016 20:51:08 GMT""}]","2016-05-20"
+"hep-th/9305142",,"M. J. Duff and Ramzi R. Khuri","Four-Dimensional String/String Duality","14 pages","Nucl.Phys. B411 (1994) 473-486","10.1016/0550-3213(94)90459-6",,"hep-th",,"  We present supersymmetric soliton solutions of the four-dimensional heterotic
+string corresponding to monopoles, strings and domain walls. These solutions
+admit the $D=10$ interpretation of a fivebrane wrapped around $5$, $4$ or $3$
+of the $6$ toroidally compactified dimensions and are arguably exact to all
+orders in $\alpha'$. The solitonic string solution exhibits an $SL(2,Z)$ {\it
+strong/weak coupling} duality which however corresponds to an $SL(2,Z)$ {\it
+target space} duality of the fundamental string.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 05:32:28 GMT""}]","2009-10-22"
+"hep-th/9305143",,"Ramzi R. Khuri","A Comment on String Solitons","4 pages","Phys.Rev. D48 (1993) 2947-2948","10.1103/PhysRevD.48.2947",,"hep-th",,"  We derive an exact string-like soliton solution of D=10 heterotic string
+theory. The solution possesses $SU(2)\times SU(2)$ instanton structure in the
+eight-dimensional space transverse to the worldsheet of the soliton.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 06:53:04 GMT""}]","2009-10-22"
+"hep-th/9305144",,"R.M. Kashaev and Yu.G. Stroganov","Generalized Yang-Baxter Equation","13 pages, TeX file. IHEP-93-??","Mod.Phys.Lett. A8 (1993) 2299-2310","10.1142/S0217732393003603",,"hep-th",,"  A generalization of the Yang-Baxter equation is proposed. It enables to
+construct integrable two-dimensional lattice models with commuting two-layer
+transfer matrices, while single-layer ones are not necessarily commutative.
+Explicit solutions to the generalized equations are found. They are related
+with Botzmann weights of the $sl(3)$ chiral Potts model.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 08:12:07 GMT""}]","2015-06-26"
+"hep-th/9305145",,"V. V. Mangazeev, Yu. G. Stroganov","Elliptic solution for modified tetrahedron equations","11 pages","Mod.Phys.Lett.A8:3475-3482,1993","10.1142/S0217732393003895","IHEP-93-??","hep-th nlin.SI solv-int",,"  As is known, tetrahedron equations lead to the commuting family of
+transfer-matrices and provide the integrability of corresponding
+three-dimensional lattice models. We present the modified version of these
+equations which give the commuting family of more complicated two-layer
+transfer-matrices. In the static limit we have succeeded in constructing the
+solution of these equations in terms of elliptic functions.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 08:13:02 GMT""}]","2014-11-18"
+"hep-th/9305146","Satoru Odake","H. Awata, S. Odake and J. Shiraishi","Free Boson Realization of $U_q(\widehat{sl_N})$","24 pages, LaTeX, RIMS-924, YITP/K-1018","Commun.Math.Phys. 162 (1994) 61-84","10.1007/BF02105187",,"hep-th",,"  We construct a realization of the quantum affine algebra
+$U_q(\widehat{sl_N})$ of an arbitrary level $k$ in terms of free boson fields.
+In the $q\!\rightarrow\! 1$ limit this realization becomes the Wakimoto
+realization of $\widehat{sl_N}$. The screening currents and the vertex
+operators(primary fields) are also constructed; the former commutes with
+$U_q(\widehat{sl_N})$ modulo total difference, and the latter creates the
+$U_q(\widehat{sl_N})$ highest weight state from the vacuum state of the boson
+Fock space.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 09:12:38 GMT""}]","2015-06-26"
+"math/9305201",,"Gilbert Baumslag","Musings on Magnus","AMS-Tex, 8 pages, no figures. To appear in Trans. Am. Math. Soc",,,"MAGNUS preprint #93-05-26A","math.GR",,"  The object of this paper is to describe a simple method for proving that
+certain groups are residually torsion-free nilpotent, to describe some new
+parafree groups and to raise some new problems in honour of the memory of
+Wilhelm Magnus.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 00:00:00 GMT""}]","2009-09-25"

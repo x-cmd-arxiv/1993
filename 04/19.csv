@@ -1,0 +1,158 @@
+"cond-mat/9304030","Jysoo Lee","Jysoo Lee, Stefan Schwarzer, Antonio Coniglio and H. Eugene Stanely","Localization of Growth Sites in DLA Clusters: Multifractality and
+  Multiscaling","25 pages, REVTeX, 12 figures avaliable upon request, HLRZ preprint
+  29/93",,"10.1103/PhysRevE.48.1305",,"cond-mat",,"  The growth of a diffusion limited aggregation (DLA) cluster with mass $M$ and
+radius of gyration $R$ is described by a set of growth probabilities $\{
+p_i\}$, where $p_i$ is the probability that the perimeter site $i$ will be the
+next to grow. We introduce the joint distribution $N(\alpha, x, M)$, where
+$N(\alpha,x,M)d\alpha dx$ is the number of perimeter sites with $\alpha$-values
+in the range $\alpha\le \alpha_i \le \alpha+d\alpha$ (``$\alpha$-sites'') and
+located in the annulus [x, x+dx] around the cluster seed. Here, $\alpha_i
+\equiv -\ln p_i / \ln R$ if $p_i>0$, $x\equiv r_i/R$, and $r_i$ is the distance
+of site $i$ from the seed of the DLA cluster. We use $N(\alpha,x,M)$ to relate
+multifractal and multiscaling properties of DLA. In particular, we find that
+for large $M$ the location of the $\alpha$-sites is peaked around a fixed value
+$\bar x(\alpha)$; in contrast, the perimeter sites with $p_i=0$ are uniformly
+distributed over the DLA cluster.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 06:28:55 GMT""}]","2009-10-22"
+"gr-qc/9304023","James Hartle","Murray Gell-Mann and James B. Hartle","Time Symmetry and Asymmetry in Quantum Mechanics and Quantum Cosmology","30 pages, 3figures, revtex4, updated macros, embedded figures added
+  discussion and historical note of the published version","in Physical Origins of Time Asymmetry, ed by J. Halliwell, J.
+  Perez-Mercader, and W. Zurek, Cambridge University Press, Cambridge,(1994)",,"UCSBTH01-31","gr-qc hep-th",,"  We investigate the origin of the arrow of time in quantum mechanics in the
+context of quantum cosmology. The ``Copenhagen'' quantum mechanics of measured
+subsystems incorporates a fundamental arrow of time. Extending discussions of
+Aharonov, Bergmann and Lebovitz, Griffiths, and others we investigate a
+generalized quantum mechanics for cosmology that utilizes both an initial and a
+final density matrix to give a time-neutral formulation without a fundamental
+arrow of time. Time asymmetries can arise for particular universes from
+differences between their initial and final conditions. Theories for both would
+be a goal of quantum cosmology. A special initial condition and a final
+condition of indifference would be sufficient to explain the observed time
+asymmetries of the universe. In this essay we ask under what circumstances a
+completely time symmetric universe, with T-symmetric initial and final
+condition, could be consistent with the time asymmetries of the limited domain
+of our experience. We discuss the approach to equilibrium, the electromagnetic
+system, and T-violation in the weak interactions in such universes.
+  The decoherence of alternatives that is necessary for the prediction of
+probabilities in the quantum mechanics of closed systems is the origin of a
+fundamental limitation on quantum cosmologies with initial and final
+conditions. The initial and final density matrices cannot both be pure; if they
+are there is no decoherence and no prediction.
+","[{""version"":""v1"",""created"":""Sun, 18 Apr 1993 20:02:54 GMT""},{""version"":""v2"",""created"":""Tue, 21 Jun 2005 20:22:58 GMT""}]","2009-09-25"
+"hep-ph/9304266","Enrico Nardi","Enrico Nardi","Unconventional superstring derived E$_{\bf 6}$ models and neutrino
+  phenomenology","Plain Tex, 33 pages, 3 PostScript figures (uses epsf.tex). Modified
+  file-format. No changes in the text","Phys.Rev. D48 (1993) 3277-3287","10.1103/PhysRevD.48.3277","UM-TH 93--09","hep-ph",,"  Conventional superstring derived E$_6$ models can accommodate small neutrino
+masses if a discrete symmetry is imposed which forbids tree level Dirac
+neutrino masses but allows for radiative mass generation. Since the only
+possible symmetries of this kind are known to be generation dependent, we
+explore the possibility that the three sets of light states in each generation
+do not have the same assignments with respect to the 27 of $E_6$, leading to
+non universal gauge interactions under the additional $U(1)'$ factors for the
+known fermions. We argue that models realising such a scenario are viable, with
+their structure being constrained mainly by the requirement of the absence of
+flavor changing neutral currents in the Higgs sector. Moreover, in contrast to
+the standard case, rank 6 models are not disfavoured with respect to rank 5. By
+requiring the number of light neutral states to be minimal, these models have
+an almost unique pattern of neutrino masses and mixings. We construct a model
+based on the unconventional assignment scenario in which (with a natural choice
+of the parameters) $m_{\nut}\sim O(10)$eV is generated at one loop, $m_{\num}$
+is generated at two loops and lies in a range interesting for the solar
+neutrino problem, and $\nue$ remains massless. In addition, since baryon and
+lepton number are conserved, there is no proton decay in the model. To
+illustrate the non-standard phenomenology implied by our scheme we also discuss
+a second scenario in which an attempt for solving the solar neutrino puzzle
+with matter enhanced oscillations and practically massless neutrinos can be
+formulated, and in which peculiar effects for the $\num$ --> $\nut$ conversion
+of the upward-going atmospheric neutrinos could arise as well.
+","[{""version"":""v1"",""created"":""Sun, 18 Apr 1993 23:09:25 GMT""},{""version"":""v2"",""created"":""Wed, 8 Sep 1993 00:40:28 GMT""},{""version"":""v3"",""created"":""Mon, 9 Nov 1998 16:24:20 GMT""}]","2009-10-22"
+"hep-ph/9304267",,"D. Comelli, M. Pietroni and A. Riotto","Spontaneous CP Violation and Baryogenesis in the Minimal Supersymmetric
+  Standard Model","17 pages, LaTex, DFPD 93/TH/26 UTS-DFT 93/9 SISSA 93/50-A","Nucl.Phys.B412:441-458,1994","10.1016/0550-3213(94)90511-8",,"hep-ph",,"  We investigate the effects of the spontaneous CP violation at finite
+temperature in the Minimal Supersymmetric Standard Model on the baryogenesis at
+the weak scale. After a brief discussion of the case in which the electroweak
+phase transition is of the second order, we study in details the baryogenesis
+scenario when the transition proceeds via bubble nucleation. We show that the
+space-time dependent phase for the Higgs vacuum expectation values coming from
+the spontaneous CP violation can give rise to a efficient generation of baryon
+number inside the bubble walls if the superpotential parameters and the soft
+supersymmetry breaking ones are complex. However we find that in order to get
+the observed value for the baryon asymmetry of the universe the phases of such
+parameters can be as small as $10^{-5}$, giving rise to an electron dipole
+moment of the neutron well below the current experimental limit. Moreover a
+light Higgs pseudoscalar is needed, and an upper bound on its mass is obtained.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 11:11:12 GMT""},{""version"":""v2"",""created"":""Tue, 20 Apr 1993 17:01:57 GMT""}]","2010-03-17"
+"hep-ph/9304268",,"Harry J. Lipkin","A QCD Relation Between Hyperfine Splittings in Isospin doublets - A
+  Light Quark Symmetry?","12 pages, WIS-93/34/Apr-PH","Phys.Lett. B319 (1993) 276-284","10.1016/0370-2693(93)90814-X",,"hep-ph",,"  Recent data on the $D^*$ masses confirm the QCD prediction based on the
+\REF{\ICHJL}{Isaac Cohen and Harry J. Lipkin, \plb{84}{323}{1979}} very general
+assumption $\({\ICHJL}\)$ that the spin-dependence of the quark couplings to
+photons and gluons have the same structure and differ only in the value of the
+coupling constants, This prediction with no free parameters and using the $\Xi$
+and $\Xi^*$ masses as input follows from noting that the charmed antiquark
+$\bar c$ and the strange diquark (ss) have exactly the same couplings to both
+the photon (Q=-2/3) and to the gluon (both are color antitriplets). New
+predictions are obtained with this approach. Corrections to the naive model are
+investigated and shown to be small.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 14:51:00 GMT""}]","2009-10-22"
+"hep-th/9304069","Ivan Kostov","Ivan K. Kostov","Propagation of particles and strings in one-dimensional Universe","12 pages, harvmac , SPhT/93-038 (Lecture delivered at the 4th
+  Hellenic School on Elementary Particle Physics, Corfu, 2-20 September 1992)",,,,"hep-th",,"  We review the basics of the dynamics of closed strings moving along the
+discretized line \Z. The string excitations are described by a field
+\phi_x(\tau) where x is the position of the string in the embedding space and
+\tau is a semi-infinite ``euclidean time'' parameter related to the
+longitudinal mode of the string. Interactions due to splitting and joining of
+closed strings are taken into account by a local potential and occur only along
+the edge \tau =0 of the semi-plane (x, \tau).
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 08:29:26 GMT""}]","2007-05-23"
+"hep-th/9304070","Joachim Reinhardt","Iwo Bialynicki-Birula","Dirac and Weyl Equations on a Lattice as Quantum Cellular Automata","6, RevTeX","Phys.Rev. D49 (1994) 6920-6927","10.1103/PhysRevD.49.6920",,"hep-th hep-lat",,"  A discretized time evolution of the wave function for a Dirac particle on a
+cubic lattice is represented by a very simple quantum cellular automaton. In
+each evolution step the updated value of the wave function at a given site
+depends only on the values at the nearest sites, the evolution is unitary and
+preserves chiral symmetry. Moreover, it is shown that the relationship between
+Dirac particles and cellular automata operating on two component objects on a
+lattice is indeed very close. Every local and unitary automaton on a cubic
+lattice, under some natural assumptions, leads in the continuum limit to the
+Weyl equation. The sum over histories is evaluated and its connection with path
+integrals and theories of fermions on a lattice is outlined.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 14:31:17 GMT""}]","2009-10-22"
+"hep-th/9304071",,"E. Elizalde, S. Leseduarte and S.D. Odintsov","Partition Functions for the Rigid String and Membrane at Any Temperature","20 pages, LaTeX file, UB-ECM-PF 93/8","Phys.Rev.D48:1757-1767,1993","10.1103/PhysRevD.48.1757",,"hep-th",,"  Exact expressions for the partition functions of the rigid string and
+membrane at any temperature are obtained in terms of hypergeometric functions.
+By using zeta function regularization methods, the results are analytically
+continued and written as asymptotic sums of Riemann-Hurwitz zeta functions,
+which provide very good numerical approximations with just a few first terms.
+This allows to obtain systematic corrections to the results of Polchinski et
+al., corresponding to the limits $T\rightarrow 0$ and $T\rightarrow \infty$ of
+the rigid string, and to analyze the intermediate range of temperatures. In
+particular, a way to obtain the Hagedorn temperature for the rigid membrane is
+thus found.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 14:41:05 GMT""}]","2009-09-17"
+"hep-th/9304073","Miroslav Doresic","Stjepan Meljanac and Marijan Milekovic","Covariant - tensor method for quantum groups and applications I:
+  $SU(2)_{q}$","18 pages","J.Phys. A26 (1993) 4595-4606","10.1088/0305-4470/26/18/024",,"hep-th math.QA",,"  A covariant - tensor method for $SU(2)_{q}$ is described. This tensor method
+is used to calculate q - deformed Clebsch - Gordan coefficients. The connection
+with covariant oscillators and irreducible tensor operators is established.
+This approach can be extended to other quantum groups.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 15:41:37 GMT""}]","2009-10-22"
+"hep-th/9304074","Miroslav Doresic","Stjepan Meljanac and Marijan Milekovic","On the Clebsch-Gordan coefficients for the two-parameter quantum algebra
+  $SU(2)_{p,q}$","5 pages","J.Phys. A26 (1993) 5177-5180","10.1088/0305-4470/26/19/045",,"hep-th math.QA",,"  We show that the Clebsch - Gordan coefficients for the $SU(2)_{p,q}$ -
+algebra depend on a single parameter Q = $\sqrt{pq}$ ,contrary to the explicit
+calculation of Smirnov and Wehrhahn [J.Phys.A 25 (1992),5563].
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 15:48:51 GMT""}]","2009-10-22"
+"hep-th/9304075","Dobrev Vladimir","Raiko P. Zaikov","Chern-Simons $p$-Branes and $p$-Dimensional Classical $W$-Algebras","INRNE-TH/1/93, harvmac, 18 pages",,,,"hep-th",,"  It is shown that the generalized (with nonpolynomial Lagrangian) Chern-Simons
+membranes and in general $p$-branes moving in $D$-dimensional target space
+admit an infinite set of secondary constraints. With respect to the Poisson
+bracket these constraints satisfy closed algebra containing $p$-dimensional
+classical $W$ algebra as a subalgebra. In the case when the target space
+dimension $D$ is finite the theory is topological.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 15:30:21 GMT""}]","2007-05-23"
+"hep-th/9304076","Dobrev Vladimir","M. Stoilov and R. Zaikov","A U(1) Current Algebra Model Coupled to 2D-Gravity","INRNE-TH/02/93, LaTeX, 11 pages, (slight change of title and other
+  minor changes)","Mod.Phys.Lett. A8 (1993) 2687-2694","10.1142/S021773239300307X",,"hep-th",,"  We consider a simple model of a scalar field with $U(1)$ current algebra
+gauge symmetry coupled to $2D$-gravity in order to clarify the origin of
+Stuckelberg symmetry in the $w_{\infty}$-gravity theory. An analogous symmetry
+takes place in our model too. The possible central extension of the complete
+symmetry algebra and the corresponding critical dimension have been found. The
+analysis of the Hamiltonian and the constraints shows that the generators of
+the current algebra, the reparametrization and the Stuckelberg symmetries are
+not independent. The connection of the model with $w_{1+\infty}-$ and
+$W_{1+\infty}$-gravity is discussed.
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 15:33:31 GMT""},{""version"":""v2"",""created"":""Fri, 30 Apr 1993 09:01:02 GMT""}]","2009-10-22"
+"hep-th/9304077",,"T.Hakobyan and A.G.Sedrakyan","R-matrices of U_qOSP(1,2) for highest weight representations of
+  U_qOSP(1,2) for general q and q is an odd root of unity","9 pages, Yerevan preprint 1993, LATEX","Phys.Lett. B308 (1993) 266-271","10.1016/0370-2693(93)91283-S",,"hep-th",,"  We obtain the formula for intertwining operator(R-matrix) of quantum
+universal enveloping superalgebra U_qOSP(1,2) for U_qOSP(1,2)-Verma modules. By
+its restriction we obtain the R-matrix for two semiperiodic(semicyclic), two
+spin-j and spin-j and semiperiodic representations
+","[{""version"":""v1"",""created"":""Mon, 19 Apr 1993 15:54:08 GMT""}]","2007-05-23"

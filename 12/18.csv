@@ -1,0 +1,174 @@
+"astro-ph/9312044","Adrian Melott","A.L. Melott, T.F. Pellman, and S.F. Shandarin","Optimizing the Zel'dovich Approximation","Submitted to MNRAS. TeX file; for figures send request to
+  melott@kusmos.phsx.ukans.edu. Replacment has shorter abstract","Mon.Not.Roy.Astron.Soc.269:626,1994","10.1093/mnras/269.3.626",,"astro-ph",,"  We have recently learned that the Zeldovich approximation can be successfully
+used for a far wider range of gravitational instability scenarios than formerly
+proposed; we study here how to extend this range. In previous work we studied
+the accuracy of several analytic approximations to gravitational clustering in
+the mildly nonlinear regime. We found that the ``truncated Zel'dovich
+approximation"" (TZA) was better than any other (except in one case the ordinary
+Zeldovich approximation) over a wide range from linear to mildly nonlinear
+($\sigma \sim 3$) regimes. TZA sets Fourier amplitudes equal to zero for {\it
+all} wavenumbers greater than $k_{n\ell}$, where $k_{n\ell}$ marks the
+transition to the nonlinear regime. Here, we study crosscorrelation of
+generalized TZA with a group of $n$--body simulations for three shapes of
+window function: sharp $k$--truncation (as in CMS), tophat in coordinate space,
+or a Gaussian. We also study the crosscorrelation as a function of initial
+scale within each window type. We find $k$--truncation, which was so much
+better than other things tried in CMS, is the {it worst} of these three window
+shapes. We find that a Gaussian window $e^{-k^2/2k_G^2}$ applied to the intial
+Fourier amplitudes is the best choice. It produces a greatly improved
+crosscorrelation all cases we studied. The optimum choice of $k_G$ for the
+Gaussian window is (spectrum-- dependent) 1--1.5 times $k_{n\ell}$, with
+$k_{n\ell}$ defined by (3). Although all three windows produce similar power
+spectra and density distribution functions after application of the Zeldovich
+approximation, phase agreement with the $n$--body simulation is better for the
+Gaussian window. We ascribe Gaussian window success to its superior treatment
+of phase evolution.
+","[{""version"":""v1"",""created"":""Sat, 18 Dec 1993 05:07:53 GMT""}]","2015-06-24"
+"astro-ph/9312045","Paolo Coppi","F.A. Aharonian, P.S. Coppi, H.J. Voelk","Very High Energy Gamma-Rays from AGN: Cascading on the Cosmic Background
+  Radiation Fields and the Formation of Pair Halos","11 pages, uuencoded compressed Postscript file 0.2 Mbyte, UCH 93/39","Astrophys.J.423:L5-L8,1994","10.1086/187222",,"astro-ph",,"  Recent high energy gamma-ray observations (E>100 MeV) of blazar AGN show
+emission spectra with no clear upper energy cutoff. AGN, considered to be
+possible sources for the highest energy cosmic rays, may have emission
+extending well into the VHE (very high energy, E>100 GeV) domain. Because VHE
+gamma-rays are absorbed by pair production on the intergalactic background
+radiation, much of this emission is not visible. Electromagnetic cascades
+initiated by absorbed VHE gamma-rays, however, may be observable. Since the
+velocities of e+e- pairs produced in a cascade are likely to be isotropized by
+an ambient random magnetic field, extended ``halos'' (R>1 Mpc) of pairs will be
+formed around AGN with VHE emission. Cascade radiation from these pair halos is
+emitted isotropically and is observable below a few TeV. The halo radiation can
+be distinguished by its characteristic variation in spectrum and intensity with
+angular distance from the central source. This variation depends weakly on the
+details of the central source model, e.g., the orientation and beaming/opening
+angle of an emitting jet. Limiting or determining the intensity of the pair
+halo can thus serve as a model-independent bound on or measure of the VHE power
+of AGN. Next-generation Cherenkov telescopes may be able to image a pair halo.
+","[{""version"":""v1"",""created"":""Sat, 18 Dec 1993 07:31:26 GMT""}]","2019-08-17"
+"cond-mat/9312071","Igor L. Aleiner-1","I. L. Aleiner and B. I. Shklovskii","Effect of screening of the Coulomb interaction on the conductivity in
+  the quantum Hall regime","14 pages + 3 figures by request preprint TPI-MINN-93/58-T",,"10.1103/PhysRevB.49.13721",,"cond-mat",,"  We study variable range hopping in the quantum Hall effect regime in the
+presence of a metallic gate parallel to the plane of a two-dimensional electron
+gas. Screening of the Coulomb interaction by the gate causes the partial
+``filling'' of the Coulomb gap in the density of localized states. At low
+enough temperatures this leads to a substantial enhancement and a new
+temperature behavior of the hopping conductivity. As a result, the diagonal
+conductivity peaks become much wider. The power law dependence of the width of
+the peaks on the temperature changes: the corresponding exponent turns out to
+be twice as small as that for gateless structures. The width dependences on the
+current in non-ohmic regime and on the frequency for the absorption of the
+electromagnetic waves experience a similar modification. The experimental
+observation of the crossovers predicted may demonstrate the important role of
+the Coulomb interaction in the integer quantum Hall regime.
+","[{""version"":""v1"",""created"":""Sat, 18 Dec 1993 01:27:32 GMT""}]","2009-10-22"
+"gr-qc/9312029","Jorge Pullin","C. Di Bartolo, R. Gambini, J. Griego and J. Pullin","Extended Loops: A New Arena for Nonperturbative Quantum Gravity","12pp, Revtex, no figures, CGPG-93/12-1","Phys.Rev.Lett. 72 (1994) 3638-3641","10.1103/PhysRevLett.72.3638",,"gr-qc hep-th",,"  We propose a new representation for gauge theories and quantum gravity. It
+can be viewed as a generalization of the loop representation. We make use of a
+recently introduced extension of the group of loops into a Lie Group. This
+extension allows the use of functional methods to solve the constraint
+equations. It puts in a precise framework the regularization problems of the
+loop representation. It has practical advantages in the search for quantum
+states. We present new solutions to the Wheeler-DeWitt equation that reinforce
+the conjecture that the Jones Polynomial is a state of nonperturbative quantum
+gravity.
+","[{""version"":""v1"",""created"":""Fri, 17 Dec 1993 16:06:53 GMT""}]","2009-10-22"
+"hep-lat/9312070","Peter Lepage","The NRQCD Collaboration","Precision $\Upsilon$ Spectroscopy and Fundamental Parameters From NRQCD","8 pages","Nucl.Phys.Proc.Suppl.34:417-424,1994","10.1016/0920-5632(94)90406-5",,"hep-lat",,"  We present results from a high precision NRQCD simulation of the quenched
+$\Upsilon$ system at $\beta = 6$. We demonstrate a variety of important lattice
+techniques, including the perturbative improvement of actions, tadpole
+improvement, and multicorrelated fits for extracting the spectrum of excited
+states. We present new determinations of $\alpha_s(M_Z)$ and $M_b$, two
+fundamental parameters of the Standard Model.
+","[{""version"":""v1"",""created"":""Fri, 17 Dec 1993 19:59:27 GMT""}]","2012-08-27"
+"hep-lat/9312071","Evan Reidell","M.-C. Chu, J. Grandy, S. Huang, and J. W. Negele","Evidence for the Role of Instantons in Hadron Structure from Lattice QCD","26 pages in REVTeX, plus 10 figures, uuencoded. Submitted to Physical
+  Review D. MIT-CTP-2269","Phys.Rev.D49:6039-6050,1994","10.1103/PhysRevD.49.6039",,"hep-lat",,"  Cooling is used as a filter on a set of gluon fields sampling the Wilson
+action to selectively remove essentially all fluctuations of the gluon field
+except for the instantons. The close agreement between quenched lattice QCD
+results with cooled and uncooled configurations for vacuum correlation
+functions of hadronic currents and for density-density correlation functions in
+hadronic bound states provides strong evidence for the dominant role of
+instantons in determining light hadron structure and quark propagation in the
+QCD vacuum.
+","[{""version"":""v1"",""created"":""Fri, 17 Dec 1993 22:53:12 GMT""},{""version"":""v2"",""created"":""Thu, 23 Dec 1993 07:58:45 GMT""}]","2009-09-25"
+"hep-lat/9312072","Ivan Horvath","M. Creutz, I. Horvath and R. Mendris","The Method of Recursive Counting: Can One Go Further?","3 pages, compressed uuencoded postscript file; Talk presented at the
+  Lattice '93 conference in Dallas, BNL-49783","Nucl.Phys.Proc.Suppl. 34 (1994) 799-801","10.1016/0920-5632(94)90518-5",,"hep-lat",,"  After a short review of the Method of Recursive Counting we introduce a
+general algebraic description of recursive lattice building. This provides a
+rigorous framework for discussion of method's limitations.
+","[{""version"":""v1"",""created"":""Fri, 17 Dec 1993 23:10:52 GMT""}]","2009-10-22"
+"hep-lat/9312073","135","Masahiro IMACHI and Hiroshi YONEYAMA","Complex wave function, Chiral spin order parameter and Phase Problem","28 pages, 9 figures(hard copy will be available upon request)","Prog.Theor.Phys. 91 (1994) 1101-1118","10.1143/ptp/91.6.1101",,"hep-lat",,"  We study the two dimensional Hubbard model by use of the ground state
+algorithm in the Monte Carlo simulation. We employ complex wave functions as
+trial function in order to have a close look at properties such as chiral spin
+order ($\chi$SO) and flux phase. For half filling, a particle-hole
+transformation leads to sum rules with respect to the Green's functions for a
+certain choice of a set of wave functions. It is then analytically shown that
+the sum rules lead to the absence of the $\chi$SO. Upon doping, we are
+confronted with the sign problem, which in our case %ch appears as a ``phase
+problem"" due to the phase of the Monte Carlo weights. The average of the phase
+shows an exponential decay as a function of inverse temperature similarly to
+that of sign by Loh Jr. et. al. . We compare the numerical results with those
+of exact numerical calculations.
+","[{""version"":""v1"",""created"":""Sat, 18 Dec 1993 03:07:27 GMT""}]","2017-02-01"
+"hep-ph/9312302",,"Kingman Cheung and Tzu Chiang Yuan","$B_c$ Meson Productions Via Induced Gluon Fragmentation","LaTeX(RevTeX 2.0), 13 pages and 4 figures (not included, send upon
+  request to cheung@nuhep1.phys.nwu.edu), NUHEP-TH-93-30 and UCD-93-35","Phys.Lett.B325:481-487,1994","10.1016/0370-2693(94)90043-4",,"hep-ph",,"  Gluons cannot directly fragment into $B_c$ mesons until at order
+$\alpha_s^3$. However, the Altarelli-Parisi evolution of the $\bar b$-quark
+fragmentation functions $D_{\bar b \to B_c}(z)$ and $D_{\bar b \to B_c^*}(z)$
+from the heavy quark mass scales up to the collider energy scale $Q$ can induce
+the gluon fragmentation functions $D_{g \to B_c}(z)$ and $D_{g \to B_c^*}(z)$,
+respectively, through the gluon splitting $g\to \bar b$ at the order
+$\alpha_s^3 \, {\rm log} (Q/m_{b,c})$. We will determine these induced gluon
+fragmentation functions. The $B_c$ meson productions due to the induced gluon
+fragmentation will be evaluated and compared to the productions by the direct
+$\bar b$-quark fragmentation. The contribution from the induced gluon
+fragmentation is found to be a significant portion of the total $B_c$ and
+$B_c^*$ meson productions, and therefore cannot be ignored.
+","[{""version"":""v1"",""created"":""Fri, 17 Dec 1993 23:06:00 GMT""},{""version"":""v2"",""created"":""Mon, 20 Dec 1993 22:52:00 GMT""}]","2014-11-17"
+"hep-ph/9312303",,"Christopher D. Carone and Mitchell Golden","Detecting the Technirho in Technicolor Models with Scalars","Harvard preprint HUTP-93/A034; LaTeX file, 26 pages (22 pages
+  landscape mode), prepictex, pictex, and postpictex inputs required","Phys.Rev. D49 (1994) 6211-6219","10.1103/PhysRevD.49.6211",,"hep-ph",,"  We consider the detection of the technirho in technicolor models that include
+a weak scalar doublet. In these models, the scalar develops a vacuum
+expectation value when the technifermions condense, and fermion masses are
+generated through Yukawa couplings, as in the standard model. Unlike ordinary
+technicolor models, the technicolor scale is generally smaller than the
+electroweak scale, and the entire technicolor spectrum is shifted to lower
+energies. In addition, the technifermions can develop large `current' masses
+from the scalar's vev, so that the technicolor spectrum does not necessarily
+look like a scaled-up version of ordinary QCD. We discuss the collider
+signatures for the technirho in these models in the limit that the technirho is
+light. Although we focus mostly on the production and detection of the
+technirho in hadron colliders, we also discuss a peculiar limit in which the
+technirho may be light enough to be seen at LEP II.
+","[{""version"":""v1"",""created"":""Fri, 17 Dec 1993 23:48:07 GMT""}]","2009-10-22"
+"hep-th/9312154","David Gershon","David Gershon","Exact O(d,d) Transformations in WZW Models","23 pages. preprint TAUP-2129-93","Phys.Rev. D50 (1994) 6481-6489","10.1103/PhysRevD.50.6481",,"hep-th",,"  Using the algebraic Hamiltonian approach, we derive the exact to all orders
+O(d,d) transformations of the metric and the dilaton field in WZW and WZW coset
+models for both compact and non-compact groups. It is shown that under the
+exact $O(d)\times O(d)$ transformation only the leading order of the inverse
+metric $G^{-1}$ is transformed. The quantity $\sqrt{G}\exp(\Phi)$ is the same
+in all the dual models and in particular is independent of k. We also show that
+the exact metric and dilaton field that correspond to G/U(1)^d WZW can be
+obtained by applying the exact O(d,d) transformations on the (ungauged) WZW, a
+result that was known to one loop order only. As an example we give the O(2,2)
+transformations in the $SL(2,R)$ WZW that transform to its dual exact models.
+These include also the exact 3D black string and the exact 2D black hole with
+an extra $U(1)$ free field.
+","[{""version"":""v1"",""created"":""Fri, 17 Dec 1993 17:16:11 GMT""}]","2009-10-22"
+"hep-th/9312155","Peter H. Kleban","P. Kleban and I. Vassileva","Conformal Field Theory and Hyperbolic Geometry","7 pages (PlainTeX)","Phys.Rev.Lett. 72 (1994) 3929-3932","10.1103/PhysRevLett.72.3929",,"hep-th cond-mat",,"  We examine the correspondence between the conformal field theory of boundary
+operators and two-dimensional hyperbolic geometry. By consideration of domain
+boundaries in two-dimensional critical systems, and the invariance of the
+hyperbolic length, we motivate a reformulation of the basic equation of
+conformal covariance. The scale factors gain a new, physical interpretation. We
+exhibit a fully factored form for the three-point function. A doubly-infinite
+discrete series of central charges with limit c=-2 is discovered. A
+correspondence between the anomalous dimension and the angle of certain
+hyperbolic figures emerges. Note: email after 12/19: kleban@maine.maine.edu
+","[{""version"":""v1"",""created"":""Fri, 17 Dec 1993 19:44:06 GMT""}]","2009-10-22"
+"hep-th/9312156","Hubert Saleur","W.M.Koo and H.Saleur","Representations of the Virasoro algebra from lattice models","52 pages","Nucl.Phys. B426 (1994) 459-504","10.1016/0550-3213(94)90018-3",,"hep-th",,"  We investigate in details how the Virasoro algebra appears in the scaling
+limit of the simplest lattice models of XXZ or RSOS type. Our approach is
+straightforward but to our knowledge had never been tried so far. We simply
+formulate a conjecture for the lattice stress-energy tensor motivated by the
+exact derivation of lattice global Ward identities. We then check that the
+proper algebraic relations are obeyed in the scaling limit. The latter is under
+reasonable control thanks to the Bethe-ansatz solution. The results, which are
+mostly numerical for technical reasons, are remarkably precise. They are also
+corroborated by exact pieces of information from various sources, in particular
+Temperley-Lieb algebra representation theory. Most features of the Virasoro
+algebra (like central term, null vectors, metric properties...) can thus be
+observed using the lattice models. This seems of general interest for lattice
+field theory, and also more specifically for finding relations between
+conformal invariance and lattice integrability, since basis for the irreducible
+representations of the Virasoro algebra should now follow (at least in
+principle) from Bethe-ansatz computations.
+","[{""version"":""v1"",""created"":""Fri, 17 Dec 1993 21:47:16 GMT""}]","2009-10-22"

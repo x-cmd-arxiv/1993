@@ -1,0 +1,237 @@
+"astro-ph/9302016",,"S.Borgani, P.Coles, L.Moscardini & M.Plionis","Angular Distribution of Clustersin Skewed CDM Models","To be compiled with LaTeX, with the A4.STY macro, included at the
+  bottom of the text file","Mon.Not.Roy.Astron.Soc. 266 (1994) 524-544","10.1093/mnras/266.2.524","DFUPG 74 -- 93","astro-ph",,"  We perform a detailed investigation of the statistical properties of the
+projected distribution of galaxy clusters obtained in Cold Dark Matter (CDM)
+models with both Gaussian and skewed primordial density fluctuations. We use
+N-body simulations to construct a set artificial Lick maps. An objective
+cluster--finding algorithm is used to identify clusters of different richness.
+For Gaussian models, the overall number of clusters is too small in the
+standard CDM case, but a model with higher normalisation fares much better;
+non--Gaussian models with negative skewness also fit faily well. We apply
+several statistical tests to compare real and simulated cluster samples, such
+as the 2-point correlation function, the minimal spanning tree construction,
+the multifractal analysis and the skewness of cell counts. The emerging picture
+is that Gaussian models, even with a higher normalization, are in trouble.
+Skew-positive models are also ruled out, while skew-negative models can
+reproduce the observed clustering of galaxy clusters in the CDM framework.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 16:17:00 GMT""}]","2015-06-24"
+"astro-ph/9302017","Enrico Cappellaro","E. Cappellaro, M. Turatto, Benetti, D.Yu. Tsvetkov, O.S. Bartunov and
+  I.N. Makarova","The Rate of Supernovae. II. the Selection Effects and the Frequencies
+  Per Unit Blue Luminosity","9 pages, 3 figures (available upon request), Astron.Astrophys LaTeX
+  style format, OAPD-203",,,,"astro-ph",,"  We present new estimates of the observed rates of SNe determined with the
+{\em control time} method applied to the files of observations of two long
+term, photographic SN searches carried out at the Asiago and Sternberg
+Observatories. Our calculations are applied to a galaxy sample extracted from
+RC3, in which 65 SNe have been discovered. This relatively large number of SNe
+has been redistributed in the different morphological classes of host galaxies
+giving the respective SN rates. The magnitude of two biases, the overexposure
+of the central part of galaxies and the inclination of the spiral parent
+galaxies, have been estimated. We show that due to overexposure a increasing
+fraction of SNe is lost in galaxies of increasing distances. Also, a reduced
+number of SNe is discovered in inclined galaxies ($i>30\degr$): SNII and Ib are
+more affected than Ia, as well as SNe in Sbc-Sd galaxies with respect to other
+spirals. We strengthen previous findings that the SN rates is proportional to
+the galaxy blue luminosity for all SN and Hubble types. Other sources of
+errors, besides those due to the statistics of the events, have been
+investigated. In particular those related to the adopted SN parameters
+(Cappellaro et al. (\cite{paper1})) and correction factor for overexposure and
+inclination. Moreover, we show that the frequencies of SNe per unit luminosity
+vary if different sources for the parameters of the sample galaxies are
+adopted, thus hampering the comparison of SN rates based on different galaxy
+samples. The overall rates per unit blue luminosity are similar to the previous
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 09:02:10 GMT""}]","2007-05-23"
+"cond-mat/9302037","George Batrouni","G.G. Batrouni, B. Larson, R.T. Scalettar, J. Tobochnik, J. Wang","Universal Conductivity in the Two dimensional Boson Hubbard Model","20 pages, figures available upon request. Tex with jnl3.tex and
+  reforder.tex macros. cond-mat/yymmnnn",,"10.1103/PhysRevB.48.9628",,"cond-mat",,"  We use Quantum Monte Carlo to evaluate the conductivity $\sigma$ of the
+2--dimensional disordered boson Hubbard model at the superfluid-bose glass
+phase boundary. At the critical point for particle density $\rho=0.5$, we find
+$\sigma_{c}=(0.45 \pm 0.07) \sigma_{Q}$, where $\sigma_{Q}= e_{*}^{2} / h$ from
+a finite size scaling analysis of the superfluid density. We obtain
+$\sigma_{c}=(0.47 \pm 0.08) \sigma_{Q}$ from a direct calculation of the
+current--current correlation function. Simulations at the critical points for
+other particle densities, $\rho=0.75$ and $1.0$, give similar values for
+$\sigma$. We discuss possible origins of the difference in this value from that
+recently obtained by other numerical approaches.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 12:42:42 GMT""}]","2009-10-22"
+"funct-an/9302007","Vladimir Pestov","Vladimir G. Pestov","Operator spaces and residually finite-dimensional $C^\ast$-algebras","7 pages, AmS TeX 2.1",,,,"funct-an math.OA",,"  For every operator space $X$ the $C^\ast$-algebra containing it in a
+universal way is residually finite-dimensional (that is, has a separating
+family of finite-dimensional representations). In particular, the free
+$C^\ast$-algebra on any normed space so is. This is an extension of an earlier
+result by Goodearl and Menal, and our short proof is based on a criterion due
+to Exel and Loring.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 11:29:20 GMT""}]","2008-02-03"
+"hep-ph/9302303",,"E. Christova and M. Fabbrichesi","Testing Supersymmetry by Means of Time Reversal Invariance","12 pages (2 figures, not included), CERN-TH.6688/92","Phys.Lett. B315 (1993) 113-118","10.1016/0370-2693(93)90166-F",,"hep-ph",,"  The minimal supersymmetric extension of the standard model allows for some of
+the coupling strengths to be complex parameters. The presence of such imaginary
+phases can lead to violations of time reversal invariance, which can be tested
+if correlations in products of an odd number of polarizations and momenta are
+measured and found to be different from zero. As an example, we consider the
+triple product $\mbox{\bf J} \cdot \left(\mbox{\bf p}_1 \times \mbox{\bf p}_
+{2} \right)$ in the $\beta$-decay of the neutron, of the $\Sigma^-$, and in the
+decay $K^{+}_{3\mu}$. For these low-energy decays, we find that the present
+experimental precision is not enough to provide useful bounds on combinations
+of such phases and the masses of the supersymmetric particles. At higher
+energies, the same time reversal violating correlation in the semileptonic
+decay of the $t$ quark is of the order of $\alpha_s/\pi$, made bigger by the
+large mass of the decaying quark.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 16:46:06 GMT""},{""version"":""v2"",""created"":""Thu, 3 Jun 1993 14:10:37 GMT""}]","2009-10-22"
+"hep-ph/9302304","Lluis Ametller","Ll. Ametller, A. Bramon and E. Mass\'o","The $\pi^0\to e^+e^-$ and $\eta\to \mu^+ \mu^-$ Decays Revisited","10 pages, LATEX (revised version for recent experimental data)","Phys.Rev. D48 (1993) 3388-3391","10.1103/PhysRevD.48.3388","UAB-FT-300/93","hep-ph",,"  The rare $\pi^0 \to e^+e^-$ and $\eta \to \mu^+\mu^-$ decays are calculated
+in different schemes, which are seen to be essentially equivalent to and
+produce the same results as conventional Vector-Meson Dominance. We obtain the
+theoretical predictions $B(\pi^0 \to e^+e^-) = (6.41 \pm 0.19)\times 10^{-8}$
+and $B(\eta \to \mu^+\mu^-) = (1.14 +0.06 -0.03) \times 10^{-5}$ in agreement
+with recent experimental data.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 17:10:17 GMT""},{""version"":""v2"",""created"":""Fri, 5 Mar 1993 09:58:39 GMT""}]","2009-10-22"
+"hep-ph/9302305","Fredrick Olness","M. A. G. Aivazis, Wu-Ki Tung, Fredrick Olness","Next-to-Leading Order QCD Formulation of Deep Inelastic Scattering","(4 Pages in LaTex, 4 Figures, not included. Figures available via Fax
+  or mail from Olness@sscvx1.ssc.gov)",,,"SMU-HEP/91-12","hep-ph",,"  We have performed a QCD next-to-leading order (NLO) calculation for Deep
+Inelastic Scattering (DIS) retaining the full parton and hadron mass
+dependencies. We find that the gluon initiated contributions to DIS processes,
+such as charm production, are {\it comparable} in magnitude ({\it i.e.}, $30\%$
+to $100\%$) to the ``leading-order'' (LO) sea-quark processes. The
+``slow-rescaling"" prescription and the full NLO formalism are compared in a
+quantitative manner. The use of DIS distributions and the inclusion of the
+charm mass via slow-rescaling are not sufficient to mimic the correct NLO
+physics. These results imply that previous analyses of charm production data to
+extract the strange and charm content of the nucleon, as well as the precise
+determination of Standard Model parameters based on these analyses (such as the
+Weinberg angle), need to be reassessed.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 17:49:40 GMT""}]","2007-05-23"
+"hep-ph/9302306","Michelangelo Mangano","John HUTH and Michelangelo MANGANO","QCD Tests in Proton-Antiproton Collisions","30 pages + 26 figs (available upon request), IFUP-TH 4/93,
+  Fermilab-PUB-93/19-E, to appear in Annual Review of Nuclear and Particle
+  Science, vol 43","Ann.Rev.Nucl.Part.Sci.43:585-634,1993","10.1146/annurev.ns.43.120193.003101",,"hep-ph",,"  We review the status of QCD tests in high energy p-pbar collisions. Contents:
+i) Introduction ii) QCD in Hadronic Collisions iii) Jet Production iv) Heavy
+Flavour Production v) W and Z Production vi) Direct Photons.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 17:54:42 GMT""}]","2011-01-25"
+"hep-ph/9302307","Ivan","Eric Braaten, Kingman Cheung, and Tzu Chiang Yuan","Z^0 Decay into Charmonium via Charm Quark Fragmentation","LateX, 13 pages (2 figures available upon request). NUHEP-TH-93-2","Phys.Rev.D48:4230-4235,1993","10.1103/PhysRevD.48.4230",,"hep-ph",,"  In decays of the $Z^0$, the dominant mechanism for the direct production of
+charmonium states is the decay of the $Z^0$ into a charm quark or antiquark
+followed by its fragmentation into the charmonium state. We calculate the
+fragmentation functions describing the splitting of charm quarks into S-wave
+charmonium states to leading order in the QCD coupling constant. Leading
+logarithms of $M_Z/m_c$ are summed up using Altarelli-Parisi evolution
+equations. Our analytic result agrees with the complete leading order
+calculation of the rate for $Z^0 \rightarrow \psi c {\bar c}$. We also use our
+fragmentation functions to calculate the production rate of heavy quarkonium
+states in $W^\pm$, top quark, and Higgs decays.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 18:49:43 GMT""}]","2014-11-17"
+"hep-ph/9302308",,"Genya Levin and Chung-I Tan","Heterotic Pomeron: A Unified Treatment of High Energy Hadronic
+  Collisions in QCD","9 pages, phyzzx, BROWN HET-889; FERMILAB-CONF-92/391-T",,,,"hep-ph hep-th",,"  A unified treatment of high energy collisions in QCD is presented. Using a
+probabilistic approach, we incorporate both perturbative (hard) and
+non-perturbative (soft) components in a consistent fashion, leading to a
+``Heterotic Pomeron"". As a Regge trajectory, it is nonlinear, approaching 1 in
+the limit $t\rightarrow -\infty$.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 22:50:52 GMT""}]","2007-05-23"
+"hep-ph/9302311","O. Yakovlev","K.Melnikov and O.Yakovlev","Top Near Threshold: All QCD Radiative Corrections are Trivial","7 pages , figures described but not included, available on request,","Phys.Lett. B324 (1994) 217-223","10.1016/0370-2693(94)90410-3","BUDKERINP-93-10","hep-ph",,"  We have calculated part of O(${\alpha}_{S}$) QCD radiative correction to the
+total cross-section of top's threshold production in $ e^{+}e^{-} \to t\bar t
+\to W^{-} b W^{+} \bar b$ reaction. We found out a curious fact: there is no
+O(${\alpha}_{S}$) correction to the total cross-section, originated from $b
+\bar b , t \bar b ,\bar t b $ gluon exchange and corresponding gluon emission.
+Thus, all O(${\alpha}_{S}$) corrections which are non-zero, can be classified
+as: 1) corrections to $t \bar t$ nonrelativistic potential 2) corrections to
+the top's width 3) hard gluon correction to $\gamma t \bar t$-vertex. These
+corrections are well-known and were described in the previous papers. We can
+conclude that similar situation takes place for all unstable particles
+threshold production. This result can be expressed in the form of a general
+statment: There is no O(${\alpha}_{QED}$ or ${\alpha}_{QCD}$) corrections for
+the total cross-section , originated from the ""jet-jet"" interection.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 13:30:00 GMT""}]","2016-09-01"
+"hep-th/9302116",,"O. Bergman and G. Lozano","Aharonov-Bohm Scattering, Contact Interactions and Scale Invariance","9 pages, TEX, CTP#2182","Annals Phys. 229 (1994) 416-427","10.1006/aphy.1994.1013",,"hep-th",,"  We perform a perturbative analysis of the Aharonov-Bohm problem to one loop
+in a field-theoretic formulation, and show that contact interactions are
+necessary for renormalizability. In general, the classical scale invariance of
+this problem is broken quantum mechanically. There exists however a critical
+point for which this anomaly disappears.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 16:25:25 GMT""}]","2009-10-22"
+"hep-th/9302117","Myron Bander","Karl Yee and Myron Bander","Equations of Motion for Spinning Particles in External\\Electromagnetic
+  and Gravitational Fields","7 pages set in Revtex II","Phys.Rev. D48 (1993) 2797-2799","10.1103/PhysRevD.48.2797",,"hep-th",,"  The equations of motion for the position and spin of a classical particle
+coupled to an external electromagnetic and gravitational potential are derived
+from an action principle. The constraints insuring a correct number of
+independent spin components are automatically satisfied. In general the spin is
+not Fermi-Walker transported nor does the position follow a geodesic, although
+the deviations are small for most situations.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 16:30:31 GMT""}]","2009-10-22"
+"hep-th/9302118","Louis Crane","David N. Yetter and Louis Crane","We Are Not Stuck With Gluing","2 pages",,,,"hep-th math.QA",,"  We show that the construction of Ocneanu, which yields 1 for any 4D manifold,
+is not identical to our construction, which gives different numbers for
+different manifolds.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 20:35:29 GMT""}]","2008-02-03"
+"hep-th/9302119","Weimin Zhang","Wei-Min Zhang and Avaroth Harindranath","Light-Front QCD: Role of Longitudinal Boundary Integrals","29, OSU-NT-#93-0122","Phys.Rev. D48 (1993) 4868-4880","10.1103/PhysRevD.48.4868",,"hep-th",,"  In the canonical light-front QCD, the elimination of unphysical gauge degrees
+of freedom leads to a set of boundary integrals which are associated with the
+light-front infrared singularity. We find that a consistent treatment of the
+boundary integrals leads to the cancellation of the light-front linear infrared
+divergences. For physical states, the requirement of finite energy density in
+the light-front gauge $(A_a^+=0)$ results in equations which determine the
+asymptotic behavior of the transverse (physical) gauge degrees of freedom at
+longitudinal infinity. These asymptotic fields are generated by the boundary
+integrals and they are responsible for the topological winding number. They
+also involve non-local behavior in the transverse direction that leads to
+non-local forces.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 20:36:00 GMT""},{""version"":""v2"",""created"":""Fri, 2 Apr 1993 19:21:00 GMT""}]","2009-10-22"
+"hep-th/9302120",,"Alan Kostelecky and Malcolm Perry","Condensates and Singularities in String Theory","20 pages, DAMTP-R92-40, IUHET 242","Nucl.Phys.B414:174-190,1994","10.1016/0550-3213(94)90427-8",,"hep-th",,"  We derive a class of solutions to the string sigma-model equations for the
+closed bosonic string. The tachyon field is taken to form a constant condensate
+and the beta-function equations at one-loop level are solved for the evolution
+of the metric and the dilaton. The solutions represent critical string theories
+in arbitrary dimensions. The spectrum of the subclass of models with a linearly
+rising asymptotic dilaton is found using the Feigin-Fuks method. Certain
+approximate solutions arising in string field theory are used to illustrate the
+results explicitly. An argument based on conformal invariance leads to the
+conjecture that that stringy corrections to at least some singular spacetimes
+in general relativity result in non-singular metrics. We use the singularities
+of the big-bang/crunch type appearing in our models to examine this conjecture.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 20:39:25 GMT""}]","2009-09-25"
+"hep-th/9302121",,"D. Wesolowski, Y. Hosotani, and C.-L. Ho","Multiple Chern-Simons Fields on a Torus","20 pages, UMN-TH-1128/93, plain TeX","Int.J.Mod.Phys.A9:969-989,1994","10.1142/S0217751X94000443",,"hep-th cond-mat",,"  Intertwined multiple Chern-Simons gauge fields induce matrix statistics among
+particles. We analyse this theory on a torus, focusing on the vacuum structure
+and the Hilbert space. The theory can be mimicked, although not completely, by
+an effective theory with one Chern-Simons gauge field. The correspondence
+between the Wilson line integrals, vacuum degeneracy and wave functions for
+these two theories are discussed. Further, it is obtained in both of these
+cases that the two total momenta and Hamiltonian commute only in the physical
+Hilbert space.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 21:15:13 GMT""},{""version"":""v2"",""created"":""Fri, 26 Feb 1993 17:21:09 GMT""}]","2010-11-01"
+"hep-th/9302122",,"Olivier Piguet and Silvio P. Sorella","On the finiteness of the BRS modulo-d cocycles","21 p., UGVA-DPT 1992/03-759, Publ. in Nucl Phys. B381 (1992) 373","Nucl.Phys. B381 (1992) 373-393","10.1016/0550-3213(92)90652-R",,"hep-th",,"  Ladders of field polynomial differential forms obeying systems of descent
+equations and corresponding to observables and anomalies of gauge theories are
+renormalized. They obey renormalized descent equations. Moreover they are shown
+to have vanishing anomalous dimensions. As an application a simple proof of the
+nonrenormalization theorem for the nonabelian gauge anomaly is given.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 14:08:11 GMT""}]","2009-10-22"
+"hep-th/9302123",,"O. Piguet and S.P. Sorella","Adler-Bardeen theorem and vanishing of the gauge beta function","11p., UGVA-DPT 1992/07-774, to be publ. in Nucl. Phys. B","Nucl.Phys. B395 (1993) 661-671","10.1016/0550-3213(93)90052-Q",,"hep-th",,"  The proof of the non-renormalization theorem for the gauge anomaly of
+four-dimensional theories is extended to the case of models with a vanishing
+one-loop gauge beta function.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 14:10:27 GMT""}]","2009-10-22"
+"hep-th/9302124","Andreas Honecker","W. Eholzer, A. Honecker, R. Huebel","How Complete is the Classification of W-Symmetries ?","11 pages (Plain TeX), BONN-HE-93-08; CHANGE: Previously, we had
+  failed to recognize W(2,8) at c=-3164/23 and c=-712/7 as members of the
+  minimal series of the Casimir algebras WE_7 resp. WE_8. This lead to some
+  misleading side-remarks in the abstract, the conclusion, and in particular,
+  the introduction","Phys.Lett. B308 (1993) 42-50","10.1016/0370-2693(93)90599-D",,"hep-th",,"  In 2D conformal quantum field theory, we continue a systematic study of
+W-algebras with two and three generators and their highest weight
+representations focussing mainly on rational models. We review the known facts
+about rational models of W(2,\delta)-algebras. Our new rational models of
+W-algebras with two generators all belong to one of the known series. The
+majority of W-algebras with three generators -including the new ones
+constructed in this letter- can be explained as subalgebras or truncations of
+Casimir algebras. Nonetheless, for one solution of W(2,4,6) we reveal some
+features that do not fit into the pattern of Casimir algebras or orbifolds
+thereof. This shows that there are more W-algebras than those predicted from
+Casimir algebras (or Toda field theories). However, most of the known rational
+conformal field theories belong to the minimal series of some Casimir algebra.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 14:55:52 GMT""},{""version"":""v2"",""created"":""Tue, 27 Apr 1993 07:39:25 GMT""},{""version"":""v3"",""created"":""Thu, 2 Sep 1993 15:18:47 GMT""}]","2009-10-22"
+"math/9302202","Thomas Jech","Thomas Jech and Ji\v{r}\'i Witzany","Full Reflection at a Measurable Cardinal",,,,"Logic E-prints February 25, 1993","math.LO",,"  A stationary subset $S$ of a regular uncountable cardinal $\kappa$ {\it
+reflects fully} at regular cardinals if for every stationary set $T \subseteq
+\kappa$ of higher order consisting of regular cardinals there exists an $\alpha
+\in T$ such that $S \cap \alpha$ is a stationary subset of $\alpha$. {\it Full
+Reflection} states that every stationary set reflects fully at regular
+cardinals. We will prove that under a slightly weaker assumption than $\kappa$
+having Mitchell order $\kappa^{++}$ it is consistent that Full Reflection holds
+at every $\lambda \leq \kappa$ and $\kappa$ is measurable.
+","[{""version"":""v1"",""created"":""Thu, 25 Feb 1993 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9302012","David Seibert","David Seibert and Tanguy Altherr (Theory Division, CERN, CH-1211
+  Geneva 23, Switzerland)","Pre-equilibrium dileptons look thermal","CERN-TH.6813/93, 3 pages (latex) plus 1 figure (uuencoded postscript
+  file)","Phys.Rev. D48 (1993) 3386-3387","10.1103/PhysRevD.48.3386",,"nucl-th",,"  The dilepton mass distribution from pre-equilibrium matter in
+ultrarelativistic nuclear collisions is indistinguishable from a thermally
+produced distribution.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 17:00:01 GMT""}]","2009-10-22"
+"nucl-th/9302013","Joe Carlson","R. Schiavilla, R. B. Wiringa, and J. Carlson","The Coulomb Sum and Proton-Proton Correlations in Few-Body Nuclei","11 pages, Revtex version 3.0 with 3 Postscript figures appended, ANL
+  preprint PHY-7473-TH-93","Phys.Rev.Lett.70:3856-3859,1993","10.1103/PhysRevLett.70.3856",,"nucl-th",,"  In simple models of the nuclear charge operator, measurements of the Coulomb
+sum and the charge form factor of a nucleus directly determine the
+proton-proton correlations. We examine experimental results obtained for
+few-body nuclei at Bates and Saclay using models of the charge operator that
+include both one- and two-body terms. Previous analyses using one-body terms
+only have failed to reproduce experimental results. However, we find that the
+same operators which have been used to successfully describe the charge form
+factors also produce substantial agreement with measurements of the Coulomb
+sum.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 21:38:12 GMT""},{""version"":""v2"",""created"":""Mon, 1 Mar 1993 02:06:39 GMT""}]","2008-11-26"

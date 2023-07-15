@@ -1,0 +1,258 @@
+"cond-mat/9301032","Michael Leibig","Michael Leibig","A Model for the Propagation of Sound in Granular Materials","21 pages, requires Harvard macros (9/91), 12 postscript figures not
+  included, HLRZ preprint 6/93, (replacement has proper references included)",,"10.1103/PhysRevE.49.1647",,"cond-mat",,"  This paper presents a simple ball-and-spring model for the propagation of
+small amplitude vibrations in a granular material. In this model, the
+positional disorder in the sample is ignored and the particles are placed on
+the vertices of a square lattice. The inter-particle forces are modeled as
+linear springs, with the only disorder in the system coming from a random
+distribution of spring constants. Despite its apparent simplicity, this model
+is able to reproduce the complex frequency response seen in measurements of
+sound propagation in a granular system. In order to understand this behavior,
+the role of the resonance modes of the system is investigated. Finally, this
+simple model is generalized to include relaxation behavior in the force network
+-- a behavior which is also seen in real granular materials. This model gives
+quantitative agreement with experimental observations of relaxation.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 22:42:11 GMT""}]","2009-10-22"
+"cond-mat/9301034","Michael E. Flatte","Michael E. Flatte","Lower Bound on the Energy Gap at Precise Locations on the
+  Bi_2Sr_2CaCu_2O_8 Fermi Surface","7 pages + 1 figure (included), plain tex, NSF-ITP-93-16",,,,"cond-mat",,"  Recent inelastic-neutron-scattering measurements of a low-energy phonon in
+Bi_2Sr_2CaCu_2O_8 provide enough information to place a lower bound on the
+energy gap magnitude at precise locations on the Fermi surface. Measurements of
+a few low-energy phonons should indicate whether the gap symmetry is
+d_{x^2-y^2}. Further measurements could map out the angle-resolved gap
+magnitude on the entire Fermi surface.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 00:10:05 GMT""}]","2007-05-23"
+"cond-mat/9301035",,"Zhong-Yi LU, Zhao-Bin, SU and Lu YU","The Haldane Energy Gap of A Doped Linear-Chain Heisenberg
+  Antiferromagnet","REVTEX, 12 pages, no figures",,"10.1103/PhysRevB.47.12276","ICTP Preprint IC/92/378","cond-mat",,"  Using the valence-bond-solid (VBS) approach and the Schwinger boson mean
+field approximation, we study the dependence of the Haldane gap of a spin-1
+linear chain Heisenberg antiferromagnet on impurity doping with different
+spins. The impurity spins affect the singlet pairing order parameter $\Delta $
+and the constraint factor $\lambda$. As a result, the Haldane gap is reduced by
+a factor $ \sim n_i^{2/3}$, with $n_i$ as the impurity concentration, and
+eventually collapses at $n_i \sim 1/\xi$ with $\xi$ as the VBS correlation
+length. This theoretical prediction can be verified by neutron scattering
+experiments.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 15:23:00 GMT""},{""version"":""v2"",""created"":""Thu, 28 Jan 1993 14:26:00 GMT""}]","2016-08-31"
+"gr-qc/9301021","Ming Lu","Ming Lu and Mark B. Wise","Black Holes with a Generalized Gravitational Action","plain tex(uses phyzzx.tex), 8 pages, CALT-68-1850","Phys.Rev.D47:3095-3098,1993","10.1103/PhysRevD.47.R3095",,"gr-qc hep-th",,"  Microscopic black holes are sensitive to higher dimension operators in the
+gravitational action. We compute the influence of these operators on the
+Schwarzschild solution using perturbation theory. All (time reversal invariant)
+operators of dimension six are included (dimension four operators don't alter
+the Schwarzschild solution). Corrections to the relation between the Hawking
+temperature and the black hole mass are found. The entropy is calculated using
+the Gibbons-Hawking prescription for the Euclidean path integral and using
+naive thermodynamic reasoning. These two methods agree, however, the entropy is
+not equal to 1/4 the area of the horizon.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 21:28:19 GMT""},{""version"":""v2"",""created"":""Mon, 15 Feb 1993 04:50:48 GMT""}]","2010-01-06"
+"hep-lat/9301018","Thomas A. DeGrand","K.M. Bitar, T. DeGrand, R. Edwards, S. Gottlieb, U.M. Heller, A.D.
+  Kennedy, J.B. Kogut, A. Krasnitz, W. Liu, M.C. Ogilvie, R.L. Renken, P.
+  Rossi, D.K. Sinclair, R.L. Sugar, D. Toussaint, K.C. Wang","Simple Hadronic Matrix Elements with Wilson Valence Quarks and Dynamical
+  Staggered Fermions at ${\bf 6/g^2=5.6}$",,"Phys.Rev. D48 (1993) 370-387","10.1103/PhysRevD.48.370",,"hep-lat",,"  We have measured some simple matrix elements for pseudoscalar and vector
+mesons made of Wilson valence quarks and staggered sea quarks at $\beta=5.6$ at
+sea quark masses $am_q=0.01$ and 0.025. Our measurements include the decay
+constants of pseudoscalars (including $f_D$), the wave function at the origin
+(or decay constant) of vector mesons, and the calculation of quark masses from
+current algebra. The effects of sea quarks on the simulations are small. We
+make comparisons to quenched simulations at similar values of the lattice
+spacing ($1/a \simeq 2$ GeV).
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 18:34:19 GMT""}]","2009-10-22"
+"hep-lat/9301019","Chris Michael","J. Kripfganz and C. Michael","Lattice study of sphaleron transitions in a 2D O(3) sigma model","8 pages plus 1 postscript figure, Liverpool LTH 298","Phys.Lett.B308:89-93,1993","10.1016/0370-2693(93)90606-I",,"hep-lat",,"  A lattice approach is developed to measure the sphaleron free energy. Its
+feasibility is demonstrated through a Monte Carlo study of the two-dimensional
+O(3) sigma model.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 15:06:53 GMT""}]","2008-11-26"
+"hep-ph/9301275","Christoph Best","C. Best, P. Gornicki, and W. Greiner","The phase-space structure of the Klein-Gordon field","27 pages, LaTeX, UFTP 317/1992","Annals Phys. 225 (1993) 169-190","10.1006/aphy.1993.1055",,"hep-ph",,"  The formalism based on the equal-time Wigner function of the two-point
+correlation function for a quantized Klein--Gordon field is presented. The
+notion of the gauge-invariant Wigner transform is introduced and equations for
+the corresponding phase-space calculus are formulated. The equations of motion
+governing the Wigner function of the Klein--Gordon field are derived. It is
+shown that they lead to a relativistic transport equation with electric and
+magnetic forces and quantum corrections. The governing equations are much
+simpler than in the fermionic case which has been treated earlier. In addition
+the newly developed formalism is applied towards the description of spontaneous
+symmetry breakdown.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 16:05:50 GMT""}]","2009-10-22"
+"hep-ph/9301276","Antonio Dobado Gonzalez","A. Dobado and J. R. Pelaez","A global fit of $\pi\pi$ and $\pi K$ elastic scattering in ChPT with
+  dispersion relations","19 pages, 5 figures available on request, FT/UCM/10/92","Phys.Rev. D47 (1993) 4883-4888","10.1103/PhysRevD.47.4883",,"hep-ph",,"  We apply the one-loop results of the $SU(3)_L\times SU(3)_R$ ChPT suplemented
+with the inverse amplitude method to fit the available experimental data on
+$\pi\pi$ and $\pi K$ scattering. With esentially only three parameters we
+describe accurately data corresponding to six different channels, namely
+$(I,J)=(0,0), (2,0), (1,1), (1/2,0), (3/2,0)$ and $(1/2,1)$. In addition we
+reproduce the first resonances of the $(1,1)$ and $(1/2,1)$ channel with the
+right mass corresponding to the $\rho$ and the $K^*(892)$ particles.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 16:15:46 GMT""}]","2009-10-22"
+"hep-ph/9301277",,"X. Zhang","Operator Analysis for the Higgs Potential and Cosmological Bound on the
+  Higgs-Boson Mass","10 Pages, Tex, UMDHEP 93-074","Phys.Rev. D47 (1993) 3065-3067","10.1103/PhysRevD.47.3065",,"hep-ph",,"  Using effective lagrangian, we examine the impacts of new physics on the
+electroweak baryogenesis. By analysing the high dimensional operators relevent
+to the Higgs potential we point out that the Higgs mass bound required by
+electroweak baryogenesis can be relaxed to the region allowed by experiments,
+provided that new physics appears at the TeV scale.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 18:24:00 GMT""}]","2009-10-22"
+"hep-ph/9301278","Patrick O'Donnell","Patrick J. O'Donnell and Humphrey K.K. Tung","The Rare Decay $B\to K^{\ast}\gamma$: A More Precise Calculation","15 pages, UTPT-93-02, in REVTEX with one figure in eps","Phys.Rev. D48 (1993) 2145-2151","10.1103/PhysRevD.48.2145",,"hep-ph",,"  Efforts to predict the rare exclusive decay $B\to K^{\ast}\gamma$ from the
+well known inclusive decay $b\to s\gamma$ are frustrated by the effect of the
+large recoil momentum. We show how to reduce the large uncertainty in
+calculating this decay by relating $B\to K^{\ast}\gamma$ to the semileptonic
+process $B\to\rho e\bar{\nu}$ using the heavy-quark symmetry in B decays and
+SU(3) flavor symmetry. A direct measurement of the $q^{2}$-spectrum for the
+semileptonic decay can provide accurate information for the exclusive rare
+decay.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 19:44:54 GMT""}]","2009-10-22"
+"hep-ph/9301279","Ashok Das","Ashok Das and Vishnu Mathur","Nonleptonic Decays of Charmed Mesons into two Pseudoscalar Mesons","10 pages, UR-1235, ER40685-687, (figures not included)","Mod.Phys.Lett. A8 (1993) 2079-2086","10.1142/S0217732393001793",,"hep-ph",,"  We investigate the nonleptonic decay of charmed meson into two pseudoscalar
+mesons using the vector--dominance model, and compare the results with those
+obtained from the factorization model. In particular, we discuss the role of
+the annihilation diagrams in the two models.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 20:02:00 GMT""}]","2015-06-25"
+"hep-ph/9301280",,"A. Dolgov Randall (Physics Laboratory University of Michigan, Ann
+  Arbor, MI U.S.A. and ITEP, Moscow, Russia)","Breaking Of Conformal Invariance And Electromagnetic Field Generation In
+  The Universe","6 pages, UM - TH - 93 - 01","Phys.Rev.D48:2499-2501,1993","10.1103/PhysRevD.48.2499",,"hep-ph",,"  It is shown that the breaking of the conformal invariance in quantum
+electrodynamics due to the trace anomaly results in the generation of long wave
+electromagnetic fields during inflationary stage of the universe evolution. If
+the coefficient of the logarithmic charge renormalization is large (due to a
+large number of charged particles species), these primordial electromagnetic
+fields can be strong enough to create the observed galactic magnetic fields.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 23:27:15 GMT""}]","2008-11-26"
+"hep-ph/9301281",,"Ferruccio Feruglio","The Chiral Approach to the Electroweak Interactions","43 pages, LaTeX, DFPD 92/TH/50, Lectures given at the 2^{nd} National
+  Seminar of Theoretical Physics, Parma, 1-12 September 1992","Int.J.Mod.Phys.A8:4937-4972,1993","10.1142/S0217751X93001946",,"hep-ph",,"  The effective lagrangian approach is reviewed and applied to the case of
+electroweak interactions.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 10:19:53 GMT""}]","2011-04-15"
+"hep-ph/9301282",,"Harry. J. Lipkin","Interference Effects in B-Decays to Flavor-Mixed Neutral Mesons - Clues
+  to Small Amplitudes and CP-Violation","7 pages",,,,"hep-ph",,"  CP violation can be observed in B decays when a given process depends upon
+interference between two weak amplitudes which have different $CP$-violating
+phases. Since most weak decay diagrams have quark lines where each has a
+definite flavor label, neutral mesons which are flavor mixtures are
+particularly interesting. Different diagrams can contribute to the different
+flavor components of the meson, and the wave function itself provides
+interference.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 13:07:00 GMT""}]","2007-05-23"
+"hep-ph/9301283",,"R. Decker, M. Nowakowski and A. Pilaftsis","Dominant Three-Body Decays of a Heavy Higgs and Top Quark","19 pages (13 Figs can be sent by request), TeX, MZ-TH/92-25","Z.Phys. C57 (1993) 339-348","10.1007/BF01565067",,"hep-ph",,"  We calculate the dominant three body Higgs decays, $H \to W^+W^-(Z^0,
+\gamma)$ and $H \to t\overline{t}(Z^0,\gamma ,g)$, in the Standard Model. We
+find that the branching ratios of these decays are of the order of few percent
+for large Higgs masses. We comment on the behaviour of the partial decay width
+$\Gamma (H \to t\overline{b}W^-)$ below the $t\overline{t}$ threshold.
+Numerical results of the following three body top decays, $t \to W^+b(\gamma
+,g,Z^0)$ and $t \to W^+bH$, are also given. We discuss the feasibility of
+observing these Higgs and top decays at future high energy colliders.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 12:44:00 GMT""}]","2009-10-22"
+"hep-ph/9301284","Christoph Best","C. Best and J. M. Eisenberg","Pair creation in transport equations using the equal-time Wigner
+  function","19 pages, LaTeX, UFTP 316/1992","Phys.Rev. D47 (1993) 4639-4646","10.1103/PhysRevD.47.4639",,"hep-ph",,"  Based on the equal-time Wigner function for the Klein-Gordon field, we
+discuss analytically the mechanism of pair creation in a classical
+electromagnetic field including back-reaction. It is shown that the equations
+of motion for the Wigner function can be reduced to a variable-frequency
+oscillator. The pair-creation rate results then from a calculation analogous to
+barrier penetration in nonrelativistic quantum mechanics. The Wigner function
+allows one to utilize this treatment for the formulation of an effective
+transport theory for the back-reaction problem with a pair-creation source term
+including Bose enhancement.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 14:47:29 GMT""}]","2016-09-01"
+"hep-ph/9301285","Mariano Quiros","J.R. Espinosa and M. Quir\'os","The electroweak phase transition with a singlet","11 pages (plus 5 figures.ps available upon request), latex,
+  IEM-FT-67/93","Phys.Lett. B305 (1993) 98-105","10.1016/0370-2693(93)91111-Y",,"hep-ph",,"  We study the electroweak phase transition in the minimal extension of the
+Standard Model: an extra complex singlet with zero vacuum expectation value.
+The first-order phase transition is strengthened by the cubic term triggered in
+the one-loop effective potential by the extra boson. Plasma effects are
+considered to leading order: they shield the cubic terms and weaken the
+first-order phase transition. We find a region in the parameter space where
+baryon asymmetry washout is avoided for Higgs masses consistent with present
+experimental bounds. However in that region the theory becomes non-perturbative
+for scales higher than $10^{10}\ GeV$.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 15:28:57 GMT""}]","2009-10-22"
+"hep-th/9301108",,"E. Abdalla, M.C.B. Abdalla, O.H.G. Branco and L.E. Saltini","Current Algebra of Super WZNW Models","13 pages","J.Phys. A27 (1994) 4709-4716","10.1088/0305-4470/27/13/043",,"hep-th",,"  We derive the current algebra of supersymmetric principal chiral models with
+a Wess-Zumino term. At the critical point one obtains two commuting super
+Kac-Moody algebra as expected, but in general there are intertwining fields
+connecting both right and left sectors, analogously to the bosonic case.
+Moreover, in the present supersymmetric extension we have a quadratic algebra,
+rather than an affine Lie algebra, due to the mixing between bosonic and
+fermionic fields since the purely fermionic sector displays a Lie algebra as
+well.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 18:05:31 GMT""}]","2009-10-22"
+"hep-th/9301109",,"E. Abdalla, A.C.V.V. de Siqueira","String inspired effective Lagrangian and Inflationary Universe","4 pages. Figures may be obtained from the authors",,,,"hep-th",,"  We consider a string inspired effective Lagrangian for the graviton and
+dilaton, containing Einstein gravity at the zero slope limit. The numerical
+solution of the problem shows asymptotically an inflationary universe. The time
+is measured by the dilaton, as one expects. The result is independent of the
+introduction of ad-hoc self interactions for the dilaton field.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 18:24:04 GMT""}]","2007-05-23"
+"hep-th/9301110","Judy Mack","J. Anandan and C. R. Hagen","Neutron Acceleration in Uniform Electromagnetic Fields","11 pages",,"10.1103/PhysRevA.50.2860","UR-1303, ER-40685-752","hep-th",,"  The question as to whether neutron acceleration can occur in uniform
+electromagnetic fields is examined. Although such an effect has been predicted
+using the canonical equations of motion some doubt has been raised recently as
+to whether it is in principle observable for a spin 1/2 particle. To resolve
+this issue a gedanken experiment is proposed and analyzed using a wave packet
+construction for the neutron beam. By allowing arbitrary orientation for the
+neutron spin as well as for the electric and magnetic fields a non vanishing
+acceleration of the center of the neutron wave packet is found which confirms
+the predictions of the canonical formalism.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 19:51:00 GMT""}]","2009-10-22"
+"hep-th/9301111","Leon Takhtajan","Leon Takhtajan","On Foundation of the Generalized Nambu Mechanics","27 pages","Commun.Math.Phys. 160 (1994) 295-316","10.1007/BF02103278",,"hep-th math.SG",,"  We outline the basic principles of canonical formalism for the Nambu
+mechanics---a generalization of Hamiltonian mechanics proposed by Yoichiro
+Nambu in 1973. It is based on the notion of Nambu bracket which generalizes the
+Poisson bracket to the multiple operation of higher order $n \geq 3$ on
+classical observables and is described by Hambu-Hamilton equations of motion
+given by $n-1$ Hamiltonians. We introduce the fundamental identity for the
+Nambu bracket which replaces Jacobi identity as a consistency condition for the
+dynamics. We show that Nambu structure of given order defines a family of
+subordinated structures of lower order, including the Poisson structure,
+satisfying certain matching conditions. We introduce analogs of action from and
+principle of the least action for the Nambu mechanics and show how dynamics of
+loops ($n-2$-dimensional objects) naturally appears in this formalism. We
+discuss several approaches to the quantization problem and present explicit
+representation of Nambu-Heisenberg commutation relation for $n=3$ case. We
+emphasize the role higher order algebraic operations and mathematical
+structures related with them play in passing from Hamilton's to Nambu's
+dynamical picture.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 20:45:26 GMT""}]","2009-10-22"
+"hep-th/9301112","Clifford Johnson","Clifford V. Johnson","On Integrable c<1 Open--Closed String Theory","(Slight corrections to title, text, terminology and references. Note
+  added. No change in physics.) , 30pp, IASSNS--HEP--93/5","Nucl.Phys.B414:239-266,1994","10.1016/0550-3213(94)90430-8",,"hep-th",,"  The integrable structure of open--closed string theories in the $(p,q)$
+conformal minimal model backgrounds is presented. The relation between the
+$\tau$--function of the closed string theory and that of the open--closed
+string theory is uncovered. The resulting description of the open--closed
+string theory is shown to fit very naturally into the framework of the
+$sl(q,{\rm C})$ KdV hierarchies. In particular, the twisted bosons which
+underlie and organise the structure of the closed string theory play a similar
+role here and may be employed to derive loop equations and correlation function
+recursion relations for the open--closed strings in a simple way.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 04:02:22 GMT""},{""version"":""v2"",""created"":""Fri, 18 Jun 1993 14:29:13 GMT""}]","2010-11-01"
+"hep-th/9301113","John Gracey","J.A. Gracey","Gauge Independent Critical Exponents for QED Coupled to a Four Fermi
+  Interaction with and without a Chern Simons Term","29 pages, latex, 5 figures available from author on request","Annals Phys. 224 (1993) 275-300","10.1006/aphy.1993.1047",,"hep-th",,"  We apply the self consistency method for determining critical exponents to a
+model with a four fermi interaction coupled to QED and compute various gauge
+independent exponents in arbitrary dimensions in the large $N$ expansion at
+$O(1/N)$. The formalism is developed to include a Chern Simons term in three
+dimensions and the effect such a term has on the exponents is deduced.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 10:13:00 GMT""}]","2009-10-22"
+"hep-th/9301114",,"M. Bonini, M. D'Attanasio and G. Marchesini","Perturbative renormalization and infrared finiteness in the Wilson
+  renormalization group: the massless scalar case","Latex file, 21 pages and 6 figures (included), Parma Univ. preprint
+  UPRF-92-360","Nucl.Phys. B409 (1993) 441-464","10.1016/0550-3213(93)90588-G",,"hep-th",,"  A new proof of perturbative renormalizability and infrared finiteness for a
+scalar massless theory is obtained from a formulation of renormalized field
+theory based on the Wilson renormalization group. The loop expansion of the
+renormalized Green functions is deduced from the Polchinski equation of
+renormalization group. The resulting Feynman graphs are organized in such a way
+that the loop momenta are ordered. It is then possible to analyse their
+ultraviolet and infrared behaviours by iterative methods. The necessary
+subtractions and the corresponding counterterms are automatically generated in
+the process of fixing the physical conditions for the ``relevant'' vertices at
+the normalization point. The proof of perturbative renormalizability and
+infrared finiteness is simply based on dimensional arguments and does not
+require the usual analysis of topological properties of Feynman graphs.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 15:59:00 GMT""}]","2009-10-22"
+"hep-th/9301115",,"A. Cappelli, G.V. Dunne, C.A. Trugenberger and G.R. Zemba","Symmetry Aspects and Finite-Size Scaling of Quantum Hall Fluids","15 pages, CERN-TH-6784/93, LateX file","Nucl.Phys.Proc.Suppl. 33C (1993) 21-34","10.1016/0920-5632(93)90369-H",,"hep-th cond-mat",,"  The exactness and universality observed in the quantum Hall effect suggests
+the existence of a symmetry principle underlying Laughlin's theory. We review
+the role played by the infinite $W_{\infty }$ and conformal algebras as
+dynamical symmetries of incompressible quantum fluids and show how they predict
+universal finite-size effects in the excitation spectrum.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 15:32:09 GMT""}]","2009-10-22"
+"hep-th/9301125","Swapna Mahapatra","Swapna Mahapatra","On the Rotating Charged Black String Solution","12 pages, IMSC-93/6,(Phyzzx macro), January 1993","Phys.Rev. D50 (1994) 947-951","10.1103/PhysRevD.50.947",,"hep-th",,"  A rotating charged black string solution in the low energy effective field
+theory describing five dimensional heterotic string theory is constructed. The
+solution is labelled by mass, electric charge, axion charge and angular
+momentum per unit length. The extremal limit of this solution is also studied.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 14:53:56 GMT""}]","2009-10-22"
+"nucl-th/9301017","Wally Melnitchouk","W.Melnitchouk and A.W.Thomas (Univ. of Adelaide)","Role of Vector Mesons in High-Q^2 Lepton-Nucleon Scattering","22 pages, 9 figures (available upon request); accepted for
+  publication in Phys.Rev.D, ADP-92-197/T122",,"10.1103/PhysRevD.47.3794",,"nucl-th",,"  The possible role played by vector mesons in inclusive deep inelastic
+lepton-nucleon scattering is investigated. In the context of the convolution
+model, we calculate self-consistently the scaling contribution to the nucleon
+structure function using the formalism of time-ordered perturbation theory in
+the infinite momentum frame. Our results indicate potentially significant
+effects only when the vector meson---nucleon form factor is very hard.
+Agreement with the experimental antiquark distributions, however, requires
+relatively soft form factors for the $\pi N$, $\rho N$ and $\omega N$ vertices.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 01:57:28 GMT""}]","2009-10-22"
+"nucl-th/9301018","Heinz Oberhummer","H. Krauss, K. Gr""un, T. Rauscher, H. Oberhummer","The Astrophysical S-Factor of the Reaction $^7$be(p,$\gamma$)$^8$B in
+  the Direct Capture Model","18 pages, 5 figures (available from author on request), Annalen der
+  Physik in press, 1993","Ann. Phys. 505 (1993) 258-266; Annalen der Physik 2 (1993) 258-266","10.1002/andp.19935050304",,"nucl-th",,"  The astrophysical $S$-factor for the reaction $^7$Be(p,$\gamma$)$^8$B up to
+an energy of 2~MeV (c.m.) and the capture cross section of
+$^7$Li(n,$\gamma$)$^8$Li up to 1~MeV (c.m.) are calculated using the Direct
+Capture model (DC). Both calculations are in good agreement with experimental
+data.
+","[{""version"":""v1"",""created"":""Wed, 27 Jan 1993 15:07:47 GMT""},{""version"":""v2"",""created"":""Thu, 28 Jan 1993 13:27:07 GMT""}]","2012-07-25"

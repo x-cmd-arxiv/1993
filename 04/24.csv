@@ -1,0 +1,133 @@
+"cond-mat/9304038",,"J. J. Palacios, L. Martin-Moreno, and C. Tejedor","Correlation Effects on Transport Through Few-Electrons Systems","9 pages, 2 postscript figures, Latex 3.14",,"10.1016/0039-6028(94)90950-4",,"cond-mat",,"  We study lateral tunneling through a quantum box including electron-electron
+interactions in the presence of a magnetic field which breaks single particle
+degeneracies. The conductance at zero temperature as a function of the Fermi
+energy in the leads consists of a set of peaks related to changing by one the
+electron occupancy in the box. We find that the position and heights of the
+peaks are controlled by many-body effects. We compute the conductance up to 8
+electrons for several cases where correlation effects dominate. In the range of
+intermediate fields spin selection rules quench some peaks. At low and high
+fields the behavior of the conductance as a function of the number of electrons
+is very different due to big changes in the many-body ground state
+wavefunctions.
+","[{""version"":""v1"",""created"":""Fri, 23 Apr 1993 17:09:17 GMT""}]","2009-10-22"
+"cond-mat/9304039",,"L. Brey, J. J. Palacios, and C. Tejedor","Phase Separation of Edge States in the Integer Quantum Hall Regime","8 pages, Revtex 3.0, 3 postscript figures",,"10.1103/PhysRevB.47.13884",,"cond-mat",,"  Coulomb effects on the edge states of a two dimensional electron gas in the
+presence of a high magnetic field are studied for different widths of the
+boundaries. Schr\""odinger and Poisson equations are selfconsistently solved in
+the integer Quantum Hall regime. Regions of flat bands at the Fermi level
+appear for smooth interfaces in order to minimize the electrostatic energy
+related to the existence of dipoles induced by the magnetic field. These
+plateaus determine the phase separation in stripes of compressible and
+incompressible electron liquids.
+","[{""version"":""v1"",""created"":""Fri, 23 Apr 1993 17:16:12 GMT""}]","2009-10-22"
+"cond-mat/9304040","Makoto Kaburagi","Makoto Kaburagi, Isao Harada and Takashi Tonegawa","Impurity-Bond Effect on the Spin-1 Antiferromagnetic Heisenberg Chain","11 pages + 5 figures available upon request from
+  kabu@icluna.kobe-u.ac.jp, TeX, KOBE-CCS-93-01",,"10.1143/JPSJ.62.1848",,"cond-mat",,"  Low-lying excited states of the spin-1 antiferromagnetic Heisenberg chain
+with an impurity bond are investigated in terms of domain-wall excitations by
+means of analytical methods as well as a method of numerical diagonalization.
+It is shown that 1) the impurity bond brings about a massive triplet mode in
+the Haldane gap, 2) the triplet state comprises three of the four ground states
+of an open chain, 3) the excited states with the domain wall trapped at the
+impurity bond, including the massive triplet mode, exhibit a N\'eel-type
+configuration of the magnetic moment around the impurity bond. On the basis of
+the present results, we propose a new energy versus magnetic-field diagram.
+","[{""version"":""v1"",""created"":""Fri, 23 Apr 1993 16:04:47 GMT""}]","2009-10-22"
+"gr-qc/9304037",,"L. Diosi and B. Lukacs","Calculation of X-Ray Signals from Karolyhazy Hazy Space-Time","7 pages, PlainTeX","Phys.Lett. 181A (1993) 366-368","10.1016/0375-9601(93)90389-H",,"gr-qc",,"  Karolyhazy's hazy space-time model, invented for breaking down macroscopic
+interferences, employs wave-like gravity disturbances. If so, then electric
+charges would radiate permanently. Here we discuss the observational
+consequences of the radiation. We find that such radiation is excluded by
+common experimental situations.
+","[{""version"":""v1"",""created"":""Sat, 24 Apr 1993 00:09:00 GMT""}]","2007-05-23"
+"hep-ph/9304293","R. Sekhar Chivukula","R. Sekhar Chivukula and Vassilis Koulovassilopoulos","Phenomenology of a Non-Standard Higgs","13 pages, 3 figures, Latex, BUHEP-93-7 (corrects typos in eqn. 21)","Phys.Lett. B309 (1993) 371-377","10.1016/0370-2693(93)90947-G",,"hep-ph hep-lat",,"  The one-Higgs-doublet standard model is necessarily incomplete because of the
+triviality of the scalar symmetry-breaking sector. If the Higgs mass is
+approximately 600 GeV or higher, there must be additional dynamics at a scale
+$\Lambda$ which is less than a few TeV. In this case the properties of the
+Higgs resonance can differ substantially from those predicted by the standard
+model. In this letter we construct an effective Lagrangian description of a
+theory with a non-standard Higgs boson and analyze the features of a theory
+with such a resonance coupled to the Goldstone Bosons of the breaking of $\su$.
+This Lagrangian describes the most general theory in which the Higgs and the
+Goldstone Bosons are the only particles with a mass small compared to
+$\Lambda$. We compute the leading corrections to the decay width of the Higgs
+boson and the contribution to the Peskin-Takeuchi parameter $S$ and present
+results for the corrections to Goldstone Boson scattering. We find that the
+most prominent effects are due to one new parameter, which is directly related
+to the Higgs boson width.
+","[{""version"":""v1"",""created"":""Fri, 23 Apr 1993 18:25:38 GMT""},{""version"":""v2"",""created"":""Mon, 3 May 1993 18:09:03 GMT""}]","2015-06-25"
+"hep-ph/9304294","James T. Liu","Paul H. Frampton, James T. Liu, Daniel Ng, and B. Charles Rasco","SSC Phenomenology of the 331 Model of Flavor","14 pages (including three postscript figures), IFP-466-UNC","Mod.Phys.Lett.A9:1975-1984,1994","10.1142/S0217732394001830",,"hep-ph",,"  The 331 model offers an explanation of flavor by anomaly cancellation between
+three families. It predicts three exotic quarks, $Q=D$, $S$, $T$, and five
+extra gauge bosons comprising an additional neutral $Z_2$ and four charged
+dileptonic gauge bosons $(Y^{--},Y^-)$, $(Y^{++},Y^+)$. Production of
+$Q\overline{Q}$, $QY$, $YY$ and $Z_2$ at the SSC is calculated, and signatures
+are discussed.
+","[{""version"":""v1"",""created"":""Fri, 23 Apr 1993 19:19:50 GMT""}]","2011-07-19"
+"hep-ph/9304295","Mike Berger","V. Barger, M. S. Berger, P. Ohmann and R. J. N. Phillips","Phenomenological Implications of the $m_t$ RGE Fixed Point for SUSY
+  Higgs Boson Searches","12 pages + 4 PS figures not included (available upon request),
+  MAD/PH/755","Phys.Lett.B314:351-356,1993","10.1016/0370-2693(93)91248-L",,"hep-ph",,"  In minimal SUSY-GUT models with $M_{SUSY}\ltap 1$ TeV, the renormalization
+group equations have a solution dominated by the infrared fixed point of the
+top Yukawa coupling. This fixed point predicts $m_t=(200\; {\rm GeV})\sin \beta
+$; combined with the LEP results it excludes $m_t\ltap 130$ GeV. For $m_t$ in
+the range 130-160 GeV, we discuss the sensitivity of the $m_t$ fixed point
+result to GUT threshold corrections and point out the implications for Higgs
+boson searches. The lightest scalar $h$ has mass 60-85 GeV and will be
+detectable at LEPII. At SSC/LHC, each of the five scalars $h$, $H$, $A$,
+$H^{\pm }$ may be detectable, but not all of them together; in one parameter
+region none will be detectable.
+","[{""version"":""v1"",""created"":""Fri, 23 Apr 1993 19:41:55 GMT""}]","2009-09-15"
+"hep-ph/9304296",,"Vittorio Del Duca and Wai-Keung Tang","Parton-Parton Elastic Scattering and Rapidity Gaps at Very High Energies","15 pages","Phys.Lett. B312 (1993) 225-231","10.1016/0370-2693(93)90515-J",,"hep-ph",,"  The theory of the perturbative pomeron, due to Lipatov and collaborators, is
+used to compute the probability of observing parton-parton elastic scattering
+and rapidity gaps between jets in hadron collisions at very high energies.
+","[{""version"":""v1"",""created"":""Fri, 23 Apr 1993 23:41:00 GMT""}]","2009-10-22"
+"hep-ph/9304297",,"Wai-Keung Tang","High Energy Quark-Antiquark Elastic scattering with Mesonic Exchange","29 pages","Phys.Rev. D48 (1993) 2019-2026","10.1103/PhysRevD.48.2019",,"hep-ph",,"  We studies the high energy elastic scattering of quark anti-quark with an
+exchange of a mesonic state in the $t$ channel with $-t/\Lambda^{2} \gg 1$.
+Both the normalization factor and the Regge trajectory can be calculated in
+PQCD in cases of fixed (non-running) and running coupling constant. The
+dependence of the Regge trajectory on the coupling constant is highly
+non-linear and the trajectory is of order of $0.2$ in the interesting physical
+range.
+","[{""version"":""v1"",""created"":""Sat, 24 Apr 1993 01:31:00 GMT""}]","2009-10-22"
+"hep-th/9304113","Ted Allen","Theodore J. Allen, Andrew J. Bordner, and Dennis B. Crossley","Phase Space Reduction and Vortex Statistics: An Anyon Quantization
+  Ambiguity","14 pages, PHYZZX","Phys. Rev. D 49, 6907 (1994)","10.1103/PhysRevD.49.6907","Wisconsin Preprint MAD/TH-92-14","hep-th",,"  We examine the quantization of the motion of two charged vortices in a
+Ginzburg--Landau theory for the fractional quantum Hall effect recently
+proposed by the first two authors. The system has two second-class constraints
+which can be implemented either in the reduced phase space or
+Dirac-Gupta-Bleuler formalism. Using the intrinsic formulation of statistics,
+we show that these two ways of implementing the constraints are inequivalent
+unless the vortices are quantized with conventional statistics; either
+fermionic or bosonic.
+","[{""version"":""v1"",""created"":""Fri, 23 Apr 1993 18:24:00 GMT""}]","2013-11-13"
+"hep-th/9304114","Edwin Langmann","Edwin Langmann","Fermion Current Algebras and Schwinger Terms in 3+1 Dimensions","42 pages, UBC 91-32 (revised version, original Jan. 92)","Commun.Math.Phys.162:1-32,1994","10.1007/BF02105184",,"hep-th",,"  We discuss the restricted linear group in infinite dimensions modeled by the
+Schatten class of rank $2p=4$ which contains $(3+1)$-dimensional analog of the
+loop groups and is closely related to Yang-Mills theory with fermions in
+$(3+1)$-dimensions. We give an alternative to the construction of the ``highest
+weight'' representation of this group found by Mickelsson and Rajeev. Our
+approach is close to quantum field theory, with the elements of this group
+regarded as Bogoliubov transformations for fermions in an external Yang-Mills
+field. Though these cannot be unitarily implemented in the physically relevant
+representation of the fermion field algebra, we argue that they can be
+implemented by sesquilinear forms, and that there is a (regularized) product of
+forms providing an appropriate group structure. On the Lie algebra level, this
+gives an explicit, non-perturbative construction of fermion current algebras in
+$(3+1)$ space-time dimensions which explicitly shows that the ``wave function
+renormalization'' required for a consistent definition of the currents and
+their Lie bracket naturally leads to the Schwinger term identical with the
+Mickelsson-Rajeev cocycle. Though the explicit form of the Schwinger term is
+given only for the case $p=2$, our arguments apply also to the restricted
+linear groups modeled by Schatten classes of rank $2p=6,8,\ldots$ corresponding
+to current algebras in $(d+1)$- dimensions, $d=5,7,\ldots$.
+","[{""version"":""v1"",""created"":""Sat, 24 Apr 1993 00:18:00 GMT""},{""version"":""v2"",""created"":""Sat, 24 Apr 1993 00:25:00 GMT""}]","2010-11-01"
+"hep-th/9304115",,"H. Lu, C.N. Pope and X.J. Wang","On Higher-spin Generalisations of String Theory","16 pages. CTP TAMU-22/93","Int.J.Mod.Phys.A9:1527-1543,1994","10.1142/S0217751X94000674",,"hep-th",,"  We construct BRST operators for certain higher-spin extensions of the
+Virasoro algebra, in which there is a spin-$s$ gauge field on the world sheet,
+as well as the spin-2 gauge field corrresponding to the two-dimensional metric.
+We use these BRST operators to study the physical states of the associated
+string theories, and show how they are related to certain minimal models.
+","[{""version"":""v1"",""created"":""Sat, 24 Apr 1993 05:07:31 GMT""}]","2009-10-07"
+"hep-th/9304117",,"Noboru Kawamoto","Fractal Structure of Quantum Gravity in Two Dimensions","21 pages, phyzzx included, 11 figures not included, INS-Rep. 972",,,,"hep-th hep-lat",,"  Recent numerical results on the fractal structure of two-dimensional quantum
+gravity coupled to $c=-2$ matter are reviewed. Analytic derivation of the
+fractal dimensions based on the Liouville theory and diffusion equation is also
+discussed. Excellent agreements between the numerical and theoretical results
+are obtained. Some problems on the non-universal nature of the fractal
+structure in the continuum limit are pointed out.
+============================================================================
+This is a review paper on \lq\lq Fractal Structure of Quantum Gravity in Two
+Dimension. Talk given at Nishinomiya-Yukawa Simposium, Nov. 1992. Figures are
+available from the author directly as hard copies.
+","[{""version"":""v1"",""created"":""Sat, 24 Apr 1993 08:22:41 GMT""}]","2007-05-23"

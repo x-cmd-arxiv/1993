@@ -1,0 +1,190 @@
+"cond-mat/9302022","Ko Okumura","Ko Okumura","Various condensed matter Hamiltonians in terms of U(2/2) operators and
+  their symmetry structures","13 pages, LatTeX, CCNY-HEP-92/7","Mod.Phys.Lett. B7 (1993) 251-258","10.1142/S0217984993000266",,"cond-mat",,"  We rewrite various lattice Hamiltonian in condensed matter physics in terms
+of U(2/2) operators that we introduce. In this representation the symmetry
+structure of the models becomes clear. Especially, the Heisenberg, the
+supersymmetric t-J and a newly proposed high-$T_c$ superconducting Hamiltonian
+reduce to the same form $H=$$-t\sum_{<jk>}\sum_{ac}X^{ac}_j X^{ca}_k
+(-1)^{F(c)}$. This representation also gives us a systematic way of searching
+for the symmetries of the system.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 22:57:30 GMT""}]","2009-10-22"
+"cond-mat/9302023","C. Meyers","B. Bonnier, M. Hontebeyrie, and C. Meyers","On the random filling of $R^d$ by non-\-overlapping d-dimensional cubes","pure LaTeX, 8 pages, LPTB 93-3",,"10.1016/0378-4371(93)90180-C",,"cond-mat",,"  We compute the time-dependent coverage in the random sequential adsorption of
+aligned d-dimensional cubes in $R^d$ using time-series expansions. The
+seventh-order series in 2, 3 and 4 dimensions is resummed in order to predict
+the coverage at jamming. The result is in agreement with Monte-Carlo
+simulations. A simple argument, based on a property of the perturbative
+expansion valid at arbitrary orders, allows us to analytically derive some
+generalizations of the Pal\'asti approximation.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 13:34:34 GMT""}]","2009-10-22"
+"cond-mat/9302024","Assa Auerbach","Maxim Raykin (Boston University) and Assa Auerbach (Technion, Israel)","The 1/N Expansion and Long Range Antiferromagnetic Order","9 LaTeX pages. Figures upon request. Tech-101",,"10.1103/PhysRevLett.70.3808",,"cond-mat",,"  The staggered magnetization of the Heisenberg antiferromagnet in two
+dimensions can be systematically approximated by a 1/N expansion. Cancellation
+between self energy diagrams leads to a Luttinger-like theorem for the ground
+state. We prove (for a smooth enough self energy) that the long range order of
+mean field theory ($N$=$\infty$) survives corrections to all orders of 1/N.
+Divergences of this series provides a new route to the disordered phases of
+quantum antiferromagnets.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 14:24:42 GMT""}]","2009-10-22"
+"cond-mat/9302025","Assa Auerbach","Assa Auerbach (Physics Dept., Technion, Israel)","The Semiclassical Expansion of the t-J model","LaTeX, Tech-102",,,,"cond-mat",,"  The Semiclassical Expansion of the t-J model. Lectures in the Jerusalem
+Winter School on Strongly Correlated Electrons, Dec. 1991, by Assa Auerbach,
+Physics Dept., Technion, Israel. LateX. Tech-102.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 14:42:53 GMT""}]","2007-05-23"
+"funct-an/9302004","Jayakumar Ramanathan","Jayakumar Ramanathan and Pankaj Topiwala","Time-Frequency Localization and the Gabor Transform","14 pages, LaTeX",,,,"funct-an math.FA",,"  The time-frequency content of a signal can be measured by the Gabor transform
+or windowed Fourier transform. This is a function defined on phase space that
+is computed by taking the Fourier transform of the product of the signal
+against a translate of a fixed window. The problem of finding signals with
+Gabor transform that are maximally concentrated within a given region of phase
+space is discussed. It is well known that such problems give rise to an
+eigenvalue problem for an associated self-adjoint, positive {\em concentration}
+operator that has its spectrum contained in the unit interval. In this paper,
+the asymptotic behavior of these eigenvalues as the concentration region gets
+large is studied. The smoothness of the eigenfunctions is also examined.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 15:50:33 GMT""}]","2008-02-03"
+"gr-qc/9302019","Stuwert","E.D.Stewart and D.H.Lyth","A more accurate analytic calculation of the spectrum of cosmological
+  perturbations produced during inflation","9 pages, KUNS 1176 and LANCS TH 93 01","Phys.Lett.B302:171-175,1993","10.1016/0370-2693(93)90379-V",,"gr-qc astro-ph hep-ph",,"  Formulae are derived for the spectra of scalar curvature perturbations and
+gravitational waves produced during inflation, special cases of which include
+power law inflation, natural inflation in the small angle approximation and
+inflation in the slow roll approximation.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 07:09:45 GMT""}]","2008-11-26"
+"hep-lat/9302004","Massimo Campostrini","Bartomeu Alles, Massimo Campostrini, Adriano Di Giacomo, Yigit Gunduc,
+  and Ettore Vicari","Renormalization and topological susceptibility on the lattice: SU(2)
+  Yang-Mills theory","12 pages + 4 figures (PostScript); report no. IFUP-TH 10/93","Phys.Rev. D48 (1993) 2284-2289","10.1103/PhysRevD.48.2284",,"hep-lat",,"  The renormalization functions involved in the determination of the
+topological susceptibility in the SU(2) lattice gauge theory are extracted by
+direct measurements, without relying on perturbation theory. The determination
+exploits the phenomenon of critical slowing down to allow the separation of
+perturbative and non-perturbative effects. The results are in good agreement
+with perturbative computations.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 09:42:47 GMT""}]","2009-10-22"
+"hep-ph/9302268","Felix Schlumpf","Felix Schlumpf","The Electric and Magnetic Form Factors of the Neutron","6 pages, LaTeX, SLAC-PUB-6050","Mod.Phys.Lett. A8 (1993) 2135-2140","10.1142/S0217732393001859",,"hep-ph",,"  We derive the electric and magnetic form factors of the neutron in the
+framework of a relativistic constituent quark model. Our parameter free
+prediction agrees well with a recent, accurate measurement. The relativistic
+features of the model and the specific form of the wave function are essential
+for the result. Comparisons are made to other models based on VMD, PQCD and QCD
+sum rules.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 18:15:47 GMT""}]","2015-06-25"
+"hep-ph/9302269",,"Matthias Neubert","Reparametrization invariance and the expansion of currents in the heavy
+  quark effective theory","10 pages ReVTeX, SLAC-PUB-6059 (no figures)","Phys.Lett. B306 (1993) 357-362","10.1016/0370-2693(93)90091-U",,"hep-ph",,"  The coefficients appearing at leading and subleading order in the $1/m$
+expansion of bilinear heavy quark currents are related to each other by
+imposing reparametrization invariance on both the effective current operators
+and the short-distance coefficient functions in the heavy quark effective
+theory. When combined with present knowledge about the leading order
+coefficients, the results allow to calculate all coefficients appearing at
+order $1/m$ to next-to-leading order in renormalization-group improved
+perturbation theory. They also provide a meaningful definition of the velocity
+transfer variable $v\cdot v'$ to order $1/m$.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 19:22:00 GMT""}]","2009-10-22"
+"hep-ph/9302270","Evan Reidell","E. P. Gilson and R. L. Jaffe","Very Small Strangelets","13 pages, MIT CTP#2173","Phys.Rev.Lett. 71 (1993) 332-335","10.1103/PhysRevLett.71.332",,"hep-ph",,"  We study the stability of small strangelets by employing a simple model of
+strange matter as a gas of non-interacting fermions confined in a bag. We solve
+the Dirac equation and populate the energy levels of the bag one quark at a
+time. Our results show that for system parameters such that strange matter is
+unbound in bulk, there may still exist strangelets with $A<100$ that are stable
+and/or metastable. The lifetime of these strangelets may be too small to detect
+in current accelerator experiments, however.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 20:53:05 GMT""}]","2009-10-22"
+"hep-ph/9302271","Daniel Ng","James T. Liu and Daniel Ng","$Z$--$Z'$ mixing and oblique corrections in an ${\rm SU(3) \times U(1)}$
+  model","IFP-460-UNC, TRI-PP-93-11, 20 pages, 2 figures are appended","Z.Phys.C62:693-700,1994","10.1007/BF01574173",,"hep-ph",,"  A global fit for experiments is included in this revised version.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 23:57:34 GMT""},{""version"":""v2"",""created"":""Fri, 5 Mar 1993 00:52:21 GMT""},{""version"":""v3"",""created"":""Wed, 30 Jun 1993 16:28:27 GMT""}]","2014-11-17"
+"hep-ph/9302272",,"John F. Gunion, Howard E. Haber, Gordon L. Kane, and Sally Dawson","Errata for ""The Higgs Hunter's Guide""","5 pages, PHYZZX format",,,,"hep-ph",,"  Errata are given for ""The Higgs Hunter's Guide"". These errata should be
+applied to the second printing of the book, dated 1991. The second printing has
+already corrected numerous errors and misprints contained in the originally
+published 1990 edition.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 00:48:00 GMT""}]","2007-05-23"
+"hep-ph/9302273","Chao-Qiang Geng","C. Q. Geng, K. Whisnant and B. -L. Young","Right-handed Neutral Currents, Families and the LEP $l^+l^-\gamma\gamma$
+  Events","11 pages (LaTex file), IS-J 4917",,,,"hep-ph",,"  We explore the possibility of having new physics which could account for the
+$l^+l^-\gamma\gamma$ events with $M_{\gamma\gamma}\simeq 60\ $GeV recently
+reported by LEP. We consider models which contain an extra neutral gauge boson
+($Z'$) that couples only to right-handed fermions. The models naturally require
+at least three quark and lepton families from anomaly cancellation. We find
+simple realizations of such models that have $\ell^+\ell^-\gamma\gamma$ events
+at a rate similar to that observed at LEP.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 02:51:30 GMT""}]","2007-05-23"
+"hep-ph/9302274","Mannque Rho","Hyun Kyu Lee and Mannque Rho","Vanishing of Nonabelian Berry Phases in Heavy Solitonic Baryons","Latex, 21 pages; no figures; DSM-CEA T93/021","Phys.Rev.D48:2329-2336,1993","10.1103/PhysRevD.48.2329",,"hep-ph",,"  In this article, we show -- using a reasoning applicable to both the
+excitation spectrum in the chiral bag model and the hyperfine structure of
+diatomic molecules -- that the generic form of a non- abelian Berry potential
+appears in heavy-quark effective theory (HQET) and that the Berry potential
+vanishes for the soliton- heavy meson bound state in the heavy-quark limit. The
+vanishing of the Berry potential in HQET is shown to be related to the
+restoration of heavy-quark symmetry in infinite heavy-quark-mass limit in close
+analogy to diatomic molecules at infinite internuclear separation.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 10:11:01 GMT""}]","2010-11-01"
+"hep-ph/9302275",,"A. Ballestrero, E. Maina and S. Moretti","Hard Photon Pair Production at LEP","7 Pages (4 Figs available from the authors in Postscript or via Fax
+  ), LaTex, DFTT 4/93","Phys.Lett. B305 (1993) 312-316","10.1016/0370-2693(93)90124-Z",,"hep-ph",,"  The production of photon pairs in $e^+e^-\rightarrow f \bar f \gamma\gamma$
+processes is studied using exact helicity amplitudes at tree level. Total cross
+sections, including initial state radiation effects, are given. They are
+presented in the case of quarks as a function of $y_{\rm cut}$ in the JADE
+algorithm. In the case of leptons we use cuts similar to the ones employed in a
+recent L3 analysis. Masses of the final state fermions are taken into account
+when appropriate. The cross section $e^+e^-\rightarrow \tau^+ \tau^-
+\gamma\gamma$ is about 10\% larger when the $\tau$ mass is neglected. We
+obtain, with a different method, results which are in good agreement with L3
+Montecarlo simulation.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 12:30:00 GMT""}]","2009-10-22"
+"hep-th/9302077",,"I. Jack and J. Panvel","WZW-Toda Reduction using the Casimir Operator","16pp, uses harvmac, LTH 304 (Revised version with improved discussion
+  of non-perturbative effects)","Int.J.Mod.Phys. A9 (1994) 745-758","10.1142/S0217751X94000352",,"hep-th",,"  We construct a quantum Hamiltonian operator for the Wess-Zumino-Witten (WZW)
+model in terms of the Casimir operator. This facilitates the discussion of the
+reduction of the WZW model to Toda field theory at the quantum level and
+provides a very straightforward derivation of the quantum central charge for
+the Toda field theory.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 16:44:03 GMT""},{""version"":""v2"",""created"":""Thu, 6 May 1993 15:06:30 GMT""}]","2009-10-22"
+"hep-th/9302079","Philip Argyres","Philip Argyres","Fractional Superstring Tree Scattering Amplitudes","12 pages, LaTeX, CTP#2183",,,,"hep-th",,"  The spin-4/3 fractional superstring is characterized by a chiral algebra
+involving a spin-4/3 current on the world-sheet in addition to the
+energy-momentum tensor. These currents generate physical state conditions on
+the fractional superstring Fock space. Scattering amplitudes of these physical
+states are described which satisfy both spurious state decoupling and cyclic
+symmetry (duality). Examples of such amplitudes are calculated using an
+explicit $c=5$ realization of the spin-4/3 current algebra. This representation
+has three flat coordinate boson fields and a global SO(2,1) Lorentz symmetry,
+permitting a particle interpretation of the amplitudes.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 21:08:50 GMT""}]","2007-05-23"
+"hep-th/9302080","Andrew Strominger","A. Strominger and S.P. Trivedi","Information Consumption by Reissner-Nordstrom Black Holes","17 pages and 1 figure","Phys.Rev.D48:5778-5783,1993","10.1103/PhysRevD.48.5778",,"hep-th gr-qc",,"  The low-energy scattering of charged fermions by extremal magnetic
+Reissner-Nordstrom black holes is analyzed in the large-$N$ and $S$-wave
+approximations. It is shown that (in these approximations) information is
+carried into a causally inaccessible region of spacetime, and thereby
+effectively lost. It is also shown that there is an infinite degeneracy of
+quantum black hole ground states, or ``remnants"", which store --- but will not
+reveal --- the information. A notable feature of the analysis --- not shared by
+recent analyses of dilatonic black holes --- is that the key physical questions
+can be answered within the weak coupling domain. We regard these results as
+strong evidence that effective information loss occurs in our universe.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 22:45:21 GMT""}]","2009-09-17"
+"hep-th/9302085",,"L.V.Avdeev, D.I.Kazakov and I.N.Kondrashuk","Difficulties of an Infrared Extension of Differential Renormalization","(minor changes have been made to make clear that no infrared problems
+  occur in the original ultraviolet procedure of [1]; subsection 2.1 has been
+  added to outline the ideas a simple example), 26 pages, LaTeX, JINR preprint
+  E2-92-538, Dubna (Dec.1992)","Int.J.Mod.Phys. A9 (1994) 1067-1096","10.1142/S0217751X94000492",,"hep-th",,"  We investigate the possibility of generalizing differential renormalization
+of D.Z.Freedman, K.Johnson and J.I.Latorre in an invariant fashion to theories
+with infrared divergencies via an infrared $\tilde{R}$ operation.
+Two-dimensional $\sigma$ models and the four-dimensional $\phi^4$ theory
+diagrams with exceptional momenta are used as examples, while dimensional
+renormalization serves as a test scheme for comparison. We write the basic
+differential identities of the method simultaneously in co-ordinate and
+momentum space, introducing two scales which remove ultraviolet and infrared
+singularities. The consistent set of Fourier-transformation formulae is
+derived. However, the values for tadpole-type Feynman integrals in higher
+orders of perturbation theory prove to be ambiguous, depending on the order of
+evaluation of the subgraphs. In two dimensions, even earlier than this
+ambiguity manifests itself, renormalization-group calculations based on
+infrared extension of differential renormalization lead to incorrect results.
+We conclude that the extended differential renormalization procedure does not
+perform the infrared $\tilde{R}$ operation in a self-consistent way, as the
+original recipe does the ultraviolet $R$ operation.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 14:09:41 GMT""},{""version"":""v2"",""created"":""Mon, 8 Mar 1993 09:09:34 GMT""},{""version"":""v3"",""created"":""Tue, 9 Mar 1993 09:56:15 GMT""},{""version"":""v4"",""created"":""Wed, 10 Mar 1993 06:29:07 GMT""}]","2009-10-22"
+"nucl-th/9302007",,"T. Barnes, S. Capstick, M.D. Kovarik, and E.S. Swanson","NN Core Interactions and Differential Cross Sections from One Gluon
+  Exchange","27 pages, figures available from the authors, revtex, CEBAF-TH-93-04,
+  MIT-CTP-2187, ORNL-CCIP-93-01","Phys.Rev.C48:539-552,1993","10.1103/PhysRevC.48.539",,"nucl-th",,"  We derive nonstrange baryon-baryon scattering amplitudes in the
+nonrelativistic quark model using the ``quark Born diagram"" formalism. This
+approach describes the scattering as a single interaction, here the
+one-gluon-exchange (OGE) spin-spin term followed by constituent interchange,
+with external nonrelativistic baryon wavefunctions attached to the scattering
+diagrams to incorporate higher-twist wavefunction effects. The short-range
+repulsive core in the NN interaction has previously been attributed to this
+spin-spin interaction in the literature; we find that these perturbative
+constituent-interchange diagrams do indeed predict repulsive interactions in
+all I,S channels of the nucleon-nucleon system, and we compare our results for
+the equivalent short-range potentials to the core potentials found by other
+authors using nonperturbative methods. We also apply our perturbative
+techniques to the N$\Delta$ and $\Delta\Delta$ systems: Some $\Delta\Delta$
+channels are found to have attractive core potentials and may accommodate
+``molecular"" bound states near threshold. Finally we use our Born formalism to
+calculate the NN differential cross section, which we compare with experimental
+results for unpolarised proton-proton elastic scattering. We find that several
+familiar features of the experimental differential cross section are reproduced
+by our Born-order result.
+","[{""version"":""v1"",""created"":""Wed, 17 Feb 1993 16:30:31 GMT""}]","2008-11-26"

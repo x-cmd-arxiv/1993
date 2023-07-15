@@ -1,0 +1,48 @@
+"cond-mat/9310078",,"Alex Kamenev and Yuval Gefen","Phi_0 - Periodic Aharonov-Bohm Oscillations Survive Ensemble Averaging","11 pages, 2 figures, RevTex 3.0,WIS-93/84/Aug.-PH",,"10.1103/PhysRevB.49.14474",,"cond-mat",,"  We have demonstrated that Phi_0 periodic Aharonov--Bohm oscillations measured
+in a ensemble of rings may survive after ensemble averaging procedure. The
+central point is the difference between the preparation stage of the ensemble
+and the subsequent measurement stage. The robustness of the effect under finite
+temperature and non--zero charging energy of rings is discussed.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 1993 11:33:33 GMT""}]","2009-10-22"
+"cond-mat/9310079","V. Privman","Vladimir Privman","Exact Results for Diffusion-Limited Reactions with Synchronous Dynamics","12 pages in plain TeX","Phys. Rev. E 50, 50-53 (1994)","10.1103/PhysRevE.50.50",,"cond-mat",,"  A new method is introduced allowing to solve exactly the reactions A+A->inert
+and A+A->A on the 1D lattice with synchronous diffusional dynamics
+(simultaneous hopping of all particles). Exact connections are found relating
+densities and certain correlation properties of these two reactions at all
+times. Asymptotic behavior at large times as well as scaling form describing
+the regime of low initial density, are derived explicitly.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 1993 15:51:07 GMT""}]","2010-10-12"
+"hep-th/9310196","Tony Giaquinto","A. Giaquinto and J. J. Zhang","Quantum Weyl algebras","21 pages",,,,"hep-th math.QA",,"  For any Hecke symmetry $R$ there is a natural quantization $A_n(R)$ of the
+Weyl algebra $A_n$. The aim of this paper is to study some general
+ring-theoretic aspects of $A_n(R)$ and its relations to formal deformations of
+$A_n$. We also obtain further information on those quantizations obtained from
+some well-known Hecke symmetries.
+","[{""version"":""v1"",""created"":""Sat, 30 Oct 1993 21:19:25 GMT""}]","2008-02-03"
+"hep-th/9310197",,"Oleg A. Soloviev","The WZNW model as an integrable perturbation of the Witten conformal
+  point","13 pages, LaTex file, QMW-93-28","Phys.Lett.B321:365-367,1994","10.1016/0370-2693(94)90258-5",,"hep-th",,"  We show that the WZNW model with arbitrary $\sigma$-model coupling constant
+may be viewed as a $\sigma$-model perturbation of the WZNW theory around the
+Witten conformal point. In order for the $\sigma$-model perturbation to be
+relevant, the level $k$ of the underlying affine algebra has to be negative. We
+prove that in the large $|k|$ limit the perturbed WZNW system with negative $k$
+flows to the conformal WZNW model with positive level. The flow appears to be
+integrable due to the existence of conserved currents satisfying the Lax
+equation. This fact is in a favorable agreement with the integrability of the
+WZNW model discovered by Polyakov and Wiegmann within the Bethe ansatz
+technique.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 1993 13:49:39 GMT""}]","2011-07-19"
+"hep-th/9310201","John Baez","John C. Baez","Generalized Measures in Gauge Theory","12 pages","Lett.Math.Phys. 31 (1994) 213-224","10.1007/BF00761713",,"hep-th math.OA",,"  Let P -> M be a principal G-bundle. Using techniques from the loop
+representation of gauge theory, we construct well-defined substitutes for
+``Lebesgue measure'' on the space A of connections on P and for ``Haar
+measure'' on the group Ga of gauge transformations. More precisely, we define
+algebras of ``cylinder functions'' on the spaces A, Ga, and A/Ga, and define
+generalized measures on these spaces as continuous linear functionals on the
+corresponding algebras. Borrowing some ideas from lattice gauge theory, we
+characterize generalized measures on A, Ga, and A/Ga in terms of graphs
+embedded in M. We use this characterization to construct generalized measures
+on A and Ga, respectively. The ``uniform'' generalized measure on A is
+invariant under the group of automorphisms of P. It projects down to the
+generalized measure on A/Ga considered by Ashtekar and Lewandowski in the case
+G = SU(n). The ``generalized Haar measure'' on Ga is right- and left-invariant
+as well as Aut(P)-invariant. We show that averaging any generalized measure on
+A against generalized Haar measure gives a gauge-invariant generalized measure
+on A.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 1993 12:09:33 GMT""}]","2009-10-22"

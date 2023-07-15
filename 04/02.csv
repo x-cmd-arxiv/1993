@@ -1,0 +1,179 @@
+"astro-ph/9304001","Eyal Maoz","Eyal Maoz","Do Observations Exclude Gamma-ray Bursts Originating In the Oort Cloud
+  Of Comets?","14 pages, Latex","Astrophys.J. 414 (1993) 877","10.1086/173130",,"astro-ph",,"  As long as there is no distance indicator to the sources of gamma-ray bursts
+all possible sources which are isotropically distributed should remain under
+consideration. This is why the Oort cloud of comets is kept on the list. We use
+the available data on the bursts' distribution of (the BATSE catalogue), and
+the Catalogue of Cometary Orbits by Marsden and Williams (1992) to investigate
+whether there is any observational indication for correlations between the
+angular distributions of bursts and comets' aphelia, assuming that the
+distribution of aphelia direction reflect, at least to some extent, true
+variations in the column density of the Oort cloud. We also apply the V/V_{max}
+test to both distributions. We have performed a variety of statistical tests (a
+Kolmogorov-Smirnov test for the distributions in galactic latitude, a $\chi^2$
+test for the spherical multiple moments, and a 2-D cross-correlation analysis),
+including testing sub-samples for isolating the effect of possible
+observational biases. These tests imply that it is unlikely that the two
+distributions agree, but the statistical significance is not sufficient for
+ruling out any connection with complete confidence. We performed Monte-Carlo
+simulations which show that only when the number of bursts exceeds $\sim 800$
+it is possible to rule out a correlation between the angular distributions.
+Currently, it is only the combination of these tests with the large
+disagreement found for the V/V_{max} parameter which makes the Oort cloud of
+comets unlikely to be related to gamma-ray bursts.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 23:21:26 GMT""}]","2009-10-22"
+"astro-ph/9304002",,"F. Lucchin, S. Matarrese, A.L. Melott and L. Moscardini","Higher Order Moments of the Matter Distribution in Scale--Free
+  Cosmological Simulations with Large Dynamic Range","24 pages in Tex, DAPD 220","Astrophys.J. 422 (1994) 430-442","10.1086/173739",,"astro-ph",,"  We calculate reduced moments $\overline \xi_q$ of the matter density
+fluctuations, up to order $q=5$, from counts in cells produced by
+Particle--Mesh numerical simulations with scale--free Gaussian initial
+conditions. We use power--law spectra $P(k) \propto k^n$ with indices
+$n=-3,~-2,~-1,~0,~1$. Due to the supposed absence of characteristic times or
+scales in our models, all quantities are expected to depend on a single scaling
+variable. For each model, the moments at all times can be expressed in terms of
+the variance $\overline \xi_2$, alone. We look for agreement with the
+hierarchical scaling ansatz, according to which $\overline \xi_q \propto
+\overline \xi_2^{~q-1}$. For $n\leq -2$ models we find strong deviations from
+the hierarchy, which are mostly due to the presence of boundary problems in the
+simulations. A small, residual signal of deviation from the hierarchical
+scaling is however also found in $n \geq -1$ models. For the first time, due to
+our large dynamic range and careful checks of scaling and shot--noise effects,
+we are able to detect evolution away from the perturbation theory result.
+","[{""version"":""v1"",""created"":""Fri, 2 Apr 1993 08:50:00 GMT""}]","2009-10-22"
+"cond-mat/9304002","Lian Zheng","Lian Zheng and A.H. MacDonald","Coulomb drag between disordered two-dimensional electron gas layers","17 pages, revtex, iucm93-004",,"10.1103/PhysRevB.48.8203",,"cond-mat",,"  We derive and evaluate expressions for the frictional Coulomb drag between
+disordered two-dimensional electron gas layers. Our derivation is based on the
+memory-function formalism and the expression for the drag reduces to previously
+known results in the ballistic limit. We find that Coulomb drag is appreciably
+enhanced by disorder at low temperatures when the mean-free-path within a layer
+is comparable to or shorter than the layer separation. In high mobility
+two-dimensional electron gas systems, where the drag has been studied
+experimentally, the effect of disorder on the drag is negligible at attainable
+temperatures. We predict that an enhancement due to disorder and a crossover in
+the temperature-dependence and layer-separation dependence will be observable
+at low temperatures in moderate and low mobility samples.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 19:01:45 GMT""}]","2009-10-22"
+"cond-mat/9304003",,"Ping Ao","Dynamical Correlation Theory for an Escape Process","12pages latex, University of Washington, Seattle",,"10.1142/S021798499300093X",,"cond-mat",,"  A dynamical theory which incorporates the electron-electron correlations and
+the effects of external magnetic fields for an electron escaping from a helium
+surface is presented. The degrees of freedom in the calculation of the escape
+rate is reduced from $3N$ to 3 as compared with other approach. Explicit
+expressions for the escape rate in various situations are obtained. In
+particular, in the weak parallel magnetic field limit the tunneling rate has an
+exponential dependence quadratic with magnetic field strength and an unusual
+exponential increase linear with temperature.
+","[{""version"":""v1"",""created"":""Fri, 2 Apr 1993 01:08:00 GMT""}]","2015-06-25"
+"gr-qc/9304001","P. Suntharothok-Priesmeyer","L. P. Grishchuk","Cosmological Perturbations of Quantum-Mechanical Origin and Anisotropy
+  of the Microwave Background","9 pages, WUGRAV-92-17 Accepted for Publication in Phys. Rev. Letters
+  (1993)","Phys.Rev.Lett. 70 (1993) 2371-2374","10.1103/PhysRevLett.70.2371",,"gr-qc",,"  Cosmological perturbations generated quantum-mechanically (as a particular
+case, during inflation) possess statistical properties of squeezed quantum
+states. The power spectra of the perturbations are modulated and the angular
+distribution of the produced temperature fluctuations of the CMBR is quite
+specific. An exact formula is derived for the angular correlation function of
+the temperature fluctuations caused by squeezed gravitational waves. The
+predicted angular pattern can, in principle, be revealed by the COBE-type
+observations.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 17:34:52 GMT""}]","2009-10-22"
+"gr-qc/9304002",,"Nguyen Hong Chuong, and Nguyen Van Hoang","Bianchi Cosmological Models in the Minimum Quadratic Poincare Gauge
+  Theory of Gravity","REVTEX, 17 pages, Syracuse University preprint SU-GP-93/3-4",,,,"gr-qc astro-ph",,"  Within the framework of the minimum quadratic Poincare gauge theory of
+gravity in the Riemann-Cartan spacetime the dynamics of homogeneous anisotropic
+Bianchi types I-IX spinning-fluid cosmological models is investigated. A basic
+equation set for these models is obtained and analyzed. In particular, exact
+solutions for the Bianchi type-I spinning-fluid and Bianchi type-V
+perfect-fluid models are found in analytic form.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 19:14:00 GMT""}]","2007-05-23"
+"hep-lat/9304001","Thomas A. DeGrand","Anna Hasenfratz and Thomas A. DeGrand","Heavy Dynamical Fermions in Lattice QCD","COLO-HEP-311, 26 pages and 6 postscript figures; file is a shar file
+  and all macros are (hopefully) included","Phys.Rev. D49 (1994) 466-473","10.1103/PhysRevD.49.466",,"hep-lat",,"  It is expected that the only effect of heavy dynamical fermions in QCD is to
+renormalize the gauge coupling. We derive a simple expression for the shift in
+the gauge coupling induced by $N_f$ flavors of heavy fermions. We compare this
+formula to the shift in the gauge coupling at which the
+confinement-deconfinement phase transition occurs (at fixed lattice size) from
+numerical simulations as a function of quark mass and $N_f$. We find remarkable
+agreement with our expression down to a fairly light quark mass. However,
+simulations with eight heavy flavors and two light flavors show that the eight
+flavors do more than just shift the gauge coupling. We observe
+confinement-deconfinement transitions at $\beta=0$ induced by a large number of
+heavy quarks. We comment on the relevance of our results to contemporary
+simulations of QCD which include dynamical fermions.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 18:13:41 GMT""}]","2009-10-22"
+"hep-ph/9304201",,"Barry R. Holstein","Chiral Symmetry and Electroweak pi,K,eta Processes","7 pages, Latex, UMHEP-386",,,,"hep-ph",,"  Recently the development of chiral perturbation theory has allowed the
+generation of rigorous low-energy theorems for various hadronic processes based
+only on the chiral invariance of the underlying QCD Lagrangian. Herein we
+examine the experimental implications of chiral symmetry in the regime of
+electroweak Goldstone boson interactions. Contribution to BNL Hadronic Beam
+Physics Workshop.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 16:48:18 GMT""}]","2007-05-23"
+"hep-ph/9304202",,"R. E. Cutkosky and Paul Geiger","Isospin splitting in heavy baryons and mesons","12 pages REVTEX 3, plus 4 uuencoded ps figures, CMU-HEP93-4","Phys.Rev. D48 (1993) 1315-1320","10.1103/PhysRevD.48.1315",,"hep-ph nucl-th",,"  A recent general analysis of light-baryon isospin splittings is updated and
+extended to charmed baryons.
+  The measured $\Sigma_c$ and $\Xi_c$ splittings stand out as being difficult
+to understand in terms of two-body forces alone.
+  We also discuss heavy-light mesons; though the framework here is necessarily
+less general, we nevertheless obtain some predictions that are not strongly
+model-dependent.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 20:14:04 GMT""}]","2009-10-22"
+"hep-ph/9304203",,"H. Lew and A. Riotto","Baryogenesis, Domain Walls and the Role of Gravity","15 pages (LaTeX), PURD-TH-93-06, SISSA-/93/49-A","Phys.Lett. B309 (1993) 258-263","10.1016/0370-2693(93)90930-G",,"hep-ph",,"  It has been recently speculated that global symmetries are broken by gravity.
+We propose a scenario for the generation of the baryon asymmetry in the early
+Universe in which the domain walls predicted by theories with discrete
+symmetries become unstable due to these Planck scale effects. The relative
+motion of the decaying walls can provide a mechanism for the departure from
+thermal equilibrium necessary to have a nonvanishing baryon asymmetry. In
+particular, we implement this idea within the frameworks of the Left-Right and
+Quark-Lepton symmetric models.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 21:21:47 GMT""}]","2009-10-22"
+"hep-ph/9304204","Vesteinn Thorsson","G.E. Brown, C.-H. Lee, M. Rho and V.Thorsson","From Kaon-Nuclear Interactions to Kaon Condensation","20 pages, LaTeX, NORDITA-93/30 N, SUNY-NTG-93-7","Nucl.Phys.A567:937-956,1994","10.1016/0375-9474(94)90335-2",,"hep-ph astro-ph nucl-th",,"  An effective chiral Lagrangian in heavy-fermion formalism whose parameters
+are constrained by kaon-nucleon and kaon-nuclear interactions next to the
+leading order in chiral expansion is used to describe kaon condensation in
+dense ``neutron star"" matter. The critical density is found to be robust with
+respect to the parameters of the chiral Lagrangian and comes out to be
+$\rho_c\sim (3 - 4)\rho_0$. Once kaon condensation sets in, the system is no
+longer composed of neutron matter but of nuclear matter. Possible consequences
+on stellar collapse with the formation of compact ``nuclear stars"" or
+light-mass black holes are pointed out.
+","[{""version"":""v1"",""created"":""Fri, 2 Apr 1993 11:23:45 GMT""}]","2011-07-19"
+"hep-th/9304003",,"J.G. Russo","Discrete Strings and Deterministic Cellular Strings","40 pages, UTTG-11-93","Nucl.Phys. B406 (1993) 107-144","10.1016/0550-3213(93)90163-J",,"hep-th hep-lat",,"  A discrete string theory --a theory of embeddings from ${\bf Z}\times {\bf
+Z}_C\to {\bf R}^D$, where $C$ is the number of components of the string-- is
+explored. The closure of the algebra of constraints (`${\bf Z}_C$-Virasoro
+algebra') is exhibited. The ${\bf Z}_C$-Virasoro `algebra' is shown to be
+anomaly free in arbitrary number of target space dimensions. We prove the
+existence of a (manifestly unitary) light-cone gauge with anomaly free Lorentz
+algebra in any dimensions. The analog of vertex operators are introduced and
+the physical spectrum is analysed. There are an infinite number of higher-level
+states repeating a certain mass pattern and leading to an infinite degeneracy.
+The connection with the continuum string theory (in $D=26$) is investigated.
+Independently, following a method recently introduced by 't Hooft based on
+Hilbert-space extension of deterministic systems, a particular one-dimensional
+cellular automaton submitted to a deterministic evolution is shown to reduce to
+a massless scalar field theory at long distance scales. This automaton is
+utilized to define a (`cellular') string theory with world-sheet variables
+evolving under deterministic rules, which in the framework of
+`first-quantization' corresponds to the ${\bf Z}_C$ string theory mentioned
+above. We show that in this theory also the target space motion of free strings
+is governed by deterministic laws. Finally, we discuss a model for (off-shell)
+interacting strings where space-time determinism is fully restored.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 23:55:10 GMT""}]","2009-10-22"
+"hep-th/9304004","Peter Orland","Peter Orland","The Space-Time Manifold as a Critical Solid","10 pages, BCUNY-HEP-93-1",,,,"hep-th",,"  It is argued that the problems of the cosmological constant, stability and
+renormalizability of quantum gravity can be solved if the space-time manifold
+arises through spontaneous symmetry breaking. A ``pre-manifold"" model is
+presented in which many points are connected by random bonds. A set of $D$ real
+numbers assigned to each point are coupled between points connected by bonds.
+It is then found that the dominant configuration of bonds is a flat
+$D$-dimensional manifold, on which there is a massless matter field.
+Long-wavelength fluctuations can describe quantized massless gravity if
+$D=\;4$, $6$, $8...$.
+","[{""version"":""v1"",""created"":""Fri, 2 Apr 1993 06:01:36 GMT""}]","2007-05-23"
+"hep-th/9304005","Andrzej Sitarz","Andrzej Sitarz","Higgs Mass and Noncommutative Geometry","23 pages LaTeX, TPJU 4/93, (minor text misprints corrected)","Phys.Lett. B308 (1993) 311-314","10.1016/0370-2693(93)91290-4",,"hep-th hep-ph",,"  We show that the description of the electroweak interactions based on
+noncommutative geometry of a continuous and a discrete space gives no special
+relations between the Higgs mass and other parameters of the model. We prove
+that there exists a gauge invariant term, linear in the curvature, which is
+trivial in the standard differential geometry but nontrivial in the case of the
+discrete geometry. The relations could appear only if one neglects this term,
+otherwise one gets the Lagrangian of the Standard model with the exact number
+of free parameters.
+","[{""version"":""v1"",""created"":""Fri, 2 Apr 1993 09:59:50 GMT""},{""version"":""v2"",""created"":""Mon, 5 Apr 1993 11:30:17 GMT""}]","2009-10-22"
+"math/9304206",,"Denny H. Leung","Some isomorphically polyhedral Orlicz sequence spaces",,,,"Banach Archive 4/1/93","math.FA",,"  A Banach space is polyhedral if the unit ball of each of its finite
+dimensional subspaces is a polyhedron. It is known that a polyhedral Banach
+space has a separable dual and is $c_0$-saturated, i.e., each closed infinite
+dimensional subspace contains an isomorph of $c_0$. In this paper, we show that
+the Orlicz sequence space $h_M$ is isomorphic to a polyhedral Banach space if
+$\lim_{t\to 0}M(Kt)/M(t) = \infty$ for some $K < \infty$. We also construct an
+Orlicz sequence space $h_M$ which is $c_0$-saturated, but which is not
+isomorphic to any polyhedral Banach space. This shows that being
+$c_0$-saturated and having a separable dual are not sufficient for a Banach
+space to be isomorphic to a polyhedral Banach space.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 17:35:36 GMT""}]","2016-09-06"

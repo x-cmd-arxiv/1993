@@ -1,0 +1,324 @@
+"alg-geom/9305006","Janusz Gwozdziewicz","Arkadiusz P{\l}oski","The Noether exponent and Jacobi formula","5 pages, AmS-TeX",,,,"alg-geom math.AG",,"  For any polynomial mapping $F=(F_1,\dots ,F_n)$ of $\Cal C^n$ with a finite
+number of zeros we define the Noether exponent $\nu(F)$. We prove the Jacobi
+formula for all polynomials of degree strictly less than $\sum_{i=1}^n (\deg
+F_i-1)-\nu(F)$.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 07:42:51 GMT""}]","2016-08-14"
+"alg-geom/9305007","Janusz Gwozdziewicz","Arkadiusz P{\l}oski","An inequality for polynomial mappings","4 pages, AmS-TeX",,,,"alg-geom math.AG",,"  We give an estimate of the growth of a polynonial mapping of $C^n$.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 07:43:09 GMT""}]","2016-08-14"
+"alg-geom/9305008","Janusz Gwozdziewicz","Janusz Gwo\'zdziewicz","Injectivity on one line","2 pages, AmS-TeX",,,,"alg-geom math.AG",,"  Let $k$ be an algebraically closed field of characteristic zero. Let
+$H:k^2\to k^2$ be a polynomial mapping such that the Jacobian $\text{Jac}\,H$
+is a non-zero constant. In this note we prove, that if there is a line $l
+\subset k^2$ such that $H|_l:l\to k^2$ is an injection, then $H$ is a
+polynomial automorphism.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 07:43:35 GMT""}]","2016-08-14"
+"alg-geom/9305009","Janusz Gwozdziewicz","Janusz Gwo\'zdziewicz and Arkadiusz P{\l}oski","On the approximate roots of polynomials","7 pages, AmS-TeX",,,,"alg-geom math.AG",,"  We give a simplified approach to the Abhyankar--Moh theory of approximate
+roots. Our considerations are based on properties of the intersection
+multiplicity of local curves.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 07:43:57 GMT""}]","2016-08-14"
+"astro-ph/9305021","Mark Abney","Mark Abney","Hydrodynamic Detonation Instability in Electroweak and QCD Phase
+  Transitions","12 pages, 3 figures available on request, Latex,
+  FERMILAB--PUB--93/098--A","Phys.Rev. D49 (1994) 1777-1782","10.1103/PhysRevD.49.1777",,"astro-ph",,"  The hydrodynamic stability of deflagration and detonation bubbles for a first
+order electroweak and QCD phase transition has been discussed recently with the
+suggestion that detonations are stable. We examine here the case of a
+detonation more carefully. We find that in front of the bubble wall
+perturbations do not grow with time, but behind the wall modes exist which grow
+exponentially. We briefly discuss the possible meaning of this instability.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 16:01:57 GMT""}]","2009-10-22"
+"astro-ph/9305022","Dave Cottingham","E. S. Cheng, D. A. Cottingham, D. J. Fixsen, C. A. Inman, M. S.
+  Kowitt, S. S. Meyer, L. A. Page, J. L. Puchalla, and R. F. Silverberg","A Measurement of the Medium-Scale Anisotropy in the Cosmic Microwave
+  Background Radiation","13 pages + 3 figures (included), LaTeX + AASTeX v3.0","Astrophys.J. 422 (1994) L37","10.1086/187206",,"astro-ph",,"  Observations from the first flight of the Medium Scale Anisotropy Measurement
+(MSAM) are analyzed to place limits on Gaussian fluctuations in the Cosmic
+Microwave Background Radiation (CMBR). This instrument chops a 30\arcmin\ beam
+in a 3 position pattern with a throw of $\pm40\arcmin$; the resulting data is
+analyzed in statistically independent single and double difference datasets. We
+observe in four spectral channels at 5.6, 9.0, 16.5, and 22.5~\icm, allowing
+the separation of interstellar dust emission from CMBR fluctuations. The dust
+component is correlated with the \IRAS\ 100~\micron\ map. The CMBR component
+has two regions where the signature of an unresolved source is seen. Rejecting
+these two source regions, we obtain a detection of fluctuations which match
+CMBR in our spectral bands of $0.6 \times 10^{-5} < \Delta T/T < 2.2 \times
+10^{-5}$ (90\% CL interval) for total rms Gaussian fluctuations with
+correlation angle 0\fdg5, using the single difference demodulation. For the
+double difference demodulation, the result is $1.1 \times 10^{-5} < \Delta T/T
+< 3.1 \times 10^{-5}$ (90\% CL interval) at a correlation angle of 0\fdg3.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 21:26:32 GMT""},{""version"":""v2"",""created"":""Fri, 3 Dec 1993 18:53:14 GMT""}]","2009-10-22"
+"astro-ph/9305023",,"R. Viotti, V.F. Polcaro, C. Rossi","AG Carinae III. The 1990 hot phase of the star and the physical
+  structure of the circumstellar environment","13 pp., 7 figures, Springer-Verlag TEX A&A macro package 1991,
+  IAS-PREP-93/2","Astron.Astrophys.276:432-444,1993",,,"astro-ph",,"  Long slit spectra of the region around the Luminous Blue Variable AG Car
+obtained in June 1990, just before the onset of its new brightening phase,
+indicate that AG Car was in the hottest phase so far recorded. The spectrum
+shows strong broad emissions of He II 468.6 nm, and [Fe III] 465.8-470.1 nm,
+and He I, N II, Si III, Al III and Fe III with a P Cygni profile. We have also
+identified weak lines of C II and O II. A faint continuum emission has been
+detected within the whole ring nebula. We also find that the spectrum of some
+regions is partially due to scattered star's light. This provides evidence of
+the presence of dust grains, and indicates that even in present times dust is
+condensing from AG Car wind. The sharp outer edge of the ring suggest the
+presence of a shock front. We have also identified an extended low density H II
+$halo$, which should be associated with the residual of the stellar wind of a
+previous cooler evolutionary phase of AG Car. In the halo the H$\alpha$/[N II]
+ratio is strengthened with respect to the ring nebula, possibly because of a
+discontinuity in the N abundance. We suggest that part of the star's reddening
+originates in the ring nebula and diffuse halo, which could alter the present
+estimates of the star's distance. The extracted spectrograms are available as
+computer files on request to rossi@astrom.astro.it. Article in press in A\&A.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 15:53:11 GMT""}]","2011-05-23"
+"cond-mat/9305021",,"V.L. Pokrovsky and L.P. Pryadko","Quasi-Fermi Distribution and Resonant Tunneling of Quasiparticles with
+  Fractional Charges","7 pages, REVTeX 3.0, Preprint SU-ITP-93-14","Phys. Rev. Lett. 72, 124-7 (1994)","10.1103/PhysRevLett.72.124",,"cond-mat",,"  We study the resonant tunneling of quasiparticles through an impurity between
+the edges of a Fractional Quantum Hall sample. We show that the one-particle
+momentum distribution of fractionally charged edge quasiparticles has a
+quasi-Fermi character. The density of states near the quasi-Fermi energy at
+zero temperature is singular due to the statistical interaction of
+quasiparticles. Another effect of this interaction is a new selection rule for
+the resonant tunneling of fractionally charged quasiparticles: the resonance is
+suppressed unless an integer number of {\em electrons} occupies the impurity.
+It allows a new explanation of the scaling behavior observed in the mesoscopic
+fluctuations of the conductivity in the FQHE.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 07:50:39 GMT""}]","2009-10-22"
+"cond-mat/9305022","Volker Meden","K. Sch\""onhammer and V. Meden","Spectral sum rules for the Tomonaga-Luttinger model","9 pages, REVTEX 3.0, 2 figures added as postscript files",,"10.1103/PhysRevB.48.11390",,"cond-mat",,"  In connection with recent publications we discuss spectral sum rules for the
+Tomonaga-Luttinger model without using the explicit result for the one-electron
+Green's function. They are usefull in the interpretation of recent high
+resolution photoemission spectra of quasi-one-dimensional conductors. It is
+shown that the limit of infinite frequency and band cut\-off do not commute.
+Our result for arbitrary shape of the interaction potential generalizes an
+earlier discussion by Suzumura. A general analytical expression for the
+spectral function for wave vectors far from the Fermi wave vector $k_{F}$ is
+presented. Numerical spectra are shown to illustrate the sum rules.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 09:48:35 GMT""}]","2009-10-22"
+"gr-qc/9305015",,"Donald Marolf","An illustration of 2+1 gravity loop transform troubles","6 pages, latex, SU-GP-93/3-4",,,,"gr-qc",,"  A nonperturbative approach to quantum gravity that has generated much
+discussion is the attempt to construct a ``loop representation."" Despite it's
+success in linear quantum theories and a part of 2+1 quantum gravity, it has
+recently been noticed that difficulties arise with loop representations in a
+different ``sector"" of 2+1 gravity. The problems are related to the use of the
+``loop transform"" in the construction of the loop representation. We illustrate
+these difficulties by exploring an analogy based on the Mellin transform which
+allows us to work in a context that is both mathematically and physically
+simple and that does not require an understanding either of loop
+representations or of 2+1 gravity.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 16:57:00 GMT""}]","2007-05-23"
+"gr-qc/9305016",,"Alan Daughton, Jorma Louko, and Rafael D. Sorkin","Initial conditions and unitarity in unimodular quantum cosmology","5 pages, Plain TeX, SU-GP-93/5-3",,,,"gr-qc hep-th",,"  We consider quantization of the positive curvature Friedmann cosmology in the
+unimodular modification of Einstein's theory, in which the spacetime
+four-volume appears as an explicit time variable. The Hamiltonian admits
+self-adjoint extensions that give unitary evolution in the Hilbert space
+associated with the Schr\""odinger equation. The semiclassical estimate to the
+no-boundary wave function of Hartle and Hawking is found. If this estimate is
+accurate, there is a continuous flux of probability into the configuration
+space from vanishing three-volume, and the no-boundary wave function evolves
+nonunitarily. Generalizations of these results hold in a class of anisotropic
+cosmologies. (Talk given at the 5th Canadian Conference on General Relativity
+and Relativistic Astrophysics, Waterloo, Ontario, Canada, May 1993.)
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 22:42:00 GMT""}]","2007-05-23"
+"hep-ph/9305282","Peter White","T.Elliott, S.F.King, P.L.White","Squark Contributions to Higgs Boson Masses in the Next--to--Minimal
+  Supersymmetric Standard Model","14 pages plus one postscript figure available separately;
+  SHEP-92/93-18","Phys.Lett. B314 (1993) 56-63","10.1016/0370-2693(93)91321-D",,"hep-ph",,"  Within the context of an effective potential formalism we calculate the
+contribution to Higgs boson masses in the next--to--minimal supersymmetric
+standard model from squark loops. We then supplement a previously performed
+renormalisation group analysis of the Higgs sector of this model with these
+results in order to determine the shift in the bound on the lightest CP-even
+Higgs boson mass as a result of squark effects. The improved bound on the
+lightest neutral CP-even Higgs boson mass, including squark contributions, is
+$m_h \leq 146 \ \ (139, 149)$ GeV for $m_t = 90 \ \ (140, 190)$ GeV. For $m_t =
+190$ GeV squark effects contribute 23 GeV to the bound, with smaller
+contributions for small $m_t$ values.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 18:16:08 GMT""}]","2009-10-22"
+"hep-ph/9305283",,"Bo-Qiang Ma","Spin Structure of the Pion in a Light-Cone Representation","15 Latex pages, 2 figures upon request","Z.Phys. A345 (1993) 321-325","10.1007/BF01280840",,"hep-ph",,"  The spin structure of the pion is discussed by transforming the wave function
+for the pion in the naive quark model into a light-cone representation. It is
+shown that there are higher helicity ($\lambda_{1}+\lambda_{2}=\pm1$) states in
+the full light-cone wave function for the pion besides the ordinary helicity
+($\lambda_{1}+\lambda_{2}=0$) component wave functions as a consequence from
+the Melosh rotation relating spin states in light-front dynamics and those in
+instant-form dynamics. Some low energy properties of the pion, such as the
+electromagnetic form factor, the charged mean square radius, and the weak decay
+constant, could be interrelated in this representation with reasonable
+parameters.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 16:46:53 GMT""}]","2015-06-25"
+"hep-ph/9305284","David Bowser-Chao","Duane A. Dicus and Wayne W. Repko","Photon neutrino scattering","8 pages including figures; DOE-40200-014,CPP-14,MSUHEP 93/08.
+  Figures, one style file, and latex file available by anonymous ftp to
+  utaphy.ph.utexas.edu, in directory [anonymous.cpp-preprints.ggtonunu]","Phys.Rev. D48 (1993) 5106-5108","10.1103/PhysRevD.48.5106",,"hep-ph",,"  The cross section for photon neutrino scattering is calculated in the
+standard model assuming that the neutrino is massless and that the center of
+mass energy is small compared to any charged lepton mass. Although the
+scattered photons can acquire a (parity violating) circular polarization of
+order unity, the cross section in this limit is highly suppressed.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 20:29:34 GMT""}]","2009-10-22"
+"hep-ph/9305285",,"HoSeong La","Electrweak Z-string And $\tan\beta$","10 pages, CTP-TAMU-26/93",,,,"hep-ph",,"  In the standard model with two Higgs doublets it is shown that the existence
+of the electroweak Z-string in general requires the same characteristic length
+for the two Higgs fields as well as a specific ratio of the two Higgs vacuum
+expectation values, i.e. $\tan\beta$. This ratio can be determined in terms of
+the couplings in the Higgs potential. Some remarks on the supersymmetric case
+are given. \noindent (Talk presented at SUSY '93, March 29-April 1st,
+Northeastern University, Boston, MA 02115, USA.)
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 23:35:22 GMT""}]","2007-05-23"
+"hep-ph/9305286",,"Boris Kopeliovich","In Search for (QUANTUM) Color Transparency","9 pages + 5figs (available upon request), report DFTT 24/93",,,,"hep-ph",,"  Color transparency (CT) is an effect of suppression of nuclear shadowing of
+hard reactions, closely related to the color screening. A brief review of
+theoretical development and experimental search for CT, failed and successful,
+are presented. A special emphasis is made on a quantum-mechanical nature of CT,
+as opposed to a wide spread erroneousclassical treatment of this phenomenon.
+The typical predictions of the classical approach, all contradicting quantum
+mechanics are:
+  - factorization of cross section of hard reactions on a nucleus;\\
+  - ""nuclear transparency"", a normalized ratio of nuclear to nucleon cross
+sections, cannot exceed one;\\
+  - the larger is a radius of a hadron, the stronger it attenuates in a
+nucleus;\\
+  - the higher is the energy of hadrons participating in a hard reaction, the
+less is the nuclear attenuation;\\
+  - due to CT hard processes provide a better opportunity to study
+Fermi-momentum distribution, than soft reactions; etc. (Talk presented at
+XXVIII Rencontres de Moriond, March 1993)
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 13:46:36 GMT""}]","2007-05-23"
+"hep-th/9305079",,"A.Losev, I.Polyubin","On Connection between Topological Landau-Ginzburg Gravity and Integrable
+  Systems","17 p. latex","Int.J.Mod.Phys. A10 (1995) 4161","10.1142/S0217751X95001923",,"hep-th",,"  We study flows on the space of topological Landau-Ginzburg theories coupled
+to topological gravity. We argue that flows corresponding to gravitational
+descendants change the target space from a complex plane to a punctured complex
+plane and lead to the motion of punctures.It is shown that the evolution of the
+topological theory due to these flows is given by dispersionless limit of KP
+hierarchy. We argue that the generating function of correlators in such
+theories are equal to the logarithm of the tau-function of Generalized
+Kontsevich Model.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 17:22:06 GMT""}]","2015-06-26"
+"hep-th/9305080","Stephen Chung","Stephen-wei Chung, Masafumi Fukuma and Alfred Shapere","Structure of Topological Lattice Field Theories in Three Dimensions","63 pages, 46 figures","Int.J.Mod.Phys. A9 (1994) 1305-1360","10.1142/S0217751X94000595","CLNS 93/1200","hep-th math.QA",,"  We construct and classify topological lattice field theories in three
+dimensions. After defining a general class of local lattice field theories, we
+impose invariance under arbitrary topology-preserving deformations of the
+underlying lattice, which are generated by two new local lattice moves.
+Invariant solutions are in one--to--one correspondence with Hopf algebras
+satisfying a certain constraint. As an example, we study in detail the
+topological lattice field theory corresponding to the Hopf algebra based on the
+group ring $\C[G]$, and show that it is equivalent to lattice gauge theory at
+zero coupling, and to the Ponzano--Regge theory for $G=$SU(2).
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 01:20:08 GMT""},{""version"":""v2"",""created"":""Wed, 19 May 1993 20:38:13 GMT""}]","2009-10-22"
+"hep-th/9305081","Tanmay Vachaspati","Joaquim Fort and Tanmay Vachaspati","Do Global String Loops Collapse to Form Black Holes?","10pp, 3 figures available on request, plain TeX (no macros needed),
+  to be published in Phys. Lett. B","Phys.Lett. B311 (1993) 41-46","10.1016/0370-2693(93)90530-U",,"hep-th hep-ph",,"  Hawking has shown that the emission of gravitational radiation cannot prevent
+circular loops of gauged cosmic strings from collapsing into black holes. Here
+we consider the corresponding question for global strings: can Goldstone boson
+emission prevent circular loops of global cosmic strings from forming black
+holes? Our results show that for every value of the string tension there is a
+certain critical size below which the circular loop does not collapse to form a
+black hole. For GUT scale strings, this critical size is much larger than the
+current horizon.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 20:44:00 GMT""}]","2009-10-22"
+"hep-th/9305082","Asim Gangopadhyaya","Asim Gangopadhyaya, Prasanta K. Panigrahi, and Uday P. Sukhatme","An Alternate Approach to Transition Potentials","12 pages",,,"UICHEP-TH/93-2","hep-th",,"  We analyze transition potentials $(V(r) \stackrel{r\sim 0}{\rightarrow}
+{\alpha r^{-2}})$ in non-relativistic quantum mechanics using the techniques of
+supersymmetry. For the range $-1/4 < \alpha < 3/4$, the eigenvalue problem
+becomes ill-defined (since it is not possible to choose a unique eigenfunction
+based on square integrability and boundary conditions). It is shown that
+supersymmetric quantum mechanics (SUSYQM) provides a natural prescription for a
+unique determination of the spectrum. Interestingly, our SUSYQM based approach
+picks out the same ""less singular"" wave functions as the conventional approach,
+and thus provides a simple justification for the usual practice in the
+literature. Two examples (the P\""oschl-Teller II potential and a two anyon
+system on the plane) have been worked out for illustrative purposes.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 19:59:59 GMT""}]","2016-09-06"
+"hep-th/9305083","Steve Giddings","S.B. Giddings, J. Polchinski, and A. Strominger","Four Dimensional Black Holes in String Theory","37 pages + 1 figure (tar compressed and uuencoded)","Phys.Rev.D48:5784-5797,1993","10.1103/PhysRevD.48.5784","NSF-ITP-93-62","hep-th",,"  Exact solutions of heterotic string theory corresponding to four-dimensional
+charge Q magnetic black holes are constructed as tensor products of an
+SU(2)/Z(2Q+2) WZW orbifold with a (0,1) supersymmetric SU(1,1)/U(1) WZW coset
+model. The spectrum is analyzed in some detail. ``Bad'' marginal operators are
+found which are argued to deform these theories to asymptotically flat black
+holes. Surprising behaviour is found for small values of Q, where low-energy
+field theory is inapplicable. At the minimal value Q=1, the theory degenerates.
+Renormalization group arguments are given that suggest the potential
+gravitational singularity of the low-energy field theory is resolved by a
+massive two-dimensional field theory. At Q=0, a stable, neutral ``remnant,'' of
+potential relevance to the black hole information paradox, is found.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 01:52:37 GMT""}]","2009-09-17"
+"hep-th/9305084",,"Vahid Karimipour","Representations of the quantum matrix algebra $M_{q,p}(2)$","20 pages",,"10.1088/0305-4470/26/22/027","93-011","hep-th math.QA",,"  It is shown that the finite dimensional irreducible representaions of the
+quantum matrix algebra $ M_{ q,p}(2) $ ( the coordinate ring of $ GL_{q,p}(2)
+$) exist only when both q and p are roots of unity. In this case th e space of
+states has either the topology of a torus or a cylinder which may be thought of
+as generalizations of cyclic representations.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 14:45:26 GMT""},{""version"":""v2"",""created"":""Sat, 12 Jun 1993 18:00:17 GMT""}]","2009-10-22"
+"hep-th/9305085",,"Vahid Karimipour","Representations of The Coordinate Ring of $GL_{q}(3)$","pages 20","J.Phys. A26 (1993) L957-L962","10.1007/BF00745152","93-010","hep-th",,"  It is shown that the finite dimensional ireducible representations of the
+quantum matrix algebra $ M_q(3) $ ( the coordinate ring of $ GL_q(3) $ ) exist
+only when q is a root of unity ( $ q^p = 1 $ ). The dimensions of these
+representations can only be one of the following values: $ p^3 , { p^3 \over 2
+} , { p^3 \over 4 } $ or $ { p^3 \over 8 } $ . The topology of the space of
+states ranges between two extremes , from a 3-dimensional torus $ S^1 \times
+S^1 \times S^1 $ ( which may be thought of as a generalization of the cyclic
+representation ) to a 3-dimensional cube $ [ 0 , 1 ]\times [ 0 , 1 ]\times [ 0
+, 1 ] $ .
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 15:06:15 GMT""},{""version"":""v2"",""created"":""Sat, 12 Jun 1993 19:45:20 GMT""}]","2016-09-06"
+"hep-th/9305086",,"Vahid Karimipour","Q-Boson Representation of the Quantum Matrix Algebra $M_q(3)$","pages 18 ,report # 93-009",,"10.1088/0305-4470/26/18/013",,"hep-th",,"  {Although q-oscillators have been used extensively for realization of quantum
+universal enveloping algebras,such realization do not exist for quantum matrix
+algebras ( deformation of the algebra of functions on the group ). In this
+paper we first construct an infinite dimensional representation of the quantum
+matrix algebra $ M_q ( 3 ) $(the coordinate ring of $ GL_q (3)) $ and then use
+this representation to realize $ GL_q ( 3 ) $ by q-bosons.}
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 15:09:27 GMT""},{""version"":""v2"",""created"":""Sat, 12 Jun 1993 19:50:53 GMT""}]","2009-10-22"
+"hep-th/9305087",,"S. Aoyama and S. Vandoren","The Batalin-Vilkovisky Formalism on Fermionic Kaehler Manifolds","14 pages","Mod.Phys.Lett. A8 (1993) 3773-3784","10.1142/S0217732393003512",,"hep-th",,"  We show that the Kaehler structure can be naturally incorporated in the
+Batalin-Vilkovisky formalism. The phase space of the BV formalism becomes a
+fermionic Kaehler manifold. By introducing an isometry we explicitly construct
+the fermionic irreducible hermitian symmetric space. We then give some
+solutions of the master equation in the BV formalism.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 09:29:28 GMT""}]","2015-06-26"
+"hep-th/9305088","Nicholas Landsman","N. P. Landsman","Rieffel induction as generalized quantum Marsden-Weinstein reduction","23 pages",,,,"hep-th math-ph math.MP math.OA",,"  A new approach to the quantization of constrained or otherwise reduced
+classical mechanical systems is proposed. On the classical side, the
+generalized symplectic reduction procedure of Mikami and Weinstein, as further
+extended by Xu in connection with symplectic equivalence bimodules and Morita
+equivalence of Poisson manifolds, is rewritten so as to avoid the use of
+symplectic groupoids, whose quantum analogue is unknown. A theorem on
+symplectic reduction in stages is given. This allows one to discern that the
+`quantization' of the generalized moment map consists of an operator-valued
+inner product on a (pre-) Hilbert space (that is, a structure similar to a
+Hilbert $C^*$-module). Hence Rieffel's far-reaching operator-algebraic
+generalization of the notion of an induced representation is seen to be the
+exact quantum counterpart of the classical idea of symplectic reduction, with
+imprimitivity bimodules and strong Morita equivalence of $C^*$-algebras falling
+in the right place. Various examples involving groups as well as groupoids are
+given, and known difficulties with both Dirac and BRST quantization are seen to
+be absent in our approach.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 15:47:00 GMT""}]","2008-02-03"
+"nucl-th/9305011",,"Wayne N. Polyzou","A Theorem on Light-Front Quantum Models","22 pages, (TeX + PHYZZX macros)","J.Math.Phys. 34 (1993) 2852-2865","10.1063/1.530100",,"nucl-th hep-ph",,"  I give a sufficient condition for a relativistic front-form quantum
+mechanical model to be scattering equivalent (unitarily equivalent with the
+same S-matrix elements) to a relativistic front-form quantum model with an
+interaction-independent front-form spin.
+","[{""version"":""v1"",""created"":""Tue, 18 May 1993 19:38:54 GMT""}]","2009-10-22"
+"nucl-th/9305012","Rajeev Bhalerao","R. S. Bhalerao and M. Barma","Collective Dipole Oscillations in Atomic Nuclei and Small Metal
+  Particles","21 pages, 2 figs. (not included), TIFR/TH/92-47",,"10.1007/BF02845850",,"nucl-th cond-mat",,"  (The systematics of photon absorption cross sections in nuclei and small
+metal particles are examined as a function of the number of constituent
+fermions $A$. It is pointed out that the shell-structure-linked oscillations in
+the full width at half maximum (FWHM) of the photoneutron cross section in
+nuclei, earlier recognized for $A > 63$, in fact persist down to the lightest
+nuclei. Averaging over the oscillations or focusing on the lower envelope of
+the oscillating curve (magic nuclei), the FWHM is seen to generally decrease
+with increasing $A$, consistent with $A^{-1/3}$, a dependence which was earlier
+known to hold in metal particle systems. If the FWHMs are scaled by the
+respective Fermi energies and the inverse radii by the Fermi wave vectors, the
+two data sets become comparable in magnitude. A schematic theoretical
+description of the systematics is presented.)
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 12:59:37 GMT""}]","2016-09-08"
+"nucl-th/9305013","Theoriciens","J.M. Richard, J. Fr\""ohlich, G.M. Graf and M. Seifert","Proof of stability of the hydrogen molecule","7pages, RevTeX 3.0, ISN-93-50 (replace the first version which seems
+  unTeXable)","Phys.Rev.Lett.71:1332-1334,1993","10.1103/PhysRevLett.71.1332",,"nucl-th",,"  We sketch two rigorous proofs of the stability of the hydrogen molecule in
+quantum mechanics. The first one is based on an extrapolation of variational
+estimates of the groundstate energy of a positronium molecule to arbitrary mass
+ratios. The second one is an extension of Heitler-London theory to nuclei of
+finite mass.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 13:38:32 GMT""},{""version"":""v2"",""created"":""Thu, 20 May 1993 09:12:56 GMT""}]","2016-08-14"
+"patt-sol/9305007","Aric Hagberg","Aric Hagberg (Program in Applied Mathematics, University of Arizona)
+  and Ehud Meron (Arizona Center for Mathematical Sciences and Department of
+  Mathematics, University of Arizona)","Pattern Formation in Dissipative Nonvariational Systems: The Effects of
+  Front Bifurcations","34 pages TeX, 20 postscript figures (5.6MB uncompressed)","Nonlinearity 7, 805 (1994)","10.1088/0951-7715/7/3/006",,"patt-sol nlin.PS",,"  Patterns in reaction-diffusion systems often contain two spatial scales; a
+long scale determined by a typical wavelength or domain size, and a short scale
+pertaining to front structures separating different domains. Such patterns
+naturally develop in bistable and excitable systems, but may also appear far
+beyond Hopf and Turing bifurcations. The global behavior of domain patterns
+strongly depends on the fronts' inner structures. In this paper we study a
+symmetry breaking front bifurcation expected to occur in a wide class of
+reaction-diffusion systems, and the effects it has on pattern formation and
+pattern dynamics. We extend previous works on this type of front bifurcation
+and clarify the relations among them. We show that the appearance of front
+multiplicity beyond the bifurcation point allows the formation of persistent
+patterns rather than transient ones. In a different parameter regime, we find
+that the front bifurcation outlines a transition from oscillating (or
+breathing) patterns to traveling ones. Near a boundary we find that fronts
+beyond the bifurcation can reflect, while those below it either bind to the
+boundary or disappear.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 05:12:11 GMT""}]","2009-10-22"
+"patt-sol/9305008",,"Jos\'e A. Cuesta, Froil\'an C. Mart\'inez, Juan M. Molera, and Angel
+  S\'anchez (Escuela Polit\'ecnica Superior, Universidad Carlos III de Madrid,
+  Avda. Mediterr\'aneo 20, E-28913 Legan\'es, Madrid, Spain)","Phase Transitions In Two-Dimensional Traffic Flow Models","RevTeX 3.0 file. Figures available upon request to e-address
+  cuesta@ing.uc3m.es (or 'dopico' or 'molera' or 'anxo', same node)",,,"MA/UC3M/4/93","patt-sol nlin.PS",,"  We introduce two simple two-dimensional lattice models to study traffic flow
+in cities. We have found that a few basic elements give rise to the
+characteristic phase diagram of a first-order phase transition from a freely
+moving phase to a jammed state, with a critical point. The jammed phase
+presents new transitions corresponding to structural transformations of the
+jam. We discuss their relevance in the infinite size limit.
+","[{""version"":""v1"",""created"":""Wed, 19 May 1993 11:37:53 GMT""}]","2016-08-14"

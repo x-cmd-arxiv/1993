@@ -1,0 +1,96 @@
+"astro-ph/9312009",,"Alain Bouquet, Jean Kaplan, Anne-Laure Melchior, Yannick
+  Giraud-H\'eraud, Paul Baillon","Microlensing of Unresolved Stars as a Brown Dwarf Detection Method","8 pages and 4 figures available by fax Latex 1",,,,"astro-ph",,"  We describe a project of brown dwarf detection in the dark halo of a galaxy
+using the microlensing effect. We argue that monitoring pixels instead of stars
+could provide an enhancement in the number of detectable events. We estimate
+the detection efficiency with a Monte-Carlo simulation. We expect a ten-fold
+increase with respect to current experiments. To assess the feasibility of this
+method we have determined the photometric precision of a pixel by comparing
+several pictures of a same field in the
+  LMC. To be published in the Proceeding of the workshop 'The dark side of the
+universe...', Roma, Juin 1993,
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1993 12:20:07 GMT""}]","2009-09-25"
+"astro-ph/9312010","Matthias Steinmetz","Matthias Steinmetz & Ewald Mueller","The formation of disk galaxies in a cosmological context: Populations,
+  metallicities and metallicity gradients","4 pages, compressed uu-encoded postscript file, Astronomy &
+  Astrophysics Letters in press","Astron.Astrophys. 281 (1994) L97-L100",,,"astro-ph",,"  We present first results concerning the metallicities and stellar populations
+of galaxies formed in a cosmologically motivated simulation. The calculations
+include dark matter, gas dynamics, radiation processes, star formation,
+supernovae feedback, and metal enrichment. A rotating, overdense sphere with a
+mass of $8\,10^{11}\,$\Msol\ serves as initial model. Converging and Jeans
+unstable regions are allowed to form stars, which get their metallicity from
+the gas they are formed from. Via supernovae, metal enriched gas is given back
+to the interstellar medium. The forming galaxy shows the main properties of
+spiral galaxies: A metal rich bulge, a metal poor stellar halo and a disk of
+nearly solar composition. Halo and bulge consist predominantly of old stars
+($>10.5\,$Gyrs). The disk has a metallicity gradient of $\dd(\log Z) / \dd r =
+- 0.05\,$kpc$^{-1}$, whereas the halo shows none. The models also exhibit a
+correlation between the metallicity of Pop~II stars and the power of small
+scale fluctuations. The stars of the bulge form from gas which is initially
+located in the largest maxima of the primordial density fluctuations, whereas
+the halo stars originate from gas accumulated in less pronounced maxima.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1993 13:53:15 GMT""}]","2007-05-23"
+"chao-dyn/9312003","Jean-Pierre Eckmann","P. Cvitanovi\'c (Niels Bohr Institute, Blegdamsvej 17, DK-2100
+  Copenhagen \O, Denmark), J.-P. Eckmann (D\'epartement de Physique
+  Th\'eorique, Universit\'e de Gen\`eve, CH-1211 Geneva 4, Switzerland), P.
+  Gaspard (Service de Chimie-Physique, Universit\'e Libre de Bruxelles, Campus
+  Plaine, B-1050 Brussels, Belgium)","Transport Properties of the Lorentz Gas in Terms of Periodic Orbits","8 pages, Postscript, A4",,,,"chao-dyn nlin.CD",,"  We establish a formula relating global diffusion in a space periodic
+dynamical system to cycles in the elementary cell which tiles the space under
+translations.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1993 12:09:20 GMT""}]","2008-02-03"
+"cond-mat/9312018","Subir Sachdev","Subir Sachdev","Quantum Phase Transitions and Conserved Charges","19 pages, REVTEX 3.0, 8 uuencoded Postscript figues appended,
+  YCTP-xxxx","Z. Phys. B 94, 469 (1994)","10.1007/BF01317409",,"cond-mat",,"  The constraints on the scaling properties of conserved charge densities in
+the vicinity of a zero temperature ($T$), second-order quantum phase transition
+are studied. We introduce a generalized Wilson ratio, characterizing the
+non-linear response to an external field, $H$, coupling to any conserved
+charge, and argue that it is a completely universal function of $H/T$: this is
+illustrated by computations on model systems. We also note implications for
+transitions where the order parameter is a conserved charge (as in a $T=0$
+ferromagnet-paramagnet transition).
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1993 17:44:55 GMT""}]","2009-10-22"
+"cond-mat/9312019","Wang Deng Feng Post doc Gruber","D. F. Wang, James T. Liu and P. Coleman","Spectrum and Thermodynamics of the one-dimensional supersymmetric t-J
+  model with $1/r^2$ exchange and hopping","13 pages, Latex, (published in PRB46, 6639 (1992))",,"10.1103/PhysRevB.46.6639",,"cond-mat hep-th",,"  We derive the spectrum and the thermodynamics of the one-dimensional
+supersymmetric t-J model with long range hopping and spin exchange using a set
+of maximal-spin eigenstates. This spectrum confirms the recent conjecture that
+the asymptotic Bethe-ansatz spectrum is exact. By empirical determining the
+spinon degeneracies of each state, we are able to explicitly construct the free
+energy.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1993 13:27:00 GMT""}]","2015-06-25"
+"cond-mat/9312020",,"J.R.L. de Almeida and S. Coutinho","Replica Real Space Renormalization Group for Spin Glasses","12 pages, RevTEX, figure upon request",,,,"cond-mat",,"  We construct a real space renormalization group (RG) approach for Ising spin
+glasses on hypercubic lattices within the scheme of the Migdal-Kadanoff
+approximation using replicas. Our replica symmetric solution yields results
+consistent with simple decimation previously obtained and the introduction of
+breaking of replica symmetry within the RG is discussed, which inserts in a
+natural fashion non-linear RG into the problem.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1993 04:51:05 GMT""}]","2007-05-23"
+"gr-qc/9312012","Tatsuhiko Koike","Tatsuhiko Koike, Hisashi Onozawa and Masaru Siino","Causal Feature of Central Singularity and Gravitational Mass","10 pages REVTeX 3.0, TIT/HEP-246/COSMO-41",,,,"gr-qc hep-th",,"  Mass of singularity is defined, and its relation to whether the singularity
+is spacelike, timelike or null is discussed for spherically symmetric
+spacetimes.
+  It is shown that if the mass of singularity is positive
+  (negative) the singularity is non-timelike (non-spacelike).
+  The connection between the sign of the mass and the force on a particle is
+also discussed.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1993 11:45:35 GMT""}]","2007-05-23"
+"hep-lat/9312024","Jeroen Vink","Jeroen C. Vink","Making chiral fermion actions (almost) gauge invariant using Laplacian
+  gauge fixing","3 p., Latex, (proc. Lattice '93, Dallas), 2 figs. appended, UCSD/PTH
+  93-42","Nucl.Phys.Proc.Suppl. 34 (1994) 608-610","10.1016/0920-5632(94)90460-X",,"hep-lat",,"  Straight foreward lattice descriptions of chiral fermions lead to actions
+that break gauge invariance. I describe a method to make such actions gauge
+invariant (up to global gauge transformations) with the aid of gauge fixing. To
+make this prescription unambiguous, Laplacian gauge fixing is used, which is
+free from Gribov ambiguities.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1993 19:09:42 GMT""}]","2009-10-22"
+"hep-lat/9312025","Jacek Wosiek","J. Wosiek","Locating analytically critical temperature in some statistical systems","13 pages, LATEX, TPJU-23/93 November 1993",,"10.1103/PhysRevB.49.15023",,"hep-lat",,"  We have found a simple criterion which allows for the straightforward
+determination of the order-disorder critical temperatures. The method
+reproduces exactly results known for the two dimensional Ising, Potts and
+$Z(N<5)$ models. It also works for the Ising model on the triangular lattice.
+For systems which are not selfdual our proposition remains an unproven
+conjecture. It predicts $\beta_c=0.2656...$ for the two coupled layers of Ising
+spins. Critical temperature of the three dimensional Ising model is related to
+the free energy of the two layer Ising system.
+","[{""version"":""v1"",""created"":""Sun, 5 Dec 1993 11:17:01 GMT""}]","2009-10-22"
+"hep-ph/9312219","Emil Nikolov","E. Nikolov, W. Broniowski and K. Goeke","Electric Polarizability of the Nucleon in the Nambu--Jona-Lasinio Model","16 pages, RevTeX, 3 figures (included, PS, uuencoded), RUB-TPII-55/93
+  and TPR-93-38","Nucl.Phys. A579 (1994) 398-412","10.1016/0375-9474(94)90915-6",,"hep-ph",,"  The electric polarizability of the nucleon is calculated in the soliton
+approach to the Nambu--Jona-Lasinio model. We analyze the leading-$N_c$
+contributions, as well as the effects of rotational $1/N_c$ corrections and
+$\Delta$-$N$ mass splitting. Our model prediction is substantially reduced
+compared to other soliton calculations, and is closer to the experimental
+value.
+","[{""version"":""v1"",""created"":""Sat, 4 Dec 1993 19:07:48 GMT""}]","2009-10-22"

@@ -1,0 +1,256 @@
+"astro-ph/9309049","Jan Muecket","Stefan Gottloeber, Jan P. Muecket and A. Starobinsky","Confrontation of a Double Inflationary Cosmological Model with
+  Observations","17 pages and 4 figures obtainable by request, LaTex, AIP 93-11","Astrophys.J.434:417-423,1994","10.1086/174743",,"astro-ph",,"  CDM models with non-scale-free step-like spectra of adiabatic perturbations
+produced in a realistic double inflationary model are compared with recent
+observational data. The model contains two additional free parameters
+relatively to the standard CDM model with the flat ($n=1$) initial spectrum.
+Results of the COBE experiment are used for the determination of a free overall
+spectrum normalization. Then predictions for the galaxy biasing parameter, the
+variance for ""counts in cells"", the galaxy angular correlation function, bulk
+flow peculiar velocities and the Mach number test are obtained. Also considered
+are conditions for galaxy and quasar formation. Observational data strongly
+restricts allowed values for the two remaining model parameters. However, a
+non-empty region for them satisfying all considered tests is found.
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 16:01:31 GMT""}]","2010-12-09"
+"astro-ph/9309050","Chris Metzler","Christopher A. Metzler and August E. Evrard","A Simulation of the Intracluster Medium with Feedback from Cluster
+  Galaxies","36 pages (15 figures available upon request), LaTeX (modified AAS
+  style included), submitted to the Astrophysical Journal, UM AC 93-12","Astrophys.J.437:564-583,1994","10.1086/175022",,"astro-ph",,"  The formation and evolution of an X--ray cluster is studied using a 3--D
+N-body + hydrodynamical simulation which includes feedback of energy and iron
+from cluster galaxies. The differences in evolution and final state between the
+simulation and a similar run without feedback are highlighted. We address the
+energetics of cluster gas; the distribution of dark matter, gas, and galaxies;
+the thermodynamic state of cluster gas, the beta model, and the beta
+discrepancy; x-ray evolution; the validity of estimates of the binding mass and
+of the baryon fraction of the cluster; dynamics of the galaxy population and
+velocity bias; and of the evolution of the iron abundance distribution in the
+cluster. We find that preheating by galactic winds results in a lower core
+density for the ICM, which in turn makes the simulated cluster fainter at high
+redshift and undergo rapid luminosity evolution to the present. A strong iron
+abundance gradient is present, even at high redshift. Velocity bias is present
+in the galaxy population; this bias combined with the preheating from winds
+drives the value of $\beta_{spec}\,=\,\sigma^{2}/\left(kT/\mu m_{p}\right)$ to
+values less than one. The two fluid simulation, modelling infall only, predicts
+$\beta_{spec}\,\geq\,1$, less in line with observation.
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 17:32:04 GMT""}]","2008-11-26"
+"astro-ph/9309051","Hkitada","Hitoshi Kitada","Theory of Local Times","22 pages, LaTeX, revised in minor descriptions","Nuovo Cim.B109:281-302,1994","10.1007/BF02727290","KIMS-1993-04-23","astro-ph gr-qc",,"  A model of a stationary universe is proposed. In this framework, time is
+defined as a local and quantum-mechanical notion in the sense that it is
+defined for each local and quantum-mechanical system consisting of finite
+number of particles. The total universe consisting of infinite number of
+particles has no time associated. It is a stationary bound state of the total
+Hamiltonian of infinite degrees of freedom. The quantum mechanics and the
+theory of general relativity are consistently united in this context if one
+uses this notion of local and quantum-mechanical time. As one of the
+consequences, the Einstein-Podolsky-Rosen paradox is resolved. The Hubble
+red-shift is explained as a consequence of general relativity which is
+consistent with quantum mechanics. This does not require us to argue on the
+beginning nor the end of the universe. The universe just exists without time.
+(published in Il Nuovo Cimento, Vol. 109 B, N. 3, 1994, pp. 281-302)
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 09:31:35 GMT""},{""version"":""v2"",""created"":""Fri, 1 Oct 1993 09:52:09 GMT""},{""version"":""v3"",""created"":""Thu, 18 Nov 1993 14:50:23 GMT""},{""version"":""v4"",""created"":""Thu, 16 Dec 1993 13:24:13 GMT""},{""version"":""v5"",""created"":""Sun, 21 May 1995 13:33:58 GMT""},{""version"":""v6"",""created"":""Mon, 22 May 1995 07:05:23 GMT""}]","2010-11-19"
+"astro-ph/9309052","Kem Cook","C. Alcock, C.W. Akerlof, R.A. Allsman, T.S. Axelrod, D.P. Bennett, S.
+  Chan, K.H. Cook, K.C. Freeman, K. Griest, S.L. Marshall, H-S. Park, S.
+  Perlmutter, B.A. Peterson, M.R. Pratt, P.J. Quinn, A.W. Rodgers, C.W. Stubbs,
+  W. Sutherland, (The MACHO Collaboration)","Possible Gravitational Microlensing of a Star in the Large Magellanic
+  Cloud","plainTeX, 5 pages, 3 figures uunecoded tar-compressed,
+  CFPA-preprint-93-30",,"10.1038/365621a0",,"astro-ph gr-qc hep-ph",,"  There is now abundant evidence for the presence of large quantities of unseen
+matter surrounding normal galaxies, including our own$^{1,2}$. The nature of
+this `dark matter' is unknown, except that it cannot be made of normal stars,
+dust, or gas, as they would be easily detected. Exotic particles such as
+axions, massive neutrinos or other weakly interacting massive particles
+(collectively known as WIMPs) have been proposed)$^{3,4}$, but have yet to be
+detected. A less exotic alternative is normal matter in the form of bodies with
+masses ranging from that of a large planet to a few $ \msun$. Such objects,
+known collectively as massive compact halo objects$^5$ (MACHOs) might be brown
+dwarfs or `Jupiters' (bodies too small to produce their own energy by fusion),
+neutron stars, old white dwarfs, or black holes. Paczynski$^6$ suggested that
+MACHOs might act as gravitational microlenses, occasionally causing the
+apparent brightness of distant background stars temporarily to increase. We are
+conducting a microlensing experiment to determine whether the dark matter halo
+of our galaxy is made up of MACHOs. Here we report a candidate for a
+microlensing event, detected by monitoring the light curves of 1.8 million
+stars in the Large Magellanic Cloud for one year. The light curve shows no
+variation for most of the year of data taking, and an upward excursion lasting
+over 1 month, with a maximum increase of $\approx \bf 2$ mag. The most probable
+lens mass, inferred from the duration of the event, is $\bf \sim 0.1 \,\msun$.
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 22:56:48 GMT""}]","2009-10-22"
+"astro-ph/9309053",,"Sandra Savaglio, Sandro D'Odorico, Palle M{\o}ller","The metal systems in Q0000--2619 at high resolution","18 pages, 8 figures available from the authors in ps-format, LaTeX
+  file (standard macro l-aa)","Astron.Astrophys.281:331,1994",,"ESO scientific preprint no. 940","astro-ph",,"  We have obtained high, 11 and 14 \kms, and medium, 40 and 53 \kms, resolution
+spectra of the $z_{em} = 4.11$ quasar Q0000--2619 covering the range 4400 \AA\
+to 9265 \AA . We identify nine metal absorption systems, of which four were
+previously known. A fifth previously suggested system at $z_{abs} \approx
+3.409$ (Turnshek et al~ 1991) is ruled out by our data. Two of the eight
+systems for which the \lya~ line is in the observable range have a damped \lya~
+line. Six of the nine systems show evidence for complex sub--component
+structure. At our resolution and S/N we identify a total of 21 sub--components
+in the nine systems. Five of the nine systems (11 of the 21 components) fall
+within the $\pm 5000$ \kms~ range of the emission redshift, and are hence
+classified as \zae~ absorbers. For the two damped systems we find metal
+abundances of $\leq 1$% and $\leq 8$% of solar values at redshifts of 3.0541
+and 3.3901 respectively. These upper limits are consistent with what would be
+expected from previous determinations at lower redshifts, and our data are
+hence compatible with earlier conclusions that no evidence is yet found for
+chemical evolution of intervening damped and Lyman limit absorbers. For the
+\zae~ systems we found indications of metallicities comparable to, and even in
+excess of solar values. These much higher values compared to the damped
+systems, are in favour of the intrinsic hypothesis for these systems.
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 10:41:10 GMT""}]","2011-05-23"
+"astro-ph/9309055","Thomas Buchert","Thomas Buchert","Lagrangian theory of gravitational instability of Friedman-Lemaitre
+  cosmologies - generic third-order model for non-linear clustering","pages:29, TeX; MPA preprint 729; MNRAS, in press","Mon.Not.Roy.Astron.Soc. 267 (1994) 811-820","10.1093/mnras/267.4.811",,"astro-ph",,"  The Lagrangian perturbation theory on Friedman-Lemaitre cosmologies
+investigated and solved up to the second order in earlier papers (Buchert 1992,
+Buchert \& Ehlers 1993) is evaluated up to the third order. On its basis a
+model for non-linear clustering applicable to the modeling of large-scale
+structure in the Universe for generic initial conditions is formulated. A
+truncated model is proposed which represents the ``main body'' of the
+perturbation sequence in the early non-linear regime by neglecting all
+gravitational sources which describe interaction of the perturbations. However,
+I also give the irrotational solutions generated by the interaction terms to
+the third order, which induce vorticity in Lagrangian space. The consequences
+and applicability of the solutions are put into perspective. In particular, the
+model presented enables the study of previrialization effects in gravitational
+clustering and the onset of non-dissipative gravitational turbulence within the
+cluster environment.
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 11:27:19 GMT""}]","2015-06-24"
+"astro-ph/9309056","Thomas Buchert","T.Buchert, A.L.Melott, A.G.Weiss","Testing Higher-Order Lagrangian Perturbation Theory Against Numerical
+  Simulations - 1. Pancake Models","TeX, 18 pages excl.figures; contact TOB@ibma.ipp-garching.mpg.de ;
+  MELOTT@kusmos.phsx.ukans.edu . submitted to Astron. & Astrophys","Astron.Astrophys. 288 (1994) 349-364",,,"astro-ph",,"  We present results showing an improvement of the accuracy of perturbation
+theory as applied to cosmological structure formation for a useful range of
+quasilinear scales. The Lagrangian theory of gravitational instability of an
+Einstein-de Sitter dust cosmogony investigated and solved up to the third order
+in the series of papers by Buchert (1989, 1992, 1993a), Buchert \& Ehlers
+(1993), Buchert (1993b), Ehlers \& Buchert (1993), is compared with numerical
+simulations. In this paper we study the dynamics of pancake models as a first
+step. In previous work (Coles \etal 1993, Melott \etal 1993, Melott 1993) the
+accuracy of several analytical approximations for the modeling of large-scale
+structure in the mildly non-linear regime was analyzed in the same way,
+allowing for direct comparison of the accuracy of various approximations. In
+particular, the ``Zel'dovich approximation'' (Zel'dovich 1970, 1973, hereafter
+ZA) as a subclass of the first-order Lagrangian perturbation solutions was
+found to provide an excellent approximation to the density field in the mildly
+non-linear regime (i.e. up to a linear r.m.s. density contrast of $\sigma
+\approx 2$). The performance of ZA in hierarchical clustering models can be
+greatly improved by truncating the initial power spectrum (smoothing the
+initial data). We here explore whether this approximation can be further
+improved with higher-order corrections in the displacement mapping from
+homogeneity. We study a single pancake model (truncated power-spectrum with
+power-index $n=-1$) using cross-correlation statistics employed in
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 11:58:32 GMT""}]","2007-05-23"
+"astro-ph/9309057","Galaxy\\"" Name","E.Escalera, A.Biviano, M.Girardi, G.Giuricin, F.Mardirossian,
+  A.Mazure, and M.Mezzetti","Structures in Galaxy Clusters","(16 pages in LATEX, 4 tables in LATEX are at the end of the file, the
+  figures not included are available upon request), REF SISSA 158/93/A","Astrophys.J. 423 (1994) 539","10.1086/173833",,"astro-ph",,"  The analysis of the presence of substructures in 16 well-sampled clusters of
+galaxies suggests a stimulating hypothesis: Clusters could be classified as
+unimodal or bimodal, on the basis of to the sub-clump distribution in the {\em
+3-D} space of positions and velocities. The dynamic study of these clusters
+shows that their fundamental characteristics, in particular the virial masses,
+are not severely biased by the presence of subclustering if the system
+considered is bound.
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 10:55:51 GMT""}]","2009-10-22"
+"astro-ph/9309058","Karl Mannheim","Karl Mannheim","On the Difference between Radio Loud and Radio Quiet AGN","4 pages, Latex",,,,"astro-ph",,"  Nuclear jets containing relativistic ``hot'' particles close to the central
+engine cool dramatically by producing high energy radiation. The radiative
+dissipation is similar to the famous Compton drag acting upon ``cold'' thermal
+particles in a relativistic bulk flow. Highly relativistic protons induce
+anisotropic showers raining electromagnetic power down onto the putative
+accretion disk. Thus, the radiative signature of hot hadronic jets is x-ray
+irradiation of cold thermal matter. The synchrotron radio emission of the
+accelerated electrons is self-absorbed due to the strong magnetic fields close
+to the magnetic nozzle.
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 13:30:32 GMT""}]","2007-05-23"
+"astro-ph/9309059",,"J. Ignatius, K. Kajantie, H. Kurki-Suonio and M. Laine","The Growth of Bubbles in Cosmological Phase Transitions","24 LaTeX-pages with 20 figures not included. The complete PostScript
+  file, including figures, is available by anonymous ftp from
+  fltxc.helsinki.fi, as /pub/bubble.ps, or as a hardcopy by airmail (a
+  dublicate lies at nic.funet.fi:/pub/sci/physics/papers/bubble.ps). Helsinki
+  Preprint HU-TFT-93-43","Phys.Rev. D49 (1994) 3854-3868","10.1103/PhysRevD.49.3854",,"astro-ph hep-ph",,"  We study how bubbles grow after the initial nucleation event in generic
+first-order cosmological phase transitions characterised by the values of
+latent heat, interface tension and correlation length, and driven by a scalar
+order parameter $\phi$. Equations coupling $\phi$ and the fluid variables $v$
+and $T$ and depending on a dissipative constant $\Gamma$ are derived and solved
+numerically in the 1+1 dimensional case starting from a slightly deformed
+critical bubble configuration. Parameters corresponding to QCD and electroweak
+phase transitions are chosen and the whole history of the bubble with formation
+of combustion and shock fronts is computed as a function of $\Gamma$. Both
+deflagrations and detonations can appear depending on the values of the
+parameters. Reheating due to collisions of bubbles is also computed.
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 14:11:07 GMT""}]","2009-10-22"
+"cond-mat/9309055","Franz Forsthofer","G. Hastreiter, F. Forsthofer, J. Keller","Frequency Shifts and Linewidth Changes of Infrared-Active Phonons in
+  Double-Layered High-Temperature Superconductors","8 pages, LaTex, SISSA-CM-93-001",,"10.1016/0038-1098(93)90874-M",,"cond-mat",,"  We calculate frequency shifts and changes in linewidths of infrared-active
+phonons within a shell model for the bare phononic system coupled to an
+electronic double-layer structure with inter-layer charge transfer. The
+theoretical concept is applied to YBaCuO yielding a good description of
+experimental results in the normal state as well as at the transition to the
+superconducting state.
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 12:52:50 GMT""}]","2009-10-22"
+"hep-ph/9309332","Dam Thanh Son","D.T.Son and P.G.Tinyakov","Examples of Semiclassical Instanton-Like Scattering: Massless $\phi^4$
+  and SU(2) Gauge Theories","18pp., LaTeX, to be published in Nucl. Phys. B","Nucl.Phys.B415:101-115,1994","10.1016/0550-3213(94)90068-X",,"hep-ph",,"  Two-parameter sets of solutions to the classical field equations in the
+massless $\phi^4$ model and SU(2) gauge theory are found, each solution
+presumably describing a multi-particle instanton-like transition at high
+energy. In the limit of small number of initial particles, the probability of
+the transition is suppressed by $\exp(-2S_0)$, where $S_0$ is the instanton
+action.
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 16:47:30 GMT""}]","2010-11-01"
+"hep-ph/9309333",,"L.Xiong and E.Shuryak","Gluon multiplication in high energy heavy ion collisions","28 pages (4 Figures not included here may be requested from the
+  authors)","Phys.Rev.C49:2203-2211,1994","10.1103/PhysRevC.49.2203","SUNY-NTG-93-24","hep-ph nucl-th",,"  Hot gluons are the dominant components of the QCD plasma to be formed in
+future high energy heavy ion experiments. In this paper we study the elementary
+processes in the plasma medium for gluon multiplication based on all orders of
+the tree-diagrams in perturbative QCD. When applying to the chemical
+equilibration in the expanding system, we found that the gluons reaches
+chemical equilibrium well within its plasma phase. The inclusion of all the
+next-to-leading order processes makes the equilibration considerably faster
+than the simple $gg\leftrightarrow ggg$ one considered previously.
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 21:16:55 GMT""}]","2008-11-26"
+"hep-ph/9309334",,"R. Casalbuoni, P. Chiappetta, A. Deandrea, S. De Curtis, D. Dominici
+  and R. Gatto","The Bess Model at e+ e- Colliders","14 pages and 6 figures, TeX (uses epsf.tex for figures), UGVA-DPT
+  1993/09-836",,,,"hep-ph",,"  We consider the possibility of detecting vector resonances from a strong
+electroweak sector, in the framework of the BESS model, at future $e^+ e^-$
+colliders up to the TeV range. If the mass $M_V$ of the new vector boson
+multiplet is not far above or if it is below the maximum machine energy, such a
+contribution would be manifest. The process of $W$-pair production by $e^+e^-$
+annihilation allows for sensitive tests of the strong sector, especially if the
+$W$ polarizations are reconstructed. Contribution to the proceedings of the
+Workshop on Physics and Experiment at Linear $e^+ e^-$ Colliders - Munich,
+Annecy, Hamburg 1993.
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 17:05:00 GMT""}]","2007-05-23"
+"hep-ph/9309336","Teruya Yamanishi","T.Morii, S.Tanaka and T.Yamanishi","Effects of the large gluon polarization on $xg_1^d(x)$ and J/$\psi$
+  productions at polarized ep and pp collisions","LaTeX file, 10 pages+6 figures available upon request, KOBE-FHD-93-08","Phys. Lett. B322 (1994) 253-258","10.1016/0370-2693(94)91116-9",,"hep-ph",,"  The recent SMC data of $xg_1^d(x)$ are reproduced with the large polarized
+gluons. To study further the polarized gluon distribution in a proton, we
+calculate the spin--dependent differential cross section for J/$\psi$
+leptoproductions and the two--spin asymmetry for J/$\psi$ hadroproductions. Its
+experimental implication is discussed.
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 08:04:44 GMT""}]","2009-10-22"
+"hep-th/9309143",,"A. Candiello and K. Lechner","Duality in Supergravity Theories","30 pages of tex, DFPD/93/TH/51 - (to appear in Nucl. Phys. B)","Nucl.Phys. B412 (1994) 479-501","10.1016/0550-3213(94)90389-1",,"hep-th",,"  We present a unified treatment in superspace of the two dual formulations of
+$D=10$, $N=1$ {\it pure} supergravity based on a strictly super-geometrical
+framework: the only fundamental objects are the super Riemann curvature and
+torsion, and the related Bianchi identities are sufficient to set the theory on
+shell; there is no need to introduce, from the beginning, closed three- or
+seven-superforms. This formulation extends also to {\it non minimal} models.
+  Moreover, in this framework the algebraic analogy between pure super
+Yang--Mills theories and pure supergravity in $D=10$ is manifest. As an
+additional outcome in the present formulation the supersymmetric partner of the
+ABBJ-Lorentz anomaly in pure $D=10$ supergravity can be computed in complete
+analogy to the ABBJ-gauge anomaly in supersymmetric Yang--Mills theories in ten
+dimensions.
+  In the same framework we attack the issue of duality in $N=1$, $D=11$
+supergravity showing in detail that duality holds at the kinematical level in
+superspace while it is broken by the dynamics. We discuss also possible
+extensions of this theory which could be related to quantum corrections of the
+eleven dimensional membrane.
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 18:10:00 GMT""}]","2009-10-22"
+"hep-th/9309156","Francesco Belgiorno","F. Belgiorno and A.S. Cattaneo","Black Holes and Cosmological Constant in Bosonic String Theory: Some
+  Remarks","17 pages; PHYZZX; IFUM 450/FT","Int.J.Mod.Phys.A10:527-540,1995","10.1142/S0217751X95000231",,"hep-th",,"  (some corrections in the semiclassical study and one reference added).
+","[{""version"":""v1"",""created"":""Wed, 29 Sep 1993 17:35:02 GMT""},{""version"":""v2"",""created"":""Wed, 24 Nov 1993 16:01:43 GMT""}]","2008-11-26"
+"hep-th/9309157","Ulf Danielsson","Ulf H. Danielsson","The Deformed Matrix Model at Finite Radius and a New Duality Symmetry","11 pages, CERN-TH.7021/93","Phys.Lett. B325 (1994) 33-38","10.1016/0370-2693(94)90067-1",,"hep-th",,"  The $1/x^{2}$ deformed $c=1$ matrix model is studied at finite radius and
+non-zero cosmological constant. Calculational techniques are presented and
+illustrated in some examples. Furthermore, a new kind of $R \rightarrow 1/R$
+duality is discovered which mixes different genus.
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 07:42:45 GMT""}]","2009-10-22"
+"hep-th/9309158","Nakazato Hiromichi","H. H\""uffel (Inst. f\""ur Theor. Phys., Univ. Wien) and H. Nakazato
+  (Dept. of Phys., Univ. of the Ryukyus)","Transition Amplitudes within the Stochastic Quantization Scheme","14 pages, LaTeX, UWThPh-1993-23 and DPUR 64","Mod. Phys. Lett. A9 (1994) 2953-2966","10.1142/S0217732394002793",,"hep-th",,"  Quantum mechanical transition amplitudes are calculated within the stochastic
+quantization scheme for the free nonrelativistic particle, the harmonic
+oscillator and the nonrelativistic particle in a constant magnetic field; we
+close with free Grassmann quantum mechanics.
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 11:33:54 GMT""}]","2015-06-26"
+"hep-th/9309159",,"Yi-Zhi Huang and James Lepowsky","A theory of tensor products for module categories for a vertex operator
+  algebra, II","31 pages. To appear in Selecta Mathematica. A reference is updated",,,,"hep-th math.QA",,"  This is the second part in a series of papers presenting a theory of tensor
+products for module categories for a vertex operator algebra. In Part I
+(hep-th/9309076), the notions of $P(z)$- and $Q(z)$-tensor product of two
+modules for a vertex operator algebra were introduced and under a certain
+hypothesis, two constructions of a $Q(z)$-tensor product were given, using
+certain results stated without proof. In Part II, the proofs of those results
+are supplied.
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 14:37:16 GMT""},{""version"":""v2"",""created"":""Wed, 17 May 1995 16:47:34 GMT""}]","2008-02-03"

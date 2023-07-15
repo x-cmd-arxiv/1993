@@ -1,0 +1,232 @@
+"astro-ph/9312064",,"D. Elizondo and G. Yepes","Can Conformal Weyl Gravity be Considered a Viable Cosmological Theory?","7 pages, (1 Figure included), uuencode compressed Postscript. (To be
+  published in ApJ, June 1994.). FTUAM-93-20","Astrophys.J. 428 (1994) 17-20","10.1086/174214",,"astro-ph",,"  We present exact analytical solutions to the Conformal Weyl Gravity
+cosmological equations that are valid for both the matter and radiation
+dominated eras. The Primordial Nucleosynthesis process is also exhaustively
+studied. The main conclusion of our work is that cosmological models derived
+from this theory are not likely to reproduce the observational properties of
+our Universe. They fail to fulfill simultaneously the observational constraints
+on present cosmological parameters and on primordial light element abundances.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 18:37:08 GMT""}]","2009-10-22"
+"astro-ph/9312065","Karsten Jedamzik","K. Jedamzik, G.M. Fuller, and G.J. Mathews","Inhomogeneous Primordial Nucleosynthesis: Coupled Nuclear Reactions and
+  Hydrodynamic Dissipation Processes","30 pages in plain Tex, 17 figures (not included) available by fax or
+  mail upon request, ApJ in press, L1","Astrophys.J. 423 (1994) 50-67","10.1086/173789",,"astro-ph",,"  We present a detailed study of inhomogeneous Big Bang nucleosynthesis where,
+for the first time, nuclear reactions are coupled to all significant
+fluctuation dissipation processes. Theses processes include neutrino heat
+transport, baryon diffusion, photon diffusive heat transport, and hydrodynamic
+expansion with photon-electron Thomson drag. Light element abundance yields are
+presented for broad ranges of initial amplitudes and length scales for
+spherically condensed fluctuations. The $^2$H, $^3$He, $^4$He, and $^7$Li
+nucleosynthesis yields are found to be inconsistent with observationally
+inferred primordial abundances for all but very narrow ranges of fluctuation
+characteristics. Rapid hydrodynamic expansion of fluctuations late in the
+nucleosynthesis epoch results in significant destruction of $^7$Li ($^7$Be)
+only if the baryonic conytribution to the closure density ($\Omega_b$) is less
+than or comparable to the upper limit on this quantity from homogeneous Big
+Bang nucleosynthesis. This implies that $^7$Li overproduction will peclude an
+increase on the upper limit for $\Omega_b$ for any inhomogeneous
+nucleosynthesis scenarios employing spherically condensed fluctuations.
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 00:27:42 GMT""}]","2009-10-22"
+"astro-ph/9312066","Karsten Jedamzik","K. Jedamzik, G.M. Fuller, G.J. Mathews, and T. Kajino","Enhanced Heavy-Element Formation in Baryon-Inhomogeneous Big-Bang Models","19 pages in plain Tex, 5 figures (not included) available by fax or
+  mail upon request, ApJ in press, L2","Astrophys.J. 422 (1994) 423-429","10.1086/173738",,"astro-ph",,"  We show that primordial nucleosynthesis in baryon inhomogeneous big-bang
+models can lead to significant heavy-element production while still satisfying
+all the light-element abundance constraints including the low lithium abundance
+observed in population II stars. The parameters which admit this solution arise
+naturally from the process of neutrino induced inflation of baryon
+inhomogeneities prior to the epoch of nucleosynthesis. These solutions entail a
+small fraction of baryons (\le 2\%) in very high density regions with local
+baryon-to-photon ratio $\eta^h\approx 10^{-4}$, while most baryons are at a
+baryon-to-photon ratio which optimizes the agreement with light-element
+abundances. The model would imply a unique signature of baryon inhomogeneities
+in the early universe, evidenced by the existence of primordial material
+containing heavy-element products of proton and alpha- burning reactions with
+an abundance of $[Z]\sim -6 to -4$.
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 00:30:15 GMT""}]","2009-10-22"
+"cond-mat/9312095","Yigal Meir","Yigal Meir (Physics Department, University of California, Santa
+  Barbara) and Ned S. Wingreen (NEC Research Institute)","Spin-orbit Scattering and the Kondo Effect","10 pages, RevTex, one postscript figure available on request from
+  meir@sbphy.physics.ucsb.edu",,"10.1103/PhysRevB.50.4947",,"cond-mat",,"  The effects of spin-orbit scattering of conduction electrons in the Kondo
+regime are investigated theoretically. It is shown that due to time-reversal
+symmetry, spin-orbit scattering does not suppress the Kondo effect, even though
+it breaks spin-rotational symmetry, in full agreement with experiment. An
+orbital magnetic field, which breaks time-reversal symmetry, leads to an
+effective Zeeman splitting, which can be probed in transport measurements. It
+is shown that, similar to weak-localization, this effect has anomalous magnetic
+field and temperature dependence.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 22:03:04 GMT""}]","2009-10-22"
+"funct-an/9312005","Ya. Alber","Ya. I. Alber","The Penalty Method for Variational Inequalities with Nonsmooth Unbounded
+  Operators in Banach Space","14 pages, LaTex",,,,"funct-an math.FA",,"  The existence of a solution, convergence and stability of the penalty method
+for variational inequalities with nonsmooth unbounded uniformly and properly
+monotone operators in Banach spase $B$ are investigated. All the objects of the
+inequality - the operator A, ""the right-hand part"" $f$ and the set of
+constrains $\Omega $ - are to be perturbed. The stability theorems are
+formulated in terms of geometric characteristics of the spaces $B$ and $B^*$.
+The results of this paper are continuity and generalization of the Lions' ones,
+published earlier in \cite{l}. They are new even in Hilbert spaces.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 16:21:10 GMT""}]","2008-02-03"
+"gr-qc/9312038","Sergey Tertychniy","S.Tertychniy","On the alternative description of complex holomorphic and Lorentz
+  geometries in four dimensions","29 pages, uuencoded compressed PostScript, no local #",,,,"gr-qc",,"  The equivalence of a conformal metric on 4-dimensional space-time and a local
+field of 3-dimensional subspaces of the space of 2-forms over space-time is
+discussed and the basic notion of transection is introduced. Corresponding
+relation is spread to the metric case in terms of notion of normalized ordered
+oriented transection field. As a result, one obtains a possibility to handle
+the metric geometry without any references to the metric tensor itself on a
+distinct base which nevertheless contains all the information on metricity.
+Moreover, the notion of space-time curvature is provided with its natural
+counterpart in the transection `language' in a form of curvature endomorphism
+as well. To globalize the local constructions introduced, a certain fiber
+bundle is defined whose sections are equivalent to normalized ordered oriented
+transection fields and locally to the metric tensor on space-time. The
+criterion distinguishing the Lorentz geometry is discussed. The resulting
+alternative method of the description of space-time metricity, dealing with
+exterior forms foliation alone, seems to be of a power compatible with one of
+the standard concept based on the metric tensor.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 18:29:23 GMT""}]","2007-05-23"
+"gr-qc/9312039","Sergey Tertychniy","S.Tertychniy","On the alternative description of complex holomorphic and Lorentz
+  geometries in four dimensions. II. Appendix","14 pages, uuencoded compressed PostScript, no number",,,,"gr-qc",,"  This supplementary part of the paper gr-qc 9312038 contains the necessary
+proofs of the claims stated in the main part.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 18:37:26 GMT""}]","2007-05-23"
+"gr-qc/9312040","Sergey Tertychniy","S.Tertychniy","Application of the Lagrange-Souriau form method to the case of
+  source-free electromagnetic field","15 pages, uuencoded compressed PostScript, no #",,,,"gr-qc",,"  The recent method of the description of classical fields in terms of
+Lagrange-Souriau form is applied to the case of source-free electromagnetic
+field in order to check its computational capabilities. The relevant
+calculations are represented in all details and yield a useful data for
+comparisons of the method with more usual approaches in this simple and
+transparent case.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 18:44:54 GMT""}]","2007-05-23"
+"hep-ph/9312352",,"R. D. Peccei, Ucla","Standard Model Expectations for CP Violation","55 pages, UCLA/93/TEP/50. Figures available upon request to
+  reyes@physics.ucla.edu",,,,"hep-ph",,"  I review the predictions and expectations of the CKM model for CP violation
+in both the $K^0-\bar K^0$ and $B^0-\bar B^0$ systems. A brief discussion of CP
+violation in charged $K$- and $B$-decays is also included, as well as some
+remarks on the electric dipole moments of the neutron and the electron.
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 01:21:00 GMT""}]","2007-05-23"
+"hep-ph/9312353","Paul F. Mende","Benjamin Grinstein and Paul F. Mende","Exact Heavy to Light Meson Form Factors in the Combined Heavy Quark,
+  Large $N_c$ and Chiral Limits","12 pages (harvmac), Brown-HET-928",,,,"hep-ph",,"  We demonstrate that the form factors of local operators between a heavy meson
+state (like the~$B$) and a light pseudoscalar state (like the pion) are given
+exactly by a single pole form in the combined heavy quark, large $N_c$ (number
+of colors) and chiral limits. We discuss the deviations from this exact result
+from finite heavy quark masses, non-zero light quark masses and finite $N_c$.
+We comment on some implications of this result.
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 09:15:06 GMT""}]","2007-05-23"
+"hep-ph/9312354",,"Paolo M. Gensini (Dip. di Fisica dell'Universit\`a di Perugia, and
+  Sez. di Perugia dell'I.N.F.N.)","QCD, the Parton Model, and the Nucleon Polarised Structure Functions}","{\bf 9 pages + cover, Plain TeX, report No. DFUPG-67-93",,,,"hep-ph",,"  The present talk summarises the 1993 situation in understanding the spin
+structure of the nucleon via electron and muon polarised deep--inelastic
+scattering (PDIS). The central question I shall address here is if the data can
+be interpreted as evidence for polarisation in the ``strange'' nucleon ``sea'',
+and I conclude that they can not: incidentally, I also find that they can not
+be constructed as evidence for violation of perturbative QCD (PQCD), either.
+  Talk presented at ``Quinto Convegno su Problemi di Fisica Nucleare Teorica'',
+Cortona (Arezzo, Italy), October 1993.
+  To be published in the proceedings: ``Perspectives on Theoretical Nuclear
+Physics (V)'', L. Bracci, et al., eds. (ETS Ed., Pisa 1994)
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 09:26:05 GMT""}]","2007-05-23"
+"hep-ph/9312355",,"A. Jakov\'ac, K. Kajantie and A. Patk\'os","A Hierarchy of Effective Field Theories of Hot Electroweak Matter","15 pages, HU-TFT-94-01","Phys.Rev. D49 (1994) 6810-6821","10.1103/PhysRevD.49.6810",,"hep-ph",,"  Abst\-ract: A hierarchy of effective three-dimensional theories of finite
+temperature electroweak matter is studied. First an integration over non-static
+modes leads to an effective theory containing a gauge field $A_{i}^{a}$, an
+adjoint Higgs field $A_{0}^a$ and the fundamental Higgs field $\phi_{\alpha}$.
+We carry out the integration in the 1-loop approximation, study renormalisation
+effects and estimate quantitatively those terms of the effective action which
+are suppressed by inverse powers of the temperature. Secondly, because of the
+existence of well-separated thermal mass scales, $A_{0}^a$ can be integrated
+over, and finally also $\phi_{\alpha}$, leaving an effective theory of the
+$A_{i}^{a}$.In the analysis of the subsequent models particular attention is
+paid to the screening of the magnetic fluctuations due to the integrated-out
+degrees of freedom. Files of 2 Tables and 4 Figures are available in
+(la)tex-format upon request
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 11:04:19 GMT""}]","2009-10-22"
+"hep-ph/9312356","Nikola Zovko","A.A.Bolokhov and N.Zovko","Finite $3\pi$ Cut Approximation for the $\pi N\bar{N}$ Form Factor","17 pages, Latex","Phys.Rev.C50:24-30,1994","10.1103/PhysRevC.50.24",,"hep-ph",,"  Assuming the length of the $3\pi$ cut to be finite and approximating the
+integrated amplitude by a constant, we derive an expression for the $\pi
+N\bar{N}$ form factor which is very close to that given by a simple pole. The
+specific predictions of the obtained form factor for the region of small
+momentum transfer are discussed along the lines of the Goldberger-Treiman
+relation.
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 15:02:19 GMT""}]","2008-11-26"
+"hep-th/9312204","Rim Chai Ho","Kyung-Hyun Cho and Chaiho Rim","Abelian Chern-Simons field theory and anyon equation on a torus","24, SNUTP-93-96","Phys.Rev. D50 (1994) 2870-2880","10.1103/PhysRevD.50.2870",,"hep-th",,"  We quantize the abelian Chern-Simons theory coupled to non-relativistic
+matter field on a torus without invoking the flux quantization. Through a
+series of canonical transformations which is equivalent to solving the Gauss
+constraint, we obtain an effective hamiltonian density with periodic matter
+field. We also obtain the many-anyon Schr\""odinger equation with periodic
+Aharonov-Bohm potentials and analyze the periodic property of the wavefunction.
+Some comments are given on the different features of our approach from the
+previous ones.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 21:14:49 GMT""}]","2009-10-22"
+"hep-th/9312205","Rim Chai Ho","K.H.Cho, Chaiho Rim, D.S.Soh, S.U. Park","q-def oscillator associated with Calogero model and its q-coherent state","22, snutp 93-83","J.Phys. A27 (1994) 2811-2822","10.1088/0305-4470/27/8/018",,"hep-th",,"  We present the q-deformed ^M para-bose oscillators associated with (two-body)
+Calogero model.^M q-deformed coherent state is also constructed and its
+resolution of unity ^M is demonstrated.
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 00:03:00 GMT""}]","2009-10-22"
+"hep-th/9312207","Mikhak","B. Mikhak and A.M. Zarkesh","Manifestly Finite Perturbation Theory for the Short-Distance Expansion
+  of Correlation Functions in the Two Dimensional Ising Model","38 pages with 1 figure, UCLA/93/TEP/49","Nucl.Phys. B430 (1994) 656-682","10.1016/0550-3213(94)90164-3",,"hep-th cond-mat",,"  In the spirit of classic works of Wilson on the renormalization group and
+operator product expansion, a new framework for the study of the theory space
+of euclidean quantum field theories has been introduced. This formalism is
+particularly useful for elucidating the structure of the short-distance
+expansions of the $n$-point functions of a renormalizable quantum field theory
+near a non-trivial fixed point. We review and apply this formalism in the study
+of the scaling limit of the two dimensional massive Ising model.
+Renormalization group analysis and operator product expansions determine all
+the non-analytic mass dependence of the short-distance expansion of the
+correlation functions. An extension of the first order variational formula to
+higher orders provides a manifestly finite scheme for the perturbative
+calculation of the operator product coefficients to any order in parameters. A
+perturbative expansion of the correlation functions follows. We implement this
+scheme for a systematic study of correlation functions involving two spin
+operators. We show how the necessary non-trivial integrals can be calculated.
+As two concrete examples we explicitly calculate the short-distance expansion
+of the spin-spin correlation function to third order and the spin-spin-energy
+density correlation function to first order in the mass. We also discuss the
+applicability of our results to perturbations near other non-trivial fixed
+points corresponding to other unitary minimal models.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 21:38:38 GMT""}]","2009-10-22"
+"hep-th/9312208","Hidetoshi Awata","H. Awata, M. Fukuma, S. Odake and Y.-H. Quano","Eigensystem and Full Character Formula of the W_{1+infinity} Algebra
+  with c=1","12 pages, YITP/K-1049, SULDP-1993-1, RIMS-959, Plain TEX, ( New
+  references )","Lett.Math.Phys. 31 (1994) 289-298","10.1007/BF00762791",,"hep-th",,"  By using the free field realizations, we analyze the representation theory of
+the W_{1+infinity} algebra with c=1. The eigenvectors for the Cartan subalgebra
+of W_{1+infinity} are parametrized by the Young diagrams, and explicitly
+written down by W_{1+infinity} generators. Moreover, their eigenvalues and full
+character formula are also obtained.
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 08:13:41 GMT""},{""version"":""v2"",""created"":""Wed, 12 Jan 1994 15:03:05 GMT""}]","2009-10-22"
+"hep-th/9312209","Jean-Bernard Zuber","J.-B. Zuber","On Dubrovin Topological Field Theories","15 pages","Mod.Phys.Lett.A9:749-760,1994","10.1142/S0217732394000563",,"hep-th",,"  I show that the new topological field theories recently associated by
+Dubrovin with each Coxeter group may be all obtained in a simple way by a
+``restriction'' of the standard ADE solutions. I then study the Chebichev
+specializations of these topological algebras, examine how the Coxeter graphs
+and matrices reappear in the dual algebra and mention the intriguing connection
+with the operator product algebra of conformal field theories. A direct
+understanding of the occurrence of Coxeter groups in that context is highly
+desirable.
+","[{""version"":""v1"",""created"":""Thu, 30 Dec 1993 10:50:06 GMT""}]","2011-07-19"
+"math/9312208",,"Marius Junge","Proportional subspaces of spaces with unconditional basis have good
+  volume properties",,,,"Banach Archive 12/29/93","math.FA",,"  A generalization of Lozanovskii's result is proved. Let E be $k$-dimensional
+subspace of an $n$-dimensional Banach space with unconditional basis. Then
+there exist $x_1,..,x_k \subset E$ such that $B_E \p \subset \p
+absconv\{x_1,..,x_k\}$ and \[ \kla \frac{{\rm vol}(absconv\{x_1,..,x_k\})}{{\rm
+vol}(B_E)} \mer^{\frac{1}{k}} \kl \kla e\p \frac{n}{k} \mer^2 \pl .\] This
+answers a question of V. Milman which appeared during a GAFA seminar talk about
+the hyperplane problem. We add logarithmical estimates concerning the
+hyperplane conjecture for proportional subspaces and quotients of Banach spaces
+with unconditional basis.
+  File Length:27K
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 17:04:17 GMT""}]","2016-09-06"
+"math/9312209",,"Fouad Chaatit, Vania Mascioni, Haskell P. Rosenthal","On Functions of Finite Baire Index",,,,"Banach Archive 12/29/93","math.FA",,"  It is proved that every function of finite Baire index on a separable metric
+space $K$ is a $D$-function, i.e., a difference of bounded semi-continuous
+functions on $K$. In fact it is a strong $D$-function, meaning it can be
+approximated arbitrarily closely in $D$-norm, by simple $D$-functions. It is
+shown that if the $n^{th}$ derived set of $K$ is non-empty for all finite $n$,
+there exist $D$-functions on $K$ which are not strong $D$-functions. Further
+structural results for the classes of finite index functions and strong
+$D$-functions are also given.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 17:04:17 GMT""}]","2009-09-25"
+"nucl-th/9312022","Susan Gardner","S. Gardner (Indiana U.), C.J. Horowitz (Indiana U.), and J.
+  Piekarewicz (SCRI)","Dynamical Color Correlations in a $SU(2)_c$ Quark Exchange Model of
+  Nuclear Matter","32 pages in REVTeX, IU/NTC 93-28, FSU-SCRI-93-161. The postscript
+  file, including 12 figures, is available via anonymous ftp from
+  ftp.scri.fsu.edu in /pub/jorgep/magic.ps","Phys.Rev.C50:1137-1153,1994","10.1103/PhysRevC.50.1137",,"nucl-th hep-ph",,"  The quark exchange model is a simple realization of an adiabatic
+approximation to the strong-coupling limit of Quantum Chromodynamics (QCD): the
+quarks always coalesce into the lowest energy set of flux tubes. Nuclear matter
+is thus modeled in terms of its quarks. We wish to study the correlations
+imposed by total wavefunction antisymmetry when color degrees of freedom are
+included. To begin with, we have considered one-dimensional matter with a
+$SU(2)$ color internal degree of freedom only. We proceed by constructing a
+totally antisymmetric, color singlet {\it Ansatz} characterized by a
+variational parameter $\lambda$ (which describes the length scale over which
+two quarks in the system are clustered into hadrons) and by performing a
+variational Monte Carlo calculation of the energy to optimize $\lambda$ for a
+fixed density. We calculate the $q-q$ correlation function as well, and discuss
+the qualitative differences between the system at low and high density.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 19:25:05 GMT""}]","2008-11-26"

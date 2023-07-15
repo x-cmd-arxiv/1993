@@ -1,0 +1,268 @@
+"astro-ph/9310045",,"R. A. Frewin, A. G. Polnarev and P. Coles","Gravitational Waves and the Polarisation of the Cosmic Microwave
+  Background","5 pages, LaTex, QMW-astro-ph/yymmnnn","Mon.Not.Roy.Astron.Soc. 266 (1994) L21","10.1093/mnras/266.1.L21",,"astro-ph",,"  We discuss the influence of gravitational waves (GWs) upon the polarisation
+of the Cosmic Microwave Background Radiation (CMBR). We show how to compute the
+{\em rms} temperature anisotropy and polarisation of the CMBR induced by GWs of
+arbitrary wavelength. We find that the ratio of polarisation, $\Pi$, to
+anisotropy, $A$, can be as large as $\sim 40$\%, but is sensitively dependent
+upon the GW spectrum and the cosmological ionisation history. We argue that
+CMBR polarisation measurements can provide useful constraints on cosmological
+models.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 22:09:00 GMT""}]","2016-06-08"
+"astro-ph/9310046","Wayne Hu","Wayne Hu and Naoshi Sugiyama","The Small Scale Integrated Sachs-Wolfe Effect","6 pages, compressed uuencoded postscript, CfPA-TH-93-36","Phys.Rev.D50:627-631,1994","10.1103/PhysRevD.50.627",,"astro-ph",,"  The integrated Sachs-Wolfe effect (ISW) can be an important factor in the
+generation of Cosmic Microwave Background anisotropies on all scales,
+especially in a reionized curvature or lambda dominated universe. We present an
+analytic treatment of the ISW effect, which is analogous to thick last
+scattering surface techniques for the Doppler effect, that compares quite well
+with the full numerical calculations. The power spectrum of temperature
+fluctuations due to the small scale ISW effect has wave number dependence
+k^{-5} times that of the matter power spectrum.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 23:13:16 GMT""}]","2009-07-17"
+"astro-ph/9310047",,"Diego Molteni, G. Lanzafame and S. K. Chakrabarti","Simulation of Thick Accretion Disks with Standing Shocks by Smoothed
+  Particle Hydrodynamics","LaTeX, 16 pages, Astrophysical Journal (in press)",,"10.1086/173972",,"astro-ph",,"  We present results of numerical simulation of inviscid thick accretion disks
+and wind flows around black holes. We use Smoothed Particle Hydrodynamics (SPH)
+technique for this purpose. Formation of thick disks are found to be preceded
+by shock waves travelling away from the centrifugal barrier. For a large range
+of the parameter space, the travelling shock settles at a distance close to the
+location obtained by a one-and-a-half dimensional model of inviscid accretion
+disks. Occasionally, it is observed that accretion processes are aided by the
+formation of oblique shock waves, particularly in the initial transient phase.
+The post-shock region (where infall velocity suddenly becomes very small)
+resembles that of the usual model of thick accretion disk discussed in the
+literature, though they have considerable turbulence. The flow subsequently
+becomes supersonic before falling into the black hole. In a large number of
+cases which we simulate, we find the formation of strong winds which are hot
+and subsonic when originated from the disk surface very close to the black hole
+but become supersonic within a few tens of the Schwarzschild radius of the
+blackhole. In the case of accretion of high angular momentum flow, very little
+amount of matter is accreted directly onto the black hole. Most of the matter
+is, however, first squeezed to a small volume close to the black hole, and
+subsequently expands and is expelled as a strong wind. It is quite possible
+that this expulsion of matter and the formation of cosmic radio jets is aided
+by the shock heating in the inner parts of the accretion disks.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 07:48:00 GMT""}]","2009-10-22"
+"cond-mat/9310062",,"Alex Kamenev and Daniel Braun","Single Level Current and Curvature Distributions in Mesoscopic Systems","20 pages, RevTex 3.0, WIS-93/96/Sept.-PH",,"10.1051/jp1:1994183",,"cond-mat",,"  Exact analytic results for single level current and curvature distribution
+functions are derived in a framework of a $2\times 2$ random matrix model.
+Current and curvature are defined as the first and second derivatives of energy
+with respect to a time--reversal symmetry breaking parameter (magnetic flux).
+The applicability of the obtained distributions for the spectral statistic of
+disordered metals is discussed. The most surprising feature of our results is
+the divergence of the second and higher moments of the curvature at zero flux.
+It is shown that this divergence also appears in the general $N\times N$ random
+matrix model. Furthermore, we find an unusual logarithmic behavior of the two
+point current--current correlation function at small flux.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 17:51:08 GMT""}]","2009-10-22"
+"cond-mat/9310063","Torbjorn Einarsson","Ann Mattsson, Per Fr\""ojdh and Torbj\""orn Einarsson","Frustrated Honeycomb Heisenberg Antiferromagnet: A Schwinger Boson
+  Approach","14 pages, RevTeX 3.0. G\""oteborg ITP 93-36. Seven figures (not
+  included) can be ordered from Ann Mattsson (tfkam@fy.chalmers.se)",,"10.1103/PhysRevB.49.3997",,"cond-mat",,"  We analyze the frustrated Heisenberg antiferromagnet defined on a honeycomb
+lattice using a Schwinger-boson mean-field theory. The spin-wave velocity and
+the susceptibility are presented as functions of the strength of the
+frustrating interaction for spin S=1/2, and the dynamic structure factor is
+calculated for various temperatures and frustrations. For large S, we find an
+increased Neel stability with respect to the classical case.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 10:04:43 GMT""}]","2009-10-22"
+"gr-qc/9310036","Dr. Norman J. LaFave","Norman J. LaFave","A Step Toward Pregeometry I.: Ponzano-Regge Spin Networks and the Origin
+  of Spacetime Structure in Four Dimensions","57 pages + 20 shar'ed, uuencoded, compressed eps figures, no local
+  preprint number",,,,"gr-qc hep-lat hep-th",,"  In this paper, a candidate for pregeometry, Ponzano-Regge spin networks, will
+be examined in the context of the pregeometric philosophy of Wheeler. Ponzano
+and Regge were able to construct a theory for 3-dimensional quantum gravity
+based on 3nj-symbols, obtaining the path integral over the metric in the
+semiclassical limit. However, extension of this model to 4-dimensions has
+proven to be difficult. It will be shown that the building blocks for
+4-dimensional spacetime are already present in the Ponzano-Regge formalism
+using a reinterpretation of the theory based on the pregeometric hypotheses of
+Wheeler.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 19:38:00 GMT""},{""version"":""v2"",""created"":""Tue, 26 Oct 1993 20:16:00 GMT""},{""version"":""v3"",""created"":""Tue, 26 Oct 1993 20:27:00 GMT""}]","2009-09-25"
+"gr-qc/9310037","Cangemi","Daniel Cangemi","2-D Gravity as Gauge Theories with Extended Groups","10 pp, no figs., UCLA/93/TEP/37","Adv. Appl. Cliff. Alg. (Proc. Suppl.) 4 (1994) 193",,,"gr-qc hep-th",,"  The interaction of matter with gravity in two dimensional spacetimes can be
+supplemented with a geometrical force analogous to a Lorentz force produced on
+a surface by a constant perpendicular magnetic field. In the special case of
+constant curvature, the relevant symmetry does not lead to the de Sitter or the
+Poincar\'e algebra but to an extension of them by a central element. This
+richer structure suggests to construct a gauge theory of 2-D gravity that
+reproduces the Jackiw-Teitelboim model and the string inspired model. Moreover
+matter can be coupled in a gauge invariant fashion. Classical and quantized
+results are discussed. Based on a talk given at the XXIIIth International
+Conference on Differential Geometric Methods in Theoretical Physics. Ixtapa,
+Mexico. September 1993.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 21:09:28 GMT""}]","2007-05-23"
+"gr-qc/9310038",,"Carlos O. Escobar, Lea Ferreira dos Santos, and Paulo C. Marques","Quantum Limits for Measurements on Macroscopic Bodies : A Decoherence
+  Analysis","(e-mail : pacmarques@if.usp.br ) , 8 pages of output, RevTeX file ,
+  preprint IFUSP/P-1048 (Universidade de Sao Paulo), (revised version accepted
+  for publication in the Physical Review A)",,"10.1103/PhysRevA.50.1913",,"gr-qc cond-mat hep-th",,"  We consider in this paper the quantum limits for measurements on macroscopic
+bodies which are obtained in a novel way employing the concept of decoherence
+coming from an analysis of the quantum mechanics of dissipative systems. Two
+cases are analysed, the free mass and the harmonic oscillator, and for both
+systems we compare our approach with previous treatments of such limits.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 07:00:20 GMT""},{""version"":""v2"",""created"":""Fri, 10 Dec 1993 11:42:39 GMT""},{""version"":""v3"",""created"":""Wed, 1 Jun 1994 21:53:24 GMT""}]","2009-10-22"
+"hep-lat/9310028",,"Paolo Provero and Stefano Vinti","Capillary Wave Approach to Order-Order Fluid Interfaces in the 3D
+  Three-State Potts Model","Latex file, 12 pages, 4 ps figures enclosed + 2 figures available on
+  request","Physica A211 (1994) 436","10.1016/0378-4371(94)00191-X","TPI-MINN-93/46-T, CBPF-NF-058/93, DFTT 58/93","hep-lat cond-mat hep-th",,"  The physics of fluid interfaces between domains of different magnetization in
+the ordered phase of the 3D three-state Potts model is studied by means of a
+Monte Carlo simulation. It is shown that finite--size effects in the interface
+free energy are well described by the capillary wave model at two loop order,
+supporting the idea of the universality of this description of fluid interfaces
+in 3D statistical models.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 23:56:26 GMT""}]","2009-10-22"
+"hep-ph/9310352","Carlo Giunti","S.M. Bilenky and C. Giunti","Neutrino Mixing and Future Solar Neutrino Experiments","3 pages. Compressed postscript file. If you prefer the uncompressed
+  postscript file or a hardcopy of the paper, please write to
+  GIUNTI@TO.INFN.IT. Talk presented by S.M. Bilenky at TAUP93. DFTT 66/93","Nucl.Phys.Proc.Suppl. 35 (1994) 430-432","10.1016/0920-5632(94)90297-6",,"hep-ph",,"  Possibilities of a model independent treatment of the data from future
+real-time solar neutrino experiments (SNO, Super-Kamiokande and others) are
+discussed. It is shown that in the general case of transitions of the initial
+solar $\nu_e$'s into $\nu_\mu$ and/or $\nu_\tau$ the total flux of initial 8B
+neutrinos and the $\nu_e$ survival probability can be determined directly from
+the experimental data. Lower bounds for the probability of transition of solar
+$\nu_e$'s into all possible sterile states are derived and expressed through
+measurable quantities.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 18:21:09 GMT""}]","2009-10-22"
+"hep-ph/9310353","Torma Tibor","John F. Donoghue and Tibor Torma","The reactions \gwl\ and \gzl\ in $SU(N)$ strongly interacting theories","25 LaTeX pages (incl. 10 figures on 7 pages, also in plain LaTeX,
+  also available from the authors in PostScript form via regular E_mail),
+  UMHEP-398","Nucl.Phys. B424 (1994) 399-417","10.1016/0550-3213(94)90300-X",,"hep-ph",,"  Building on recent phenomenology of \gpi, we discuss the expectation for two
+photon production of longitudinal gauge boson pairs in $SU(N)$ technicolor
+theories. The treatment involves a matching of dispersive techniques with the
+methodology of chiral perturbation theory.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 21:59:24 GMT""}]","2009-10-22"
+"hep-ph/9310354","Poul H. Damgaard","P.H. Damgaard, H.B. Nielsen and R. Sollacher","Collective Fields for QCD","LaTeX, 12 pages, CERN--TH-7035/93",,,,"hep-ph",,"  A gauge-symmetric approach to effective Lagrangians is described with special
+emphasis on derivations of effective low-energy Lagrangians from QCD. The
+examples we discuss are based on exact rewritings of cut-off QCD in terms of
+new collective degrees of freedom. These cut-off Lagrangians are thus
+``effective'' in the sense that they explicitly contain some of the physical
+long-distance degrees of freedom from the outset.(Talk presented by P.H.
+Damgaard at the workshop on ``Quantum Field Theoretical Methods in High Energy
+Physics'', Kyffhauser, Germany, Sept. 1993. To appear in those proceedings).
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 09:34:14 GMT""}]","2007-05-23"
+"hep-ph/9310355","Joaquim Prades","Johan Bijnens and Joaquim Prades","Anomalies, VMD and the Enjl Model","8 pages, plain LaTeX, preprint NORDITA - 93/69 N,P and NBI-93-60","Phys.Lett.B320:130-134,1994","10.1016/0370-2693(94)90835-4",,"hep-ph nucl-th",,"  We show how the effective action of the Extended Nambu--Jona-Lasinio model
+(ENJL) can be defined in the presence of anomalies in a way that reproduces the
+flavour anomaly. This necessarily breaks Vector Meson Dominance (VMD) in the
+usual sense. The same method can be used to construct other chiral effective
+theories involving constituent quarks and spin-1 mesons that give the correct
+flavour anomaly. We also comment on how standard VMD is the root of this
+problem and those observed by previous authors in implementing VMD in the
+anomalous sector.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 09:53:36 GMT""}]","2011-03-31"
+"hep-ph/9310357","Vladimir Braun","V.M Braun","Deep Inelastic Scattering Beyond Perturbation Theory","Talk given at the Leipzig workshop on High Energy Physics,
+  Kyffhaeuser, September 20-24,1993, LATEX, 12 pages, 3 figures included as
+  uu-encoded file, MPI-Ph/93-78",,,,"hep-ph",,"  I discuss possibilities to observe the instanton-induced contributions to
+deep inelastic scattering which correspond to nonperturbative exponential
+corrections to the coefficient functions in front of parton distributions of
+the leading twist.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 11:25:33 GMT""}]","2007-05-23"
+"hep-ph/9310358","Georg Weiglein","G. Weiglein, R. Scharf, M. B\""ohm","Reduction of general two-loop self-energies to standard scalar integrals","LaTex, 32 pages, (+ 7 figures available from the authors as
+  ps-files), to appear in Nuclear Physics B","Nucl.Phys. B416 (1994) 606-644","10.1016/0550-3213(94)90325-5",,"hep-ph",,"  We present a method for reducing general two-loop self-energies to standard
+scalar integrals in massive gauge theories with special emphasis on the
+electroweak Standard Model. It includes the tensor integral reduction for all
+two-loop integrals appearing in self-energy calculations. The results are valid
+for arbitrary values of the invariant momentum $p^2$, all particle masses, the
+space-time dimension $D$ and the gauge parameters $\xi _i \; (i = \gamma , Z,
+W)$. The algebraic structure of the results clearly displays the gauge
+dependence of the considered quantities and allows to perform very stringent
+checks. We explicitly verify Slavnov-Taylor identities by calculating several
+thousand Feynman-diagrams and adding them up algebraically. As an application
+we calculate the light fermion contributions to the two-loop gauge boson
+self-energies of the electroweak SM. We study their gauge dependence and
+discuss the occurring standard integrals.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 11:33:50 GMT""}]","2009-10-22"
+"hep-ph/9310359",,"M. Anselmino and F. Murgia","$\chi_{c2} \to \rho\rho$ Decay and the $\rho$ Polarization in Inclusive
+  Processes: A Test of Mass Effects","8 pages, Plain TeX, 5 figures (postscript files added as uuencoded
+  tar-compressed file), report DFTT 63/93","Phys.Rev. D50 (1994) 2321-2324","10.1103/PhysRevD.50.2321",,"hep-ph",,"  We compute the helicity density matrix of $\rho$ vector mesons produced in
+the two-body decays of $\chi_{c2}$'s in the framework of perturbative QCD,
+allowing for mass corrections. The $\chi_{c2}$'s are inclusively produced in
+hadronic interactions via gluon fusion and are shown to be strongly polarized.
+Both the case in which the light quarks inside the final mesons are treated as
+massless current quarks and the case in which they are seen as constituent
+massive ones are considered. Our results show significant differences between
+the two cases; the measurement of the $\rho$ helicity density matrix should
+allow a test of the importance of these mass effects.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 10:46:06 GMT""}]","2009-10-22"
+"hep-ph/9310360","Adam Falk","Adam F. Falk","Recent Developments in the Theory of Heavy Quarks","15 pages, uses harvmac, to appear in the Proceedings of the Advanced
+  Study Conference on Heavy Flavours, Pavia, Italy, September 3-7, 1993 (one
+  equation changed)",,,,"hep-ph",,"  Recent developments in the theory of heavy quarks are reviewed. In the area
+of heavy quark fragmentation, there has been progress in the study of both
+pertubative and nonperturbative processes, including the identification of new
+observable nonperturbative fragmentation parameters. There has also been
+considerable theoretical activity in the study of inclusive rare and
+semileptonic decays of bottom hadrons.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 10:05:25 GMT""},{""version"":""v2"",""created"":""Fri, 29 Oct 1993 17:22:09 GMT""}]","2008-02-03"
+"hep-ph/9310361","JoAnne Hewett","J. Hewett, T. Rizzo, S. Pakvasa, H. Haber, and A. Pomarol","Vector Leptoquark Production at Hadron Colliders","8 pg (including 5 figures, available by request to hewett@anlhep),
+  ANL-HEP-CP-93-52, UH-511-775-93, SCIPP-93/36",,,,"hep-ph",,"  We explore the production of vector leptoquarks ($V$) at the Tevatron, LHC,
+and SSC through both quark-antiquark and gluon fusion: $q \bar q, gg \to VV$.
+The cross sections are found to be somewhat larger than for scalar leptoquarks
+of the same mass implying enhanced search capabilities. Contributed to the
+Workshop on Physics at Current Accelerators and the Supercollider, Argonne
+National Lab, June 1993.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 13:56:46 GMT""}]","2007-05-23"
+"hep-th/9310172",,"Asim Gangopadhyaya, Prasanta K. Panigrahi, and Uday P. Sukhatme","Inter-Relations of Solvable Potentials","6 pages, LATEX file. A figure available from authors on request","Helv. Phys. Acta 67 (1994) 363-368",,,"hep-th",,"  Solvable Natanzon potentials in nonrelativistic quantum mechanics are known
+to group into two disjoint classes depending on whether the Schr\""odinger
+equation can be reduced to a hypergeometric or a confluent hypergeometric
+equation. All the potentials within each class are connected via point
+canonical transformations. We establish a connection between the two classes
+with appropriate limiting procedures and redefinition of parameters, thereby
+inter-relating all known solvable potentials.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 18:41:07 GMT""}]","2009-09-25"
+"hep-th/9310173","Berndt Mueller","L.C. Biedenharn, B. Mueller, and M. Tarlini","The Dirac-Coulomb Problem for the $\kappa$-Poincare Quantum Group","7 pages, LaTeX, special style file `eqpersec.sty' included
+  separately, DUKE-TH-93-59","Phys.Lett. B318 (1993) 613-616","10.1016/0370-2693(93)90462-Q",,"hep-th",,"  The recently introduced $\kappa$-Poincare-Dirac equation is gauged to treat
+the $\kappa$-Dirac-Coulomb problem. For the resulting equation, we prove that
+the perturbation to first order in the quantum group parameter vanishes
+identically. The second order perturbation is singular, but assuming a
+heuristic cut-off allows a qualitative estimate of the quantum group parameter.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 19:03:13 GMT""}]","2009-10-22"
+"hep-th/9310174","Malik Rakhmanov","Malik Rakhmanov","Dilaton Black Holes with Electric Charge","20 pages, LaTeX file + 1 figure, CALT-68-1885. (the postscript file
+  is improved)","Phys.Rev.D50:5155-5163,1994","10.1103/PhysRevD.50.5155",,"hep-th",,"  Static spherically symmetric solutions of the Einstein-Maxwell gravity with
+the dilaton field are described. The solutions correspond to black holes and
+are generalizations of the previously known dilaton black hole solution. In
+addition to mass and electric charge these solutions are labeled by a new
+parameter, the dilaton charge of the black hole. Different effects of the
+dilaton charge on the geometry of space-time of such black holes are studied.
+It is shown that in most cases the scalar curvature is divergent at the
+horizons. Another feature of the dilaton black hole is that there is a finite
+interval of values of electric charge for which no black hole can exist.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 20:34:18 GMT""},{""version"":""v2"",""created"":""Wed, 3 Nov 1993 07:53:47 GMT""}]","2008-11-26"
+"hep-th/9310175","Lloyd Alty","Lloyd Alty and Andrew Chamblin","Spin Structures on Kleinian Manifolds","8 pages","Class.Quant.Grav.11:2411-2416,1994","10.1088/0264-9381/11/10/003","DAMTP R93/28","hep-th gr-qc math.DG math.GT",,"  We derive the topological obstruction to spin-Klein cobordism. This result
+has implications for signature change in general relativity, and for the $N=2$
+superstring.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 21:17:00 GMT""}]","2010-04-06"
+"hep-th/9310176","Lev Vaidman","Lev Vaidman","Elements of Reality and the Failure of the Product Rule Measurability of
+  Commuting Observables","12 pages, for Proceedings of SFMP, Cologne 1993#",,,,"hep-th",,"  The concept of ``elements of reality"" is analyzed within the framework of
+quantum theory. It is shown that elements of reality fail to fulfill the
+product rule. This is the core of recent proofs of the impossibility of a
+Lorentz-invariant interpretation of quantum mechanics. A generalization and
+extension of the concept of elements of reality is presented.
+Lorentz-invariance is restored by giving up the product rule. The consequences
+of giving up the ``and"" rule, which must be abandoned together with the product
+rule, are discussed.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 06:58:57 GMT""}]","2007-05-23"
+"hep-th/9310177","Martin Cederwall","Martin Cederwall","A Note on the Relation between Different Forms of Superparticle
+  Dynamics'","Goeteborg-ITP-93-33. 3 pages. Phyzzx macropackage needed","Mod.Phys.Lett. A9 (1994) 967","10.1142/S0217732394000800",,"hep-th",,"  A formulation of $D\is 10$ superparticle dynamics is given that contain
+space-time and twistor variables. The set of constraints is entirely first
+class, and gauge conditions may be imposed that reduces the system to a
+Casalbuoni-Brink-Schwarz superparticle, a spinning particle or a twistor
+particle.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 07:59:17 GMT""}]","2015-06-26"
+"hep-th/9310178",,"Yasumasa Imamura","Supercurrents on Asymmetric Orbifolds","7 pages, Latex, KOBE-TH-93-08","Prog.Theor.Phys.91:591-598,1994","10.1143/PTP.91.591",,"hep-th",,"  We study $E_8 \times E_8$-heterotic string on asymmetric orbifolds associated
+with semi-simple simply-laced Lie algebras. Using the fact that $E_6$-model
+allows different twists, we present a new N=1 space-time supersymmetric model
+whose supercurrent appears from twisted sectors but not untwisted sector.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 09:28:22 GMT""}]","2010-11-01"
+"hep-th/9310179",,"O. Moritsch, M. Schweda and S. P. Sorella","Algebraic structure of Gravity with Torsion","22 pages, report REF. TUW. 93-24","Class.Quant.Grav.11:1225-1242,1994","10.1088/0264-9381/11/5/010",,"hep-th",,"  The BRS transformations for gravity with torsion are discussed by using the
+Maurer-Cartan horizontality conditions. With the help of an operator $\d$ which
+allows to decompose the exterior space-time derivative as a BRS commutator we
+solve the Wess-Zumino consistency condition corresponding to invariant
+Lagrangians and anomalies.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 09:59:22 GMT""}]","2010-04-06"
+"hep-th/9310180",,"Nobuyoshi Ohta and Hisao Suzuki","Bosonization of a Topological Coset Model and Non-Critical String Theory","9 pages, latex file, OS-GE 37-93, A footnote and a few references are
+  added","Mod.Phys.Lett. A9 (1994) 541-548","10.1142/S0217732394003774",,"hep-th",,"  We analyze the relation between a topological coset model based on super
+$SL(2,R)/U(1)$ coset and non-critical string theory by using free field
+realization. We show that the twisted $N=2$ algebra of the coset model can be
+naturally transformed into that of non-critical string. The screening operators
+of the coset models can be identified either with those of the minimal matters
+or with the cosmological constant operator. We also find that another screening
+operator, which is intrinsic in our approach, becomes the BRST nontrivial state
+of ghost number $0$ (generator of the ground ring for $c=1$ gravity).
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 10:41:30 GMT""},{""version"":""v2"",""created"":""Wed, 22 Dec 1993 09:46:01 GMT""}]","2009-10-22"
+"hep-th/9310181",,"A. Cappelli, C. A. Trugenberger and G. R. Zemba","Classification of Quantum Hall Universality Classes by $\ W_{1+\infty}\
+  $ symmetry","11 pages, RevTeX 3.0, MPI-Ph/93-75 DFTT 65/93","Phys.Rev.Lett. 72 (1994) 1902-1905","10.1103/PhysRevLett.72.1902",,"hep-th cond-mat",,"  We show how two-dimensional incompressible quantum fluids and their
+excitations can be viewed as $\ W_{1+\infty}\ $ edge conformal field theories,
+thereby providing an algebraic characterization of incompressibility. The
+Kac-Radul representation theory of the $\ W_{1+\infty}\ $ algebra leads then to
+a purely algebraic complete classification of hierarchical quantum Hall states,
+which encompasses all measured fractions. Spin-polarized electrons in
+single-layer devices can only have Abelian anyon excitations.
+","[{""version"":""v1"",""created"":""Wed, 27 Oct 1993 13:59:47 GMT""}]","2009-10-22"

@@ -1,0 +1,141 @@
+"astro-ph/9309029","Karl Fisher","Karl B. Fisher","A Spherical Harmonic Approach to Redshift Distortion: Implications for
+  $\Omega$ and the Power Spectrum","Paris Conference--9 pages--uuencoded postscript file, IOA9-20",,,,"astro-ph",,"  We examine the nature of galaxy clustering in redshift space using a method
+based on an expansion of the galaxian density field in Spherical Harmonics and
+linear theory. We derive a compact and self-consistent expression for the
+distortion when applied to flux limited redshift surveys. The amplitude of the
+distortion is controlled by the combination of the density and bias parameters,
+$\beta\equiv\Omega_\circ^{0.6}/b$ as well as the shape of the real space power
+spectrum, $P(k)$ (characterized by a shape parameter $\Gamma$), and its
+normalization, $\sigma_8$; we exploit this fact to derive a maximum likelihood
+estimator for $\beta$, $\Gamma$, and $\sigma_8$. We check our formalism using
+$N$-body simulations and demonstrate it provides an unbiased estimate of
+$\beta$ when the amplitude and shape of the galaxy power spectrum is known.
+Application of the technique to the 1.2 Jy \iras\ redshift survey yields $\beta
+=0.94\pm 0.17$ and $\Gamma=0.17\pm0.05$ (1-$\sigma$) when $\sigma_8$ is held
+fixed at its best value as determined from the real space correlation function.
+Allowing $\sigma_8$ to be a free parameter, we find $\beta=0.47\pm 0.25$,
+$\Gamma=0.15\pm0.05$, and $\sigma_8=0.81\pm0.06$.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 08:37:00 GMT""}]","2007-05-23"
+"astro-ph/9309030","Karl Fisher","Ofer Lahav","Spherical Harmonic Reconstruction of Cosmic Density and Velocity Fields","Paris Conference 10 pages uuencoded postscript file- figures
+  available upon request",,,,"astro-ph",,"  The orthonormal set of Spherical Harmonics provides a natural way of
+expanding whole sky redshift and peculiar velocity surveys.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 08:42:00 GMT""}]","2009-09-25"
+"astro-ph/9309031","Karl Fisher","Caleb. A. Scharf","Cosmological Parameters from Spherical Harmonic Analyses","Paris Conference 2 pages uuencoded postscript file- figure available
+  upon request",,,,"astro-ph",,"  In the rest of this volume Lahav and Fisher have presented the method of
+Spherical Harmonic Analysis (SHA) and its use in estimating cosmologically
+interesting parameters. Here I demonstrate the use of SHA in cross-correlating
+galazy catalogues and present an estimate of the ratio of the optical and IRAS
+galaxy bias parameters; b_O/b_I ~ 1.7.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 08:46:00 GMT""}]","2007-05-23"
+"cond-mat/9309026","Steven C. Erwin","Steven C. Erwin and Christoph Bruder","Do the A4c60 Fullerides Have a Broken-Symmetry Ground State?","9 pages + 3 figures, REVTeX 3.0",,"10.1016/0921-4526(94)91917-8",,"cond-mat",,"  Band theory predicts both K3C60 and K4C60 to be metals; various experimental
+probes show that while K3C60 is indeed metallic, K4C60 appears to be
+insulating. The standard view of this apparent failure of the single-particle
+picture is that electron correlation is predominant. We describe an alternative
+scenario, motivated on theoretical grounds, which invokes a spin- or
+charge-density-wave state to explain the observed insulating behavior.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 14:46:29 GMT""}]","2009-10-22"
+"cond-mat/9309027","Steven C. Erwin","M.S. Deshpande, S.C. Erwin, S. Hong, and E.J. Mele","Effective-Medium Theory for the Normal State in Orientationally
+  Disordered Fullerides","12 pages + 2 figures, REVTeX 3.0",,"10.1103/PhysRevLett.71.2619",,"cond-mat",,"  An effective-medium theory for studying the electronic structure of the
+orientationally disordered A3C60 fullerides is developed and applied to study
+various normal-state properties. The theory is based on a cluster-Bethe-lattice
+method in which the disordered medium is modelled by a three-band Bethe
+lattice, into which we embed a molecular cluster whose scattering properties
+are treated exactly. Various single-particle properties and the
+frequency-dependent conductivity are calculated in this model, and comparison
+is made with numerical calculations for disordered lattices, and with
+experiment.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 14:53:37 GMT""}]","2009-10-22"
+"hep-ph/9309288","Miriam Leurer","Miriam Leurer (Weizmann Institute)","New Bounds on Leptoquarks","6 Pages (LaTeX), including 3 uufiled postscript figures.
+  WIS-93/89/Sept-PH. (Contributed talk at the 5th International Symposium on
+  Heavy Flavour Physics, McGill University, July 6-10, 1993.)",,,,"hep-ph",,"  We show that FCNC processes are unavoidable for leptoquarks that couple to
+left handed quarks, and derive new FCNC bounds from neutral meson mixing.
+Despite being induced only at one loop, these processes lead to significant
+bounds since the leptoquark contributions do not suffer from GIM cancellations.
+Studying the implications of these bounds we find that (i) The D-Dbar mixing
+bound is the first significant FCNC bound from the up sector. Combining it with
+FCNC bounds from the down sector we arrive at a bound on the first generation
+couplings. (ii) The K-Kbar and D-Dbar mixings bound g^2/M while all other
+processes bound g/M. The combined neutral meson mixing bound is therefore
+dominant for the heavier leptoquarks, and leads to exclusion of large regions
+in parameter space which were previously allowed.
+","[{""version"":""v1"",""created"":""Sun, 19 Sep 1993 17:10:45 GMT""}]","2007-05-23"
+"hep-ph/9309289","Raju","Larry McLerran and Raju Venugopalan","Computing Quark and Gluon Distribution Functions for Very Large Nuclei","TPI--MINN--93--44/T, NUC--MINN--93--24/T, HEP--MINN--1220/93, LaTeX,
+  26 pages","Phys.Rev.D49:2233-2241,1994","10.1103/PhysRevD.49.2233",,"hep-ph nucl-th",,"  We argue that the distribution functions for quarks and gluons are computable
+at small x for sufficiently large nuclei, perhaps larger than can be physically
+realized. For such nuclei, we argue that weak coupling methods may be used. We
+show that the computation of the distribution functions can be recast as a many
+body problem with a modified propagator, a coupling constant which depends on
+the multiplicity of particles per unit rapidity per unit area, and for
+non-abelian gauge theories, some extra media dependent vertices. We explicitly
+compute the distribution function for gluons to lowest order, and argue how
+they may be computed in higher order.
+","[{""version"":""v1"",""created"":""Sun, 19 Sep 1993 22:39:13 GMT""}]","2011-05-05"
+"hep-ph/9309290","Ken-ichiro Aoki","Kenichiro Aoki","Large--order behavior of non--decoupling effects and triviality","7pages, TIT/HEP-235, harvmac","Phys.Rev.D49:1167-1170,1994","10.1103/PhysRevD.49.1167",,"hep-ph",,"  We compute some non--decoupling effects in the standard model, such as the
+$\rho$ parameter, to all orders in the coupling constant expansion. We analyze
+their large order behavior and explicitly show how it is related to the
+non--perturbative cutoff dependence of these non--decoupling effects due to the
+triviality of the theory.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 06:27:42 GMT""}]","2009-12-30"
+"hep-ph/9309291",,"G. Nardulli","Theoretical Approaches to $B \to K^* \gamma$","6pp, Latex, BARI-TH/93-156",,,,"hep-ph",,"  We describe two recent theoretical calculations of the $B \to K^* \gamma$
+decay. The first method is based on an effective lagrangian incorporating
+chiral symmetry for the light degrees of freedom and the heavy quark
+spin-flavor symmetries for the heavy quarks. Using these symmetries, together
+with the hypothesis of polar q$^2$ dependence of the semileptonic form factors,
+one is able to relate $B \to K^* \gamma$ and $D \to K^* \ell \nu$ decays with
+the result $ R \, =\, \Gamma(B \to K^* \gamma) / \Gamma(b \to s \gamma) = 0.09
+\pm 0.03$. The second method is based on 3-point function QCD sum rules and
+gives the result $ R \, = \, 0.17 \pm 0.05$. Both results are in reasonable
+agreement with recent data from the CLEO II Collaboration.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 12:29:00 GMT""}]","2007-05-23"
+"hep-ph/9309292","Maggie Best","John N. Bahcall","The Central Temperature of the Sun can be Measured via the $^7$Be Solar
+  Neutrino Line","RevTeX file, 9 pages. For hardcopy with figure, send to
+  BEST@SNS.IAS.EDU. Institute for Advanced Study number AST 93/41","Phys.Rev.Lett. 71 (1993) 2369-2371","10.1103/PhysRevLett.71.2369",,"hep-ph astro-ph nucl-th",,"  A precise test of the theory of stellar evolution can be performed by
+measuring the difference in average energy between the neutrino line produced
+by ${\rm ^7Be}$ electron capture in the solar interior and the corresponding
+neutrino line produced in a terrestrial laboratory. The high temperatures in
+the center of the sun broaden the line asymmetrically, FWHM = 1.6~keV, and
+cause an average energy shift of 1.3~keV. The width of the $^7$Be neutrino line
+should be taken into account in calculations of vacuum neutrino oscillations.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 13:18:32 GMT""}]","2009-10-22"
+"hep-ph/9309293",,"W.A. Bardeen, M. Carena, S. Pokorski and C.E.M. Wagner","Infrared Fixed Point Solution for the Top Quark Mass and Unification of
+  Couplings in the MSSM","11 pages, 3 figures (not included), MPI-Ph/93-58","Phys.Lett.B320:110-116,1994","10.1016/0370-2693(94)90832-X",,"hep-ph",,"  We analyze the implications of the infrared quasi fixed point solution for
+the top quark mass in the Minimal Supersymmetric Standard Model. This solution
+could explain in a natural way the relatively large value of the top quark mass
+and, if confirmed experimentally, may be suggestive of the onset of
+nonperturbative physics at very high energy scales. In the framework of grand
+unification, the expected bottom quark - tau lepton Yukawa coupling unification
+is very sensitive to the fixed point structure of the top quark mass. For the
+presently allowed values of the electroweak parameters and the bottom quark
+mass, the Yukawa coupling unification implies that the top quark mass must be
+within ten percent of its fixed point values.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 15:37:31 GMT""}]","2008-11-26"
+"hep-ph/9309297",,"Alexandr Andrianov and Vladimir Andrianov","Effective Fermion Models in Symmetry-Breaking Phase and Quantum
+  Chromodynamics","13 pages, LaTeX, Talk at ISS '93 - Hadrons and Nuclei from QCD
+  (Vladivostok - Sapporo)",,,,"hep-ph",,"  In our lecture we discuss the fermion models with quasilocal interaction
+implemented by derivatives and a momentum cutoff as substitutes of QCD at low
+energies. They are investigated in the strong coupling regime when several
+coupling constants are matched to their critical values. It is found that
+around polycritical points there appear a number of resonances with the same
+quantum numbers. Respectively the particular change of enviroment caused by
+gluon condensate results in the mass splitting independent of the cutoff. Such
+models are supposed to be an essential ingredient in the description of quark
+matter at high baryon densities.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 15:27:36 GMT""}]","2007-05-23"
+"hep-th/9309103",,"S. Aoyama","Quantization of the topological $\sigma$-model and the master equation
+  of the BF formalism","12 pages, Plain TEX, KUL-TF-93/39","Mod.Phys.Lett. A9 (1994) 491-500","10.1142/S0217732394003725",,"hep-th",,"  We quantize the topological $\sigma$-model. The quantum master equation of
+the Batalin-Vilkovisky formalism $\Delta_\rho \Psi = 0$ appears as a condition
+which eliminates the exact states from the BRST invariant states $\Psi$ defined
+by $Q \Psi = 0$. The phase space of the BV formalism is a supermanifold with a
+specific symplectic structure, called the fermionic K\""ahler manifold.
+","[{""version"":""v1"",""created"":""Sun, 19 Sep 1993 18:43:46 GMT""}]","2015-06-26"
+"hep-th/9309105","Matthias R. Gaberdiel","M. Gaberdiel","Fusion rules of chiral algebras","23 pages, Latex, DAMTP-93-56 (minor corrections only)","Nucl.Phys. B417 (1994) 130-150","10.1016/0550-3213(94)90540-1",,"hep-th",,"  Recently (hep-th/9307183) we showed that for the case of the WZW- and the
+minimal models fusion can be understood as a certain ring-like tensor product
+of the symmetry algebra. In this paper we generalize this analysis to arbitrary
+chiral algebras. We define the tensor product of conformal field theory in the
+general case and prove that it is associative and symmetric up to equivalence.
+We also determine explicitly the action of the chiral algebra on this tensor
+product. In the second part of the paper we demonstrate that this framework
+provides a powerful tool for calculating restrictions for the fusion rules of
+chiral algebras. We exhibit this for the case of the $W_{3}$-algebra and the
+$N=1$ and $N=2$ NS superconformal algebras.
+","[{""version"":""v1"",""created"":""Mon, 20 Sep 1993 14:06:46 GMT""},{""version"":""v2"",""created"":""Sat, 4 Dec 1993 15:26:25 GMT""}]","2009-10-22"

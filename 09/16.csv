@@ -1,0 +1,291 @@
+"adap-org/9309001","Jim Lynch","James F. Lynch (Clarkson University)","On the Threshold of Chaos in Random Boolean Cellular Automata","Two uuencoded, tar-compressed postscript files containing figures
+  have been added",,,,"adap-org nlin.AO",,"  A random boolean cellular automaton is a network of boolean gates where the
+inputs, the boolean function, and the initial state of each gate are chosen
+randomly. In this article, each gate has two inputs. Let $a$ (respectively $c$)
+be the probability the the gate is assigned a constant function (respectively a
+non-canalyzing function, i.e., {\sc equivalence} or {\sc exclusive or}).
+Previous work has shown that when $a > c$, with probability asymptotic to 1,
+the random automaton exhibits very stable behavior: almost all of the gates
+stabilize, almost all of them are weak, i.e., they can be perturbed without
+affecting the state cycle that is entered, and the state cycle is bounded in
+size. This article gives evidence that the condition $a = c$ is a threshold of
+chaotic behavior: with probability asymptotic to 1, almost all of the gates are
+still stable and weak, but the state cycle size is unbounded. In fact, the
+average state cycle size is superpolynomial in the number of gates.
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 03:25:42 GMT""}]","2008-02-03"
+"astro-ph/9309022","Hume Feldman","Hume A. Feldman and Richard Watkins","Measuring Bulk Flows in Large Scale Surveys","9 pages, uuencode compressed postscript file. Proceedings of IAP
+  Colloq 9, ""Cosmological Velocity Fields"" ed. F Bouchet & M. Lachieze-Rey. UM
+  AC 93-10",,,,"astro-ph",,"  We follow a formalism presented by Kaiser to calculate the variance of bulk
+flows in large scale surveys. We apply the formalism to a mock survey of Abell
+clusters \'a la Lauer \& Postman and find the variance in the expected bulk
+velocities in a universe with CDM, MDM and IRAS--QDOT power spectra. We
+calculate the velocity variance as a function of the 1--D velocity dispersion
+of the clusters and the size of the survey.
+","[{""version"":""v1"",""created"":""Wed, 15 Sep 1993 19:09:52 GMT""}]","2007-05-23"
+"chao-dyn/9309005","T. Poeschel","Werner Ebeling, Thorsten P\""oschel","Entropy and Long range correlations in literary English","8 pages",,"10.1209/0295-5075/26/4/001","Preprint HU Berlin ITP--330","chao-dyn nlin.CD",,"  Recently long range correlations were detected in nucleotide sequences and in
+human writings by several authors. We undertake here a systematic investigation
+of two books, Moby Dick by H. Melville and Grimm's tales, with respect to the
+existence of long range correlations. The analysis is based on the calculation
+of entropy like quantities as the mutual information for pairs of letters and
+the entropy, the mean uncertainty, per letter. We further estimate the number
+of different subwords of a given length $n$. Filtering out the contributions
+due to the effects of the finite length of the texts, we find correlations
+ranging to a few hundred letters. Scaling laws for the mutual information
+(decay with a power law), for the entropy per letter (decay with the inverse
+square root of $n$) and for the word numbers (stretched exponential growth with
+$n$ and with a power law of the text length) were found.
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 01:19:48 GMT""}]","2009-10-22"
+"cond-mat/9309019",,"Achille Giacometti and Amos Maritan","Weak Non Self-Averaging Behaviour for Diffusion in a Trapping
+  Environment","11 pages, Revtex 3.0, 5 figures available upon request,
+  PURD-TH-93-02. Email:giacometti@padova.infn.it",,"10.1103/PhysRevE.49.227",,"cond-mat",,"  The statistics of equally weighted random paths (ideal polymer) is studied in
+$2$ and $3$ dimensional percolating clusters. This is equivalent to diffusion
+in the presence of a trapping environment. The number of $N$ step walks follows
+a log-normal distribution with a variance growing asymptotically faster than
+the mean which leads to a weak non self-averaging behaviour. Critical exponents
+associated with the scaling of the two-points correlation function do not obey
+standard scaling laws.
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 12:17:58 GMT""}]","2009-10-22"
+"cond-mat/9309020",,"Achille Giacometti and Hisao Nakanishi","A New Finite-Size Scaling Approach to Random Walks","26 pages, Revtex 3.0, 9 figures available upon request,
+  Email:giacometti@padova.infn.it PURD-TH-93-07",,"10.1088/0305-4470/27/7/009",,"cond-mat",,"  We present a new finite-size scaling method for the random walks (RW)
+superseeding a previously widely used renormalization group approach, which is
+shown here to be inconsistent. The method is valid in any dimension and is
+based on the exact solution for the two-point correlation function and on
+finite size scaling. As an application, the phase diagram is derived for random
+walks with a surface-bulk interaction where the system has either a surface or
+a defect. Possible extensions to disordered systems are also discussed.
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 14:10:59 GMT""}]","2009-10-22"
+"cond-mat/9309023","Enzo Granato","E. Granato and M.A. Continentino","Charging Effects and Quantum Crossover in Granular Superconductors","15 pages plus 4 fig. appended, Revtex, INPE/LAS-003","Phys. Rev. B48, 15977 (1993)","10.1103/PhysRevB.48.15977",,"cond-mat",,"  The effects of the charging energy in the superconducting transition of
+granular materials or Josephson junction arrays is investigated using a
+pseudospin one model. Within a mean-field renormalization-group approach, we
+obtain the phase diagram as a function of temperature and charging energy. In
+contrast to early treatments, we find no sign of a reentrant transition in
+agreement with more recent studies. A crossover line is identified in the
+non-superconducting side of the phase diagram and along which we expect to
+observe anomalies in the transport and thermodynamic properties. We also study
+a charge ordering phase, which can appear for large nearest neighbor Coulomb
+interaction, and show that it leads to first-order transitions at low
+temperatures. We argue that, in the presence of charge ordering, a non
+monotonic behavior with decreasing temperature is possible with a maximum in
+the resistance just before entering the superconducting phase.
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 13:12:33 GMT""}]","2009-10-22"
+"gr-qc/9309018","Jack Gegenberg","D. Louis- Martinez, J. Gegenberg, G. Kunstatter","Exact Dirac Quantization of All 2-D Dilaton Gravity Theories","11 pages, LateX, (Equations (36) and (37) have been corrected and the
+  discussion of them modified.)","Phys.Lett. B321 (1994) 193-198","10.1016/0370-2693(94)90463-4",,"gr-qc hep-th",,"  The most general dilaton gravity theory in 2 spacetime dimensions is
+considered. A Hamiltonian analysis is performed and the reduced phase space,
+which is two dimensional, is explicitly constructed in a suitable
+parametrization of the fields. The theory is then quantized via the Dirac
+method in a functional Schrodinger representation. The quantum constraints are
+solved exactly to yield the (spatial) diffeomorphism invariant quantum wave
+functional for all theories considered. This wave function depends explicitly
+on the (single) configuration space coordinate as well as on the imbedding of
+space into spacetime (i.e. on the choice of time).
+","[{""version"":""v1"",""created"":""Wed, 15 Sep 1993 18:43:22 GMT""},{""version"":""v2"",""created"":""Fri, 1 Oct 1993 15:38:40 GMT""}]","2009-10-22"
+"hep-lat/9309009","Pierre van Baal","Margarita Garcia Perez, Antonio Gonzalez-Arroyo, Jeroen Snippe and
+  Pierre van Baal","Instantons from over-improved cooling","15p, 3 figs appended in PostScript (uudecoded), preprint
+  INLO-PUB-11/93, FTUAM-93/31. Correction of eq.(16) and the discussion on pg.7","Nucl.Phys.B413:535-552,1994","10.1016/0550-3213(94)90631-9",,"hep-lat hep-th",,"  Lattice artefacts are used, through modified lattice actions, as a tool to
+find the largest instantons in a toroidal geometry [0,L]^3X[0,T] for T to
+infinity. It is conjectured that the largest instanton is associated with
+tunnelling through a sphaleron. Existence of instantons with at least 8
+parameters can be proven with the help of twisted boundary conditions in the
+time direction. Numerical results for SU(2) gauge theory obtained by cooling
+are presented to demonstrate the viability of the method.
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 15:30:29 GMT""},{""version"":""v2"",""created"":""Tue, 5 Oct 1993 18:33:29 GMT""}]","2008-11-26"
+"hep-ph/9309266","Miriam Leurer","Miriam Leurer (Weizmann Institute)","A Comprehensive Study of Leptoquark Bounds","23 Pages (LaTeX), including 3 uufiled postscript figures.
+  WIS--93/90/Sept--PH. To appear in PRD. Changes: updated numbers ---> stronger
+  bounds","Phys.Rev.D49:333-342,1994","10.1103/PhysRevD.49.333",,"hep-ph",,"  We make a comprehensive study of indirect bounds on scalar leptoquarks that
+couple chirally and diagonally to the first generation by examining available
+data from low energy experiments as well as from high energy e+ e- and p pbar
+accelerators. The strongest bounds turn out to arise from low energy data: For
+leptoquarks that couple to right--handed quarks, the most stringent bound comes
+from atomic parity violation. For leptoquarks that couple to left--handed
+quarks, there are two mass regions: At low masses the bounds arise from atomic
+parity violation or from universality in leptonic pi decays. At masses above a
+few hundred GeV's, the dominant bounds come from the FCNC processes that are
+unavoidable in these leptoquarks: The FCNC bound of the up sector, that arises
+from D-Dbar mixing, combines with the FCNC bounds from the down sector, that
+arise from rare K decays and K-Kbar mixing, to a bound on the flavour
+CONSERVING coupling to the first generation.
+  The bounds restrict leptoquarks that couple with electromagnetic strength to
+lie above 600 GeV or 630 GeV for leptoquarks that couple to RH quarks, and
+above 1040 GeV, 440 GeV, and 750 GeV for the SU(2)_W scalar, doublet and
+triplet leptoquarks that couple to LH quarks. These bounds are considerably
+stronger than the first results from the direct searches at HERA. Our bounds
+also already exclude large regions in the parameter space that could be
+examined by various methods proposed for indirect leptoquark searches.
+","[{""version"":""v1"",""created"":""Wed, 15 Sep 1993 16:12:15 GMT""},{""version"":""v2"",""created"":""Sun, 19 Sep 1993 17:01:34 GMT""},{""version"":""v3"",""created"":""Tue, 21 Dec 1993 15:43:21 GMT""}]","2008-11-26"
+"hep-ph/9309267","Taco Nieuwenhuis","Taco Nieuwenhuis, J. A. Tjon and Yu. A. Simonov","Relativistic Two-Body Bound-State Calculations Beyond the Ladder
+  Approximation","4 pages LaTeX and 2 uuencoded figures in PostScript; requires
+  epsf.sty. Contributed talk at `Few Body XIV', August 23-27 1993, Amsterdam,
+  Netherlands. Utrecht preprint THU-93/21",,,,"hep-ph",,"  In this work the Feynman-Schwinger representation for the two-body Greens
+function is studied. After having given a brief introduction to the formalism,
+we report on the first calculations based on this formalism. In order to
+demonstrate the validity of the method, we consider the static case where the
+mass of one of the particles becomes very large. We show that the heavy
+particle follows a classical trajectory and we find a good agreement with the
+Klein-Gordon result.
+","[{""version"":""v1"",""created"":""Wed, 15 Sep 1993 16:26:55 GMT""}]","2007-05-23"
+"hep-ph/9309268","G. Ecker","G. Ecker","The standard model at low energies","Lectures given at the 6th Indian-Summer School on Intermediate Energy
+  Physics, Prague, Aug. 1993, Latex, 26 pages (with a4.sty), UWThPh-1993-31","Czech.J.Phys.44:405-430,1995","10.1007/BF01689769",,"hep-ph",,"  The hadronic sector of the standard model at low energies is described by a
+non--decoupling effective field theory, chiral perturbation theory. An
+introduction is given to the construction of effective chiral Lagrangians, both
+in the purely mesonic sector and with inclusion of baryons. The connection
+between the relativistic formulation and the heavy baryon approach to chiral
+perturbation theory with baryons is reviewed.
+","[{""version"":""v1"",""created"":""Wed, 15 Sep 1993 16:31:11 GMT""}]","2011-04-15"
+"hep-ph/9309269",,"X. Zhang and B.-L. Young","Effective Lagrangian Approach to Electroweak Baryogenesis: Higgs mass
+  limit and Electric dipole moments of fermion","(this is a revised version of UMDHEP-93-201, ISJ-5079, May 1993,
+  mostly some new references added) 11 pages, (Tex file)","Phys.Rev. D49 (1994) 563-566","10.1103/PhysRevD.49.563",,"hep-ph",,"  A natural solution to the hierachy problem of the standard model is to assume
+new physics to appear at the TeV scale. We parametrize the effects of this new
+physics in terms of an effective lagrangian and examine its impacts on
+electroweak baryogenesis. We point out that with such an effective lagrangian
+successful electroweak baryogenesis implies: i) Higgs boson lies within the
+reach of LEP II; ii)electric dipole moments of electron and neutron are
+detectable in the near future.
+","[{""version"":""v1"",""created"":""Wed, 15 Sep 1993 17:01:23 GMT""}]","2009-10-22"
+"hep-ph/9309270","James Amundson","James F. Amundson","Subleading Heavy Quark Effects in a Nonrelativistic Quark Model","21 pages in LaTeX including 1 figure submitted using uufiles,
+  EFI-93-39","Phys.Rev. D49 (1994) 373-382","10.1103/PhysRevD.49.373",,"hep-ph",,"  I present a very simple model, based on the model of Isgur, Scora, Grinstein
+and Wise \cite{ISGW}, which can be used to calculate the effects which appear
+at subleading order in heavy quark effective theory. I include both general
+formalism and specific results. The formalism transparently reproduces the
+results of heavy quark effective theory, while giving insight into such things
+as the vanishing of certain form factors at zero recoil. I discuss the
+implications of these results for both heavy quark effective theory and the
+Isgur-Scora-Grinstein-Wise model.
+","[{""version"":""v1"",""created"":""Wed, 15 Sep 1993 19:50:29 GMT""}]","2009-10-22"
+"hep-ph/9309271","Mirjam Cvetic","M. Cvetic, F. del Aguila, and P. Langacker","Review of Z' Physics at Future Colliders","(based on talks presented by M.C. at Workshop on Linear e+e-
+  Colliders, Waikoloa, Hawaii April, 1993, and International Europhysics Conf.
+  on High Energy Physics, Marseilles, July, 1993), 9 pages (+1 figure available
+  on request), UPR-584-T",,,,"hep-ph",,"  We present recent developments in the diagnostic study of heavy gauge bosons
+at future colliders with the emphasis on the determination of gauge couplings
+of $Z'$ to quarks and leptons. Proposed diagnostic probes at future hadron
+colliders are discussed. The study of statistical uncertainties expected for
+the above probes at the LHC and $M_{Z'}\simeq 1$ TeV shows that three out of
+four normalized couplings can be determined, thus allowing for a distinction
+between models. The complementary nature of the probes at future $e^+e^-$
+colliders is also discussed.
+","[{""version"":""v1"",""created"":""Wed, 15 Sep 1993 23:10:19 GMT""}]","2007-05-23"
+"hep-ph/9309272",,"Gustavo Burdman, Zoltan Ligeti, Matthias Neubert, and Yosef Nir","The Decay $B\to\pi\ell\nu$ in Heavy Quark Effective Theory","26 pages in ReVTeX 3.0, figures appended as postscript file,
+  SLAC-PUB-6345","Phys.Rev.D49:2331-2345,1994","10.1103/PhysRevD.49.2331",,"hep-ph",,"  We present a systematic analysis of the $B^{(*)}\to\pi\,\ell\,\nu$ weak decay
+form factors to order $1/m_b$ in the heavy quark effective theory, including a
+discussion of renormalization group effects. These processes are described by a
+set of ten universal functions (two at leading order, and eight at order
+$1/m_b$), which are defined in terms of matrix elements of operators in the
+effective theory. In the soft pion limit, the effective theory yields
+normalization conditions for these functions, which generalize the well-known
+current algebra relations derived from the combination of heavy quark and
+chiral symmetries to next-to-leading order in $1/m_b$. In particular, the
+effects of the nearby $B^*$-pole are correctly contained in the form factors of
+the effective theory. We discuss the prospects for a model independent
+determination of $|V_{ub}|$ and the $B B^*\pi$ coupling constant from these
+processes.
+","[{""version"":""v1"",""created"":""Wed, 15 Sep 1993 23:37:00 GMT""}]","2010-11-01"
+"hep-ph/9309273","Sanghyeon Chang","Sanghyeon Chang and Jihn E. Kim","Is Heavy Quark Axion Necessarily Hadronic Axion?","SNUTP 93-56, 9 pages, LaTex","Phys.Rev.D49:2161-2163,1994","10.1103/PhysRevD.49.2161",,"hep-ph",,"  We show that heavy quark axion is not necessarily a hadronic axion, which
+manifests in the quark and lepton seesaw mechanism. We introduce a heavy
+$SU(2)$ singlet fermion for each known fermion in order to unify the axion
+scale and the seesaw scale. The light quarks and leptons gain their masses by
+the seesaw mechanism. Even though our axion model gives a kind of heavy quark
+axion, the axion has tree level lepton--axion coupling suppressed by $F_a$,
+contrary to a widely known belief that heavy quark axions are hadronic.
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 03:00:49 GMT""}]","2009-12-30"
+"hep-ph/9309274","Sanghyeon Chang","Sanghyeon Chang and Jihn E. Kim","Fermion Doubling and a Natural Solution of the Strong CP Problem","SNUTP 93-68, 19 pages 1 TeX figure, ReVTeX 3.0","Phys.Rev.D50:2218-2224,1994","10.1103/PhysRevD.50.2218",,"hep-ph",,"  We suggest the fermion doubling for all quarks and leptons. It is a
+generalization of the neutrino doubling of the seesaw mechanism. The new quarks
+and leptons are $SU(2)$ singlets and carry the electromagnetic charges of their
+lighter counterparts. An $SU(3)$ {\it anomaly free global symmetry} or a
+discrete symmetry can be introduced to restrict the Yukawa couplings. The form
+of mass matrix is belonging to that of Nelson and Barr even though our model
+does not belong to Barr's criterion. The weak CP violation of the
+Kobayashi-Maskawa form is obtained through the spontaneous breaking of CP
+symmetry at high energy scale. The strong CP solution is through a specific
+form of the mass matrix. At low energy, the particle content is the same as in
+the standard model. For a model with a global symmetry, in addition there
+exists a massless majoron.
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 03:06:43 GMT""},{""version"":""v2"",""created"":""Fri, 8 Apr 1994 02:53:40 GMT""}]","2010-11-01"
+"hep-th/9309087",,"M.B. Halpern","Recent Progress in Irrational Conformal Field Theory","16 pages, Latex, UCB-PTH-93/25, LBL-34610, talk presented at the
+  conference ""Strings 1993"", Berkeley, May 23-29",,,,"hep-th",,"  In this talk, I will review the foundations of irrational conformal field
+theory (ICFT), which includes rational conformal field theory as a small
+subspace. Highlights of the review include the Virasoro master equation, the
+Ward identities for the correlators of ICFT and solutions of the Ward
+identities. In particular, I will discuss the solutions for the correlators of
+the $g/h$ coset constructions and the correlators of the affine-Sugawara nests
+on $g\supset h_1 \supset \ldots \supset h_n$. Finally, I will discuss the
+recent global solution for the correlators of all the ICFT's in the master
+equation.
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 03:47:57 GMT""}]","2007-05-23"
+"hep-th/9309088","Costas Daskaloyannis","Dennis Bonatsos, C. Daskaloyannis and K. Kokkotas","Deformed oscillator algebras for two dimensional quantum superintegrable
+  systems","22 pages, THES-TP 10/93, hep-the/yymmnnn","Phys. Rev. A 50 (1994) 3700","10.1103/PhysRevA.50.3700",,"hep-th",,"  Quantum superintegrable systems in two dimensions are obtained from their
+classical counterparts, the quantum integrals of motion being obtained from the
+corresponding classical integrals by a symmetrization procedure. For each
+quantum superintegrable systema deformed oscillator algebra, characterized by a
+structure function specific for each system, is constructed, the generators of
+the algebra being functions of the quantum integrals of motion. The energy
+eigenvalues corresponding to a state with finite dimensional degeneracy can
+then be obtained in an economical way from solving a system of two equations
+satisfied by the structure function, the results being in agreement to the ones
+obtained from the solution of the relevant Schrodinger equation. The method
+shows how quantum algebraic techniques can simplify the study of quantum
+superintegrable systems, especially in two dimensions.
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 06:24:36 GMT""}]","2009-10-22"
+"hep-th/9309089",,"H. Arodz and A.L. Larsen","On dynamics of cylindrical and spherical relativistic domain walls of
+  finite thickness","26 pages Latex + 4 figures (not included), Nordita 93/58 P","Phys.Rev. D49 (1994) 4154-4166","10.1103/PhysRevD.49.4154",,"hep-th",,"  Dynamics of cylindrical and spherical relativistic domain walls is
+investigated with the help of a new method based on Taylor expansion of the
+scalar field in a vicinity of the core of the wall. Internal oscillatory modes
+for the domain walls are found. These modes are non-analytic in the ""width"" of
+the domain wall. Rather non-trivial transformation to a special coordinate
+system, widely used in investigations of relativistic domain walls, is studied
+in detail.
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 09:47:12 GMT""}]","2009-10-22"
+"hep-th/9309090","Jens Ole","J.O. Madsen and M. Sakamoto","Toroidal Orbifold Models with a Wess-Zumino Term","10 pages, LATEX, KOBE-TH-93-06 and NBI-HE-93-49","Phys.Lett.B322:91-96,1994","10.1016/0370-2693(94)90495-2",,"hep-th",,"  Closed bosonic string theory on toroidal orbifolds is studied in a Lagrangian
+path integral formulation. It is shown that a level one twisted WZW action
+whose field value is restricted to Cartan subgroups of simply-laced Lie groups
+on a Riemann surface is a natural and nontrivial extension of a first quantized
+action of string theory on orbifolds with an antisymmetric background field.
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 10:18:10 GMT""}]","2010-11-01"
+"hep-th/9309091","Peter Landshoff","P V Landshoff","Canonical quantisation of thermal gauge theories","7 pages including one figure in pictex, DAMTP 93-55",,,,"hep-th hep-ph",,"  Canonical quantisation gives a new and convenient finite-temperature
+perturbation theory in covariant gauges, and solves the problem of the
+zero-frequency mode in the temporal gauge. [Talk at Workshop on Thermal Field
+Theories and their Applications, Banff, August 1993]
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 13:34:28 GMT""}]","2007-05-23"
+"hep-th/9309092","John Gracey","J.A. Gracey","Electron Mass Anomalous Dimension at O(1/N^2_f) in Quantum
+  Electrodynamics","12 pages (latex), 1 figure (available from author on request),
+  LTH-316","Phys.Lett. B317 (1993) 415-420","10.1016/0370-2693(93)91017-H",,"hep-th",,"  The critical exponent corresponding to the renormalization of the composite
+operator $\bar{\psi}\psi$ is computed in quantum electrodynamics at
+$O(1/\Nf^2)$ in arbitrary dimensions and covariant gauge at the non-trivial
+zero of the $\beta$-function in the large $\Nf$ expansion and the exponent
+corresponding to the anomalous dimension of the electron mass which is a gauge
+independent object is deduced. Expanding in powers of $\epsilon$ $=$ $2$ $-$
+$d/2$ we check it is consistent with the known three loop perturbative
+structure and determine the subsequent coefficients in the coupling constant
+","[{""version"":""v1"",""created"":""Wed, 15 Sep 1993 23:51:00 GMT""}]","2009-10-22"
+"math/9309208","Andreas Blass","Andreas Blass","Questions and answers -- a category arising in linear logic, complexity
+  theory, and set theory",,,,"Logic E-prints September 16, 1993","math.LO",,"  A category used by de Paiva to model linear logic also occurs in Vojtas's
+analysis of cardinal characteristics of the continuum. Its morphisms have been
+used in describing reductions between search problems in complexity theory. We
+describe this category and how it arises in these various contexts. We also
+show how these contexts suggest certain new multiplicative connectives for
+linear logic. Perhaps the most interesting of these is a sequential composition
+suggested by the set-theoretic application.
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9309209","Jiri Witzany","Ji\v{r}\'i Witzany","Possible Behaviours of the Reflection Ordering of Stationary Sets",,,,"Logic E-prints September 16, 1993","math.LO",,"  If $S,T$ are stationary subsets of a regular uncountable cardinal $\kappa$,
+we say that $S$ reflects fully in $T$, $S<T$, if for almost all $\alpha \in T$
+(except a nonstationary set) $S \cap \alpha$ is stationary in $\alpha .$ This
+relation is known to be a well founded partial ordering. We say that a given
+poset $P$ is realized by the reflection ordering if there is a maximal
+antichain $\langle X_p ; p \in P \rangle$ of stationary subsets of
+$Reg(\kappa)$ so that
+  $$\forall p,q \in P \; \forall S\subseteq X_p, T\subseteq X_q \text{
+stationary}:(S<T \leftrightarrow p<_P q ) .$$
+  We prove that if $\kappa$ is $\Cal P _2 \kappa -$strong and $P$ an arbitrary
+well founded poset of cardinality $\leq \k^+$ then there is a generic extension
+where P is realized by the reflection ordering on $\kappa .$
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9309019","Herbert Muether","M.Hjorth-Jensen, H.M\""uther, A.Polls","Width of the $\Delta$ resonance in nuclei","5 pages 3 figures can be obtained from the authors, TU-93-1609","Phys.Rev.C50:501-504,1994","10.1103/PhysRevC.50.501",,"nucl-th",,"  In this work we evaluate the imaginary part of the isobar $\Delta$
+self-energy $\Sigma_{\Delta}$ from the two-body absorption process
+$\Delta+N\rightarrow 2N$. This contribution is calculated using a recently
+developed non-relativistic scheme, which allows for an evaluation of the
+self-energy with a basis of single-particle states appropriate for both bound
+hole states and for particle states in the continuum. In order to test the
+medium dependence of the self-energy, we calculate the two-body absorption term
+$\Sigma_{\Delta}^{A2}$ for several finite nuclei with $N=Z$, i.e.\ $^{16}$O,
+$^{40}$Ca and $^{100}$Sn. The resulting self-energy, which is energy dependent
+and non-local, is compared with a simple parameterization derived from nuclear
+matter.
+","[{""version"":""v1"",""created"":""Thu, 16 Sep 1993 08:34:41 GMT""}]","2008-11-26"

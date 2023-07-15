@@ -1,0 +1,181 @@
+"chao-dyn/9302001","Nicholas B. Tufillaro","Nicholas B. Tufillaro","Topological organization of (low-dimensional) chaos","CYCLER Paper 93feb001 LaTeX with natokap.sty and nato11.sty macros
+  (available via `get nato.sty')",,,,"chao-dyn nlin.CD",,"  Recent progress toward classifying low-dimensional chaos measured from time
+series data is described. This classification theory assigns a template to the
+time series once the time series is embedded in three dimensions. The template
+describes the primary folding and stretching mechanisms of phase space
+responsible for the chaotic motion. Topological invariants of the unstable
+periodic orbits in the closure of the strange set are calculated from the
+(reconstructed) template. These topological invariants must be consistent with
+any model put forth to describe the time series data, and are useful in
+invalidating (or gaining confidence in) any model intended to describe the
+dynamical system generating the time series.
+","[{""version"":""v1"",""created"":""Wed, 3 Feb 1993 00:00:00 GMT""}]","2008-02-03"
+"cond-mat/9302006","Schulz","H.J. Schulz","Interacting fermions in one dimension: from weak to strong correlation","43 pages, PostScript file (because of figures in the text)",,,,"cond-mat",,"  Lecture notes from the Jerusalem Winter School on Theoretical Physics
+""Correlated Electron Systems"", Dec. 1991 -- Jan. 1992. Contains a review of
+recent and not so recent results in the theory of correlated fermions in one
+dimension.
+","[{""version"":""v1"",""created"":""Wed, 3 Feb 1993 10:01:40 GMT""}]","2007-05-23"
+"gr-qc/9302002","Pohle","G.W. Gibbons and H.J. Pohle","Complex Numbers, Quantum Mechanics and the Beginning of Time","27 pages LATEX, UCSBTH-93-03","Nucl.Phys.B410:117-142,1993","10.1016/0550-3213(93)90575-A",,"gr-qc",,"  A basic problem in quantizing a field in curved space is the decomposition of
+the classical modes in positive and negative frequency. The decomposition is
+equivalent to a choice of a complex structure in the space of classical
+solutions. In our construction the real tunneling geometries provide the link
+between the this complex structure and analytic properties of the classical
+solutions in a Riemannian section of space. This is related to the Osterwalder-
+Schrader approach to Euclidean field theory.
+","[{""version"":""v1"",""created"":""Tue, 2 Feb 1993 22:58:27 GMT""}]","2009-10-07"
+"hep-ph/9302204",,"Harry. J. Lipkin","Physics at B-Factories","19 pages, WIS-93/12/Jan-PH (A Theoretical Talk)",,,,"hep-ph",,"  The main motivation for B factories is the investigation of CP violation. We
+consider two questions: 1) Why has there been essentially no experimental
+progress in CP violation in the 28 years since its discovery in 1964? 2) Why do
+we expect better results from B factories?
+","[{""version"":""v1"",""created"":""Tue, 2 Feb 1993 17:45:00 GMT""}]","2007-05-23"
+"hep-ph/9302205",,"D. V. Nanopoulos and H. Pois","The Electroweak Phase Transition in Minimal Supergravity Models","14 pages (not including two postscript figures available upon
+  request)","Phys.Lett.B321:41-48,1994","10.1016/0370-2693(94)90324-7",,"hep-ph",,"  We have explored the electroweak phase transition in minimal supergravity
+models by extending previous analysis of the one-loop Higgs potential to
+include finite temperature effects. Minimal supergravity is characterized by
+two higgs doublets at the electroweak scale, gauge coupling unification, and
+universal soft-SUSY breaking at the unification scale. We have searched for the
+allowed parameter space that avoids washout of baryon number via unsuppressed
+anomalous Electroweak sphaleron processes after the phase transition. This
+requirement imposes strong constraints on the Higgs sector. With respect to
+weak scale baryogenesis, we find that the generic MSSM is {\it not}
+phenomenologically acceptable, and show that the additional experimental and
+consistency constraints of minimal supergravity restricts the mass of the
+lightest CP-even Higgs even further to $m_h\lsim 32\GeV$ (at one loop), also in
+conflict with experiment. Thus, if supergravity is to allow for baryogenesis
+via any other mechanism above the weak scale, it {\it must} also provide for
+B-L production (or some other `accidentally' conserved quantity) above the
+electroweak scale. Finally, we suggest that the no-scale flipped $SU(5)$
+supergravity model can naturally and economically provide a source of B-L
+violation and realistically account for the observed ratio $n_B/n_\gamma\sim
+10^{-10}$.
+","[{""version"":""v1"",""created"":""Tue, 2 Feb 1993 23:03:00 GMT""}]","2011-04-20"
+"hep-ph/9302206","Masashi Hayakawa","M.Hayakawa and A.I.Sanda","Searching for T,CP,CPT,and \Delta S = \Delta Q rule violations in the
+  neutral K meson system - a guide","RevTex, 43 pages, DPNU 93-05","Phys.Rev.D48:1150-1166,1993","10.1103/PhysRevD.48.1150",,"hep-ph",,"  It is known that the existing experimental limit for$ CPT $ violation is
+rather poor; the 10 \% level at best. The $ \DSDQ $ rule is tested only up to 2
+\%. In this note, we discuss the possibility of measuring $ T, CP, CPT $ and $
+\DSDQ $ rule violations in the neutral $ K $ meson system. It is shown that not
+all the symmetry breaking parameters can be determined at a symmetric $ \phi $
+factory. Experiments with $ K^0 $ and $ \bar{K}^0 $ beams are needed to test
+all the symmetries.
+","[{""version"":""v1"",""created"":""Wed, 3 Feb 1993 05:11:59 GMT""}]","2008-11-26"
+"hep-ph/9302207",,"D. Comelli and M. Pietroni","Spontaneous CP Violation in the Minimal Supersymmetric Standard Model at
+  Finite Temperature","13 pages, DFPD 93/TH/06 and UTS/DFT/93/1","Phys.Lett.B306:67-72,1993","10.1016/0370-2693(93)91139-E",,"hep-ph",,"  We show that in the Minimal Supersymmetric Standard Model one--loop effects
+at finite temperature may lead to a spontaneous breaking of CP invariance in
+the scalar sector. Requiring that the breaking takes place at the critical
+temperature for the electroweak phase transition, we find that the parameters
+space is compatible with a mass of the Higgs pseudoscalar in agreement with the
+present experimental lower bounds. Possible implications for baryogenesis are
+discussed.
+","[{""version"":""v1"",""created"":""Wed, 3 Feb 1993 12:05:19 GMT""},{""version"":""v2"",""created"":""Wed, 3 Feb 1993 12:11:29 GMT""}]","2010-11-01"
+"hep-ph/9302208","Sergei Larin","S.A. Larin and J.A.M. Vermaseren","The three-loop QCD $\beta$-function and anomalous dimensions","5 pages, NIKHEF-H/92-17","Phys.Lett.B303:334-336,1993","10.1016/0370-2693(93)91441-O",,"hep-ph",,"  The analytic calculation of the three-loop QCD $\beta$-function and anomalous
+dimensions within the minimal subtraction scheme in an arbitrary covariant
+guage is presented. The result for the $\beta$-function coincides with the
+previous calculation \cite{tvz}.
+","[{""version"":""v1"",""created"":""Wed, 3 Feb 1993 14:26:25 GMT""}]","2011-05-05"
+"hep-ph/9302209","Ahmady Mohammad","Mohammad R. Ahmady, Dongsheng Liu and Zhijian Tao","Long Distance Contributions to B-Decays into Higher K-Resonances","8 pages LATEX",,,,"hep-ph",,"  We use the new symmetries in the heavy quark limit to calculate the exclusive
+B-decays $B \rightarrow K^i \psi $ where $K^i$ are higher resonances of
+K-meson. We then estimate the long distance contributions to $B \rightarrow K^i
+\gamma $ decays via $\psi - \gamma$ conversion. The results point to around $30
+\%$ uncertainty in the top quark mass determined by measurements of rare
+B-decays $B \rightarrow K^i \gamma$.
+","[{""version"":""v1"",""created"":""Wed, 3 Feb 1993 14:34:05 GMT""}]","2007-05-23"
+"hep-th/9302007",,"Igor Pesando","Vector Induced Lattice Gauge Theories","9 Pages, plain Latex, NBI-HE-93-07","Mod. Phys. Lett. A8 (1993) 2793-2802","10.1142/S0217732393003184",,"hep-th",,"  We consider vector induced lattice gauge theories, in particular we consider
+the QED induced and we show that at negative temperature corresponds to the
+dimer problem while at positive temperature it describes a gas of branched
+polymers with loops. We argue that these models are critical at $D_{cr}=6$ for
+$N\ne\infty$ and they are {\sl not} critical for $N=\infty$.
+","[{""version"":""v1"",""created"":""Tue, 2 Feb 1993 17:47:50 GMT""}]","2015-06-26"
+"hep-th/9302008","Enrique Alvarez","E. Alvarez, J.M. Gracia-Bondia and C.P. Martin","Parameter restrictions in a non-commutative geometry model do not
+  survive standard quantum corrections","8 pages, LaTeX","Phys.Lett.B306:55-58,1993","10.1016/0370-2693(93)91137-C",,"hep-th",,"  We have investigated the standard one-loop quantum corrections for a
+particularly simple non-commutative geometry model containing fermions
+interacting with a unique abelian gauge field and a unique scalar through
+Yukawa couplings. In this model there are certain relations among the different
+coupling constants quite similar to the ones appearing in the Connes-Lott
+version of the standard model. We find that it is not possible to implement
+those relations in a renormalization-group invariant way.
+","[{""version"":""v1"",""created"":""Tue, 2 Feb 1993 18:11:46 GMT""}]","2008-11-26"
+"hep-th/9302009",,"Michael Crescimanno","Equilibrium Two-Dimensional Dilatonic Spacetimes","22 pages, M.I.T. preprint CTP#2174","Phys.Rev. D47 (1993) 4483-4489","10.1103/PhysRevD.47.4483",,"hep-th gr-qc",,"  We study two-dimensional dilaton gravity coupled to massless scalar fields
+for static solutions. In addition to the well known black hole, we find another
+class of solutions that may be understood as that of the black hole in
+equilibrium with a radiation bath. We claim that there is a solution that is
+qualitatively unchanged after including Hawking radiation and back-reaction and
+is furthermore geodesically complete. We compute the thermodynamics of these
+spacetimes and their mass. We end with a brief discussion of the linear
+response about these solutions, its significance to stability and noise and a
+speculation regarding the endpoint of Hawking evaporation in four dimensions.
+(plain TeX; one figure, available upon request.)
+","[{""version"":""v1"",""created"":""Wed, 3 Feb 1993 03:06:15 GMT""}]","2009-10-22"
+"hep-th/9302010",,"T. Brzezinski, J. Rembielinski, K.A. Smolinski","Quantum Particle on a Quantum Circle","11 pages, LaTeX","Mod.Phys.Lett.A8:409-416,1993","10.1142/S0217732393000416","KFT UL 10/92","hep-th",,"  We describe a $q$-deformed dynamical system corresponding to the quantum free
+particle moving along the circle. The algebra of observables is constructed and
+discussed. We construct and classify irreducible representations of the system.
+","[{""version"":""v1"",""created"":""Wed, 3 Feb 1993 09:20:26 GMT""},{""version"":""v2"",""created"":""Fri, 12 Feb 1993 09:50:30 GMT""}]","2010-11-01"
+"hep-th/9302011",,"F.Belgiorno, A.S.Cattaneo, M.Martellini and F.Fucito","A Conformal Affine Toda Model of 2D-Black Holes the End-Point State and
+  the S-Matrix","ROM2F-93-03, 27 pages, phyzzx","Phys.Rev.D48:2660-2669,1993","10.1103/PhysRevD.48.2660",,"hep-th",,"  In this paper we investigate in more detail our previous formulation of the
+dilaton-gravity theory by Bilal--Callan--de~Alwis as a $SL_2$-conformal affine
+Toda (CAT) theory. Our main results are: i) a field redefinition of the
+CAT-basis in terms of which it is possible to get the black hole solutions
+already known in the literature; ii) an investigation the scattering matrix
+problem for the quantum black hole states. It turns out that there is a range
+of values of the $N$ free-falling shock matter fields forming the black hole
+solution, in which the end-point state of the black hole evaporation is a zero
+temperature regular remnant geometry. It seems that the quantum evolution to
+this final state is non-unitary, in agreement with Hawking's scenario for the
+black hole evaporation.
+","[{""version"":""v1"",""created"":""Wed, 3 Feb 1993 10:08:39 GMT""}]","2008-11-26"
+"hep-th/9302012",,"Gerald Kelnhofer","On the Geometrical Structure of Covariant Anomalies in Yang-Mills Theory","19 pages, LMU-TPW 92-31 (January 93)","J.Math.Phys. 34 (1993) 3901-3917","10.1063/1.530014",,"hep-th",,"  Covariant anomalies are studied in terms of the theory of secondary
+characteristic classes of the universal bundle of Yang-Mills theory. A new set
+of descent equations is derived which contains the covariant current anomaly
+and the covariant Schwinger term. The counterterms relating consistent and
+covariant anomalies are determined. A geometrical realization of the
+BRS/anti-BRS algebra is presented which is used to understand the relationship
+between covariant anomalies in different approaches.
+","[{""version"":""v1"",""created"":""Wed, 3 Feb 1993 14:09:48 GMT""}]","2009-10-22"
+"hep-th/9302014",,"J. Ambj{\o}rn, L. Chekhov, C.F. Kristjansen and Yu. Makeenko","Matrix Model Calculations beyond the Spherical Limit","44 pages","Nucl.Phys. B404 (1993) 127-172; Erratum-ibid. B449 (1995) 681","10.1016/0550-3213(93)90476-6","NBI-HE-92-89; PAR-LPTHE-92-49; FTUAM 92-44","hep-th",,"  We propose an improved iterative scheme for calculating higher genus
+contributions to the multi-loop (or multi-point) correlators and the partition
+function of the hermitian one matrix model. We present explicit results up to
+genus two. We develop a version which gives directly the result in the double
+scaling limit and present explicit results up to genus four. Using the latter
+version we prove that the hermitian and the complex matrix model are equivalent
+in the double scaling limit and that in this limit they are both equivalent to
+the Kontsevich model. We discuss how our results away from the double scaling
+limit are related to the structure of moduli space.
+","[{""version"":""v1"",""created"":""Wed, 3 Feb 1993 15:39:03 GMT""}]","2009-10-22"
+"math/9302204",,"Maria Girardi, William B. Johnson","The Complete Continuity Property and Finite Dimensional Decompositions",,,,"Banach Archive 2/2/93","math.FA",,"  A Banach space $\X$ has the complete continuity property (CCP) if each
+bounded linear operator from $L_1$ into $\X$ is completely continuous (i.e.,
+maps weakly convergent sequences to norm convergent sequences). The main
+theorem shows that a Banach space failing the CCP (resp., failing the CCP and
+failing cotype) has a subspace with a finite dimensional decomposition (resp.,
+basis) which fails the CCP.
+","[{""version"":""v1"",""created"":""Tue, 2 Feb 1993 17:52:31 GMT""}]","2008-02-03"
+"nucl-th/9302001","Dao-Chen Zheng","D. C. Zheng, L. Zamic, and H. M\""uther","Medium corrections to the tensor interaction in nuclei: Energy
+  difference of T=1 and T=0 J=0- states in 16O","14 pages and 1 figure (Figure will be sent upon request)","Annals Phys. 230 (1994) 118-130","10.1006/aphy.1994.1019",,"nucl-th",,"  It has been shown in the past that in a shell model calculation, restricted
+to 1Hbar*Omega 1p-1h configurations, the energy splitting between the lowest
+J=0-, T=0 and J=0-, T=1 states in 16O is mainly due to the tensor component of
+the nucleon-nucleon interaction. In this work, we extend the calculation to
+include 3Hbar*Omega 2p-2h and 3p-3h configurations. We use realistic G matrices
+derived from various One-Boson-Exchange potentials taking into account the
+effects of the Dirac-Brueckner-Hartree-Fock approach, i.e., a modification of
+the Dirac spinors for the nucleons in the medium. It is found that the
+splitting is rather sensitive to the long-range components of the isovector
+tensor force. The splitting is reduced considerably by including 2p-2h
+configurations, in particular.
+","[{""version"":""v1"",""created"":""Tue, 2 Feb 1993 19:23:57 GMT""}]","2009-10-22"
+"patt-sol/9302001",,"Mark B. Mineev--Weinstein","Multidimensional Pattern Formation Has an Infinite Number of Constants
+  of Motion","CYCLER Paper 93feb002",,"10.1103/PhysRevE.47.R2241",,"patt-sol nlin.PS",,"  Extending our previous work on 2D growth for the Laplace equation we study
+here {\it multidimensional} growth for {\it arbitrary elliptic} equations,
+describing inhomogeneous and anisotropic pattern formations processes. We find
+that these nonlinear processes are governed by an infinite number of
+conservation laws. Moreover, in many cases {\it all dynamics of the interface
+can be reduced to the linear time--dependence of only one ``moment"" $M_0$}
+which corresponds to the changing volume while {\it all higher moments, $M_l$,
+are constant in time. These moments have a purely geometrical nature}, and thus
+carry information about the moving shape. These conserved quantities (eqs.~(7)
+and (8) of this article) are interpreted as coefficients of the multipole
+expansion of the Newtonian potential created by the mass uniformly occupying
+the domain enclosing the moving interface. Thus the question of how to recover
+the moving shape using these conserved quantities is reduced to the classical
+inverse potential problem of reconstructing the shape of a body from its
+exterior gravitational potential. Our results also suggest the possibility of
+controlling a moving interface by appropriate varying the location and strength
+of sources and sinks.
+","[{""version"":""v1"",""created"":""Wed, 3 Feb 1993 00:00:00 GMT""}]","2009-10-22"

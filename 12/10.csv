@@ -1,0 +1,401 @@
+"astro-ph/9312018","Douglas Heggie","Douglas C. Heggie (University of Edinburgh, Department of Mathematics
+  and Statistics,King's Buildings,Edinburgh EH10 5NL,U.K.)","Gravothermal Oscillations","E-mail: d.c.heggie@ed.ac.uk; 11 pages",,,,"astro-ph",,"  Gravothermal oscillations occur in several models for the post-collapse
+evolution of rich star clusters. This paper reviews the main literature, and
+presents some new N-body results which appear to exhibit this phenomenon.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 15:39:37 GMT""}]","2007-05-23"
+"chao-dyn/9312005","Riccardo Mannella","MI Dykman, DG Luchinsky, R Mannella, PVE McClintock, HE Short, ND
+  Stein and N G Stocks","Noise-Induced Linearisation and Delinearisation","17 pages. No special macros. Figures on request",,,"DFUPSM9363","chao-dyn adap-org nlin.AO nlin.CD",,"  It is demonstrated, by means of analogue electronic simulation and
+theoretically, that external noise can markedly change the character of the
+response of a nonlinear system to a low-frequency periodic field. In general,
+noise of sufficient intensity {\it linearises} the response. For certain
+parameter ranges in particular cases, however, an increase in the noise
+intensity can sometime have the opposite effect and is shown to {\it
+delinearise} the response. The physical origins of these contrary behaviours
+are discussed.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 19:00:41 GMT""},{""version"":""v2"",""created"":""Fri, 10 Dec 1993 17:59:39 GMT""}]","2008-02-03"
+"comp-gas/9312002","Theo","T. Karapiperis (Paul Scherrer Institute, CH-5232 Villigen PSI,
+  Switzerland) and B. Blankleider (Paul Scherrer Institute, CH-5232 Villigen
+  PSI, Switzerland, and School of Physical Sciences, Flinders University,
+  Bedford Park, S.A. 5042, Australia (Present address))","Cellular automaton model of reaction-transport processes","Figures available from first author. Requests may be submitted by
+  E-mail (theo@cvax.psi.ch) or ordinary mail (Paul Scherrer Institute, CH-5232
+  Villigen PSI, Switzerland)",,"10.1016/0167-2789(94)00093-X","PSI Report No. 93-06","comp-gas nlin.CG",,"  The transport and chemical reactions of solutes are modelled as a cellular
+automaton in which molecules of different species perform a random walk on a
+regular lattice and react according to a local probabilistic rule. The model
+describes advection and diffusion in a simple way, and as no restriction is
+placed on the number of particles at a lattice site, it is also able to
+describe a wide variety of chemical reactions. Assuming molecular chaos and a
+smooth density function, we obtain the standard reaction-transport equations in
+the continuum limit. Simulations on one- and two-dimensional lattices show that
+the discrete model can be used to approximate the solutions of the continuum
+equations. We discuss discrepancies which arise from correlations between
+molecules and how these disappear as the continuum limit is approached. Of
+particular interest are simulations displaying long-time behaviour which
+depends on long-wavelength statistical fluctuations not accounted for by the
+standard equations. The model is applied to the reactions $a + b
+\rightleftharpoons c$ and $a + b \rightarrow c$ with homogeneous and
+inhomogeneous initial conditions as well as to systems subject to autocatalytic
+reactions and displaying spontaneous formation of spatial concentration
+patterns.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 14:59:15 GMT""}]","2009-10-22"
+"cond-mat/9312042","Robert C. Jahnke","X. -G. Zhao, R. Jahnke, and Q. Niu","Dynamic Fractional Stark Ladders in DC--AC Fields","12pages, TeX, 3 figures upon request. This version of the paper was
+  resubmitted to PRL on 3/27/94. This is a structural revision and does not
+  contain any major conceptual changes",,,,"cond-mat",,"  A single band in a spatially periodic system splits into a series of
+quasienergy subbands under the action of DC--AC electric fields. These dynamic
+fractional Stark ladders should be observable in an investigation of optical
+absorption.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 19:12:15 GMT""},{""version"":""v2"",""created"":""Fri, 9 Dec 1994 22:59:40 GMT""}]","2008-02-03"
+"cond-mat/9312043","M. V. Sadovskii","E.Z.Kuchinskii, M.V.Sadovskii","Temperature Dependence of the Upper Critical Field in High-Temperature
+  Superconductors: Localization Effects","8 pages, RevTeX 2.0, 1 Figure attached, IEF-LTF 93-4","JETP Letters 58 (1993) 819",,,"cond-mat",,"  It is shown that the anomalous temperature dependence of the orbital part of
+the upper critical field $H_{c2}$ observed for epitaxially grown films of
+high-temperature superconductor $Bi-Sr-Cu-O$ (in wide temperature interval) can
+be satisfactorily explained by the influence of localization effects in
+two-dimensional (quasi-two-dimensional) case.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 17:35:27 GMT""}]","2007-05-23"
+"gr-qc/9312017",,"J. W. Moffat","Predictability in Quantum Gravity and Black Hole Evaporation","13 pages TeX 3.0, UTPT-93-31",,,,"gr-qc",,"  A possible resolution of the information loss paradox for black holes is
+proposed in which a phase transition occurs when the temperature of an
+evaporating black hole equals a critical value, $T_c$, and Lorentz invariance
+and diffeomorphism invariance are spontaneously broken. This allows a
+generalization of Schr\""odinger's equation for the quantum mechanical density
+matrix, such that a pure state can evolve into a mixed state, because in the
+symmetry broken phase the conservation of energy-momentum is spontaneously
+violated. TCP invariance is also spontaneously broken together with time
+reversal invariance, allowing the existence of white holes, which are black
+holes moving backwards in time. Domain walls would form which separate the
+black holes and white holes (anti-black holes) in the broken symmetry regime,
+and the system could evolve into equilibrium producing a balance of information
+loss and gain.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 20:54:58 GMT""}]","2007-05-23"
+"gr-qc/9312018","Hai Ren","Hai Ren","Time-Dependent Open String Solutions in 2+1 Dimensional Gravity","CU-TP-619, 18 pages. (minor changes)","Phys.Rev.D50:2615-2622,1994","10.1103/PhysRevD.50.2615",,"gr-qc",,"  We find general, time-dependent solutions produced by open string sources
+carrying no momentum flow in 2+1 dimensional gravity. The local Poincar\'e
+group elements associated with these solutions and the coordinate
+transformations that transform these solutions into Minkowski metric are
+obtained. We also find the relation between these solutions and the planar wall
+solutions in 3+1 dimensions.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 00:58:30 GMT""},{""version"":""v2"",""created"":""Thu, 30 Dec 1993 00:18:28 GMT""}]","2010-11-01"
+"hep-lat/9312040","J. Westphalen","J. Westphalen, F. Zimmermann, M. Goeckeler and H. A. Kastrup","Scattering phases in the broken phase of the 4-d O(4) non-linear
+  sigma-model","3 pages, talk presented at Lattice 1993","Nucl.Phys.Proc.Suppl. 34 (1994) 566-568","10.1016/0920-5632(94)90448-0",,"hep-lat",,"  Using Luescher's method we determine the elastic scattering phases in the
+broken phase of the 4-dimensional O(4) non-linear sigma-model from the
+two-particle energy spectrum in a Monte-Carlo study on finite lattices. In the
+isospin-0-channel we observe the sigma-resonance and extract its mass and its
+width. In all scattering channels investigated the results are consistent with
+perturbative calculations.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 17:25:46 GMT""}]","2009-10-22"
+"hep-lat/9312042","Andreas Kronfeld","A.S. Kronfeld and B.P. Mertens","Renormalization of Massive Lattice Fermions","3 pages (you guessed it: to appear in Lattice '93), uuencoded
+  PostScript file, FERMILAB-CONF-93/382-T and EFI 93-72. Regular PostScript
+  file by anonymous ftp to fnth06.fnal.gov as pub/Fermilab-Pub/93.382",,"10.1016/0920-5632(94)90428-6",,"hep-lat",,"  The renormalization of a general action for massive lattice fermions is
+discussed. The analysis applies for all $m_q a$. Preliminary results for the
+self energy at one loop in perturbation theory are presented.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 18:03:14 GMT""}]","2009-10-22"
+"hep-lat/9312043","Tilman Sauer","W. Janke and T. Sauer","Multicanonical multigrid Monte Carlo method and effective
+  autocorellation time","contribution to LATTICE'93 proceedings, 3 pp. in postscript format,
+  FU-Berlin preprint FUB-HEP 18-93","Nucl.Phys.Proc.Suppl. 34 (1994) 771-773","10.1016/0920-5632(94)90509-6",,"hep-lat",,"  We report tests of the recently proposed multicanonical multigrid Monte Carlo
+method for the two-dimensional $\Phi^4$ field theory. Defining an effective
+autocorrelation time we obtain real time improvement factors of about one order
+of magnitude compared with standard multicanonical simulations.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 18:55:17 GMT""}]","2009-10-22"
+"hep-lat/9312044","Craig McNeile","Terrence Draper and Craig McNeile","An investigation into a wavelet accelerated gauge fixing algorithm","Resubmitted as a uuencode-compressed-tar postscript file. A
+  Daubechies wavelet transform will transform a vector of length $N$ in $O(N)$
+  operations, and not in O(N log N) operations as we incorrectly stated in the
+  first version of this paper",,"10.1016/0920-5632(94)90511-8",,"hep-lat",,"  We introduce an acceleration algorithm for coulomb gauge fixing, using the
+compactly supported wavelets introduced by Daubechies. The algorithm is similar
+to Fourier acceleration. Our provisional numerical results for $SU(3)$ on
+$8^{4}$ lattices show that the acceleration based on the DAUB6 transform can
+reduce the number of iterations by a factor up to 3 over the unaccelerated
+algorithm. The reduction in iterations for Fourier acceleration is
+approximately a factor of 7.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 18:55:55 GMT""},{""version"":""v2"",""created"":""Wed, 30 Mar 1994 18:52:09 GMT""},{""version"":""v3"",""created"":""Sun, 3 Apr 1994 02:22:38 GMT""}]","2009-10-22"
+"hep-lat/9312045","Leo Karkkainen","T. Blum and Leo Karkkainen","Adding Gauge Fields to Kaplan's Fermions","AZPH-TH/93-34, Lattice'93 poster,4 pages postscript","Nucl.Phys.Proc.Suppl. 34 (1994) 575-578","10.1016/0920-5632(94)90450-2",,"hep-lat",,"  We experiment with adding dynamical gauge field to Kaplan (defect) fermions.
+In the case of U(1) gauge theory we use an inhomogenous Higgs mechanism to
+restrict the 3d gauge dynamics to a planar 2d defect. In our simulations the 3d
+theory produce the correct 2d gauge dynamics. We measure fermion propagators
+with dynamical gauge fields. They posses the correct chiral structure. The
+fermions at the boundary of the support of the gauge field (waveguide) are
+non-chiral, and have a mass two times heavier than the chiral modes. Moreover,
+these modes cannot be excited by a source at the defect; implying that they are
+dynamically decoupled. We have also checked that the anomaly relation is
+fullfilled for the case of a smooth external gauge field. This is an uuencoded
+ps-file. Use 'uudecode hepchiral.ps.Z' and 'uncompress hepchiral.ps.Z' to
+produce the psfile.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 18:25:21 GMT""},{""version"":""v2"",""created"":""Fri, 10 Dec 1993 17:42:28 GMT""}]","2009-10-22"
+"hep-lat/9312046","Hill","Anthony Duncan, Estia Eichten, Jonathan M. Flynn, Brian R. Hill, and
+  Hank Thacker","Masses and Decay Constants of Heavy-Light Mesons Using the Multistate
+  Smearing Technique","9 pages, 13 figures, and 5 tables as a single 193K compressed and
+  uuencoded Postscript file, FERMILAB--CONF--93/376-T","Nucl.Phys.Proc.Suppl. 34 (1994) 444-452","10.1016/0920-5632(94)90413-8",,"hep-lat",,"  We present results for f_B and masses of low-lying heavy-light mesons.
+Calculations were performed in the quenched approximation using multistate
+smearing functions generated from a spinless relativistic quark model
+Hamiltonian. Beta values range from 5.7 to 6.3, and light quark masses
+corresponding to pion masses as low as 300 MeV are computed at each value. We
+use the 1P--1S charmonium splitting to set the overall scale.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 05:56:27 GMT""}]","2009-10-22"
+"hep-lat/9312047","Chris Sachrajda","C.T.Sachrajda","Non-Perturbative Renormalisation of Composite Operators","3 pages, uuencoded compressed postscript file, to appear in the
+  Proceedings of the International Symposium on Lattice Field Theory, Dallas,
+  Texas, 12-17 October 1993, Southampton Preprint 93/94-04","Nucl.Phys.Proc.Suppl.34:507-509,1994","10.1016/0920-5632(94)90431-6",,"hep-lat",,"  It is shown that the renormalisation constants of two quark operators can be
+accurately determined (to a precision of a few per-cent using 18 gluon
+configurations) using Chiral Ward identities. A method for computing
+renormalisation constants of generic composite operators without the use of
+lattice perturbation theory is proposed.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 10:12:44 GMT""}]","2009-10-09"
+"hep-lat/9312048","Uwe Glaessner","G. Bhanot, M. Creutz, U. Glaessner and K. Schilling","Specific Heat Exponent for the 3-d Ising Model from a 24-th Order High
+  Temperature Series","10 pages, LaTeX with 5 eps-figures using epsf.sty, IASSNS-93/83 and
+  WUB-93-40",,"10.1103/PhysRevB.49.12909",,"hep-lat",,"  We compute high temperature expansions of the 3-d Ising model using a
+recursive transfer-matrix algorithm and extend the expansion of the free energy
+to 24th order. Using ID-Pade and ratio methods, we extract the critical
+exponent of the specific heat to be alpha=0.104(4).
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 11:33:21 GMT""}]","2009-10-22"
+"hep-lat/9312049","Jacek Wosiek","Z. Burda and J. Wosiek","Analytical calculation of critical temperatures in some spin systems","LATEX, Jagellonian University preprint TPJU-25/93",,"10.1016/0920-5632(94)90480-4",,"hep-lat",,"  A new method for locating analytically critical temperatures is discussed. It
+is exact for selfdual systems. When applied the two coupled layers of Ising
+spins it deviates from our preliminary Monte Carlo estimates by 1.5 standard
+deviations. It predicts critical temperature of the three dimensional Ising
+model in terms of the solution of the two layer Ising system.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 13:25:47 GMT""}]","2009-10-22"
+"hep-ph/9312250",,"R. Delbourgo, Dongsheng Liu","Heavy quark supermultiplet excitations","12 pages (Revtex), UTAS-PHYS-93-41","Phys.Rev.D49:5979-5983,1994","10.1103/PhysRevD.49.5979",,"hep-ph",,"  Lorentz covariant wave functions for meson and baryon supermultiplets are
+simply derived by boosting $SU(2)_J$ representations corresponding to
+multiquark systems at rest.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 19:01:00 GMT""}]","2008-11-26"
+"hep-ph/9312253",,"L. Lavoura","Right-handed-neutrino Majorana mass at the SUSY GUT scale and the
+  solution of the solar-neutrino problem","10 pages, standard LATEX, no figures, Carnegie-Mellon University
+  Report CMU-HEP93-27 and DOE-ER/40682-52","Phys.Rev. D50 (1994) 523-528","10.1103/PhysRevD.50.523",,"hep-ph",,"  In the SUSY GUT scenario, it is natural to assume the right-handed-neutrino
+Majorana-mass scale to be $10^{16}$ GeV. This will in principle lead, by the
+seesaw mechanism, to a $ \nu_{\tau} $ mass of order $ m_t^2 / (10^{16}\, {\rm
+GeV}) \sim 3 \times 10^{-3}\, {\rm eV} $. This suggests that the solution of
+the solar-neutrino puzzle should be either the MSW effect in
+$\nu_e$--$\nu_{\tau}$ oscillations, with $ m_{\nu_{\tau}}^2 \sim 10^{-5}\, {\rm
+eV}^2 $, or long-wavelength $\nu_e$--$\nu_{\mu}$ oscillations, with $
+m_{\nu_{\mu}}^2 \sim 10^{-10}\, {\rm eV}^2 $. These solutions require
+unexpectedly large mixings of $ \nu_e $ with $ \nu_{\tau} $ and $ \nu_{\mu} $,
+respectively. I suggest a variation of the Dimopoulos--Hall--Raby model for the
+fermion mass matrices which can accomodate such large mixings.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 18:36:22 GMT""}]","2009-10-22"
+"hep-ph/9312254","Sean Carroll","James A. Bryan, Sean M. Carroll, and Ted Pyne","A Texture Bestiary","34 pages, plain Tex. (Minor corrections to an old paper.)","Phys.Rev. D50 (1994) 2806-2818","10.1103/PhysRevD.50.2806","MIT-CTP-2263","hep-ph astro-ph",,"  Textures are topologically nontrivial field configurations which can exist in
+a field theory in which a global symmetry group $G$ is broken to a subgroup
+$H$, if the third homotopy group $\p3$ of $G/H$ is nontrivial. We compute this
+group for a variety of choices of $G$ and $H$, revealing what symmetry breaking
+patterns can lead to texture. We also comment on the construction of texture
+configurations in the different models.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 21:49:14 GMT""},{""version"":""v2"",""created"":""Thu, 16 Jun 1994 18:34:11 GMT""},{""version"":""v3"",""created"":""Tue, 25 Jul 1995 20:24:41 GMT""}]","2009-10-22"
+"hep-ph/9312255","Eletsky Vladimir","V.L. Eletsky and Ian I. Kogan","The Goldberger -- Treiman Relation, $g_A$ and $g_{\pi NN}$ at $T\neq 0$","7p, NSF-ITP-93-145, BUTP-93/27, PUTP-1433, November 1993","Phys.Rev.D49:3083-3086,1994","10.1103/PhysRevD.49.R3083",,"hep-ph nucl-th",,"  The Goldberger-Treiman relation is shown to persist in the chiral limit at
+finite temperatures to order $O(T^2)$. The $T$ dependence of $g_A$ turns out to
+be the same as for $F_{\pi}$, $g_{A}(T)=g_{A}(0)(1-T^2/12F^2)$, while $g_{\pi
+NN}$ is temperature independent to this order. The baryon octet ${\cal D}$ and
+${\cal F}$ couplings also behave as $F_{\pi}$ if only pions are massless in the
+pseudoscalar meson octet.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 00:53:00 GMT""}]","2009-12-30"
+"hep-ph/9312257","Lisa Randall","Csaba Csaki and Lisa Randall","The ACCMM Model and the Heavy Quark Expansion","25 pages, CTP # 2262, 3 uuencoded postscript figures, uses Latex","Phys.Lett.B324:451-460,1994","10.1016/0370-2693(94)90222-4",,"hep-ph",,"  The ACCMM model predicts the lepton spectrum from $B$ meson decay by assuming
+the meson disintegrates into a spectator quark of definite mass and momentum
+distribution and an off shell $b$ quark whose decay leptons (boosted into the
+rest frame of the meson) determine the lepton spectrum. In this letter, we show
+that one can define a model dependent $b$ quark mass so that the spectrum
+derived from the ACCMM model agrees very well with the free quark decay
+spectrum far from the endpoint. Near the endpoint, there is some disagreement,
+indicating the result is more model dependent. The integrated spectra are
+however very nearly identical. These results are in accordance with
+expectations based on the heavy quark effective theory. The detailed analytic
+study of this model helps elucidate the HQET result, and in particular the
+meaning of the $b$ quark mass. We conclude that for LEP experiments, free quark
+decay might be as general and more simple than the ACCMM ansatz for modeling
+the inclusive charged lepton spectrum from $B$ meson decay.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 03:53:03 GMT""},{""version"":""v2"",""created"":""Sun, 26 Dec 1993 20:36:37 GMT""}]","2009-09-15"
+"hep-ph/9312258",,"P.Colangelo and P.Santorelli","Dependence of the Form Factors of $B \to \pi \ell \nu$ on the Heavy
+  Quark Mass","Latex, 10 pages, 2 figures (PostScript files included),
+  BARI-TH/93-163, DSF-T-93/45, INFN-NA-IV-93/45","Phys.Lett.B327:123-128,1994","10.1016/0370-2693(94)91539-3",,"hep-ph",,"  We use QCD sum rules to analyze the semileptonic transition $B \to \pi \ell
+\nu$ in the limit $m_b \to \infty$. We derive the dependence of the form factor
+$F_1(0)$ on the heavy quark mass, which is compatible with the expected
+dependence for the simple pole model of $F_1(q^2)$.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 11:56:00 GMT""}]","2010-11-01"
+"hep-ph/9312259","Gianpiero Mangano","G. Mangano, G. Miele and G. Migliore","Quantum statistical effects on parton distribution scaling behaviour","12 pages; latex; FERMILAB-Pub-93/380-A",,,,"hep-ph",,"  Starting from the old idea that Fermi statistics for quarks play a
+fundamental role to explain some features of hadron structure, we study the
+modification of the scaling behaviour of parton distributions due to quantum
+statistical effects. In particular, by following an interesting formal analogy
+which holds between the Altarelli-Parisi evolution equations, in leading-log
+approximation, and a set of Boltzmann equations, we generalize the evolution
+equations to take into account Pauli exclusion principle and gluon induced
+emission.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 10:31:55 GMT""}]","2007-05-23"
+"hep-ph/9312260","Richard Ball","R. D. Ball and G. Ripka","The Regularization of the Fermion Determinant in Chiral Quark Models","12/8 pages (b/l), plain TeX with harvmac, SphT93/138",,,,"hep-ph nucl-th",,"  The momentum dependence of the quark self energy gives a physically motivated
+and consistent regularization of both the real and imaginary parts of the quark
+loop contribution to the meson action. We show that the amplitudes for
+anomalous processes are always reproduced correctly.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 15:17:25 GMT""}]","2007-05-23"
+"hep-ph/9312261","Igor Halperin","Igor Halperin","Veneziano Ghost Versus Isospin Breaking","16 pages , Preprint TAUP-2127-93","Phys.Rev. D50 (1994) 4602-4610","10.1103/PhysRevD.50.4602",,"hep-ph",,"  It is argued that an account for the Veneziano ghost pole, appearing in
+resolving the U(1) problem, is necessary for understanding an isospin violation
+in the $ \pi - \eta - \eta' $ system. By virtue of a perturbative expansion
+around the $ SU(2)_{V} $ ( $ m_{u} = m_{d} $ ) symmetric Veneziano solution, we
+find that the ghost considerably suppresses isospin breaking gluon and s-quark
+matrix elements. We speculate further on a few cases where the proposed
+mechanism can play an essential role. We discuss the isospin violation in
+meson-nucleon couplings and its relevance to the problem of charge asymmetric
+nuclear forces and possible breaking of the Bjorken sum rule. It is shown that
+the ghost pole could yield the isospin violation of order 2 \% for the $ \pi N
+$ couplings and 20 \% for the
+  Bjorken sum rule.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 16:28:37 GMT""},{""version"":""v2"",""created"":""Sun, 12 Dec 1993 13:49:01 GMT""}]","2009-10-22"
+"hep-th/9312071",,"Chan Hong-Mo, J. Faridani and Tsou Sheung Tsun","Classical and Quantum Mechanics of Dirac-like Topological Charges in
+  Yang-Mills Fields","25 pages, standard Latex format (RAL-93-079)",,,,"hep-th",,"  Most nonabelian gauge theories admit the existence of conserved and quantized
+topological charges as generalizations of the Dirac monopole. Their
+interactions are dictated by topology. In this paper, previous work in deriving
+classical equations of motion for these charges is extended to quantized
+particles described by Dirac wave functions. The resulting equations show
+intriguing similarities to the Yang-Mills theory. Further, although the system
+is not dual symmetric, its gauge symmetry is nevertheless doubled as in the
+abelian case from $G$ to $G \times G$, where the second $G$ has opposite parity
+to the first but is mediated instead by an antisymmetric second-rank tensor
+potential. (hep-th/yymmnnn)
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 17:48:00 GMT""}]","2009-09-25"
+"hep-th/9312072",,"Chan Hong-Mo, J. Faridani and Tsou Sheung Tsun","Tensor Gauge Potentials in Loop Space Formulation of Yang-Mills Fields","10 pages, standard Latex format (RAL-93-080)",,,,"hep-th",,"  Abstrac: It is shown that an antisymmetric rank-two tensor gauge potential of
+the type first found in string and supersymmetry theories occurs also in
+ordinary Yang-Mills theory when formulated in loop space, where it appears as a
+Lagrange multiplier for a zero curvature constraint necessary and sufficient
+for removing the inherent redundancy of loop variables. It is then further
+shown that the tensor potential acts there as the parallel `phase' transport
+for monopoles. (hep-th/yymmnnn)
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 17:49:00 GMT""}]","2007-05-23"
+"hep-th/9312073",,"Peter Schupp, Paul Watts and Bruno Zumino","Cartan Calculus on Quantum Lie Algebras","15 pages in LaTeX, LBL-34833 and UCB-PTH-93/32","Adv. Appl. Clifford Alg.(Proc. Suppl.)4-S1 (1994) 125",,,"hep-th",,"  A generalization of the differential geometry of forms and vector fields to
+the case of quantum Lie algebras is given. In an abstract formulation that
+incorporates many existing examples of differential geometry on quantum spaces
+we combine an exterior derivative, inner derivations, Lie derivatives, forms
+and functions all into one big algebra, the ``Cartan Calculus''. (This is an
+extended version of a talk presented by P. Schupp at the XXII$^{th}$
+International Conference on Differential Geometric Methods in Theoretical
+Physics, Ixtapa, Mexico, September 1993)
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 00:20:42 GMT""}]","2007-05-23"
+"hep-th/9312074","Hai Ren","Hai Ren","Fermions in a Global Monopole Background","CU-TP-618, 9 pages. (minor changes)","Phys.Lett. B325 (1994) 149-156","10.1016/0370-2693(94)90085-X",,"hep-th",,"  We study the scattering of fermions in a ``global monopole'' background
+metric. This is the four-dimensional analogue of the scattering on a cone in
+three dimensions. The scattering amplitude is exactly obtained. We then study
+massless fermion-dyon systems in such a background metric. The density of the
+$S$-wave fermion condensate is found to be given by a constant times the flat
+space value of Callan and Rubakov.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 01:57:40 GMT""},{""version"":""v2"",""created"":""Mon, 13 Dec 1993 00:22:30 GMT""},{""version"":""v3"",""created"":""Thu, 30 Dec 1993 00:13:01 GMT""}]","2009-10-22"
+"hep-th/9312075",,"Peter Schupp","Quantum Groups, Non-Commutative Differential Geometry and Applications","137 pages, PhD thesis",,,"LBL-34942 & UCB-93/35","hep-th math.QA",,"  The topic of this thesis is the development of a versatile and geometrically
+motivated differential calculus on non-commutative or quantum spaces, providing
+powerful but easy-to-use mathematical tools for applications in physics and
+related sciences. A generalization of unitary time evolution is proposed and
+studied for a simple 2-level system, leading to non-conservation of microscopic
+entropy, a phenomenon new to quantum mechanics. A Cartan calculus that combines
+functions, forms, Lie derivatives and inner derivations along general vector
+fields into one big algebra is constructed for quantum groups and then extended
+to quantum planes. The construction of a tangent bundle on a quantum group
+manifold and an BRST type approach to quantum group gauge theory are given as
+further examples of applications. The material is organized in two parts: Part
+I studies vector fields on quantum groups, emphasizing Hopf algebraic
+structures, but also introducing a `quantum geometric' construction. Using a
+generalized semi-direct product construction we combine the dual Hopf algebras
+\A\ of functions and \U\ of left-invariant vector fields into one fully
+bicovariant algebra of differential operators. The pure braid group is
+introduced as the commutant of $\Delta (\U)$. It provides invariant maps $\A
+\to \U$ and thereby bicovariant vector fields, casimirs and metrics. This
+construction allows the translation of undeformed matrix expressions into their
+less obvious quantum algebraic counter parts. We study this in detail for
+quasitriangular Hopf algebras, giving the determinant and
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 02:28:21 GMT""}]","2008-02-03"
+"hep-th/9312076",,"Peter Schupp","From Quantum Planes to Quantum Groups and back; Cartan Calculus","49 pages",,,,"hep-th math.QA",,"  A Cartan Calculus of Lie derivatives, differential forms, and inner
+derivations, based on an undeformed Cartan identity, is constructed. We attempt
+a classification of various types of quantum Lie algebras and present a fairly
+general example for their construction, utilizing pure braid methods, proving
+orthogonality of the adjoint representation and giving a (Killing) metric and
+the quadratic casimir. A reformulation of the Cartan calculus as a braided
+algebra and its extension to quantum planes, directly and induced from the
+group calculus, are provided.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 03:36:26 GMT""}]","2008-02-03"
+"hep-th/9312077",,"Rulin Xiu","The Weak Scale Measurements Constraints on String Models","14, LBL-34561, UCB-PTH-93/23","Phys.Rev. D49 (1994) 6656-6662","10.1103/PhysRevD.49.6656",,"hep-th",,"  The derived modular invariant one-loop string effective coupling constant has
+been used to discuss the weak scale measurement constraints on minimal
+superstring models, minimal SUSY left-right string models and minimal
+left-right SUSY string models. The string intermediate gauge symmetry breaking
+models are proposed. The possible schemes to predict $M_{GUT} = 10^{16}GeV$ and
+$M_{SUSY}= 1 TeV$ in string models have been discussed. It is also demonstrated
+that string unification is more restricted by the experiments than any other
+unification models are.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 09:00:07 GMT""}]","2009-10-22"
+"hep-th/9312078",,"Andreas W. Wipf","Hamilton's Formalism for Systems with Constraints","52 pages, revised LATEX version, ETH-TH/93-48, Lectures given at the
+  Seminar ""The Canonical Formalism in Classical and Quantum General
+  Relativity"", Bad Honnef, September 93",,"10.1007/3-540-58339-4_14",,"hep-th",,"  The main goal of these lectures is to introduce and review the Hamiltonian
+formalism for classical constrained systems and in particular gauge theories.
+Emphasis is put on the relation between local symmetries and constraints and on
+the relation between Lagrangean and Hamiltonian symmetries.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 10:44:00 GMT""},{""version"":""v2"",""created"":""Fri, 17 Dec 1993 11:03:00 GMT""},{""version"":""v3"",""created"":""Mon, 20 Dec 1993 12:29:00 GMT""}]","2009-10-22"
+"hep-th/9312079","Takashi Suzuki","Takashi Suzuki","More on $U_q(su(1,1))$ with $q$ a Root of Unity","24 pages","J.Math.Phys. 35 (1994) 6857-6874","10.1063/1.530646","Edinburgh/92-93/05","hep-th math.QA",,"  Highest weight representations of $U_q(su(1,1))$ with $q=\exp \pi i/N$ are
+investigated. The structures of the irreducible hieghesat weight modules are
+discussed in detail. The Clebsch-Gordan decomposition for the tensor product of
+two irreducible representations is discussed. By using the results, a
+representation of $SL(2,R)\otimes U_q(su(2))$ is also presented in terms of
+holomorphic sections which also have $U_q(su(2))$ index. Furthermore we realise
+$Z_N$-graded supersymmetry in terms of the representation. An explicit
+realization of $Osp(1 \vert 2)$ via the heighest weight representation of
+$U_q(su(1,1))$ with $q^2=-1$ is given.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 10:04:51 GMT""}]","2009-10-22"
+"hep-th/9312080",,"J.S.Dowker","Functional determinants on spheres and sectors","14 pages,4 figures on request,Plain TeX","J.Math.Phys. 35 (1994) 4989-4999; Erratum-ibid. 36 (1995) 988","10.1063/1.531171","MUTP/93/28","hep-th funct-an math.FA",,"  The scalar functional determinants on sectors of the two-dimensional disc and
+spherical cap are determined for arbitrary angles (rational factors of $\pi$).
+The wholesphere and hemisphere expressions are also given, in low dimensions,
+for both the ordinary and the conformal Laplacian. Comparisons are made with
+other work.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 10:02:30 GMT""}]","2009-10-22"
+"hep-th/9312081","Alexandre T. Filippov, Dubna","A.T.Filippov and A.B.Kurdikov","Paragrassmann Algebras with Many Variables","12 pages",,,"DFTT 77/93, Torino, December 1993","hep-th",,"  This is a brief review of our recent work attempted at a generalization of
+the Grassmann algebra to the paragrassmann ones. The main aim is constructing
+an algebraic basis for representing `fractional' symmetries appearing in $2D$
+integrable models and also introduced earlier as a natural generalization of
+supersymmetries. We have shown that these algebras are naturally related to
+quantum groups with $q = {\rm root \;of \; unity}$. By now we have a general
+construction of the paragrassmann calculus with one variable and preliminary
+results on deriving a natural generalization of the Neveu--Schwarz--Ramond
+algebra. The main emphasis of this report is on a new general construction of
+paragrassmann algebras with any number of variables, N. It is shown that for
+the nilpotency indices $(p + 1) = 3, 4, 6$ the algebras are almost as simple as
+the Grassmann algebra (for which $(p + 1) = 2$). A general algorithm for
+deriving algebras with arbitrary p and N is also given. However, it is shown
+that this algorithm does not exhaust all possible algebras, and the simplest
+example of an `exceptional' algebra is presented for $p = 4, N = 4$.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 11:11:24 GMT""}]","2007-05-23"
+"hep-th/9312082",,"Henrique Boschi-Filho","Chiral Anomaly at Infinite Temperature","(revised and extended version), Latex file, 15 pages, preprint
+  IF/UFRJ",,,,"hep-th",,"  Using the heat kernel regularization we show that the Abelian chiral anomaly
+in the limit of infinite temperature it is not a well defined quantity,
+contrary to what happens at any finite temperature. We show that there is an
+ambiguity in the ordering of the limits of infinite temperature and removal of
+the cut-off so that changing this ordering we find different results for the
+chiral anomaly. We discuss these cases and their possible interpretation.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 13:12:37 GMT""},{""version"":""v2"",""created"":""Wed, 1 Jun 1994 17:58:19 GMT""}]","2016-09-06"
+"hep-th/9312084","Hector DE Vega","H. J. de Vega","The Yang--Baxter Symmetry in Field Theory","38 pages,uses phyzzx, figures available under request, LPTHE-PAR
+  93/36",,,,"hep-th",,"  This is a review on infinite non-abelian symmetries in two-dimensional field
+theories. We show how any integrable QFT enjoys the existence of infinitely
+many {\bf conserved} charges. These charges {\bf do not commute} between them
+and satisfy a Yang--Baxter algebra. They are generated by quantum monodromy
+operators and provide a representation of $q-$deformed affine Lie algebras
+$U_q({\hat\G})$. We review the work by de Vega, Eichenherr and Maillet on the
+bootstrap construction of the quantum monodromy operators in classically scale
+invariant theories where the classical monodromy matrix is conserved. Then, the
+recent generalization to the sine--Gordon (or massive Thirring) model, where
+such operators do not possess a classical analogue is given (This provides a
+representation of $S{\hat U}(2)_q$). It is then reported on the recent work by
+Destri and de Vega, where both commuting and non-commuting integrals of motion
+are systematically obtained by Bethe Ansatz in the light-cone approach. The
+eigenvalues of the six--vertex alternating transfer matrix $\tau(\l)$ are
+explicitly computed on a generic physical state through algebraic Bethe ansatz.
+In the thermodynamic limit $\tau(\l)$ turns out to be a two--valued periodic
+function. One determination generates the local abelian charges, including
+energy and momentum, while the other yields the abelian subalgebra of the
+(non--local) YB algebra. In particular, the bootstrap results coincide with the
+ratio between the two determinations of the lattice transfer matrix.[Based on a
+Lecture at the Clausthal Symposium].
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 14:53:00 GMT""}]","2016-09-06"
+"hep-th/9312085","Hector DE Vega","H.J. de Vega, J. Ram\'irez Mittelbrunn, M. Ram\'on Medrano and N.
+  S\'anchez","The General Solution of the 2-D Sigma Model Stringy Black Hole and the
+  Massless Complex Sine-Gordon Model","12 pages, uses phyzzx, LPTHE-PAR 93/53","Phys.Lett. B323 (1994) 133-138","10.1016/0370-2693(94)90281-X",,"hep-th",,"  The exact general solution for a sigma model having the $2-d$ stringy black
+hole (SBH) as internal manifold is found in closed form. We also give the exact
+solution for the massless complex Sine-Gordon (MCSG) model. Both, models and
+their solutions are related by analytic continuation. The solution is expressed
+in terms of four arbitrary functions of one variable. (hep-th 9312085).
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 15:05:46 GMT""},{""version"":""v2"",""created"":""Thu, 23 Dec 1993 15:40:36 GMT""}]","2016-08-14"
+"hep-th/9312086","Andrei Mikhailov","A.Mikhailov","Comultiplication in ABCD algebra and scalar products of Bethe wave
+  functions","9 pages","Phys.Lett. B325 (1994) 143-148; Theor.Math.Phys. 100 (1995)
+  886-889","10.1016/0370-2693(94)90084-1","FIAN/TD-20/93","hep-th",,"  The representation of scalar products of Bethe wave functions in terms of the
+Dual Fields, proven by A.G.Izergin and V.E.Korepin in 1987, plays an important
+role in the theory of completely integrable models. The proof in
+\cite{Izergin87} and \cite{Korepin87} is based on the explicit expression for
+the ""senior"" coefficient which was guessed in \cite{Izergin87} and then proven
+to satisfy some recurrent relations, which determine it unambiguously. In this
+paper we present an alternative proof based on the direct computation.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 15:19:56 GMT""},{""version"":""v2"",""created"":""Mon, 20 Dec 1993 08:19:34 GMT""}]","2009-10-22"
+"nucl-th/9312008",,"G.Peilert, T.C.Sangster, M.N.Namboodiri, and H.C.Britt","The Multifragmentation Freeze--Out Volume in Heavy Ion Collisions","8 pages; 3 uuencoded figures available with figures command, LateX,
+  UCRL-J-11571","J.Phys. G20 (1994) L105-L110","10.1088/0954-3899/20/9/003",,"nucl-th",,"  The reduced velocity correlation function for fragments from the reaction Fe
++ Au at 100 A~MeV bombarding energy is investigated using the
+dynamical--statistical approach QMD+SMM and compared to experimental data to
+extract the Freeze--Out volume assuming simultaneous multifragmentation.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 19:35:04 GMT""}]","2009-10-22"

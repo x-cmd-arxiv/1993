@@ -1,0 +1,115 @@
+"cond-mat/9302010",,"Frederic Mila and Xenophon Zotos","Phase diagram of the one-dimensional extended Hubbard model at quarter
+  filling","13 pages + 1 postscript figure at the end of the file, REVTEX",,"10.1209/0295-5075/24/2/010",,"cond-mat",,"  We used exact diagonalization of small clusters and exact results in various
+limits to determine the phase diagram and the critical exponents of the one
+dimensional (1D) $U-V$ model at quarter-filling. We found an instability of the
+Luttinger liquid to a charge-density wave (CDW) insulator across a boundary
+going from ($U$,$V$) =($+\infty$,$2t$) to ($4t$,$+\infty$). In the metallic
+phase, the dominant fluctuations are superconducting if $V$ is large enough and
+spin-density wave (SDW) otherwise. In the latter case, the critical exponent
+$\alpha$ of the momentum distribution does not exceed 9/16. The relevance of
+these results to 1D organic conductors is discussed.
+","[{""version"":""v1"",""created"":""Sat, 6 Feb 1993 15:22:00 GMT""}]","2009-10-22"
+"gr-qc/9302004",,"S.D.Odintsov","Two-loop effective potential in quantum field theory in curved
+  space-time","8pages","Phys.Lett.B306:233-236,1993","10.1016/0370-2693(93)90073-Q",,"gr-qc",,"  The method of the calculation of effective potential (in linear curvature
+approximation and at any loop) in massless gauge theory in curved space- time
+by the direct solution of RG equation is given.The closed expression for
+two-loop effective potential is obtained.Two-loop effective potential in scalar
+self-interacting theory is written explicitly.Some comments about it as well as
+about two-loop effective potential in standard model are presented.
+","[{""version"":""v1"",""created"":""Fri, 5 Feb 1993 16:49:53 GMT""}]","2016-08-31"
+"gr-qc/9302006","Jack Gegenberg","J. Gegenberg and G. Kunstatter","Quantum Theory of Black Holes","Plain-TeX, 13 pages, no figures, WIN-92-9, UNB Tech. Rep. 92-05","Phys.Rev.D47:4192-4195,1993","10.1103/PhysRevD.47.R4192",,"gr-qc hep-th",,"  A solvable 2-dimensional conformally invariant midi-superspace model for
+black holes is obtained by imposing spherical symmetry in 4-dimensional
+conformally invariant Einstein gravity. The Wheeler-DeWitt equation for the
+theory is solved exactly to obtain the unique quantum wave functional for an
+isolated black hole with fixed mass. By suitably relaxing the boundary
+conditions, a non-perturbative ansatz is obtained for the wave functional of a
+black hole interacting with its surroundings.
+","[{""version"":""v1"",""created"":""Fri, 5 Feb 1993 19:41:14 GMT""}]","2009-12-30"
+"hep-ph/9302225","David A. Kosower","Walter T. Giele, E. W. Nigel Glover, David A. Kosower","Higher Order Corrections to Jet Cross Sections in Hadron Colliders","36 pages (LaTeX/RevTeX) & 13 figures available by anonymous ftp from
+  fnth06.fnal.gov (as pub/submissions/92.230figs/hocfigures.uu; the entire
+  paper is also available in pub/Fermilab-Pub/92.230/dy_theory.ps.Z),
+  FERMILAB-Pub-92/230-T, DTP/92/64, CERN-TH.6750/92","Nucl.Phys.B403:633-670,1993","10.1016/0550-3213(93)90365-V",,"hep-ph",,"  We describe a general method of calculating the fully differential cross
+section for the production of jets at next-to-leading order in a hadron
+collider. This method is based on a `crossing' of next-to-leading order
+calculations with all partons in the final state. The method introduces
+universal crossing functions that allow a modular approach to next-to-leading
+order calculations for any process with initial state partons. These techniques
+are applied to the production of jets in association with a vector boson
+including all decay correlations of the final state observables.
+","[{""version"":""v1"",""created"":""Fri, 5 Feb 1993 17:10:41 GMT""}]","2008-11-26"
+"hep-ph/9302226",,"S. G. Naculich and C.-P. Yuan","Inelastic Channels in WW Scattering","phyzzx, 13 pp. plus 4 figures, JHU-TIPAC-930005, MSUHEP-93/02","Phys.Rev.D48:1097-1103,1993","10.1103/PhysRevD.48.1097",,"hep-ph",,"  If the electroweak symmetry-breaking sector becomes strongly interacting at
+high energies, it can be probed through longitudinal $W$ scattering. We present
+a model with many inelastic channels in the $W_L W_L$ scattering process,
+corresponding to the production of heavy fermion pairs. These heavy fermions
+affect the elastic scattering of $W_L$'s by propagating in loops, greatly
+reducing the amplitudes in some charge channels. We conclude that the
+symmetry-breaking sector cannot be fully explored by using, for example, the
+$W_L^\pm W_L^\pm$ mode alone, even when no resonance is present; all $W_L W_L
+\to W_L W_L$ scattering modes must be measured.
+","[{""version"":""v1"",""created"":""Fri, 5 Feb 1993 19:03:08 GMT""}]","2008-11-26"
+"hep-ph/9302227","J. A. Casas","J.A. Casas and C. Munoz","A Natural Solution to the MU Problem","11 pages, CERN-TH.6764/92","Phys.Lett.B306:288-294,1993","10.1016/0370-2693(93)90081-R",,"hep-ph",,"  We propose a simple mechanism for solving the $\mu$ problem in the context of
+minimal low--energy supergravity models. This is based on the appearance of
+non--renormalizable couplings in the superpotential. In particular, if $H_1H_2$
+is an allowed operator by all the symmetries of the theory, it is natural to
+promote the usual renormalizable superpotential $W_o$ to $W_o+\lambda W_o
+H_1H_2$, yielding an effective $\mu$ parameter whose size is directly related
+to the gravitino mass once supersymmetry is broken (this result is maintained
+if $H_1H_2$ couples with different strengths to the various terms present in
+$W_o$). On the other hand, the $\mu$ term must be absent from $W_o$, otherwise
+the natural scale for $\mu$ would be $M_P$. Remarkably enough, this is entirely
+justified in the supergravity theories coming from superstrings, where mass
+terms for light fields are forbidden in the superpotential. We also analyse the
+$SU(2)\times U(1)$ breaking, finding that it takes place satisfactorily.
+Finally, we give a realistic example in which supersymmetry is broken by
+gaugino condensation, where the mechanism proposed for solving the $\mu$
+problem can be gracefully implemented.
+","[{""version"":""v1"",""created"":""Fri, 5 Feb 1993 19:31:01 GMT""}]","2008-11-26"
+"hep-ph/9302228",,"Howard E. Haber and Yosef Nir","Z\rightarrow A^0 A^0\nu\bar\nu$ and $e^+e^-\rightarrow A^0 A^0 Z$ in Two
+  Higgs Doublet Models","16 pages, PHYZZX format","Phys.Lett. B306 (1993) 327-334","10.1016/0370-2693(93)90087-X",,"hep-ph",,"  In LEP searches for the neutral CP-odd scalar $A^0$ of a multi-Higgs doublet
+model, experimenters have searched for $Z\rightarrow h^0 A^0$ (where $h^0$ is
+the lightest CP-even scalar). No model-independent limit on the $A^0$ mass can
+be deduced from present data if $m_{h^0}>m_Z$. In this paper, we compute the
+rates for $Z\rightarrow A^0 A^0\nu\bar\nu$ and $e^+e^-\rightarrow A^0 A^0 Z$.
+Assuming that no light CP-even neutral scalars exist, the branching ratio for
+$Z\rightarrow A^0 A^0\nu\bar\nu$ is found to be less than $1.4\times10^{-8}$.
+At higher $e^+e^-$ center-of-mass energies, $\sigma(e^+e^-\rightarrow A^0 A^0
+Z)$ peaks at $0.5$~fb. A comparison with other direct searches for the $A^0$ is
+briefly considered.
+","[{""version"":""v1"",""created"":""Sat, 6 Feb 1993 00:44:00 GMT""}]","2009-10-22"
+"hep-ph/9302229",,"Jihn E. Kim and B-A Lindholm","Neutrino masses from discrete gauge symmetries","SNUTP 92-105, Latex","Phys.Lett. B307 (1993) 370-374","10.1016/0370-2693(93)90235-A",,"hep-ph",,"  We investigate a model with an extra $Z_{2}$ gauge symmetry in the Standard
+Model. We assume that only the scalars and the leptons carry non-zero charge.
+The symmetry gives a structure to the mass matrix for the neutrinos. With two
+extra Higgs singlets and two extra singlet right-handed neutrinos we can build
+a model that fits the requirements of the MSW-solution of the Solar neutrino
+problem. With a third singlet right-handed neutrino it is also possible to have
+a 10 eV neutrino, a dark matter candidate.
+","[{""version"":""v1"",""created"":""Sat, 6 Feb 1993 12:50:05 GMT""}]","2009-10-22"
+"hep-th/9302020","Petr Horava","Petr Horava","Spacetime Diffeomorphisms and Topological W-Infinity Symmetry in Two
+  Dimensional Topological String Theory","EFI-92-70; 36 pages, no figures; requires PHYZZX","Nucl.Phys. B414 (1994) 485-516","10.1016/0550-3213(94)90438-3",,"hep-th",,"  This paper analyzes spacetime symmetries of topological string theory on a
+two dimensional torus, and points out that the spacetime geometry of the model
+is that of the Batalin-Vilkovisky formalism. Previously I found an infinite
+symmetry algebra in the absolute BRST cohomology of the model. Here I find an
+analog of the BV $\Delta$ operator, and show that it defines a natural
+semirelative BRST cohomology. In the absolute cohomology, the ghost-number-zero
+symmetries form the algebra of all infinitesimal spacetime diffeomorphisms,
+extended at non-zero ghost numbers to the algebra of all odd-symplectic
+diffeomorphisms on a spacetime supermanifold. In the semirelative cohomology,
+the symmetries are reduced to $w_\infty$ at ghost number zero, and to a
+topologically twisted N=2 $w_\infty$ superalgebra when all ghost numbers are
+included. I discuss deformations of the model that break parts of the spacetime
+symmetries while preserving the topological BRST symmetry on the worldsheet. In
+the absolute cohomology of the deformed model, another topological $w_\infty$
+superalgebra may emerge, while the semirelative cohomology leads to a bosonic
+$w_\infty$ symmetry.
+","[{""version"":""v1"",""created"":""Fri, 5 Feb 1993 22:57:20 GMT""}]","2009-10-22"
+"nucl-th/9302004","Jorge Piekarewicz","C.J. Horowitz and J. Piekarewicz","Relativistic and Nuclear Structure Effects in Parity-Violating
+  Quasielastic Electron Scattering","23 pages, Latex with Revtex, 17 figures (not included); HARD copies
+  available on request, SCRI-020593","Phys.Rev.C47:2924-2936,1993","10.1103/PhysRevC.47.2924",,"nucl-th",,"  The parity violating longitudinal asymmetry ${\cal A}$ is calculated for
+quasielastic electron scattering. We use a variety of relativistic mean field
+models for the response of nuclear matter and $^{12}$C at a momentum transfer
+of q=550 MeV/c. Relativistic effects from a reduced nucleon mass, RPA
+correlations and vacuum polarization can all change ${\cal A}$ by a relatively
+large amount. These large nuclear structure corrections could make it
+impossible to extract strange quark matrix elements or radiative corrections to
+weak axial currents.
+","[{""version"":""v1"",""created"":""Fri, 5 Feb 1993 16:44:42 GMT""}]","2008-11-26"

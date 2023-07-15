@@ -1,0 +1,192 @@
+"astro-ph/9307035",,"M.S. Turner","Recovering the Inflationary Potential","13 pages LaTeX, 6 Figs. available on request, FNAL-Pub-93/182-A","Phys. Rev. D 48, 5539 (1993)","10.1103/PhysRevD.48.5539",,"astro-ph hep-ph",,"  A procedure is developed for the recovery of the inflationary potential over
+the interval that affects astrophysical scales ($\approx 1\Mpc - 10^4\Mpc$).
+The amplitudes of the scalar and tensor metric perturbations and their
+power-spectrum indices, which can in principle be inferred from large-angle CBR
+anisotropy experiments and other cosmological data, determine the value of the
+inflationary potential and its first two derivatives. From these, the
+inflationary potential can be reconstructed in a Taylor series and the
+consistency of the inflationary hypothesis tested. A number of examples are
+presented, and the effect of observational uncertainties is discussed.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 13:02:59 GMT""}]","2013-11-13"
+"astro-ph/9307036",,"Marco Bruni (School of Mathematical Sciences, Queen Mary and Westfield
+  College, University of London, Mile End Road, London E1 4NS, UK., and
+  Dipartimento di Astronomia, Universit\`a degli Studi di Trieste, via Tiepolo
+  11, 34131 Trieste, Italy) and David H. Lyth (School of Physics and Materials,
+  Lancaster University, Lancaster LA1 4YB, UK.)","Peculiar Velocity, Cosmic Perturbation Theory and the CMB Anisotropy","9 pages, REVTEX, LANCS 9321","Phys.Lett.B323:118-123,1994","10.1016/0370-2693(94)90279-8",,"astro-ph hep-ph",,"  This is a somewhat extended version of the original July 93 report. It is
+proved that the cosmological density perturbation is associated with a peculiar
+velocity field. This allows a simple formulation of cosmological perturbation
+theory, which works entirely with quasi-Newtonian fluid flow equations. As an
+illustration, the large scale cosmic microwave background anisotropy
+(Sachs-Wolfe effect) is calculated without any reference to the metric
+perturbation. In addition, assuming the usual adiabatic initial condition on
+the density perturbation, we show that the dipole of the anisotropy measures
+our peculiar velocity relative to the average peculiar velocity within the last
+scattering surface of the microwave background, thus defining its frame of
+reference.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 15:21:00 GMT""},{""version"":""v2"",""created"":""Mon, 13 Dec 1993 11:24:00 GMT""}]","2010-11-01"
+"cond-mat/9307053",,"J. P. Doherty, M. A. Moore, J. M. Kim and A. J. Bray","Generalizations of the KPZ equation (minor changes to enable easy
+  latexing)","12 pages + 2 figures available on request, LaTeX version 3.1",,,,"cond-mat",,"  We generalize the KPZ equation to an O(3) $N=2j+1$ component model. In the
+limit $N \to \infty$ we show that the mode coupling equations become exact.
+Solving these approximately we find that the dynamic exponent $z$ increases
+from $3/2$ for $d=1$ to $2$ at the dimension $d\approx3.6$. For $d=1$ it can be
+shown analytically that $z=3/2$ for all $j$. The case $j=2$ for $d=2$ is
+investigated by numerical integration of the KPZ equation.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 14:08:13 GMT""},{""version"":""v2"",""created"":""Fri, 30 Jul 1993 14:08:13 GMT""}]","2008-02-03"
+"cond-mat/9307054","Jysoo Lee","Jysoo Lee and Michael Leibig (HLRZ-KFA J\""ulich, Postfach 1913, W-5170
+  J\""ulich, Germany)","Density Waves in Granular Flow: A Kinetic Wave Approach","RevTeX, HLRZ preprint 46/93, 4 figures available upon request",,"10.1051/jp1:1994156",,"cond-mat",,"  It was recently observed that sand flowing down a vertical tube sometimes
+forms a traveling density pattern in which a number of regions with high
+density are separated from each other by regions of low density. In this work,
+we consider this behavior from the point of view of kinetic wave theory.
+Similar density patterns are found in molecular dynamic simulations of the
+system, and a well defined relationship is observed between local flux and
+local density -- a strong indicator of the presence of kinetic waves. The
+equations of motion for this system are also presented, and they allow kinetic
+wave solutions. Finally, the pattern formation process is investigated using a
+simple model of interacting kinetic waves.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 15:20:37 GMT""}]","2016-08-14"
+"gr-qc/9307035","Jacob Bekenstein","Jacob D. Bekenstein (University of California at Santa Barbara and
+  Hebrew University)","Entropy Bounds and Black Hole Remnants","12 pages, UCSBTH-93-23","Phys.Rev. D49 (1994) 1912-1921","10.1103/PhysRevD.49.1912",,"gr-qc hep-th",,"  We rederive the universal bound on entropy with the help of black holes while
+allowing for Unruh--Wald buoyancy. We consider a box full of entropy lowered
+towards and then dropped into a Reissner--Nordstr\""om black hole in equilibrium
+with thermal radiation. We avoid the approximation that the buoyant pressure
+varies slowly across the box, and compute the buoyant force exactly. We find,
+in agreement with independent investigations, that the neutral point
+generically lies very near the horizon. A consequence is that in the generic
+case, the Unruh--Wald entropy restriction is neither necessary nor sufficient
+for enforcement of the generalized second law. Another consequence is that
+generically the buoyancy makes only a negligible contribution to the energy
+bookeeping, so that the original entropy bound is recovered if the generalized
+second law is assumed to hold. The number of particle species does not figure
+in the entropy bound, a point that has caused some perplexity. We demonstrate
+by explicit calculation that, for arbitrarily large number of particle species,
+the bound is indeed satisfied by cavity thermal radiation in the thermodynamic
+regime, provided vacuum energies are included. We also show directly that
+thermal radiation in a cavity in $D$ dimensional space also respects the bound
+regardless of the value of $D$. As an application of the bound we show that it
+strongly restricts the information capacity of the posited black hole remnants,
+so that they cannot serve to resolve the information paradox.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 1993 16:29:07 GMT""}]","2009-10-22"
+"gr-qc/9307036",,"Andrew R Liddle","Can the Gravitational Wave Background from Inflation be Detected
+  Locally?","8 pages, standard LaTeX (no figures), SUSSEX-AST 93/7-3","Phys.Rev.D49:3805,1994; Erratum-ibid.D51:4603,1995;
+  Phys.Rev.D51:4603,1995","10.1103/PhysRevD.49.3805 10.1103/PhysRevD.51.4603",,"gr-qc astro-ph",,"  The Cosmic Background Explorer (COBE) detection of microwave background
+anisotropies may contain a component due to gravitational waves generated by
+inflation. It is shown that the gravitational waves from inflation might be
+seen using `beam-in-space' detectors, but not the Laser Interferometer Gravity
+Wave Observatory (LIGO). The central conclusion, dependent only on weak
+assumptions regarding the physics of inflation, is a surprising one. The larger
+the component of the COBE signal due to gravitational waves, the {\em smaller}
+the expected local gravitational wave signal.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 15:01:00 GMT""}]","2014-11-17"
+"hep-lat/9307017","Alain Billoire","A. Billoire, T. Neuhaus and B. Berg","A Determination of Interface Free Energies","Submited to Nuclear Physics B (FS) Latex file, 24 pages, 11
+  PostScript figures. Saclay preprint SPhT-93/65","Nucl.Phys. B413 (1994) 795-812","10.1016/0550-3213(94)90013-2",,"hep-lat cond-mat",,"  We determine the interface free energy $F_{o.d.}$ between disordered and
+ordered phases in the q=10 and q=20 2-d Potts models using the results of
+multicanonical Monte Carlo simulations on $L^2$ lattices, and suitable finite
+volume estimators. Our results, when extrapolated to the infinite volume limit,
+agree to high precision with recent analytical calculations. At the transition
+point $\beta_t$ the probability distribution function of the energy exhibits
+two maxima. Their locations have $1/L^2$ corrections, in contradiction with
+claims of $1/L$ behavior made in the literature. Our data show a flat region
+inbetween the two maxima which characterizes two domain configurations.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 09:53:46 GMT""},{""version"":""v2"",""created"":""Mon, 30 Aug 1993 14:17:52 GMT""}]","2009-10-22"
+"hep-ph/9307331","Andreas Schaale","A.A.Bel'kov, A.V.Lanyov, A.Schaale","Reduction of Vector and Axial--Vector Fields in a Bosonized
+  Nambu--Jona--Lasinio Model","30p. 1 fig. on request",,,,"hep-ph",,"  We derive the effective action for pseudoscalar mesons by integrating out
+vector and axial--vector collective fields in the generating functional of the
+bosonized NJL--model. The corresponding modifications of the nonlinear
+effective Lagrangian and the bosonized currents, arising at $O(p^4)$, are
+discussed.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 11:42:31 GMT""}]","2007-05-23"
+"hep-ph/9307332","Hai-Yang Cheng","Hai-Yang Cheng","Predictions for Semileptonic Decays $\bar{B}\to D(D^*)\pi\ell\bar{\nu}$
+  and Weak Radiative Decays of Bottom Hadrons","Latex, 6 pages, ITP-SB-93-41",,,,"hep-ph",,"  The semileptonic decays $\bar{B}\to D(D^*)\pi\ell\bar{\nu}$ are analyzed by
+heavy quark and chiral symmetries. The branching ratio is of order of a few
+percent for $\dpi$, but it is much smaller for $\dstar$, of order
+$10^{-4}-10^{-5}$. The decay mode $B^-\to D^+\pi^-e^-\bar{\nu}_e$ provides a
+nice place for extracting the $D^*D\pi$ coupling constant from the semileptonic
+decays of a $\bar{B}$ meson. Two types of weak radiative decays of $\bar{B}$
+mesons and bottom baryons are studied. The decay $\Lambda_b^0\to
+\Lambda^0\gamma$ receives the electromagnetic penguin $b\to s\gamma$
+contribution and has a branching ratio of order $2\times 10^{-5}$. The
+radiative decays $\bar{B}\to D^*\gamma,~
+\Lambda_b^0\to\Sigma_c^0\gamma,~\Xi_b^0\to \Xi_c^0\gamma$ and
+$\Xi_b^0\to{\Xi'}_c^0\gamma$ occur through $W$ exchange accompanied with a
+photon emission and their branching ratios are estimated to be much smaller. We
+conclude that the weak radiative decays of bottom hadrons are dominated by the
+short-distance electromagnetic penguin mechanism.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 14:50:20 GMT""}]","2007-05-23"
+"hep-ph/9307333","Ed Stoeffhaas","D. Zeppenfeld","Low Energy Constraints and Anomalous Triple Gauge Boson Couplings","Talk presented at the Workshop on Physics and Experiments with Linear
+  $e^+e^-$ Colliders, Waikoloa, Hawaii, April 26--30, 1993. 10 pages, no
+  figures. Latex file, also uses worldsci.sty (can be texed without worlsci.sty
+  -- format/paging will be different). MAD/PH/775",,,,"hep-ph",,"  Low energy (1-loop) constraints on anomalous triple gauge boson vertices
+(TGV's) are revisited and compared to the sensitivity achievable at LEP II and
+at future linear $e^+e^-$ colliders. The analysis is performed within the
+framework of an effective Lagrangian of gauge invariant dimension six operators
+with the gauge bosons and a single Higgs doublet field as the low energy
+degrees of freedom. The low energy data do not directly bound TGV's but they
+provide strong constraints on models which lead to anomalous gauge boson
+interactions in addition to other low energy effects.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 15:19:27 GMT""}]","2007-05-23"
+"hep-th/9307151",,"A. Ceresole, R. D'Auria and T. Regge","Duality Group for Calabi-Yau 2-Moduli Space","25 pages and 7 figures (1 .ps figure is now attached at end of file),
+  phyzzx, POLFIS-TH. 05/93, DFTT 34/93","Nucl.Phys.B414:517-537,1994","10.1016/0550-3213(94)90439-1",,"hep-th",,"  We present an efficient method for computing the duality group $\Gamma$ of
+the moduli space \cM for strings compactified on a Calabi-Yau manifold
+described by a two-moduli deformation of the quintic polynomial immersed in
+$\CP(4)$, $\cW={1\over5}(\iy_1^5+\cdots+\iy_5^5)-a\,\iy_4^3 \iy_5^2 -b\,
+\iy_4^2 \iy_5^3$. We show that $\Gamma$ is given by a $3$--dimensional
+representation of a central extension of $B_5$, the braid group on five
+strands.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 1993 17:06:01 GMT""},{""version"":""v2"",""created"":""Mon, 26 Jul 1993 14:20:09 GMT""}]","2010-11-01"
+"hep-th/9307152",,"M. Dine, R. G. Leigh and D.A. MacIntire","Discrete Gauge Anomalies in String Theory","Santa Cruz preprint SCIPP 93/20",,,,"hep-th hep-ph",,"  The original version of this paper contains an error; when this is corrected
+the basic conclusion changes. A revised manuscript will be submitted shortly.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 1993 22:18:22 GMT""},{""version"":""v2"",""created"":""Tue, 17 Aug 1993 18:34:28 GMT""}]","2008-02-03"
+"hep-th/9307153","Fusun Akman","Fusun Akman","Some cohomology operators in 2-D field theory","19 pages, submitted to the Proceedings of the Conference on Quantum
+  Topology, Kansas State University, Manhattan, KS, 24-28 March 1993",,,,"hep-th math.QA",,"  It is typical for a semi-infinite cohomology complex associated with a graded
+Lie algebra to occur as a vertex operator (or chiral) superalgebra where all
+the standard operators of cohomology theory, in particular the differential,
+are modes of vertex operators (fields). Although vertex operator superalgebras
+-with the inherent Virasoro action- are regarded as part of Conformal Field
+Theory (CFT), a VOSA may exhibit a square-zero operator (often, but not always,
+the semi-infinite cohomology differential) for which the Virasoro algebra acts
+trivially in the cohomology. Capable of shedding its CFT features, such a VOSA
+is called a ``topological chiral algebra'' (TCA). We investigate the
+semi-infinite cohomology of the vertex operator Weil algebra and indicate a
+number of differentials which give rise to TCA structures.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 04:17:06 GMT""}]","2008-02-03"
+"hep-th/9307154","Saburo Higuchi","Saburo Higuchi, Chigak Itoi and Norisuke Sakai","Renormalization Group Approach to Matrix Models and Vector Models","Talk at the workshop ""Quantum Gravity"", Yukawa Institute, Kyoto, Nov.
+  1992, LaTeX, 22 pages + 3 Postscript figures (included in uuencoded form),
+  TIT/HEP-219,NUP-A-93-8 (a few minor corrections in formulae)","Prog.Theor.Phys.Suppl.114:53-71,1993","10.1143/PTPS.114.53",,"hep-th",,"  The renormalization group approach is studied for large $N$ models. The
+approach of Br\'ezin and Zinn-Justin is explained and examined for matrix
+models. The validity of the approach is clarified by using the vector model as
+a similar and simpler example. An exact difference equation is obtained which
+relates free energies for neighboring values of $N$. The reparametrization
+freedom in field space provides infinitely many identities which reduce the
+infinite dimensional coupling constant space to that of finite dimensions. The
+effective beta functions give exact values for the fixed points and the
+susceptibility exponents. A detailed study of the effective renormalization
+group flow is presented for cases with up to two coupling constants. We draw
+the two-dimensional flow diagram.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 06:34:18 GMT""},{""version"":""v2"",""created"":""Wed, 20 Oct 1993 11:30:35 GMT""}]","2008-11-26"
+"hep-th/9307156","John Gracey","J.A. Gracey","On the O(1/N^2) Beta-Function of the Nambu-Jona-Lasinio Model with
+  Non-Abelian Chiral Symmetry","23 pages, 4 figures (available from author on request), in latex,
+  LTH-314","Z. Phys. C61 (1994) 115-124","10.1007/BF01641894",,"hep-th",,"  We present the formalism for computing the critical exponent corresponding to
+the $\beta$-function of the Nambu--Jona-Lasinio model with $SU(M)$ $\times$
+$SU(M)$ continuous chiral symmetry at $O(1/N^2)$ in a large $N$ expansion,
+where $N$ is the number of fermions. We find that the equations can only be
+solved for the case $M$ $=$ $2$ and subsequently an analytic expression is then
+derived. This contrasting behaviour between the $M$ $=$ $2$ and $M$ $>$ $2$
+cases, which appears first at $O(1/N^2)$, is related to the fact that the
+anomalous dimensions of the bosonic fields are only equivalent for $M$ $=$ $2$.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 12:50:00 GMT""}]","2009-10-22"
+"hep-th/9307157",,"A. Mikovic","Non-Perturbative Two-Dimensional Dilaton Gravity","14 pgs, LaTex file, Imperial-TP/92-93/44 (The difference between the
+  chiral and non-chiral case has been clarified)",,,,"hep-th gr-qc",,"  We present a review of the canonical quantization approach to the problem of
+non-perturbative 2d dilaton gravity. In the case of chiral matter we describe a
+method for solving the constraints by constructing a Kac-Moody current algebra.
+For the models of interest, the relevant Kac-Moody algebras are based on
+SL(2,R) X U(1) group and on an extended 2d Poincare group. As a consequence,
+the constraints become free-field Virasoro generators with background charges.
+We argue that the same happens in the non-chiral case. The problem of the
+corresponding BRST cohomology is discussed as well as the unitarity of the
+theory. One can show that the theory is unitary by chosing a physical gauge,
+and hence the problem of transitions from pure into mixed sates is absent.
+Implications for the physics of black holes are discussed. (Based on the talks
+presented at Trieste conference on Gauge Theories, Applied Supersymmetry and
+Quantum Gravity, May 1993 and at Danube '93 Workshop, Belgrade, Yugoslavia,
+June 1993)
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 15:02:49 GMT""},{""version"":""v2"",""created"":""Fri, 30 Jul 1993 13:03:14 GMT""}]","2008-02-03"

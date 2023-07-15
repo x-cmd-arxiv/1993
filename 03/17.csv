@@ -1,0 +1,134 @@
+"cond-mat/9303029","Didier Poilblanc","Didier POILBLANC (Laboratoire de Physique Quantique, Universite Paul
+  Sabatier, 31062 Toulouse, France)","Binding of holes and pair spectral function in the t-J model","Report LPQTH-93/01, 18 pages (REVTEX), 8 postscript files included",,"10.1103/PhysRevB.48.3368",,"cond-mat",,"  Clusters of the two-dimensionnal t--J model with 2 holes and up to 26 sites
+are diagonalized using a Lanczos algorithm. The behaviour of the binding energy
+with system size suggests the existence of a finite critical value of J above
+which binding occurs in the bulk. Only the d-wave pair field operator acting on
+the Heisenberg GS has a finite overlap with the 2 hole ground state for all the
+clusters considered. The related spectral function associated with the
+propagation of a d-wave (spin singlet) pair of holes in the antiferromagnetic
+background is calculated. The quasiparticle peak at the bottom of the spectrum
+as well as some structure appearing above the peak survive with increasing
+cluster size. Although no simple scaling law was found for the quasiparticle
+weight the data strongly suggest that this weight is finite in the bulk limit
+and is roughly proportional to the antiferromagnetic coupling J (for J<1).
+","[{""version"":""v1"",""created"":""Wed, 17 Mar 1993 11:18:12 GMT""}]","2009-10-22"
+"gr-qc/9303021",,"Isidore Hauser and Frederick J. Ernst","Non-Analytic Extension of the Kinnersley-Chitre Group for Colliding
+  Plane Gravitational Waves. I","65, FJE-93-001",,,,"gr-qc",,"  A program is outlined concerning the set of all solutions of the hyperbolic
+Ernst equation on a two-dimensional manifold whose underlying topological space
+is the same as the domain of all Ernst potentials for colliding plane
+gravitational wave pairs. The aim of the program is to construct and apply a
+non-trivial extension of the group of Kinnersley-Chitre transformations. This
+is to be done by employing the formalism of a homogeneous Hilbert problem. In
+this first paper of a series, the aforementioned program is completely carried
+out for the collinear polarization case.
+","[{""version"":""v1"",""created"":""Wed, 17 Mar 1993 15:37:09 GMT""},{""version"":""v2"",""created"":""Sat, 20 Mar 1993 15:04:41 GMT""}]","2008-02-03"
+"hep-ph/9303265",,"Michael S. Chanowitz","The Trace Anomaly in Chiral Dynamics: $\gamma \gamma \to \pi^0\pi^0$
+  Scattering","3 pages, LateX, 0 figures (NOTE: PAPER IS INCORRECT AND IS WITHDRAWN)",,,,"hep-ph",,"  The trace anomaly term in the low energy chiral Lagrangian is established by
+deriving a low energy theorem for $\gamma \gamma \rightarrow \pi^0\pi^0$
+scattering. It contributes to $\sigma(\gamma \gamma \rightarrow \pi^0\pi^0)$ in
+the same order as the previously computed pion loop contribution. The coherent
+sum of the two contributions explains the shape of the measured cross section,
+while the magnitude is determined by the anomalous dimension of the quark mass
+operator.
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 19:56:15 GMT""},{""version"":""v2"",""created"":""Thu, 18 Mar 1993 17:44:57 GMT""}]","2008-02-03"
+"hep-ph/9303266",,"A.D. Martin, R.G. Roberts and W.J. Stirling","Phenomenological constraints on the flavour asymmetry of the nucleon sea","LaTeX, 8 text pages, 4 figures (not included)","Phys.Lett.B308:377-382,1993","10.1016/0370-2693(93)91301-3",,"hep-ph",,"  We study the possible flavour asymmetry, $\bar{u} \neq \bar{d}$, of the light
+quark sea distributions of the proton. We discuss the information that is at
+present available from data on deep-inelastic lepton-nucleon scattering and
+from Drell-Yan production on various nuclear targets. We show that the ratio of
+dilepton yields on hydrogen and deuterium targets is very sensitive to
+$\bar{u}-\bar{d}$.
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 16:12:00 GMT""}]","2011-07-19"
+"hep-ph/9303267","James M. Johnson","Suraj N. Gupta, James M. Johnson, and Wayne W. Repko","W, Z and Higgs Scattering at SSC Energies","Talk presented at DPF92, November 10-14, 1992. 3 pages with 6
+  PostScript figures included. LaTeX file",,,,"hep-ph",,"  We examine the scattering of longitudinal $W$, $Z$ and Higgs bosons in the
+Standard Model using the equivalent Goldstone-boson Lagrangian. Our
+calculations include the full one-loop scattering matrix between the states
+$W^+_LW^-_L$, $Z_LZ_L$ and $HH$ with no restrictions on the relative sizes of
+$M_H$ and $\sqrt{s}$. In addition to deriving the perturbative
+eigen-amplitudes, we also obtain quite striking results by unitarizing the
+amplitudes with the use of the K-matrix and Pad\'e techniques. (Complete
+postscript file can be obtained by anonymous ftp from hal.physics.wayne.edu as
+dpf92g.ps in directory pub/physics )
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 22:31:40 GMT""}]","2007-05-23"
+"hep-ph/9303268",,"D. Atwood G. Eilam A. Soni","Transverse Tau Polarization in Decays of the Top and Bottom Quarks in
+  the Weinberg Model of CP Non-conservation","11,1 figure, SLAC-PUB-6083","Phys.Rev.Lett.71:492-495,1993","10.1103/PhysRevLett.71.492",,"hep-ph",,"  We show that the transverse polarization asymmetry of the $\tau$-lepton in
+the decay $t\rightarrow b \tau \nu$ is extremely sensitive to CP violating
+phases arising from the charged Higgs exchange in the Weinberg model of CP
+non-conservation. Qualitatively, the polarization asymmetries are enhanced over
+rate or energy asymmetries by a factor of $\approx {m_t\over m_\tau}\approx
+O(100)$. Thus for optimal values of the parameters the method requires $\approx
+10^4$ top pairs to be observable rather than $10^7$ needed for rate or energy
+asymmetries. We also examine $\tau$ polarization in b decays via $b \rightarrow
+c \nu \tau$ and find that it can also be very effective in constraining the CP
+violation parameters of the extended Higgs sector.
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 22:16:00 GMT""}]","2010-11-01"
+"hep-ph/9303274",,"M. Olechowski and S. Pokorski","Bottom-Up Approach to Uniefied Supergravity Models","38 pages, 17 figures (not included, may be sent on request), LaTex,
+  MPI-Ph/92-118","Nucl.Phys. B404 (1993) 590-638","10.1016/0550-3213(93)90592-D",,"hep-ph",,"  A new approach is proposed to phenomenological study of a generic unified
+supergravity model, which reduces to the minimal supersymmetric standard model.
+The model is effectively parametrized in terms of five low energy observables.
+In consequence, it is easy to investigate systematically the parameter space of
+the model, allowed by the requirement of radiative electroweak symmetry
+breaking and by the present experimental limits. Radiative corrections due to
+large Yukawa couplings and particle--sparticle mass splitting are included into
+the analysis and found to have important effects, in particular on the degree
+of fine tuning in the model. In this framework there are presented the
+predictions of the model for various low energy physical observables and their
+dependence on the values of the top quark mass and $\tan\beta$ is discussed.
+Results are also given for the large $\tan\beta$ scenario, $\tan\beta\approx
+m_t/m_b$. Our approach can be easily extended to non--minimal supergravity
+models, which do not assume the universality of the soft breaking parameters at
+the unification scale $M_X$. Such an extension will be particularly useful once
+the masses of some sparticles are known, allowing for a model independent study
+of the parameter space at $M_X$.
+","[{""version"":""v1"",""created"":""Wed, 17 Mar 1993 14:51:50 GMT""}]","2009-10-22"
+"hep-th/9303093","Ivan Kostov","J.M. Daul, V. Kazakov and I. Kostov","Rational Theories of 2D Gravity from the Two-Matrix Model","24 pages, preprint CERN-TH.6834/93","Nucl.Phys. B409 (1993) 311-338","10.1016/0550-3213(93)90582-A",,"hep-th",,"  The correspondence claimed by M. Douglas, between the multicritical regimes
+of the two-matrix model and 2D gravity coupled to (p,q) rational matter field,
+is worked out explicitly. We found the minimal (p,q) multicritical potentials
+U(X) and V(Y) which are polynomials of degree p and q, correspondingly. The
+loop averages W(X) and \tilde W(Y) are shown to satisfy the Heisenberg
+relations {W,X} =1 and {\tilde W,Y}=1 and essentially coincide with the
+canonical momenta P and Q. The operators X and Y create the two kinds of
+boundaries in the (p,q) model related by the duality (p,q) - (q,p). Finally, we
+present a closed expression for the two two-loop correlators and interpret its
+scaling limit.
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 17:32:01 GMT""},{""version"":""v2"",""created"":""Fri, 16 Apr 1993 22:46:28 GMT""}]","2009-10-22"
+"hep-th/9303094","Ken-ichiro Aoki","Kenichiro Aoki and Eric D'Hoker","Geometrical origin of integrability for Liouville and Toda theory","19 pages",,,"UCLA/92/TEP/36","hep-th nlin.SI solv-int",,"  We generalize the Lax pair and B\""acklund transformations for Liouville and
+Toda field theories as well as their supersymmetric generalizations, to the
+case of arbitrary Riemann surfaces. We make use of the fact that Toda field
+theory arises naturally and geometrically in a restriction of so called
+$W$--geometry to ordinary Riemannian geometry. This derivation sheds light on
+the geometrical structure underlying complete integrability of these systems.
+(Invited talk presented at the 877th meeting of the American Mathematical
+Society, USC, November 1992 and at the YITP workshop ``Directions on Quantum
+Gravity"", Kyoto, November 1992.)
+","[{""version"":""v1"",""created"":""Wed, 17 Mar 1993 02:51:46 GMT""}]","2008-02-03"
+"hep-th/9303097","Yves Leroyer","Yves Leroyer","Intermittency in the q-State Potts Model","10 pages (Latex) 3 postcript figures included, Preprint LPTB93_2,
+  Bordeaux University",,,,"hep-th",,"  We define a block observable for the $q$-state Potts model which exhibits an
+intermittent behaviour at the critical point. We express the intermittency
+indices of the normalised moments in terms of the magnetic critical exponent
+$\beta /\nu$ of the model. We confirm this relation by a numerical similation
+of the $q=2$ (Ising) and $q=3$ two-dimensional Potts model.
+","[{""version"":""v1"",""created"":""Wed, 17 Mar 1993 12:26:00 GMT""}]","2009-09-25"
+"nucl-th/9303011","Elaine Remillard","E. Moya de Guerra and L. Zamick","Orbital M1 versus E2 strength in deformed nuclei: A new energy weighted
+  sum rule","REVTEX (3.0), 9 pages, RU9241","Phys.Rev.C47:2604-2609,1993","10.1103/PhysRevC.47.2604",,"nucl-th",,"  Within the unified model of Bohr and Mottelson we derive the following linear
+energy weighted sum rule for low energy orbital 1$^+$ excitations in even-even
+deformed nuclei $$S_{\rm LE}^{\rm lew} (M_1^{\rm orb}) \cong (6/5) \epsilon
+(B(E2; 0^+_1 \rightarrow 2_1^+ K=0)/Z e^2<r^2>^2) \mu^2_N$$ with B(E2) the E2
+strength for the transition from the ground state to the first excited state in
+the ground state rotational band, $<r^2>$ the charge r.m.s. radius squared and
+$\epsilon$ the binding energy per nucleon in the nuclear ground state. It is
+shown that this energy weighted sum rule is in good agreement with available
+experimental data. The sum rule is derived using a simple ansatz for the
+intrinsic ground state wave function that predicts also high energy 1$^+$
+strength at 2$\hbar \omega$ carrying 50\% of the total $m_1$ moment of the
+orbital M1 operator.
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 18:52:32 GMT""}]","2008-11-26"
+"nucl-th/9303012","Elaine Remillard","George Bathas and W.M. Kloet","Left-Right Asymmetry in $\bar{p}p \rightarrow \pi^- \pi^+$","LATEX, 11 pages, 6 figures (available upon request), #RU9305","Phys.Rev.C47:2207-2212,1993","10.1103/PhysRevC.47.2207",,"nucl-th",,"  Results for d$\sigma$/d$\Omega$ and $A_N$ in the reaction $\bar{p}p
+\rightarrow \pi^- \pi^+$ are predicted by a simple quark model. They are
+compared to recent experimental data from LEAR, as well as to previous
+predictions from nucleon-exchange models. At low energy the quark model does
+better than the nucleon-exchange models, but the overall comparison to
+experiment remains poor. In particular, the double-dip structure of the
+experimental $A_N$ data is only partly represented. This shortcoming of the
+simple quark model is traced back to a too small J=2 amplitude. This has
+interesting implications for the range of this specific annihilation process.
+","[{""version"":""v1"",""created"":""Tue, 16 Mar 1993 19:28:07 GMT""}]","2008-11-26"

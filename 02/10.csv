@@ -1,0 +1,272 @@
+"astro-ph/9302007","Andrew Dunn","A.M.Dunn and R.Laflamme","The Least Action Principle And The Spin Of Galaxies In The Local Group","16 pages (5 figures available on request), plain TeX, IoA-93-01-AMD",,"10.1093/mnras/264.4.865",,"astro-ph",,"  Using Peebles' least action principle, we determine trajectories for the
+galaxies in the Local Group and the more massive galaxies in the Local
+Neighbourhood. We deduce the resulting angular momentum for the whole of the
+Local Group and study the tidal force acting on the Local Group and its
+galaxies. Although Andromeda and the Milky Way dominate the tidal force acting
+on each other during the present epoch, we show that there is a transition time
+at $z\approx 1$ before which the tidal force is dominated by galaxies outside
+the Local Group in each case. This shows that the Local Group can not be
+considered as an isolated system as far as the tidal forces are concerned. We
+integrate the tidal torques acting on the Milky Way and Andromeda and derive
+their spin angular momenta, obtaining results which are comparable with
+observation.
+","[{""version"":""v1"",""created"":""Wed, 10 Feb 1993 11:00:00 GMT""},{""version"":""v2"",""created"":""Wed, 10 Feb 1993 17:10:00 GMT""},{""version"":""v3"",""created"":""Wed, 10 Feb 1993 17:57:00 GMT""}]","2015-06-24"
+"comp-gas/9302001","James Theiler","James Theiler","Some comments on the correlation dimension of $1/f^\alpha$ noise","CYCLER Paper 93feb005 Several PostScript files, compress'ed tar'ed
+  uuencode'ed",,,,"comp-gas nlin.CG",,"  It has recently been observed that a stochastic (infinite degree of freedom)
+time series with a $1/f^\alpha$ power spectrum can exhibit a finite correlation
+dimension, even for arbitrarily large data sets. [A.R. Osborne and
+A.~Provenzale, {\sl Physica D} {\bf 35}, 357 (1989).] I will discuss the
+relevance of this observation to the practical estimation of dimension from a
+time series, and in particular I will argue that a good dimension algorithm
+need not be trapped by this anomalous fractal scaling. Further, I will
+analytically treat the case of gaussian \onefas noise, with explicit high and
+low frequency cutoffs, and derive the scaling of the correlation integral
+$C(N,r)$ in various regimes of the $(N,r)$ plane. Appears in: {\sl Phys. Lett.
+A} {\bf 155} (1991) 480--493.
+","[{""version"":""v1"",""created"":""Wed, 10 Feb 1993 00:00:00 GMT""}]","2008-02-03"
+"cond-mat/9302014","Bulbul Chakraborty","Zhigang Xi and Bulbul Chakraborty","Kinetics of Ordering in Cu3Au: An Atomistic Approach","4pages, 4 Postscript figures appended brandeis-93-001",,,,"cond-mat",,"  We study the kinetics of ordering in Cu3Au using a model Hamiltonian derived
+from the effective medium theory of chemical bonding. Monte Carlo simulations
+are used to investigate universal and non-universal features of the growth
+kinetics. Anisotropic scaling of the structure factor is observed in late-stage
+growth of ordered domains. The anisotropy is a non-universal feature determined
+by details of the microscopic model, and we find that the anisotropy observed
+in the simulations is in excellent agreement with experiments on Cu3Au. The
+simulations are discussed in the context of theories of unstable growth. To our
+knowledge, this is the first study of kinetics in a realistic model Hamiltonian
+describing the material-specific properties of Cu3Au.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 18:59:02 GMT""}]","2007-05-23"
+"funct-an/9302001","Ruy Exel","Ruy Exel","The Bunce-Deddens Algebras as Crossed Products by Partial Automorphisms","6 pages, plain TeX, UNM--RE--005",,,,"funct-an math.OA",,"  We describe both the Bunce-Deddens C*-algebras and their Toeplitz versions,
+as crossed products of commutative C*-algebras by partial automorphisms. In the
+latter case, the commutative algebra has, as its spectrum, the union of the
+Cantor set and a copy the set of natural numbers N, fitted together in such a
+way that N is an open dense subset. The partial automorphism is induced by a
+map that acts like the odometer map on the Cantor set while being the
+translation by one on N. From this we deduce, by taking quotients, that the
+Bunce-Deddens C*-algebras are isomorphic to the (classical) crossed product of
+the algebra of continuous functions on the Cantor set by the odometer map.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 18:45:44 GMT""}]","2008-02-03"
+"funct-an/9302002","Dr S. C. Power","S. C. Power","Algebraic orders on $K_0$ and approximately finite operator algebras","23 pages, Latex",,,,"funct-an math.OA",,"  This is a revised and corrected version of a preprint circulated in 1990 in
+which various non-self-adjoint limit algebras are classified. The principal
+invariant is the scaled $K_0$ group together with the algebraic order on the
+scale induced by partial isometries in the algebra.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 20:34:00 GMT""}]","2008-02-03"
+"funct-an/9302003","Dr S. C. Power","S. C. Power","On the outer automorphism groups of triangular alternation limit
+  algebras","12 pages, Latex",,,,"funct-an math.OA",,"  Let $A$ denote the alternation limit algebra, studied by Hopenwasser and
+Power, and by Poon, which is the closed direct limit of upper triangular matrix
+algebras determined by refinement embeddings of multiplicity $r_k$ and standard
+embeddings of multiplicity $s_k$. It is shown that the quotient of the
+isometric automorphism group by the approximately inner automorphisms is the
+abelian group $ \ZZ ^d$ where $d$ is the number of primes that are divisors of
+infinitely many terms of each of the sequences $(r_k)$ and $(s_k)$. This group
+is also the group of automorphisms of the fundamental relation of $A$.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 20:35:00 GMT""}]","2016-08-31"
+"gr-qc/9302010",,"Luca Amendola (Rome Astronomical Observatory)","Cosmology with Nonminimal Derivative Couplings","accepted on Physics Letters B, 11 pages, 2 figures available upon
+  request, LATEX, no preprint number","Phys.Lett. B301 (1993) 175-182","10.1016/0370-2693(93)90685-B",,"gr-qc",,"  We study a theory which generalizes the nonminimal coupling of matter to
+gravity by including derivative couplings. This leads to several interesting
+new dynamical phenomena in cosmology. In particular, the range of parameters in
+which inflationary attractors exist is greatly expanded. We also numerically
+integrate the field equations and draw the phase space of the model in second
+order approximation. The model introduced here may display different
+inflationary epochs, generating a non-scale-invariant fluctuation spectrum
+without the need of two or more fields. Finally, we comment on the bubble
+spectrum arising during a first-order phase transition occurring in our model.
+","[{""version"":""v1"",""created"":""Wed, 10 Feb 1993 10:29:00 GMT""}]","2009-10-22"
+"gr-qc/9302011",,"Lee Smolin","Finite, diffeomorphism invariant observables in quantum gravity","Latex, no figures, 30 pages, SU-GP-93/1-1","Phys.Rev. D49 (1994) 4028-4040","10.1103/PhysRevD.49.4028",,"gr-qc hep-th",,"  Two sets of spatially diffeomorphism invariant operators are constructed in
+the loop representation formulation of quantum gravity. This is done by
+coupling general relativity to an anti- symmetric tensor gauge field and using
+that field to pick out sets of surfaces, with boundaries, in the spatial three
+manifold. The two sets of observables then measure the areas of these surfaces
+and the Wilson loops for the self-dual connection around their boundaries. The
+operators that represent these observables are finite and background
+independent when constructed through a proper regularization procedure.
+Furthermore, the spectra of the area operators are discrete so that the
+possible values that one can obtain by a measurement of the area of a physical
+surface in quantum gravity are valued in a discrete set that includes integral
+multiples of half the Planck area. These results make possible the construction
+of a correspondence between any three geometry whose curvature is small in
+Planck units and a diffeomorphism invariant state of the gravitational and
+matter fields. This correspondence relies on the approximation of the classical
+geometry by a piecewise flat Regge manifold, which is then put in
+correspondence with a diffeomorphism invariant state of the gravity-matter
+system in which the matter fields specify the faces of the triangulation and
+the gravitational field is in an eigenstate of the operators that measure their
+areas.
+","[{""version"":""v1"",""created"":""Wed, 10 Feb 1993 12:33:00 GMT""}]","2009-10-22"
+"gr-qc/9302012","Gisele Murphy","Maximo Banados, Marc Henneaux, Claudio Teitelboim, Jorge Zanelli","Geometry of the 2+1 Black Hole","51 pages, (LaTex file, figures not included, for hard copy figures,
+  contact: murphy@iassns.bitnet), Institute for Advanced Study #HEP.92/81","Phys.Rev.D48:1506-1525,1993","10.1103/PhysRevD.48.1506",,"gr-qc",,"  The geometry of the spinning black holes of standard Einstein theory in 2+1
+dimensions, with a negative cosmological constant and without couplings to
+matter, is analyzed in detail. It is shown that the black hole arises from
+identifications of points of anti-de Sitter space by a discrete subgroup of
+$SO(2,2)$. The generic black hole is a smooth manifold in the metric sense. The
+surface $r=0$ is not a curvature singularity but, rather, a singularity in the
+causal structure. Continuing past it would introduce closed timelike lines.
+However, simple examples show the regularity of the metric at $r=0$ to be
+unstable: couplings to matter bring in a curvature singularity there. Kruskal
+coordinates and Penrose diagrams are exhibited. Special attention is given to
+the limiting cases of (i) the spinless hole of zero mass, which differs from
+anti-de Sitter space and plays the role of the vacuum, and (ii) the spinning
+hole of maximal angular momentum . A thorough classification of the elements of
+the Lie algebra of $SO(2,2)$ is given in an Appendix.
+","[{""version"":""v1"",""created"":""Wed, 10 Feb 1993 15:26:26 GMT""}]","2009-12-30"
+"gr-qc/9302013",,"E. Calzetta and B. L. Hu","Decoherence of Correlation Histories","28 pages, (To appear in {\em Directions in General Relativity},
+  College Park, May 1993, Volume 2, edited by B. L. Hu and T. A. Jacobson
+  (Cambridge University Press, Cambridge 1993)) (LaTeX file)",,,,"gr-qc",,"  We use a $\lambda\Phi^4$ scalar quantum field theory to illustrate a new
+approach to the study of quantum to classical transition. In this approach, the
+decoherence functional is employed to assign probabilities to consistent
+histories defined in terms of correlations among the fields at separate points,
+rather than the field itself. We present expressions for the quantum amplitudes
+associated with such histories, as well as for the decoherence functional
+between two of them. The dynamics of an individual consistent history may be
+described by a Langevin-type equation, which we derive. \noindent {\it
+Dedicated to Professor Brill on the occasion of his sixtieth birthday, August
+1993}
+","[{""version"":""v1"",""created"":""Wed, 10 Feb 1993 13:59:36 GMT""}]","2007-05-23"
+"hep-ph/9302237",,"Piotr A. R\c{a}czka, Andrzej Szymacha and Stanis{\l}aw Tatur","Experimental Constraints on the Neutrino Oscillations and a Simple Model
+  of Three Flavour Mixing","10 pages, 3 figures in post script, Latex, IFT 2/93","Phys.Rev. D49 (1994) 1655-1658","10.1103/PhysRevD.49.1655",,"hep-ph",,"  A simple model of the neutrino mixing is considered, which contains only one
+right-handed neutrino field, coupled via the mass term to the three usual
+left-handed fields. This is a simplest model that allows for three-flavour
+neutrino oscillations. The existing experimental limits on the neutrino
+oscillations are used to obtain constraints on the two free mixing parameters
+of the model. A specific sum rule relating the oscillation probabilities of
+different flavours is derived.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 16:48:33 GMT""}]","2009-10-22"
+"hep-ph/9302240","Sergei Larin","S.A. Larin","The renormalization of the axial anomaly in dimensional regularization","11 pages, 1 figure available on request from the author,
+  NIKHEF-H/92-18","Phys.Lett.B303:113-118,1993","10.1016/0370-2693(93)90053-K",,"hep-ph",,"  The prescription for the $\gamma_5$-matrix within dimensional regularization
+in multiloop calculations is elaborated. The three-loop anomalous dimension of
+the singlet axial current is calculated.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 20:06:16 GMT""}]","2014-11-17"
+"hep-ph/9302241","Robert D. Pisarski","R. D. Pisarski","Medley in finite temperature field theory","LaTeX file, 11 pages, BNL-P-2/92 (December, 1992)",,"10.1139/p93-045",,"hep-ph",,"  I discuss three subjects in thermal field theory: why in \sun gauge theories
+the \zn symmetry is broken at high (instead of low) temperature, the possible
+singularity structure of gauge variant propagators, and the problem of how to
+compute the viscosity from the Kubo formula.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 21:50:06 GMT""}]","2015-06-25"
+"hep-ph/9302242","Robert D. Pisarski","R. D. Pisarski","Damping rates for moving particles in hot QCD","LaTeX file, 24 pages, BNL-P-1/92 (December, 1992)",,"10.1103/PhysRevD.47.5589",,"hep-ph",,"  Using a program of perturbative resummation I compute the damping rates for
+fields at nonzero spatial momentum to leading order in weak coupling in hot
+$QCD$. Sum rules for spectral densities are used to simplify the calculations.
+For massless fields the damping rate has an apparent logarithmic divergence in
+the infrared limit, which is cut off by the screening of static magnetic fields
+(``magnetic mass''). This demonstrates how at high temperature even
+perturbative quantities are sensitive to nonperturbative phenomenon.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 21:54:12 GMT""}]","2009-10-22"
+"hep-ph/9302243",,"Kamran Saririan","On Fermion Zero-Modes in Instanton $V-A$ Models With Spontaneous
+  Symmetry Breaking","8 Pages. LaTeX file. 4 Figures Not included","Mod.Phys.Lett. A9 (1994) 715-724","10.1142/S0217732394000526",,"hep-ph",,"  The left and right handed fermion zero-modes are examined. Their behaviour
+under the variation of the size of the instanton, $\ri$, and the size of the
+Higgs core, $\rh$, for a range of Yukawa couplings corresponding to the fermion
+masses in the electroweak theory are studied. It is shown that the
+characteristic radii of the zero-modes, in particlar those the left handed
+fermions, are locked to the instanton size, and are not affected by the
+variation of $\rh$, except for fermion masses much larger than those in the
+standard electroweak theory.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 22:19:51 GMT""}]","2015-06-25"
+"hep-ph/9302244","Kassa Adel","K. Adel and York-Peng Yao","Effective Lagrangian for $b \rightarrow s$ Processes with
+  QCD-Corrections","15 pages, UM-TH-92-32 TeX, 1 figure (postscript) available upon
+  request","Mod. Phys. Lett. A8 (1993) 1679-1690","10.1142/S0217732393001422",,"hep-ph",,"  We present a complete calculation of the effective lagrangian for $b
+\rightarrow s$ processes with $QCD$ corrections, in the leading logarithm
+approximation, for the cases $m_t=m_w$ and $m_t \gg m_w$. The effective
+lagrangian is then applied to estimate the $b \rightarrow s \gamma$ decay rate.
+We find that it is enhanced by a factor of 6 for the case $m_t=m_w$, and a
+factor of about 2 for $m_t \gg m_w$. Our results differ from those found in the
+literature, but are not very different numerically for $m_t=m_w$.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 21:04:35 GMT""},{""version"":""v2"",""created"":""Wed, 10 Feb 1993 22:28:19 GMT""}]","2019-06-05"
+"hep-ph/9302245","Ulf Meissner","V. Bernard, A.H. Blin, B. Hiller, U.-G. Mei{\ss}ner and M.C. Ruivo","Strong and Radiative Meson Decays in a Generalized Nambu--Jona-Lasinio
+  Model","7 pages, LaTeX, 2 figs available upon request, CRN 92-49","Phys.Lett. B305 (1993) 163-167","10.1016/0370-2693(93)91122-4",,"hep-ph nucl-th",,"  We investigate strong and radiative meson decays in a generalized
+Nambu--Jona-Lasinio model. The one loop order calculation provides a
+satisfactory agreement with the data for the mesonic spectrum and for radiative
+decays. Higher order effects for strong decays of $\rho$ and $K^*$ are
+estimated to be large. We also discuss the role of the flavour mixing
+determinantal interaction.
+","[{""version"":""v1"",""created"":""Wed, 10 Feb 1993 11:56:44 GMT""}]","2009-10-22"
+"hep-th/9302035","Jean-Loup Gervais","E. Cremmer, Jean-Loup Gervais, J.-F. Roussel","The Quantum Group Structure of 2D Gravity and Minimal Models II: The
+  Genus-Zero Chiral Bootstrap","56 pages, 22 figures. Technical problem only, due to the use of an
+  old version of uuencode that produces blank characters some times suppressed
+  by the mailer. Same content.","Commun.Math.Phys. 161 (1994) 597-630","10.1007/BF02101934","LPTENS-93/02","hep-th",,"  The F and B matrices associated with Virasoro null vectors are derived in
+closed form by making use of the operator-approach suggested by the Liouville
+theory, where the quantum-group symmetry is explicit. It is found that the
+entries of the fusing and braiding matrices are not simply equal to
+quantum-group symbols, but involve additional coupling constants whose
+derivation is one aim of the present work. Our explicit formulae are new, to
+our knowledge, in spite of the numerous studies of this problem. The
+relationship between the quantum-group-invariant (of IRF type) and
+quantum-group-covariant (of vertex type) chiral operator-algebras is fully
+clarified, and connected with the transition to the shadow world for
+quantum-group symbols. The corresponding 3-j-symbol dressing is shown to reduce
+to the simpler transformation of Babelon and one of the author (J.-L. G.) in a
+suitable infinite limit defined by analytic continuation. The above two types
+of operators are found to coincide when applied to states with Liouville
+momenta going to $\infty$ in a suitable way. The introduction of
+quantum-group-covariant operators in the three dimensional picture gives a
+generalisation of the quantum-group version of discrete three-dimensional
+gravity that includes tetrahedra associated with 3-j symbols and universal
+R-matrix elements. Altogether the present work gives the concrete realization
+of Moore and Seiberg's scheme that describes the chiral operator-algebra of
+two-dimensional gravity and minimal models.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 17:05:11 GMT""},{""version"":""v2"",""created"":""Wed, 10 Feb 1993 09:39:00 GMT""},{""version"":""v3"",""created"":""Thu, 11 Feb 1993 09:03:50 GMT""}]","2016-09-06"
+"hep-th/9302036","Warren Siegel","W. Siegel","Two-Vierbein Formalism for String-Inspired Axionic Gravity","14 pg., (uuencoded dvi file; fixed uuencoding so file is unprotected)
+  ITP-SB-93-2","Phys.Rev. D47 (1993) 5453-5459","10.1103/PhysRevD.47.5453",,"hep-th",,"  Using independent left and right vierbeins to describe graviton plus axion as
+suggested by string mechanics, O(d,d) duality can be realized linearly.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 20:29:35 GMT""},{""version"":""v2"",""created"":""Thu, 11 Feb 1993 20:39:04 GMT""}]","2009-10-22"
+"hep-th/9302037","Edward Teo","Malcolm J. Perry and Edward Teo","Non-Singularity of the Exact Two-Dimensional String Black Hole","9 pages, latex, DAMTP R93/1","Phys.Rev.Lett. 70 (1993) 2669-2672","10.1103/PhysRevLett.70.2669",,"hep-th",,"  We study the global structure of the exact two-dimensional space-time which
+emerges from string theory. Previous work has shown that in the semi-classical
+limit, this is a black hole similar to the Schwarzschild solution. However, we
+find that in the exact case, a new Euclidean region appears ""between"" the
+singularity and black hole interior. However the boundary between the
+Lorentzian and Euclidean regions is a coordinate singularity, which turns out
+to be a surface of time reflection symmetry in an extended space-time. Thus
+strings having fallen through the black hole horizon would eventually emerge
+through another one into a new asymptotically flat region. The maximally
+extended space-time consists of an infinite number of universes connected by
+wormholes. There are no singularities present in this geometry. We also
+calculate the mass and temperature associated with the space-time.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 23:21:48 GMT""},{""version"":""v2"",""created"":""Wed, 10 Feb 1993 01:49:14 GMT""}]","2009-10-22"
+"hep-th/9302038",,"Ashoke Sen","SL(2, Z) Duality and Magnetically Charged Strings","20 pages, phyzzx.tex, TIFR-TH-93-03","Int.J.Mod.Phys.A8:5079-5094,1993","10.1142/S0217751X93002009",,"hep-th",,"  Postulate of SL(2,\Z) invariance of toroidally compactified heterotic string
+theory in four dimensions implies the existence of new string (dual string)
+states carrying both, electric and magnetic charges. In this paper we study the
+interaction between these dual strings. In particular, we consider scattering
+of two such strings in the limit where one string passes through the other
+string without touching it, and show that such a scattering leads to the
+exchange of a fixed amount of electric and magnetic charges between the two
+strings.
+","[{""version"":""v1"",""created"":""Wed, 10 Feb 1993 09:27:00 GMT""}]","2009-09-15"
+"hep-th/9302045",,"Hisashi Kikuchi","Poincare invariance in temporal gauge canonical quantization and
+  \(\theta\)-vacua","18 pages, UCRHEP-T104","Int.J.Mod.Phys. A9 (1994) 2741-2754","10.1142/S0217751X94001114",,"hep-th",,"  The Poincare invariance in the temporal gauge canonical quantization of QCD
+is shown manifestly by verifying the energy-momentum-vector and
+angular-momentum-tensor satisfy the Poincare algebra in the physical Hilbert
+space. Two different values of \(\theta\) for the $\theta$-term in QCD
+lagrangian lead to different representations of the Poincare group, which are,
+however, connected by an unitary transformation. Thus the parameter \(\theta\)
+becomes physically irrelevant unless we can further restrict the physical
+Hilbert space.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 17:53:57 GMT""}]","2015-06-26"
+"math/9302211",,"Jonathan M. Borwein, Marian Fabian, J. Vanderwerff","Locally Lipschitz Functions and Bornological Derivatives",,,,"Banach Archive 2/9/93","math.FA",,"  We study the relationships between Gateaux, weak Hadamard and Frechet
+differentiability and their bornologies for Lipschitz and for convex functions.
+In particular, Frechet and weak Hadamard differentiabily coincide for all
+Lipschitz functions if and only if the space is reflexive (an earlier paper of
+the first two authors shows that these two notions of differentiability
+coincide for continuous convex functions if and only if the space does not
+contain a copy of $\ell_1$). We also examine when Gateaux and weak Hadamard
+differentiability coincide for continuous convex functions. For instance,
+spaces with the Dunford-Pettis (Schur) property can be characterized by the
+coincidence of Gateaux and weak Hadamard (Frechet) differentiabilty for dual
+norms.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 17:24:39 GMT""}]","2016-09-06"
+"math/9302212",,"Jonathan M. Borwein, J. Vanderwerff","Dual Kadec-Klee norms and the relationships between Wijsman, slice and
+  Mosco convergence",,,,"Banach Archive 2/9/93","math.FA",,"  In this paper, we completely settle several of the open questions regarding
+the relationships between the three most fundamental forms of set convergence.
+In particular, it is shown that Wijsman and slice convergence coincide
+precisely when the weak star and norm topologies agree on the dual sphere.
+Consequently, a weakly compactly generated Banach space admits a dense set of
+norms for which Wijsman and slice convergence coincide if and only if it is an
+Asplund space. We also show that Wijsman convergence implies Mosco convergence
+precisely when the weak star and Mackey topologies coincide on the dual sphere.
+A corollary of these results is that given a fixed norm on an Asplund space,
+Wijsman and slice convergence coincide if and only if Wijsman convergence
+implies Mosco convergence.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 17:24:39 GMT""}]","2016-09-06"
+"nucl-th/9302005","Stacey Scoville","S. Schramm and S. E. Koonin","Can Plasma Scattering Mimic a Cosmological Red-Shift?","8 pages, plain TeX format, 6 uuencoded postscript figures included,
+  Caltech Preprint No. MAP-150",,,,"nucl-th",,"  We investigate the extent to which the scattering of light from plasma
+fluctuations can mimic a cosmological red-shift, as has been suggested by Wolf
+et al. A plasma model for the plasma structure function results in a spectrum
+of scattered light very different from that associated with a constant
+red-shift, implying that the ""Wolf effect"" cannot be involved to perturb the
+cosmological distance scale.
+","[{""version"":""v1"",""created"":""Tue, 9 Feb 1993 20:20:25 GMT""}]","2007-05-23"

@@ -1,0 +1,165 @@
+"hep-lat/9307015","Sylvie Zaffanella","Z. Burda, K. Zalewski, R. Peschanski, J. Wosiek","Finite size scaling analysis of intermittency moments in the two
+  dimensional Ising model","Saclay-T93/063 Email: pesch@amoco.saclay.cea.fr","Phys.Lett.B314:74-78,1993","10.1016/0370-2693(93)91324-G",,"hep-lat",,"  Finite size scaling is shown to work very well for the block variables used
+in intermittency studies on a 2-d Ising lattice. The intermittency exponents so
+derived exhibit the expected relations to the magnetic critical exponent of the
+model. Email contact: pesch@amoco.saclay.cea.fr
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 04:20:42 GMT""}]","2008-11-26"
+"hep-ph/9307278",,"J. Segura, J. Bernab\'eu, F.J. Botella and J. Pe\~narrocha","Dynamical zeros in neutrino-electron elastic scattering at leading order","9 pg.+ 2 figures (not included available upon request)","Phys.Rev. D49 (1994) 1633-1636","10.1103/PhysRevD.49.1633",,"hep-ph",,"  We show the existence of dynamical zeros in the helicity amplitudes for
+neutrino-electron elastic scattering at lowest order in the standard theory. In
+particular, the $\lambda=1/2$ non-flip electron helicity amplitude in the
+electron antineutrino process vanishes for an incident neutrino energy
+$E_{\nu}=m_{e}/(4sin^{2}\theta_{W})$ and forward electrons (maximum recoil
+energy). The rest of helicity amplitudes show kinematical zeros in this
+configuration and therefore the cross section vanishes. Prospects to search for
+neutrino magnetic moment are discussed.
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 01:19:42 GMT""}]","2016-08-14"
+"hep-ph/9307279","Patrick O'Donnell","Patrick J. O'Donnell and Utpal Sarkar","Baryogenesis via lepton number violating scalar interactions","14 pages, UTPT-93-15","Phys.Rev.D49:2118-2121,1994","10.1103/PhysRevD.49.2118",,"hep-ph",,"  We study baryogenesis through lepton number violation in left-right symmetric
+models. In these models the lepton number and CP violating interactions of the
+triplet higgs scalars can give rise to lepton number asymmetry through
+non-equilibrium decays of the $SU(2)_L$ triplet higgs and the right handed
+neutrinos. This in turn generates baryon asymmetry during the electroweak
+anomalous processes.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 20:25:11 GMT""}]","2010-11-01"
+"hep-ph/9307280",,"G. A. Ladinsky and C.--P. Yuan","Probing Form Factors in Top Quark Pair Production at $e^-e^+$ Colliders","4 pages, TeXsis, MSUTH 93/09",,,,"hep-ph",,"  We describe how to probe new physics through large CP violation effects and
+non--standard Z-t-t couplings via the scattering process e^-e^+ -> t tbar.
+[Talk presented at the Workshop on Physics and Experiments with Linear $e^+e^-$
+Colliders, Waikoloa, Hawaii, 26-30 April 1993.]
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 21:13:36 GMT""}]","2007-05-23"
+"hep-ph/9307281",,"G. Azuelos and A. Djouadi","Signals of New Leptons","standard latex, 4 pages + 1 Postscript figure appended after
+  \end{document}, Prep. UdeM-LPN-TH-93-159",,,,"hep-ph",,"  We discuss the production of heavy leptons at a future high--energy $e^+e^-$
+linear collider with a center of mass energy of 500 GeV. Signals and
+backgrounds are analyzed for their single production in association with
+ordinary leptons. [Talk given by A.D. at the second Workshop on ""Physics and
+Experiments with Linear e+e- Colliders"", Waikoloa, Hawaii, April 1993].
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 23:07:23 GMT""}]","2007-05-23"
+"hep-ph/9307282","Thomas Mannel","H. Anlauf, H. Dahmen, A. Himmler, P. Manakos and T. Mannel","Radiative Corrections to $W$ Pair Production at High Energies","Talk given at the ""Workshop on Physics and Experiments with Linear
+  e^+ e^- Colliders"", Waikoloa, Hawaii, April 93, 4 pages, LaTeX, with 4
+  uuencoded figures (Encapsulated Postscript), requires epsf, IKDA 93/25",,,,"hep-ph",,"  Radiative Corrections to $W$ Pair Production and effects of finite width of
+the $W$ bosons are studied using the Monte Carlo {\tt WOPPER}. As an example
+the influence of QED radiative corrections on the reconstruction of the $W$
+helicities at LEP 200 and a future 500 GeV $e^+ e^-$ collider is discussed.
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 11:53:35 GMT""}]","2007-05-23"
+"hep-ph/9307283","Claudio O. Dib","Claudio O. Dib and J. Taron","PCAC relation for Dstar -> D axial form factors","Contributed note to the Proceedings of the ""Workshop on B Physics at
+  Hadron Accelerators"", Snowmass, Colorado (USA). 3 pages, 1 figure",,,"Report-no: OHSTPY-HEP-T-93-008, USM-TH-62","hep-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  A relation among the form factors of $<D \mid A_\mu \mid D^*>$ at $q^2 \to 0$
+is derived. It is verified to lowest order in both the $1/m_c$ expansion and
+the expansion in number of derivatives using the effective lagrangian that
+incorporates the heavy quark symmetries for the b and c quarks, and the chiral
+symmetry for the u, d, s quarks.
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 13:10:00 GMT""},{""version"":""v2"",""created"":""Fri, 13 Mar 2020 21:41:25 GMT""}]","2020-03-17"
+"hep-ph/9307284","Meik Hellmund","Meik Hellmund, Jochen Kripfganz, Michael G. Schmidt","Sphaleron Effects Near the Critical Temperature","17 pages, RevTeX, (4 figures in a separate uuencoded file),
+  HD-THEP-93-23rev","Phys.Rev.D50:7650-7658,1994","10.1103/PhysRevD.50.7650",,"hep-ph",,"  We discuss one-loop radiative corrections to the sphaleron-induced baryon
+number-violating transition rate near the electroweak phase transition in the
+standard model. We emphasize that in the case of a first-order transition a
+rearrangement of the loop expansion is required close to the transition
+temperature. The corresponding expansion parameter, the effective 3-dimensional
+gauge coupling approaches a finite $\lambda$ dependent value at the critical
+temperature.
+  The $\lambda$
+  (Higgs mass) dependence of the 1-loop radiative corrections is discussed in
+the framework of the heat kernel method. Radiative corrections are small
+compared to the leading sphaleron contribution as long as the Higgs mass is
+small compared to the W mass. To 1-loop accuracy, there is no Higgs mass range
+compatible with experimental limits where washing-out of a B+L asymmetry could
+be avoided for the minimal standard model with one Higgs doublet.
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 13:16:51 GMT""},{""version"":""v2"",""created"":""Mon, 13 Dec 1993 14:55:19 GMT""},{""version"":""v3"",""created"":""Mon, 21 Mar 1994 09:13:53 GMT""}]","2011-07-19"
+"hep-ph/9307285",,"G. Ecker, H. Neufeld and A. Pich","Non-Leptonic Kaon Decays and the Chiral Anomaly","LaTeX, 31 pages (3 figures, not included), CERN-TH.6920/93","Nucl.Phys. B413 (1994) 321-352","10.1016/0550-3213(94)90623-8",,"hep-ph",,"  An investigation is performed of all non-leptonic kaon decays sensitive to
+the chiral anomaly. Within the framework of chiral perturbation theory, there
+are two classes of anomalous amplitudes at $O(p^4)$: reducible and direct
+contributions. Only radiative transitions are affected by the anomaly. The
+phenomenology of the decays $K_L \to \pi^+ \pi^- \gamma$ and $K^+ \to \pi^+
+\pi^0 \gamma$ is studied in detail. Including the dominant contributions of
+$O(p^6)$, the experimentally observed dependence of the direct emission
+amplitude for $K_L \to \pi^+ \pi^- \gamma$ on the photon energy can be
+understood. A survey is made of the rare ``anomalous'' decays $K \to \pi \pi
+\gamma \gamma$ and $K \to 3 \pi \gamma (\gamma)$, including some numerical
+estimates.
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 15:43:07 GMT""}]","2009-10-22"
+"hep-ph/9307287",,"Alan R. White","The Mass of the Heavy Axion $\eta_6$","8 pages, ANL-HEP-CP-93-56",,,,"hep-ph",,"  If electroweak dynamical symmetry breaking is due to a chiral condensate of
+color sextet quarks, dynamics analagous to ``walking technicolor'' will enhance
+the condensate by orders of magnitude compared to the electroweak chiral scale.
+This enhancement compensates for the exponential suppression of electroweak
+scale color instanton interactions. As a result the $\eta_6$ axion can
+naturally aquire an electroweak scale mass.
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 14:04:04 GMT""}]","2007-05-23"
+"hep-th/9307102","Palev Tchavpar","T. D. Palev and N. I. Stoilova","Wigner Quantum Oscillators","8 pagex, TeX, IC/93/190","J.Phys. A27 (1994) 977-984","10.1088/0305-4470/27/3/035",,"hep-th",,"  We present three groups of noncanonical quantum oscillators. The position and
+the momentum operators of each of the groups generate basic Lie superalgebras,
+namely $sl(1/3)$, $osp(1/6)$ and $osp(3/2)$. The $sl(1/3)$-oscillators have
+finite energy spectrum and finite-dimensions. The $osp(1/6)$-oscillators are
+related to the para-Bose statistictics. The internal angular momentum $s$ of
+the $osp(3/2)$-oscillators takes no more than three (half)integer values. In a
+particular representation $s=1/2$.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 16:01:00 GMT""}]","2009-10-22"
+"hep-th/9307103","Daniel Arnaudon","F. C. Alcaraz, D. Arnaudon, V. Rittenberg and M. Scheunert","Finite Chains with Quantum Affine Symmetries","31pp, Latex, CERN-TH.6935/93. To app. in Int. Jour. Mod. Phys. A.
+  (The title of the paper is changed. This is the ONLY change. Previous title
+  was: Hubbard-Like Models in the Infinite Repulsion Limit and
+  Finite-Dimensional Representations of the Affine Algebra U_q(\hat{sl(2)}). )","Int. Jour. Mod. Phys. A, Vol. 9 No. 19 (1994)","10.1142/S0217751X94001370",,"hep-th cond-mat nlin.SI solv-int",,"  We consider an extension of the (t-U) Hubbard model taking into account new
+interactions between the numbers of up and down electrons. We confine ourselves
+to a one-dimensional open chain with L sites (4^L states) and derive the
+effective Hamiltonian in the strong repulsion (large U) regime. This
+Hamiltonian acts on 3^L states. We show that the spectrum of the latter
+Hamiltonian (not the degeneracies) coincides with the spectrum of the
+anisotropic Heisenberg chain (XXZ model) in the presence of a Z field (2^L
+states). The wave functions of the 3^L-state system are obtained explicitly
+from those of the 2^L-state system, and the degeneracies can be understood in
+terms of irreducible representations of U_q(\hat{sl(2)}).
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 16:36:30 GMT""},{""version"":""v2"",""created"":""Fri, 11 Feb 1994 13:37:10 GMT""}]","2009-10-22"
+"hep-th/9307104",,"B. Harms and Y. Leblanc","Complete Semiclassical Treatment of the Quantum Black Hole Problem","14 pages, REVTEX","Ann.Phys.244:262-271,1995","10.1006/aphy.1995.1113",,"hep-th",,"  Two types of semiclassical calculations have been used to study quantum
+effects in black hole backgrounds, the WKB and the mean field approaches. In
+this work we systematically reconstruct the logical implications of both
+methods on quantum black hole physics and provide the link between these two
+approaches. Our conclusions completely support our previous findings based
+solely on the WKB method: quantum black holes are effectively p-brane
+excitations and, consequently, no information loss paradox exists in this
+problem.
+","[{""version"":""v1"",""created"":""Thu, 15 Jul 1993 22:33:19 GMT""}]","2010-11-01"
+"hep-th/9307105",,"M. Martellini, M.Spreafico and K. Yoshida","A continuum approach to 2D-Quantum Gravity for c$>$1","36 pages, phyzzx.tex",,,,"hep-th",,"  Two dimensional induced quantum gravity with matter central charge $c>1$ is
+studied taking a careful consideration of both diffeomorphism and Weyl
+symmetries . It is shown that, for the gauge fixing condition $R(g)$ (scalar
+curvature)=$const$, one obtains a modification of the David-Distler-Kawai
+version of KPZ scaling. We obtain a class of models with the real string
+tension for all values $c>1$. They contain an indeterminate parameter which is,
+however, strongly constrained by the requirement of non triviality of such a
+model. The possible physical significance of the new model is discussed. In
+particular we note that it describes smooth surfaces imbedded in
+$d$-dimensional flat space time for arbitrary $d$, consistently with recent
+numerical result for $d=3$.
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 12:16:44 GMT""}]","2007-05-23"
+"hep-th/9307106","Francesco Toppan","F. Delduc, L. Frappat, P. Sorba, F. Toppan and E. Ragoucy","Rational $ W $ algebras from composite operators","11 pages, LATEX, preprint ENSLAPP-AL-429/93 and NORDITA-93/47-P","Phys.Lett. B318 (1993) 457-464","10.1016/0370-2693(93)91539-Y",,"hep-th",,"  Factoring out the spin $1$ subalgebra of a $ W $ algebra leads to a new $ W $
+structure which can be seen either as a rational finitely generated $ W $
+algebra or as a polynomial non-linear $ W_\infty$ realization.
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 12:11:41 GMT""}]","2009-10-22"
+"hep-th/9307107","Juergen Fuchs","J. Fuchs and C. Schweigert","Level-Rank Duality of WZW Theories and Isomorphisms of N=2 Coset Models","50 pages, NIKHEF-H/93-16a. (Contrary to the claim in the original
+  version of this paper, our results in sections 3 through 5 are in perfect
+  agreement with those of ref. [4]. We are grateful to the authors of ref. [4]
+  for extensive explanation of their notation and apologize for having
+  misrepresented their work.)","Annals Phys. 234 (1994) 102-140","10.1006/aphy.1994.1075",,"hep-th",,"  Mappings between certain infinite series of N=2 superconformal coset models
+are constructed. They make use of level-rank dualities for B, C and D type
+theories. While the WZW level-rank dualities do not constitute isomorphisms of
+the theories, they lead to level-rank dualities of N=2 coset models that
+preserve the cft properties in such a manner that the coset models related by
+duality are expected to be isomorphic as conformal field theories. The
+construction also gives some further insight in the nature of the resolution of
+field identification fixed points of coset theories.
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 14:06:49 GMT""},{""version"":""v2"",""created"":""Fri, 27 Aug 1993 08:16:24 GMT""}]","2009-10-22"
+"hep-th/9307108",,"J. Isberg, U. Lindstr\""om, B. Sundborg and G. Theodoridis","Classical and Quantized Tensionless Strings","34 pages, Latex, USITP 93-12","Nucl.Phys. B411 (1994) 122-156","10.1016/0550-3213(94)90056-6",,"hep-th",,"  {}From the ordinary tensile string we derive a geometric action for the
+tensionless ($T=0$) string and discuss its symmetries and field equations. The
+Weyl symmetry of the usual string is shown to be replaced by a global
+space-time conformal symmetry in the $T\to 0$ limit. We present the explicit
+expressions for the generators of this group in the light-cone gauge. Using
+these, we quantize the theory in an operator form and require the conformal
+symmetry to remain a symmetry of the quantum theory. Modulo details concerning
+zero-modes that are discussed in the paper, this leads to the stringent
+restriction that the physical states should be singlets under space-time
+diffeomorphisms, hinting at a topological theory. We present the details of the
+calculation that leads to this conclusion.
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 15:22:30 GMT""}]","2009-10-22"
+"hep-th/9307109",,"Alberto Lerda and Stefano Sciuto","Slave Anyons in the $t$-$J$ Model at the Supersymmetric Point","37 pp., TeX file (3 figures on request), DFTT 30/93 and ITP-SB-93-30","Nucl.Phys.B410:577-616,1993","10.1016/0550-3213(93)90530-3",,"hep-th cond-mat",,"  We discuss the properties of the supersymmetric $t$-$J$ model in the
+formalism of the slave operators. In particular we introduce a generalized
+abelian bosonization for the model in two dimensions, and show that holons and
+spinons can be anyons of arbitrary complementary statistics (slave anyon
+representation). The braiding properties of these anyonic operators are
+thoroughly analyzed, and are used to provide an explicit linear realization of
+the superalgebra $SU(1|2)$. Finally, we prove that the Hamiltonian of the
+$t$-$J$ model in the slave anyon representation is invariant under $SU(1|2)$
+for $J=2\,t$.
+","[{""version"":""v1"",""created"":""Fri, 16 Jul 1993 15:53:49 GMT""}]","2010-11-02"

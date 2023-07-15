@@ -1,0 +1,222 @@
+"astro-ph/9310036",,"Sabino Matarrese, Ornella Pantano and Diego Saez","General Relativistic Dynamics of Irrotational Dust: Cosmological
+  Implications","12 pages , DFPD 93/A/67","Phys.Rev.Lett. 72 (1994) 320-323","10.1103/PhysRevLett.72.320",,"astro-ph",,"  The non--linear dynamics of cosmological perturbations of an irrotational
+collisionless fluid is analyzed within General Relativity. Relativistic and
+Newtonian solutions are compared, stressing the different role of boundary
+conditions in the two theories. Cosmological implications of relativistic
+effects, already present at second order in perturbation theory, are studied
+and the dynamical role of the magnetic part of the Weyl tensor is elucidated.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 15:12:37 GMT""}]","2009-10-22"
+"cond-mat/9310040",,"Alexander Moroz","Inward and Outward Integral Equations and the KKR Method for Photons","(to appear in J. Phys. : Cond. Matter), Latex 17 pp, PRA-HEP 93/10
+  (exclusively English and unimportant misprints corrected)","J. Phys. C : Cond. Matter 6, 171-182 (1994)","10.1088/0953-8984/6/1/018",,"cond-mat",,"  In the case of electromagnetic waves it is necessary to distinguish between
+inward and outward on-shell integral equations. Both kinds of equation are
+derived. A correct implementation of the photonic KKR method then requires the
+inward equations and it follows directly from them. A derivation of the KKR
+method from a variational principle is also outlined. Rather surprisingly, the
+variational KKR method cannot be entirely written in terms of surface integrals
+unless permeabilities are piecewise constant. Both kinds of photonic KKR method
+use the standard structure constants of the electronic KKR method and hence
+allow for a direct numerical application. As a by-product, matching rules are
+obtained for derivatives of fields on different sides of the discontinuity of
+permeabilities.
+  Key words: The Maxwell equations, photonic band gap calculations
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 10:32:18 GMT""},{""version"":""v2"",""created"":""Fri, 26 Nov 1993 12:46:02 GMT""}]","2008-02-03"
+"cond-mat/9310041",,"E. Marinari, G. Parisi and F. Ritort","On the 3d Ising Spin Glass","40 pages, uucompressed file with eps figures added in figures, sccs
+  532",,"10.1088/0305-4470/27/8/008",,"cond-mat hep-lat hep-th",,"  We study the $3d$ Ising spin glass with $\pm 1$ couplings. We introduce a
+modified local action. We use finite size scaling techniques and very large
+lattice simulations. We find that our data are compatible both with a finite
+$T$ transition and with a $T=0$ singularity of an unusual type.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 11:48:24 GMT""},{""version"":""v2"",""created"":""Tue, 19 Oct 1993 13:29:54 GMT""}]","2009-10-22"
+"cond-mat/9310042","Jose Riera","Jose Riera and Elbio Dagotto","Superconductivity in the Cuo Hubbard Model with Long-Range Coulomb
+  Repulsion","LATEX, 14 pages, 4 figures available as postcript files or hard copy,
+  preprint ORNL-CCIP/93/15",,"10.1103/PhysRevB.50.3215",,"cond-mat",,"  A multiband CuO Hubbard model is studied which incorporates long-range (LR)
+repulsive Coulomb interactions. In the atomic limit, it is shown that a
+charge-transfer from copper to oxygen ions occurs as the strength of the LR
+interaction is increased. The regime of phase separation becomes unstable, and
+is replaced by a uniform state with doubly occupied oxygens. As the holes
+become mobile a superfluid condensate is formed, as suggested by a numerical
+analysis of pairing correlation functions and flux quantization. Although most
+of the calculations are carried out on one dimensional chains, it is
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 13:41:33 GMT""}]","2009-10-22"
+"hep-lat/9310018","Weonjong Lee","Weonjong Lee","Quark Mass Renormalization on the Lattice with Staggered Fermions","26 pages, CU-TP-607","Phys.Rev. D49 (1994) 3563-3573","10.1103/PhysRevD.49.3563",,"hep-lat hep-ph",,"  The QCD light quark mass renormalized at a 1 GeV scale in the $ \overline{MS}
+$ scheme is obtained from the numerical results of the lattice QCD simulation
+with staggered fermions. The primary emphasis is given to the connection
+between the lattice and continuum parameters. The results are compared with
+those from the QCD sum rule.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 15:22:22 GMT""}]","2009-10-22"
+"hep-lat/9310021",,"P. Altevogt, A. Linke","An Algorithm for Dynamic Load Balancing of Synchronous Monte Carlo
+  Simulations on Multiprocessor Systems","12 pages, uuencoded figures included, 75.93.08","Comput.Phys.Commun. 79 (1994) 373-380","10.1016/0010-4655(94)90183-X",,"hep-lat",,"  We describe an algorithm for dynamic load balancing of geometrically
+parallelized synchronous Monte Carlo simulations of physical models. This
+algorithm is designed for a (heterogeneous) multiprocessor system of the MIMD
+type with distributed memory. The algorithm is based on a dynamic partitioning
+of the domain of the algorithm, taking into account the actual processor
+resources of the various processors of the multiprocessor system.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 15:25:08 GMT""}]","2009-10-22"
+"hep-ph/9310297","Hitoshi Murayama","Hitoshi Murayama and T. Yanagida","Leptogenesis in Supersymmetric Standard Model with Right-handed Neutrino","10 pages, LaTeX file, LBL-34744","Phys.Lett.B322:349-354,1994","10.1016/0370-2693(94)91164-9",,"hep-ph astro-ph",,"  We show that the leptogenesis is automatic within the supersymmetric standard
+model if there exist right-handed neutrinos with mass less than $H_{\it inf}$,
+the expansion rate during the inflation. Its scalar component grows during the
+inflation due to the quantum fluctuation, oscillates coherently after the
+inflation, and its decay generates lepton asymmetry. The scenario is naturally
+embedded into $SO(10)$ GUT without any modifications. We also discuss the case
+with heavier right-handed neutrino.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 1993 23:08:41 GMT""}]","2009-09-29"
+"hep-ph/9310298","J. R. Cudell","J.R. Cudell and B.U. Nguyen","A Consistent Next-to-Leading-Order QCD Calculation of Hadronic
+  Diffractive Scattering","26 pages, McGill/93-25","Nucl.Phys. B420 (1994) 669-694","10.1016/0550-3213(94)90082-5",,"hep-ph",,"  We calculate the order alpha_s^2 and order alpha_s^3 QCD contributions to
+colour-singlet exchange in the leading log s approximation. We implement the
+resulting amplitude at the hadronic level and thus construct the QCD pomeron
+and odderon to this order of perturbation theory. We show that the structure of
+the hadronic form factors provides a natural mechanism through which the
+odderon gets suppressed at t=0 whereas it dominates the elastic cross section
+at large t. We also demonstrate that the inclusion of nonperturbative effects
+through a modification of the gluon propagator accelerates greatly the
+convergence of the log s expansion, although not enough to provide agreement
+with the data.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 01:55:44 GMT""}]","2009-10-22"
+"hep-ph/9310300","Mannque Rho","Mannque Rho (SPhT/CEA Saclay)","Cheshire Cat Hadrons","(Lectures given at Latin American School of Physics 93 (ELAF '93),
+  5-16 July 1993, Mar del Plata, Argentina); LATEX, 151 pages (15 figures not
+  included, available on request); SPhT T93/110; an updated version is
+  available at arXiv:hep-ph/0206003","Phys.Rept. 240 (1994) 1-142","10.1016/0370-1573(94)90002-7",,"hep-ph nucl-th",,"  This article is based on a series of lectures given at ELAF 93 on the
+description of low-energy hadronic systems {\it in and out} of hadronic medium.
+The focus is put on identifying, with the help of a Cheshire Cat philosophy,
+the effective degrees of freedom relevant for the strong interactions from a
+certain number of generic symmetry properties of QCD. The matters treated are
+the ground-state and excited-state properties of light- and heavy-quark baryons
+and applications to nuclei and nuclear matter under normal as well as extreme
+conditions.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 04:25:52 GMT""}]","2015-08-25"
+"hep-ph/9310301","D. R. T. Jones","I.Jack, D.R.T. Jones and K.L.Roberts","Dimensional Reduction in Non-Supersymmetric Theories","13 pages, phyzzx, LTH 320","Z. Phys. C62 (1994) 161-166","10.1007/BF01559535",,"hep-ph",,"  It is shown that regularisation by dimensional reduction is a viable
+alternative to dimensional regularisation in non-supersymmetric theories.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 09:43:21 GMT""}]","2009-10-22"
+"hep-ph/9310302",,"Mikhail Bilenky and Arcadi Santamaria","One-loop Effective Lagrangian for a Standard Model with a Heavy Charged
+  Scalar Singlet","39 pages + 7 figures (available upon request), LaTeX, CERN-TH.7030/93","Nucl.Phys. B420 (1994) 47-93","10.1016/0550-3213(94)90375-1",,"hep-ph",,"  We study several problems related to the construction and the use of
+effective Lagrangians by considering an extension of the standard model that
+includes a heavy scalar singlet coupled to the leptonic doublet. Starting from
+the full renormalizable model, we build an effective field theory by
+integrating out the heavy scalar. A local effective Lagrangian (up to operators
+of dimension six) is obtained by expanding the one-loop effective action in
+inverse powers of the heavy mass. This is done by matching some Green functions
+calculated with both the full and the effective theories.
+  Using this simple example we study the renormalization of effective
+Lagrangians in general and discuss how they can be used to bound new physics.
+We also discuss the effective Lagrangian after spontaneous symmetry breaking,
+and the use of the standard model classical equations of motion to rewrite it
+in different forms. The final effective Lagrangian in the physical basis is
+well suited to the study of the phenomenology of the model, which we comment on
+briefly. Finally, as an example of the use of our effective field theory, we
+consider the leptonic flavour-changing decay of the $Z$ boson in the effective
+theory and compare the results obtained with the full model calculation.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 10:12:50 GMT""}]","2009-10-22"
+"hep-ph/9310303","Kurt Langfeld","K. Langfeld","The Non-Trivial Phase of $\phi ^{4}$-Theory in an External Magnetic
+  Field and at Finite Temperature","12 LaTex pages (3 figures available on request), UNITUE-THEP-11-1993",,,,"hep-ph",,"  The effective potential for the order parameter $\phi ^{\dagger } \phi$ is
+investigated in massless $\phi ^{4}$-theory in the presence of magnetic fields
+at finite temperature. It is found that the first order nature of the phase
+transition from the non-trivial to the perturbative ground state at a critical
+temperature is unchanged by the presence of magnetic fields, though they do
+increase the critical temperature and weaken the barrier separating the
+perturbative from the non-trivial phase. The results might be relevant for the
+electro-weak phase transition as well as for inflationary models of the early
+universe.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 10:13:54 GMT""}]","2009-09-25"
+"hep-ph/9310304",,"T. Altherr, E. Petitgirard and T. del Rio Gaztelurrutia","Axion Emission from Red Giants and White Dwarfs","17 pp, 3 PS figures, CERN-TH-7044/93","Astropart.Phys.2:175-186,1994","10.1016/0927-6505(94)90040-X",,"hep-ph",,"  Using thermal field theory methods, we recalculate axion emission from dense
+plasmas. We study in particular the Primakoff and the bremsstrahlung processes.
+The Primakoff rate is significantly suppressed at high densities, when the
+electrons become relativistic. However, the bound on the axion-photon coupling,
+$G<10^{-10}$ GeV, is unaffected, as it is constrained by the evolution of HB
+stars, which have low densities. In contradistinction, the same relativistic
+effects enhance the bremsstrahlung processes. From the red giants and white
+dwarfs evolution, we obtain a conservative bound on the axion-electron
+coupling, $g_{ae} < 2\times 10^{-13}$.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 10:38:53 GMT""}]","2009-09-25"
+"hep-ph/9310305",,"Marc Sher","Long-Lived Charged Heavy Leptons","(talk presented at the 16th Kazimierz Meeting, Poland, May 1993), 4
+  pages, no figures, Phyzzx (macros appended at beginning), WM-93-111",,,,"hep-ph",,"  Very little is known about the mass spectrum of fermions in the standard
+model. In this talk, I point out that in the simplest extension of the standard
+model, in which all right-handed fields are singlets, it is quite possible that
+a fourth-generation neutrino will be heavier that its charged counterpart. The
+latter will then be very long-lived. Three plausible values of the mixing angle
+give very different phenomenology; the charged lepton will either decay at the
+vertex (albeit into a massless neutrino), away from the vertex but within the
+detector, or will pass completely through the detector. In the latter case,
+then if the detectors at the LHC and SSC have the ability to determine the
+velocity of these particles, they will look just like muons and be missed. In
+the extreme case in which the mixing angle is only generated by Planck scale
+effects (it can't be zero for cosmological reasons), not only is detection
+possible, but collection for further study may be possible. Finally, in an
+alternative model in which the fourth generation leptons form an isodoublet,
+the possible decay of the charged lepton into $\tau Z$ offers a promising,
+nearly background free, method of detection.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 14:09:31 GMT""}]","2007-05-23"
+"hep-ph/9310306",,"S. D. Bass (Cavendish Lab., Cambridge) and A. W. Thomas (Adelaide)","The Spin Structure of the Nucleon","40 pages (LaTeX) + 7 figures (available from the authors); Cavendish
+  preprint HEP 93/4, Adelaide ADP-93-218/T136","Prog.Part.Nucl.Phys.33:449-476,1994","10.1016/0146-6410(94)90048-5",,"hep-ph",,"  We provide an introduction to the ideas of spin-dependent deep-inelastic
+scattering. Recent experimental results are summarised and possible
+explanations related to the axial anomaly presented. Further experiments that
+could greatly clarify the situation are also described.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 15:19:20 GMT""}]","2010-02-17"
+"hep-th/9310096","P. K. Ghosh","Pijush K. Ghosh","Bogomol'nyi Equations of Maxwell-Chern-Simons vortices from a
+  generalized Abelian Higgs Model","30 pages(4 figures not included), RevTeX, IP/BBSR/93-62","Phys.Rev. D49 (1994) 5458-5468","10.1103/PhysRevD.49.5458",,"hep-th",,"  We consider a generalization of the abelian Higgs model with a Chern-Simons
+term by modifying two terms of the usual Lagrangian. We multiply a dielectric
+function with the Maxwell kinetic energy term and incorporate nonminimal
+interaction by considering generalized covariant derivative. We show that for a
+particular choice of the dielectric function this model admits both topological
+as well as nontopological charged vortices satisfying Bogomol'nyi bound for
+which the magnetic flux, charge and angular momentum are not quantized. However
+the energy for the topolgical vortices is quantized and in each sector these
+topological vortex solutions are infinitely degenerate. In the nonrelativistic
+limit, this model admits static self-dual soliton solutions with nonzero finite
+energy configuration. For the whole class of dielectric function for which the
+nontopological vortices exists in the relativistic theory, the charge density
+satisfies the same Liouville equation in the nonrelativistic limit.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 1993 19:16:57 GMT""}]","2009-10-22"
+"hep-th/9310107","R. Parthasarathy","R.Parthasarathy (The Institute of Mathematical Sciences, Madras,
+  India) and K.S.Viswanathan (Department of Physics,Simon Fraser Universitya,
+  Burnaby. B.C, Canada)","Harmonic Maps and Self-Dual Equations for Immersed Surfaces","V5A 1S6,26pages, LaTeX, IMSc/93-44 and SFU.HEP.109/1993",,,,"hep-th",,"  The immersion of the string world sheet, regarded as a Riemann surface, in
+$R^3$ and $R^4$ is described by the generalized Gauss map. When the Gauss map
+is harmonic or equivalently for surfaces of constant mean curvature, we obtain
+Hitchin's self-dual equations, by using $SO(3)$ and $SO(4)$ gauge fields
+constructed in our earlier studies. This complements our earlier result that
+$h\surd g\ =\ 1$ surfaces exhibit Virasaro symmetry. The self-dual system so
+obtained is compared with self-dual Chern-Simons system and a generalized
+Liouville equation involving extrinsic geometry is obtained.
+  The immersion in $R^n, \ n>4$ is described by the generalized Gauss map. It
+is shown that when the Gauss map is harmonic, the mean curvature of the
+immersed surface is constant. $SO(n)$ gauge fields are constructed from the
+geometry of the surface and expressed in terms of the Gauss map. It is found
+Hitchin's self- duality relations for the gauge group $SO(2)\times SO(n-2)$.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 14:55:19 GMT""}]","2007-05-23"
+"hep-th/9310108","Konno Hitoshi","Hitoshi Konno","BRST Cohomology in Quantum Affine Algebra $U_q(\widehat{sl_2})$","14 pages, RIMS-927","Mod.Phys.Lett.A9:1253-1266,1994","10.1142/S0217732394001076",,"hep-th",,"  Using free field representation of quantum affine algebra
+$U_q(\widehat{sl_2})$, we investigate the structure of the Fock modules over
+$U_q(\widehat{sl_2})$. The analisys is based on a $q$-analog of the BRST
+formalism given by Bernard and Felder in the affine Kac-Moody algebra $\widehat
+{sl_2}$. We give an explicit construction of the singular vectors using the
+BRST charge. By the same cohomology analysis as the classical case ($q=1$), we
+obtain the irreducible highest weight representation space as a nontrivial
+cohomology group. This enables us to calculate a trace of the $q$-vertex
+operators over this space.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 10:03:53 GMT""}]","2010-11-01"
+"hep-th/9310109",,"Salvatore De Martino, Silvio De Siena, Fabrizio Illuminati, and
+  Giuseppe Vitiello","Minimum Uncertainty, Coherence and Squeezing in Diffusion Processes, and
+  Stochastic Quantization","6 pages (LaTeX), to appear in Proceedings of the Third International
+  Workshop on Squeezed States and Uncertainty Relations, NASA Conference
+  Publications (in print)",,,,"hep-th cond-mat",,"  We show that uncertainty relations, as well as minimum uncertainty coherent
+and squeezed states, are structural properties for diffusion processes. Through
+Nelson stochastic quantization we derive the stochastic image of the quantum
+mechanical coherent and squeezed states.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 10:53:46 GMT""}]","2007-05-23"
+"hep-th/9310110",,"H.M. Babujian and R. Flume","Off-Shell Bethe Ansatz Equation for Gaudin Magnets and Solutions of
+  Knizhnik-Zamolodchikov Equations","10 pages (LaTeX), BONN-HE-93-30, YPI 1407 (18)-93","Mod.Phys.Lett. A9 (1994) 2029-2040","10.1142/S0217732394001891",,"hep-th",,"  We generalize the previously established connection between the off-shell
+Bethe ansatz equation for inhomogeneous SU(2) lattice vertex models in the
+quasiclassical limit and the solutions of the SU(2) Knizhnik-Zamolodchikov
+equations to the case of arbitrary simple Lie algebras.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 15:33:12 GMT""}]","2015-06-26"
+"nucl-th/9310023",,"Kazuhiro Tanaka","Quasiparticle properties and the dynamics of high-density nuclear matter","13 pages LaTeX, 3 figures (available upon request), RIKEN-AF-NP-160",,,,"nucl-th",,"  The energy spectrum of nucleons in high-density nuclear matter is
+investigated in the framework of relativistic meson-nucleon many-body theory,
+employing the $1/N$ expansion method. The coupling of the nucleon with the
+particle-hole excitations in the medium flattens the spectra in the vicinity of
+the Fermi surface. The effect grows logarithmically for increasing density and
+eventually leads to instability of the normal state. The validity of the
+mean-field theory at high density is criticized.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 12:01:11 GMT""}]","2009-09-25"
+"solv-int/9310001","Jan Felipe v. Diejen","J. F. van Diejen","Deformations of Calogero-Moser Systems","4 pages, Latex (version 2.09), talk given at NEEDS '93, Gallipoli,
+  Italy","Theor Math.Phys.99:549-554,1994","10.1007/BF01016137",,"solv-int hep-th nlin.SI",,"  Recent results are surveyed pertaining to the complete integrability of some
+novel n-particle models in dimension one. These models generalize the
+Calogero-Moser systems related to classical root systems. Quantization leads to
+difference operators instead of differential operators.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 12:17:51 GMT""}]","2010-10-27"

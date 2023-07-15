@@ -1,0 +1,254 @@
+"astro-ph/9304025",,"Alain Bouquet","Lensing of Invisible Stars by Brown Dwarfs","9p, LaTeX, PAR-LPTHE 93-02",,,,"astro-ph",,"  To detect brown dwarfs in the dark galactic halo through gravitational
+lensing, experiments follow the luminosity of millions of stars to observe a
+few lensing events par year. The luminosity of a star too faint to be
+continuously followed can be temporarily increased above the detection limit by
+a lensing. The detection of these invisible stars would increase the number of
+events by a factor 2 to 7, and moreover their presence would confirm the
+lensing interpretation of events due to continuously monitored stars.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 14:01:25 GMT""}]","2007-05-23"
+"astro-ph/9304026","Martin Weinberg","Martin D. Weinberg","Kinematic Signature of a Rotating Bar Near a Resonance","24 pages, AAS LaTeX macros v3.0, 23 figures (available on request)",,"10.1086/173589",,"astro-ph",,"  There have been several recent suggestions that the Milky Way has rotating
+bar-like features based on HI and star count data. In this paper, I show that
+such features cause distinctive stellar kinematic signatures near OLR and ILR.
+The effects of these resonances may be observable far from the peak density of
+the pattern and relatively nearby the solar position. The details of the
+kinematic signatures depend on the evolutionary history of the `bar' and
+therefore velocity data, both systemic and velocity dispersion, may be used to
+probe the evolutionary history as well as the present state of the Galaxy.
+Kinematic models for a variety of simple scenarios are presented. Models with
+evolving pattern speeds show significantly stronger dispersion signatures than
+those with static pattern speeds, suggesting that useful observational
+constraints are possible. The models are applied to the proposed rotating
+spheroid and bar models; we find: 1) none of these models chosen to represent
+the proposed large-scale rotating spheroid are consistent with the stellar
+kinematics; and 2) a Galactic bar with semimajor axis of $3\kpc$ will cause a
+large increase in velocity dispersion in the vicinity of OLR ($\sim5\kpc$) with
+little change in the net radial motion and such a signature is suggested by
+K-giant velocity data. Potential future observations and analyses are
+discussed.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 14:00:16 GMT""}]","2009-10-22"
+"chao-dyn/9304010","Patrick A. Worfolk","John Guckenheimer and Patrick Worfolk (Center for Applied Mathematics,
+  Cornell University)","Dynamical Systems: Some Computational Problems","To appear in NATO ASI, Bifurcations and Periodic Orbits of Vector
+  Fields, conference proceedings",,,,"chao-dyn nlin.CD",,"  We present several topics involving the computation of dynamical systems. The
+emphasis is on work in progress and the presentation is informal -- there are
+many technical details which are not fully discussed. The topics are chosen to
+demonstrate the various interactions between numerical computation and
+mathematical theory in the area of dynamical systems. We present an algorithm
+for the computation of stable manifolds of equilibrium points, describe the
+computation of Hopf bifurcations for equilibria in parametrized families of
+vector fields, survey the results of studies of codimension two global
+bifurcations, discuss a numerical analysis of the Hodgkin and Huxley equations,
+and describe some of the effects of symmetry on local bifurcation.
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 23:28:02 GMT""},{""version"":""v2"",""created"":""Fri, 30 Apr 1993 23:06:55 GMT""}]","2008-02-03"
+"cond-mat/9304045",,"J. J. Palacios and C. Tejedor","Mode-Matching Technique for Transmission Calculations in Electron
+  Waveguides at High Magnetic Fields","Revtex, 20 pages, figures on request",,"10.1103/PhysRevB.48.5386",,"cond-mat",,"  In this paper we present a mode-matching technique to study the transmission
+coefficient of mesoscopic devices such as electron waveguides in the presence
+of high magnetic fields for different situations. A detailed study of the
+difficulties rising due to the presence of the magnetic field is given and the
+differences with the zero magnetic field case are stressed. We apply this
+technique to calculate the transmission at non-zero magnetic field of two
+completely different systems: a) a quantum box built up on a quantum wire (or
+electron waveguide) by means of two barriers and b) a meandering quantum wire,
+{\em i.e.}, a wire with changes in the guiding direction. In the former case we
+analyze the so-called {\em Coulomb Blockade} and {\em Aharanov-Bohm} regimes
+and in the latter one we focus on the realistic case of soft, circular bends
+joining the different sections of the wire.
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 19:54:03 GMT""}]","2009-10-22"
+"cond-mat/9304046","Subir Sachdev","Andrey V. Chubukov, Subir Sachdev and Jinwu Ye","Theory of Two-Dimensional Quantum Heisenberg Antiferromagnets with a
+  Nearly Critical Ground State","81 pages, REVTEX 3.0, smaller updated version, YCTP-xxxx","Physical Review B 49, 11919 (1994)","10.1103/PhysRevB.49.11919",,"cond-mat",,"  We present the general theory of clean, two-dimensional, quantum Heisenberg
+antiferromagnets which are close to the zero-temperature quantum transition
+between ground states with and without long-range N\'{e}el order. For
+N\'{e}el-ordered states, `nearly-critical' means that the ground state
+spin-stiffness, $\rho_s$, satisfies $\rho_s \ll J$, where $J$ is the
+nearest-neighbor exchange constant, while `nearly-critical' quantum-disordered
+ground states have a energy-gap, $\Delta$, towards excitations with spin-1,
+which satisfies $\Delta \ll J$. Under these circumstances, we show that the
+wavevector/frequency-dependent uniform and staggered spin susceptibilities, and
+the specific heat, are completely universal functions of just three
+thermodynamic parameters. Explicit results for the universal scaling functions
+are obtained by a $1/N$ expansion on the $O(N)$ quantum non-linear sigma model,
+and by Monte Carlo simulations. These calculations lead to a variety of
+testable predictions for neutron scattering, NMR, and magnetization
+measurements. Our results are in good agreement with a number of numerical
+simulations and experiments on undoped and lightly-doped $La_{2-\delta}
+Sr_{\delta}Cu O_4$.
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 22:30:00 GMT""},{""version"":""v2"",""created"":""Tue, 27 Apr 1993 23:33:00 GMT""},{""version"":""v3"",""created"":""Tue, 27 Apr 1993 23:58:00 GMT""},{""version"":""v4"",""created"":""Wed, 28 Apr 1993 14:00:00 GMT""},{""version"":""v5"",""created"":""Fri, 4 Feb 1994 14:32:02 GMT""}]","2009-10-22"
+"hep-ph/9304300",,"Achilles D. Speliotopoulos","The Motion of Massive Test Particles in the Dark Matter with an
+  $a_0/r^2$ Energy Density","PlainTex, 12 pages, IP-ASTP-11-93",,,,"hep-ph astro-ph gr-qc",,"  The motion of massive test particles in dark matter is studied. It is shown
+that if the energy density of the dark matter making up a galactic halo has a
+large $r$ behavior of $1/r^2$, then contrary to intuition the motion of these
+test particles are not govern by Newtonian gravity, but rather by the equations
+of geodesic motion from Einstein's theory of general relativity.
+  Moreover, the rotational velocity curves of orbiting massive test particles
+in this energy density do not approach a constant value at large $r$ but will
+instead always increase with the radius of the orbit $r_c$.
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 18:36:00 GMT""},{""version"":""v2"",""created"":""Fri, 16 Jul 1993 17:15:00 GMT""}]","2008-02-03"
+"hep-ph/9304304","Thomas Teubner","M. Je\zabek and T. Teubner","Momentum Distributions in $t\bar t$","12 pages (without figures) (11 (sub)figures available on request),
+  Karlsruhe preprint TTP93-11, hep-ph/yymmnnn","Z. Phys. C59 (1993) 669","10.1007/BF01562559",,"hep-ph",,"  We apply the Green function formalism for $t-\bar t$ production and decay
+near threshold in a study of the effects due to the momentum dependent width
+for such a system. We point out that these effects are likely to be much
+smaller than expected from the reduction of the available phase space. The
+Lippmann--Schwinger equation for the QCD chromostatic potential is solved
+numerically for $S$ partial wave. We compare the results on the total cross
+section, top quark intrinsic momentum distributions and on the energy spectra
+of $W$ bosons from top quark decays with those obtained for the constant width.
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 16:36:40 GMT""}]","2015-06-25"
+"hep-ph/9304305",,"J. Soto and R. Tzani","Extra symmetries in the effective theory of heavy quarks","26 pages (two figures available upon request), tex file,
+  UB-ECM-PF-93/1","Int.J.Mod.Phys.A9:4949-4972,1994","10.1142/S0217751X94001989",,"hep-ph hep-th",,"  Extra symmetries are shown to exist in the effective theory of heavy quarks
+when both quarks and anti-quarks with the same velocity are included. These
+symmetries mix the quark with the anti-quark sector and they resemble
+axial-type of symmetries. Together with the known flavor and spin symmetries
+they form a $u(4)$ algebra when a single flavor is considered. It is shown that
+the full $U(4)$ set of symmetries breaks spontaneously down to $ U(2) \otimes
+U(2)$. The Goldstone modes corresponding to the spontaneously broken currents
+are identified. Finally, the precise connection of this theory with the
+fundamental QCD is derived and it is investigated under some approximations.
+Some physical processes where these extra symmetries may be relevant are
+pointed out.
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 19:07:45 GMT""}]","2014-11-17"
+"hep-ph/9304306","Masoud Mohazzab","M. Mohazzab, R. H. Brandenberger (Brown)","Gamma Rays from Small Scale Structures on Long Cosmic Strings","14 pages, 6 Figures available from the authors, phyzzx, BROWN-HET-892","Int.J.Mod.Phys. D2 (1993) 183-196","10.1142/S0218271893000167",,"hep-ph astro-ph",,"  The formation of cusps on long cosmic strings is discussed and the
+probability of cusp formation is estimated. The energy distribution of the
+gamma-ray background due to cusp annihilation on long strings is calculated and
+compared to observations. Under optimistic assumptions about the cusp formation
+rate, we find that strings with a mass per unit length $\mu$ less than ${G\mu}
+= 10^{-14}$ will have an observable effect. However, it is shown that the
+gamma-ray bursters can not be attributed to long ordinary strings (or loops).
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 18:51:49 GMT""}]","2009-10-22"
+"hep-ph/9304307","Nathan Seiberg","Yosef Nir and Nathan Seiberg","Should Squarks Be Degenerate?","13 pages","Phys.Lett.B309:337-343,1993","10.1016/0370-2693(93)90942-B",,"hep-ph",,"  For generic squark masses, box diagrams with squarks and gluinos give
+unacceptably large contributions to neutral meson ($K$, $B$ and $D$) mixing.
+The standard solution to this problem is to assume that squarks are degenerate
+to a very good approximation. We suggest an alternative mechanism to suppress
+squark contributions to flavor changing neutral currents: the alignment of
+quark with squark mass matrices. This mechanism arises naturally in the
+framework of Abelian horizontal symmetries.
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 19:18:02 GMT""}]","2009-09-15"
+"hep-ph/9304308",,"T. Garavaglia, W. K. Kwong and Dan-di Wu","Higgs particle detection using jets","10 pages, Fig.1 a,b,c,d(surve on request), plain tex, PVAM-HEP-93-1","Phys.Rev.D48:1899-1903,1993","10.1103/PhysRevD.48.R1899",,"hep-ph",,"  We study the possibility of detecting the Higgs boson in the intermediate
+mass range via its two jet channel. We consider only Higgs bosons produced in
+association with a $t \bar{t}$ pair. Both $t$ and $\bar{t}$ are required to
+decay semileptonically to reduce the QCD background. The signal is compared
+with the main background, $t \bar{t} + 2$ jets, after appropriate cuts. A
+sizable signal above background is seen in our simulation at the parton level.
+Use of the $t\bar{t}Z$ channel with $ Z$ decaying to $l^+ l^-$ is suggested for
+eliminating theoretical uncertainties in determining the $t \bar{t}H$ signal.
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 22:15:20 GMT""}]","2009-12-30"
+"hep-ph/9304309","Bob Holdom","B. Holdom and M. Sutherland","Linear and higher order power corrections in semileptonic B decays","14 pages, LaTeX, 8 stand-alone LaTeX figures in separate file,
+  UTPT-93-08. This is the version published long ago but not previously
+  archived",,"10.1103/PhysRevD.48.5196",,"hep-ph",,"  In previous work we have developed a relativistic quark model of mesons which
+is consistent with all QCD constraints at zeroth and first order in the heavy
+quark expansion. Here we obtain first order model predictions for the
+differential decay spectrum, the forward-backward asymmetry $A_{FB}$ and the
+$D^{\ast}$ polarization parameter $\alpha$ in the decay $B\to D^{\ast}\ell\nu$.
+We compare these with the predictions of QCD sum rules at first order. The
+model suggests why the corrections allowed at first order are small,
+concurrently with substantial corrections at second order.
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 22:49:12 GMT""},{""version"":""v2"",""created"":""Wed, 28 Jul 1993 15:57:10 GMT""},{""version"":""v3"",""created"":""Fri, 21 Oct 1994 21:28:50 GMT""}]","2009-10-22"
+"hep-ph/9304310","Carsten Grosse-Knetter","Carsten Grosse-Knetter (Universitaet Bielefeld)","Hamiltonian Quantization of Effective Lagrangians with Massive Vector
+  Fields","16 pages LaTeX, BI-TP 93/17","Phys.Rev. D48 (1993) 2854-2864","10.1103/PhysRevD.48.2854",,"hep-ph hep-th",,"  Effective Lagrangians containing arbitrary interactions of massive vector
+fields are quantized within the Hamiltonian path integral formalism. It is
+proven that correct Hamiltonian quantization of these models yields the same
+result as naive Lagrangian quantization (Matthews's theorem). This theorem
+holds for models without gauge freedom as well as for (linearly or nonlinearly
+realized) spontaneously broken gauge theories. The Stueckelberg formalism, a
+procedure to rewrite effective Lagrangians in a gauge invariant way, is
+reformulated within the Hamiltonian formalism as a transition from a second
+class constrained theory to an equivalent first class constrained theory. The
+relations between linearly and nonlinearly realized spontaneously broken gauge
+theories are discussed. The quartically divergent Higgs self interaction is
+derived from the Hamiltonian path integral.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 00:37:20 GMT""}]","2009-10-22"
+"hep-ph/9304311","Simona Rolli","M.Greco and S.Rolli","Next to leading order eta production at hadron colliders","8 pages, latex, FNT/T-93/13,14 figures avilable upon request","Z.Phys.C60:169-174,1993","10.1007/BF01650443",,"hep-ph",,"  Inclusive eta production at hadron colliders is considered,based on
+evaluation of eta fragmentation functions at next to leading order. Absolute
+predictions at LHC and SSC are presented, including the ratio $\eta/\pi^0$,
+together with the estimate of the theoretical uncertainty, as a possible
+neutral background to the $H\to \gamma\gamma$ detection.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 07:34:34 GMT""}]","2008-11-26"
+"hep-ph/9304312",,"M. Nowakowski and A. Pilaftsis","A Note on Charge Quantization Through Anomaly Cancellation","14p., TeX, (final version)","Phys.Rev.D48:259-263,1993","10.1103/PhysRevD.48.259",,"hep-ph",,"  In a minimal extension of the Standard Model, in which new neutral fermions
+have been introduced, we show that the requirement of vanishing anomalies fixes
+the hypercharges of all fermions uniquely. This naturally leads to electric
+charge quantization in this minimal scenario which has features similar to the
+Standard Model: invariance under the gauge group $SU(2)_L\otimes U(1)_Y$,
+conservation of the total lepton number and masslessness for the ordinary
+neutrinos. Such minimal models might arise as low-energy realizations of some
+heterotic superstring models or $SO(10)$ grand unified theories.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 11:59:32 GMT""}]","2011-07-19"
+"hep-th/9304137",,"A. Stern and I. Yakushin","Deformed Wong Particles","14 pages, LATEX","Phys.Rev. D48 (1993) 4974-4979","10.1103/PhysRevD.48.4974",,"hep-th",,"  By generalizing the Feynman proof of the Lorentz force law, recently reported
+by Dyson, we derive equations of motion for particles possessing internal
+degrees of freedom $I^a$ which do not, in general, generate a finite algebra.
+We obtain consistency criteria for fields which interact with such particles.
+It is argued that when a particle with internal $SU_q(2)$ degrees of freedom is
+coupled to $SU(2)$ gauge fields, $SU(2)$ gauge invariance is broken to $U(1)$.
+We further claim that when such an $SU_q(2)$ particle acts as a source for the
+field theory, the second rank antisymmetric field tensor, in general, cannot be
+globally defined.
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 20:30:53 GMT""}]","2009-10-22"
+"hep-th/9304138",,"Ya. I. Granovskii and A. S. Zhedanov","Hidden Symmetry of the Racah and Clebsch-Gordan Problems for the Quantum
+  Algebra sl_q(2)","12 pages",,,"UdeM-LPN-TH-146","hep-th math.QA",,"  The Askey-Wilson algebra $AW(3)$ with three generators is shown to serve as a
+hidden symmetry algebra underlying the Racah and (new) generalized
+Clebsch-Gordan problems for the quantum algebra $sl_q(2)$. On the base of this
+hidden symmetry a simple method to calculate corresponding coefficients in
+terms of the Askey-Wilson polynomials is proposed.
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 21:01:48 GMT""}]","2008-02-03"
+"hep-th/9304139","Aaron Keith Grant","Aaron K. Grant and Jonathan L. Rosner","Supersymmetric quantum mechanics and the Korteweg-de Vries hierarchy","16 pages, latex, EFI 93/20","J.Math.Phys. 35 (1994) 2142-2156","10.1063/1.530543",,"hep-th hep-ph",,"  The connection between supersymmetric quantum mechanics and the Korteweg- de
+Vries (KdV) equation is discussed, with particular emphasis on the KdV
+conservation laws. It is shown that supersymmetric quantum mechanics aids in
+the derivation of the conservation laws, and gives some insight into the Miura
+transformation that converts the KdV equation into the modified KdV equation.
+The construction of the $\tau$-function by means of supersymmetric quantum
+mechanics is discussed.
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 21:14:02 GMT""}]","2009-10-22"
+"hep-th/9304140","Andreas Fring","A. Fring","Form Factors in Affine Toda Field Theories","12.p, USP-IFQSC/TH/93-07",,,,"hep-th",,"  I briefly review the properties of classical affine Toda field theories and
+indicate how some of this features survive in the quantum theory on-shell. I
+demonstrate how this knowledge can be extended off-shell, i.e. how to compute
+correlation functions for completely integrable models via the form factor
+approach. For the latter I present an axiomatic system and two explicit
+computation (the Sinh-Gordon theory and the Bullough-Dodd model) which provide
+a consistent solution of it. (Talk presented at the VII Andr\'e Swieca Summer
+School, Campos do Jord\~ao, Brasil, 1993)
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 19:04:00 GMT""}]","2007-05-23"
+"hep-th/9304141","Andreas Fring","A. Fring and R. K\""oberle","Factorized Scattering in the Presence of Reflecting Boundaries","18p., USP-IFQSC/TH/93-06","Nucl.Phys.B421:159-172,1994","10.1016/0550-3213(94)90229-1",,"hep-th",,"  We formulate a general set of consistency requirements, which are expected to
+be satisfied by the scattering matrices in the presence of reflecting
+boundaries. In particular we derive an equivalent to the boostrap equation
+involving the W-matrix, which encodes the reflection of a particle off a wall.
+This set of equations is sufficient to derive explicit formulas for $W$, which
+we illustrate in the case of some particular affine Toda field theories.
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 19:06:00 GMT""}]","2011-05-05"
+"hep-th/9304142",,"Dan Radu Grigore","The Projective Unitary Irreducible Representations of the Poincar\'e
+  Group in 1+2 Dimensions","22 pages, PLAIN-TEX","J.Math.Phys. 34 (1993) 4172-4189","10.1063/1.529994",,"hep-th",,"  We give a complete analysis of the projective unitary irreducible
+representations of the Poincar\'e group in 1+2 dimensions applying Mackey
+theorem and using an explicit formula for the universal covering group of the
+Lorentz group in 1+2 dimensions. We provide explicit formulae for all
+representations.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 06:30:00 GMT""}]","2015-06-26"
+"hep-th/9304145","Takayuki Hori 76-8211x600","Takayuki Hori","A Bilocal Field Theory in Four Dimensions","13 pages, TEP-9R, LaTeX","Phys.Rev.D48:444-447,1993","10.1103/PhysRevD.48.R444",,"hep-th",,"  A bilocal field theory having M\""{o}bius gauge invariance is proposed. In
+four dimensions there exists a zero momentum state of the first quantized
+model, which belongs to a non-trivial BRS cohomology class. A field theory
+lagrangian having a gauge invariance only in four dimensions is constructed.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 08:06:32 GMT""}]","2009-12-30"
+"hep-th/9304146","David Lowe","A.M. Polyakov","A Few Projects in String Theory","18 pages, latex (references added)",,,"PUPT-1394","hep-th",,"  In these lectures I discuss various unsolved problems of string theory and
+their relations to quantum gravity, 3d Ising model, large N QCD, and quantum
+cosmology. No solutions are presented but some new and perhaps useful
+approaches are suggested.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 15:53:13 GMT""},{""version"":""v2"",""created"":""Fri, 30 Apr 1993 20:50:53 GMT""}]","2008-02-03"
+"hep-th/9304151",,"Diptiman Sen","Semiclassical analysis of two- and three-spin antiferromagnets and
+  anyons on a sphere","16 pages, plain tex, 1 figure available on request, IISc-CTS-93-3","Mod.Phys.Lett.A8:1805-1814,1993","10.1142/S0217732393001525",,"hep-th cond-mat",,"  We do a semiclassical analysis for two or three spins which are coupled
+antiferromagnetically to each other. The semiclassical wave functions transform
+correctly under permutations of the spins if one takes into account the
+Wess-Zumino term present in the path integral for spins. The Wess-Zumino term
+here is a total derivative which has no effect on the energy spectrum. The
+semiclassical problem is related to that of anyons moving on a sphere with the
+statistics parameter $\theta$ being $2 \pi S$ for two spins and $3 \pi S$ for
+three spins. Finally, we present a novel way of deriving the semiclassical wave
+functions from the spin wave functions.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 15:27:06 GMT""}]","2010-11-01"
+"nucl-th/9304025","Dao-Chen Zheng","D.C. Zheng, B.R. Barrett, L. Jaqua, J.P. Vary, and R.J. McCarthy","Microscopic Calculations of the Spectra of Light Nuclei","18 text pages, 6 Postscript figures (available upon request),
+  University of Arizona preprint (number unassigned)","Phys.Rev.C48:1083-1091,1993","10.1103/PhysRevC.48.1083",,"nucl-th",,"  We perform large-space shell-model calculations for the low-lying energy
+spectra of a few light nuclei, $^4\mbox{He}$, $^5\mbox{He}$, $^6\mbox{Li}$ and
+$^7\mbox{Li}$, in a no-core model space with a realistic effective two-body
+interaction (Brueckner G-matrix). Our G-matrices are calculated for the
+Reid-soft-core potential in a harmonic oscillator basis. Single-particle ``-U''
+insertions are replaced by two-particle ``-U'' insertions and are included in
+the G matrix calculations, which sum them to all orders. With the starting
+energy of the G-matrix chosen to give approximately the experimental binding
+energy, we obtain nuclear energy spectra which are in reasonable agreement with
+experiment. We also investigate the dependence of our results on the size of
+the model space and on the harmonic oscillator basis parameter ($\hbar\Omega$).
+","[{""version"":""v1"",""created"":""Tue, 27 Apr 1993 22:15:35 GMT""}]","2008-11-26"

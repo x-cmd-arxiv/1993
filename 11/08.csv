@@ -1,0 +1,209 @@
+"astro-ph/9311020","Ray Carlberg","Carlberg, et al","Mapping Moderate Redshift Cluster","plain tex, plots and full postscript version available upon request.
+  to be published February 1994 JRASC, report# cnoc-1","J.Roy.Astron.Soc.Canada 88 (1994) 39",,,"astro-ph",,"  To test whether clusters have rising mass to light ratios at large radii and
+to estimate the amplitude of the density fluctuation spectrum on the scale of
+10\hmpc\ the Canadian Network for Observational Cosmology (CNOC) cluster
+collaboration is obtaining Multi-Object Spectrograph velocities and two colour
+photometry for a sample of $\simeq$1000 cluster galaxies and $\simeq$2000 field
+galaxies in a 5\hmpc\ neighborhood of high X-ray luminosity clusters at
+$z\simeq 0.3$. X-ray selection of the cluster sample picks out objects on the
+basis of the depth of their potential well depth, and is insensitive to both
+projection effects and galaxy biases. The galaxy dataset, with selection
+controlled using automated photometry, automated mask design, spectral
+selection modeling, and accurate velocities, will be the best available at any
+redshift for our tests. Measuring mass-to-light ratios (M/L) at large radii
+requires a statistical removal of field galaxies projected into the redshift
+space of the cluster. This can be done relatively accurately for moderate
+redshift clusters, using the large number of foreground and background
+galaxies. The CNOC sample also provides a sensitive test of the density
+fluctuation spectrum on cluster scales. The 30 or so redshifts available in
+each of three clusters gives an average velocity dispersion of about 1000 \kms
+which indicates that the $\sigma_8$ normalization parameter is in the range of
+$0.6\lta \sigma_8\lta 0.9$.
+","[{""version"":""v1"",""created"":""Sun, 7 Nov 1993 18:50:51 GMT""}]","2007-05-23"
+"cond-mat/9311014","Professor","Sang-Yoon Kim","Universality of Period Doubling in Coupled Maps","12 pages, Revtex v.3.0, no local report no",,"10.1103/PhysRevE.49.1745",,"cond-mat",,"  We study the critical behavior of period doubling in two coupled
+one-dimensional maps with a single maximum of order $z$. In particurlar, the
+effect of the maximum-order $z$ on the critical behavior associated with
+coupling is investigated by a renormalization method. There exist three fixed
+maps of the period-doubling renormalization operator. For a fixed map
+associated with the critical behavior at the zero-coupling critical point,
+relevant eigenvalues associated with coupling perturbations vary depending on
+the order $z$, whereas they are independent of $z$ for the other two fixed
+maps. The renormalization results for the zero-coupling case are also confirmed
+by a direct numerical method.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 05:00:19 GMT""}]","2009-10-22"
+"cond-mat/9311015","Put","C. Gruber, D. Ueltschi and J. J\c{e}drzejewski","Molecule Formation and the Farey Tree in the One-Dimensional
+  Falicov-Kimball Model","LaTeX file, 38 pages, postscript figures (not included) are available
+  by request",,"10.1007/BF02188658",,"cond-mat",,"  The ground state configurations of the one--dimensional Falicov--Kimball
+model are studied exactly with numerical calculations revealing unexpected
+effects for small interaction strength. In neutral systems we observe molecular
+formation, phase separation and changes in the conducting properties; while in
+non--neutral systems the phase diagram exhibits Farey tree order (Aubry
+sequence) and a devil's staircase structure. Conjectures are presented for the
+boundary of the segregated domain and the general structure of the ground
+states.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 09:51:09 GMT""}]","2009-10-22"
+"cond-mat/9311016","Leticia Cugliandolo","L. F. Cugliandolo and J. Kurchan","On the Out of Equilibrium Relaxation of the Sherrington - Kirkpatrick
+  model","42 Pages + 3 Figures upon request","J. Phys. A {\bf 27} 5749 (1994)","10.1088/0305-4470/27/17/011","Roma I preprint 977","cond-mat hep-th",,"  We derive analytical results for the large-time relaxation of the Sherrington
+- Kirkpatrick model in the thermodynamic limit, starting from a random
+configuration. The system never achieves local equilibrium in any fixed sector
+of phase-space, but remains in an asymptotic out of equilibrium regime. We
+propose as a tool, both numerical and analytical, for the study of the out of
+equilibrium dynamics of spin-glass models the use of `triangle relations' which
+describe the geometry of the configurations at three (long) different times.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 10:50:09 GMT""}]","2009-10-22"
+"cond-mat/9311017","Uwe Gebhard Grimm","M. Baake, U. Grimm and C. Pisani","Partition Function Zeros for Aperiodic Systems","11 pages, LaTeX, epsf.tex, 7 uuencoded postscript figures included,
+  Stuttgart University Preprint itap-11/93-2","J. Stat. Phys. 78 (1995) 285","10.1007/BF02183349",,"cond-mat hep-th",,"  The study of zeros of partition functions, initiated by Yang and Lee,
+provides an important qualitative and quantitative tool in the study of
+critical phenomena. This has frequently been used for periodic as well as
+hierarchical lattices. Here, we consider magnetic field and temperature zeros
+of Ising model partition functions on several aperiodic structures. In 1D, we
+analyze aperiodic chains obtained from substitution rules, the most prominent
+example being the Fibonacci chain. In 2D, we focus on the tenfold symmetric
+triangular tiling which allows efficient numerical treatment by means of corner
+transfer matrices.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 14:07:57 GMT""}]","2015-06-25"
+"gr-qc/9311011","Harald H. Soleng","Harald H. Soleng","Negative Energy Densities in Extended Sources Generating Closed Timelike
+  Curves in General Relativity with and without Torsion","(to be published in Phys. Rev. D), 5 pages, REVTEX 3.0, NORDITA 93/62
+  A (Sept. 10/Revised Nov. 1, 1993)","Phys.Rev.D49:1124-1125,1994","10.1103/PhysRevD.49.1124",,"gr-qc",,"  Near a spinning point particle in (2+1)-dimensional gravity (or near an
+infinitely thin, straight, spinning string in 3+1 dimensions) there is a region
+of space-time with closed timelike curves. Exact solutions for extended sources
+with apparently physically acceptable energy-momentum tensors, have produced
+the same exterior space-time structure. Here it is pointed out that in the case
+with torsion, closed timelike curves appear only for spin densities so high
+that the spin energy density is higher than the net effective energy density.
+In models without torsion, the presence of closed time-like curves is related
+to a heat flow of unphysical magnitude. This corroborates earlier arguments
+against the possibility of closed timelike curves in space-time geometries
+generated by physical sources.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 10:54:30 GMT""}]","2010-11-01"
+"gr-qc/9311012",,"Daniel Kennefick and Niall \'O Murchadha","Weakly decaying asymptotically flat static and stationary solutions to
+  the Einstein equations","14 pages, plain Tex","Class.Quant.Grav.12:149-158,1995","10.1088/0264-9381/12/1/013",,"gr-qc",,"  The assumption that a solution to the Einstein equations is static (or
+stationary) very strongly constrains the asymptotic behaviour of the metric. It
+is shown that one need only impose very weak differentiability and decay
+conditions {\it a priori} on the metric for the field equations to force the
+metric to be analytic near infinity and to have the standard Schwarzschildian
+falloff.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 12:17:57 GMT""}]","2010-04-06"
+"gr-qc/9311013",,"Uwe Brauer, Edward Malec and Niall \'O Murchadha","Trapped surfaces in spherical expanding open universes","8 pages, Latex","Phys.Rev. D49 (1994) 5601-5603","10.1103/PhysRevD.49.5601",,"gr-qc",,"  Consider spherically symmetric initial data for a cosmology which, in the
+large, approximates an open $k = -1 ,\Lambda = 0$ Friedmann-Lema{\^\i}tre
+universe. Further assume that the data is chosen so that the trace of the
+extrinsic curvature is a constant and that the matter field is at rest at this
+instant of time. One expects that no trapped surfaces appear in the data if no
+significant clump of excess matter is to be found. This letter confirms this
+belief by displaying a necessary condition for the existence of trapped
+surfaces.This necessary condition, simply stated, says that a relatively large
+amount of excess matter must be concentrated in a small volume for trapped
+surfaces to appear.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 13:26:23 GMT""}]","2009-10-22"
+"hep-lat/9311010","Claude Bernard","C. Bernard, P. Hsieh, and A. Soni","$B \to K^* + \gamma$ and $B_s \to \phi + \gamma$ on the Lattice","13 pages (Latex), Wash. U. HEP/93-35. (Revised: we have corrected and
+  extended the table of phenomenological results for $R_{K^*}$, eliminated a
+  discussion of $V_{ts}/V_{cb}$ which contained too many unstated assumptions,
+  and made a few other minor corrections.)","Phys.Rev.Lett. 72 (1994) 1402-1405","10.1103/PhysRevLett.72.1402",,"hep-lat hep-ph",,"  A lattice calculation of the form factors that determine the ``hadronization
+ratios'', such as $R_{K^*}$ and $R_{\phi}$, where $R_{K^*} \equiv [\Gamma ($B
+\to K^* \gamma$)/\Gamma(b \to s \gamma)]$, is presented in the quenched
+approximation. Lattice data shows strong evidence for the scaling law suggested
+by heavy quark symmetry for one of the form factors ({\it i.e.}\ $T_2$). The
+data also gives strong support for the simple pole ansatz for the $q^2$
+dependence of $T_2$ in the range of available $q^2$. We thus find $T_2(0) = .10
+\pm.01\pm.03$ yielding $R_{K^*} =(6.0\pm1.2\pm3.4)\%$; we also find
+$R_{\phi}=(6.6\pm1.3\pm3.7)\%$.
+","[{""version"":""v1"",""created"":""Sun, 7 Nov 1993 21:42:01 GMT""},{""version"":""v2"",""created"":""Mon, 14 Feb 1994 17:34:39 GMT""}]","2009-10-22"
+"hep-ph/9311236","Edmond Iancu","Edmond Iancu","Soft Fields and Hard Particles in Hot Gauge Plasmas","Talk given at the 3rd Workshop on Thermal Field Theories and their
+  Applications, Aug. 93, Banff, Canada; 7 pages; SACLAY-T93/122",,,,"hep-ph",,"  It is shown that the long wavelength excitations of a quark-gluon plasma may
+be described as collective oscillations of self-consistent average fields to
+which the plasma particles couple. Their properties are obtained from a set of
+coupled mean field and kinetic equations, derived from the general
+Dyson-Schwinger equations, as the leading order in a systematic expansion in
+powers of the coupling. By solving the kinetic equations, one obtains in closed
+form the generating functionals for all the leading order amplitudes between
+soft quasiparticles, the so-called ``hard thermal loops''.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 03:46:56 GMT""}]","2007-05-23"
+"hep-ph/9311237",,"B.Z.Kopeliovich, J.Nemchick, N.N.Nikolaev and and B.G.Zakharov","Decisive test of color transparency in exclusive electroproduction of
+  vector mesons","11 pages, 4 figures on the request from
+  kph154@zam001.zam.kfa-juelich.de, Juelich preprint KFA-IKP(Th)-1993-27.
+  \phantom{.}\hspace{9cm}{\sl 8 November 1993}","Phys.Lett.B324:469-476,1994","10.1016/0370-2693(94)90225-9",,"hep-ph nucl-th",,"  The exclusive production of vector mesons in deep inelastic scattering is a
+hard scattering process with the well controlled size of quark configurations
+which dominate the production amplitude. This allows an unambiguous prediction
+of color transparency effects in the coherent and incoherent production of
+vector mesons on nuclei. We demonstrate how the very mechanism of color
+transparency leads to a belated onset of color transparency effects as a
+function of $Q^{2}$. We conclude that the $Q^{2}$ dependence of the exclusive
+$\rho^{0}$-meson production on nuclei and nucleons observed in the Fermilab
+E665 experiment gives a solid evidence for the onset of color transparency. We
+propose the scaling relation between the $\rho^{0}$ and the $J/\Psi$
+production, which further tests the mechanism of color transparency in
+exclusive (virtual) photoproduction.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 15:38:56 GMT""}]","2012-08-27"
+"hep-th/9311041","Yao-Zhong Zhang","Mark D. Gould and Yao-Zhong Zhang","Quantum Affine Lie Algebras, Casimir Invariants and Diagonalization of
+  the Braid Generator","22 pages (many changes are made)","J.Math.Phys. 35 (1994) 6757-6773","10.1063/1.530641","UQMATH-93-11","hep-th math.QA",,"  Let $U_q(\hat{\cal G})$ be an infinite-dimensional quantum affine Lie
+algebra. A family of central elements or Casimir invariants are constructed and
+their eigenvalues computed in any integrable irreducible highest weight
+representation. These eigenvalue formulae are shown to absolutely convergent
+when the deformation parameter $q$ is such that $|q|>1$. It is proven that the
+universal R-matrix $R$ of $U_q(\hat{\cal G})$ satisfies the celebrated
+conjugation relation $R^\dagger=TR$ with $T$ the usual twist map. As
+applications, the braid generator is shown to be diagonalizable on arbitrary
+tensor product modules of integrable irreducible highest weight $U_q(\hat{\cal
+G})$-modules and a spectral decomposition formula for the braid generator is
+obtained which is the generalization of Reshetikhin's and Gould's forms to the
+present affine case. Casimir invariants acting on a specified module are also
+constructed and their eigenvalues, again absolutely convergent for $|q|>1$,
+computed by means of the spectral decomposition formula.
+","[{""version"":""v1"",""created"":""Sun, 7 Nov 1993 17:35:51 GMT""},{""version"":""v2"",""created"":""Mon, 8 Nov 1993 16:56:38 GMT""},{""version"":""v3"",""created"":""Wed, 10 Nov 1993 19:14:58 GMT""},{""version"":""v4"",""created"":""Wed, 15 Dec 1993 21:42:51 GMT""}]","2009-10-22"
+"hep-th/9311042","David R. Morrison","Paul S. Aspinwall, Brian R. Greene, and David R. Morrison","Measuring Small Distances in N=2 Sigma Models","62 pp. with 6 figs., LaTeX and epsf.tex","Nucl.Phys.B420:184-242,1994","10.1016/0550-3213(94)90379-4","IASSNS-HEP-93/49","hep-th alg-geom math.AG",,"  We analyze global aspects of the moduli space of K\""ahler forms for $N$=(2,2)
+conformal $\sigma$-models. Using algebraic methods and mirror symmetry we study
+extensions of the mathematical notion of length (as specified by a K\""ahler
+structure) to conformal field theory and calculate the way in which lengths
+change as the moduli fields are varied along distinguished paths in the moduli
+space. We find strong evidence supporting the notion that, in the robust
+setting of quantum Calabi-Yau moduli space, string theory restricts the set of
+possible K\""ahler forms by enforcing ``minimal length'' scales, provided that
+topology change is properly taken into account. Some lengths, however, may
+shrink to zero. We also compare stringy geometry to classical general
+relativity in this context.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 04:00:47 GMT""}]","2011-07-19"
+"hep-th/9311043",,"V.I. Man'ko","Some Rules for Polydimensional Squeezing","Latex,8 pages, INFN-Na-IV-93/30,DSF-T-93/30",,,,"hep-th",,"  The review of the following results of the Refs. \cite{Sem} - \cite{Ans} is
+presented: For mixed state light of $N$-mode electromagnetic field described by
+Wigner function which has generic Gaussian form the photon distribution
+function is obtained and expressed expliciltly in terms of Hermite polynomials
+of $2N$-variables.The momenta of this distribution are calculated and expressed
+as functions of matrix invariants of the dispersion matrix.The role of new
+uncertainty relation depending on photon state mixing parameter is
+elucidated.New sum rules for Hermite polynomials of several variables are
+found.The photon statistics of polymode even and odd coherent light and
+squeezed polymode Schr\""odinger cat light is qiven explicitly.Photon
+distribution for polymode squeezed number states expressed in terms of
+multivariable Hermite polynomials is discussed.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 13:01:00 GMT""}]","2007-05-23"
+"hep-th/9311044",,"P. Maslanka","Global counterpart of $k$-Poincare algebra and covariant wave functions","AmS-TeX, 12pp. IM UL 5/93","Mod. Phys. Lett. A9 (1994) 2019-2028","10.1142/S021773239400188X",,"hep-th",,"  The global counterpart of $k$-Poincare algebra is considered. The induced
+representations of this group are described. The explicit form of the covariant
+wave functions in the `minimal' (in Weinberg's sense) case is given.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 13:10:47 GMT""}]","2015-06-26"
+"hep-th/9311045","Norisuke Sakai","S. Kojima, N. Sakai and Y. Tanii","Supergravity in $2+\epsilon$ Dimensions","36 pages, TIT/HEP-238, Imperial/TP/93-94/8","Int.J.Mod.Phys. A9 (1994) 5415-5444","10.1142/S0217751X94002181",,"hep-th",,"  Supergravity theory in $2+\epsilon$ dimensions is studied. It is invariant
+under supertransformations in 2 and 3 dimensions. One-loop divergence is
+explicitly computed in the background field method and a nontrivial fixed point
+is found. In quantizing the supergravity, a gauge fixing condition is devised
+which explicitly isolates conformal and superconformal modes. The
+renormalization of the gravitationally dressed operators is studied and their
+anomalous dimensions are computed. Problems to use the dimensional reduction
+are also examined.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 13:57:49 GMT""}]","2015-06-26"
+"hep-th/9311046","Klaus Lang","Klaus Lang, Werner Ruehl","Critical O(N) - vector nonlinear sigma - models: A resume of their field
+  structure","16 pages, Latex. To appear in the Proceedings of the XXII Conference
+  on Differential Methods in Theoretical Physics, Ixtapa, Mexico, September
+  20-24, 1993",,,"KL-TH-93/23","hep-th",,"  The classification of quasi - primary fields is outlined. It is proved that
+the only conserved quasi - primary currents are the energy - momentum tensor
+and the O(N) - Noether currents. Derivation of all quasi - primary fields and
+the resolution of degeneracy is sketched. Finally the limits d=2 and d=4 of the
+space dimension are discussed. Whereas the latter is trivial the former is only
+almost so.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 15:25:35 GMT""}]","2009-09-25"
+"math/9311203",,"Sy D. Friedman (MIT)","Iterated Class Forcing",,,,"Logic E-prints November 08, 1993","math.LO",,"  In this paper we isolate the notion of Stratified class forcing and show that
+Stratification implies cofinality-preservation and is preserved by iterations
+with the appropriate support. Many familiar class forcings are stratified and
+therefore can be simultaneously iterated without changing cofinalities,
+provided the proper support is used. Easton forcing, Backward Easton forcings
+and some modifications of Jensen coding are stratified. Jensen coding is not
+stratified but instead obeys a related property, Delta-Stratification, which is
+also preservedby iteration with an appropriate larger support.
+","[{""version"":""v1"",""created"":""Mon, 8 Nov 1993 00:00:00 GMT""}]","2008-02-03"

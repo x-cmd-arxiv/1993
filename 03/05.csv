@@ -1,0 +1,234 @@
+"alg-geom/9303001","Yujiro Kawamata","Yujiro Kawamata","Semistable Minimal Models of Threefolds in Positive or Mixed
+  Characteristic","21 pages, AMS-Tex. In the revised version, Question 5.8 is replaced
+  by Theorem 5.8",,,,"alg-geom math.AG",,"  We extend the minimal model theorem to the 3-dimensional schemes which are
+projective and have semistable reduction over the spectrum of a Dedekind ring.
+","[{""version"":""v1"",""created"":""Fri, 5 Mar 1993 02:50:22 GMT""},{""version"":""v2"",""created"":""Mon, 15 Mar 1993 04:08:21 GMT""}]","2008-02-03"
+"chao-dyn/9303001","Shiyi Chen","Shiyi Chen and Gary Doolen (CNLS, LANL), Jackson R. Herring (NCAR),
+  Robert H. Kraichnan (Santa Fe, NM), Steven A. Orszag (Princeton Univ.), and
+  Zhen Su She (Univ. of Arizona)","Far Dissipation Range of Turbulence","revtex",,"10.1103/PhysRevLett.70.3051","LA-UR-93","chao-dyn nlin.CD",,"  The very small scales of isotropic, Navier-Stokes turbulence at Reynolds
+number ${\cal R}_\lambda \approx 15$ are studied by high-resolution direct
+numerical simulation (DNS) and by integration of the direct-interaction (DIA)
+equations. The DNS follows the tail of the energy spectrum over more than
+thirty decades of magnitude. The energy spectrum in the far-dissipation range
+$5k_d < k < 10k_d$ is well-fitted by $k^\alpha\exp(-ck/k_d)$, where $k_d$ is
+the Kolmogorov dissipation wavenumber, $\alpha \approx 3.3$ and $c\approx 7.1$.
+For values of $m$ that emphasize the far-dissipation range, the fields
+$(-\nabla^2)^m{\bf u}$ exhibit strong spatial intermittency, associated with
+gentle spatial variations of the lower-$k$ part of the velocity field. DIA
+analysis gives a prefactor $k^3$ and an exponential decay more rapid than DNS.
+Averaging over an ensemble of DIA solutions, suggested by the observed
+intermittency, removes some of the discrepancy.
+","[{""version"":""v1"",""created"":""Thu, 4 Mar 1993 22:11:57 GMT""}]","2009-10-22"
+"comp-gas/9303001","Shiyi Chen","Daryl Grunau (EESD, LANL), Shiyi Chen (T-Div and CNLS, LANL), and
+  Kenneth Egger (EESD, LANL)","A Lattice Boltzmann Model for Multi-phase Fluid Flows","15 pages, latex",,"10.1063/1.858769","LA-UR-93-0267","comp-gas nlin.CG",,"  We develop a lattice Boltzmann equation method for simulating multi-phase
+immiscible fluid flows with variation of density and viscosity, based on the
+model proposed by Gunstensen {\em et al} for two-component immiscible fluids.
+The numerical measurements of surface tension and viscosity agree well with
+theoretical predictions. Several basic numerical tests, including spinodal
+decomposition, two-phase fluid flows in two-dimensional channels and two-phase
+viscous fingering, are shown in agreement of experiments and analytical
+solutions.
+","[{""version"":""v1"",""created"":""Thu, 4 Mar 1993 21:38:54 GMT""},{""version"":""v2"",""created"":""Fri, 5 Mar 1993 22:23:22 GMT""}]","2009-10-22"
+"cond-mat/9303007",,"J. Gonzalez, F. Guinea and M. A. H. Vozmediano","Electrostatic screening in fullerene molecules","7 pages. Revtex",,"10.1142/S0217984993001612",,"cond-mat",,"  The screening properties of fullerene molecules are described by means of a
+continuum model which uses the electronic wavefunctions of planar graphite as a
+starting point. The long distance behavior of the system gives rise to a
+renormalizable theory, which flows towards a non trivial fixed point. Its
+existence implies an anomalous dielectric constant. The screening properties
+are neither metallic nor insulating. Alternatively, the intramolecular
+screening is obtained from a simple approximation to the electronic
+wavefunctions. Intermolecular effects are also calculated. As a consistency
+check, it is shown that the observed polarizability of C$_{60}$ is well
+eproduced.
+","[{""version"":""v1"",""created"":""Fri, 5 Mar 1993 14:16:00 GMT""}]","2015-06-25"
+"cond-mat/9303008",,"M.Bernasconi, G.L. Chiarotti, and E. Tosatti","The (001) surface of alpha-Ga is covered with GaIII","10 pages, figures available by fax upon request, REVTEX, ref. SISSA
+  30/93/CM/SS/SC",,"10.1103/PhysRevLett.70.3295",,"cond-mat",,"  We propose, based on ab initio calculations, that the ground state (001)
+surface of $\alpha$-Ga should be covered by two layers of GaIII, a denser phase
+which is stable in the bulk only at high pressure and temperature. We discuss
+how this novel prediction can explain recent STM observations, including
+anomalous thermal stability of this surface.
+","[{""version"":""v1"",""created"":""Fri, 5 Mar 1993 14:04:11 GMT""}]","2009-10-22"
+"gr-qc/9303010","Jorge Griego","Cayetano Di Bartolo, Rodolfo Gambini and Jorge Griego","The Extended Loop Group: An Infinite Dimensional Manifold Associated
+  with the Loop Space","The resubmited paper contains the title and abstract, that were
+  omitted in the previous version. 42 pages, report IFFI/93.01","Commun.Math.Phys. 158 (1993) 217-240","10.1007/BF02108073",,"gr-qc",,"  A set of coordinates in the non parametric loop-space is introduced. We show
+that these coordinates transform under infinite dimensional linear
+representations of the diffeomorphism group. An extension of the group of loops
+in terms of these objects is proposed. The enlarged group behaves locally as an
+infinite dimensional Lie group. Ordinary loops form a subgroup of this group.
+The algebraic properties of this new mathematical structure are analized in
+detail. Applications of the formalism to field theory, quantum gravity and knot
+theory are considered.
+","[{""version"":""v1"",""created"":""Thu, 4 Mar 1993 18:06:11 GMT""},{""version"":""v2"",""created"":""Tue, 9 Mar 1993 10:54:59 GMT""}]","2009-10-22"
+"hep-ph/9303224","Thorsten Ohl","Wolfgang Kilian, Thomas Mannel, and Thorsten Ohl","Unimagined Imaginary Parts in Heavy Quark Effective Field Theory","14 Pages, LaTeX, HUTP-93/A009, IKDA 93/9","Phys.Lett.B304:311-317,1993","10.1016/0370-2693(93)90301-W",,"hep-ph",,"  We argue that the imaginary parts of the anomalous dimensions in the
+multiparticle sectors of heavy quark effective field theory may be removed by a
+suitable redefinition of the multiparticle states. The connection between the
+imaginary parts of the anomalous dimensions and the interquark potential is
+pointed out
+","[{""version"":""v1"",""created"":""Thu, 4 Mar 1993 17:57:57 GMT""}]","2010-11-01"
+"hep-ph/9303225",,"L.Littenberg and G. Valencia","Rare and Radiative Kaon Decays","LaTeX file, 82 pages. 29 figures available from the authors.
+  Fermilab-Pub-93/004-T, BNL-48631","Ann.Rev.Nucl.Part.Sci.43:729-792,1993","10.1146/annurev.ns.43.120193.003501",,"hep-ph",,"  We review the status of theory and experiment of very rare and forbidden kaon
+decays. We then review the radiative non-leptonic decays, and the associated
+Dalitz pair modes. We pay particular attention to the study of long distance
+physics in radiative decays within the framework of chiral perturbation theory
+($\chi$PT). We discuss the experiments that will run in the near future and the
+modes that they will be able to study.
+","[{""version"":""v1"",""created"":""Thu, 4 Mar 1993 20:49:01 GMT""}]","2009-10-22"
+"hep-ph/9303226",,"Darwin Chang, Wai-Yee Keung, and Ivan Phillips","CP--odd Correlation in the Decay of Neutral Higgs Boson into $ZZ$,
+  $W^+W^-$, or $t{\bar t}$","16 pages, plus 8 postscript graphs not posted before","Phys.Rev.D48:3225-3234,1993","10.1103/PhysRevD.48.3225","CERN-TH.6814/93","hep-ph",,"  We investigate the possibility of detecting CP--odd angular correlations in
+the various decay modes of the neutral Higgs boson including the modes of a
+$ZZ$ pair, a $W^+W^-$ pair, or a heavy quark pair. It is a natural way to probe
+the CP character of the Higgs boson once it is identified. Final state
+interactions (i.e. the absorptive decay amplitude) is not required in such
+correlations. As an illustrative example we take the fundamental source of the
+CP nonconservation to be in the Yukawa couplings of the Higgs boson to the
+heavy fermions. A similar correlation in the process $e^+e^- \to l^+ l^- H$ is
+also proposed. Our analysis of these correlations will be useful for
+experiments in future colliders such as LEP II, SSC, LHC or NLC.
+","[{""version"":""v1"",""created"":""Fri, 5 Mar 1993 09:15:59 GMT""},{""version"":""v2"",""created"":""Tue, 16 Jun 1998 06:53:27 GMT""}]","2009-09-01"
+"hep-th/9303026","Alexander Gorsky","A. S. Gorsky, A. V. Zabrodin","Degenerations of Sklyanin algebra and Askey-Wilson polynomials","7 pages","J.Phys. A26 (1993) L635-L640","10.1088/0305-4470/26/15/004","UUITP-7/93","hep-th math.QA",,"  A new trigonometric degeneration of the Sklyanin algebra is found and the
+functional realization of its representations in space of polynomials in one
+variable is studied. A further contraction gives the standard quantum algebra
+$U_{q}(sl(2))$. It is shown that the degenerate Sklyanin algebra contains a
+subalgebra isomorphic to algebra of functions on the quantum sphere
+$(SU(2)/SO(2))_{q^{1\over2}}$. The diagonalization of general quadratic form in
+its generators leads in the functional realization to the difference equation
+for Askey-Wilson polynomials.
+","[{""version"":""v1"",""created"":""Thu, 4 Mar 1993 20:46:57 GMT""}]","2009-10-22"
+"hep-th/9303029","Matt Visser","Matt Visser","Dirty black holes: Entropy versus area","plain LaTeX, 17 pages, minor revisions","Phys.Rev. D48 (1993) 583-591","10.1103/PhysRevD.48.583",,"hep-th gr-qc",,"  Considerable interest has recently been expressed in the entropy versus area
+relationship for ``dirty'' black holes --- black holes in interaction with
+various classical matter fields, distorted by higher derivative gravity, or
+infested with various forms of quantum hair. In many cases it is found that the
+entropy is simply related to the area of the event horizon: S = k
+A_H/(4\ell_P^2). For example, the ``entropy = (1/4) area'' law *holds* for:
+Schwarzschild, Reissner--Nordstrom, Kerr--Newman, and dilatonic black holes. On
+the other hand, the ``entropy = (1/4) area'' law *fails* for: various types of
+(Riemann)^n gravity, Lovelock gravity, and various versions of quantum hair.
+The pattern underlying these results is less than clear. This paper
+systematizes these results by deriving a general formula for the entropy: S =
+{k A_H/(4\ell_P^2)}
+  + {1/T_H} \int_\Sigma [rho - {L}_E ] K^\mu d\Sigma_\mu
+  + \int_\Sigma s V^\mu d\Sigma_\mu. (K^\mu is the timelike Killing vector,
+V^\mu the four velocity of a co--rotating observer.) If no hair is present the
+validity of the ``entropy = (1/4) area'' law reduces to the question of whether
+or not the Lorentzian energy density for the system under consideration is
+formally equal to the Euclideanized Lagrangian. ****** To appear in Physical
+Review D 15 July 1993 ****** [Stylistic changes, minor typos fixed, references
+updated, discussion of the Born-Infeld system excised]
+","[{""version"":""v1"",""created"":""Thu, 4 Mar 1993 18:34:54 GMT""},{""version"":""v2"",""created"":""Mon, 7 Jun 1993 21:36:36 GMT""}]","2009-10-22"
+"hep-th/9303030",,"A. Cappelli, C. A. Trugenberger and G. R. Zemba","Large N Limit in the Quantum Hall Effect","13 pages (+1 figure, available upon request), CERN-TH 6810/93","Phys.Lett.B306:100-107,1993","10.1016/0370-2693(93)91144-C",,"hep-th cond-mat",,"  The Laughlin states for $N$ interacting electrons at the plateaus of the
+fractional Hall effect are studied in the thermodynamic limit of large $N$. It
+is shown that this limit leads to the semiclassical regime for these states,
+thereby relating their stability to their semiclassical nature. The equivalent
+problem of two-dimensional plasmas is solved analytically, to leading order for
+$N\to\infty$, by the saddle point approximation - a two-dimensional extension
+of the method used in random matrix models of quantum gravity and gauge
+theories. To leading order, the Laughlin states describe classical droplets of
+fluids with uniform density and sharp boundaries, as expected from the Laughlin
+``plasma analogy''. In this limit, the dynamical $W_\infty$-symmetry of the
+quantum Hall states expresses the kinematics of the area-preserving
+deformations of incompressible liquid droplets.
+","[{""version"":""v1"",""created"":""Thu, 4 Mar 1993 19:09:35 GMT""}]","2010-11-01"
+"hep-th/9303031","Jim Cline","J.M. Cline and S. Paban","Is Induced QCD really QCD? The preservation of asymptotic freedom by
+  matter interactions","10 pp, harvmac, plus separate LATEX file with 5 figs; TPI-MINN-93/9-T","Phys.Lett. B316 (1993) 158-164","10.1016/0370-2693(93)90672-5",,"hep-th",,"  The program of induced QCD requires that there exist self-interactions among
+the heavy matter fields (an adjoint scalar and a few fermions in the
+fundamental representation) which tend to spoil the asymptotic freedom of SU(N)
+gauge theory. We consider general interactions between such matter fields and
+show that, on the contrary, to two loops, they all tend to enhance asymptotic
+freedom in the perturbative regime. This result casts doubt on whether induced
+QCD is equivalent to real QCD.
+","[{""version"":""v1"",""created"":""Thu, 4 Mar 1993 20:27:00 GMT""},{""version"":""v2"",""created"":""Fri, 5 Mar 1993 20:00:27 GMT""}]","2009-10-22"
+"hep-th/9303032","Samar Abbas","Abbas Ali and Alok Kumar","$O(\tilde d,\tilde d)$ Transformations and 3D Black Hole","12 pages, LaTeX, (December 1992)","Mod.Phys.Lett.A8:2045-2052,1993","10.1142/S0217732393001756","IP/BBSR/92-80","hep-th",,"  We generalize the results of a previous paper by one of the authors to show a
+relationship among a class of string solutions through $O(\tilde d, \tilde d)$
+transformations. The results are applied to a rotating black hole solution of
+three dimensional general relativity discussed recently. We extend the black
+hole solution to string theory and show its connection with the three
+dimensional black string with nonzero momentum through an $O(\tilde d, \tilde
+d)$ transformation of the above type.
+","[{""version"":""v1"",""created"":""Thu, 4 Mar 1993 19:36:18 GMT""}]","2010-11-01"
+"hep-th/9303033",,"H. Nishino","Self-Dual Supersymmetric Yang-Mills Theory Generates Witten's
+  Topological Field Theory","12 pages LATEX, UMDEPP 93-144 (Revised: Minor correction in
+  dimensional reduction, spelling and references)","Phys.Lett. B309 (1993) 68-74","10.1016/0370-2693(93)91505-H",,"hep-th",,"  {}~~~We show that the recently constructed $~N=4$~ supersymmetric self-dual
+Yang-Mills theory as the consistent background of \hbox{$~N=2$} open
+superstring will generate Witten's topological field theory in two-dimensions
+as a descendant theory after appropriate twisted dimensional
+reduction/truncations. We also show that this topological field theory further
+generates supersymmetric Korteweg de Vries equations, $~SL(n)\-$Toda theory and
+$~W_\infty\-$gravity in the $~n\rightarrow\infty$~ limit. Considering also that
+this topological field theory is to generate other integrable and topological
+systems, our results give supporting evidence for the conjecture that the
+$~N=2$~ open superstring theory is the underlying ``master theory'' of
+integrable and topological systems, {\it via} the intermediate $~N=4$~
+supersymmetric self-dual Yang-Mills theory as its consistent target space-time
+background.
+","[{""version"":""v1"",""created"":""Thu, 4 Mar 1993 22:19:00 GMT""},{""version"":""v2"",""created"":""Thu, 11 Mar 1993 20:17:00 GMT""},{""version"":""v3"",""created"":""Thu, 11 Mar 1993 20:30:00 GMT""}]","2009-10-22"
+"hep-th/9303034","Javier Mas","Fernando Martinez Moras, Javier Mas and Eduardo Ramos","Diffeomorphisms from higher dimensional W-algebras","10 pages","Mod.Phys.Lett. A8 (1993) 2189-2198","10.1142/S0217732393001914","QMW-PH-93-1 and US-FT/1-91","hep-th math.QA",,"  Classical W-algebras in higher dimensions have been recently constructed. In
+this letter we show that there is a finitely generated subalgebra which is
+isomorphic to the algebra of local diffeomorphisms in D dimensions. Moreover,
+there is a tower of infinitely many fields transforming under this subalgebra
+as symmetric tensorial one-densities. We also unravel a structure isomorphic to
+the Schouten symmetric bracket, providing a natural generalization of w_\infty
+in higher dimensions.
+","[{""version"":""v1"",""created"":""Fri, 5 Mar 1993 11:25:08 GMT""}]","2009-10-22"
+"hep-th/9303035","Cestmir Burdik","C. Burdik and P. Hellinger","Quantum-double for a nonstandard deformation of a Borel subalgebra
+  $sl(2,C)$","9 pages",,,"PRA-HEP-93/2","hep-th math.QA",,"  We give a construction of Drienfeld's quantum double for a nonstandard
+deformation of Borel subalgebra of $sl(2)$. We construct explicitly some simple
+representations of this quantum algebra and from the universal R-matrix we
+obtain the explicit solutions of the Yang-Baxter equation in those cases.
+","[{""version"":""v1"",""created"":""Fri, 5 Mar 1993 15:21:58 GMT""}]","2008-02-03"
+"hep-th/9303036",,"M. Furuta, M. A. Guest, M. Kotani, Y. Ohnita","On the fundamental group of the space of harmonic $2$-spheres in the
+  $n$-sphere","15 pages",,,,"hep-th math.DG",,"  We compute the fundamental group of the ""moduli space"" of classical solutions
+of the two dimensional Euclidean $S^n$-model.
+","[{""version"":""v1"",""created"":""Fri, 5 Mar 1993 14:15:00 GMT""}]","2008-02-03"
+"hep-th/9303037",,"M. A. Guest and Y. Ohnita","Group actions and deformations for harmonic maps","36 pages",,,,"hep-th math.DG",,"  We obtain some new results on classical solutions of two dimensional
+Euclidean sigma models. From earlier work of Din-Zakrzewski, Glaser-Stora, and
+numerous differential geometers, one knows explicit solutions in the case of
+the $S^n$-model, the $CP^n$-model, and the $U(n)$-model. However, very little
+is known about the ""moduli space"" of solutions itself. In this paper we study
+the connected components of these spaces. In a subsequent paper (with M. Furuta
+and M. Kotani), we compute the fundamental group, in the case of the
+$S^n$-model.
+","[{""version"":""v1"",""created"":""Fri, 5 Mar 1993 14:07:00 GMT""}]","2008-02-03"
+"math/9303201",,"Charles P. Stegall","Spaces Of Lipschitz Functions On Banach Spaces",,,,"Banach Archive 3/4/93","math.FA",,"  A remarkable theorem of R. C. James is the following: suppose that $X$ is a
+Banach space and $C \subseteq X$ is a norm bounded, closed and convex set such
+that every linear functional $x^* \in X^*$ attains its supremum on $C$; then
+$C$ is a weakly compact set. Actually, this result is significantly stronger
+than this statement; indeed, the proof can be used to obtain other surprising
+results. For example, suppose that $X$ is a separable Banach space and $S$ is a
+norm separable subset of the unit ball of $X^*$ such that for each $x \in X$
+there exists $x^* \in S$ such that $x^*(x) = \|x\|$ then $X^*$ is itself norm
+separable . If we call $S$ a support set, in this case, with respect to the
+entire space $X$, one can ask questions about the size and structure of a
+support set, a support set not only with respect to $X$ itself but perhaps with
+respect to some other subset of $X$@. We analyze one particular case of this as
+well as give some applications.
+","[{""version"":""v1"",""created"":""Thu, 4 Mar 1993 21:11:12 GMT""}]","2016-09-06"
+"nucl-th/9303002","Elaine Remillard","G. Bathas and W.M. Kloet","Generalized $^3P_0$ and $^3S_1$ Annihilation Potentials for $\bar{p}p$
+  Decay into Two Mesons based on a Simple Quark Model","LATEX, 8 pages, 1 figure (available upon request), Preprint #RU9248","Phys.Lett. B301 (1993) 155-158","10.1016/0370-2693(93)90681-7",,"nucl-th",,"  Within the quark model a generalization is proposed of the commonly used
+annihilation potential to describe antiproton-proton annihilation into two
+mesons, the so-called $^3P_0$ and $^3S_1$ mechanisms. This generalized
+potential treats the two mechanisms in a more symmetric way, has additional
+angular dependence, and results in an expanded set of selection rules.
+","[{""version"":""v1"",""created"":""Thu, 4 Mar 1993 20:45:03 GMT""}]","2009-10-22"
+"nucl-th/9303003","Stacey Scoville","B. Q. Chen and P. Vogel","Atomic parity nonconservation and neutron radii in cesium isotopes","24 pages (RevTeX) 4 figures (Postscript/uuencoded compressed) Caltech
+  Preprint No. MAP-153 (March 1993)","Phys.Rev.C48:1392-1400,1993","10.1103/PhysRevC.48.1392",,"nucl-th",,"  The interpretation of future precise experiments on atomic parity violation
+in terms of parameters of the Standard Model could be hampered by uncertainties
+in the atomic and nuclear structure. While the former can be overcome by
+measurement in a series of isotopes, the nuclear structure requires knowledge
+of the neutron density. We use the nuclear Hartree-Fock method, which includes
+deformation effects, to calculate the proton and neutron densities in
+{125}Cs-{139}Cs. We argue that the good agreement with the experimental charge
+radii, binding energies, and ground state spins signifies that the
+phenomenological nuclear force and the method of calculation that we use is
+adequate. Based on this agreement, and on calculations involving different
+effective interactions, we estimate the uncertainties in the differences of the
+neutron radii delta<r^2>_{N,N'} and conclude that they cause uncertainties in
+the ratio of weak charges, the quantities determined in the atomic parity
+nonconservation experiments, of less than 10^{-3}. Such an uncertainty is
+smaller than the anticipated experimental error.
+","[{""version"":""v1"",""created"":""Fri, 5 Mar 1993 02:34:32 GMT""},{""version"":""v2"",""created"":""Fri, 5 Mar 1993 17:33:51 GMT""}]","2008-11-26"
+"nucl-th/9303004","Berndt Mueller","T.S. Biro, E. van Doorn, B. Mueller, M.H. Thoma, and X.N. Wang","Parton Equilibration in Relativistic Heavy Ion Collisions","18 pages, 6 Figures appended as uuencoded PostScript files, (no
+  changes in the previously submitted manuscript), DUKE-TH-93-46","Phys.Rev.C48:1275-1284,1993","10.1103/PhysRevC.48.1275",,"nucl-th hep-ph",,"  We investigate the processes leading to phase-space equilibration of parton
+distributions in nuclear interactions at collider energies. We derive a set of
+rate equations describing the chemical equilibration of gluons and quarks
+including medium effects on the relevant QCD transport coefficients, and
+discuss their consequences for parton equilibration in heavy ion collisions.
+","[{""version"":""v1"",""created"":""Fri, 5 Mar 1993 04:53:14 GMT""},{""version"":""v2"",""created"":""Fri, 5 Mar 1993 18:15:16 GMT""}]","2008-11-26"

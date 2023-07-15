@@ -1,0 +1,266 @@
+"astro-ph/9310037",,"F. R. Boffi and L. Stanghellini","Filling Factors and Ionized Masses in Planetary Nebulae","A&A LaTex package; for hardcopy of figures contact
+  Stanghellini@alma02.cineca.it; BAP 09-1993-029-OAB",,,,"astro-ph",,"  We calculate filling factors (${\varepsilon}$) and ionized masses (M$_{\rm
+i}$) for a total of 84 galactic and extragalactic planetary nebulae (PNe) at
+known distances. To do these calculations, we have chosen forbidden line
+electron densities, observed angular diameters, and H${\beta}$ fluxes, from the
+most recent measurements available in the literature. Statistical analysis on
+the distributions of ${\varepsilon}$ and ${\rm M_i}$ show that (1) the ranges
+of values of these parameters is wider than what was previously found; (2) the
+mean value of the filling factor is between $0.3$ and $0.4$, for the different
+sets; (3) the mean value of the ionized mass is between $0.1$ and $0.25$
+$M_{\odot}$; (4) a clear correlation between the filling factors and the
+dimensions of the PNe was not found when distance-independent sets of PNe were
+used; (5) for extragalactic PNe, where distance errors are not a factor, the
+filling factors and the ionized masses anticorrelate tightly with the electron
+densities. The results indicate that the modified Shklowsky distance method is
+correct.
+","[{""version"":""v1"",""created"":""Tue, 19 Oct 1993 10:58:30 GMT""}]","2007-05-23"
+"cond-mat/9310043","Brad Marston","A. Houghton, H.-J. Kwon, and J. B. Marston (Brown University)","On the Stability and Single-Particle Properties of Bosonized Fermi
+  Liquids","13 pages plus three postscript figures appended; RevTex 3.0;
+  BUP-JBM-3",,"10.1103/PhysRevB.50.1351",,"cond-mat hep-th",,"  We study the stability and single-particle properties of Fermi liquids in
+spatial dimensions greater than one via bosonization. For smooth non-singular
+Fermi liquid interactions we obtain Shankar's renormalization- group flows and
+reproduce well known results for quasi-particle lifetimes. We demonstrate by
+explicit calculation that spin-charge separation does not occur when the Fermi
+liquid interactions are regular. We also explore the relationship between
+quantized bosonic excitations and zero sound modes and present a concise
+derivation of both the spin and the charge collective mode equations. Finally
+we discuss some aspects of singular Fermi liquid interactions.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 21:42:18 GMT""}]","2009-10-22"
+"gr-qc/9310024",,"John F. Donoghue","Leading Quantum Correction to the Newtonian Potential","UMHEP-396, Latex file, 9 pages (In the revised version, I correct a
+  mistake in the computation, change to the + - - - metric, and add a few
+  comments.)","Phys.Rev.Lett. 72 (1994) 2996-2999","10.1103/PhysRevLett.72.2996",,"gr-qc hep-ph",,"  I argue that the leading quantum corrections, in powers of the energy or
+inverse powers of the distance, may be computed in quantum gravity through
+knowledge of only the low energy structure of the theory. As an example, I
+calculate the leading quantum corrections to the Newtonian gravitational
+potential.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 19:20:28 GMT""},{""version"":""v2"",""created"":""Fri, 25 Mar 1994 19:56:58 GMT""}]","2009-10-22"
+"gr-qc/9310025","Jorge Pullin","R. Gambini, J. Pullin","The Gauss Linking Number in Quantum Gravity","13pp, 3 figures (included) Latex/Multi, to appear in ``Knots and
+  quantum gravity'', J. Baez editor, Oxford UP, CGPG-93/10-1",,,,"gr-qc",,"  We show that the exponential of the Gauss (self) linking number of a knot is
+a solution of the Wheeler-DeWitt equation in loop space with a cosmological
+constant. Using this fact, it is straightforward to prove that the second
+coefficient of the Jones Polynomial is a solution of the Wheeler-DeWitt
+equation in loop space with no cosmological constant. We perform calculations
+from scratch, starting from the connection representation and give details of
+the proof. Implications for the possibility of generation of other solutions
+are also discussed.
+","[{""version"":""v1"",""created"":""Tue, 19 Oct 1993 12:07:29 GMT""}]","2007-05-23"
+"gr-qc/9310026","Gerard 't Hooft","G. 't Hooft","Dimensional Reduction in Quantum Gravity","13 pages. TEX. 2 figures in postscript. Figures are now made visible
+  if pdf file is downloaded",,,"THU-93/26","gr-qc","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  The requirement that physical phenomena associated with gravitational
+collapse should be duly reconciled with the postulates of quantum mechanics
+implies that at a Planckian scale our world is not 3+1 dimensional. Rather, the
+observable degrees of freedom can best be described as if they were Boolean
+variables defined on a two-dimensional lattice, evolving with time. This
+observation, deduced from not much more than unitarity, entropy and counting
+arguments, implies severe restrictions on possible models of quantum gravity.
+Using cellular automata as an example it is argued that this dimensional
+reduction implies more constraints than the freedom we have in constructing
+models. This is the main reason why so-far no completely consistent
+mathematical models of quantum black holes have been found.
+  Essay dedicated to Abdus Salam.
+","[{""version"":""v1"",""created"":""Tue, 19 Oct 1993 14:17:10 GMT""},{""version"":""v2"",""created"":""Fri, 20 Mar 2009 21:49:19 GMT""}]","2009-03-21"
+"hep-lat/9310019","Peter Stephenson","P.W. Stephenson","The running coupling from lattice gauge theory:","talk given at the Workshop on Field-Thoeretical Aspects of Particle
+  Physics, Kyffhaeuser, Germany, September 1993, plain TeX with 5 PostScript
+  figures as a shell archive, 10 pages in total, Swansea preprint SWAT/13",,,,"hep-lat",,"  I discuss some calculations of the running coupling in SU($N$) gauge theories
+from lattice simulations, centering on the work of the UKQCD collaboration.
+This talk is introductory in nature; full details have been published
+elsewhere.
+","[{""version"":""v1"",""created"":""Tue, 19 Oct 1993 14:19:29 GMT""}]","2007-05-23"
+"hep-ph/9310307","Robert Shrock","A. Kusenko and R. Shrock","General Determination of Phases in Quark Mass Matrices","8 pages, ITP-SB-93-58, latex","Phys.Rev.D50:30-33,1994","10.1103/PhysRevD.50.30",,"hep-ph",,"  We construct new invariants and give several theorems which determine in
+general (i) the number of physically meaningful phases in quark mass matrices
+and (ii) which elements of these matrices can be rendered real by rephasings.
+We illustrate our results with simple models.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 18:17:32 GMT""}]","2010-11-01"
+"hep-ph/9310308",,"A.I. Davydychev","Progress in Evaluating Some Complicated Types of Feynman Diagrams with
+  Two (and More) Loops","Talk given at the AIHENP-93 workshop (Oberammergau, Germany, 4-8
+  October 1993), 7 pages, 6 figures (figures 1-3 use ""bezier.sty"", see
+  information in the beginning of the file), to appear in Proc. AIHENP-93",,,,"hep-ph",,"  Problems occurring in physically important non-trivial examples of loop
+calculations are discussed.
+  A procedure of deriving expansions of two-loop self-energy diagrams with
+different masses is constructed. The cases of small and large external momentum
+are considered. The coefficients of the expansions are calculated analytically.
+Comparison with numerical results shows good agreement below the first
+threshold and above the last threshold of the diagram.
+  An approach to evaluating three- and four-point ladder diagrams with massless
+internal particles and off-shell external momenta is presented. Exact results
+for an arbitrary number of loops are obtained. Evaluating non-planar diagrams
+is also discussed.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 18:39:07 GMT""}]","2007-05-23"
+"hep-ph/9310309","Herbert Weigel","H. Weigel, R. Alkofer and H. Reinhardt","Hyperons in the Bound State Approach to the Nambu--Jona-Lasinio Chiral
+  Soliton","40 pages, 5 figuers (not included, avaible upon request)
+  UNITU-THEP-14/1993","Nucl.Phys.A576:477-524,1994","10.1016/0375-9474(94)90742-0",,"hep-ph",,"  For the Nambu--Jona--Lasinio (NJL) model in the proper time regularization
+scheme the chiral soliton is investigated for the case of three flavors within
+the framework of the bound state approach to strangeness. For this purpose
+meson fluctuations off the non--strange soliton are considered. For the kaon
+P--wave channel the emerging Bethe--Salpeter equation is solved yielding the
+bound state energy and wave--function. This kaon bound state also induces a
+strange valence quark wave--function. Collective coordinates are introduced for
+the SU(2) isorotations and the coupling of the bound state to these rotations
+is determined. The total spin is decomposed into parts carried by the soliton
+and the bound state. The absolute value of the former is identical to the total
+isospin while the latter is demonstrated to be identical to the expectation
+value of the grand spin, the sum of spin and isospin. The functional trace
+involves quark states with various grand spins which get polarized by the kaon
+bound state. This polarization results in a normalization of the coupling
+between the collective rotation and the bound state different from the Skyrme
+model. Nevertheless after quantization the expression for the baryon masses can
+be cast into the form found by Callan and Klebanov for the Skyrme model.
+Numerical results for the baryon spectrum are compared to those obtained in the
+same model using the collective approach of Yabu and Ando. It is found that for
+$\frac{1}{2}^+$ baryons the bound state treatment reproduces the experimental
+data better than the collective approach while there are only small differences
+between the two approaches for the $\frac{3}{2}^+$ baryons. Both treatments
+underestimate the mass splittings for baryons with different strangeness. This
+short-coming is conjectured to be inherited from the meson sector of the NJL
+model where too small a ratio of the kaon and pion decay constants is
+predicted.
+","[{""version"":""v1"",""created"":""Tue, 19 Oct 1993 09:44:49 GMT""}]","2009-09-25"
+"hep-ph/9310311","Stefan Herrlich","S. Herrlich and U. Nierste","Enhancement of the $K_L$ -- $K_S$ Mass Difference by Short Distance QCD
+  Corrections Beyond Leading Logarithms","30 pages and 9 figures (available as uuencoded tarred postscript
+  files), LaTeX, TUM-T31-40/93","Nucl.Phys. B419 (1994) 292-322","10.1016/0550-3213(94)90044-2",,"hep-ph",,"  We calculate the next-to-leading order short distance QCD corrections to the
+coefficient $\eta_1$ of the effective $\Delta S = 2$ hamiltonian in the
+standard model. This part dominates the short distance contribution $(\Delta
+m_K)^{\rm SD}$ to the $K_L$ -- $K_S$ mass difference. The next-to-leading order
+result enhances $\eta_1$ and $(\Delta m_K)^{\rm SD}$ by 20\% compared to the
+leading order estimate. Taking $0.200 \gev \le \laMSb \le 0.350 \gev$ and $1.35
+\gev \le m_c(m_c) \le 1.45 \gev$ we obtain $0.922 \le \eta_1^{\rm NLO} \le
+1.419$ compared to $0.834 \le \eta_1^{\rm LO} \le 1.138$. For $B_K = 0.7$ this
+corresponds to 48 -- 75 \% of the experimentally observed mass difference. The
+inclusion of next-to- leading order corrections to $\eta_1$ reduces
+considerably the theoretical uncertainty related to the choice of
+renormalization scales.
+","[{""version"":""v1"",""created"":""Tue, 19 Oct 1993 14:30:05 GMT""}]","2009-10-22"
+"hep-ph/9310312",,"B. Ananthanarayan and Saurabh D. Rindani","Weak dipole moment of $\tau$ in $e^+e^-$ collisions with longitudinally
+  polarized electrons","9 pages, Latex, PRL-TH-93/17 (Revised)","Phys.Rev.Lett.73:1215-1218,1994","10.1103/PhysRevLett.73.1215",,"hep-ph",,"  It is pointed out that certain CP-odd momentum correlations in the production
+and subsequent decay of tau pairs in $e^+e^-$ collisions get enhanced when the
+$e^-$ is longitudinally polarized. Analytic expressions for these correlations
+are obtained for the single-pion decay mode of $\tau$ when $\tau^+\tau^-$ have
+a ``weak"" dipole form factor (WDFF) coupling to $Z$ . For $e^+e^-$ collisions
+at the $Z$ peak, a sensitivity of about 1-5$\times 10^{-17}$\mbox{$e$ cm} for
+the $\tau$ WDFF can be reached using a {\em single} $\tau^+\tau^-$ decay
+channel, with $10^6\, Z$'s likely to be available at the SLC at Stanford with
+$e^-$ polarization of 62\%-75\%.
+","[{""version"":""v1"",""created"":""Tue, 19 Oct 1993 14:33:43 GMT""},{""version"":""v2"",""created"":""Wed, 23 Mar 1994 17:06:32 GMT""}]","2010-11-01"
+"hep-th/9310111","Nicola Maggiore","Nicola Maggiore and Martin Schaden","Landau gauge within the Gribov horizon","17 pages, NYU-TH-93/10/05","Phys.Rev. D50 (1994) 6616-6625","10.1103/PhysRevD.50.6616",,"hep-th",,"  We consider a model which effectively restricts the functional integral of
+Yang--Mills theories to the fundamental modular region. Using algebraic
+arguments, we prove that this theory has the same divergences as ordinary Yang
+Mills theory in the Landau gauge and that it is unitary. The restriction of the
+functional integral is interpreted as a kind of spontaneous breakdown of the
+$BRS$ symmetry.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 16:07:06 GMT""}]","2009-10-22"
+"hep-th/9310112",,"C. R. Nappi and E. Witten","A WZW model based on a non-semi-simple group","8 pages, phyzzx, IASSNS-HEP-93/61 Texable version","Phys.Rev.Lett.71:3751-3753,1993","10.1103/PhysRevLett.71.3751",,"hep-th",,"  We present a conformal field theory which desribes a homogeneous four
+dimensional Lorentz-signature space-time. The model is an ungauged WZW model
+based on a central extension of the Poincar\'e algebra. The central charge of
+this theory is exactly four, just like four dimensional Minkowski space. The
+model can be interpreted as a four dimensional monochromatic plane wave. As
+there are three commuting isometries, other interesting geometries are expected
+to emerge via $O(3,3)$ duality.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 17:31:25 GMT""},{""version"":""v2"",""created"":""Tue, 19 Oct 1993 17:49:56 GMT""}]","2010-04-07"
+"hep-th/9310113",,"Emil Nissimov and Svetlana Pacheva","String Theory and Integrable Systems","(to appear in ""Mathematical Physics Towards the XXIst Century"", Proc.
+  Int. Conf. in Beer Sheva, March 1993), LaTeX, 25 pages, BGU-93/22/October-PH
+  (added discussion of generalized Miura transformation for multi-boson KP
+  hierarchies)",,,,"hep-th",,"  This is mainly a brief review of some key achievements in a `hot'' area of
+theoretical and mathematical physics. The principal aim is to outline the basic
+structures underlying {\em integrable} quantum field theory models with {\em
+infinite-dimensional} symmetry groups which display a radically new type of
+{\em quantum group} symmetries. Certain particular aspects are elaborated upon
+with some detail: integrable systems of Kadomtsev-Petviashvili type and their
+reductions appearing in matrix models of strings; Hamiltonian approach to
+Lie-Poisson symmetries; quantum field theory approach to two-dimensional
+relativistic integrable models with dynamically broken conformal invariance.
+All field-theoretic models in question are of primary relevance to diverse
+branches of physics ranging from nonlinear hydrodynamics to string theory of
+fundamental particle interactions at ultra-high energies.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 21:33:00 GMT""},{""version"":""v2"",""created"":""Thu, 30 Dec 1993 15:55:00 GMT""},{""version"":""v3"",""created"":""Thu, 30 Dec 1993 16:05:00 GMT""}]","2008-02-03"
+"hep-th/9310114",,"R.D. Daniels and G.M. Shore","Faster than light' photons and charged black holes","17pages, SWAT 93-9, UGVA-DPT 1993/08-830 (includes three macros
+  undefined in originally submitted version)","Nucl.Phys.B425:634-650,1994","10.1016/0550-3213(94)90291-7",,"hep-th gr-qc",,"  Photons propagating in curved spacetime may, depending on their direction and
+polarisation, have velocities exceeding the ``speed of light'' c. This
+phenomenon arises through vacuum polarisation in QED and is a tidal
+gravitational effect depending on the local curvature. It implies that the
+Principle of Equivalence does not hold for interacting quantum field theories
+in curved spacetime and reflects a quantum violation of local Lorentz
+invariance. These results are illustrated for the propagation of photons in the
+Reissner-Nordstr\""om spacetime characterising a charged black hole. A general
+analysis of electromagnetic as well as gravitational birefringence is
+presented.
+","[{""version"":""v1"",""created"":""Tue, 19 Oct 1993 11:15:20 GMT""},{""version"":""v2"",""created"":""Mon, 25 Oct 1993 18:06:38 GMT""}]","2008-11-26"
+"hep-th/9310115","Martin Cederwall","Martin Cederwall","Introduction to Division Algebras, Sphere Algebras and Twistors","10 pages, Goeteborg-ITP-93-43. Inputs: phyzzx, epsf. Uuencoded figure
+  file appended",,,,"hep-th",,"  A very basic introduction is given to the r\^oles of division algebras and
+the related sphere algebras concerning the structure of space-time in the
+dimensionalities $D\is 3,4,6$ and $10$, with special emphasis on twistors
+transformations for light-likeness conditions and Hopf maps, together with some
+outlook for particle and string theory.
+","[{""version"":""v1"",""created"":""Tue, 19 Oct 1993 12:46:00 GMT""}]","2007-05-23"
+"hep-th/9310116","Jean-Loup Gervais","Jean-Loup Gervais","Introduction to Differential W-Geometry","LPTENS preprint 93/38, LATEX file 15 pages",,,,"hep-th",,"  Ideas recently put forward by Y. Matsuo and the author are summarized on the
+example of the simplest ($W_3$) generalization of two-dimensional gravity.
+These notes are based on lectures given at the workshop `` Strings, Conformal
+Models and Topological Field Theories'', Cargese 12-21 May 1993; and at the
+meeting ``String 93'', Berkeley, 24-29 May 1993.
+","[{""version"":""v1"",""created"":""Tue, 19 Oct 1993 14:14:33 GMT""}]","2007-05-23"
+"hep-th/9310118","Lee Alexander James London","G.W. Gibbons, D. Kastor, L.A.J. London, P.K. Townsend, J. Traschen","Supersymmetric Self-Gravitating Solitons","39 pages, DAMTP R-93/27, phyzzx","Nucl.Phys.B416:850-880,1994","10.1016/0550-3213(94)90558-4",,"hep-th",,"  We show that the `instantonic' soliton of five-dimensional Yang-Mills theory
+and the closely related BPS monopole of four-dimensional Yang-Mills/Higgs
+theory continue to be exact static, and stable, solutions of these field
+theories even after the inclusion of gravitational, electromagnetic and, in the
+four-dimensional case, dilatonic interactions, provided that certain
+non-minimal interactions are included. With the inclusion of these
+interactions, which would be required by supersymmetry, these exact
+self-gravitating solitons saturate a gravitational version of the Bogomol'nyi
+bound on the energy of an arbitrary field configuration.
+","[{""version"":""v1"",""created"":""Tue, 19 Oct 1993 15:07:00 GMT""}]","2009-10-07"
+"hep-th/9310119",,"H. Hinrichsen, P. P. Martin, V. Rittenberg and M. Scheunert","On the Two-Point Correlation Function for the $U_q[SU(2)]$ Invariant
+  Spin One-Half Heisenberg Chain at Roots of Unity","19 pages, LaTeX, BONN-HE-93-35","Nucl.Phys. B415 (1994) 533-556","10.1016/0550-3213(94)90302-6",,"hep-th",,"  Using $U_q[SU(2)]$ tensor calculus we compute the two-point scalar operators
+(TPSO), their averages on the ground-state give the two-point correlation
+functions. The TPSOs are identified as elements of the Temperley-Lieb algebra
+and a recurrence relation is given for them. We have not tempted to derive the
+analytic expressions for the correlation functions in the general case but got
+some partial results. For $q=e^{i \pi/3}$, all correlation functions are
+(trivially) zero, for $q=e^{i \pi/4}$, they are related in the continuum to the
+correlation functions of left-handed and right-handed Majorana fields in the
+half plane coupled by the boundary condition. In the case $q=e^{i \pi/6}$, one
+gets the correlation functions of Mittag's and Stephen's parafermions for the
+three-state Potts model. A diagrammatic approach to compute correlation
+functions is also presented.
+","[{""version"":""v1"",""created"":""Tue, 19 Oct 1993 15:12:56 GMT""}]","2009-10-22"
+"hep-th/9310120","Michael R. Gallis","Michael R. Gallis","Decoherence and Dissipation for a Quantum System Coupled to a Local
+  Environment","6 Pages (LaTeX), to appear in the Proceedings of the Third
+  International Workshop on Squeezed States and Uncertainty Relations",,,,"hep-th cond-mat gr-qc",,"  Decoherence and dissipation in quantum systems has been studied extensively
+in the context of Quantum Brownian Motion. Effective decoherence in coarse
+grained quantum systems has been a central issue in recent efforts by Zurek and
+by Hartle and Gell-Mann to address the Quantum Measurement Problem. Although
+these models can yield very general classical phenomenology, they are incapable
+of reproducing relevant characteristics expected of a local environment on a
+quantum system, such as the characteristic dependence of decoherence on
+environment spatial correlations. I discuss the characteristics of Quantum
+  Brownian Motion in a local environment by examining aspects of first
+principle calculations and by the construction of phenomenological models.
+  Effective quantum Langevin equations and master equations are presented in a
+variety of representations. Comparisons are made with standard results such as
+the Caldeira-Leggett master equation.
+","[{""version"":""v1"",""created"":""Tue, 19 Oct 1993 15:48:00 GMT""}]","2007-05-23"
+"hep-th/9310150","Solodukhin-63942","D.I.Kazakov, S.N.Solodukhin","On Quantum Deformation of the Schwarzschild Solution","24 p., Latex, preprint JINR E2-93-371, (4 figures upon request)","Nucl.Phys. B429 (1994) 153-176","10.1016/S0550-3213(94)80045-6",,"hep-th gr-qc",,"  We consider the deformation of the Schwarzschild solution in general
+relativity due to spherically symmetric quantum fluctuations of the metric and
+the matter fields. In this case, the 4D theory of gravity with Einstein action
+reduces to the effective two-dimensional dilaton gravity. We have found that
+the Schwarzschild singularity at $r=0$ is shifted to the finite radius $r_{min}
+\sim r_{Pl}$, where the scalar curvature is finite, so that the space-time
+looks regular and consists of two asymptotically flat sheets glued at the
+hypersurface of constant radius.
+","[{""version"":""v1"",""created"":""Tue, 19 Oct 1993 08:16:15 GMT""},{""version"":""v2"",""created"":""Mon, 25 Oct 1993 14:21:22 GMT""},{""version"":""v3"",""created"":""Tue, 26 Oct 1993 14:23:55 GMT""},{""version"":""v4"",""created"":""Wed, 27 Oct 1993 17:16:25 GMT""}]","2009-10-22"
+"nucl-th/9310024","Alfred Stadler","H. Henning, J. Adam Jr., P.U. Sauer, and A. Stadler","Relations Between Isoscalar Charge Form Factors of Two- and
+  Three-Nucleon Systems","11 pages in Revtex 3.0 (8 figures available as postscript files upon
+  request), preprint WM-93-112","Phys.Rev.C52:471-475,1995","10.1103/PhysRevC.52.471",,"nucl-th",,"  Theoretical predictions for the deuteron and the isoscalar trinucleon charge
+form factors are compared. Correlations between them are found. Linear
+relations hold for the position of the diffraction minimum and for the position
+and height of the secondary maximum. The linear relation for the diffraction
+minimum misses the experimental data.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 21:15:47 GMT""}]","2009-09-25"
+"nucl-th/9310025",,"Wolfgang Bauer, Vladimir Zelevinsky, and Peter Schuck","Coexistence of Regular Undamped Nuclear Dynamics with Intrinsic
+  Chaoticity","12 pages LaTeX + 2 figures (postscript, available from 1st author)",,"10.1103/PhysRevLett.72.3771",,"nucl-th",,"  We study the conditions under which the nucleons inside a deformed nucleus
+can undergo chaotic motion. To do this we perform self-consistent calculations
+in semiclassical approximation utilizing a multipole-multipole interaction of
+the Bohr-Mottelson type for quadrupole and octupole deformations. For the case
+of harmonic and non-harmonic static potentials, we find that both multipole
+deformations lead to regular motion of the collective coordinate, the multipole
+moment of deformation. However, despite this regular collective motion, we
+observe chaotic single particle dynamics.
+","[{""version"":""v1"",""created"":""Mon, 18 Oct 1993 21:29:13 GMT""}]","2009-10-22"

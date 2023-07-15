@@ -1,0 +1,341 @@
+"alg-geom/9305012","Claude LeBrun","Claude LeBrun","A Kaehler Structure on the Space of String World-Sheets","13 pages, LaTeX",,"10.1088/0264-9381/10/9/006",,"alg-geom math.AG",,"  Let (M,g) be an oriented Lorentzian 4-manifold, and consider the space S of
+oriented, unparameterized time-like 2-surfaces in M (string world-sheets) with
+fixed boundary conditions. Then the infinite-dimensional manifold S carries a
+natural complex structure and a compatible (positive-definite) Kaehler metric h
+on S determined by the Lorentz metric g. Similar results are proved for other
+dimensions and signatures, thus generalizing results of Brylinski regarding
+knots in 3-manifolds. Generalizing the framework of Lempert, we also
+investigate the precise sense in which S is an infinite-dimensional complex
+manifold.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 18:36:40 GMT""}]","2009-10-22"
+"astro-ph/9305034",,"Giacomo Giampieri","Sinusoidal Gravitational Waves from the Nuclei of Active Galaxies","Latex, 14 pages, 4 figures (not included, available upon request),
+  JPL 05/25/93",,,,"astro-ph gr-qc",,"  It is believed that most quasars and galaxies present two common features:
+the presence in their core of a supermassive object, and the experience of one
+or more encounters with other galaxies. In this scenario, it is likely that a
+substantial fraction of active galactic nuclei harbour a supermassive binary,
+fueled by an accretion disk. These binaries would certainly be among the
+strongest sources of sinusoidal gravitational waves. We investigate their
+evolution considering, simultaneously, the accretion of the black hole's masses
+from the disk, and the gravitational waves emitted during the orbital motion.
+We also consider other astrophysical scenarios involving a coalescing binary
+with non constant masses.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 20:07:30 GMT""}]","2007-05-23"
+"astro-ph/9305035",,"V. Karas and D. Vokrouhlicky","Motion of a Solar Mass Compact Object Around a Massive Rotating Black
+  Hole","55 pages, 14 figures (not included, available from the authors),
+  LaTeX, SISSA 69/93/A",,,,"astro-ph",,"  This preprint is based on two articles accepted by MNRAS and ApJ.
+  Our aim is to study the evolution of the orbit of a star under the influence
+of interactions with an accretion disc in an AGN. The model considered consists
+of a low-mass compact object orbiting a supermassive black hole and colliding
+periodically with the accretion disc. Gravitational field of the nucleus is
+described by the Kerr metric. The star is assumed to move along a geodesic arc
+between successive interactions with an equatorial accretion disc. We study the
+gravitomagnetic (Lense-Thirring) precession of the trajectory. We do not assume
+any particular value for the eccentricity or inclination of the orbit or the
+angular momentum of the black hole. We also discuss the periodicity related to
+the relativistic shift of the pericenter.
+  The model of star-disc interactions has been suggested to explain the X-ray
+variability observed in the Seyfert galaxy NGC~6814. We briefly discuss on this
+subject.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 11:29:32 GMT""}]","2007-05-23"
+"comp-gas/9305003","Dean A. Prichard","C. P. Price and D. Prichard (University of Alaska, Fairbanks)","The non-linear response of the magnetosphere: 30 October 1978","4 pages, Postscript file compressed and uuencoded, made with uufiles
+  script",,"10.1029/93GL00844",,"comp-gas nlin.CG",,"  Previous efforts to find evidence of deterministic nonlinear dynamics in the
+global geomagnetic system have treated the geomagnetic system as autonomous.
+However, the geomagnetic system is strongly driven by the stochastic solar
+wind. We consider the response of the magnetosphere, as given by the AE index,
+for one day when the IMF had a nearly constant southward value. Using both a
+series of non-linear statistics and non-linear prediction of the response to
+the input signal $v B_s$, we find that there is some evidence for deterministic
+non-linear response of the Earth's magnetosphere on that day.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 23:23:34 GMT""}]","2009-10-22"
+"comp-gas/9305004","Ramiro Rico-Martinez","I. G. Kevrekidis and R. Rico-Martinez (Department of Chemical
+  Engineering, Princeton University, Princeton, NJ 08544-5263), R. E. Ecke
+  (Physics Division and Center for Nonlinear Studies, Los Alamos National
+  Laboratory, Los Alamos, NM 87545), and R. M. Farber and A. S. Lapedes
+  (Theoretical Division, Los Alamos National Laboratory, Los Alamos, NM 87545)","Global Bifurcations in Rayleigh-Benard Convection: Experiments,
+  Empirical Maps and Numerical Bifurcation Analysis","Additional figures available via anonymous ftp to princeton.edu",,"10.1016/0167-2789(94)90152-X",,"comp-gas chao-dyn nlin.CD nlin.CG",,"  We use nonlinear signal processing techniques, based on artificial neural
+networks, to construct an empirical mapping from experimental Rayleigh-Benard
+convection data in the quasiperiodic regime. The data, in the form of a
+one-parameter sequence of Poincare sections in the interior of a mode-locked
+region (resonance horn), are indicative of a complicated interplay of local and
+global bifurcations with respect to the experimentally varied Rayleigh number.
+The dynamic phenomena apparent in the data include period doublings, complex
+intermittent behavior, secondary Hopf bifurcations, and chaotic dynamics. We
+use the fitted map to reconstruct the experimental dynamics and to explore the
+associated local and global bifurcation structures in phase space. Using
+numerical bifurcation techniques we locate the stable and unstable periodic
+solutions, calculate eigenvalues, approximate invariant manifolds of saddle
+type solutions and identify bifurcation points. This approach constitutes a
+promising data post-processing procedure for investigating phase space and
+parameter space of real experimental systems; it allows us to infer phase space
+structures which the experiments can only probe with limited measurement
+precision and only at a discrete number of operating parameter settings.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 00:48:00 GMT""}]","2009-10-22"
+"cond-mat/9305033","Chuck Yeung","C. Yeung, Y. Oono and A. Shinozaki","Possibilities and Limitations of Gaussian Closure Approximations for
+  Phase Ordering Dynamics","17 pages, LaTeX (6 postScript figures on request) 17-05-93",,"10.1103/PhysRevE.49.2693",,"cond-mat",,"  The nonlinear equations describing phase ordering dynamics can be closed by
+assuming the existence of an underlying Gaussian stochastic field which is
+nonlinearly related to the observable order parameter field. We discuss the
+relation between different implementations of the Gaussian assumption and
+consider the limitations of this assumption for phase ordering dynamics. The
+fact that the different approaches gives different results is a sign of the
+breakdown of the Gaussian assumption. We concentrate on the non-conserved order
+parameter case but also touch on the conserved order parameter case. We
+demonstrate that the Gaussian assumption is fundamentally flawed in the latter
+case.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 13:04:10 GMT""}]","2009-10-22"
+"cond-mat/9305034",,"K. Jauregui, W. Haeusler and B. Kramer, PTB Braunschweig","Wigner Molecules in Nanostructures","10 pages (excl. Figures), Figures available on request LaTeX",,"10.1209/0295-5075/24/7/013",,"cond-mat",,"  The one-- and two-- particle densities of up to four interacting electrons
+with spin, confined within a quasi one--dimensional ``quantum dot'' are
+calculated by numerical diagonalization. The transition from a dense
+homogeneous charge distribution to a dilute localized Wigner--type electron
+arrangement is investigated. The influence of the long range part of the
+Coulomb interaction is studied. When the interaction is exponentially cut off
+the ``crystallized'' Wigner molecule is destroyed in favor of an inhomogeneous
+charge distribution similar to a charge density wave .
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 14:42:00 GMT""}]","2009-10-22"
+"cond-mat/9305035",,"V. A. Kozlov and A. V. Samokhvalov","Closed Abrikosov Vortices in a Superconducting Cylinder","LaTex using revtex, 12 pages. 5 Figures available upon request from
+  samokh@appl.nnov.su Accepted for publication in Physica C","Physica C 213, 103 (1993)","10.1016/0921-4534(93)90764-H",,"cond-mat",,"  The new type of solutions of the London equation for type-II superconductors
+is obtained to describe the ring-shaped (toroidal) Abrikosov vortices. The
+specific feature of these solutions is the self-consistent localization of both
+the supercurrent and the magnetic field, enabling one to construct compact
+magnetic structures inside a superconductor. The torus vortex contraction
+caused by the vortex instability leads to the destruction of the Cooper pairing
+and the formation of a normal electron stream in the vicinity of the torus
+axis. The thermodynamic condition for the excitation of a small closed vortex
+by a bunch of charged particles contains the fine-structure constant as a
+determining parameter.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 14:41:59 GMT""}]","2009-11-29"
+"hep-lat/9305021","Jesus Salas","M. Asorey, J.G. Esteve and J. Salas","Exact renormalization-group analysis of first order phase transitions in
+  clock models","13 pages + 3 ps figures not included, TeX, DFTUZ 91.32",,"10.1103/PhysRevB.48.3626",,"hep-lat hep-th",,"  We analyze the exact behavior of the renormalization group flow in
+one-dimensional clock-models which undergo first order phase transitions by the
+presence of complex interactions. The flow, defined by decimation, is shown to
+be single-valued and continuous throughout its domain of definition, which
+contains the transition points. This fact is in disagreement with a recently
+proposed scenario for first order phase transitions claiming the existence of
+discontinuities of the renormalization group. The results are in partial
+agreement with the standard scenario. However in the vicinity of some fixed
+points of the critical surface the renormalized measure does not correspond to
+a renormalized Hamiltonian for some choices of renormalization blocks. These
+pathologies although similar to Griffiths-Pearce pathologies have a different
+physical origin: the complex character of the interactions. We elucidate the
+dynamical reason for such a pathological behavior: entire regions of coupling
+constants blow up under the renormalization group transformation. The flows
+provide non-perturbative patterns for the renormalization group behavior of
+electric conductivities in the quantum Hall effect.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 10:57:04 GMT""}]","2009-10-22"
+"hep-lat/9305022","Jesus Salas","M. Asorey, J.G. Esteve and J. Salas","Finite Size Analysis of the One-dimensional $q = \infty$ Clock Model","9 pages + 3 ps figures not included, LaTeX, DFTUZ 93.3","J.Phys. A27 (1994) 3707-3714","10.1088/0305-4470/27/11/020",,"hep-lat hep-th",,"  We analyze the finite size scaling of the $q$-state clock model in the $q
+\rightarrow \infty$ limit. The behaviors of the specific heat, Binder-Landau
+and U4 cumulants agree with the Borgs-Koteck\'y ans\""atz for first order phase
+transitions. However, we find that the leading correction to the position of
+the extremal points of these quantities is not universal. On the other hand,
+the finite size corrections to the mass gap behave like for second order phase
+transitions. In particular, the curves corresponding to different size
+approximations do not cross in the vicinity of the transition points. The
+feature is associated to the existence of a divergent correlation length and
+holds for a wider class of models.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 11:15:43 GMT""}]","2009-10-22"
+"hep-ph/9305324","Hai-Yang Cheng","Hai-Yang Cheng","Direct CP Violation in $K_L\to\pi^+\pi^-\gamma$","Latex, 14 pages, ITP-SB-93-32, IP-ASTP-20-93","Phys.Lett.B315:170-178,1993","10.1016/0370-2693(93)90176-I",,"hep-ph",,"  CP violation due to interference between $K_L$ and $K_S$ decays into $\pi
+^+\pi^-\gamma$ is analyzed in the Standard Model. The CP-violating parameter
+$\epsilon'_{+- \gamma}$, which is the difference between $\eta_{+-\gamma}$ and
+$\eta_{+-}$, receives dominant contributions from $K^0-\bar{K}^0$ mixing and
+the gluon penguin diagram; its magnitude is calculated to be $10^{-2}\epsilon$
+at a typical region of the Dalitz plot. Genuine direct CP violation in
+$K_L\to\pi^+ \pi^-\gamma$ decay originating from the electromagnetic penguin
+diagram is of order $10^{-4}\epsilon$.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 18:22:54 GMT""}]","2010-11-01"
+"hep-ph/9305325",,"Pankaj Jain and John P. Ralston","Evidence for Observation of Color Transparency in Proton Nucleus
+  Collisions","(To appear in the proceedings of the Workshop on Future Directions in
+  Particle and Nuclear Physics at Multi-GeV Hadron Facilities, BNL, March
+  1993). 5 pages, 4 figures (not included, hard copy available upon request),
+  report# KU-HEP-93-26",,,,"hep-ph",,"  We introduce a data analysis procedure for color transparency experiments
+which is considerably less model dependent than the transparency ratio method.
+The new method is based on fitting the shape of the A dependence of the nuclear
+cross section at fixed momentum transfer to determine the effective attenuation
+cross section for hadrons propagating through the nucleus. The hard scattering
+cross section is then determined directly from the data. We apply this
+procedure to the Brookhaven experiment of Carroll et al and find that it
+clearly shows color transparency: the effective attenuation cross section in
+events with momentum transfer $Q^2$ is approximately $40\ mb\ (2.2\
+GeV^2/Q^2)$. The fit to the data also supports the idea that the hard
+scattering inside the nuclear medium is closer to perturbative QCD predictions
+than is the scattering of isolated protons in free space. We discuss the
+application of our approach to electroproduction experiments.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 19:27:47 GMT""}]","2007-05-23"
+"hep-ph/9305326",,"Pankaj Jain and John P. Ralston","Evidence for Observation of Color Transparency in pa Collisions Using
+  Global Fit and Scaling Law Analysis","(To appear in the Proceedings of the XXVIII Rencontres de Moriond,
+  QCD and High Energy Interactions, Les Arcs, France, March 1993). 5 pages, 2
+  figures (not included, hard copy available upon request), report#
+  KU-HEP-93-28",,,,"hep-ph",,"  We review a new systematic data analysis procedure for color transparency
+experiments and its application to the proton nucleus scattering experiment.
+The method extracts the hard scattering rate as well as the survival
+probability for the protons travelling through the nucleus directly from the
+data. The method requires modelling of the nuclear attenuation in terms of an
+effective nucleon-nucleon cross section. We can minimize this model dependence
+by introducing a new scaling law analysis procedure which can yield
+considerable information with very little theoretical input. With sufficient
+data the functional forms of the survival probability as well as the hard
+scattering can be extracted without any theoretical modelling. An analysis of
+the BNL data of Carroll {\it et al} shows clear evidence for observation of
+color transparency.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 19:28:12 GMT""}]","2007-05-23"
+"hep-ph/9305327","Lynne Orr","Yu.L. Dokshitzer, V.A. Khoze, L.H. Orr, and W.J. Stirling","Soft Photons in $W^+W^-$ Production at LEP200","LaTeX, 9 pages + 4 figures available from the authors or via
+  anonymous ftp; DTP/93/16, UCD-93-11, LU-TP-93-9. Brief discussion of event
+  rates added","Phys.Lett. B313 (1993) 171-179","10.1016/0370-2693(93)91208-5",,"hep-ph",,"  The pattern of soft photon radiation in $\ee\to\ww$ has a rich structure,
+with contributions from photon emission off the initial state and off the final
+state particles both before and after decay. In particular, the interference
+between the contributions involving the decaying $W$'s depends on the decay
+width. We review the theoretical result for the radiation pattern, and present
+predictions for LEP200, {\it i.e.} in $\ee$ annihilation just above $\ww$
+threshold.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 19:37:00 GMT""},{""version"":""v2"",""created"":""Thu, 1 Jul 1993 21:56:00 GMT""}]","2009-10-22"
+"hep-ph/9305328","Lisa Randall","Thomas Wynter and Lisa Randall","Constraints on a Massive Dirac Neutrino Model","latex, 29 pages, 7 figures (not included), MIT-CTP-2212","Phys.Rev.D50:3457-3467,1994","10.1103/PhysRevD.50.3457",,"hep-ph",,"  We examine constraints on a simple neutrino model in which there are three
+massless and three massive Dirac neutrinos and in which the left handed
+neutrinos are linear combinations of doublet and singlet neutrinos. We examine
+constraints from direct decays into heavy neutrinos, indirect effects on
+electroweak parameters, and flavor changing processes. We combine these
+constraints to examine the allowed mass range for the heavy neutrinos of each
+of the three generations.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 01:40:46 GMT""}]","2009-09-15"
+"hep-ph/9305329","A. Schaale","A.A.Bel'kov, D.Ebert, A.V.Lanyov, A.Schaale","Heat-Kernel Calculation of Quark Determinant and Computer Algebra","LATEX, 11 p., DESY 92-153","Int.J.Mod.Phys. C4 (1993) 775-786","10.1142/S0129183193000641",,"hep-ph",,"  In this paper there we describe the calculational background of deriving a
+strong meson Lagrangian from the Nambu--Jona-Lasinio quark model using the
+computer algebra systems FORM and REDUCE in recursive algorithms, based on the
+heat-kernel method for the calculation of the quark determinant.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 11:06:28 GMT""}]","2015-06-25"
+"hep-ph/9305330","A. Schaale","A.A.Bel'kov, A.V.Lanyov, A.Schaale","Radiative Kaon Decays and $CP$ Violation","25 p., DESY 93-060",,,,"hep-ph",,"  The amplitudes of $K \rightarrow \pi \gamma^* \rightarrow \pi e^+e^-$ and $K
+\rightarrow \pi \pi \gamma$ decays have been calculated within chiral
+Lagrangian approach including higher-order derivative terms and meson loops.
+The selfconsistency of the simultaneous description of the experimental data on
+the nonleptonic and radiative kaon decays have been demonstrated. We estimate
+the effects of ``indirect'' and ``direct'' $CP$-violation in $K^0_L \rightarrow
+\pi^0 e^+e^-$ decays and discuss $CP$-violating charge asymmetries in $K^{\pm}
+\rightarrow \pi^{\pm} \pi^0 \gamma$ decays.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 13:31:50 GMT""},{""version"":""v2"",""created"":""Thu, 3 Jun 1993 13:43:31 GMT""}]","2008-02-03"
+"hep-ph/9305331",,"Marc Knecht","Experimental determination of Chiral Symmetry Breaking Parameters","6 pages, preprint IPNO/TH 93-15, plain Latex",,,,"hep-ph",,"  In the low energy domain, Chiral Perturbation Theory parametrizes the small
+chiral symmetry breaking effects, produced by the quark masses $m_u$, $m_d$ and
+$m_s$, in terms of order parameters of massless QCD. The latter can then, in
+principle, be measured in high precision, low energy experiments. We discuss
+several relevant processes and possible improvements at future high luminosity
+tau/charm or K factories. (talk given at the XXVIIIth Rencontres de Moriond on
+QCD and High Energy Hadronic Interactions, Les Arcs (France), March 20-27
+1993.)
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 13:56:20 GMT""}]","2007-05-23"
+"hep-ph/9305332",,"M. Knecht, H. Sazdjian, J. Stern and N.H. Fuchs","A possible experimental determination of $m_s/{\hat m}$ from $K_{\mu 4}$
+  decays","9 pages, preprint IPNO-TH 93-17, 2 figures not included, available
+  upon request, plain Latex, April 1993","Phys.Lett. B313 (1993) 229-233","10.1016/0370-2693(93)91217-B",,"hep-ph",,"  $K\pi$ scattering and $K_{\mu 4}$ decays are studied at leading order of
+improved chiral perturbation theory. It is shown that high precision $K_{\mu
+4}$ experiments at, e.g., DA$\Phi$NE should allow for a direct measurement of
+the quark mass ratio $m_s$/${\hat m}$.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 14:07:56 GMT""}]","2009-10-22"
+"hep-ph/9305333","A. Schaale","A.A.Bel'kov, G.Bohm, D.Ebert, A.V.Lanyov, A.Schaale","On the Origin of the Enhancementof CP-violating Charge Asymmetries in $K
+  \rightarrow 3\pi$ Decays Predicted from Chiral Theory","DESY 92-106, 15 p","Phys.Lett.B300:283-292,1993","10.1016/0370-2693(93)90367-Q",,"hep-ph",,"  We present an analysis of the enhancement of CP-violating charge asymmetries
+in $K \rightarrow 3\pi$ decays. Calculations of decay amplitudes are performed
+on the basis of bosonized strong and weak Lagrangians derived from
+QCD-motivated quark Lagrangians. We show that the interplay of fourth-order
+contributions of chiral Lagrangians for strong interactions and penguin
+operators in weak interactions significantly enhances the charge asymmetries.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 14:45:41 GMT""}]","2010-11-01"
+"hep-ph/9305334",,"D. Grasso, M. Pietroni and A. Riotto","Electromagnetic properties of the neutrinos and the pion radiative decay","10 pages, 4 figures available upon request, DFRM1 944/93, DFPD
+  93/TH/36 and SISSA AP/93/65","Phys.Rev.D49:5824-5829,1994","10.1103/PhysRevD.49.5824",,"hep-ph",,"  We investigate the implications of neutrino electromagnetic dipole moments
+for the radiative decay $\pi \rightarrow e \nu \gamma$. We show that the
+dominant new effect comes from the interference between the amplitude of the
+process with the photon emitted by the neutrino and the structure dependent
+standard amplitude. Such interference takes place only if the massive neutrino
+is a Majorana fermion. Moreover, since electric and magnetic dipole moments
+give rise to contributions with opposite signs, future experiments might be
+able to distinguish between them.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 14:33:43 GMT""}]","2011-07-19"
+"hep-ph/9305335",,"A. Djouadi, M. Spira and P. M. Zerwas","Two-Photon Decay Widths of Higgs Particles","8pages + 3figures (not included, a hard copy is available from A.D.
+  upon request), Prep. DESY 92-170 (to appear in Phys. Lett. B)","Phys.Lett.B311:255-260,1993","10.1016/0370-2693(93)90564-X",,"hep-ph",,"  Two--photon decays of Higgs bosons are important channels for the search of
+these particles in the intermediate mass range at the $pp$ colliders LHC and
+SSC. Dynamical aspects of the Higgs coupling to two photons can also be studied
+by means of the $\gamma \gamma$ fusion of Higgs particles at high--energy
+e$^+$e$^-$ linear colliders. Extending earlier analyses which had been
+restricted to the Standard Model, we present in this note the QCD radiative
+corrections to the $\gamma \gamma$ decay widths of scalar and pseudoscalar
+Higgs particles in multi--doublet extensions of the Higgs sector, as realized
+for instance in supersymmetric theories.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 15:52:04 GMT""}]","2011-07-19"
+"hep-th/9305147","Fernando T. C. Brandt","F.T. Brandt and J. Frenkel","The graviton self-energy in thermal quantum gravity","13 pages, 2 figures","Phys.Rev. D48 (1993) 4940-4945","10.1103/PhysRevD.48.4940",,"hep-th",,"  We show generally that in thermal gravity, the one-particle irreducible
+2-point function depends on the choice of the basic graviton fields. We derive
+the relevant properties of a physical graviton self-energy, which is
+independent of the parametrization of the graviton field. An explicit
+expression for the graviton self-energy at high-temperature is given to
+one-loop order.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 19:13:00 GMT""},{""version"":""v2"",""created"":""Thu, 27 May 1993 12:17:32 GMT""}]","2009-10-22"
+"hep-th/9305148",,"M. Werneck de Oliveira, M. Schweda and S.P. Sorella REF","Supersymmetric Structure of the Bosonic String Theory in the Beltrami
+  Parametrization","TUW 93-12 (LaTex)","Phys.Lett.B315:93-97,1993","10.1016/0370-2693(93)90163-C",,"hep-th",,"  We show that the bosonic string theory quantized in the Beltrami
+parametrization possesses a supersymmetric structure like the
+vector-supersymmetry already observed in topological field theories.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 18:50:21 GMT""}]","2011-04-12"
+"hep-th/9305149",,"Z. Hasiewicz and P. Siemion","Non-abelian Harmonic Oscillators and Chiral Theories","15","J.Phys. A27 (1994) 3501-3510","10.1088/0305-4470/27/10/025",,"hep-th",,"  We show that a large class of physical theories which has been under
+intensive investigation recently, share the same geometric features in their
+Hamiltonian formulation. These dynamical systems range from harmonic
+oscillations to WZW-like models and to the KdV dynamics on $Diff_oS^1$. To the
+same class belong also the Hamiltonian systems on groups of maps.
+  The common feature of these models are the 'chiral' equations of motion
+allowing for so-called chiral decomposition of the phase space.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 09:18:00 GMT""},{""version"":""v2"",""created"":""Mon, 14 Jun 1993 09:57:23 GMT""}]","2009-10-22"
+"hep-th/9305150","Juan Perez Mercader","J. Perez-Mercader","Randomness and Irreversibility in Quantum Field Theory","RevTeX, 13 pages plus 4 Figures (available from the author upon
+  request), LAEFF--93/006",,,,"hep-th",,"  Quantum fluctuations, through quantum corrections, have the potential to lead
+to irreversibility in quantum field theory. We consider the virtual ``charge""
+distribution generated by quantum corrections in the leading log, short range
+approximation, and adopt for it a statistical interpretation. This virtual
+charge density has fractal structure, and it is seen that, independently of
+whether the theory is or is not asymptotically free, it describes a system
+where the equilibrium state is at its classical limit ($\hbar \rightarrow 0$).
+We also present a simple analysis of how diffusion of the charge density
+proceeds as a function of the distance at which the system is probed.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 10:12:27 GMT""}]","2007-05-23"
+"hep-th/9305151","Yutaka Matsuo","Yutaka Matsuo","Hopf Term, Loop Algebras and Three Dimensional Navier-Stokes Equation","11 pages, LateX file, Some of crucial references are added","Mod.Phys.Lett.A8:2677-2686,1993","10.1142/S0217732393003068","UT-644","hep-th",,"  The dynamics of the 3 dimensional perfect fluid is equivalent to the motion
+of vortex filaments or ""strings"". We study the action principle and find that
+it is described by the Hopf term of the nonlinear sigma model. The Poisson
+bracket structure is described by the loop algebra, for example, the Virasoro
+algebra or the analogue of O(3) current algebra. As a string theory, it is
+quite different from the standard Nambu-Goto string in its coupling to the
+extrinsic geometry. We also analyze briefly the two dimsensional case and give
+some emphasis on the $w_{1+\infty}$ structure.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 13:07:53 GMT""},{""version"":""v2"",""created"":""Sat, 5 Jun 1993 04:53:15 GMT""}]","2014-11-18"
+"hep-th/9305152","Mikhail Saveliev","Mikhail V. Saveliev and Svetlana A. Savelieva","$W_{\infty}$--Geometry and Associated Continuous Toda System","6 pages, no figure report\# ETH-TH/93-21","Phys.Lett. B313 (1993) 55-58","10.1016/0370-2693(93)91190-X",,"hep-th",,"  We discuss an infinite--dimensional k\""ahlerian manifold associated with the
+area--preserving diffeomorphisms on two--dimensional torus, and,
+correspondingly, with a continuous limit of the $A_r$--Toda system. In
+particular, a continuous limit of the $A_r$--Grassmannians and a related
+Pl\""ucker type formula are introduced as relevant notions for
+$W_{\infty}$--geometry of the self--dual Einstein space with the rotational
+Killing vector.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 13:18:07 GMT""}]","2009-10-22"
+"hep-th/9305153",,"Demosthenes Ellinas","SU(2) Action-Angle Variables","6 pages,plain Latex,FTUV/93-12. Talk at the 'Harmonic Oscillators'
+  Workshop,Maryland 1992",,,,"hep-th",,"  Operator angle-action variables are studied in the frame of the SU(2)
+algebra, and their eigenstates and coherent states are discussed. The quantum
+mechanical addition of action-angle variables is shown to lead to a novel non
+commutative Hopf algebra. The group contraction is used to make the connection
+with the harmonic oscillator.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 14:57:00 GMT""}]","2007-05-23"
+"hep-th/9305154",,"Marco A. C. Kneipp and David I. Olive","Crossing and Antisolitons in Affine Toda Theories","20 pages, PLAIN TEX (changed macro!!), SWAT/92-93/6","Nucl.Phys. B408 (1993) 565-578","10.1016/0550-3213(93)90380-8",,"hep-th",,"  Affine Toda theory is a relativistic integrable theory in two dimensions
+possessing solutions describing a number of different species of solitons when
+the coupling is chosen to be imaginary. These nevertheless carry real energy
+and momentum. To each species of soliton there has to correspond an antisoliton
+species. There are two different ways of realising the antisoliton whose
+equivalence is shown to follow from a surprising identity satisfied within the
+underlying affine Kac-Moody group. This is the classical analogue of the
+crossing property of analytic S-matrix theory. Since a complex parameter
+related to the coordinate of the soliton is inverted, this identity implies a
+sort of modular transformation property of the soliton solution. The results
+simplify calculations of explicit soliton solutions.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 15:41:55 GMT""},{""version"":""v2"",""created"":""Mon, 31 May 1993 15:18:01 GMT""}]","2009-10-22"
+"nucl-th/9305016",,"A. Bianconi, S. Boffi and D.E. Kharzeev","Quantum Interference Effects in N* Electroproduction and Propagation in
+  Nuclei","9 pages and 3 figures (available from the authors), FNT/T-93-19
+  University of Pavia","Phys.Rev.C49:1243-1245,1994","10.1103/PhysRevC.49.1243",,"nucl-th",,"  We discuss the unexpected enhancement of the $N^*$ electroproduction on
+nuclei recently observed in the $(\gamma^*,p\pi^-)$ measurement. A mechanism
+which is able to explain this result is proposed. To clarify the situation, we
+suggest to perform a new kind of experiment within well specified kinematic
+conditions.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 08:08:48 GMT""}]","2008-11-26"
+"patt-sol/9305010","Silvina Ponce-Dawson","Mark B. Mineev-Weinstein and Silvina Ponce Dawson (Theoretical
+  Division and Center for Nonlinear Studies, LANL)","A New Class of Nonsingular Exact Solutions for Laplacian Pattern
+  Formation","LaTeX, uuencoded postscript files",,"10.1103/PhysRevE.50.R24","LA-UR-93-1127","patt-sol nlin.PS",,"  We present a new class of exact solutions for the so-called {\it Laplacian
+Growth Equation} describing the zero-surface-tension limit of a variety of 2D
+pattern formation problems. Contrary to common belief, we prove that these
+solutions are free of finite-time singularities (cusps) for quite general
+initial conditions and may well describe real fingering instabilities. At long
+times the interface consists of N separated moving Saffman-Taylor fingers, with
+``stagnation points'' in between, in agreement with numerous observations. This
+evolution resembles the N-soliton solution of classical integrable PDE's.
+","[{""version"":""v1"",""created"":""Wed, 26 May 1993 18:48:31 GMT""}]","2009-10-22"

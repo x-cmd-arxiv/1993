@@ -1,0 +1,292 @@
+"alg-geom/9311007","Viacheslav V. Nikulin","Viacheslav V. Nikulin","On the Picard Number of Fano 3-Folds with Terminal Singularities","35 pages, AMS-Tex, version 2.1, Preprint MSRI Berkeley, June 057-93
+  (corrected variant)",,,,"alg-geom math.AG",,"  We prove the following main result: Let X be a Fano 3-fold with terminal
+Q-factorial singularities and X does not have a small extremal ray and a face
+of Kodaira dimension 1 or 2 for Mori polyhedron of X. Then the Picard number
+\rho (X) < 8.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 16:18:39 GMT""}]","2008-02-03"
+"astro-ph/9311053","Max Tegmark","Max Tegmark, Emory Bunn and Wayne Hu","Power Spectrum Independent Constraints on Cosmological Models","18 pages, Plain TeX (4 figures in accompanying file). CfPA 93-th-40,
+  submitted to Ap.J., significantly revised version","Astrophys.J.434:1-11,1994","10.1086/174699",,"astro-ph",,"  A formalism is presented that allows cosmological experiments to be tested
+for consistency, and allows a simple frequentist interpretation of the
+resulting significance levels. As an example of an application, this formalism
+is used to place constraints on bulk flows of galaxies using the results of the
+microwave background anisotropy experiments COBE and SP91, and a few
+simplifying approximations about the experimental window functions. It is found
+that if taken at face value, with the quoted errors, the recent detection by
+Lauer and Postman of a bulk flow of 689 km/s on scales of 150$h^{-1}$Mpc is
+inconsistent with SP91 at a 95\% confidence level within the framework of a
+Cold Dark Matter (CDM) model. The same consistency test is also used to place
+constraints that are completely model-independent, in the sense that they hold
+for any power spectrum whatsoever --- the only assumption being that the random
+fields are Gaussian. It is shown that the resulting infinite-dimensional
+optimization problem reduces to a set of coupled non-linear equations that can
+readily be solved numerically. Applying this technique to the above-mentioned
+example, we find that the Lauer and Postman result is inconsistent with SP91
+even if no assumptions whatsoever are made about the power spectrum.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 18:07:33 GMT""},{""version"":""v2"",""created"":""Sun, 19 Dec 1993 18:36:44 GMT""}]","2009-10-07"
+"astro-ph/9311054","Edward L. Wright","Edward L. Wright","Cosmology/COBE","30 pages of LaTex using epsf.sty, uuencoded compressed tarred
+  Postscript figures appended [460 kBytes], UCLA-ASTRO-ELW-93-05",,,,"astro-ph",,"  Abbreviated abstract of an invited talk at the International Cosmic Ray
+Conference in Calgary, July 1993: The results from the COBE satellite are in
+close agreement with the predictions of the standard hot Big Bang model,
+suggesting that the Universe was once hot, dense and isothermal, giving a
+background radiation spectrum that is close to a perfect blackbody. The
+spectrum observed by the FIRAS instrument places strong limits on events and
+scenarios occurring later than 1 year after the Big Bang. The observation of
+intrinsic anisotropy of the microwave background by the DMR instrument provides
+a measurement of the magnitude of the gravitational potential fluctuations that
+existed at decoupling. These potential perturbations were either produced in an
+inflationary epoch, or else they are initial conditions dating from t = 0. The
+angular power spectrum of dT is compatible with the inflationary scenario. The
+observed amplitude of dT can be used to restrict theories of the fundamental
+structure of matter on micro-physical scales and at energies higher than that
+of the most energetic cosmic rays. The DIRBE instrument will provide greatly
+improved data on extragalactic IR backgrounds after the strong foreground
+emission is subtracted.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 21:03:32 GMT""}]","2007-05-23"
+"chao-dyn/9311005","Josh Deutsch","J.M. Deutsch ( University of California Santa Cruz)","Probability distributions for one component equations with
+  multiplicative noise","15 pages Revtex 3.0 and epsf. One postcript figure. Use uufiles to
+  decode",,"10.1016/0378-4371(94)00055-7",,"chao-dyn cond-mat nlin.CD",,"  Systems described by equations involving both multiplicative and additive
+noise are common in nature. Examples include convection of a passive scalar
+field, polymersin turbulent flow, and noise in dye lasers. In this paper the
+one component version of this problem is studied. The steady state probability
+distribution is classified into two different types of behavior. One class has
+power law tails and the other is of the form of an exponential to a power law.
+The value of the power law exponent is determined analytically for models
+having colored gaussian noise. It is found to only depend on the power spectrum
+of the noise at zero frequency. When non-gaussian noise is considered it is
+shown that stretched exponential tails are possible. An intuitive understanding
+of the results is found and makes use of the Lyapunov exponents for these
+systems.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1993 01:10:36 GMT""}]","2009-10-22"
+"chao-dyn/9311006","Jeffrey Weiss","Jeffrey B. Weiss (National Center for Atmospheric Research)","Hamiltonian Maps and Transport in Structured Fluids","14 pages, Plain TeX, 6 Postscript figures to be published in Physica
+  D, Proceedings of the NATO and EGS Workshop on Chaotic Advection, Tracer
+  Dynamics, and Turbulent Dispersion, Sereno Di Gavi, Italy, May 1993",,"10.1016/0167-2789(94)90261-5",,"chao-dyn nlin.CD nlin.PS patt-sol",,"  Structures such as waves, jets, and vortices have a dramatic impact on the
+transport properties of a flow. Passive tracer transport in incompressible
+two-dimensional flows is described by Hamiltonian dynamics, and, for idealized
+structures, the system is typically integrable. When such structures are
+perturbed, chaotic trajectories can result which can significantly change the
+transport properties. It is proposed that the transport due to the chaotic
+regions can be efficiently calculated using Hamiltonian mappings designed
+specifically for the structure of interest. As an example a new map is
+constructed, appropriate for studying transport by propagating isolated
+vortices. It is found that a perturbed vortex will trap fluid parcels for
+varying lengths of time, and that the distribution of such trapping times has
+slopes which are independent of the amplitudes of both the vortex and the
+perturbation.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1993 01:23:46 GMT""}]","2009-10-22"
+"chao-dyn/9311007","Josh Deutsch","J.M. Deutsch (University of California, Santa Cruz)","Probability distributions for multicomponent systems with multiplicative
+  noise","24 pages Revtex 3.0 and epsf. Six postcript figures. Use uufiles to
+  decode",,"10.1016/0378-4371(94)00054-9",,"chao-dyn cond-mat nlin.CD",,"  Linear systems with many degrees of freedom containing multiplicative and
+additive noise are considered. The steady state probability distribution for
+equations of this kind is examined. With multiplicative white noise it is shown
+that under some symmetry conditions, the probability distribution of a single
+component has power law tails, with the exponent independent of the strength of
+additive noise, but dependent on the strength of the multiplicative noise. The
+classification of these systems into two regimes appears to be possible in the
+same manner as with just one degree of freedom. A physical system, that of a
+turbulent fluid undergoing a chemical reaction is predicted to show a
+transition from exponential to power law tails, as the reaction rate is
+increased. A variety of systems are studied numerically. A replication
+algorithm is used to obtain the Lyapunov exponents for high moments, which
+would be inaccessible by more conventional approaches.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1993 02:16:47 GMT""}]","2009-10-22"
+"cond-mat/9311048",,"L.S.Levitov and G.B.Lesovik","Noise in an ac biased junction. Non-stationary Aharonov-Bohm effect","10 pages, RevTeX 3.0, figures by request","Phys. Rev. Lett. 72, 538 (1994)","10.1103/PhysRevLett.72.538","MIT preprint 366/0786","cond-mat",,"  We study excess noise in a quantum conductor in the presence of constant
+voltage and alternating external field. Due to a two particle interference
+effect caused by Fermi correlations the noise is sensitive to the phase of the
+time dependent transmission amplitude. We compute spectral density and show
+that at T=0 the noise has singular dependence on the {\rm dc} voltage $V$ and
+the {\rm ac} frequency $\Omega$ with cusplike singularities at integer
+$eV/\hbar\Omega$. For a metallic loop with an alternating flux the phase
+sensitivity leads to an oscillating dependence of the strengths of the cusps on
+the flux amplitude.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 21:18:24 GMT""}]","2008-04-12"
+"cond-mat/9311049","Yigal Meir","Yigal Meir (Physics Department, University of California, Santa
+  Barbara, CA)","Composite Edge States in the $\nu=2/3$ Fractional Quantum Hall Regime","11 pages, REVTEX 3.0, two postrscript figures available upon request",,"10.1103/PhysRevLett.72.2624",,"cond-mat",,"  A generalized $\nu=2/3$ state, which unifies the edge-state pictures of
+MacDonald and of Beenakker is presented and studied in detail. Using an exact
+relation between correlation functions of this state and those of the Laughlin
+$\nu=1/3$ wave function, the correlation functions of the $\nu=2/3$ state are
+determined via a classical Monte Carlo calculation, for systems up to $50$
+electrons. It is found that as a function of the slope of the confining
+potential there is a sharp transition of the ground state from one description
+to the other. The experimental implications are discussed.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 22:28:05 GMT""}]","2009-10-22"
+"cond-mat/9311050",,"D.K.K. Lee and J.T. Chalker","A Unified Model for Two Localisation Problems: Electron States in
+  Spin-Degenerate Landau Levels, and in a Random Magnetic Field","7 pages (RevTeX 3.0) plus 4 postscript figures","Phys. Rev. Lett. 72, 1510 (1994)","10.1103/PhysRevLett.72.1510",,"cond-mat",,"  A single model is presented which represents both of the two apparently
+unrelated localisation problems of the title. The phase diagram of this model
+is examined using scaling ideas and numerical simulations. It is argued that
+the localisation length in a spin-degenerate Landau level diverges at two
+distinct energies, with the same critical behaviour as in a spin-split Landau
+level, and that all states of a charged particle moving in two dimensions, in a
+random magnetic field with zero average, are localised.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1993 01:10:16 GMT""}]","2011-08-05"
+"hep-lat/9311025","George Savvidy K","N.Z.Akopov, E.M.Madounts, A.B.Nersesian, G.K.Savvidy and W.Greiner","Fast K System Generators of Pseudorandom Numbers","6 pages, a bug in the old LaTex file is fixed",,,"Crete-TH-7-July-1993","hep-lat","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We suggest fast algorithm for the matrix generator of pseudorandom numbers
+based on Kolmogorov-Anosov K systems which has been proposed earlier. This
+algorithm reduces $N^{2}$ operation of the matrix generator to $NlnN$ and
+essentially reduces the generation time. It also clarifies the algebraic
+structure of this type of K system generators.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 23:08:44 GMT""},{""version"":""v2"",""created"":""Tue, 5 Apr 2022 12:53:36 GMT""}]","2022-04-06"
+"hep-lat/9311026","Savvidy","G.K.Savvidy and K.G.Savvidy","Self-Avoiding Gonihedric Srting and Spin Systems","Preprint CRETE-TH-21, October 1993,8 pages,Latex","Phys.Lett. B324 (1994) 72-77","10.1016/0370-2693(94)00114-6",,"hep-lat",,"  We classify different theories of self-intersecting random surfaces assigning
+special weights to intersections. When self-intersection coupling constant
+$\kappa$ tends to zero, then the surface can freely inetrsect and it is
+completely self-avoiding when $\kappa$ tends to infinity. Equivalent spin
+systems for this general case were constructed. In two-dimension the system
+with $\kappa = 0$ is in complete disorder as it is in the case of 2D gauge
+Ising system.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 23:07:31 GMT""}]","2009-10-22"
+"hep-lat/9311028","Christian B. Lang","H. Gausterer and C.B. Lang","On the Phase Structure of the Schwinger Model with Wilson Fermions","3 pages (2 figures), POSTSCRIPT-file (174 KB), Contribution to
+  Lattice 93, preprint UNIGRAZ-UTP 19-11-93","Nucl.Phys.Proc.Suppl. 34 (1994) 201-203","10.1016/0920-5632(94)90344-1",,"hep-lat",,"  We study the phase structure of the massive one flavour lattice Schwinger
+model on the basis of the finite size scaling behaviour of the partition
+function zeroes. At $\beta = 0$ we observe and discuss a possible discrepancy
+with results obtained by a different method.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 17:52:03 GMT""}]","2009-10-22"
+"hep-lat/9311029","Christian B. Lang","R. Kenna and C.B. Lang","Scaling and Density of Lee-Yang Zeroes in the Four Dimensional Ising
+  Model","17 pages (4 figures), LaTeX + POSTSCRIPT-file, preprint UNIGRAZ-UTP
+  20-11-93","Phys.Rev.E49:5012,1994","10.1103/PhysRevE.49.5012",,"hep-lat",,"  The scaling behaviour of the edge of the Lee--Yang zeroes in the four
+dimensional Ising model is analyzed. This model is believed to belong to the
+same universality class as the $\phi^4_4$ model which plays a central role in
+relativistic quantum field theory. While in the thermodynamic limit the scaling
+of the Yang--Lee edge is not modified by multiplicative logarithmic
+corrections, such corrections are manifest in the corresponding finite--size
+formulae. The asymptotic form for the density of zeroes which recovers the
+scaling behaviour of the susceptibility and the specific heat in the
+thermodynamic limit is found to exhibit logarithmic corrections too. The
+density of zeroes for a finite--size system is examined both analytically and
+numerically.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1993 11:42:44 GMT""}]","2011-07-19"
+"hep-ph/9311316","Eduardo de Rafael","Eduardo de Rafael","Hadronic Contributions to the Muon $g-2$ and Low-Energy QCD","17 pages, CPT-93/P.2962, 4 figures available by request from the
+  author","Phys.Lett. B322 (1994) 239-246","10.1016/0370-2693(94)91114-2",,"hep-ph",,"  The contributions to the muon anomalous magnetic moment from hadronic vacuum
+polarization and from hadronic light-by-light scattering are reexamined within
+the frame work of chiral perturbation theory; the $1/N_c$-expansion; and the
+extended Nambu Jona-Lasinio model of low-energy QCD.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 16:35:26 GMT""}]","2009-10-22"
+"hep-ph/9311317","Lee Jaeyoung","C. W. Kim and J. A. Lee","Maximally-Mixed Three Generations of Neutrinos and the Solar and
+  Atmospheric Neutrino Problems","20pages, plain LaTeX, JHU-TIPAC-930023",,,,"hep-ph",,"  Motivated by the indication that both the Solar and the atmospheric neutrino
+puzzles may simultaneously be solved by (vacuum as well as matter-induced
+resonant) oscillations of two generations of neutrinos with large mixing, we
+have analyzed the data on the Solar and atmospheric neutrinos assuming that all
+{\it three} neutrinos are maximally mixed. It is shown that the results of
+two-generation analyses are still valid even in the three-generation scheme,
+{\it i.e.}, the two puzzles can be solved simultaneously if $\Delta m_{21}^2 =
+m_2^2-m_1^2\simeq 10^{-10}\mbox{eV}^2$ and $\Delta m_{31}^2 = 10^{-3}\sim
+10^{-1}\mbox{eV}^2$. We have also demonstrated explicitly that with the use of
+the see-saw mechanism it is possible to have large or maximal mixings for
+neutrinos even though their masses are highly non-degenerate.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 16:38:27 GMT""}]","2007-05-23"
+"hep-ph/9311318",,"G. D'Ambrosio and N. Paver","Kaon decay interferometry as meson dynamics probes","15 pages, in RevTex, Report INFNNA-IV-93-31, UTS-DFT-93-29","Phys.Rev.D49:4560-4569,1994","10.1103/PhysRevD.49.4560",,"hep-ph",,"  We discuss the time dependent interferences between $K_L$ and $K_S$ in the
+decays in $3\pi$ and $\pi\pi\gamma$, to be studied at interferometry machines
+such as the $\phi$-factory and LEAR. We emphasize the possibilities and the
+advantages of using interferences, in comparison with width measurements, to
+obtain information both on $CP$ conserving and $CP$ violating amplitudes.
+Comparison with present data and suggestions for future experiments are made.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 18:17:42 GMT""}]","2010-11-01"
+"hep-ph/9311319",,"Joao P. Nunes and Howard J. Schnitzer","The Cutoff $\lambda \phi^4$ O(N) Model in the Large N Limit","17 pages, BRX--TH--351-rev, Additional references; a note added,
+  additional section on double scaling limit, and enlarged discussion section","Int.J.Mod.Phys. A10 (1995) 719-738","10.1142/S0217751X95000334",,"hep-ph hep-th",,"  A cutoff version of the $\lambda \phi^4$ O(N) model is considered to leading
+order in 1/N with particular attention to the effective potential, which is
+surprisingly rich in structure. With suitable restriction on a background
+classical field, one finds a phenomenologically viable model with spontaneously
+broken symmetry, a potential bounded below, and amplitudes free of tachyons.
+The model has an O(N-1) singlet resonance in both weak and strong coupling,
+which can be interpreted as the Higgs meson in applications. Further, an
+unphysical resonance, which can be used to define a triviality scale for the
+model, appears at a mass above the cutoff mass $\L$. The phenomelogical aspects
+of our discussion are consistent with previous studies of closely related
+models by Heller, {\it et al.}
+  The question of the double-scaling limit for the cutoff model is considered
+as an application of the effective potential. It is shown that the
+double-scaling limit is not possible.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 18:09:00 GMT""},{""version"":""v2"",""created"":""Fri, 11 Feb 1994 17:28:00 GMT""}]","2009-10-22"
+"hep-ph/9311320","John Terning","Thomas Appelquist and John Terning","An Extended Technicolor Model","35 pages, Latex, YCTP-P21-93, BUHEP-93-23","Phys.Rev.D50:2116-2126,1994","10.1103/PhysRevD.50.2116",,"hep-ph",,"  An extended technicolor model is constructed. Quark and lepton masses,
+spontaneous CP violation, and precision electroweak measurements are discussed.
+Dynamical symmetry breaking is analyzed using the concept of the BIG MAC.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 19:58:13 GMT""}]","2010-11-01"
+"hep-ph/9311321","Holger Bech Nielsen","D.L.Bennett H.B.Nielsen","Prediction for Nonabelian Fine Structure Constants from Multicriticality","42, NBI-HE-93-22","Int.J.Mod.Phys. A9 (1994) 5155-5200","10.1142/S0217751X94002090",,"hep-ph",,"  In developing a model for predicting the nonabelian gauge coupling constants
+we argue for the phenomenological validity of a ``principle of multiple point
+criticality''. This is supplemented with the assumption of an ``(grand)
+anti-unified'' gauge group $SMG^{N_{gen.}}\sim U(1)^{N_{gen.}}\times
+SU(2)^{N_{gen.}}\times SU(3)^{N_{gen.}}$ that, at the Planck scale, breaks down
+to the diagonal subgroup. Here $N_{gen}$ is the number of generations which is
+assumed to be 3. According to this ``multiple point criticality principle'',
+the Planck scale experimental couplings correspond to multiple point couplings
+of the bulk phase transition of a lattice gauge theory (with gauge group
+$SMG^{N_{gen.}}$). Predictions from this principle agree with running
+nonabelian couplings (after an extrapolation to the Planck scale using the
+assumption of a ``desert'') to an accuracy of 7\%. As an explanation for the
+existence of the multiple point, a speculative model using a glassy lattice
+gauge theory is presented.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 20:01:20 GMT""}]","2015-06-25"
+"hep-ph/9311322","Sean Fleming Northwestern Univ.","Michael A. Doncheski, Sean Fleming, and Michelangelo L. Mangano","Charmonium Production via Fragmentation","6 pages, FERMILAB-CONF-93/348-T",,,,"hep-ph",,"  We present the preliminary results of a calculation of the fragmentation
+contribution to charmonium production at large transverse momentum in
+$p\bar{p}$ colliders. The fragmentation of gluons and charm quarks is the
+dominant direct production mechanism for sufficiently large $p_{\perp}$. We
+find that for both $J/\psi$ and $\psi '$ production fragmentation dominates
+over the conventional gluon-gluon fusion mechanism for $p_{\perp}$ greater than
+about 6 GeV.} Presented at the Workshop on Physics at Current Accelerator and
+the Supercollider, Argonne National Laboratory, June 1993.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1993 05:32:51 GMT""}]","2009-09-25"
+"hep-th/9311119","Jacek Szmigielski","Jacek Szmigielski","On Soliton Content of Self Dual Yang-Mills Equations","11 pages, plain Tex","Phys.Lett. A183 (1993) 293-300","10.1016/0375-9601(93)90459-D",,"hep-th nlin.SI solv-int",,"  Exploiting the formulation of the Self Dual Yang-Mills equations as a
+Riemann-Hilbert factorization problem, we present a theory of pulling back
+soliton hierarchies to the Self Dual Yang-Mills equations. We show that for
+each map $ \C^4 \to \C^{\infty } $ satisfying a simple system of linear
+equations formulated below one can pull back the (generalized) Drinfeld-Sokolov
+hierarchies to the Self Dual Yang-Mills equations. This indicates that there is
+a class of solutions to the Self Dual Yang-Mills equations which can be
+constructed using the soliton techniques like the $\tau$ function method. In
+particular this class contains the solutions obtained via the symmetry
+reductions of the Self Dual Yang-Mills equations. It also contains genuine 4
+dimensional solutions . The method can be used to study the symmetry reductions
+and as an example of that we get an equation exibiting breaking solitons,
+formulated by O. Bogoyavlenskii, as one of the $2 + 1 $ dimensional reductions
+of the Self Dual Yang-Mills equations.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 20:34:15 GMT""}]","2009-10-22"
+"hep-th/9311120",,"M.J.Duff, Ramzi R. Khuri, Ruben Minasian, Joachim Rahmfeld","New Black Hole, String and Membrane Solutions of the Four-Dimensional
+  Heterotic String","13 pages, CTP/TAMU-49/93, CERN-TH.7088/93","Nucl.Phys.B418:195-205,1994","10.1016/0550-3213(94)90244-5",,"hep-th",,"  We present solutions of the low-energy four-dimensional heterotic string
+corresponding to $p$-branes with $p=0,1,2$, which are characterized by a mass
+per unit $p$-volume, ${\cal M}_{p+1}$, and topological ``magnetic'' charge,
+$g_{p+1}$. In the extremal limit, $\sqrt{2} \kappa {\cal M}_{p+1} = g_{p+1}$,
+they reduce to the recently discovered non-singular supersymmetric monopole,
+string and domain wall solutions. A novel feature is that the solutions involve
+both the dilaton and the modulus fields. In particular, the effective scalar
+coupling to the Maxwell field, $e^{-\alpha \phi} F_{\mu\nu} F^{\mu\nu}$, gives
+rise to a new string black hole with $\alpha = \sqrt{3}$, in contrast to the
+pure dilaton black hole solution which has $\alpha=1$. This means that
+electric/magnetic duality in $D=4$ may be seen as a consequence of
+string/fivebrane duality in $D=10$.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 21:38:55 GMT""}]","2011-07-19"
+"hep-th/9311123",,"Alexander Turbiner and Gerhard Post","Operator Identities, Representations of Algebras and the Problem of
+  Normal Ordering","AmsLatex, pp.5, Preprint CRN 93-53 (November 1993)","J.Phys. A27 (1994) L9-L14","10.1088/0305-4470/27/2/002",,"hep-th",,"  Families of operator identities appeared as a consequence of an existence of
+finite-dimensional representation of (super) Lie algebras of first-order
+differential operators and $q$-deformed (quantum) algebras of first-order
+finite-difference operators are presented. It is shown that those identities
+can be rewritten in terms of creation/annihilation operators and it leads to a
+simplification of the problem of the normal ordering in the second quantization
+method.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1993 10:11:18 GMT""}]","2009-10-22"
+"hep-th/9311124","Stefan Mashkevich","E.V.Gorbar and S.V.Mashkevich","Distance dependent statistics in a P,T-invariant model","8 pages, LATEX, Kiev Institute for Theoretical Physics preprint
+  ITP-93-16E","Zeitschr.f.Phys. C 65 (1995) 705",,,"hep-th",,"  It is shown that in the P,T-invariant model with the mixed Chern-Simons term
+the interaction of charge carriers leads to effective changing of their
+statistics, which depends on distance between them. In particular, in the limit
+of large distances fermions effectively turn into bosons.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1993 15:19:21 GMT""}]","2007-05-23"
+"nucl-th/9311018",,"R. Rapp and J. Wambach","Pion Properties in a Hot $\Pi N \Delta$ Gas","20 pages in Latex, 5 figures available on request from the authors,
+  UIUC preprint P-93-11-096","Nucl.Phys.A573:626-640,1994","10.1016/0375-9474(94)90233-X",,"nucl-th",,"  Based on a recent meson-exchange model for the vacuum $\pi\pi$ interaction we
+compute selfconsistently the in-medium $\pi\pi$ scattering amplitude and pion
+selfenergy in a hot $\pi N\Delta$ gas. The contributions to the pion selfenergy
+are calculated from the $\pi\pi$ T-matrix as well as from p-wave interaction
+with nucleons and thermally abundant $\Delta$'s. Results are presented for two
+scenarios believed to be realized in the relativistic heavy ion collisions
+performed at the GSI-SIS and the CERN-SpS. Possible implications for the
+observed soft pion enhancement at both SIS and SpS are indicated.
+","[{""version"":""v1"",""created"":""Sat, 20 Nov 1993 00:00:37 GMT""}]","2010-11-01"
+"patt-sol/9311005","Jorge Vinals","Wenbin Zhang and Jorge Vinals (Supercomputer Computations Research
+  Institute, Florida State University, Tallahassee, Florida)","Secondary Instabilities and Spatiotemporal Chaos in Parametric Surface
+  Waves",,"Phys. Rev. Lett. 74, 690 (1995)","10.1103/PhysRevLett.74.690",,"patt-sol chao-dyn cond-mat nlin.CD nlin.PS",,"  A two dimensional model is introduced to study pattern formation, secondary
+instabilities and the transition to spatiotemporal chaos (weak turbulence) in
+parametric surface waves. The stability of a periodic standing wave state above
+onset is studied against Eckhaus, zig-zag and transverse amplitude modulations
+(TAM) as a function of the control parameter $\varepsilon$ and the detuning. A
+mechanism leading to a finite threshold for the TAM instability is identified.
+Numerical solutions of the model are in agreement with the stability diagram,
+and also reveal the existence of a transition to spatiotemporal chaotic states
+at a finite $\varepsilon$. Power spectra of temporal fluctuations in the
+chaotic state are broadband, decaying as a power law of the frequency
+$\omega^{-z}$ with $z \approx 4.0$.
+","[{""version"":""v1"",""created"":""Fri, 19 Nov 1993 19:32:23 GMT""}]","2009-10-22"

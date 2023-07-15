@@ -1,0 +1,191 @@
+"cond-mat/9301031",,"V.E. Korepin, A.G.Izergin, N.M.Bogoliubov","Quantum Inverse Scattering Method and Correlation Functions","forward to a book. Submission is TeX without necessary input files
+  and so cannot be processed. The full content was not uploaded",,,,"cond-mat",,"  The book contain detailed explanation of Bethe Ansatz, Quantum Inverse
+Scattering Method and Algebraic Bether Ansatz as well. Main Models are
+Nonlinear Schrodinger equation (one dimensional Bose gas), Sine-Gordon and
+Thiring models. Heisenberg Antiferromagnet and Hubbard models. It is explained
+in detail, how to calculate correlation functions.
+","[{""version"":""v1"",""created"":""Mon, 25 Jan 1993 20:43:24 GMT""}]","2007-05-23"
+"cond-mat/9301033","Christian Pich","C.Pich and F.Schwabl","Order of Two-Dimensional Isotropic Dipolar Antiferromagnets","10 pages, REVTEX, 1 figure available upon request, TUM-CP-93-01",,"10.1103/PhysRevB.47.7957",,"cond-mat",,"  The question of the existence of order in two-dimensional isotropic dipolar
+Heisenberg antiferromagnets is studied. It is shown that the dipolar
+interaction leads to a gap in the spin-wave energy and a nonvanishing order
+parameter. The resulting finite N\'eel-temperature is calculated for a square
+lattice by means of linear spin-wave theory.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 12:32:16 GMT""}]","2009-10-22"
+"gr-qc/9301020","Domenico Giulini","Domenico Giulini","On the configuration space topology in general relativity","Plain-Tex, 33 pages, no figures, Freiburg THEP-92/32","Helv.Phys.Acta 68 (1995) 86-111",,,"gr-qc",,"  The configuration-space topology in canonical General Relativity depends on
+the choice of the initial data 3-manifold. If the latter is represented as a
+connected sum of prime 3-manifolds, the topology receives contributions from
+all configuration spaces associated to each individual prime factor. There are
+by now strong results available concerning the diffeomorphism group of prime
+3-manifolds which are exploited to examine the topology of the configuration
+spaces in terms of their homotopy groups. We explicitly show how to obtain
+these for the class of homogeneous spherical primes, and communicate the
+results for all other known primes except the non-sufficiently large ones of
+infinite fundamental group.
+","[{""version"":""v1"",""created"":""Mon, 25 Jan 1993 18:26:03 GMT""}]","2007-05-23"
+"hep-lat/9301017","Gyan Bhanot","G. Bhanot, M. Creutz, U. Glassner, I. Horvath, J. Lacki, K. Schilling,
+  J. Weckel","Low Temperature Expansions for Potts Models","(17 pages + 8 figures)",,"10.1103/PhysRevB.48.6183",,"hep-lat hep-th",,"  On simple cubic lattices, we compute low temperature series expansions for
+the energy, magnetization and susceptibility of the three-state Potts model in
+D=2 and D=3 to 45 and 39 excited bonds respectively, and the eight-state Potts
+model in D=2 to 25 excited bonds. We use a recursive procedure which enumerates
+states explicitly. We analyze the series using Dlog Pade analysis and
+inhomogeneous differential approximants.
+","[{""version"":""v1"",""created"":""Mon, 25 Jan 1993 23:15:17 GMT""}]","2009-10-22"
+"hep-ph/9301267","Leszek Roszkowski","R.G. Roberts and L. Roszkowski","Implications for Minimal Supersymmetry from Grand Unification and the
+  Neutralino Relic Abundance","13 pages of text in Latex plus two figures in PostScript format
+  attached at the end of the tex file; University of Michigan preprint
+  UM-TH-33-92 (December 1992); no changes in text in the replaced version,
+  merely a few minor system incompatibilities (spaces etc.) corrected","Phys.Lett. B309 (1993) 329-336","10.1016/0370-2693(93)90941-A",,"hep-ph",,"  We examine various predictions of the minimal supersymmetric standard model
+coupled to minimal supergravity. The model is characterised by a small set of
+parameters at the unification scale. The supersymmetric particle spectrum at
+low energy and the spontaneous breaking of the standard model itself are then
+generated radiatively. The previously considered predictions of the model now
+include the neutralino relic density which in turn provides bounds on the scale
+parameters. We find a remarkable consistency among several different
+constraints which imply all supersymmetric particle masses preferably within
+the reach of future supercolliders (LHC and SSC). The requirement that the
+neutralino be the dominant component of (dark) matter in the flat Universe
+provides a {\em lower} bound on the spectrum of supersymmetric particles beyond
+the reach of LEP, and most likely also the Tevatron and LEP 200.
+","[{""version"":""v1"",""created"":""Mon, 25 Jan 1993 18:29:49 GMT""}]","2009-10-22"
+"hep-ph/9301268","Faraggi Alon","Alon E. Faraggi","Gauge Coupling Unification in Superstring Derived Standard--like Models","WIS--92/17/FEB--PH, 12 pages","Phys.Lett. B302 (1993) 202-208","10.1016/0370-2693(93)90385-U",,"hep-ph hep-th",,"  I discuss gauge coupling unification in a class of superstring standard--like
+models, which are derived in the free fermionic formulation. Recent
+calculations indicate that the superstring unification scale is at
+$O(10^{18}GeV)$ while the minimal supersymmetric standard model is consistent
+with LEP data if the unification scale is at $O(10^{16})GeV$. A generic feature
+of the superstring standard--like models is the appearance of extra color
+triplets $(D,{\bar D})$, and electroweak doublets $(\ell,{\bar\ell})$, in
+vector--like representations, beyond the minimal supersymmetric standard model.
+I show that gauge coupling unification at $O(10^{18}GeV)$ in the superstring
+standard--like models can be consistent with LEP data. I present an explicit
+standard--like model that can realize superstring gauge coupling unification.
+","[{""version"":""v1"",""created"":""Mon, 25 Jan 1993 21:58:08 GMT""}]","2009-10-22"
+"hep-ph/9301269","V. Belyaev","V.M.Belyaev","Soft Modes Contribution into Path Integral","16 pages, 1 Figure, CEBAF-93-03.(Standard LATEX file)","Int.J.Mod.Phys.A8:4019-4030,1993","10.1142/S0217751X93001648",,"hep-ph",,"  A method for nonperturbative path integral calculation is proposed.
+  Quantum mechanics as a simplest example of a quantum field theory is
+considered. All modes are decomposed into hard (with frequencies $\omega^2
+>\omega^2_0$) and soft (with frequencies $\omega^2 <\omega^2_0$) ones,
+$\omega_0$ is a some parameter. Hard modes contribution is considered by weak
+coupling expansion. A low energy effective Lagrangian for soft modes is used.
+In the case of soft modes we apply a strong coupling expansion. To realize this
+expansion a special basis in functional space of trajectories is considered. A
+good convergency of proposed procedure in the case of potential $V(x)=\lambda
+x^4$ is demonstrated. Ground state energy of the unharmonic oscillator is
+calculated.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 00:25:40 GMT""},{""version"":""v2"",""created"":""Tue, 26 Jan 1993 20:27:57 GMT""}]","2014-11-17"
+"hep-ph/9301270",,"Harry J. Lipkin","Application of M\""ossbauer-Type Sum Rules for $B$ Meson Decays","9 pages","Phys.Lett. B308 (1993) 105-110","10.1016/0370-2693(93)90609-L",,"hep-ph",,"  Sum rules originally derived for the M\""ossbauer Effect are applied to weak
+semileptonic B decays. The sum rules follow from assuming that the decay by
+electroweak boson emission of an unstable nucleus or heavy quark in a bound
+system is described by a pointlike coupling to a current which acts only on the
+decaying object, that the Hamiltonian of the bound state depends on the
+momentum of the decaying object only in the kinetic energy and that the boson
+has no final state interactions. The decay rate and the first and second
+moments of the boson energy spectrum for fixed momentum transfer are shown to
+be the same as for a noninteracting gas of such unstable objects with a
+momentum distribution the same as that of the bound state. B meson semileptonic
+decays are shown to be dominated by the lowest-lying states in the charmed
+meson spectrum.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 10:07:00 GMT""}]","2009-10-22"
+"hep-ph/9301271",,"M. Reuter, N. Tetradis and C. Wetterich","The Large N Limit and the High Temperature Phase Transition for the
+  \phi^4 Theory","DESY-93-004, 23 pages, 2 figures available by fax upon request","Nucl.Phys. B401 (1993) 567-590","10.1016/0550-3213(93)90314-F",,"hep-ph",,"  We study, with various methods (standard large N evaluation of the functional
+integral for the effective potential, solution of the Schwinger-Dyson
+equations), the high temperature phase transition for the $N$-component
+$\phi^4$ theory in the large $N$ limit. Our results fully confirm a previous
+investigation of the problem, for arbitrary $N$, with the method of the average
+potential which employs renormalization group ideas. The phase transition is of
+the second order with an effectively three-dimensional critical behaviour. }
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 09:53:29 GMT""}]","2009-10-22"
+"hep-ph/9301272",,"G. Cvetic, M. Nowakowski and A. Pilaftsis","CP-Violation with Bosons","LaTeX, DO-TH/92-22, MZ-TH/92-52","Phys.Lett.B301:77-82,1993","10.1016/0370-2693(93)90724-V",,"hep-ph",,"  We formulate the conditions under which a purely bosonic theory (without
+fermions) containing neutral spin-0 particles and vector (gauge) bosons
+violates the CP-symmetry through the presence of CP-even and CP-odd operators
+in the Lagrangian. This is done without reference to explicitly CP-violating
+scalar sector of extended standard models (SM) with two or more Higgs doublets.
+The Lagrangian expressed in the mass basis of the spin-0 fields can, however,
+in certain cirumstances be identified with a part of the CP-violating SM with
+two Higgs doublets. It is instructive to consider the manifestation of
+CP-violation in the mass basis since this leads directly to suggestions of
+genuine CP-signals.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 11:31:00 GMT""}]","2010-11-01"
+"hep-ph/9301273",,"A. Pilaftsis and M. Nowakowski","CP-odd Neutral Higgs Effects in Top -- anti-Top Production","28 pages(2 Figs not included), LaTeX, MZ-TH/92-56","Int.J.Mod.Phys.A9:1097-1114,1994; ERRATUM-ibid.A9:5849,1994","10.1142/S0217751X94000509",,"hep-ph",,"  We study $CP$ violation in the process $e^+e^- \to t\bar{t} \nu\bar{\nu}$ at
+an $e^+e^-$-TeV collider. As the source of $CP$ violation we assume a two-Higgs
+doublet model with an explicitly $CP$-noninvariant Higgs potential. Sizeable
+$CP$-odd observables originating from the subprocess reaction, $W^+W^- \to
+t\bar{t}$, may arise as a result of finite width effects of the neutral Higgs
+particles. $CPT$ constraints due to final (initial) state interactions are also
+taken into account. Numerical estimates of the $CP$ asymmetry are given.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 11:44:00 GMT""}]","2010-11-01"
+"hep-ph/9301274","Claudio Coriano","Claudio Coriano', Anatoly Radyushkin and George Sterman","QCD Sum Rules and Compton Scattering","30 pages in Latex, 6 figures not included, available upon request
+  (send email to: claudio@max.physics.sunysb.edu), ITP-SB-92-70, CEBAF-TH-92-32","Nucl.Phys.B405:481-506,1993","10.1016/0550-3213(93)90556-5",,"hep-ph",,"  We extend QCD sum rule analysis to moderate energy fixed angle Compton
+scattering. In this kinematic region there is a strong similarity to the sum
+rule treatment of electromagnetic form factors, although the four-point
+amplitude requires a modification of the Borel transform. To illustrate our
+method, we derive the sum rules for helicity amplitudes in pion Compton
+scattering and estimate their large-$t$ behavior in the local duality
+approximation.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 15:48:11 GMT""}]","2014-11-17"
+"hep-th/9301101","Domenico Giulini","Domenico Giulini","On the possibility of spinorial quantization in the Skyrme model","Plain-Tex, 9 pages, no figures, Freiburg THEP-92/33","Mod. Phys. Lett. A8 (1993) 1917-1924","10.1142/S0217732393001641",,"hep-th",,"  We consider the configuration space of the Skyrme model and give a simple
+proof that loops generated by full spatial rotations are contractible in the
+even-, and non-contractible in the odd-winding-number sectors.
+","[{""version"":""v1"",""created"":""Mon, 25 Jan 1993 18:21:53 GMT""}]","2015-06-26"
+"hep-th/9301102","Kimyeong Lee","Kimyeong Lee","The Dual Formulation of Cosmic Strings and Vortices","18 pages, CU-TP-588 and CERN-TH.6780/93","Phys.Rev. D48 (1993) 2493-2498","10.1103/PhysRevD.48.2493",,"hep-th",,"  We study four dimensional systems of global, axionic and local strings. By
+using the path integral formalism, we derive the dual formulation of these
+systems, where Goldstone bosons, axions and missive vector bosons are described
+by antisymmetric tensor fields, and strings appear as a source for these tensor
+fields. We show also how magnetic monopoles attached to local strings are
+described in the dual formulation. We conclude with some remarks.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 03:23:43 GMT""}]","2009-10-22"
+"hep-th/9301103","Poul H. Damgaard","J. Alfaro and P.H. Damgaard","Origin of Antifields in the Batalin-Vilkovisky Lagrangian Formalism","36 pages, LaTeX, CERN--TH-6788/93","Nucl.Phys. B404 (1993) 751-793","10.1016/0550-3213(93)90596-H",,"hep-th",,"  The antifields of the Batalin-Vilkovisky Lagrangian quantization are standard
+antighosts of certain collective fields. These collective fields ensure that
+Schwinger-Dyson equations are satisfied as a consequence of the gauge symmetry
+algebra. The associated antibracket and its canonical structure appear
+naturally if one integrates out the corresponding ghost fields. An analogous
+Master Equation for the action involving these ghosts follows from the
+requirement that the path integral gives rise to the correct Schwinger-Dyson
+equations.
+","[{""version"":""v1"",""created"":""Mon, 25 Jan 1993 22:05:56 GMT""}]","2009-10-22"
+"hep-th/9301104","Harnad John","J.Harnad and M.-A. Wisse","Moment Maps to Loop Algebras, Classical R-Matrix and Integrable Systems","preprint CRM-1854 (1993), 12 pgs, AMSTeX. (To appear in proc. of the
+  NSERC-CAP Workshop on Quantum Groups, Integrable Models and Statistical
+  Systems, Kingston, Canada, July 13-17 1992.)","in: ""Quantum Groups Integrable Models and Statistical Systems"",
+  World Scientific, Singapore (1993), ed. J. Letourneux and L. Vinet",,,"hep-th",,"  A class of Poisson embeddings of reduced, finite dimensional symplectic
+vector spaces into the dual space $\Lg_R^*$ of a loop algebra, with Lie Poisson
+structure determined by the classical split $R$--matrix $R=P_+ - P_-$ is
+introduced. These may be viewed as equivariant moment maps inducing natural
+Hamiltonian actions of the ``dual'' group $\LG_R = \LGp \times \LGm$ of a loop
+group $\LG$ on the symplectic space. The $R$--matrix version of the
+Adler-Kostant-Symes theorem is used to induce commuting flows determined by
+isospectral equations of Lax type. The compatibility conditions determine
+finite dimensional classes of solutions to integrable systems of PDE's, which
+can be integrated using the standard Liouville-Arnold approach. This involves
+an appropriately chosen ``spectral Darboux'' (canonical) coordinate system in
+which there is a complete separation of variables. As an example, the method is
+applied to the determination of finite dimensional quasi-periodic solutions of
+the sine-Gordon equation.
+","[{""version"":""v1"",""created"":""Mon, 25 Jan 1993 22:40:57 GMT""},{""version"":""v2"",""created"":""Thu, 28 Jan 1993 05:12:34 GMT""}]","2008-02-03"
+"hep-th/9301105",,"S. Chaudhuri and D. Minic","On the Black Hole Background of Two-Dimensional String Theory","8 pages, LATEX, UTTG-30-92","Phys.Lett. B312 (1993) 79-82","10.1016/0370-2693(93)90491-Y",,"hep-th",,"  The classical black hole background of two-dimensional string theory is
+examined after including the effect of the tachyon field. Keeping all terms
+upto $O(T^2)$, and making no other approximations, the only consistent
+classical solution to the resulting dilaton-graviton theory is found to be flat
+spacetime with a nontrivial dilaton.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 02:31:04 GMT""}]","2009-10-22"
+"hep-th/9301106","E. Elizalde","E. Elizalde, S. Naftulin and S.D. Odintsov","Convenient Versus Unique Effective Action Formalism in 2D
+  Dilaton-Maxwell Quantum Gravity","25 pages, LaTeX file, HUPD-93-03","Z.Phys.C60:327-336,1993","10.1007/BF01474630",,"hep-th",,"  The structure of one-loop divergences of two-dimensional dilaton-Maxwell
+quantum gravity is investigated in two formalisms: one using a convenient
+effective action and the other a unique effective action. The one-loop
+divergences (including surface divergences) of the convenient effective action
+are calculated in three different covariant gauges: (i) De Witt, (ii)
+$\Omega$-degenerate De Witt, and (iii) simplest covariant. The on-shell
+effective action is given by surface divergences only (finiteness of the
+$S$-matrix), which yet depend upon the gauge condition choice.
+  Off-shell renormalizability is discussed and classes of renormalizable
+dilaton and Maxwell potentials are found which coincide in the cases of
+convenient and unique effective actions. A detailed comparison of both
+situations, i.e. convenient vs. unique effective action, is given. As an
+extension of the procedure, the one-loop effective action in two-dimensional
+dilaton-Yang-Mills gravity is calculated.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 09:50:31 GMT""}]","2010-05-07"
+"hep-th/9301107","Bengt Nilsson","Niclas Engberg, Bengt E.W Nilsson and Per Sundell","An Algorithm for Computing Four-Ramond Vertices at Arbitrary Level","31 pages, Latex, Goteborg ITP 92-56","Nucl.Phys.B404:187-214,1993","10.1016/0550-3213(93)90478-8",,"hep-th",,"  We perform the sewing of two (dual) Ramond reggeon vertices and derive an
+algorithm by means of which the so obtained four-Ramond reggeon vertex may be
+explicitly computed at arbitrary oscillator (mass) level. A closed form of the
+four-vertex is then deduced on the basis of a comparison to all terms obtained
+by sewing that contain only level zero and one oscillators. Results are
+presented for both complex fermions and for the previously studied case of real
+fermions.
+","[{""version"":""v1"",""created"":""Tue, 26 Jan 1993 13:20:22 GMT""}]","2011-07-19"

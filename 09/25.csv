@@ -1,0 +1,170 @@
+"astro-ph/9309036","Masahiro Kawasaki","M. Fukugita and M. Kawasaki","Reheating during Hierarchical Clustering in the Universe Dominated by
+  the Cold Dark Matter","uuencoded compressed 32 pages (LaTeX) + 12 figures (Postscript)
+  ICRR-Report-301-93-13",,"10.1093/mnras/269.3.563",,"astro-ph",,"  We investigate reheating of the universe by early formation of stars and
+quasars in the hierarchical clustering scheme of cold dark matter scenario,
+with perturbation fluctuations normalized by the COBE data. It is found that
+ionizing uv flux from OB stars with the abundance given by the standard initial
+mass function is strong enough to ionize the universe from $z\approx 30$ to the
+present epoch, if 1--2\% of the collapsed baryons go into stars. This lessens
+significantly the CMB anisotropies at a small angular scale. Reionization also
+increases the Jeans mass to $M_{\rm luminous}\approx 10^9M_\odot$ for $z\lsim
+10$, which leads to a cut-off of the luminosity function of normal galaxies on
+a faint side. A strong uv flux is expected at $z\approx 2-5$, and the null
+result of the Gunn-Peterson test is naturally explained. Early star formation
+also results in production of heavy elements, and the observational metal
+abundance sets a strong constraint on the photon energy injection into the
+intergalactic space.
+","[{""version"":""v1"",""created"":""Sat, 25 Sep 1993 06:10:23 GMT""}]","2015-06-24"
+"cond-mat/9309039","Duncan Haldane","F. D. M. Haldane and M. R. Zirnbauer","Exact calculation of the ground-state dynamical spin correlation
+  function of a S=1/2 antiferromagnetic Heisenberg chain with free spinons","11 pages, LaTeX, RevTeX 3.0, cond-mat/9309039",,"10.1103/PhysRevLett.71.4055",,"cond-mat hep-th",,"  We calculate the exact dynamical magnetic structure factor S(Q,E) in the
+ground state of a one-dimensional S=1/2 antiferromagnet with gapless free S=1/2
+spinon excitations, the Haldane-Shastry model with inverse-square exchange,
+which is in the same low-energy universality class as Bethe's nearest-neighbor
+exchange model. Only two-spinon excited states contribute, and S(Q,E) is found
+to be a very simple integral over these states.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 17:10:12 GMT""},{""version"":""v2"",""created"":""Tue, 28 Sep 1993 03:41:18 GMT""}]","2009-10-22"
+"cond-mat/9309040","Dierk Bormann","Dierk Bormann (Augsburg U) and Hans Beck (Neuchatel U)","Possible first order transition in the two-dimensional Ginzburg-Landau
+  model induced by thermally fluctuating vortex cores","36 pages, LaTeX, 6 figures upon request, UATP2-DB1-93","J. Stat. Phys. 76, 361-395 (1994)","10.1007/BF02188667",,"cond-mat",,"  We study the two-dimensional Ginzburg-Landau model of a neutral superfluid in
+the vicinity of the vortex unbinding transition. The model is mapped onto an
+effective interacting vortex gas by a systematic perturbative elimination of
+all fluctuating degrees of freedom (amplitude {\em and} phase of the order
+parameter field) except the vortex positions. In the Coulomb gas descriptions
+derived previously in the literature, thermal amplitude fluctuations were
+neglected altogether. We argue that, if one includes the latter, the vortices
+still form a two- dimensional Coulomb gas, but the vortex fugacity can be
+substantially raised. Under the assumption that Minnhagen's generic phase
+diagram of the two- dimensional Coulomb gas is correct, our results then point
+to a first order transition rather than a Kosterlitz-Thouless transition,
+provided the Ginzburg-Landau correlation length is large enough in units of a
+microscopic cutoff length for fluctuations. The experimental relevance of these
+results is briefly discussed. [Submitted to J. Stat. Phys.]
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 21:23:18 GMT""}]","2009-10-22"
+"cond-mat/9309041",,"Kikuo Harigaya and G. A. Gehring (Department of Physics, University of
+  Sheffield, Sheffield, United Kingdom)","Theory of an elastic anomaly in the heavy fermion system CeTe","submission to Phys. Rev. B, 16 pages, 3 figures (sent by the snail
+  mail)","Physica B 199&200 (1994) 18-19","10.1016/0921-4526(94)91722-1",,"cond-mat",,"  The elastic anomaly observed in the coherent Kondo state of Ce heavy fermion
+compounds is analyzed by using the Anderson lattice model simulating the energy
+level scheme of CeTe. The $\Gamma_7$ doublets and $\Gamma_8$ quartets of the 4f
+states are considered in the model. We solve the mean field equations to derive
+the temperature dependences of elastic constants, using the random phase
+approximation like expression for the interaction between the elastic strain
+and the crystalline field splitting. We compare the calculation with the
+$(c_{11} - c_{12})/2$ and $c_{44}$ constants of CeTe. The presence of the
+downward dip and the observed overall temperature variations of the two
+constants are well described by the present theory. The origin of the dip is
+the coupling between the elastic strain and the splitting of the $\Gamma_8$
+quartets.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 22:28:00 GMT""}]","2007-05-23"
+"gr-qc/9309025","Robert Caldwell","R. R. Caldwell","Green's function for gravitational waves in FRW spacetimes","9 pages, FERMILAB-Pub-93/189-A","Phys.Rev. D48 (1993) 4688-4692","10.1103/PhysRevD.48.4688",,"gr-qc astro-ph",,"  A method for calculating the retarded Green's function for the gravitational
+wave equation in Friedmann-Roberson-Walker spacetimes, within the formalism of
+linearized Einstein gravity is developed. Hadamard's general solution to
+Cauchy's problem for second-order, linear partial differential equations is
+applied to the FRW gravitational wave equation. The retarded Green's function
+may be calculated for any FRW spacetime, with curved or flat spatial sections,
+for which the functional form of the Ricci scalar curvature $R$ is known. The
+retarded Green's function for gravitational waves propagating through a
+cosmological fluid composed of both radiation and dust is calculated
+analytically for the first time. It is also shown that for all FRW spacetimes
+in which the Ricci scalar curvatures does not vanish, $R \neq 0$, the Green's
+function violates Huygens' principle; the Green's function has support inside
+the light-cone due to the scatter of gravitational waves off the background
+curvature.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 21:16:16 GMT""}]","2009-10-22"
+"gr-qc/9309026","Centro De Estudios Cientificos De Santia","M\'aximo Ba\~nados, Claudio Teitelboim and Jorge Zanelli","Black Hole Entropy and the Dimensional Continuation of the Gauss-Bonnet
+  Theorem","7 pages, RevTex","Phys.Rev.Lett.72:957-960,1994","10.1103/PhysRevLett.72.957",,"gr-qc",,"  The Euclidean black hole has topology $\Re^2 \times {\cal S}^{d-2}$. It is
+shown that -in Einstein's theory- the deficit angle of a cusp at any point in
+$\Re^2$ and the area of the ${\cal S}^{d-2}$ are canonical conjugates. The
+black hole entropy emerges as the Euler class of a small disk centered at the
+horizon multiplied by the area of the ${\cal S}^{d-2}$ there.These results are
+obtained through dimensional continuation of the Gauss-Bonnet theorem. The
+extension to the most general action yielding second order field equations for
+the metric in any spacetime dimension is given.
+","[{""version"":""v1"",""created"":""Sat, 25 Sep 1993 00:57:53 GMT""}]","2009-01-23"
+"hep-ph/9309323","Myron Bander","A. A. Anselm and Myron Bander","On the Distribution of Neutral and Charged Pions through the Production
+  of a Classical Pion Field","LaTex with Revtex III macros, 9 pages, UCI TR 93-32","JETP Lett.59:503-509,1994",,,"hep-ph",,"  High energy reactions may produce a state around the collision point that is
+best described by a classical pion field. Such a field might be an isospin
+rotated vacuum of the chiral $\sigma$-model or, as discussed in this work, a
+solution of the equations of motion resultinng from the coupling of fields of
+this model to quarks produced in the collision. In such configurations all
+directions in isospin space are allowed leading to a sizable probability of
+events with, essentially, only charged particles (Centauros) or all neutral
+particles (anti-Centauros). (In more common statistical models of multiparticle
+production, the probability of such events is suppressed exponentially by the
+total multiplicity.) We find that the isospin violation due to the mass
+difference of the up and down quarks has a significant effect on these
+distributions and enhances the production of events consisting predominantly of
+neutral particles.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 16:30:23 GMT""}]","2011-02-01"
+"hep-ph/9309324","Layssac Jacques","J. Layssac, F.M. Renard, G. Gounaris","Vector boson Pair Production at Supercolliders; useful approximate
+  helicity amplitudes","22 pages, 6 figures avaible by air mail upon request , (e-mail
+  layssac@lpmsun2.lpm.univ-montp2.fr PM/93-26 THES-TP 93/8","Z.Phys. C62 (1994) 139-150","10.1007/BF01559533",,"hep-ph",,"  We study vector boson pair production at $LHC$ and $SSC$, taking into account
+the effects generated by the anomalous vector boson and Higgs couplings induced
+by the operators ${\cal O}_W$ and ${\cal O}_{UW}$, which are the only dim=6
+operators preserving $SU(2)_c$. These operators lead to enhanced production of
+transverse vector bosons, as opposed to the enhanced production of longitudinal
+gauge bosons, induced in case $M_H\gsim 1\ TeV$, by dim=4 terms already
+existing in the Standard Model lagrangian. For vector boson pair masses larger
+than $1\ TeV$, we establish very simple approximate expressions for the
+standard as well as the non-standard helicity amplitudes for $q\bar q$
+annihilation and vector boson fusion, which accurately describe the physics.
+These expressions should simplify the experimental search for such
+interactions. We finally discuss the observability and the disentangling of
+these interactions.
+","[{""version"":""v1"",""created"":""Sat, 25 Sep 1993 15:14:09 GMT""},{""version"":""v2"",""created"":""Wed, 13 Oct 1993 09:56:05 GMT""}]","2019-08-17"
+"hep-th/9309132","Antonio Gabriel Oliveira Moreira","C. Aragone, P. J. Arias and A. Khoudeir","Light-Front Dynamics Of Massive Vector Chern-Simons Gravity","Pages 7",,,"SB\F-213","hep-th",,"  We present a second order gravity action which consists of ordinary Einstein
+action augmented by a first-order, vector like, Chern-Simons quasi topological
+term. This theory is ghost-free and propagates a pure spin-2 mode. It is
+diffeomorphism invariant, although its local Lorentz invariance has been
+spontaneuosly broken. We perform the light-front (LF) analysis for both the
+linearized system and the exact curved model. In constrast to the 2+1 canonical
+analysis, in the quasi LF coordinates the differential constraints can be
+solved. Its solution is presented here.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 16:04:13 GMT""}]","2007-05-23"
+"hep-th/9309134","Martin Schlichenmaier","Martin Bordemann, Eckhard Meinrenken and Martin Schlichenmaier","Toeplitz Quantization of K\""ahler Manifolds and $gl(N)$ $N\to\infty$","17 pages, AmsTeX 2.1, Sept. 93 (rev: only typos are corrected)","Commun.Math.Phys. 165 (1994) 281-296","10.1007/BF02099772","Mannheimer Manuskripte 147, Freiburg THEP 93/22","hep-th alg-geom funct-an math.AG math.FA",,"  For general compact K\""ahler manifolds it is shown that both Toeplitz
+quantization and geometric quantization lead to a well-defined (by operator
+norm estimates) classical limit. This generalizes earlier results of the
+authors and Klimek and Lesniewski obtained for the torus and higher genus
+Riemann surfaces, respectively. We thereby arrive at an approximation of the
+Poisson algebra by a sequence of finite-dimensional matrix algebras $gl(N)$,
+$N\to\infty$.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 16:20:17 GMT""},{""version"":""v2"",""created"":""Tue, 15 Feb 1994 17:10:45 GMT""},{""version"":""v3"",""created"":""Thu, 26 May 1994 16:03:02 GMT""}]","2009-10-22"
+"hep-th/9309135","Hubert Saleur","N.Yu Reshetikhin, H.Saleur","Lattice regularization of massive and massless integrable field theories","25 pages","Nucl.Phys. B419 (1994) 507-528","10.1016/0550-3213(94)90342-5",,"hep-th",,"  We show that integrable vertex and RSOS models with trigonometric Boltzmann
+weights and appropriate inhomogeneities provide a convenient lattice
+regularization for massive field theories and for the recently studied massless
+field theories that interpolate between two non trivial conformal field
+theories. Massive and massless S matrices are computed from the lattice Bethe
+ansatz.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 20:38:54 GMT""}]","2009-10-22"
+"hep-th/9309136",,"Daniel Armand-Ugon, Rodolfo Gambini, Pablo Mora","Intersecting Braids and Intersecting Knot Theory","14 pages (6 figures included)","J.Knot Theor.Ramifications 4:1-12,1995",,"IFFC-93-06","hep-th math.QA",,"  An extension of the Artin Braid Group with new operators that generate double
+and triple intersections is considered. The extended Alexander theorem,
+relating intersecting closed braids and intersecting knots is proved for double
+and triple intersections, and a counter example is given for the case of
+quadruple intersections. Intersecting knot invariants are constructed via
+Markov traces defined on intersecting braid algebra representations, and the
+extended Turaev representation is discussed as an example. Possible
+applications of the formalism to quantum gravity are discussed.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 21:03:26 GMT""}]","2009-09-01"
+"nucl-th/9309025",,"Bernard PICHON CNRS (Observatoire de Paris-Meudon)","Combinatorial Study of Nuclear Level Density for Astrophysical
+  Applications","17 pages (including 4 tables) in standard TeX, 5 figures (not
+  included, faxed upon request) Preprint number not available, Accepted for
+  publication in Nuclear Physics A Note that the correct ""From:"" field is (an
+  error due to our Vax mailer) : From: Bernard PICHON
+  <Pichon@mesiob.obspm.circe.fr>, Fax:(33-1)45077971",,,,"nucl-th astro-ph",,"  We present some results and remarks based on a combinatorial approach of the
+evaluation of the nuclear level density. First, we show that it is possible to
+extract some reliable information from the output of the program whose rough
+data present a strong statistical fluctuation from bin to bin. This includes
+smoothing and evaluation of the desired quantities. After some comments about
+the spin and parity distributions, we consider the question of the
+non-equipartition of parities, mainly, at low energies. Finally, we present a
+simple model to include and test this effect in the computation of
+thermonuclear reaction rates.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 17:30:03 GMT""}]","2007-05-23"
+"nucl-th/9309026","Fritz Coester","F. Coester and D.O. Riska","Electromagnetic Currents and the Blankenbecler-Sugar Equation","26 pages, ANL-PHY-7596-93, LaTeX",,"10.1006/aphy.1994.1076",,"nucl-th",,"  The effective electromagnetic current density for a two-nucleon system that
+is described by the Blankenbecler-Sugar equation is derived. In addition to the
+single nucleon currents there are exchange currents of two different origins.
+The first is the exchange current that is required to compensate for the
+violation of the continuity equation in the impulse approximation. The second
+is an exchange current, which arises in the quasipotential reduction from the
+Bethe-Salpeter equation, and which represents effects of suppressed degrees of
+freedom. Explicit general expressions are given for both of these exchange
+currents. The results are applicable to both elastic and inelastic processes.
+","[{""version"":""v1"",""created"":""Fri, 24 Sep 1993 21:27:13 GMT""}]","2009-10-22"

@@ -1,0 +1,198 @@
+"astro-ph/9308020","Maggie Best","B.T. Jannuzi, P.S. Smith & R. Elston","The Optical Polarization Properties of X-ray Selected BL Lacertae
+  Objects","LaTex file, 21 pages, with tables appended as a poscript file.
+  Contact best@sns.ias.edu for postscript figure files. Institute for Advanced
+  Study number AST 93/45","Astrophys.J.Suppl. 85 (1993) 265-291","10.1086/191765",,"astro-ph",,"  We discuss the optical polarization properties of X-ray selected BL Lacertae
+objects (XSBLs) as determined from three years of monitoring 37 BL Lac objects
+and candidates. The observed objects include a complete X-ray flux limited
+sample drawn from the EMS Survey. The majority of the XSBLs classi- fied solely
+on the appearance of their spectra are members of the class of BL~Lacs since
+they possess intrinsically polarized and variable continua. The duty cycle of
+polarized emission from XSBLs is 40\%. The majority of XSBLs ($\approx 85$\%)
+have preferred polarization position angles on time scales as long as three
+years. This reflects stability in the geometry of the region emitting the
+polarized optical emission. We discuss the observed spectral dependence of the
+degree of polarization and some of the possible mechanisms for producing the
+observed characteristics. While dilution of the polarized emission by the host
+galaxy starlight is present in some objects, we demon- strate that the average
+polarization properties derived from our observations are not drastically
+affected by this effect. The objects in our monitored sample did not display
+the larger than one magnitude variations generally used to characterize the
+optical variability of blazars in general.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 16:14:01 GMT""}]","2009-10-22"
+"astro-ph/9308021","Martin White","E. Bunn, M. White, M. Srednicki, and D. Scott","Are SP91 and COBE Inconsistent with Cold Dark Matter?","8 pages in Plain TeX plus 2 PS figures; revisions consist of a
+  correction to the method of offset and gradient subtraction, changing the
+  numerical results by about 10\%; conclusions unchanged; CfPA-93-TH-20","Astrophys.J.429:1-3,1994","10.1086/174296",,"astro-ph hep-ph",,"  We present results on the consistency of standard cold dark matter (CDM)
+models with both the COBE normalization and the data from the 4th channel of
+the 9-point South Pole scan. We find that CDM models are consistent with both
+experiments, a conclusion which is at odds with some other analyses. This is
+partly due to our careful treatment of the temperature autocorrelation
+function, but also derives from a realization that the statistical conclusions
+depend strongly on assumptions about the prior distribution for the
+normalization $Q$.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 00:01:30 GMT""},{""version"":""v2"",""created"":""Thu, 26 Aug 1993 00:40:15 GMT""}]","2008-11-26"
+"gr-qc/9308014",,"Riccardo Capovilla","No New Symmetries of the Vacuum Einstein Equations","9 pages, TeX","Phys.Rev. D49 (1994) 879-882","10.1103/PhysRevD.49.879",,"gr-qc",,"  In this note we examine some recently proposed solutions of the linearized
+vacuum Einstein equations. We show that such solutions are {\it not} symmetries
+of the Einstein equations, because of a crucial integrability condition.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 21:23:00 GMT""}]","2009-10-22"
+"gr-qc/9308015",,"Arlen Anderson","The use of exp(iS[x]) in the sum over histories","22 pages, Latex, Imperial-TP-92-93-46","Phys.Rev. D49 (1994) 4049-4055","10.1103/PhysRevD.49.4049",,"gr-qc hep-th",,"  The use of $\sum \exp(iS[x])$ as the generic form for a sum over histories in
+configuration space is discussed critically and placed in its proper context.
+The standard derivation of the sum over paths by discretizing the paths is
+reviewed, and it is shown that the form $\sum \exp(iS[x])$ is justified only
+for Schrodinger-type systems which are at most second order in the momenta.
+Extending this derivation to the relativistic free particle, the causal Green's
+function is expressed as a sum over timelike paths, and the Feynman Green's
+function is expressed both as a sum over paths which only go one way in time
+and as a sum over paths which move forward and backward in time. The weighting
+of the paths is shown not to be $\exp(iS[x])$ in any of these cases. The role
+of the inner product and the operator ordering of the wave equation in defining
+the sum over histories is discussed.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 08:40:43 GMT""}]","2009-10-22"
+"hep-ph/9308279","Marcelo Gleiser","Marcelo Gleiser","Pseudo-Stable Bubbles","10 pages, LaTeX (uses revtex 3.0), 4 figures (postscript files of
+  figs.1 and 2 appended starting on line 497), report DART-HEP-93/05","Phys.Rev. D49 (1994) 2978-2981","10.1103/PhysRevD.49.2978",,"hep-ph",,"  The evolution of spherically symmetric unstable scalar field configurations
+(``bubbles'') is examined for both symmetric (SDWP) and asymmetric (ADWP)
+double-well potentials. Bubbles with initial static energies $E_0\la E_{{\rm
+crit}}$, where $E_{{\rm crit}}$ is some critical value, shrink in a time scale
+determined by their linear dimension, or ``radius''. Bubbles with $E_0\ga
+E_{{\rm crit}}$ evolve into time-dependent, localized configurations which are
+{\it very} long-lived compared to characteristic time-scales in the models
+examined. The stability of these configurations is investigated and possible
+applications are briefly discussed.tic time-scales in the models examined. The
+stability of these configurations is investigated and possible applications are
+briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 17:36:36 GMT""}]","2009-10-22"
+"hep-ph/9308280",,"J. Garriga","Nucleation Rates in Flat and Curved Space","57 pages, TUTP-10-93","Phys.Rev.D49:6327-6342,1994","10.1103/PhysRevD.49.6327",,"hep-ph gr-qc hep-th",,"  Nucleation rates for tunneling processes in Minkowski and de Sitter space are
+investigated, taking into account one loop prefactors. In particular, we con-
+sider the creation of membranes by an antisymmetric tensor field, analogous to
+Schwinger pair production. This can be viewed as a model for the decay of false
+(or true) vacuum at zero temperature, in the thin wall limit. Also considered
+is the spontaneous nucleation of strings, domain walls and monopoles during
+inflation. The instantons for these processes are spherical world-sheets or
+world-lines embedded in flat or de Sitter backgrounds. We find the contribution
+of such instantons to the semiclassical partition function, including one loop
+corrections due to small fluctuations around the spherical worldsheet. We sug-
+gest a prescription for obtaining the distribution of objects nucleated during
+inflation. This can be seen as an extension of the usual formula, valid in flat
+space, according to which the nucleation rate is twice the imaginary part of
+the free energy. In addition, we use the method of Bogolubov transformations to
+compute the rate of pair production by an electric field in 1+1 dimensional de
+Sitter space, and compare the results to those obtained using the instanton me-
+thod. Both results agree where they are expected to, not only in the exponen-
+tial dependence but also in the prefactor, confirming the validity of instanton
+techniques in de Sitter space. Throughout the paper, both the gravitational
+field and the antisymmetric tensor field are assumed external.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 20:39:00 GMT""}]","2010-11-01"
+"hep-ph/9308281","Drew Peterson","Eran Yehudai (Fermilab) and Stephen Godfrey and K. Andrew Peterson
+  (Carleton University)","Single Top Production in $e\gamma$ Collisions","Talk presented at The 2nd International Workshop on Physics and
+  Experiment with Linear $e^+e^-$ Colliders, Waikoloa, Hawaii, 3 pages, latex
+  with epsfig and worldsci, FERMILAB-CONF-93/224, OCIP/C-93-10",,,,"hep-ph",,"  We study single top production in high energy $e\gamma$ collisions. The
+process $e\gamma\to\nu b\bar t$ can serve as a unique tool for measuring the
+$Wtb$ coupling. We show that allowing for realistic luminosity and backgrounds,
+the size of this coupling can be determined to within 10 (5)\% in an $e\gamma$
+collider built around a 500 (1000) GeV $e^+e^-$ collider.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 00:55:24 GMT""}]","2007-05-23"
+"hep-ph/9308282",,"F. Pisano and V. Pleitez","Does $K_L-K_S$ mass difference constraints or \\ claims new physics
+  beyond the Standard Model?","Revtex, 9 pages (one figure avalaible on request), IFT-P.027/93",,,,"hep-ph",,"  The ratio $\Delta m_K/m_K$ within the standard model with 3 generations is
+calculated as a function of the CP nonconserving phase $\delta_{13}$ and the
+quark masses $m_c,m_t$ assuming the current values of the
+Cabibbo-Kobayashi-Maskawa mixing angles. We have found that varying
+$\delta_{13}$ and $m_c$ within the allowed range, not all the values for the
+top quark mass fit the experimental value for that ratio.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 16:12:00 GMT""}]","2007-05-23"
+"hep-ph/9308284","Michal Praszalowicz","A. Blotz, M. Praszalowicz and K. Goeke","Rotational Corrections to Axial Currents in Semibosonized SU(3)
+  Nambu--Jona-Lasinio Model","RUP-TPII-54/93, in LaTeX, 6pages, no figures, in revised version two
+  references have been updated","Phys.Lett.B317:195-199,1993","10.1016/0370-2693(93)91592-B",,"hep-ph",,"  We examine $O(1/\Ne)$ rotational corrections to axial couplings \gt~ and \go~
+in the framework of the semibosonized SU(3) Nambu--Jona-Lasinio model. A
+novelty is due to the observation that the rotational (cranking) velocity and
+the rotation matrix itself do not commute within semiclassical quantization
+scheme. If time ordering in the quark loop is maintained new contributions,
+which have no analogue in the Skyrme model, appear. They substantially improve
+numerical results for the axial couplings which without the present corrections
+are badly underestimated.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 15:14:16 GMT""}]","2010-11-19"
+"hep-ph/9308285","Nicola Di Bartolomeo","N. Di Bartolomeo","Effective lagrangian for B and D semileptonic decays","Talk given at the {\it Third Workshop on the Tau-Charm Factory},
+  Marbella, Spain, 1-6 June 1993, LaTeX file, 13 pages",,,,"hep-ph",,"  An effective lagrangian incorporating both chiral and heavy quark symmetries
+and describing the low momentum interactions of heavy mesons and light scalar
+and vector resonances is presented. Using some available data and assuming
+nearest pole dominance for the form factors we can calculate, at the leading
+order in chiral and heavy quark expansion, semileptonic $B$ and $D$ decays into
+light mesons.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 15:24:00 GMT""}]","2007-05-23"
+"hep-th/9308075",,"M. J. Duff","Twenty Years of the Weyl Anomaly","43 pages","Class.Quant.Grav.11:1387-1404,1994","10.1088/0264-9381/11/6/004",,"hep-th gr-qc",,"  In 1973 two Salam prot\'{e}g\'{e}s (Derek Capper and the author) discovered
+that the conformal invariance under Weyl rescalings of the metric tensor
+$g_{\mu\nu}(x)\rightarrow\Omega^2(x)g_{\mu\nu}(x)$ displayed by classical
+massless field systems in interaction with gravity no longer survives in the
+quantum theory. Since then these Weyl anomalies have found a variety of
+applications in black hole physics, cosmology, string theory and statistical
+mechanics. We give a nostalgic review. (Talk given at the {\it Salamfest},
+ICTP, Trieste, March 1993.)
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 16:12:03 GMT""}]","2010-04-06"
+"hep-th/9308076",,"C. Ord\'o\~nez, J.Par\'is, J.M. Pons and R. Toldr\`a","BV analysis for covariant and non-covariant actions","21 pages, preprint # UTTG-02-93, UB-ECM-PF 93/5. To appear in Phys.
+  Rev. D","Phys.Rev. D48 (1993) 3818-3825","10.1103/PhysRevD.48.3818",,"hep-th",,"  The equivalence between the covariant and the non-covariant version of a
+constrained system is shown to hold after quantization in the framework of the
+field-antifield formalism. Our study covers the cases of Electromagnetism and
+Yang-Mills fields and sheds light on some aspects of the Faddeev-Popov method,
+for both the coratiant and non-covariant approaches, which had not been fully
+clarified in the literature.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 20:43:53 GMT""}]","2009-10-22"
+"hep-th/9308077","Gary Horowitz","Gary T. Horowitz and Dean L. Welch","Duality Invariance of the Hawking Temperature and Entropy","10 pages, harvmac, NSF-ITP-93-89","Phys.Rev.D49:590-594,1994","10.1103/PhysRevD.49.590",,"hep-th gr-qc",,"  We consider solutions to low energy string theory which have a horizon and a
+spacelike symmetry. Each of these solutions has a geometrically different dual
+description. We show that the dual solution has a horizon with exactly the same
+Hawking temperature (surface gravity) and entropy (area) as the original
+solution.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 19:17:56 GMT""}]","2009-12-30"
+"hep-th/9308078",,"C. Ord\'o\~nez y J.M Pons","First Reduce or First Quantize? A Lagrangian Approach and Application to
+  Coset Spaces","39 pages, University of Texas preprint UTTG-20-91, UTREL-910610.
+  (this is an updated version of the original preprint)",,,,"hep-th",,"  A Lagrangian treatment of the quantization of first class Hamiltonian systems
+with constraints and Hamiltonian linear and quadratic in the momenta
+respectively is performed. The ``first reduce and then quantize'' and the
+``first quantize and then reduce'' (Dirac's) methods are compared. A new source
+of ambiguities in this latter approach is revealed and its relevance on issues
+concerning self-consistency and equivalence with the ``first reduce'' method is
+emphasized. One of our main results is the relation between the propagator
+obtained {\it \`a la Dirac} and the propagator in the full space, eq. (5.25).As
+an application of the formalism developed, quantization on coset spaces of
+compact Lie groups is presented. In this case it is shown that a natural
+selection of a Dirac quantization allows for full self-consistency and
+equivalence. Finally, the specific case of the propagator on a two-dimensional
+sphere $S^2$ viewed as the coset space $SU(2)/U(1)$ is worked out.
+","[{""version"":""v1"",""created"":""Mon, 16 Aug 1993 20:43:21 GMT""}]","2007-05-23"
+"hep-th/9308079","Boris Feigin","Boris Feigin and A. V. Stoyanovsky","Quasi-particles models for the representations of Lie algebras and
+  geometry of flag manifold","35 pages","Funct. Anal. Appl. 28(1994), No. 1, 68--90",,,"hep-th math.QA",,"  We give a new interpretation and proof of the ""quasi-particle"" type character
+formulas for integrable representations of the simply-laced affine Kac-Moody
+algebras through a new ""semi-infinite"" construction of such representations. We
+compare formulas of this kind to other formulas obtained using the geometry of
+the corresponding flag manifold and in particular give a new proof to the
+Gordon type identities.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 08:26:47 GMT""}]","2009-10-14"
+"hep-th/9308080",,"I. Jack, D. R. T. Jones and J. Panvel","Quantum Non-abelian Toda Field Theories","28pp, harvmac (choose ""b"" option)","Int. J. Mod. Phys. A9 (1994) 3631-3656","10.1142/S0217751X9400145X",,"hep-th",,"  We derive an explicit, exactly conformally invariant form for the action for
+the non-abelian Toda field theory. We demonstrate that the conformal invariance
+conditions, expressed in terms of the $\beta$-functions of the theory, are
+satisfied to all orders, and we use our results to obtain a value for the
+central charge agreeing with previous calculations.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 14:18:17 GMT""}]","2015-06-26"
+"hep-th/9308081","Grosche Christian","Christian Grosche","Towards the Classification of Exactly Solvable Feynman Path Integrals:
+  $\delta$-Function Perturbations and Boundary-Problems as Miscellaneous
+  Solvable Models","nine pagex, LaTeX, SISSA/124/93/FM",,,,"hep-th",,"  Invited talk given at the ``International Workshop on `Symmetry Methods in
+Physics' in memory of Ya.\ A.\ Smorodinsky, 5--10 July 1993, Dubna, Russia; to
+appear in the proceedings. In this contribution I present further results on
+steps towards a Table of Feynman Path Integrals. Whereas the usual path
+integral solutions of the harmonic oscillator (Gaussian path integrals), of the
+radial harmonic oscillator (Besselian path integrals), and the (modified)
+P\""oschl-Teller potential(s) (Legendrian path integrals) are well known and can
+be performed explicitly by exploiting the convolution properties of the various
+types, a perturbative method opens other possibilities for calculating path
+integrals. Here I want to demonstrate the perturbation expansion method for
+point interactions and boundary problems in path integrals.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 15:34:34 GMT""}]","2007-05-23"
+"hep-th/9308082","Grosche Christian","Christian Grosche","Path Integral Discussion of Two and- Three-Dimensional $\delta$-Function
+  Perturbations","32 pages, AmSTeX",,"10.1002/andp.19945060406","SISSA/119/93/FM","hep-th",,"  The incorporation of two- and three-dimensional $\delta$-function
+perturbations into the path-integral formalism is discussed. In contrast to the
+one-dimensional case, a regularization procedure is needed due to the
+divergence of the Green-function $G^{(V)}(\vec x,\vec y;E)$, ($\vec x,\vec
+y\in\bbbr^2,\bbbr^3$) for $\vec x=\vec y$, corresponding to a potential problem
+$V(\vec x)$. The known procedure to define proper self-adjoint extensions for
+Hamiltonians with deficiency indices can be used to regularize the path
+integral, giving a perturbative approach for $\delta$-function perturbations in
+two and three dimensions in the context of path integrals. Several examples
+illustrate the formalism.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 15:35:30 GMT""}]","2009-10-22"

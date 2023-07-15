@@ -1,0 +1,120 @@
+"alg-geom/9307010","Victor Batyrev","Victor V. Batyrev and Duco van Straten","Generalized Hypergeometric Functions and Rational Curves on Calabi-Yau
+  Complete Intersections in Toric Varieties","45 pages, Latex 2.09","Commun. Math. Phys. 168 (1995) 493","10.1007/BF02101841",,"alg-geom math.AG",,"  We formulate general conjectures about the relationship between the A-model
+connection on the cohomology of a $d$-dimensional Calabi-Yau complete
+intersection $V$ of $r$ hypersurfaces $V_1, \ldots, V_r$ in a toric variety
+${\bf P}_{\Sigma}$ and the system of differential operators annihilating the
+special hypergeometric function $\Phi_0$ depending on the fan $\Sigma$. In this
+context, the Mirror Symmetry phenomenon can be interpreted as the following
+twofold characterization of the series $\Phi_0$. First, $\Phi_0$ is defined by
+intersection numbers of rational curves in ${\bf P}_{\Sigma}$ with the
+hypersurfaces $V_i$ and their toric degenerations. Second, $\Phi_0$ is the
+power expansion near a boundary point of the moduli space of the monodromy
+invariant period of the holomorphic differential $d$-form on an another
+Calabi-Yau $d$-fold $V'$ which is called Mirror of $V$. Using the generalized
+hypergeometric series, we propose a general construction for Mirrors $V'$ of
+$V$ and canonical $q$-coordinates on the moduli spaces of Calabi-Yau manifolds.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 18:43:36 GMT""}]","2009-10-22"
+"chao-dyn/9307017","Natalie Glance","Bernardo A. Huberman and Natalie S. Glance (Xerox Parc, Palo Alto, CA)","Evolutionary Games and Computer Simulations","8 pages. Also available through anonymous ftp from parcftp.xerox.com
+  in the directory /pub/dynamics as pdilemma.ps",,"10.1073/pnas.90.16.7716",,"chao-dyn adap-org nlin.AO nlin.CD",,"  The prisoner's dilemma has long been considered the paradigm for studying the
+emergence of cooperation among selfish individuals. Because of its importance,
+it has been studied through computer experiments as well as in the laboratory
+and by analytical means. However, there are important differences between the
+way a system composed of many interacting elements is simulated by a digital
+machine and the manner in which it behaves when studied in real experiments. In
+some instances, these disparities can be marked enough so as to cast doubt on
+the implications of cellular automata type simulations for the study of
+cooperation in social systems. In particular, if such a simulation imposes
+space-time granularity, then its ability to describe the real world may be
+compromised. Indeed, we show that the results of digital simulations regarding
+territoriality and cooperation differ greatly when time is discrete as opposed
+to continuous.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 19:15:35 GMT""},{""version"":""v2"",""created"":""Thu, 12 Aug 1993 21:58:02 GMT""}]","2009-10-22"
+"chao-dyn/9307018","Todd Brun","Todd A. Brun (Department of Physics, Caltech)","Quantum Dissipative Chaos","36 pages (RevTex 2.0 macros) + 13 figures (postscript, compressed and
+  uuencoded)",,,"Caltech preprint CALT-68-1882","chao-dyn gr-qc nlin.CD",,"  Using the decoherence formalism of Gell-Mann and Hartle, a quantum system is
+found which is the equivalent of the classical chaotic Duffing oscillator. The
+similarities and the differences from the classical oscillator are examined; in
+particular, a new concept of quantum maps is introduced, and alterations in the
+classical strange attractor due to the presence of scale- dependent quantum
+effects are studied. Classical quantities such as the Lyapunov exponents and
+fractal dimension are examined, and quantum analogs are suggested. These
+results are generalized into a framework for quantum dissipative chaos, and
+there is a brief discussion of other work in this area.
+","[{""version"":""v1"",""created"":""Sat, 31 Jul 1993 01:28:24 GMT""},{""version"":""v2"",""created"":""Thu, 5 Aug 1993 23:42:59 GMT""}]","2008-02-03"
+"cond-mat/9307066","Elliott Lieb","V. Bach, E.H. Lieb, M. Loss and J.P. Solovej","There are No Unfilled Shells in Hartree-Fock Theory","5 pages, VBEHLMLJPS--16/July/93","Phys. Rev. Lett., 72 (1994) 2981-2983","10.1103/PhysRevLett.72.2981",,"cond-mat",,"  Hartree-Fock theory is supposed to yield a picture of atomic shells which may
+or may not be filled according to the atom's position in the periodic table. We
+prove that shells are always completely filled in an exact Hartree-Fock
+calculation. Our theorem generalizes to any system having a two-body
+interaction that, like the Coulomb potential, is repulsive.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 23:01:45 GMT""}]","2009-10-22"
+"hep-ph/9307373","Jean Orloff","J.-M. Fr\`ere, M. Tytgat, J.M. Moreno, J. Orloff","Effective Operators and Extended Symmetry","17p+figs(available upon request), CERN-TH 6925, IEM-FT-74/93","Nucl.Phys. B429 (1994) 3-18","10.1016/S0550-3213(94)80038-3",,"hep-ph",,"  In this note we expand on our previous study of the implications of LEP1
+results for future colliders. We extend the effective operator-based analysis
+of De R\'ujula et al. to a larger symmetry group, and show at which cost their
+expectations can be relaxed. Of particular interest to experiment is a
+rephrasing of our previous results in terms of the Renard et al.
+parametrization for the gauge boson self-couplings (slightly extended to
+include $\delta g_{\gamma}$). We suggest the use of a ($\delta g_{\gamma}$,
+$\delta g_{Z}$) plot to confront the expectations of various models.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 18:29:09 GMT""}]","2009-10-22"
+"hep-ph/9307374",,"Bijan Haeri, Jr","Top Confinement","7 pages (latex), PURD-TH-92-12",,,,"hep-ph",,"  A new interaction that confines the top quark at the electroweak scale is
+proposed to account for a top quark mass potentially close in value to the
+electroweak scale.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 19:24:41 GMT""}]","2012-08-27"
+"hep-ph/9307375",,"G. Marchesini","Small $x$ processes: Heavy Quark Production at High Energy","6 pages, plain LaTeX",,,,"hep-ph",,"  A brief summary is given of some recent perturbative QCD results on the
+evaluation of cross sections and on the the structure of final states in
+processes with incoming hadrons at small $x$. A new Monte Carlo simulation
+which includes these theoretical features is described together with its
+applications to the study of heavy quark production in $ep$ collisions at very
+high energy. (Talk given at the XXVIIth Rencontre de Moriond, March 1993, Les
+Arcs, France)
+","[{""version"":""v1"",""created"":""Sat, 31 Jul 1993 10:59:00 GMT""}]","2007-05-23"
+"hep-ph/9307376",,"G.Marchesini","QCD and high energy hadronic interaction: Summary talk (theory)","13 pages, plain LaTeX (Talk given at the XXVIIth Rencontre de
+  Moriond, March 1993 Les Arcs, France)",,,,"hep-ph",,"  Results presented in perturbative QCD are reviewed. The topics discussed
+include: - struction functions, - heavy flavour production, - direct photon
+production, - inclusive production at LHC/SSC, - small $x$ physics, - QCD jets
+and - intermittency. For reference to the data in this talk see the summary
+presented by J.E. Augustin.
+","[{""version"":""v1"",""created"":""Sat, 31 Jul 1993 10:59:00 GMT""}]","2007-05-23"
+"hep-th/9307193","Dirk-Uwe Jungnickel","W.A. Bardeen, C.T. Hill and D.-U. Jungnickel","Chiral Hierarchies, Compositeness and the Renormalization Group","22 pp + 5 figs (uuencoded and submitted separately),
+  SSCL-Preprint-490; FERMI-PUB-93/035-T","Phys.Rev.D49:1437-1445,1994","10.1103/PhysRevD.49.1437",,"hep-th hep-ph",,"  A wide class of models involve the fine--tuning of significant hierarchies
+between a strong--coupling ``compositeness'' scale, and a low energy dynamical
+symmetry breaking scale. We examine the issue of whether such hierarchies are
+generally endangered by Coleman--Weinberg instabilities. A careful study using
+perturbative two--loop renormalization group methods finds that consistent
+large hierarchies are not generally disallowed.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 20:15:53 GMT""}]","2011-07-19"
+"hep-th/9307194","Matt Visser","Matt Visser","Dirty black holes: Entropy as a surface term","Plain LaTeX. 19 pages","Phys.Rev. D48 (1993) 5697-5705","10.1103/PhysRevD.48.5697","WashU-HEP-93/71","hep-th gr-qc",,"  It is by now clear that the naive rule for the entropy of a black hole,
+{entropy} = 1/4 {area of event horizon}, is violated in many interesting cases.
+Indeed, several authors have recently conjectured that in general the entropy
+of a dirty black hole might be given purely in terms of some surface integral
+over the event horizon of that black hole. A formal proof of this conjecture,
+using Lorentzian signature techniques, has recently been provided by Wald. This
+note performs two functions. Firstly, a rather different proof of this result
+is presented --- a proof based on Euclidean signature techniques. The total
+entropy is S = 1/4 {k A_H / l_P^2} + \int_H {S} \sqrt{g} d^2x. The integration
+runs over a spacelike cross-section of the event horizon H. The surface entropy
+density, {S}, is related to the behaviour of the matter Lagrangian under time
+dilations. Secondly, I shall consider the specific case of Einstein-Hilbert
+gravity coupled to an effective Lagrangian that is an arbitrary function of the
+Riemann tensor (though not of its derivatives). In this case a more explicit
+result is obtained S = 1/4 {k A_H / l_P^2} + 4 pi {k/hbar} \int_H {partial L /
+partial R_{\mu\nu\lambda\rho}} g^\perp_{\mu\lambda} g^\perp_{\nu\rho} \sqrt{g}
+d^2x . The symbol $g^\perp_{\mu\nu}$ denotes the projection onto the
+two-dimensional subspace orthogonal to the event horizon.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 20:02:47 GMT""}]","2016-09-06"
+"hep-th/9307195",,"D. Sorokin and M. Tonin","On the Chiral Fermions in the Twistor--Like Formulation of D=10
+  Heterotic String","10 pages, LaTeX, DFPD/93/TH/52","Phys.Lett.B326:84-88,1994","10.1016/0370-2693(94)91196-7",,"hep-th",,"  An n=8 worldsheet superfield action is proposed for describing chiral
+fermions in the twistor-like formulation of an N=1, D=10 heterotic superstring.
+","[{""version"":""v1"",""created"":""Sat, 31 Jul 1993 10:49:36 GMT""}]","2008-11-26"
+"nucl-th/9307029",,"C.M.Kormanyos, R.J.Peterson, J.R.Shepard, J.E.Wise, S.Bart,
+  R.E.Chrien, L.Lee, B.L.Clausen, J.Piekarewicz, M.B.Barakat, R.A.Michael, and
+  T. Kishimoto","K$^+$-nucleus quasielastic scattering","8 pages University of Colorado Nuclear Physics Lab. Preprint
+  NPL-1098. 2 PostScript figures available on request from J.Shepard at
+  ``shepard@sammy.colorado.edu''","Phys.Rev.Lett. 71 (1993) 2571-2574","10.1103/PhysRevLett.71.2571",,"nucl-th",,"  K$^+$--nucleus quasielastic cross sections measured for a laboratory kaon
+beam momentum of 705 MeV/$c$ are presented for 3--momentum transfers of 300 and
+500 MeV/$c$. The measured differential cross sections for C, Ca and Pb at 500
+MeV/$c$ are used to deduce the effective number of nucleons participating in
+the scattering, which are compared with estimates based on the eikonal
+approximation. The long mean free path expected for K$^+$ mesons in nuclei is
+found. Double differential cross sections for C and Ca are compared to
+relativistic nuclear structure calculations.
+","[{""version"":""v1"",""created"":""Fri, 30 Jul 1993 20:43:03 GMT""}]","2009-10-22"

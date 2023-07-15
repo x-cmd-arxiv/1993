@@ -1,0 +1,361 @@
+"astro-ph/9305030","Martin White","Douglas Scott, Mark Srednicki, Martin White","""Sample Variance"" in Small-Scale CMB Anisotropy Experiments","6 pages in Plain TeX with 1 postscript figure appended","Astrophys.J.421:L5,1994","10.1086/187173","CfPA-TH-93-14","astro-ph hep-ph",,"  We discuss the effects of finite sky coverage and the uncertainty in
+extracting information about the power spectrum from experiments on small
+angular scales. In general the cosmic variance is enhanced by a factor of
+$4\pi/A$, where $A$ is the solid angle sampled by the experiment. As a rough
+guide, an experiment with sensitivity peaking at the $\ell$th multipole has to
+cover $\simgt\ell$ independent patches to have a lower ``sample variance'' than
+for a whole-sky measurement of the quadrupole. Our approach gives a relatively
+simple way of attaching an error bar to the theoretical prediction for a
+particular experiment, and thereby comparing theories with experimental
+results, without the need for computationally-intensive Maximum Likelihood or
+Monte Carlo calculations.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 00:37:08 GMT""},{""version"":""v2"",""created"":""Tue, 25 May 1993 18:48:38 GMT""}]","2009-10-22"
+"astro-ph/9305031","Alan Heavens in Edinburgh","A.F. Heavens","Galaxy Redshifts: Improved Techniques","5 pages, LATEX, Report 2/93",,"10.1093/mnras/263.3.735",,"astro-ph",,"  This paper analyses the effects of random noise in determining errors and
+confidence levels for galaxy redshifts obtained by cross-correlation
+techniques. The main finding is that confidence levels have previously been
+overestimated, and errors inaccurately calculated in certain applications. New
+formul\ae\ are presented.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 14:20:46 GMT""},{""version"":""v2"",""created"":""Wed, 26 May 1993 16:20:30 GMT""}]","2015-06-24"
+"cond-mat/9305028","Juergen Holm","J. Holm, R. Kree and K. Sch\""onhammer","Asymptotically exact mean field theory for the Anderson model including
+  double occupancy","19, RevTeX, cond-mat/9305028",,"10.1103/PhysRevB.48.5077",,"cond-mat",,"  The Anderson impurity model for finite values of the Coulomb repulsion $U$ is
+studied using a slave boson representation for the empty and doubly occupied
+$f$-level. In order to avoid well known problems with a naive mean field theory
+for the boson fields, we use the coherent state path integral representation to
+first integrate out the double occupancy slave bosons. The resulting effective
+action is linearized using {\bf two-time} auxiliary fields. After integration
+over the fermionic degrees of freedom one obtains an effective action suitable
+for a $1/N_f$-expansion. Concerning the constraint the same problem remains as
+in the infinite $U$ case. For $T \rightarrow 0$ and $N_f \rightarrow \infty$
+exact results for the ground state properties are recovered in the saddle point
+approximation. Numerical solutions of the saddle point equations show that even
+in the spindegenerate case $N_f = 2$ the results are quite good.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 16:41:35 GMT""}]","2009-10-22"
+"cond-mat/9305029","Hans Gerd Evertz, Scri","H.G. Evertz, M. Hasenbusch, M. Marcu and K. Pinn","The Solid-on-Solid Surface Width Around the Roughening Transition","9 pages, LaTeX (no figures), FSU-SCRI-93-67, CERN-TH.6893/93","Physica A199 (1993) 31-39","10.1016/0378-4371(93)90094-K",,"cond-mat hep-lat",,"  We investigate the surface width $W$ of solid-on-solid surfaces in the
+vicinity of the roughening temperature $T_r$. Above $T_r$, $W^2$ is expected to
+diverge with the system size $L$ like $\ln L$. However, close to $T_r$ a clean
+$\ln{L}$ behavior can only be seen on extremely large lattices. Starting from
+the Kosterlitz-Thouless renormalization group, we derive an improved formula
+that describes the small $L$ behavior on both sides of $T_r$. For the Discrete
+Gaussian model, we used the valleys-to-mountains-reflections cluster algorithm
+in order to simulate the fluctuating solid-on-solid surface. The base plane
+above which the surface is defined is an $L \times L$ square lattice. In the
+simulation we took $8\leq L\leq 256$. The improved formula fits the numerical
+results very well. {}From the analysis, we estimate the roughening temperature
+to be $T_r = 0.755(3)$.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 20:31:03 GMT""}]","2007-05-23"
+"cond-mat/9305030","V. Privman","Satya N. Majumdar and Vladimir Privman","Annihilation of Immobile Reactants on the Bethe Lattice","12 pp, TeX (plain)","J. Phys. A 26, L743-L748 (1993)","10.1088/0305-4470/26/16/006",,"cond-mat",,"  Two-particle annihilation reaction, A+A -> inert, for immobile reactants on
+the Bethe lattice is solved exactly for the initially random distribution. The
+process reaches an absorbing state in which no nearest-neighbor reactants are
+left. The approach of the concentration to the limiting value is exponential.
+The solution reproduces the known one-dimensional result which is further
+extended to the reaction A+B -> inert.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 02:13:08 GMT""}]","2010-10-12"
+"gr-qc/9305020","Steven Carlip","S. Carlip","Six ways to quantize (2+1)-dimensional gravity","21 pages, U.C. Davis preprint UCD-93-15 and Santa Barbara ITP
+  preprint NSF-ITP-93-63",,,,"gr-qc hep-th",,"  We do not yet know how to quantize gravity in 3+1 dimensions, but in lower
+dimensions we face the opposite problem: many of the approaches originally
+developed for (3+1)-dimensional gravity can be successfully implemented in 2+1
+dimensions, but the resulting quantum theories are not all equivalent. In this
+talk, I discuss six such approaches --- reduced phase space ADM quantization,
+the Chern-Simons/connection representation, covariant canonical quantization,
+the loop representation, the Wheeler-DeWitt equation, and lattice methods ---
+for the simple case of a spacetime whose spatial topology is that of a torus. A
+comparison of the resulting quantum theories can provide some useful insights
+into the conceptual issues that underlie quantum gravity in any number of
+dimensions. (Talk given at the Fifth Canadian Conference on General Relativity
+and Relativistic Astrophysics, Waterloo, Ontario, May 1993)
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 20:07:00 GMT""}]","2007-05-23"
+"gr-qc/9305021","Malcolm MacCallum","Piotr T. Chrusciel, Malcolm A.H. MacCallum and David B. Singleton","Gravitational waves in general relativity: XIV. Bondi expansions and the
+  ``polyhomogeneity'' of \Scri","LaTeX, 28pp, CMA-MR14-92","Proc.Roy.Soc.Lond. A436 (1992) 299-316","10.1098/rspa.1992.0019",,"gr-qc",,"  The structure of polyhomogeneous space-times (i.e., space-times with metrics
+which admit an expansion in terms of $r^{-j}\log^i r$) constructed by a
+Bondi--Sachs type method is analysed. The occurrence of some log terms in an
+asymptotic expansion of the metric is related to the non--vanishing of the Weyl
+tensor at Scri. Various quantities of interest, including the Bondi mass loss
+formula, the peeling--off of the Riemann tensor and the Newman--Penrose
+constants of motion are re-examined in this context.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 15:54:55 GMT""}]","2015-06-25"
+"hep-lat/9305019","Kenton Yee","M.I. Polikarpov(ITEP,Moscow), Ken Yee(LSU), M.A. Zubkov(ITEP)","Compact QED in Landau Gauge: a lattice gauge fixing case study","19 pages, 4 Figures(provided), LSU-431-93","Phys.Rev.D48:3377-3382,1993","10.1103/PhysRevD.48.3377",,"hep-lat cond-mat nucl-th",,"  We derive different representations of compact QED fixed to Landau gauge by
+the lattice Faddeev-Popov procedure. Our analysis finds that (A)Nielsen-Olesen
+vortices arising from the compactness of the gauge-fixing action are {\it
+quenched\/}, that is, the Faddeev-Popov determinant cancels them out and they
+do not influence correlation functions such as the photon propagator; (B)Dirac
+strings are responsible for the nonzero mass pole of the photon propagator.
+Since in $D=3+1$ the photon mass undergoes a rapid drop to zero at $\beta_c$,
+the deconfinement point, this result predicts that Dirac strings must be
+sufficiently dilute at $\beta > \beta_c$. Indeed, numerical simulations reveal
+that the string density undergoes a rapid drop to near zero at $\beta\sim
+\beta_c$.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 23:06:35 GMT""}]","2010-05-27"
+"hep-ph/9305302",,"Achilles D. Speliotopoulos","The Energy Density of a Gas of Photons Surrounding a Spherical Mass $M$
+  at a Non-Zero Temperature","Plain TeX 16 pages, IP-ASTP-12-93",,,,"hep-ph astro-ph gr-qc",,"  The equations determining the energy density $\rho$ of a gas of photons in
+thermodynamic equilibrium with a spherical mass $M$ at a non-zero temperature
+$T_s>0$ is derived from Einstein's equations.
+  It is found that for large $r$, $\rho \sim 1/r^2$ where the proportionality
+constant is a {\it fundamental constant\/} and is the same for all spherical
+masses at all temperatures.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 18:56:00 GMT""}]","2007-05-23"
+"hep-ph/9305303",,"Achilles D. Speliotopoulos","The Asymptotic Form of the Energy Density of Weakly Interacting
+  Particles in a Static, Spherical Geometry","PlainTex, 12pages",,,"IP-ASTP-19-93","hep-ph astro-ph gr-qc",,"  The asymptotic form of the energy density for a gas of particles surrounding
+a sphere of mass $M$ and radius $R$ is studied using Einstein's equations. It
+is shown that if the pressure of the gas $p$ varies linearly with the energy
+density $\rho$ for small $\rho$, then $\rho\sim 1/r^2$ for large $r$.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 18:57:00 GMT""}]","2007-05-23"
+"hep-ph/9305307","Ian Kogan","Ian I Kogan","Axions, Monopoles and Cosmic String","14 pages, Talk given at the International Workshop SUSY-93,
+  Northeastern University, Boston, March 29 - April 1, 1993",,,"PUPT-1402, May 1993","hep-ph hep-th",,"  We are discussing some aspects of the magnetic monopoles and cosmic strings
+interactions with axion domain walss and membranes. The monopole moving through
+an axion domain wall is transformed into a monopole bag - the state with a dyon
+quantum number, but smaller mass. In the case of an axion membrane the passing
+monopole excites the chiral charged state at the membrane boundary. It will be
+shown that if cosmic string intersects an axion domain wall there will be
+$\theta = \pi$, i.e. maximal $CP$-violation inside the string. Strings carrying
+the flux of the $Z$-boson field become the sources of the baryon charge
+nonconservation. The symbiosis of the two pictures - monopole passing through
+an axion domain wall and string intersecting it - is the case of the
+interaction between an axion domain wall and a Nambu electroweak string
+carrying $SU(2)_{L}$ monopoles at the ends.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 16:24:34 GMT""}]","2007-05-23"
+"hep-ph/9305308",,"Jose F. Nieves, Palash B. Pal","Induced Charge of Neutrinos in a Medium","11 pages (LATEX), including figures drawn by LATEX, preprint number
+  DOE-ER\,40757-012, CPP-93-12, LTP-038-UPR [One reference added; minor
+  stylistic changes in the text. This version will appear in Phys Rev D]","Phys.Rev.D49:1398-1403,1994","10.1103/PhysRevD.49.1398",,"hep-ph",,"  Neutrinos can polarize a medium due to their weak interaction. This can
+manifest itself as an effective induced charge of the neutrino. We show how it
+is related to the Debye screening length in a plasma, first using the results
+of the 1-loop calculation of the neutrino electromagnetic vertex and then in
+general to all orders in $e$ and to leading order in the Fermi coupling. We
+also discuss how the results are modified if the neutrinos have mass -- either
+Dirac or Majorana type.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 20:49:23 GMT""},{""version"":""v2"",""created"":""Tue, 21 Dec 1993 20:14:56 GMT""}]","2014-11-17"
+"hep-ph/9305309","John Collins","John C. Collins, Steve F. Heppelmann, Glenn A. Ladinsky","Measuring transversity densities in singly polarized hadron-hadron and
+  lepton-hadron collisions","16 pages, LaTeX + EPSF, 2 postscript figures. PSU/TH/101","Nucl.Phys.B420:565-582,1994","10.1016/0550-3213(94)90078-7",,"hep-ph",,"  We show how the transverse polarization of a quark initiating a jet can be
+probed by the azimuthal distribution of two hadrons (of large $z$) in the jet.
+This permits a twist 2 asymmetry in hard processes when only one of the initial
+particles is polarized transversely. Applications to hadron-hadron and
+lepton-hadron scattering are discussed.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 22:39:29 GMT""}]","2011-07-19"
+"hep-ph/9305310",,"A. Djouadi, M. Drees and H. K\""onig","Supersymmetric QCD corrections to quark pair production in e+ e-
+  annihilation","17 pages, LaTeX with EQUATION.STY, 4 figures available on request;
+  MAD/PH/754","Phys.Rev. D48 (1993) 3081-3089","10.1103/PhysRevD.48.3081",,"hep-ph",,"  We calculate supersymmetric QCD corrections (squark/gluino loops) to quark
+pair production in e+ e- annihilation, allowing for mixing between left- and
+right-handed squarks and taking into account the effects of nonzero quark
+masses. Corrections to the Z boson partial widths are generally small and
+positive, except in the case of large b-squark mixing, where they become
+negative. At high-energy e+ e- colliders, larger corrections to the total cross
+sections are possible. Corrections to forward-backward asymmetries are
+negligible except possibly for top quarks, where they are sensitive to t-squark
+mixing. We also comment on the possibility that the gluino mass is only a few
+GeV.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 00:57:00 GMT""}]","2009-10-22"
+"hep-ph/9305311","Dave Seckel","David Seckel","Nucleon Mass Corrections to the $p \leftrightarrow n$ Rates During Big
+  Bang Nucleosynthesis","32 pages (Latex)",,,"BA-93-16","hep-ph astro-ph",,"  The thermal rates for converting neutrons to protons, and vice versa, are
+calculated, including corrections of order 1 MeV divided by a nucleon mass. The
+results imply that the primodial helium abundance predicted for big bang
+nucleosynthesis has been systematically underestimated by about $\delta Y_4 =
+0.0012$, i.e., $\delta Y_4 / Y_4 \approx .005$.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 15:41:36 GMT""}]","2009-09-25"
+"hep-ph/9305312",,"P. Ramond","Symmetric Textures","20 pages",,,,"hep-ph",,"  I present an algorithm in the search for symmetric textures in the quark
+Yukawa matrices. This is based on a talk at the Coral Gables conference in
+January 1993. I include the macro tables2.tex for making tables, and use the
+Santa Barbara jnl and reforder macros.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 15:44:40 GMT""}]","2007-05-23"
+"hep-th/9305118",,"Vahid Karimipour","The quantum de Rham complexes associated with $SL_h(2)$","15 pages",,"10.1007/BF00939696","IPM-93-015","hep-th math.QA",,"  Quantum de Rham complexes on the quantum plane and the quantum group itself
+are constructed for the Zakrewski deformation of $ Fun ( SL(2)) $. As a
+by-product a new deformation of the two dimensional Heisenberg algeb ra is
+constructed which can be used to construct models of h-deformed quantum
+mechanics.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 20:52:46 GMT""},{""version"":""v2"",""created"":""Sat, 12 Jun 1993 18:10:46 GMT""}]","2009-10-22"
+"hep-th/9305120","Blau Matthias","George Thompson","1992 Trieste Lectures on Topological Gauge Theory and Yang-Mills Theory","70 A4 pages (LaTex, 6 figures not included), IC/93/112",,,,"hep-th",,"  In these lecture notes we explain a connection between Yang-Mills theory on
+arbitrary Riemann surfaces and two types of topological field theory, the so
+called $BF$ and cohomological theories. The quantum Yang-Mills theory is solved
+exactly using path integral techniques. Explicit expressions, in terms of group
+representation theory, are obtained for the partition function and various
+correlation functions. In a particular limit the Yang-Mills theory devolves to
+the topological models and the previously determined correlation functions give
+topological information about the moduli spaces of flat connections. In
+particular, the partition function yields the volume of the moduli space for
+which an explicit expression is derived. These notes are self contained, with a
+basic introduction to the various ideas underlying the topological field
+theories. This includes some relatively new work on handling problems that
+arise in the presence of reducible connections which in turn forms the bridge
+between the various models under consideration. These notes are identical to
+those made available to participants of the 1992 summer school in Trieste,
+except for one or two additions added circa January 1993.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 16:18:41 GMT""}]","2007-05-23"
+"hep-th/9305121",,"A.L. Kholodenko and V.V. Nesterenko","Classical dynamics of rigid string from Willmore functional","13 pp, LaTeX, JINR preprint E2-93-181","J. Geom. Phys. 16 (1995) 15","10.1016/0393-0440(94)00020-5",,"hep-th",,"  A new approach for investigating the classical dynamics of the relativistic
+string model with rigidity is proposed. It is based on the embedding of the
+string world surface into the space of a constant curvature. It is shown that
+the rigid string in flat space-time is described by the Euler-Lagrange equation
+for the Willmore functional in a space-time of the constant curvature K=-g/(2
+a), where g and a are constants in front of the Nambu-Goto term and the
+curvature term in the rigid string action respectively. For simplicity the
+Euclidean version of the rigid string in the three-dimensional space-time is
+considered. The Willmore functional (the action for the ""Willmore string"") is
+obtained by dropping the Nambu-Goto term in the Polyakov-Kleinert action for
+the rigid string. Such ""reduction"" of the rigid string model would be useful,
+for example, by applying some results about the Numbu-Goto string dynamics in
+the de Sitter universe to the rigid string model in the Minkowski space-time.
+It allows also to use numerous mathematical results about the Willmore surfaces
+in the context of the physical problem.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 16:54:38 GMT""}]","2015-06-26"
+"hep-th/9305122",,"Demosthenes Ellinas","Path Integrals for Quantum Algebras and the Classical Limit","12 pages,plain Latex, FTUV/93-7","J.Phys. A26 (1993) L543-L550","10.1088/0305-4470/26/12/011",,"hep-th",,"  Coherent states path integral formalism for the simplest quantum algebras,
+q-oscillator, SU_q(2) and SU_q(1,1) is introduced. In the classical limit
+canonical structure is derived with modified symplectic and Riemannian metric.
+Non-constant deformation induced curvature for the phase spaces is obtained.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 19:12:00 GMT""}]","2009-10-22"
+"hep-th/9305123",,"Sidney Coleman and Shane Hughes","Black Holes, Wormholes, and the Disappearance of Global Charge","12 pages (1 figure available upon request); HUTP-93/A014","Phys.Lett.B309:246-251,1993","10.1016/0370-2693(93)90928-B",,"hep-th gr-qc",,"  One of the paradoxes associated with the theory of the formation and
+subsequent Hawking evaporation of a black hole is the disappearance of
+conserved global charges. It has long been known that metric fluctuations at
+short distances (wormholes) violate global-charge conservation; if global
+charges are apparently conserved at ordinary energies, it is only because
+wormhole-induced global-charge-violating terms in the low-energy effective
+Lagrangian are suppressed by large mass denominators. However, such suppressed
+interactions can become important at the high energy densities inside a
+collapsing star. We analyze this effect for a simple model of the black-hole
+singularity. (Our analysis is totally independent of any detailed theory of
+wormhole dynamics; in particular it does not depend on the wormhole theory of
+the vanishing of the cosmological constant.) We find that in general all charge
+is extinguished before the infalling matter crosses the singularity. No global
+charge appears in the outgoing Hawking radiation because it has all gone down
+the wormholes.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 18:20:25 GMT""}]","2014-11-18"
+"hep-th/9305124","Paul Fendley","Paul Fendley","Exact information in N=2 theories","10 pages (SUSY '93 conference talk), BUHEP-93-13",,,,"hep-th",,"  This is intended to be a simple discussion of work done in collaboration with
+S. Cecotti, K. Intriligator and C. Vafa; and with H. Saleur. I discuss how $ Tr
+F (-1)^F e^{-\beta H}$ can be computed exactly in any N=2 supersymmetric theory
+in two dimensions. It gives exact information on the soliton spectrum of the
+theory, and corresponds to the partition function of a single self-avoiding
+polymer looped once around a cylinder of radius $\beta$. It is independent of
+almost all deformations of the theory, and satisfies an exact differential
+equation as a function of $\beta$. For integrable theories it can also be
+computed from the exact S-matrix. This implies a highly non-trivial equivalence
+of a set of coupled integral equations with the classical sinh-Gordon and the
+affine Toda equations.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 19:45:32 GMT""}]","2007-05-23"
+"hep-th/9305125","David Lowe","D.A. Lowe and M. O'Loughlin","Nonsingular Black Hole Evaporation and ``Stable'' Remnants","23 pages, 6 figures, harvmac and epsf, RU-93-12, PUPT-1399,
+  NSF-ITP-93-56","Phys.Rev.D48:3735-3742,1993","10.1103/PhysRevD.48.3735",,"hep-th gr-qc",,"  We examine the evaporation of two--dimensional black holes, the classical
+space--times of which are extended geometries, like for example the
+two--dimensional section of the extremal Reissner--Nordstrom black hole. We
+find that the evaporation in two particular models proceeds to a stable
+end--point. This should represent the generic behavior of a certain class of
+two--dimensional dilaton--gravity models. There are two distinct regimes
+depending on whether the back--reaction is weak or strong in a certain sense.
+When the back--reaction is weak, evaporation proceeds via an adiabatic
+evolution, whereas for strong back--reaction, the decay proceeds in a somewhat
+surprising manner. Although information loss is inevitable in these models at
+the semi--classical level, it is rather benign, in that the information is
+stored in another asymptotic region.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 21:18:15 GMT""}]","2010-11-01"
+"hep-th/9305126","Itoyama","S. Chaudhuri, H. Itoyama and T. Ooshita","Universal and Nonperturbative Behavior in the One-Plaquette Model of
+  Two-Dimensional String Theory","22 pages, Latex, OU-HET-178, UTTG-14-93. More references added","Nucl.Phys.B409:397-416,1993","10.1016/0550-3213(93)90586-E",,"hep-th",,"  The one-plaquette Hamiltonian of large N lattice gauge theory offers a
+constructive model of a $1+1$-dimensional string theory with a stable ground
+state.
+  The free energy is found to be equivalent to the partition function of a
+string where the world sheet is discretized by even polygons with signature and
+the link factor is given by a non-Gaussian propagator.
+  At large, but finite, N we derive the nonperturbative density of states from
+the WKB wave function and the dispersion relations. This is expressible as an
+infinite, but convergent, series with the inverse of the hypergeometric
+function replacing the harmonic oscillator spectrum of the $1+1$-dimensional
+string. In the scaling limit, the series is shown to be finite, containing both
+the perturbative (asymptotic) expansion of the inverted harmonic oscillator
+model, and a nonperturbative piece that survives the scaling limit.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 01:10:00 GMT""},{""version"":""v2"",""created"":""Tue, 8 Jun 1993 09:16:37 GMT""}]","2010-11-01"
+"hep-th/9305127","Weston Robert","A.H. Bougourzi and Robert A. Weston","Vertex Operators and Matrix Elements of $U_q(su(2)_k)$ via Bosonization","20 pages, LaTex. Minor changes","Int.J.Mod.Phys.A9:4431-4448,1994","10.1142/S0217751X9400176X",,"hep-th",,"  We construct bosonized vertex operators (VOs) and conjugate vertex operators
+(CVOs) of $U_q(su(2)_k)$ for arbitrary level $k$ and representation $j\leq
+k/2$. Both are obtained directly as two solutions of the defining condition of
+vertex operators - namely that they intertwine $U_q(su(2)_k)$ modules. We
+construct the screening charge and present a formula for the n-point function.
+Specializing to $j=1/2$ we construct all VOs and CVOs explicitly. The existence
+of the CVO allows us to place the calculation of the two-point function on the
+same footing as $k=1$; that is, it is obtained without screening currents and
+involves only a single integral from the CVO. This integral is evaluated and
+the resulting function is shown to obey the q-KZ equation and to reduce simply
+to both the expected $k=1$ and $q=1$ limits.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 02:26:35 GMT""},{""version"":""v2"",""created"":""Thu, 27 May 1993 01:27:23 GMT""}]","2010-11-01"
+"hep-th/9305128",,"Stephane Durand","Fractional Supersymmetry and Quantum Mechanics","12 pages, plain TEX, McGill/92-54, to appear in Phys. Lett. B (minor
+  corrections and references updated)","Phys.Lett. B312 (1993) 115-120","10.1016/0370-2693(93)90496-5",,"hep-th",,"  We present a set of quantum-mechanical Hamiltonians which can be written as
+the $F^{\,\rm th}$ power of a conserved charge: $H=Q^F$ with $[H,Q]=0$ and
+$F=2,3,...\, .$ This new construction, which we call {\it fractional}\/
+supersymmetric quantum mechanics, is realized in terms of \pg\ variables
+satisfying $\t^F=0$. Furthermore, in a pseudo-classical context, we describe
+{\it fractional}\/ supersymmetry transformations as the $F^{\,\rm th}$ roots of
+time translations, and provide an action invariant under such transformations.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 03:59:15 GMT""},{""version"":""v2"",""created"":""Tue, 25 May 1993 04:06:21 GMT""},{""version"":""v3"",""created"":""Fri, 23 Jul 1993 03:50:25 GMT""}]","2009-10-22"
+"hep-th/9305129",,"Stephane Durand","Extended Fractional Supersymmetric Quantum Mechanics","12 pages, plain TEX, McGill/93-03","Mod. Phys. Lett. A8 (1993) 1795-1804","10.1142/S0217732393001513",,"hep-th",,"  Recently, we presented a new class of quantum-mechanical Hamiltonians which
+can be written as the $F^{th}$ power of a conserved charge: $H=Q^F$ with
+$F=2,3,...\,.$ This construction, called fractional supersymmetric quantum
+mechanics, was realized in terms of a paragrassmann variable $\theta$ of order
+$F$, which satisfies $\theta^F=0$. Here, we present an alternative realization
+of such an algebra in which the internal space of the Hamiltonians is described
+by a tensor product of two paragrassmann variables of orders $F$ and $F-1$
+respectively. In particular, we find $q$-deformed relations (where $q$ are
+roots of unity) between different conserved charges. (To appear in
+""Mod.Phys.Lett.A"")
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 03:41:23 GMT""},{""version"":""v2"",""created"":""Tue, 25 May 1993 04:06:50 GMT""}]","2009-10-22"
+"hep-th/9305130",,"Stephane Durand","Fractional Superspace Formulation of Generalized Mechanics","15 pages, plain TEX, McGill/93-06, to appear in Mod. Phys. Lett. A
+  (minor corrections and references updated)","Mod. Phys. Lett. A8 (1993) 2323-2334","10.1142/S0217732393003627",,"hep-th",,"  Supersymmetric (pseudo-classical) mechanics has recently been generalized to
+{\it fractional}\/ supersymmetric mechanics. In such a construction, the action
+is invariant under fractional supersymmetry transformations, which are the
+$F^{\,\rm th}$ roots of time translations (with $F=1,2,...$). Associated with
+these symmetries, there are conserved charges with fractional canonical
+dimension $1+1/F$. Using \pg\ variables satisfying $\t^F=0$, we present a
+fractional-superspace formulation of this construction.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 03:46:43 GMT""},{""version"":""v2"",""created"":""Fri, 23 Jul 1993 03:51:09 GMT""}]","2009-10-22"
+"hep-th/9305131","Subir Sachdev","Subir Sachdev","Polylogarithm Identities in a Conformal Field Theory in Three Dimensions","LATEX, 7 pages","Phys.Lett. B309 (1993) 285-288","10.1016/0370-2693(93)90935-B",,"hep-th cond-mat",,"  The $N=\infty$ vector $O(N)$ model is a solvable, interacting field theory in
+three dimensions ($D$). In a recent paper with A. Chubukov and J.
+Ye~\cite{self}, we have computed a universal number, $\tilde{c}$,
+characterizing the size dependence of the free energy at the
+conformally-invariant critical point of this theory. The result~\cite{self} for
+$\tilde{c}$ can be expressed in terms of polylogarithms. Here, we use
+non-trivial polylogarithm identities to show that $\tilde{c}/N = 4/5$, a
+rational number; this result is curiously parallel to recent work on
+dilogarithm identities in $D=2$ conformal theories. The amplitude of the
+stress-stress correlator of this theory, $c$ (which is the analog of the
+central charge), is determined to be $c/N=3/4$, also rational. Unitary
+conformal theories in $D=2$ always have $c = \tilde{c}$; thus such a result is
+clearly not valid in $D=3$.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 06:47:12 GMT""}]","2009-10-22"
+"hep-th/9305132",,"A. Brandhuber, S. Emery, M. Langer, O. Piguet, M. Schweda and S.P.
+  Sorella","Symmetries of the Chern-Simons Theory in the Axial Gauge","16 pages, report UGVA-DPT 1993/05-817, TUW 93-10","Helv. Phys. Acta 66 (1993) 551-566",,,"hep-th",,"  The Green functions of the Chern-Simons theory quantized in the axial gauge
+are shown to be calculable as the unique, exact solution of the Ward identities
+which express the invariance of the theory under the topological supersymmetry
+of Delduc, Gieres and Sorella.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 12:59:00 GMT""}]","2007-05-23"
+"hep-th/9305133",,"Vladimir O. Soloviev","Boundary values as Hamiltonian variables. I. New Poisson brackets","26 pages, LaTex, IHEP 93-48","J.Math.Phys. 34 (1993) 5747-5769","10.1063/1.530280",,"hep-th cond-mat gr-qc",,"  The ordinary Poisson brackets in field theory do not fulfil the Jacobi
+identity if boundary values are not reasonably fixed by special boundary
+conditions. We show that these brackets can be modified by adding some surface
+terms to lift this restriction. The new brackets generalize a canonical bracket
+considered by Lewis, Marsden, Montgomery and Ratiu for the free boundary
+problem in hydrodynamics. Our definition of Poisson brackets permits to treat
+boundary values of a field on equal footing with its internal values and
+directly estimate the brackets between both surface and volume integrals. This
+construction is applied to any local form of Poisson brackets. A prescription
+for delta-function on closed domains and a definition of the {\it full}
+variational derivative are proposed.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 15:07:24 GMT""}]","2009-10-22"
+"hep-th/9305134","S. Ole Warnaar","S. O. Warnaar, P. A. Pearce, K. A. Seaton, B. Nienhuis","Order Parameters of the Dilute A Models","53 pages, LaTex, ITFA 93-15","J.Statist.Phys. 74 (1994) 469-531","10.1007/BF02188569",,"hep-th",,"  The free energy and local height probabilities of the dilute A models with
+broken $\Integer_2$ symmetry are calculated analytically using inversion and
+corner transfer matrix methods. These models possess four critical branches.
+The first two branches provide new realisations of the unitary minimal series
+and the other two branches give a direct product of this series with an Ising
+model. We identify the integrable perturbations which move the dilute A models
+away from the critical limit. Generalised order parameters are defined and
+their critical exponents extracted. The associated conformal weights are found
+to occur on the diagonal of the relevant Kac table. In an appropriate regime
+the dilute A$_3$ model lies in the universality class of the Ising model in a
+magnetic field. In this case we obtain the magnetic exponent $\delta=15$
+directly, without the use of scaling relations.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 12:53:29 GMT""}]","2009-10-22"
+"hep-th/9305135","Daniel Altschuler","D. Altschuler and B. Davies","Quantum Loop Modules and Quantum Spin Chains","32 pages, 5 figures (appended), ENSLAPP-L-419/93, MRR2/93","Int.J.Mod.Phys. A9 (1994) 3925-3958","10.1142/S0217751X94001588",,"hep-th",,"  We construct level-0 modules of the quantum affine algebra $\Uq$, as the
+$q$-deformed version of the Lie algebra loop module construction. We give
+necessary and sufficient conditions for the modules to be irreducible. We
+construct the crystal base for some of these modules and find significant
+differences from the case of highest weight modules. We also consider the role
+of loop modules in the recent scheme for diagonalising certain quantum spin
+chains using their $\Uq$ symmetry.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 15:21:29 GMT""}]","2015-06-26"
+"hep-th/9305136","Palev","T. D. Palev and N. I. Stoilova","Finite Dimensional Representations of the Quantum Superalgebra
+  $U_q[gl(3/2)]$ in a Reduced $U_q[gl(3/2)] \supset U_q[gl(3/1)] \supset
+  U_q[gl(3)]$ Basis","7 pages, emTeX, University of Ghent Int. Report TWI-93-21","J.Phys. A26 (1993) 5867","10.1088/0305-4470/26/21/024",,"hep-th",,"  For generic $q$ we give expressions for the transformations of all
+essentially typical finite-dimensional modules of the Hopf superalgebra
+$U_q[gl(3/2)]$. The latter is a deformation of the universal enveloping algebra
+of the Lie superalgebra $gl(3/2)$. The basis within each module is similar to
+the Gel'fand-Zetlin basis for $gl(5)$. We write down expressions for the
+transformations of the basis under the action of the Chevalley generators.
+","[{""version"":""v1"",""created"":""Tue, 25 May 1993 15:23:36 GMT""}]","2009-10-22"

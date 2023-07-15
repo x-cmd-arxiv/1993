@@ -1,0 +1,138 @@
+"astro-ph/9212006","Jonathan Katz","J. I. Katz","Two Populations and Models of Gamma Ray Bursts","25pp., WU-JIK-92-6","Astrophys.J. 422 (1994) 248","10.1086/173723",,"astro-ph",,"  Gamma-ray burst statistics are best explained by a source population at
+cosmological distances, while spectroscopy and intensity histories of some
+individual bursts imply an origin on Galactic neutron stars. To resolve this
+inconsistency I suggest the presence of two populations, one at cosmological
+distances and the other Galactic. I build on ideas of Shemi and Piran (1990)
+and of M\'esz\'aros and Rees (1993) involving the interaction of fireball
+debris with surrounding clouds to explain the observed intensity histories in
+bursts at cosmological distances. The distances to the Galactic population are
+undetermined because they are too few to affect the statistics of intensity and
+direction; I explain them as resulting from magnetic reconnection in neutron
+star magnetospheres.
+","[{""version"":""v1"",""created"":""Thu, 31 Dec 1992 20:59:32 GMT""}]","2015-06-24"
+"cond-mat/9301001","Hisao Nakanishi","Hisao Nakanishi","Effect of Loops on the Vibrational Spectrum of Percolation Network","12 pages, LaTeX, HLRZ 107/92",,"10.1016/0378-4371(93)90080-N",,"cond-mat",,"  We study the effects of adding loops to a critical percolation cluster on the
+diffusional, and equivalently, (scalar) elastic properties of the fractal
+network. From the numerical calculations of the eigenspectrum of the transition
+probability matrix, we find that the spectral dimension $d_s$ and the walk
+dimension $d_w$ change suddenly as soon as the floppy ends of a critical
+percolation cluster are connected together to form relatively large loops, and
+that the additional inclusion of successively smaller loops only change these
+exponents little if at all. This suggests that there is a new universality
+class associated with the loop-enhanced percolation problem.
+","[{""version"":""v1"",""created"":""Fri, 1 Jan 1993 14:23:56 GMT""}]","2009-10-22"
+"funct-an/9212005","Ruy Exel","Ruy Exel","A Fredholm Operator Approach To Morita Equivalence","23 pages, Plain TeX, UNM-RE-004",,,,"funct-an math.OA",,"  Given C*-algebras A and B and an imprimitivity A-B-bimodule X, we construct
+an explicit isomorphism X_* : K_i(A) --> K_i(B) where K_i denote the complex
+K-theory functors for i=0, 1. Our techniques do not require separability nor
+existence of countable approximate identities. We thus extend, to general
+C*-algebras, the result of Brown, Green and Rieffel according to which strongly
+Morita equivalent C*-algebras have isomorphic K-groups. The method employed
+includes a study of Fredholm operators on Hilbert modules.
+","[{""version"":""v1"",""created"":""Thu, 31 Dec 1992 17:26:34 GMT""}]","2008-02-03"
+"hep-ph/9212318",,"Z.G.Berezhiani, R.N.Mohapatra and G.Senjanovic","Planck-Scale Physics and Solutions to the Strong CP Problem without
+  Axion","14 pages, LaTex, IC/92/432, UMDHEP 93-105, LMU-16/92 (minor
+  clarifications in the introduction; missing references are added)","Phys.Rev.D47:5565-5570,1993","10.1103/PhysRevD.47.5565",,"hep-ph",,"  We analyse the impact of quantum gravity on the possible solutions to the
+strong CP problem which utilize the spontaneously broken discrete symmetries,
+such as parity and time reversal invariance. We find that the stability of the
+solution under Planck scale effects provides an upper limit on the scale
+$\Lambda$ of relevant symmetry breaking. This result is model dependent and the
+bound is most restrictive for the seesaw type models of fermion masses, with
+$\Lambda < 10^6$ GeV.
+","[{""version"":""v1"",""created"":""Thu, 31 Dec 1992 17:05:00 GMT""},{""version"":""v2"",""created"":""Fri, 15 Jan 1993 20:28:00 GMT""}]","2010-11-01"
+"hep-th/9212158","Balakrishna Shankar","B. S. Balakrishna","Difficulties in Inducing a Gauge Theory at Large N","6 pages, Latex, AZPH-TH/93-01, COLO-HEP/303","Phys.Rev. D49 (1994) 24-27","10.1103/PhysRevD.49.R24",,"hep-th hep-lat",,"  It is argued that the recently proposed Kazakov-Migdal model of induced gauge
+theory, at large $N$, involves only the zero area Wilson loops that are
+effectively trees in the gauge action induced by the scalars. This retains only
+a constant part of the gauge action excluding plaquettes or anything like them
+and the gauge variables drop out.
+","[{""version"":""v1"",""created"":""Thu, 31 Dec 1992 18:48:03 GMT""},{""version"":""v2"",""created"":""Tue, 5 Jan 1993 18:25:16 GMT""},{""version"":""v3"",""created"":""Fri, 15 Jan 1993 19:00:27 GMT""}]","2009-10-22"
+"hep-th/9301001",,"G.K.Savvidy and K.G.Savvidy","Gonihedric String and Asymptotic Freedom","10 pages, latex file","Mod.Phys.Lett. A8 (1993) 2963-2972","10.1142/S021773239300338X","UFTP preprint 327.December 1992","hep-th",,"  Few natural basic principles allow to extend Feynman integral over the paths
+to an integral over the surfaces so, that they coincide at long time scale,
+that is when the surface degenerates into a single particle world line. In the
+first approximation the loop Green functions have perimeter behavior. That
+corresponds to the case when free quarks interact through one gluon exchange.
+Quantum fluctuations of the surface generate the area low. Thus in this string
+theory asymptotic freedom and confinement can coexist.
+","[{""version"":""v1"",""created"":""Fri, 1 Jan 1993 12:35:33 GMT""}]","2015-06-26"
+"math/9301211","Alejandro Adem","Alejandro Adem","Representations and $K$-theory of Discrete Groups","4 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 95-98","10.1007/BF01232678","Bulletin migration 11/99","math.KT math.AT",,"  Let $\Gamma$ be a discrete group of finite virtual cohomological dimension
+with certain finiteness conditions of the type satisfied by arithmetic groups.
+We define a representation ring for $\Gamma$, determined on its elements of
+finite order, which is of finite type. Then we determine the contribution of
+this ring to the topological $K$-theory $K^*(B\Gamma)$, obtaining an exact
+formula for the difference in terms of the cohomology of the centralizers of
+elements of finite order in $\Gamma$.
+","[{""version"":""v1"",""created"":""Fri, 1 Jan 1993 00:00:00 GMT""}]","2009-10-22"
+"math/9301212","Michael H. Freedman","Steve Bryson, Michael H. Freedman, Zheng-Xu He, Zhenghan Wang","M\""obius invariance of knot energy","5 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 99-103",,"Bulletin migration 11/99","math.GT",,"  A physically natural potential energy for simple closed curves in $\bold R^3$
+is shown to be invariant under M\""obius transformations. This leads to the
+rapid resolution of several open problems: round circles are precisely the
+absolute minima for energy; there is a minimum energy threshold below which
+knotting cannot occur; minimizers within prime knot types exist and are
+regular. Finally, the number of knot types with energy less than any constant
+$M$ is estimated.
+","[{""version"":""v1"",""created"":""Fri, 1 Jan 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9301213","Guihua Gong","Guihua Gong","Relative $K$-cycles and elliptic boundary conditions","5 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 104-108",,"Bulletin migration 11/99","math.AP math.DG math.KT",,"  In this paper, we discuss the following conjecture raised by Baum-Douglas:
+For any first-order elliptic differential operator $D$ on smooth manifold $M$
+with boundary $\p M$, $D$ possesses an elliptic boundary condition if and only
+if $\partial [D]$ = 0 in $K_1(\partial M)$, where $[D]$ is the relative
+$K$-cycle in $K_0(M, \partial M)$ corresponding to $D$. We prove the ``if''
+part of this conjecture for $\dim(M)$ $\not=$ 4, 5, 6, 7 and the ``only if''
+part of the conjecture for arbitrary dimension.
+","[{""version"":""v1"",""created"":""Fri, 1 Jan 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9301214",,"Roger E. Howe","Homogeneous functions on light cones: the infinitesimal structure of
+  some degenerate principal series representations","74 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 1-74",,"Bulletin migration 11/99","math.RT",,"  In this paper we study the reducibility, composition series and unitarity of
+the components of some degenerate principal series representations of
+$\RMO(p,q)$, $\RMU(p,q)$ and $\SP(p,q)$. This is done by realizing these
+representations in paces of homogeneous functions on light cones and writing
+down the explicit actions of the universal enveloping algebra of the group
+concerned.
+","[{""version"":""v1"",""created"":""Fri, 1 Jan 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9301215","Alexander G. Ramm","Alexander G. Ramm, Alexander I. Zaslavsky","Singularities of the Radon transform","7 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 109-115",,"Bulletin migration 11/99","math.CA",,"  Singularities of the Radon transform of a piecewise smooth function $f(x)$,
+$x\in R^n$, $n\geq 2$, are calculated. If the singularities of the Radon
+transform are known, then the equations of the surfaces of discontinuity of
+$f(x)$ are calculated by applying the Legendre transform to the functions,
+which appear in the equations of the discontinuity surfaces of the Radon
+transform of $f(x)$; examples are given. Numerical aspects of the problem of
+finding discontinuities of $f(x)$, given the discontinuities of its Radon
+transform, are discussed.
+","[{""version"":""v1"",""created"":""Fri, 1 Jan 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9301216",,"Neil Robertson, Paul Seymour, Robin Thomas","Linkless embeddings of graphs in $3$-space","6 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 84-89",,"Bulletin migration 11/99","math.CO math.GT",,"  We announce results about flat (linkless) embeddings of graphs in 3-space. A
+piecewise-linear embedding of a graph in 3-space is called {\it flat} if every
+circuit of the graph bounds a disk disjoint from the rest of the graph. We have
+shown:
+  (i) An embedding is flat if and only if the fundamental group of the
+complement in 3-space of the embedding of every subgraph is free.
+  (ii) If two flat embeddings of the same graph are not ambient isotopic, then
+they differ on a subdivision of $K_5$ or $K_{3,3}$.
+  (iii) Any flat embedding of a graph can be transformed to any other flat
+embedding of the same graph by ``3-switches'', an analog of 2-switches from the
+theory of planar embeddings. In particular, any two flat embeddings of a
+4-connected graph are either ambient isotopic, or one is ambient isotopic to a
+mirror image of the other.
+  (iv) A graph has a flat embedding if and only if it has no minor isomorphic
+to one of seven specified graphs. These are the graphs that can be obtained
+from $K_6$ by means of $Y\Delta$- and $\Delta Y$-exchanges.
+","[{""version"":""v1"",""created"":""Fri, 1 Jan 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9301217","Herbert Stahl","Herbert Stahl","Best uniform rational approximation of $x^\alpha$ on $[0,1]$","7 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 116-122",,"Bulletin migration 11/99","math.CA",,"  A strong error estimate for the uniform rational approximation of $x^\alpha$
+on $[0,1]$ is given, and its proof is sketched. Let $E_{nn}(x^\alpha,[0,1])$
+denote the minimal approximation error in the uniform norm. Then it is shown
+that $$\lim_{n\to\infty}e^{2\pi\sqrt{\alpha n}}E_{nn}(x^\alpha,[0,1]) =
+4^{1+\alpha}|\sin\pi\alpha|$$ holds true for each $\alpha>0$.
+","[{""version"":""v1"",""created"":""Fri, 1 Jan 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9301218",,"Lang-Fang Wu","A new result for the porous medium equation derived from the Ricci flow","5 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 90-94",,"Bulletin migration 11/99","math.AP",,"  Given $\Bbb R^2, $ with a ``good'' complete metric, we show that the unique
+solution of the Ricci flow approaches a soliton at time infinity. Solitons are
+solutions of the Ricci flow, which move only by diffeomorphism. The Ricci flow
+on $\Bbb R^2$ is the limiting case of the porous medium equation when $m$ is
+zero. The results in the Ricci flow may therefore be interpreted as sufficient
+conditions on the initial data, which guarantee that the corresponding unique
+solution for the porous medium equation on the entire plane asymptotically
+behaves like a ``soliton-solution''.
+","[{""version"":""v1"",""created"":""Fri, 1 Jan 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9301219",,"Shuang Zhang","Factorizations of invertible operators and $K$-theory of $C^*$-algebras","9 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 75-83",,"Bulletin migration 11/99","math.OA math.AT",,"  Let $\Scr A$ be a unital C*-algebra. We describe \it K-skeleton
+factorizations \rm of all invertible operators on a Hilbert C*-module $\Scr
+H_{\Scr A}$, in particular on $\Scr H=l^2$, with the Fredholm index as an
+invariant. We then outline the isomorphisms $K_0(\Scr A) \cong \pi
+_{2k}([p]_0)\cong \pi _{2k} ({GL}^p_r(\Scr A))$ and $K_1(\Scr A)\cong \pi
+_{2k+1}([p]_0)\cong \pi _{2k+1}(GL^p_r(\Scr A))$ for $k\ge 0 $, where $[p]_0$
+denotes the class of all compact perturbations of a projection $p$ in the
+infinite Grassmann space ${Gr}^{\infty }(\Scr A)$ and $GL^p_r(\Scr A)$ stands
+for the group of all those invertible operators on $\Scr H_{\Scr A}$
+essentially commuting with $p$.
+","[{""version"":""v1"",""created"":""Fri, 1 Jan 1993 00:00:00 GMT""}]","2009-09-25"

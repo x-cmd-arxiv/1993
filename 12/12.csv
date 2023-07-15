@@ -1,0 +1,54 @@
+"astro-ph/9312022",,"David H Lyth (School of Physics and Materials, Lancaster University,
+  52 LA1 4YB. U. K.)","Introduction to Cosmology","(Lectures given at the Summer School in High Energy Physics and
+  Cosmology, ICTP (Trieste) 1993.) 60 pages, plus 5 Figures by airmail on
+  request. LANC-TH 9319",,,,"astro-ph gr-qc hep-ph",,"  These notes form an introduction to cosmology with special emphasis on large
+scale structure, the cmb anisotropy and inflation. In some places a basic
+familiarity with particle physics is assumed, but otherwise no special
+knowledge is needed. Most of the material in the first two sections can be
+found in several texts, except that the discussion of dark matter and the
+cosmological constant is more up to date. Most of that in the remaining
+sections can be found in a review of structure formation and inflation done
+with Andrew Liddle, which describes original work by various authors including
+ourselves and Ewan Stewart. The reader is referred to these works for more
+detail, and a very complete list of references.
+","[{""version"":""v1"",""created"":""Sun, 12 Dec 1993 15:29:00 GMT""}]","2007-05-23"
+"cond-mat/9312047","Wenbin Yu","Wenbin and David G. Stroud","Vortex Motion and Vortex Friction Coefficient in Triangular Josephson
+  Junction Arrays","12 pages + 14 figures, REVTeX 3.0, will be published in Phys. Rev. B",,,,"cond-mat",,"  The dynamical response of triangular JJA is investigated using the RCSJ
+model. A flux flow regime is found to extend between a lower vortex-depinning
+current and a higher critical current, in agreement with previous calculations
+for square arrays. In the flux flow regime, the dynamical response to the bias
+current is roughly Ohmic, and the time-dependent voltage can be well understood
+in terms of vortex degrees of freedom. The vortex friction coefficient $\eta$
+depends strongly on the McCumber-Stewart parameter $\beta$, and at large
+$\beta$ is approximately independent of the shunt resistance $R$. To account
+for this, we generalize a model of Geigenm\""{u}ller {\it et al} to treat energy
+loss from moving vortices to the phase analog of optical spin waves in a
+triangular lattice. The value of $\eta$ at all values of $\beta$ agrees quite
+well with this model in the low-density limit. The vortex depinning current is
+estimated as $0.042I_c$, independent of the direction of applied current, in
+agreement with static calculations by Lobb {\it et al}. A simple argument
+suggests that quantum effects in vortex motion may become important when the
+flux flow resistivity is of order $h/(2e)^2$ per unit frustration.
+","[{""version"":""v1"",""created"":""Sun, 12 Dec 1993 03:44:32 GMT""}]","2007-05-23"
+"hep-ph/9312263",,"Edi Halyo","TeV Scale Leptoquarks as a Signature of Standard--like Superstring
+  Models","14 pages, uses phyzzx.tex, WIS-93/114/DEC-PH. (Section 2 is
+  shortened, comparison to the flipped SU(5)XU(1) models added in Section 5 and
+  six references added.)","Phys.Lett.B326:251-257,1994","10.1016/0370-2693(94)91318-8",,"hep-ph",,"  We show that there can be TeV scale scalar and fermionic leptoquarks with
+very weak Yukawa couplings in a generic standard--like superstring model.
+Leptoquark--(down--like) quark mixing though present, is not large enough to
+violate the unitarity bounds on the CKM matrix. The constraints on leptoquark
+masses and couplings from FCNCs are easily satisfied whereas those from baryon
+number violation may cause problems. The leptoquarks of the model are compared
+to the ones in $E_6$ Calabi--Yau and flipped $SU(5) \times U(1)$ models.
+","[{""version"":""v1"",""created"":""Sun, 12 Dec 1993 11:26:55 GMT""},{""version"":""v2"",""created"":""Wed, 16 Feb 1994 17:20:40 GMT""}]","2010-11-01"
+"hep-th/9312093","Ettore Aldrovandi","E.Aldrovandi and G.Falqui","Geometry of Higgs and Toda Fields on Riemann Surfaces","26 pages, LaTeX+AMSFonts (One section and a few comments added) Aar.
+  Mat. Inst. Prep. 1993/32 -- Montpellier PM/93--43","J.Geom.Phys. 17 (1995) 25-48","10.1016/0393-0440(94)00038-6",,"hep-th",,"  We discuss geometrical aspects of Higgs systems and Toda field theory in the
+framework of the theory of vector bundles on Riemann surfaces of genus greater
+than one. We point out how Toda fields can be considered as equivalent to Higgs
+systems -- a connection on a vector bundle $E$ together with an
+End($E$)--valued one form both in the standard and in the Conformal Affine
+case. We discuss how variations of Hodge structures can arise in such a
+framework and determine holomorphic embeddings of Riemann surfaces into locally
+homogeneous spaces, thus giving hints to possible realizations of
+$W_n$--geometries. }
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1993 19:47:00 GMT""},{""version"":""v2"",""created"":""Thu, 9 Jun 1994 14:57:41 GMT""}]","2009-10-22"

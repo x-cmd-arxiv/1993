@@ -1,0 +1,212 @@
+"astro-ph/9308024","David Valls Gabaud","R.N. Henriksen and D. Valls-Gabaud","Cored Apple Bipolarity : A Global Instability to Convection in Radial
+  Accretion?","PostScript, 10 pages",,"10.1093/mnras/266.3.681",,"astro-ph",,"  We propose that the prevalence of bipolarity in Young Stellar Objects is due
+to the fine tuning that is required for spherical accretion of an ambient
+medium onto a central node.It is shown that there are two steady modes that are
+more likely than radial accretion, each of which is associated with a
+hyperbolic central point in the meridional stream lines, and consequently with
+either an equatorial inflow and an axial ejection or vice versa. In each case
+the stream lines pass through a thick accretion torus, which is better thought
+of as a standing pressure wave rather than as a relatively inert Keplerian
+structure.We base our arguments on a simple analytic example,which is topologi
+cally generic,wherein each bipolarmode is created by the rebound of accreting
+matter under the action of the thermal,magnetic,turbulent and centrifugal
+pressures created in the flow. In both bipolar modes the presence of non-zero
+angular momentum implies axial regions wherein the pressure is first reduced
+below the value at infinity and then becomes negative, where the solution fails
+because rotating material can not enter this region without suction.The model
+thus has empty stems where the activity of the central source must dominate.So
+the basic engine of the bipolar flow discussed here is simply the rebound of
+freely falling material from a thick pressure disc into an axial low pressure
+region.The low mass,high velocity outflow must be produced in this region by an
+additional mechanism. This is reminiscent of the cored apple structure observed
+recently in the very young bipolar source VLA 1623.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 00:52:47 GMT""}]","2015-06-24"
+"cond-mat/9308026","Stephan Haas","Stephan Haas, Jose Riera and Elbio Dagotto","Random Exchange Disorder in the Spin-1/2 XXZ Chain","9 pages + 8 plots appended, RevTex, FSU-SCRI-93-98 and
+  ORNL/CCIP/93/10",,"10.1103/PhysRevB.48.13174",,"cond-mat",,"  The one-dimensional XXZ model is studied in the presence of disorder in the
+Heisenberg Exchange Integral. Recent predictions obtained from renormalization
+group calculations are investigated numerically using a Lanczos algorithm on
+chains of up to 18 sites. It is found that in the presence of strong
+X-Y-symmetric random exchange couplings, a ``random singlet'' phase with
+quasi-long-range order in the spin-spin correlations persists. As the planar
+anisotropy is varied, the full zero-temperature phase diagram is obtained and
+compared with predictions of Doty and Fisher [Phys. Rev. B {\bf 45 }, 2167
+(1992)].
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 19:19:33 GMT""}]","2016-08-31"
+"cond-mat/9308027",,"Jose' Riera and Elbio Dagotto","Cluster diagonalization in systematically expanded Hilbert spaces:
+  application to models of correlated electrons","26 pages + 12 figures, available upon request, LATEX, preprint
+  ORNL/CCIP/93/7",,"10.1103/PhysRevB.48.9515",,"cond-mat",,"  A method of cluster diagonalization in a systematically expanded Hilbert
+space is described. We discuss some applications of this procedure to models of
+high-T_c superconductors, like the t - J and one and three bands Hubbard models
+in two dimensions. The results obtained with this method are compared against
+results obtained with other techniques dealing with truncated Hilbert spaces.
+The relation between this method of diagonalization in a reduced Hilbert space,
+and perturbation theory and variational techniques is also discussed.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 14:36:53 GMT""}]","2009-10-22"
+"gr-qc/9308017","David Valls Gabaud","David Valls-Gabaud and Thomas Zannias","On the mechanism of trapped surface formation","PostScript, 9 pages with 3 figures (included)",,"10.1103/PhysRevD.48.2943",,"gr-qc astro-ph",,"  By a combination of analytical and numerical methods, the density profile of
+a momentarily at rest spherical star is varied, and the corresponding response
+in the area of the spherical shells is monitored. It is shown that the inner
+apparent horizon (if it exists) must lie within or at most on the star's
+surface, while no such restriction is found for the outer apparent horizon.
+However, an apparent horizon lying in the vacuum region will always have non
+vanishing area, as long as the ADM mass of the system is non zero. Furthermore
+for density profiles not decreasing inwards, it appears that all spherical
+trapped surfaces lie on a thick spherical shell. Finally for a uniform density
+star a simple criterion is found, relating density and proper radius that
+guarantees the presence or absence of trapped regions.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 04:51:03 GMT""}]","2009-10-22"
+"hep-ph/9308290","Jutta Kunz","Guido Nolte and Jutta Kunz","The Sphaleron Barrier in the Presence of Fermions","19 pages, latex, 18 figures in 3 seperate uuencoded postscript files
+  THU-93/17","Phys.Rev. D48 (1993) 5905-5916","10.1103/PhysRevD.48.5905",,"hep-ph",,"  We calculate the minimal energy path over the sphaleron barrier in the
+pre\-sen\-ce of fermions, assuming that the fermions of a doublet are
+degenerate in mass. This allows for spherically symmetric ans\""atze for the
+fields, when the mixing angle dependence is neglected. While light fermions
+have little influence on the barrier, the presence of heavy fermions ($M_F
+\sim$ TeV) strongly deforms the barrier, giving rise to additional sphalerons
+for very heavy fermions ($M_F \sim$ 10 TeV). Heavy fermions form
+non-topological solitons in the vacuum sector.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 16:07:49 GMT""}]","2009-10-22"
+"hep-ph/9308291",,"M. Drees (Univ. of Wisconsin, Madison) and M.M. Nojiri (KEK, Japan)","Scalar Stoponium","7 pages and 3 figures available from DREES@WISCPHEN, preprint nos.
+  MAD/PH/782, KEK-TH-368. LaTeX with EQUATION.STY",,,,"hep-ph",,"  We study the decays of a scalar \stst\ bound state \sigst, where \st\ is the
+lighter stop eigenstate. If \st\ has no tree--level 2--body decays, the
+dominant decay modes of \sigst\ are $gg$ or, if $m_h < \mst \ll \mstt$, a pair
+of light scalar Higgs bosons $h$. The best signal for \sigst\ production at
+hadron colliders is probably its decay into two photons.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 17:55:00 GMT""}]","2007-05-23"
+"hep-ph/9308292","Ann E. Nelson","Tom Banks, David B. Kaplan and Ann E. Nelson","Cosmological Implications of Dynamical Supersymmetry Breaking","24 pages (uses harvmac) UCSD/PTH 93-26, RU-37","Phys.Rev.D49:779-787,1994","10.1103/PhysRevD.49.779",,"hep-ph",,"  We provide a taxonomy of dynamical supersymmetry breaking theories, and
+discuss the cosmological implications of the various types of models. Models in
+which supersymmetry breaking is produced by chiral superfields which only have
+interactions of gravitational strength (\eg\ string theory moduli) are
+inconsistent with standard big bang nucleosynthesis unless the gravitino mass
+is greater than $\CO(3) \times 10^4$ GeV. This problem cannot be solved by
+inflation. Models in which supersymmetry is dynamically broken by
+renormalizable interactions in flat space have no such cosmological problems.
+Supersymmetry can be broken either in a hidden or the visible sector. However
+hidden sector models suffer from several naturalness problems and have
+difficulties in producing an acceptably large gluino mass.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 19:00:23 GMT""}]","2008-11-26"
+"hep-ph/9308293","M. Hossein Partovi","M. Hossein Partovi","Detecting the Photon-Photon Interaction by Colliding Laser Beam
+  Interferometry","10 pages, Revtex 3.0",,,,"hep-ph gr-qc hep-th",,"  The feasibility of detecting the photon-photon interaction using Fabry-Perot
+type laser interferometers developed for gravity wave detection is
+demonstrated. An ``external'' laser beam, serving as a refractive medium, is
+alternatively fed into the cavities of the interferometer and made to collide
+with the ``internal'' beams thereby inducing a measurable phase difference
+between them.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 19:13:20 GMT""}]","2007-05-23"
+"hep-ph/9308294","Eric Laenen","E.Laenen, E.Levin and A.G. Shuvaev","Anomalous Dimensions of High Twist Operators in QCD at $N \rightarrow 1$
+  and large $Q^2","jytex (see macros directory), 18 pages , 9 figures, uuencoded at back
+  of file, FERMILAB-PUB-93/243-T","Nucl.Phys.B419:39-58,1994","10.1016/0550-3213(94)90356-5",,"hep-ph",,"  The anomalous dimensions of high-twist operators in deeply inelastic
+scattering ($\gamma_{2n}$) are calculated in the limit when the moment variable
+$N \rightarrow 1$ (or $x_B\rightarrow 0$) and at large $Q^2$ (the double
+logarithmic approximation) in perturbative QCD. We find that the value of
+$\gamma_{2n}(N-1)$ in this approximation behaves as ${N_c \alpha_S \over \pi
+(N-1)} n^2(1 + {\delta \over 3} (n^2-1))$ where $\delta \approx 10^{-2}$. This
+implies that the contributions of the high-twist operators give rise to an
+earlier onset of shadowing than was estimated before. The derivation makes use
+of a Pomeron exchange approximation, with the Pomerons interacting
+attractively. We find that they behave as a system of fermions.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 20:44:30 GMT""}]","2008-11-26"
+"hep-ph/9308295","Eric Laenen","E.Laenen, S.Riemersma, J.Smith, W.L. van Neerven","Complete Next to Leading Order QCD Corrections to the Photon Structure
+  Functions $F^\gamma_2(x,Q^2)$ and $F_L^\gamma(x,Q^2)$","Latex 34 pages, 24 figures, uuencoded, attached at end, ITP-SB-93-46,
+  FERMILAB-Pub-93/240-T, SMU HEP 93-14","Phys.Rev.D49:5753-5768,1994","10.1103/PhysRevD.49.5753",,"hep-ph",,"  We present the complete NLO QCD analysis of the photon structure functions
+$F_2^\gamma(x,Q^2)$ and $F_L^\gamma(x,Q^2)$ for a real photon target. In
+particular we study the heavy flavor content of the structure functions which
+is due to two different production mechanisms, namely collisions of a virtual
+photon with a real photon, and with a parton. We observe that the charm
+contributions are noticeable for $F_2^\gamma(x,Q^2)$ as well as
+$F_L^\gamma(x,Q^2)$ in the x-region studied.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 20:45:12 GMT""}]","2008-11-26"
+"hep-ph/9308296",,"R.N. Mohapatra, S. Nussinov and X. Zhang","Lepton Flavor Violation and the Tau Neutrino Mass","UMDHEP 94-30, 14 pages, TeX file, (some new references added)","Phys.Rev. D49 (1994) 2410-2413","10.1103/PhysRevD.49.2410",,"hep-ph",,"  We point out that, in the left-right symmetric model of weak interaction, if
+$\nu_\tau$ mass is in the keV to MeV range, there is a strong correlation
+between rare decays such as $\tau \rightarrow 3 \mu, \tau \rightarrow 3 e$ and
+the $\nu_\tau$ mass. In particular, we point out that a large range of
+$\nu_\tau$ masses are forbidden by the cosmological constraints on
+$m_{\nu_\tau}$ in combination with the present upper limits on these processes.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 20:59:33 GMT""},{""version"":""v2"",""created"":""Thu, 19 Aug 1993 17:55:11 GMT""}]","2009-10-22"
+"hep-ph/9308297","Myron Bander","Myron Bander and H. R. Rubinstein","Fields in the Vicinity of a Superconducting Cosmic String","7pages, UCI TR 93-28, LaTex with Revtex III macros",,,,"hep-ph",,"  Superconducting cosmic strings may be viewed as wires of thickness
+$1/\Lambda$ with $\Lambda=10^{16}$ TeV. We show that the weak interactions will
+spread out the current to distances $r= (1/M_Z)\ln (I/M_Z)$, where $I$ is the
+magnitude of the current in the string. Consequences for the scattering of
+light by these strings is presented.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 21:46:33 GMT""}]","2007-05-23"
+"hep-ph/9308298","Dey Mira","Jishnu Dey, Lauro Tomio, Mira Dey","Problem of Statistical Model in Deep Inelastic Scattering Phenomenology","8 pages, 2 figures, figures on request to tomio@ueift1.dnet.nasa.gov,
+  IFT preprint-IFT P-050/93, Latex","Phys.Lett. B318 (1993) 387-390; Addendum-ibid. B320 (1994) 431","10.1016/0370-2693(93)90144-7",,"hep-ph",,"  Recent Deep Inelastic data leads to an up-down quark asymmetry of the nucleon
+sea. Explanations of the flavour asymmetry and the di-lepton production in
+proton-nucleus collisions call for a temperature $T \approx 100$ MeV in a
+statistical model. This T may be conjectured as being due to the
+Fulling-Davies-Unruh effect. But it is not possible to fit the structure
+function itself.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 11:15:47 GMT""}]","2009-10-22"
+"hep-ph/9308299",,"Minos Axenides, Andrei Johansen and Holger Bech Nielsen","The Level Crossing Phenomenon with Yukawa Interactions","19 pages Latex, NBI-HE-93-46","Nucl.Phys. B414 (1994) 53-72","10.1016/0550-3213(94)90421-9",,"hep-ph",,"  In the minimal model of electroweak interactions we carefully investigate the
+spectrum of the massive euclidean \dop \ in three, four and five dimensions
+($D$) in the presence of \tly \ nontrivial \exl \ fields. More specifically we
+study the cases of the \inst \ ($D=4$), \sp \ ($D=3$) as well as that of the
+($D=5$) \dop \ that pertains to the existence of the \gl \ $SU(2)$ \an . We
+establish the \exst \ of \nl \ massive fermion \zm s in all three cases. We
+give closed form expressions which relate the massive with the massless \zm s.
+As a consequence the \lc \ phenomenon is shown to be manifest and generic in
+the presence of Yukawa interactions.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 12:03:09 GMT""}]","2009-10-22"
+"hep-ph/9308300",,"U. Ornik, R.M. Weiner and G. Wilk","Hydrodynamical Beam Jets in High Energy Hadronic Collisions","3 pages (1 page of figures) ,(LATEX), GSI-93-27","Nucl.Phys.A566:469c-472c,1994","10.1016/0375-9474(94)90671-8",,"hep-ph nucl-th",,"  A study of hadronic data up to TEVATRON energies in terms of relativistic
+hydrodynamics indicates an extended 1-dimensional stage of the expansion which
+suggests a jet like behaviour of the fireball along the collision axis.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 13:46:23 GMT""},{""version"":""v2"",""created"":""Thu, 26 Aug 1993 09:49:40 GMT""}]","2011-04-20"
+"hep-th/9308088",,"J. A. Dixon","The Search for Supersymmetry Anomalies--Does Supersymmetry Break Itself?
+  --","Talk given at the HARC conference on `Recent Advances in the
+  Superworld', LaTeX 15 pages, CTP-TAMU-45/93",,,,"hep-th hep-ph",,"  The established results concerning the BRS cohomology of supersymmetric
+theories in four space-time dimensions are briefly reviewed. The current status
+of knowledge concerning supersymmetry anomalies and the possibility that
+supersymmetry breaks itself through anomalies in local composite operators is
+then discussed.
+  It turns out that the simplest allowable supersymmetry anomalies occur only
+in conjunction with the spontaneous breaking of gauge symmetry. A simple
+example of such a possible supersymmetry anomaly is presented.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 19:56:14 GMT""}]","2007-05-23"
+"hep-th/9308089","M. Hossein Partovi","M. Hossein Partovi","QED Corrections to Planck's Radiation Law and Photon Thermodynamics","15 pages, Revtex 3.0","Phys.Rev. D50 (1994) 1118-1124","10.1103/PhysRevD.50.1118",,"hep-th astro-ph",,"  Leading corrections to Planck's formula and photon thermodynamics arising
+from the pair-mediated photon-photon interaction are calculated. This
+interaction is attractive and causes an increase in occupation number for all
+modes. Possible consequences, including the role of the cosmic photon gas in
+structure formation, are considered.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 21:04:25 GMT""}]","2009-10-22"
+"hep-th/9308090",,"\Mary K. Gaillard and Vidyut Jain","Supergravity Coupled to Chiral Matter at One Loop","33 pages, LBL-34457, UCB-PTH-93-22","Phys.Rev. D49 (1994) 1951-1965","10.1103/PhysRevD.49.1951",,"hep-th hep-ph",,"  We extend earlier calculations of the one-loop contributions to the effective
+bose Lagrangian in supergravity coupled to chiral matter. We evaluate all
+logarithmically divergent contributions for arbitrary background scalar fields
+and space-time metric. We show that, with a judicious choice of gauge fixing
+and of the definition of the action expansion, much of the result can be
+absorbed into a redefinition of the metric and a renormalization of the
+K\""ahler potential. Most of the remaining terms depend on the curvature of the
+K\""ahler metric. Further simplification occurs in models obtained from
+superstrings in which the K\""ahler Riemann tensor is covariantly constant.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 21:50:39 GMT""}]","2009-10-22"
+"hep-th/9308091","Mark Bowick","Konstantinos Anagnostopoulos, Mark Bowick, Paul Coddington, Marco
+  Falcioni, Leping Han, Geoffrey Harris and Enzo Marinari","Fluid Random Surfaces with Extrinsic Curvature: II","LaTeX, 11 pages, two figures, (the original version of this paper had
+  an hep-lat preprint number instead of an hep-th number- this is the only
+  change)","Phys.Lett. B317 (1993) 102-106","10.1016/0370-2693(93)91577-A","SU-HEP-93-4241-540; SCCS-511","hep-th hep-lat",,"  We present the results of an extension of our previous work on large-scale
+simulations of dynamically triangulated toroidal random surfaces embedded in
+$R^3$ with extrinsic curvature. We find that the extrinsic-curvature specific
+heat peak ceases to grow on lattices with more than 576 nodes and that the
+location of the peak $\lam_c$ also stabilizes. The evidence for a true
+crumpling transition is still weak. If we assume it exists we can say that the
+finite-size scaling exponent $\frac {\alpha} {\nu d}$ is very close to zero or
+negative. On the other hand our new data does rule out the observed peak as
+being a finite-size artifact of the persistence length becoming comparable to
+the extent of the lattice.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 01:08:41 GMT""},{""version"":""v2"",""created"":""Thu, 19 Aug 1993 14:35:40 GMT""}]","2009-10-22"
+"hep-th/9308092",,"Zhong-Qi Ma and An-Ying Dai","A New Solution of the Yang-Baxter Equation Related to the Adjoint
+  Representation of $U_{q}B_{2}$","16 pages (Latex), Preprint BIHEP-TH-93-30","J.Phys. A27 (1994) 1999-2010","10.1088/0305-4470/27/6/023",,"hep-th",,"  A new solution of the Yang-Baxter equation, that is related to the adjoint
+representation of the quantum enveloping algebra $U_{q}B_{2}$, is obtained by
+fusion formulas from a non-standard solution.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 07:29:33 GMT""}]","2009-10-22"
+"hep-th/9308093","Jakub Rembielinski","J. Rembielinski","Quantum Braided Poincar\'E Group","LaTeX (A4), 11pp., KFT UL 7/93",,,,"hep-th",,"  A new deformation of the of the Poincar\'e group and of the Minkowski
+space-time is given. From the mathematical point of view this deformation is
+rather quantum-braided group. Global and local structure of this
+quantum-braided Poincar\'e group is investigated. A kind of ``quantum metrics''
+is introduced in the $q$-Minkowski space.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 09:25:42 GMT""}]","2007-05-23"
+"nucl-th/9308015",,"Udo Ornik, M. Pluemer and D. Strottman","Bose-condensation through resonance decay","12 pages GSI-93-27 PREPRINT","Phys. Lett. B 314 (1993) 401","10.1016/0370-2693(93)91257-N",,"nucl-th hep-ph",,"  We show that a system described by an equation of state which contains a high
+number of degrees of freedom (resonances) can create a considerable amount of
+superfluid (condensed) pions through the decay of short-lived resonances, if
+baryon number and entropy are large and the dense matter decouples from
+chemical equilibrium earlier than from thermal equilibrium. The system cools
+down faster in the presence of a condensate, an effect that may partially
+compensate the enhancement of the lifetime expected in the case of
+quark-gluon-plasma formation.
+","[{""version"":""v1"",""created"":""Thu, 19 Aug 1993 15:11:11 GMT""}]","2009-10-22"

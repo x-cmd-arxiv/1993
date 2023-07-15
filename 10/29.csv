@@ -1,0 +1,354 @@
+"alg-geom/9310008","Yves Laszlo","Andr\'e Hirschowitz, Yves Laszlo","A Propos de l'Existence de Fibr\'es Stables sur les Surfaces","9 pages, plain Tex, second version",,,,"alg-geom math.AG",,"  We prove the existence (in characteristic 0) on every polarized (smooth,
+projective and connected) surface of stable bundles of rank $r\geq 2$,
+arbitrary first Chern class and large enough $c_2$.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 13:54:06 GMT""},{""version"":""v2"",""created"":""Mon, 8 Nov 1993 08:43:21 GMT""}]","2008-02-03"
+"astro-ph/9310049","Gary Mamon","Gary A. Mamon","Bulge/Disk Segregation in the Universe","15 pages, uuencoded compressed postscript, invited review to appear
+  in 'Gravitational Dynamics and the N-Body Problem', ed. F. Combes & E.
+  Athanassoula, mtg. held in Aussois, France, March 1993, POP-DAEC-93044",,,,"astro-ph",,"  The observations of bulge/disk segregation in the Universe are reviewed with
+a focus on whether the observed segregation in clusters is local or global, and
+whether there is bulge-disk segregation on large-scales. The high concentration
+of bulge-rich galaxies in the cores of clusters of galaxies can be accounted
+for by several popular physical processes: 1) biased early elliptical
+formation, 2) abortion of disk formation by tidal destruction of the gas
+reservoirs that fuel such disks, 3) ram pressure stripping of the gas in disks
+by intergalactic gas, 4) merging of spiral galaxies into ellipticals (which is
+the main focus of this review). A global scenario is outlined incorporating
+each of these processes.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 16:16:30 GMT""}]","2007-05-23"
+"astro-ph/9310050",,"Ue-Li Pen","Modes of Elliptical Galaxies","12",,"10.1086/174470",,"astro-ph",,"  Long lived modes of elliptical galaxies can exist {\it \`a la} van Kampen.
+Specific systems may possess long lived oscillations which Landau damp on time
+scales longer than a Hubble time. Some physical processes such as a close
+encounter, tidal forces from a cluster or an orbiting satellite could
+preferentially excite a coherent mode. These may relate to the observed faint
+structure in elliptical galaxies such as shells and ripples. Their detection in
+projected phase space would ultimately provide a detailed probe of the
+underlying potential. I give an overview of linear perturbations to stationary
+solutions of the Vlasov equation, including a discretized Hermite polynomial
+expansion which explicitly demonstrates completeness and orthogonality of
+solutions. Some exact solutions are shown, which implies the feasibility of
+such a procedure and suggest future fully numerical studies.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 23:06:09 GMT""}]","2009-10-22"
+"astro-ph/9310051","Naoshi Sugiyama","Naoshi Sugiyama, Joseph Silk and Nicola Vittorio","Reionization and Cosmic Microwave Anisotropies","10 pages, compressed uuencoded postscript (without figures),
+  CfPA-TH-93-28",,"10.1086/187122",,"astro-ph",,"  The effects of reionization, occurring after standard recombination in cold
+dark matter-dominated models, on CMB anisotropies are investigated. Late-time
+reionization reduces the CMB anisotropies, in particular, on degree scales. It
+is found that constraints on cold dark matter-dominated models from the highest
+frequency channel of the 9-point South Pole data are significantly relaxed for
+models which are consistent with Big Bang nucleosynthesis if reionization is
+assumed to have occurred by redshift $\sim 20.$
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 00:48:54 GMT""}]","2009-10-22"
+"astro-ph/9310052",,"P. Mazzei, G. De Zotti, C. Xu","Models for the Evolution of the Spectral Energy Distribution of
+  Elliptical Galaxies from UV to Far--IR Wavelengths","14, TeX, 228-10-93",,"10.1086/173705",,"astro-ph",,"  We have worked out evolutionary synthesis models of the broad-band spectral
+energy distribution of elliptical galaxies over the whole frequency range from
+UV to far--IR. Internal extinction and far--IR re--emission by interstellar
+dust have been taken into account in a self--consistent way. Diffuse dust
+emission has been modelled in terms of two components: warm dust, located in
+regions of high radiation intensity, and cold dust, heated by the general
+radiation field. Emission from circumstellar dust clouds at different galactic
+ages was also taken into account. The models reproduce well the present average
+broad--band spectrum of nearby ellipticals over about four decades in
+frequency. Under the assumption of a dust--to--gas ratio proportional to the
+metallicity, the fraction of bolometric luminosity coming out at far-IR
+wavelengths strongly evolves during the galaxy lifetime, ranging from very low
+local values ($\lsim 0.5\%$) to $\sim 30\%$ or more in the first billion years.
+Some models even imply that early phases are optically thick; these models
+provide an excellent fit of the observed spectral energy distribution of the
+high redshift galaxy IRAS F10214$+$4724. Far--IR observations may thus play a
+key role in investigating the early evolution of elliptical galaxies. A strong
+far-IR evolution of early-type galaxies might be a crucial ingredient to
+explain the deep $60\mic$ IRAS counts.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 09:01:00 GMT""}]","2009-10-22"
+"chao-dyn/9310006","Ralf Utermann","R. Utermann, T. Dittrich, and P. Hanggi (University of Augsburg,
+  Institute of Physics)","Tunneling And The Onset Of Chaos In A Driven Bistable System","17 pages in REVTeX preprint format. A version with encapsulated
+  Postscript figures included (via epsf) and GIF-images of wave functions are
+  available from the Gopher server aix.rz.uni-augsburg (port 300) in directory
+  U Augsburg/Inst.f.Physik/Lst.f.Theo.PhysI/Tunneling and","Phys. Rev. E 49 (1994) 273-280","10.1103/PhysRevE.49.273",,"chao-dyn nlin.CD",,"  We study the interplay between coherent transport by tunneling and diffusive
+transport through classically chaotic phase-space regions, as it is reflected
+in the Floquet spectrum of the periodically driven quartic double well. The
+tunnel splittings in the semiclassical regime are determined with high
+numerical accuracy, and the association of the corresponding doublet states to
+either chaotic or regular regions of the classical phase space is quantified in
+terms of the overlap of the Husimi distribution with the chaotic layer along
+the separatrix. We find a strong correlation between both quantities. They show
+an increase by orders of magnitude as chaotic diffusion between the wells
+starts to dominate the classical dynamics. We discuss semiclassical
+explanations for this correlation.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 16:18:44 GMT""}]","2009-10-22"
+"cond-mat/9310073",,"J. A. N. Filipe and A. J. Bray","Gaussian Approach for Phase Ordering in Nonconserved Scalar Systems with
+  Long-Range Interactions","19 pages, Plain LaTeX, M/C.TH.93/27",,,,"cond-mat",,"  We have applied the gaussian auxiliary field method introduced by Mazenko to
+the ordering dynamics of a non-conserved scalar system with attractive
+long-range interactions. This study provides a test-bed for the approach and
+shows some of the difficulties encountered in constructing a closed theory for
+the pair correlation function. The equation obtained for the equal-time
+two-point correlation function is studied in the limiting cases of small and
+large values of the scaling variable. A Porod regime at short distance and an
+asymptotic power-law decay at large distance are obtained. The theory, is not,
+however, consistent with the expected growth-law, and attempts to retrieve the
+correct growth lead to inconsistencies. These results indicate a failure of the
+gaussian assumption (at least in the form in which we use it) for this system.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 14:02:54 GMT""}]","2007-05-23"
+"cond-mat/9310074","Jordi Garcia Ojalvo","Jordi Garcia-Ojalvo (Universitat Politecnica de Catalunya) and Jose M.
+  Sancho (Universitat de Barcelona)","Colored noise in Spatially-Extended Systems","19 pages (REVTEX 3.0), 9 figures appended or available upon request
+  to ojalvo@noise.ecm.ub.es",,"10.1103/PhysRevE.49.2769",,"cond-mat",,"  We study the effects of time and space correlations of an external additive
+colored noise on the steady-state behavior of a Time-Dependent Ginzburg-Landau
+model. Simulations show the existence of nonequilibrium phase transitions
+controlled by both the correlation time and length of the noise. A
+Fokker-Planck equation and the steady probability density of the process are
+obtained by means of a theoretical approximation.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 14:33:35 GMT""}]","2009-10-22"
+"cond-mat/9310075",,"R. E. Blundell and A. J. Bray","Phase Ordering Dynamics of the O(n) Model - Exact Predictions and
+  Numerical Results","23 pages, Plain LaTeX, M/C.TH.93/26",,"10.1103/PhysRevE.49.4925",,"cond-mat",,"  We consider the pair correlation functions of both the order parameter field
+and its square for phase ordering in the $O(n)$ model with nonconserved order
+parameter, in spatial dimension $2\le d\le 3$ and spin dimension $1\le n\le d$.
+We calculate, in the scaling limit, the exact short-distance singularities of
+these correlation functions and compare these predictions to numerical
+simulations. Our results suggest that the scaling hypothesis does not hold for
+the $d=2$ $O(2)$ model. Figures (23) are available on request - email
+bray@v2.ph.man.ac.uk
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 12:51:54 GMT""}]","2009-10-22"
+"gr-qc/9310039","Thomas Thiemann","T. Thiemann","Generalized boundary conditions for general relativity for the
+  asymptotically flat case in terms of Ashtekar's variables","Latex, 21 pages, PITHA 93-31, August 1993",,,,"gr-qc",,"  There is a gap that has been left open since the formulation of general
+relativity in terms of Ashtekar's new variables namely the treatment of
+asymptotically flat field configurations that are general enough to be able to
+define the generators of the Lorentz subgroup of the asymptotical Poincar\'e
+group. While such a formulation already exists for the old geometrodynamical
+variables, up to now only the generators of the translation subgroup could be
+defined because the function spaces of the fields considered earlier are taken
+too special. The transcription of the framework from the ADM variables to
+Ashtekar's variables turns out not to be straightforward due to the freedom to
+choose the internal SO(3) frame at spatial infinity and due to the fact that
+the non-trivial reality conditions of the Ashtekar framework reenter the game
+when imposing suitable boundary conditions on the fields and the Lagrange
+multipliers.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 09:50:37 GMT""}]","2007-05-23"
+"gr-qc/9310040","Khatsymovsky","V.Khatsymovsky","How to construct quantum measure in Regge calculus?","11 pages, Plain LaTeX, preprint UUITP-21/1993","Class.Quant.Grav.11:2443-2453,1994","10.1088/0264-9381/11/10/006",,"gr-qc",,"  We propose the following way of constructing quantum measure in Regge
+calculus: the full discrete Regge manifold is made continuous in some direction
+by tending corresponding dimensions of simplices to zero, then functional
+integral measure corresponding to the canonical quantization (with continuous
+coordinate playing the role of time) can be constructed. The full discrete
+measure is chosen so that it would result in canonical quantization one
+whatever coordinate is made continuous. This strategy is followed in 3D case
+where full discrete measure is determined in such the way practically uniquely
+(in fact, family of similar measures is obtained). Averaging with the help of
+the constructed measure gives finite expectation values for links.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 10:04:06 GMT""}]","2010-04-06"
+"gr-qc/9310041",,"Jos\'e P. S. Lemos and Paulo M. S\'a","The Two-Dimensional Analogue of General Relativity","8 pages, LaTeX, preprint DF/IST-17.93","Class.Quant.Grav.11:L11-L14,1994","10.1088/0264-9381/11/1/003",,"gr-qc",,"  General Relativity in three or more dimensions can be obtained by taking the
+limit $\omega\rightarrow\infty$ in the Brans-Dicke theory. In two dimensions
+General Relativity is an unacceptable theory. We show that the two-dimensional
+closest analogue of General Relativity is a theory that also arises in the
+limit $\omega\rightarrow\infty$ of the two-dimensional Brans-Dicke theory.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 13:27:44 GMT""}]","2010-04-06"
+"hep-lat/9310029","Thomas Kalkreuter","Thomas Kalkreuter","Towards Multigrid Methods for Propagators of Staggered Fermions with
+  Improved Averaging and Interpolation Operators","3 pages, to appear in the proceedings of LATTICE '93. NOTE: this is a
+  ps-file, should you require the LaTeX source code, contact author by e-mail","Nucl.Phys.Proc.Suppl. 34 (1994) 768-770","10.1016/0920-5632(94)90508-8",,"hep-lat",,"  A Dirac choice for the averaging kernel $C$ is implemented numerically. This
+improved kernel will be needed in gauge covariant multigrid computations for
+propagators of staggered fermions. Results for $C$ and the variational coarse
+grid operator will be given in 2-$d$ $SU(2)$ gauge fields. C++ is advocated for
+future algorithm development.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 16:52:23 GMT""}]","2016-08-31"
+"hep-lat/9310030",,"R.V.Gavai (ICTP, Trieste, Italy, and Tata Institute of Fundamental
+  Research, Bombay 400 005, India) and L.Polley (FB Physik, Oldenburg
+  University, 26111 Oldenburg, Germany)","C-Periodicity and the Physical Mass in the 3-State Potts Model","13 pages + 5 figures Preprint Nos. IC/93/131 and TIFR/TH/93-28","Phys. Lett. B324 (1994) 78-84","10.1016/0370-2693(94)00052-2",,"hep-lat",,"  The standard infinite-volume definition of connected correlation function and
+particle mass in the 3-state Potts model can be implemented in Monte Carlo
+simulations by using C-periodic spatial boundary conditions. This avoids both
+the breaking of translation invariance (cold wall b.c.) and the phase-dependent
+and thus possibly biased evaluation of data (periodic boundary cconditions).
+The numerical feasibility of the standard definitions is demonstrated by sample
+computations on a 24*24*48 lattice.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 11:13:25 GMT""}]","2009-10-22"
+"hep-ph/9310368","Smirnov Alexei","Alexei Yu. Smirnov","Neutrino Masses and Mixing","Talk given at the Int. Conf. ""Neutral Currents: Twenty Years Later""
+  (Paris, July 6 - 9), 15 pages (2 figures available upon request), LaTeX,
+  IC/93/359",,,,"hep-ph",,"  Restrictions on the neutrino masses and lepton mixing are reviewed. Solar,
+atmospheric and relic neutrinos give the indications of existence of nonzero
+neutrino masses and mixing. The data pick up two regions of mixing angles which
+are or appreciably larger or appreciably smaller than the Cabibbo angle. Some
+theoretical schemes with {\it large} or {\it small} lepton mixing are
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 16:10:48 GMT""}]","2009-09-25"
+"hep-ph/9310369","John March-Russell","Markus A. Luty and John March-Russell","Baryons from Quarks in the $1/N$ Expansion","27 pages, 5 uuencoded postscript figures, plain tex. References and
+  acknowledgements added. LBL-34778","Nucl.Phys. B426 (1994) 71-93","10.1016/0550-3213(94)90126-0",,"hep-ph nucl-th",,"  We present a diagrammatic analysis of baryons in the $1/N$ expansion, where
+$N$ is the number of QCD colors. We use this method to show that there are an
+infinite number of degenerate baryon states in the large-$N$ limit. We also
+show that forward matrix elements of quark bilinear operators satisfy the
+static quark-model relations in this limit, and enumerate the corrections to
+these relations to all orders in $1/N$. These results hold for any number of
+light quark flavors, and the methods used can be extended to arbitrary
+operators. Our results imply that for two flavors, the quark-model relations
+for the axial currents and magnetic moments get corrections of order $1/N^2$.
+For three or more flavors, the results are more complicated, and corrections
+are generically of order $1/N$. We write an explicit effective lagrangian which
+can be used to carry out chiral perturbation theory calculations in the $1/N$
+expansion. Finally, we compare our results to what is expected from a chiral
+constituent quark model.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 22:41:38 GMT""},{""version"":""v2"",""created"":""Wed, 24 Nov 1993 02:57:17 GMT""},{""version"":""v3"",""created"":""Wed, 8 Dec 1993 01:29:19 GMT""}]","2009-10-22"
+"hep-ph/9310370","Annamaria Zajec","Nguyen Ai Viet and Kameshwar C. Wali","Magnetic Monopoles in the Einstein-Yang-Mills-Higgs System","25 pages, SU-4240-558 (FIGURES appended as postscript.file)","Phys.Rev.D51:1664-1673,1995","10.1103/PhysRevD.51.1664",,"hep-ph hep-th",,"  We study the Yang-Mills-Higgs system within the framework of general
+relativity. In the static situation, using Bogomol'nyi type analysis, we derive
+a positive-definite energy functional which has a lower bound. Specializing to
+the gauge group $SU(2)$ and the t'Hooft-Polyakov ansatz for the gauge and Higgs
+fields, we seek static, spherically symmetric solutions to the coupled system
+of equations in both the isotropic and standard coordinate systems. In both
+cases, in the spontaneously broken symmetry situation, we find great
+simplications reducing the solutions of the coupled system to the solution of a
+single non-linear differential equation, different one in each case, but
+well-known in other contexts of physics. We find abelian and non-abelian
+monopole solutions with gravitational fields playing the role of Higgs fields
+in providing attraction that balances the repulsion due to the gauge fields.
+Numerical solutions indicate the possibility of blackhole horizons inside the
+monopoles enclosing the singularity at the origin. Such non-abelian monopoles
+are then the analogs of Reissner-Nordstr\""om blackholes with magnetic charge.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 02:49:00 GMT""}]","2010-11-01"
+"hep-ph/9310371",,"Dae Gyu Lee and R.N.Mohapatra (University of Maryland, College Park)","Natural Doublet-Triplet Splitting in Supersymmetric SO(10) Model","UMD-PP-94-50, Latex,9 pages","Phys.Lett. B324 (1994) 376-379","10.1016/0370-2693(94)90209-7",,"hep-ph",,"  We construct a supersymmetric SO(10) model, where natural doublet-triplet
+splitting implemented via the Dimopoulos-Wilczek mechanism is stable under the
+addition of 126+\bar{126} Higgs superfields needed to generate the small
+neutrino masses via the see-saw mechanism and where both the charged fermion
+and neutrino masses arise from just one set of 10 and \bar{126} multiplets.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 13:22:22 GMT""}]","2009-10-22"
+"hep-ph/9310372","Judy Mack","Ashok Das","On the Higher Order Corrections to Heavy Quark Effective Theory","17 pages, UR-1325, ER-40685-775","Mod.Phys.Lett. A9 (1994) 341-354","10.1142/S0217732394000368",,"hep-ph",,"  We show that the different ways of deriving the Heavy Quark Effective Theory
+(HQET) lead to equivalent theories. The equivalence can be established through
+a careful redefinition of the field variables. We demonstrate the equivalence
+to order ${1 \over m^5}$ in the presence of a constant electric field.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 14:46:00 GMT""}]","2015-06-25"
+"hep-ph/9310373","Stephen Hsu","Stephen D.H. Hsu","Nonperturbative Decoupling and Effective Field Theory","12 pages no figures. HUTP-93-A019","Phys.Rev. D51 (1995) 1395-1401","10.1103/PhysRevD.51.1395",,"hep-ph hep-lat hep-th",,"  We examine recent claims that nonperturbative effects can prevent the
+decoupling of a heavy fermion whose mass arises from a Yukawa coupling to a
+scalar field. We show that in weakly coupled, four dimensional models such as
+the standard model with heavy mirror fermions the effects of the heavy fermions
+can always be accounted for by {\it local} operators involving light fields. We
+contrast this with the case of the 1+1 dimensional Abelian Higgs model, in
+which there does not appear to be a local effective field theory describing the
+low energy physics when heavy fermions are integrated out. (Mailer corruption
+hopefully fixed!)
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 14:13:52 GMT""},{""version"":""v2"",""created"":""Mon, 1 Nov 1993 18:27:45 GMT""}]","2009-10-22"
+"hep-ph/9310374",,"D. Comelli, A. Masiero, M. Pietroni and A. Riotto","Spontaneous Breaking of R parity in the Minimal Supersymmetric Standard
+  Model Revisited","10 pages, DFPD 93/TH/68, UTS-DFT-93-27, SISSA 93/168/A preprints, 2
+  figures available upon e-mail request","Phys.Lett. B324 (1994) 397-402","10.1016/0370-2693(94)90212-7",,"hep-ph",,"  We reconsider the possibility of spontaneous breaking of $R$ parity in the
+Minimal Supersymmetric Standard Model. By a renormalization group analysis we
+find the parameter space in which a sneutrino gets a vacuum expectation value,
+leading to the spontaneous breaking of the lepton number and to the appearance
+of a phenomenologically unacceptable massless Goldstone boson. We then analyze
+the effect of operators giving rise to a tiny amount of explicit violation of
+lepton number, which could emerge as remnants of physics at some superheavy
+(Planck or GUT) scale in the low energy effective theory. We show that the
+conspiracy between the spontaneous and the explicit breaking scales can provide
+a mass to the Goldstone boson larger than the ${\rm Z}^0$ boson mass, hence
+allowing for a non vanishing sneutrino vacuum expectation value without
+increasing the invisible width of the ${\rm Z}^0$.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 15:36:16 GMT""}]","2009-10-22"
+"hep-th/9310183","Gustav Delius","Anthony J. Bracken, Gustav W. Delius, Mark D. Gould and Yao-Zhong
+  Zhang","Infinite Families of Gauge-Equivalent $R$-Matrices and Gradations of
+  Quantized Affine Algebras","14 pages, Latex, UQMATH-93-10 (final version for publication)","Int.J.Mod.Phys.B8:3679-3691,1994","10.1142/S0217979294001585",,"hep-th",,"  Associated with the fundamental representation of a quantum algebra such as
+$U_q(A_1)$ or $U_q(A_2)$, there exist infinitely many gauge-equivalent
+$R$-matrices with different spectral-parameter dependences. It is shown how
+these can be obtained by examining the infinitely many possible gradations of
+the corresponding quantum affine algebras, such as $U_q(A_1^{(1)})$ and
+$U_q(A_2^{(1)})$, and explicit formulae are obtained for those two cases.
+Spectral-dependent similarity (gauge) transformations relate the $R$-matrices
+in different gradations. Nevertheless, the choice of gradation can be
+physically significant, as is illustrated in the case of quantum affine Toda
+field theories.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 16:12:03 GMT""},{""version"":""v2"",""created"":""Fri, 29 Oct 1993 16:29:54 GMT""},{""version"":""v3"",""created"":""Fri, 26 Nov 1993 17:53:10 GMT""},{""version"":""v4"",""created"":""Mon, 29 Nov 1993 14:51:36 GMT""},{""version"":""v5"",""created"":""Tue, 1 Mar 1994 15:10:09 GMT""},{""version"":""v6"",""created"":""Thu, 21 Apr 1994 20:20:33 GMT""}]","2010-12-01"
+"hep-th/9310186",,"S. Tasaki, E. Eisenberg, L. P. Horwitz","Measurement Theory in Lax-Phillips Formalism","14 pages, IASSNS-HEP 93/64",,"10.1007/BF02057863",,"hep-th",,"  It is shown that the application of Lax-Phillips scattering theory to quantum
+mechanics provides a natural framework for the realization of the ideas of the
+Many-Hilbert-Space theory of Machida and Namiki to describe the development of
+decoherence in the process of measurement. We show that if the quantum
+mechanical evolution is pointwise in time, then decoherence occurs only if the
+Hamiltonian is time-dependent. If the evolution is not pointwise in time (as in
+Liouville space), then the decoherence may occur even for closed systems. These
+conclusions apply as well to the general problem of mixing of states.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 19:05:23 GMT""}]","2009-10-22"
+"hep-th/9310187","Krzysztof Gawedzki","Jurg Frohlich and Krzysztof Gawedzki","Conformal Field Theory and Geometry of Strings","44 pages, latex file, 5 references added",,,,"hep-th",,"  What is quantum geometry? This question is becoming a popular leitmotiv in
+theoretical physics and in mathematics. Conformal field theory may catch a
+glimpse of the right answer. We review global aspects of the geometry of
+conformal fields, such as duality and mirror symmetry, and interpret them
+within Connes' non-commutative geometry. Extended version of lectures given by
+the 2nd author at the Mathematical Quantum Theory Conference, Vancouver,
+Canada, August 4 to 8, 1993
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 21:16:54 GMT""},{""version"":""v2"",""created"":""Sun, 31 Oct 1993 14:46:28 GMT""}]","2008-02-03"
+"hep-th/9310188","Subir Ghoshal","Subir Ghoshal","Bound State Boundary S-matrix of the sine-Gordon Model","9 pages, RU-93-51","Int.J.Mod.Phys.A9:4801-4810,1994","10.1142/S0217751X94001941",,"hep-th",,"  We study the boundary S-matrix for the reflection of bound states of the
+two-dimensional sine-Gordon integrable field theory in the presence of a
+boundary.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 22:29:09 GMT""},{""version"":""v2"",""created"":""Fri, 29 Oct 1993 04:09:35 GMT""}]","2010-01-07"
+"hep-th/9310189","Miroslav Doresic","V.Bardek, M.Doresic and S.Meljanac","Anyons as quon particles","10 pages,Latex","Phys.Rev. D49 (1994) 3059-3062","10.1103/PhysRevD.49.3059",,"hep-th",,"  The momentum operator representation of nonrelativistic anyons is developed
+in the Chern - Simons formulation of fractional statistics. The connection
+between anyons and the q-deformed bosonic algebra is established.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 20:45:46 GMT""}]","2009-10-22"
+"hep-th/9310190","Julian Lee","Julian Lee","Time-Dependent Backgrounds in 2D String Theory and the $S$-matrix
+  Generating Functional","23 pages, BROWN-HET-925","Phys. Rev. D 49, 2957 (1994)","10.1103/PhysRevD.49.2957",,"hep-th",,"  We study the time-dependent tachyon backgrounds of the string collective
+field theory using the formalism of the $S$-matrix generating functional. In
+the process we clarify the connection between two ways of calculating the
+$S$-matrix, the one using the Feynman rule and the other using the classical
+solution to the nonlinear equation of motion. We develop the formalism for
+general backgrounds and apply it to the gravitational sine-Gordon model in
+detail. We reproduce the conformal field theory calculation which was based on
+expanding around the static $c=1$ theory. Furthermore, we prove that the tree-
+level partition function of this model shows the scaling behavior corresponding
+to $c=0$ model in the limit $p \to 0$ of sine-Gordon `momentum' $p$.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 03:23:53 GMT""}]","2013-11-13"
+"hep-th/9310191","Yuri Makeenko","Yu. Makeenko","Matrix Models of 2D Gravity and Induced QCD","14pp., Latex, ITEP-YM-6-93 (a review talk)",,,,"hep-th",,"  I review some recent works on the Hermitean one-matrix and d-dimensional
+gauge-invariant matrix models. Special attention is paid to solving the models
+at large-N by the loop equations. For the one-matrix model the main result
+concerns calculations of higher genera, while for the d-dimensional model the
+large-N solution for a logarithmic potential is described. Some results on
+fermionic matrix models are briefly reviewed. Talk at the Workshop on Quantum
+Field Theoretical Aspects of High Energy Physics, Kyffhaeuser, Germany,
+September 20-24, 1993
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 09:06:14 GMT""}]","2007-05-23"
+"hep-th/9310192",,"Wen-Jui Huang","Superconformal Covariantization Of Superdifferential Operator On (1|1)
+  Superspace And Classical N=2 W-superalgebras","NHCU-HEP-94-06, 21 pages (plain TeX). One remarking paragraph and
+  five new references on related subjects are added. Notice also the minor
+  change of title","J.Math.Phys.35:2570-2582,1994","10.1063/1.530524",,"hep-th",,"  A study of the superconformal covariantization of superdifferential operators
+defined on $(1|1)$ superspace is presented. It is shown that a
+superdifferential operator with a particular type of constraint can be
+covariantized only when it is of odd order. In such a case, the action of
+superconformal transformation on the superdifferential operator is nothing but
+a hamiltonian flow defined by the corresponding supersymmetric second
+Gelfand-Dickey bracket. The covariant form of a superdifferential operator of
+odd order is given.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 09:29:39 GMT""},{""version"":""v2"",""created"":""Mon, 16 May 1994 06:47:44 GMT""}]","2011-07-19"
+"hep-th/9310193","Shinsuke Nishigaki","Shinsuke Nishigaki","Scaling Violation in O(N) Vector Models","9 pages, LaTeX, TIT/HEP--229","Mod.Phys.Lett. A9 (1994) 631-642","10.1142/S0217732394003865",,"hep-th",,"  We investigate $O(N)$-symmetric vector field theories in the double scaling
+limit. Our model describes branched polymeric systems in $D$ dimensions, whose
+multicritical series interpolates between the Cayley tree and the ordinary
+random walk. We give explicit forms of residual divergences in the free energy,
+analogous to those observed in the strings in one dimension.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 10:46:40 GMT""}]","2015-06-26"
+"hep-th/9310194","Coussaert Olivier","O. Coussaert and M. Henneaux","Supersymmetry of the 2+1 black holes","9 pages LaTeX file, ULB-PMIF-93/07","Phys.Rev.Lett. 72 (1994) 183-186","10.1103/PhysRevLett.72.183",,"hep-th gr-qc",,"  The supersymmetry properties of the asymptotically anti-de Sitter black holes
+of Einstein theory in 2+1 dimensions are investigated. It is shown that (i) the
+zero mass black hole has two exact super- symmetries; (ii) extreme $lM=|J|$
+black holes with $M \not= 0$ have only one; and (iii) generic black holes do
+not have any. It is also argued that the zero mass hole is the ground state of
+(1,1)-adS supergravity with periodic (``Ramond"") boundary conditions on the
+spinor fields.
+","[{""version"":""v1"",""created"":""Fri, 29 Oct 1993 14:14:57 GMT""}]","2009-10-22"
+"nucl-th/9310031",,"F. Krmpoti\'c, A. Mariano, T.T.S. Kuo and K. Nakayama","Projected Linear Response Theory for Charge-Exchange Excitations and
+  Double Beta Decay","12 pages text (LaTex) and 1 figure upon request, to be published in
+  Phys. Lett. B","Phys.Lett. B319 (1993) 393-400","10.1016/0370-2693(93)91740-E",,"nucl-th",,"  The projected random phase approximation (PRPA) for charge-exchange
+excitations is derived from the time-dependent variational principle. Explicit
+results for the unperturbed energies (including the self-energy corrections),
+the PRPA matrices, and the transition matrix elements are presented. The effect
+of the projection procedure on the two-neutrino $\beta\beta$ decay in $^{76}Ge$
+is briefly discussed.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 17:31:29 GMT""}]","2016-08-14"
+"patt-sol/9310005","John D. Crawford","John David Crawford (Department of Physics and Astronomy, University
+  of Pittsburgh, Pittsburgh, PA)","Amplitude Expansions for Instabilities in Populations of
+  Globally-Coupled Oscillators","46 pages (Latex), 4 figures available in hard copy from the author
+  (jdc@minerva.phyast.pitt.edu); paper submitted to the Journal of Statistical
+  Physics","J. Stat. Phys. 74, 1047 (1994)","10.1007/BF02188217",,"patt-sol nlin.PS",,"  We analyze the nonlinear dynamics near the incoherent state in a mean-field
+model of coupled oscillators. The population is described by a Fokker-Planck
+equation for the distribution of phases, and we apply center-manifold reduction
+to obtain the amplitude equations for steady-state and Hopf bifurcation from
+the equilibrium state with a uniform phase distribution. When the population is
+described by a native frequency distribution that is reflection-symmetric about
+zero, the problem has circular symmetry. In the limit of zero extrinsic noise,
+although the critical eigenvalues are embedded in the continuous spectrum, the
+nonlinear coefficients in the amplitude equation remain finite in contrast to
+the singular behavior found in similar instabilities described by the
+Vlasov-Poisson equation. For a bimodal reflection-symmetric distribution, both
+types of bifurcation are possible and they coincide at a codimension-two Takens
+Bogdanov point. The steady-state bifurcation may be supercritical or
+subcritical and produces a time-independent synchronized state. The Hopf
+bifurcation produces both supercritical stable standing waves and supercritical
+unstable travelling waves. Previous work on the Hopf bifurcation in a bimodal
+population by Bonilla, Neu, and Spigler and Okuda and Kuramoto predicted stable
+travelling waves and stable standing waves, respectively. A comparison to these
+previous calculations shows that the prediction of stable travelling waves
+results from a failure to include all unstable modes.
+","[{""version"":""v1"",""created"":""Thu, 28 Oct 1993 21:31:04 GMT""}]","2009-10-22"

@@ -1,0 +1,240 @@
+"astro-ph/9303018",,"F. I. Cooperstock and V. Faraoni","Laser Interferometric Detectors of Gravitational Waves","13 pages, LaTex","Class.Quant.Grav.10:1189-1199,1993","10.1088/0264-9381/10/6/016",,"astro-ph",,"  A laser interferometric detector of gravitational waves is studied and a
+complete solution (to first order in the metric perturbation) of the coupled
+Einstein-Maxwell equations with appropriate boundary conditions for the light
+beams is determined. The phase shift, the light deflection and the rotation of
+the polarization axis induced by gravitational waves are computed. The results
+are compared with previous literature, and are shown to hold also for detectors
+which are large in comparison with the gravitational wavelength.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 03:06:00 GMT""}]","2010-04-06"
+"astro-ph/9303019",,"Andrew R Liddle and David H Lyth","The Cold Dark Matter Density Perturbation","117 pages. SUSSEX-AST 92/8-2; LANC-TH 8-2-92","Phys.Rept.231:1-105,1993","10.1016/0370-1573(93)90114-S",,"astro-ph gr-qc hep-ph",,"  This is a review of the Cold Dark Matter model of structure formation, and
+its variants. The approach is largely from first principles, the main aim being
+to impart a basic understanding of the relevant theory with an eye to the
+likely intense activity of the next few years, but the current observational
+status of the model is also critically assessed. The evolution of adiabatic and
+isocurvature density perturbations is described, and their effect on the large
+scale cmb anisotropy calculated as well as that of any gravitational waves. The
+generation of all three types of perturbation during inflation is described,
+and the normalisation and spectral indices are calculated in terms of the
+inflationary potential and its first and second derivatives. The comparison of
+the theory with each type of observation is described, starting with the COBE
+data and moving down in scale to the non-linear regime. Constraints on the
+spectrum of the adiabatic density perturbation are exhibited, the spectrum
+being parametrised by its normalisation and its degree of tilt. Finally
+extensions of the CDM model are considered, which replace some of the cold dark
+matter by hot dark matter or a cosmological constant.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 10:21:00 GMT""}]","2010-11-30"
+"chao-dyn/9303017","Robert S. Maier","Robert S. Maier (U. Arizona) and D. L. Stein (U. Arizona)","The Escape Problem for Irreversible Systems","24 pages, APS revtex macros (version 2.1) now available from PBB via
+  `get oldrevtex.sty'","Phys. Rev. E 48 (1993) 931-938","10.1103/PhysRevE.48.931",,"chao-dyn nlin.CD",,"  The problem of noise-induced escape from a metastable state arises in
+physics, chemistry, biology, systems engineering, and other areas. The problem
+is well understood when the underlying dynamics of the system obey detailed
+balance. When this assumption fails many of the results of classical
+transition-rate theory no longer apply, and no general method exists for
+computing the weak-noise asymptotics of fundamental quantities such as the mean
+escape time. In this paper we present a general technique for analysing the
+weak-noise limit of a wide range of stochastically perturbed continuous-time
+nonlinear dynamical systems. We simplify the original problem, which involves
+solving a partial differential equation, into one in which only ordinary
+differential equations need be solved. This allows us to resolve some old
+issues for the case when detailed balance holds. When it does not hold, we show
+how the formula for the mean escape time asymptotics depends on the dynamics of
+the system along the most probable escape path. We also present new results on
+short-time behavior and discuss the possibility of focusing along the escape
+path.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 01:19:34 GMT""},{""version"":""v2"",""created"":""Thu, 1 Apr 1993 08:19:34 GMT""}]","2008-02-03"
+"chao-dyn/9303018","Anthony Quas","Anthony N. Quas (University of Warwick, U.K.)","Non-ergodicity for C^1 Expanding Maps","7 pages, uses MSSYMB (non-essential)",,,"Warwick Preprints: 17/1993","chao-dyn nlin.CD",,"  In this paper, we consider the question of existence and uniqueness of
+absolutely continuous invariant measures for expanding $C^1$ maps of the
+circle. This is a question which arises naturally from results which are known
+in the case of expanding $C^k$ maps of the circle where $k\geq 2$, or even
+$C^{1+\epsilon}$ expanding maps of the circle. In these cases, it is known that
+there exists a unique absolutely continuous invariant probability measure by
+the so-called `Folklore Theorem'. It follows that this measure is ergodic. It
+has been shown however that for $C^1$ maps there need not be any such measure.
+However, this leaves the question of whether there can be more than one such
+measure for $C^1$ expanding maps of the circle. This is the subject of this
+paper, and in it, we show that there exists a $C^1$ expanding map of the circle
+which has more than one absolutely continuous invariant probability measure.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 15:09:30 GMT""}]","2008-02-03"
+"cond-mat/9303051","Thierry Giamarchi","T. Giamarchi and P. Le Doussal","Elastic Theory of pinned flux lattices","12 pages, Revtex 3.0","Phys. Rev. Lett. 72 1530 (1994)","10.1103/PhysRevLett.72.1530",,"cond-mat",,"  The pinning of flux lattices by weak impurity disorder is studied in the
+absence of free dislocations using both the gaussian variational method and, to
+$O(\epsilon=4-d)$, the functional renormalization group. We find universal
+logarithmic growth of displacements for $2<d<4$: $\overline{\langle u(x)-u(0)
+\rangle ^2}\sim A_d \log|x|$ and persistence of algebraic quasi-long range
+translational order. When the two methods can be compared they agree within
+$10\%$ on the value of $A_d$. We compute the function describing the crossover
+between the ``random manifold'' regime and the logarithmic regime. This
+crossover should be observable in present decoration experiments.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 21:28:57 GMT""},{""version"":""v2"",""created"":""Thu, 1 Apr 1993 09:54:35 GMT""}]","2009-10-22"
+"gr-qc/9303037",,"P.S.Joshi and I.H.Dwivedi","Naked Singularities in Spherically Symmetric Inhomogeneous Tolman-Bondi
+  Dust Cloud Collapse","41 pages, TIFR preprint TAP 9/92","Phys.Rev. D47 (1993) 5357-5369","10.1103/PhysRevD.47.5357",,"gr-qc",,"  We investigate the occurrence and nature of naked singularity for the
+inhomogeneous gravitational collapse of Tolman-Bondi dust clouds.It is shown
+that the naked singularities form at the center of the collapsing cloud in a
+wide class of collapse models which includes the earlier cases considered by
+Eardley and Smarr and Christodoulou. This class also contains self-similar as
+well as non-self-similar models. The structure and strength of this singularity
+is examined and the question is investigated as to when a non-zero measure set
+of non-spacelike trajectories could be emitted from the singularity as opposed
+to isolated trajectories coming out. It is seen that the weak energy condition
+and positivity of energy density ensures that the families of non-spacelike
+trajectories come out of the singularity. The curvature strength of the naked
+singularity is examined which provides an important test for its physical
+significance and powerful curvature growth near the naked singularity is
+pointed out for several subclasses considered. The conditions are discussed for
+the naked singularity to be globally naked. Implications for the basic issue of
+the final fate of gravitational collapse are considered once the
+inhomogeneities in the matter distribution are taken into account. It is argued
+that a physical formulation for the cosmic censorship may be evolved which
+avoids the features above. Possibilities in this direction are discussed while
+indicating that the analysis presented here should be useful for any possible
+rigorous formulation of the cosmic censorship hypothesis.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 07:42:00 GMT""}]","2009-10-22"
+"hep-lat/9303016",,"Z Glumac and K Uzelac","Critical behaviour of the 1D q-state Potts model with long-range
+  interactions","20 pages plus 4 figures, Latex",,"10.1088/0305-4470/26/20/013",,"hep-lat cond-mat",,"  The critical behaviour of the one-dimensional q-state Potts model with
+long-range interactions decaying with distance r as $r^{-(1+\sigma)}$ has been
+studied in the wide range of parameters $0 < \sigma \le 1$ and $\frac{1}{16}
+\le q \le 64$. A transfer matrix has been constructed for a truncated range of
+interactions for integer and continuous q, and finite range scaling has been
+applied. Results for the phase diagram and the correlation length critical
+exponent are presented.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 09:17:53 GMT""}]","2009-10-22"
+"hep-ph/9303316","Pat Kalyniak","P.Kalyniak, P.Madsen, N.Sinha, and R.Sinha","Extracting W Boson Couplings from the $e^{+}e^{-}$ Production of Four
+  Leptons","13 pages,OCIP/C-93-1","Phys.Rev.D48:5081-5092,1993","10.1103/PhysRevD.48.5081",,"hep-ph",,"  We consider the processes $e^{+}e^{-}\rightarrow \ell^{+} \ell^{\prime -}\nu
+\bar{\nu}^{\prime}$, including all possible charged lepton combinations, with
+regard to measuring parameters characterizing the $W$ boson. We calculate at
+what level these processes can be used to measure anamolous triple-boson
+vertice coupling parameters for the cases of $e^{+}e^{-}$ colliders at 500
+$GeV$ and 1 $TeV$ center of mass energies.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 18:38:10 GMT""}]","2019-08-17"
+"hep-ph/9303317",,"J.R. Espinosa, M. Quiros and F. Zwirner","On the electroweak phase transition in the Minimal Supersymmetric
+  Standard Model","10 A4 pages, 7 figures available upon request, CERN-TH.6833/93,
+  IEM-FT-69/93 (one paragraph expanded for clarity)","Phys.Lett. B307 (1993) 106-115","10.1016/0370-2693(93)90199-R",,"hep-ph",,"  We study the finite-temperature effective potential of the Minimal
+Supersymmetric Standard Model, in the limit of only one light Higgs boson.
+Because of the large top Yukawa coupling, there can be significant differences
+with respect to the Standard Model case: for given values of the Higgs and top
+masses, little supersymmetry breaking in the stop sector can make the phase
+transition more strongly first-order. After including the full structure of the
+stop mass matrix, the most important experimental constraints and the leading
+plasma effects, we find that the present limits on Higgs and squark masses are
+still compatible with the scenario of electroweak baryogenesis, in a small
+region of parameter space corresponding to $m_h \simlt 70 \gev$ and $\msba
+\simlt 105 \gev$.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 19:41:55 GMT""},{""version"":""v2"",""created"":""Tue, 30 Mar 1993 23:20:00 GMT""},{""version"":""v3"",""created"":""Wed, 7 Apr 1993 14:14:55 GMT""}]","2009-10-22"
+"hep-ph/9303318",,"F. Zwirner","Supersymmetric Higgs Bosons: a Theoretical Introduction","15 A4 pages, 6 figures not included, CERN-TH.6792/93",,,,"hep-ph",,"  After an introduction to the Higgs sector of supersymmetric extensions of the
+Standard Model, recent results on radiative corrections to Higgs boson masses
+and couplings are reviewed. The phenomenology of supersymmetric Higgs searches
+at large hadron colliders and at a possible linear $\epem$ collider is also
+described. (Invited talk at the Workshop `Ten years of SUSY confronting
+experiment', CERN, 7--9 September 1992, to appear in the Proceedings)
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 20:14:49 GMT""}]","2007-05-23"
+"hep-ph/9303319","Zheng Huang","Zheng Huang and K.S. Viswanathan","Self-mass for Massive Quark","15 pages in revtex (3 figures available upon request), SFU-HEP-102-93","Phys.Rev. D48 (1993) 4392-4397","10.1103/PhysRevD.48.4392",,"hep-ph",,"  We study the behavior of the self-mass for a quark with a current mass larger
+than $\Lambda_QCD$, as a function of its Euclidean momentum and mass, in QCD.
+An expression for the Bethe-Salpeter kernel of the Schwinger-Dyson (SD)
+equation valid in both the infrared and ultraviolet regions is obtained based
+on a renormalization group analysis. The resulting SD equation is solved
+numerically. It is found that the quark constituent mass at zero momentum is
+substantially enhanced due to its effective gauge interaction. The solution in
+the ultraviolet region agrees well with the known asymptotic solution. The
+self-mass scales exactly as the on-shell current mass at a fixed momentum.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 01:50:26 GMT""}]","2009-10-22"
+"hep-th/9303167",,"G.Bandelloni A.Blasi","Antisymmetric tensor gauge theory","28 ,Latex,GEF-TH 10/93","Class.Quant.Grav.10:1249-1266,1993","10.1088/0264-9381/10/7/005",,"hep-th",,"  We analyze to all perturbative orders the properties of two possible quantum
+extensions of classically on-shell equivalent antisymmetric tensor gauge models
+in four dimensions. The first case, related to the soft breaking of a
+topological theory wants a gauge field of canonical dimension one. The other
+possibility, which assigns canonical dimension two to the gauge field, leads to
+the $\sigma$ model interpretation of the theory. In both instances we find that
+the models are anomaly free.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 16:08:00 GMT""}]","2010-04-06"
+"hep-th/9303168","Jose Miguel Figueroa-O'Farrill","J.M. Figueroa-O'Farrill and S. Stanciu","New Supersymmetrizations of the Generalized KdV Hierarchies","10 pages, uuencoded compressed tar'd .dvi file, Bonn-HE-93-10","Mod. Phys. Lett. A8 (1993) 2125","10.1142/S0217732393001847",,"hep-th",,"  Recently we investigated a new supersymmetrization procedure for the KdV
+hierarchy inspired in some recent work on supersymmetric matrix models. We
+extend this procedure here for the generalized KdV hierarchies. The resulting
+supersymmetric hierarchies are generically nonlocal, except for the case of
+Boussinesque which we treat in detail. The resulting supersymmetric hierarchy
+is integrable and bihamiltonian and contains the Boussinesque hierarchy as a
+subhierarchy. In a particular realization, we extend it by defining
+supersymmetric odd flows. We end with some comments on a slight modification of
+this supersymmetrization which yields local equations for any generalized KdV
+hierarchy.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 21:35:06 GMT""}]","2015-06-26"
+"hep-th/9303169",,"Yoav Peleg","The Wave Function of a Collapsing Star and Quantization Conditions","13 pages, BRX-TH-342",,,,"hep-th",,"  A very simple minisuperspace describing the Oppenheimer-Snyder collapsing
+star is found. The semiclasical wave function of that model turn out to
+describe a bound state. For fixed initial radius of the collapsing star, the
+corrssponding Bohr-Sommerfeld quantization condition implies mass quantization.
+An extension of this model, and some consequences, are considered.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 16:50:00 GMT""}]","2007-05-23"
+"hep-th/9303170",,"Yoav Peleg","4D and 2D Evaporating Dilatonic Black Holes","18 pages, BRX-TH-345","Mod. Phys. Lett. A9 (1994) 3137-3148","10.1142/S0217732394002963",,"hep-th",,"  The picture of S-wave scatering from a 4D extremal dilatonic black hole is
+examined. Classically, a small matter shock wave will form a non-extremal black
+hole. In the ""throat region"" the r-t geometry is exactly that of a collapsing
+2D black hole. The 4D Hawking radiation (in this classical background) gives
+the 2D Hawking radiation exactly in the throat region. Inclusion of the
+back-reaction changes this picture: the 4D solution can then be matched to the
+2D one only if the Hawking radiation is very small and only at the beginning of
+the radiation. We give that 4D solution. When the total radiating energy
+approaches the energy carried by the shock wave, the 4D picture breaks down.
+This happens even before an apparent horizon is formed, which suggests that the
+4D semi-classical solution is quite different from the 2D one.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 17:09:00 GMT""},{""version"":""v2"",""created"":""Tue, 30 Mar 1993 20:55:00 GMT""}]","2009-10-22"
+"hep-th/9303171","Paul K. Townsend","P.K. Townsend","Effective description of axion defects","9 pages NSF-ITP-93-35","Phys.Lett. B309 (1993) 33-38","10.1016/0370-2693(93)91499-D",,"hep-th",,"  Axion strings and domain walls exhibit a number of novel effects in the
+presence of gauge fields, in particular the electromagnetic field. It is shown
+how these effects are reproduced in a model of Nambu-Goto-type strings and open
+or closed membranes coupled to gauge fields. The generalization to `axionic
+p-branes' is considered and it is shown how worldvolume gauge fields that arise
+in certain cases can be interpreted as Goldstone fields.
+","[{""version"":""v1"",""created"":""Tue, 30 Mar 1993 22:01:00 GMT""}]","2009-10-22"
+"hep-th/9303172","Martin Cederwall","Lars Brink, Martin Cederwall and Christian R. Preitschopf","$N\!=\!8$ Superconformal Algebra and the Superstring","12 pages, G\""oteborg-ITP-93-5","Phys.Lett. B311 (1993) 76-82","10.1016/0370-2693(93)90536-Q",,"hep-th",,"  The superstring in $D\!=\!3,4$ and 6 is invariant under an $N\!=\!D\!-\!2$
+superconformal algebra based on $\widehat{S^{D-3}}$. There is a direct
+relationship between this (world-sheet) symmetry and the super-Poincar\'e
+(target space) symmetry. We establish this relationship using the light-cone
+gauge, show how the statement generalizes to $D\!=\!10$ and examine the
+properties of the $N\!=\!8$ superconformal algebra and the possible
+implications of its existence.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 10:07:50 GMT""}]","2009-10-22"
+"hep-th/9303173",,"Ulf Lindstr\""om","The Zero Tension Limit of Strings and Superstrings","Invited lecture at the INFN ELOISATRON WORKSHOP ""From Superstrings To
+  Supergravity"", 7 pages Latex, University of Stockholm preprint USITP-93-3",,,,"hep-th",,"  The string equivalent of a massless particle ($m=0$) is the tensionless
+string ($T=0$). The study of such strings is of interest when trying to
+understand the high energy limit of ordinary strings. I discuss the classical
+$T\to 0$ limit of the bosonic string, the spinning string and the superstring.
+A common feature is the appearence of a space-time (super-)conformal symmetry
+replacing the world-sheet Weyl invariance. The question of whether this
+symmetry may survive quantization is addressed. A lightcone analysis of the
+quantized bosonic tensionless string leads to severe constraints on the
+physical states: they are space-time diffeomorphism singlets characterized by
+their topological properties only.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 11:13:00 GMT""}]","2016-08-14"
+"hep-th/9303174",,"Johan Grundberg and Ulf Lindstr\""om","From the Superparticle Path Integral to Superfield Theory","28 pages Latex, University of Stockholm preprint USITP-92-12","Nucl.Phys.B410:355-376,1993","10.1016/0550-3213(93)90438-U",,"hep-th",,"  We investigate the hitherto unexplored relation between the superparticle
+path integral and superfield theory. Requiring that the path integral has the
+global symmetries of the classical action and obeys the natural composition
+property of path integrals, and also that the discretized action has the
+correct naive continuum limit, we find a viable discretization of the (D=3,N=2)
+free superparticle action. The resulting propagator is not the usual superfield
+one. We extend the discretization to include the coupling to an external gauge
+supermultiplet and use this to show the equivalence to superfield theory. This
+is possible since we are able to reformulate the superfield perturbation theory
+in terms of our new propagator.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 13:51:00 GMT""}]","2016-08-14"
+"hep-th/9303176","Ctirad Klimcik","C. Klimcik","Quantum Fluctuations and Curvature Singularities in Jackiw-Teitelboim
+  Gravity","32 pages, LaTeX, PRA-HEP-93/3","Phys.Rev.D48:4693-4707,1993","10.1103/PhysRevD.48.4693",,"hep-th",,"  The Jackiw-Teitelboim gravity with the matter degrees of freedom is
+considered. The classical model is exactly solvable and its solutions describe
+non-trivial gravitational scattering of matter wave-packets. For huge amount of
+the solutions the scattering space-times are free of curvature singularities.
+However, the quantum corrections to the field equations inevitably cause the
+formation of (thunderbolt) curvature singularities, vanishing only in the limit
+$\hbar\to 0$. The singularities cut the space-time and disallow propagation to
+the future.The model is inspired by the dimensional reduction of 4-d pure
+Einstein gravity, restricted to the space-times with two commuting space-like
+Killing vectors. The matter degrees of freedom also stem from the 4-d ansatz.
+The measures for the continual integrations are judiciously chosen and one loop
+contributions (including the graviton and the dilaton ones) are evaluated. For
+the number of the matter fields $N=24$ we obtain even the exact effective
+action, applying the DDK-procedure. The effective action is nonlocal, but the
+semiclassical equations can be solved by using some theory of the Hankel
+transformations.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 15:20:34 GMT""}]","2008-11-26"
+"hep-th/9303177","Janet Pease","A.P. Balachandran","Topology in Physics - A Perspective","16pp, 2 figures included (encapsulated postscript)","Found. Phys. 24 (1994) 455-466","10.1007/BF02058057","SU-4228-533","hep-th hep-ph",,"  This article, written in honor of Fritz Rohrlich, briefly surveys the role of
+topology in physics.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 15:56:00 GMT""}]","2009-10-22"
+"nucl-th/9303026",,"J. Dobaczewski, F.G. Scholtz, and H.B. Geyer","Boson-fermion mappings for odd systems from supercoherent states","40 pages, REVTEX","Phys.Rev.C48:2313-2325,1993","10.1103/PhysRevC.48.2313",,"nucl-th hep-th",,"  We extend the formalism whereby boson mappings can be derived from
+generalized coherent states to boson-fermion mappings for systems with an odd
+number of fermions. This is accomplished by constructing supercoherent states
+in terms of both complex and Grassmann variables. In addition to a known
+mapping for the full so(2$N$+1) algebra, we also uncover some other formal
+mappings, together with mappings relevant to collective subspaces.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 07:15:57 GMT""}]","2008-11-26"

@@ -1,0 +1,216 @@
+"alg-geom/9305003","Antonella Grassi","A. Grassi","Log contractions and equidimensional models of elliptic threefolds","21 pages, AmS-TeX",,,,"alg-geom math.AG",,"  This work was initially motivated by Miranda's work on elliptic Weierstrass
+threefolds. Miranda [Mi] describes a smooth equidimensional (flat) model for
+any elliptic Weierstrass threefold; such models occur naturally in the study of
+moduli spaces. In this paper we use minimal model theory to link birational
+maps of log surfaces (log contractions) to equidimensional fibrations of
+elliptic threefolds. As a corollary we show that an elliptic fibration of
+positive Kodaira dimension has a minimal model with an equidimensional
+birationally equivalent elliptic fibration satisfying certain good properties
+that naturally generalize the case of elliptic fibrations of surfaces. We apply
+the results to the case of Weierstrass models and give a global explanation of
+Miranda's algorithm.
+","[{""version"":""v1"",""created"":""Wed, 5 May 1993 16:02:05 GMT""}]","2008-02-03"
+"astro-ph/9305002","Maggie Best","M. Fukugita and P. J. E. Peebles","Visibility of Gravitational Lenses and the Cosmological Constant Problem","12 pages, TeX file. Institute for Advanced Study number AST 93/24",,,,"astro-ph",,"  Recent observations suggest appreciable star formation activity in early-type
+galaxies down to redshift $z\sim 0.5$. If so, there is likely to be dust in
+these galaxies. We consider the possibility that obscuration by dust can
+reconcile the observed frequency of gravitational lensing of quasar images with
+the considerably larger rate predicted in a low density cosmologically flat
+universe dominated by a cosmological constant.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 13:27:28 GMT""}]","2007-05-23"
+"astro-ph/9305003","Peter Biermann","Peter L. Biermann (1) and Joseph P. Cassinelli (2) ((1)
+  Max-Planck-Institut fuer Radioastronomie, Bonn, Germany, (2) Department for
+  Astronomy, University of Wisconsin, Madison WI, USA)","Cosmic Rays, II. Evidence for a magnetic rotator Wolf Rayet star origin","Astron. & Astroph. accepted May 93; A&A-TeX (aa.cmm required), 17
+  pages, no figures; MPIfR preprint series No. 527","Astron.Astrophys. 277 (1993) 691",,,"astro-ph",,"  Based on 1) a conjecture about the mean free path for particle scattering in
+perpendicular shock geometries, and 2) a model for Wolf Rayet star winds, we
+argue that explosions of Wolf Rayet stars can lead through diffusive particle
+acceleration to particle energies up to 3 10^9 GeV. As a test we first
+demonstrate that the magnetic fields implied by this argument are compatible
+with the dynamo limit applied to the convective interior of the main sequence
+stars which are predecessors of Wolf Rayet stars; second we show that this
+implies the same strength of the magnetic fields as is suggested by the
+magnetically driven wind theory. Third, we use data from radio supernovae to
+check the spectrum, luminosity and time dependence which suggest that the
+magnetic fields again have to be as high as suggested by the magnetically
+driven wind theory. This constitutes evidence for the magnetic field strengths
+required to accelerate particles to 3 10^9 GeV. Fourth, we demonstrate that
+within our picture the nonthermal radio emission from OB and Wolf Rayet stars
+can reproduce the proper radio spectra, time variability and radio
+luminosities. Fifth, the comparison of Wolf Rayet stars and radio supernovae
+suggests that electron injection into the acceleration process is a step
+function of efficiency with the shock speed as the independent parameter.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 14:31:24 GMT""}]","2007-05-23"
+"astro-ph/9305005","Peter Biermann","Peter L. Biermann (Max-Planck-Institut fuer Radioastronomie, Bonn,
+  Germany)","AGN and galactic sites of cosmic ray origin","invited review chapter in ""High Energy Astrophysics"" (Ed. J.
+  Matthews, World Scientific, in press); plain TeX, 62 pages, no figures, MPIfR
+  preprint series No. 528",,"10.1142/9789814354158_0007",,"astro-ph",,"  We review recent progress in our understanding of the physics of energetic
+particles in our Galaxy, in active galaxies such as starburst galaxies, in
+active galactic nuclei and in the jets and radio hot spots of powerful radio
+galaxies and radioloud quasars. We propose that cosmic rays originate mainly in
+three sites, a) normal supernova explosions into the approximately homogeneous
+interstellar medium, b) supernova explosions into stellar winds, and c) hot
+spots of powerful radio galaxies. The predictions based on this proposition
+have been tested successfully against airshower data over the particle energy
+range from 10 TeV to 100 EeV. The low energy cosmic ray particles carried out
+by galactic winds to the intergalactic medium may ionize and heat this medium
+consistent with all known constraints. Furthermore we propose that radioloud
+quasars accelerate nuclei to high energies in shocks in the inner sections of
+their jets, and thus initiate hadronic cascades which produce the $\gamma$-ray
+emission observed with GRO. Radio observations of the Galactic center compact
+source suggest that there is a jet similar to that in quasars, but very much
+weaker in its emission; simple modelling suggests that the power carried by
+this jet is of order similar to the accretion disk luminosity. By analogy we
+speculate that also radioweak quasars have jets which carry a large proportion
+of the accretion power, and which accelerate particles to high energy.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 14:31:54 GMT""}]","2016-10-26"
+"chao-dyn/9305002",,"Jukka A. Ketoja (Research Institute for Theoretical Physics,
+  University of Helsinki, Finland) and Juhani Kurkijarvi (Institutionen for
+  fysik, Abo Akademi, Finland)","Binary Tree Approach to Scaling in Unimodal Maps","25 pages, plain TeX",,"10.1007/BF02186875","HU-TFT-93-26","chao-dyn nlin.CD",,"  Ge, Rusjan, and Zweifel (J. Stat. Phys. 59, 1265 (1990)) introduced a binary
+tree which represents all the periodic windows in the chaotic regime of
+iterated one-dimensional unimodal maps. We consider the scaling behavior in a
+modified tree which takes into account the self-similarity of the window
+structure. A non-universal geometric convergence of the associated superstable
+parameter values towards a Misiurewicz point is observed for almost all binary
+sequences with periodic tails. There are an infinite number of exceptional
+sequences, however, which lead to superexponential scaling. The origin of such
+sequences is explained.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 07:42:33 GMT""}]","2009-10-22"
+"hep-lat/9305007","Massimo Campostrini","Massimo Campostrini and Paolo Rossi","The $1/N$ expansion of two-dimensional spin models","99 pages, report no. IFUP-TH 14/93, two misprints in Appendix C
+  corrected","Nucl.Phys.Proc.Suppl.34:680-682,1994","10.1016/0920-5632(94)90481-2",,"hep-lat cond-mat hep-th",,"  A general two-dimensional spin model with U$(N)$ invariance, interpolating
+between $\CPN$ and ${\rm O}(2N)$ models, is studied in detail in order to
+illustrate both the general features of the $1/N$ expansion on the lattice and
+the specific techniques devised to extract scaling (field-theoretical)
+behavior. The continuum version of the model is carefully analyzed deriving
+quantitative $O(1/N)$ physical predictions in order to establish a benchmark
+for lattice computations. The $1/N$ expansion on the lattice, including
+second-nearest-neighbor interactions, is set up by constructing explicitly
+effective propagators and vertices. The technique of asymptotic expansion of
+the lattice propagators, basic to the derivation of analytical results in the
+scaling domain, is presented in full detail and applied to the model. Physical
+quantities, like the free energy and different definitions of correlation
+length, are evaluated. The lattice renormalization-group trajectories are
+identified and universality among different lattice (and continuum) schemes in
+the scaling region is explicitly proven. A review of other developments based
+on the lattice $1/N$ expansion is presented.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 15:17:49 GMT""},{""version"":""v2"",""created"":""Fri, 7 May 1993 07:47:53 GMT""}]","2014-11-17"
+"hep-ph/9305214","Yoshio Koide","Y. Koide and F. Fusaoka","The Rosner-Worah Type Quark Mass Matrix and Ansatz of Maximal CP
+  Violation","10 pages (LaTex), US-93-04","Phys.Rev.D48:432-435,1993","10.1103/PhysRevD.48.432",,"hep-ph",,"  A democratic form version of the Rosner-Worah quark mass matrix is discussed
+from a phenomenological point of view. It is pointed out that an ansatz of
+""maximal CP violation"" can provide reasonable values of the Kobayashi-Maskawa
+mixings.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 07:09:51 GMT""}]","2010-11-01"
+"hep-ph/9305215","Christian Weiss","C. Weiss, A. Buck, R. Alkofer and H. Reinhardt","Diquark electromagnetic form factors in a Nambu-Jona-Lasinio model","(11 pages, including one LaTeX figure) UNITU-THEP-4/1993","Phys.Lett.B312:6-12,1993","10.1016/0370-2693(93)90477-Y",,"hep-ph",,"  Electromagnetic properties of diquarks are investigated in the framework of a
+color-octet Nambu-Jona-Lasinio model, which describes baryons as bound states
+of diquarks and quarks. We calculate the electromagnetic form factors of scalar
+and axial vector diquark bound states using the gauge--invariant proper--time
+regularization. The nucleon charge radii and magnetic moments are estimated in
+a simple additive diquark--quark model. This picture reproduces the qualitative
+features such as the negative charge radius of the neutron. Within this model
+axial vector diquarks are seen to be important.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 12:30:35 GMT""}]","2009-09-25"
+"hep-ph/9305218","Peter White","P.L.White","Radiative Corrections to Supersymmetric Higgs Boson Masses","7 pages, SHEP-92/93-20",,,,"hep-ph",,"  We discuss the large radiative corrections to the masses of supersymmetric
+Higgs bosons in the MSSM and in its simplest extension, the NMSSM, with
+particular attention paid to the bounds on the lightest CP-even Higgs mass
+found in both models. In the case of the MSSM, these corrections are found to
+be primarily associated with the effects top quark and stop squark loops, while
+for extended models they also include significant contributions from Higgs and
+Higgsino loops. (Talk presented at SUSY-93, Boston, March 1993)
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 15:44:24 GMT""}]","2007-05-23"
+"hep-th/9305016","Ted Jacobson","Ted Jacobson and Robert C. Myers","Entropy of Lovelock Black Holes","15 pages, plain Latex, NSF-ITP-93-41","Phys.Rev.Lett. 70 (1993) 3684-3687","10.1103/PhysRevLett.70.3684",,"hep-th gr-qc",,"  A general formula for the entropy of stationary black holes in Lovelock
+gravity theories is obtained by integrating the first law of black hole
+mechanics, which is derived by Hamiltonian methods. The entropy is not simply
+one quarter of the surface area of the horizon, but also includes a sum of
+intrinsic curvature invariants integrated over a cross section of the horizon.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 01:16:00 GMT""}]","2009-10-22"
+"hep-th/9305017","Satoru Odake","H. Awata, S. Odake and J. Shiraishi","Free Boson Representation of $U_q(\widehat{sl}_3)$","12 pages, LaTeX, RIMS-920, YITP/K-1017","Lett. Math. Phys. 30 (1994) 207-216","10.1007/BF00805853",,"hep-th",,"  A representation of the quantum affine algebra $U_{q}(\widehat{sl}_3)$ of an
+arbitrary level $k$ is constructed in the Fock module of eight boson fields.
+This realization reduces the Wakimoto representation in the $q \rightarrow 1$
+limit. The analogues of the screening currents are also obtained. They commute
+with the action of $U_{q}(\widehat{sl}_3)$ modulo total differences of some
+fields.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 08:55:33 GMT""}]","2009-10-22"
+"hep-th/9305018",,"J. X. Lu","On the determination of the dilaton-antisymmetric tensor couplings in
+  supergravity theories","23 pages, harvmac, CERN-TH.6691/93","Nucl.Phys. B409 (1993) 290-310","10.1016/0550-3213(93)90581-9",,"hep-th",,"  A new approach is provided to determine the dilaton--antisymmetric tensor
+coupling in a supergravity theory by considering the static supersymmetric
+field configuration around a super extended object, which is consistently
+formulated in a curved superspace. By this, the corresponding SUSY
+transformation rules can also be determined for vanishing fermionic fields as
+well as bosonic fields other than those in the determined coupling. Therefore,
+we can, in turn, use this determined part of the supergravity theory to study
+all the related vacuum-like solutions. We have determined the
+dilaton--antisymmetric tensor couplings, in which each of the antisymmetric
+tensors is a singlet of the automorphism group of the corresponding
+superalgebra, for every supergravity multiplet. This actually happens only for
+$N \leq 2$ supergravity theories, which agrees completely with the spin-content
+analysis and the classified $N \leq 2$ super $p$-branes, therefore giving more
+support to the existence of the fundamental Type II $p$-branes. A prediction is
+made of the $D = 9, N = 2$ supergravity which has not yet been written down so
+far.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 14:07:19 GMT""}]","2009-10-22"
+"hep-th/9305019",,"L.Chekhov","Matrx Models: a Way to Quantum Moduli Spaces","LaTeX, 33 pages, preprint PAR-LPTHE 22-93",,,,"hep-th",,"  We give the description of discretized moduli spaces (d.m.s.) $\Mcdisc$
+introduced in \cite{Ch1} in terms of a discrete de Rham cohomologies for each
+moduli space $\Mgn$ of a genus $g$, $n$ being the number of punctures. We
+demonstrate that intersection indices (cohomological classes) calculated for
+d.m.s. coincide with the ones for the continuum moduli space $\Mc$ compactified
+by Deligne and Mumford procedure. To show it we use a matrix model technique.
+The Kontsevich matrix model is a generating function for these indices in the
+continuum case, and the matrix model with the potential $N\alpha \tr {\bigl(-
+\fr 12 \L X\L X +\log (1-X)+X\bigr)}$ is the one for d.m.s. In the last case
+the effects of reductions become relevant, but we use the stratification
+procedure in order to express integrals over open spaces $\Mdisc$ in terms of
+intersection indices which are to be calculated on compactified spaces. The
+coincidence of the cohomological classes for both continuum and d.m.s. models
+enables us to propose the existence of a quantum group structure on d.m.s. Then
+d.m.s. are nothing but cyclic (exceptional) representations of a quantum group
+related to a moduli space $\Mc$. Considering the explicit expressions for
+integrals of Chern classes over $\Mc$ and $\Mcdisc$ we conjecture that each
+moduli space $\Mc$ in the Kontsevich parametrization can be presented as a
+coset $\Mc ={\bf T}^d/G$, $d=3g-3+n$, where ${\bf T}^d$ is some
+$d$--dimensional complex torus and $G$ is a finite order symmetry group of
+${\bf T}^d$.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 13:13:36 GMT""}]","2007-05-23"
+"hep-th/9305020","Euro Spallucci","A.Aurilia, E.Spallucci","Gauge Theory of Relativistic Membranes","35 pages, PHYZZX, UTS-DFT-92-5","Class.Quant.Grav.10:1217-1248,1993","10.1088/0264-9381/10/7/004",,"hep-th",,"  In this paper we show that a relativistic membrane admits an equivalent
+representation in terms of the Kalb-Ramond gauge field
+$F_{\mu\nu\rho}=\partial_{\,[\,\mu}B_{\nu\rho]}$ encountered in string theory.
+By `` equivalence '' we mean the following: if $x=X(\xi)$ is a solution of the
+classical equations of motion derived from the Dirac-Nambu-Goto action, then it
+is always possible to find a differential form of {\it rank three}, satisfying
+Maxwell-type equations. The converse proposition is also true. In the first
+part of the paper, we show that a relativistic membrane, regarded as a
+mechanical system, admits a Hamilton-Jacobi formulation in which the H-J
+function describing a family of classical membrane histories is given by
+$\displaystyle{F=dB=dS^1\wedge dS^2\wedge dS^3}$. In the second part of the
+paper, we introduce a {\it new} lagrangian of the Kalb-Ramond type which
+provides a {\it first order} formulation for both open and closed membranes.
+Finally, for completeness, we show that such a correspondence can be
+established in the very general case of a p-brane coupled to gravity in a
+spacetime of arbitrary dimensionality.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 14:54:33 GMT""}]","2010-04-06"
+"hep-th/9305029","Gennady Danilov","G. S. Danilov","Explicit Calculation of Multiloop Amplitudes in the Superstring Theory","13 pages, LATEX, Preprint PNPI-1872, May 1993","Phys.Atom.Nucl. 60 (1997) 1358-1370",,,"hep-th",,"  Multiloop superstring amplitudes are calculated in the explicit form by the
+solution of Ward identities. A naive generalization of Belavin-Knizhnik theorem
+to the superstring is found to be incorrect since the period matrix turns out
+to be depended on the spinor structure over the terms proportional to odd
+moduli.
+  These terms appear because fermions mix bosons under the two-dim.
+supersymmetry transformations. The closed, oriented superstring turns out to be
+finite, if it possesses the ten-dimensional supersymmetry, as well as the
+two-dimentional one.
+  This problem needs a further study.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 05:24:06 GMT""}]","2007-05-23"
+"nucl-th/9305001",,"Attila Csoto","Localization of shadow poles by complex scaling","6 pages, Latex with Revtex, 3 figures (not included) available on
+  request",,"10.1103/PhysRevA.48.3390",,"nucl-th",,"  Through numerical examples we show that the complex scaling method is suited
+to explore the pole structure in multichannel scattering problems. All poles
+lying on the multisheeted Riemann energy surface, including shadow poles, can
+be revealed and the Riemann sheets on which they reside can be identified.
+","[{""version"":""v1"",""created"":""Wed, 5 May 1993 16:32:39 GMT""}]","2009-10-22"
+"nucl-th/9305002","Jorge Piekarewicz","George M. Frichter and J. Piekarewicz","Quark-based Description of Nuclear Matter with Simulated Annealing","Latex with Revtex, 10 postscript figures (available from the
+  authors), SCRI-050593",,"10.1063/1.168491",,"nucl-th",,"  We calculate ground-state properties of a many-quark system in the
+string-flip model using variational Monte Carlo methods. The many-body
+potential energy of the system is determined by finding the optimal grouping of
+quarks into hadrons. This (optimal) assignment problem is solved by using the
+stochastic optimization technique of simulated annealing. Results are presented
+for the energy and length-scale for confinement as a function of density. These
+results show how quarks clustering decreases with density and characterize the
+nuclear- to quark-matter transition. We compare our results to a previously
+published work with a similar model which uses, instead, a pairing approach to
+the optimization problem.
+","[{""version"":""v1"",""created"":""Wed, 5 May 1993 16:00:19 GMT""}]","2009-10-22"

@@ -1,0 +1,118 @@
+"gr-qc/9303031",,"B. L. Hu and Yuhong Zhang","Uncertainty Relation at Finite Temperature","12 pages, 1 figure (not included), umdpp 93-161, plain tex","Mod. Phys. Lett. A8 (1993) 3575-3584","10.1142/S0217732393002312",,"gr-qc",,"  We use the quantum Brownian model to derive the uncertainty relation for a
+quantum open system. We examine how the fluctuations of a quantum system evolve
+after it is brought in contact with a heat bath at finite temperature. We study
+the decoherence and relaxation processes and use this example to examine 1) the
+relation between quantum and thermal fluctuations; and 2) the conditions when
+the two basic postulates of quantum statistical mechanics become valid.
+","[{""version"":""v1"",""created"":""Fri, 26 Mar 1993 20:52:00 GMT""}]","2015-06-25"
+"gr-qc/9303032",,"Joseph D. Romano","Geometrodynamics vs. Connection Dynamics","88 pages (Latex file), UMDGR-93-129","Gen.Rel.Grav. 25 (1993) 759-854","10.1007/BF00758384",,"gr-qc",,"  The purpose of this review is to describe in some detail the mathematical
+relationship between geometrodynamics and connection dynamics in the context of
+the classical theories of 2+1 and 3+1 gravity. I analyze the standard
+Einstein-Hilbert theory (in any spacetime dimension), the Palatini and
+Chern-Simons theories in 2+1 dimensions, and the Palatini and self-dual
+theories in 3+1 dimensions. I also couple various matter fields to these
+theories and briefly describe a pure spin-connection formulation of 3+1
+gravity. I derive the Euler-Lagrange equations of motion from an action
+principle and perform a Legendre transform to obtain a Hamiltonian formulation
+of each theory. Since constraints are present in all these theories, I
+construct constraint functions and analyze their Poisson bracket algebra. I
+demonstrate, whenever possible, equivalences between the theories.
+","[{""version"":""v1"",""created"":""Fri, 26 Mar 1993 22:25:00 GMT""}]","2009-10-22"
+"gr-qc/9303033",,"Joseph D. Romano","Scalar and Spinor Fields in Signature Changing Spacetimes","13 pages (Latex file), UMDGR-93-28","Phys.Rev. D47 (1993) 4328-4333","10.1103/PhysRevD.47.4328",,"gr-qc",,"  The propagation of scalar and spinor fields in a spacetime whose metric
+changes signature is analyzed. Recent work of Dray et al. on particle
+production from signature change for a (massless) scalar field is reviewed, and
+an attempt is made to extend their analysis to the case of a (massless)
+spin-half field. In contrast to their results for a scalar field, it is shown
+here---for $SL(2,C)$ spinors---that although there are inequivalent forms of
+the Dirac equation that can be used to propagate a spinor in a signature
+changing spacetime, none of these forms gives rise to a conserved inner product
+on the space of solutions to the field equations.
+","[{""version"":""v1"",""created"":""Fri, 26 Mar 1993 22:45:00 GMT""}]","2009-10-22"
+"hep-lat/9303014","Yue Shen","Yue Shen","The Coleman-Weinberg Mechanism and First Order Phase Transitions","8 pages, 4 figures. BUHEP-93-5, hep-lat/9303014","Phys.Lett. B315 (1993) 146-151","10.1016/0370-2693(93)90172-E",,"hep-lat cond-mat hep-ph hep-th",,"  Revised and reduced the size of the text. Removed figure 2 in previous text.
+So, old figure 3 and 4 become new figure 2 and 3, respectively. Added figure 4
+for first order phase transition observation in the strong coupling region.
+Postscript files for the figures are available upon request. To be published in
+Phys. Lett. B.
+","[{""version"":""v1"",""created"":""Fri, 26 Mar 1993 18:09:39 GMT""},{""version"":""v2"",""created"":""Fri, 6 Aug 1993 17:52:35 GMT""}]","2009-10-22"
+"hep-th/9303150","Mark de Wild Propitius","F.Alexander Bais, A. Morozov and M. de Wild Propitius","Charge screening in the Higgs phase of Chern-Simons electrodynamics","9 pages, LATEX file, ITFA 93-05 and ITEP-M-1/93","Phys.Rev.Lett. 71 (1993) 2383-2386","10.1103/PhysRevLett.71.2383",,"hep-th cond-mat",,"  Though screened at large distances, a point-like electric charge can still
+participate in a long-range electromagnetic interaction in the Higgs phase,
+namely that with the Aharonov-Bohm field produced by a localized magnetic flux.
+We show that this follows from the fact that the screening charge, induced in
+the presence of a Higgs condensate, does not interact with the Aharonov-Bohm
+field. The same phenomenon occurs, if a Chern-Simons term is incorporated in
+the action. This observation provides a physical basis for the recently
+proposed classification of the superselection sectors of this model in terms of
+a quasi-Hopf algebra.
+","[{""version"":""v1"",""created"":""Fri, 26 Mar 1993 16:01:46 GMT""}]","2009-10-22"
+"hep-th/9303152",,"Boris Dubrovin","Differential geometry of the space of orbits of a Coxeter group","30 pages, plain TeX, SISSA-29/93/FM",,,,"hep-th",,"  Differential-geometric structures on the space of orbits of a finite Coxeter
+group, determined by Groth\'endieck residues, are calculated. This gives a
+construction of a 2D topological field theory for an arbitrary Coxeter group.
+","[{""version"":""v1"",""created"":""Sat, 27 Mar 1993 11:37:15 GMT""}]","2007-05-23"
+"hep-th/9303153","Alexios Polychronakos","Joseph A. Minahan and Alexios P. Polychronakos","Equivalence of Two Dimensional QCD and the $c=1$ Matrix Model","15 pages, CERN-TH 6843/93, UVA-HET-93-02","Phys.Lett. B312 (1993) 155-165","10.1016/0370-2693(93)90504-B",,"hep-th",,"  We consider two dimensional QCD with the spatial dimension compactified to a
+circle. We show that the states in the theory consist of interacting strings
+that wind around the circle and derive the Hamiltonian for this theory in the
+large $N$ limit, complete with interactions. Mapping the winding states into
+momentum states, we express this Hamiltonian in terms of a continuous field.
+For a $U(N)$ gauge group with a background source of Wilson loops, we recover
+the collective field Hamiltonian found by Das and Jevicki for the $c=1$ matrix
+model, except the spatial coordinate is on a circle. We then proceed to show
+that two dimensional QCD with a $U(N)$ gauge group can be reduced to a one-
+dimensional unitary matrix model and is hence equivalent to a theory of $N$
+free nonrelativistic fermions on a circle. A similar result is true for the
+group $SU(N)$, but the fermions must be modded out by the center of mass
+coordinate.
+","[{""version"":""v1"",""created"":""Sat, 27 Mar 1993 15:29:11 GMT""}]","2009-10-22"
+"nucl-th/9303019",,"S. Takeuchi, F. Myhrer and K. Kubodera (Department of Physics and
+  Astronomy, University of South Carolina, Columbia, SC29208)","On the Spectacular Large Asymmetry in $\pbarppipi$ and $\pbarpKK$
+  Reactions}",,,,,"nucl-th",,"  An illustrative analysis is presented to show the origin of the
+energy-independent maximal asymmetry observed for wide ranges of angles in the
+reactions $\pbarppipi$ and $\pbarpKK$. % The general nature of our simple
+relation between helicity -flip and -nonflip partial wave amplitudes enforces
+the notion that % these features of the asymmetry for these two annihilation
+reactions are likely to persist within the hadronic regime. % At higher
+energies these features of the asymmetry will probably be modified
+significantly, signaling the onset of perturbative QCD. % Our study supports
+the arguments that the final $\KbarK$ state originates from a more central
+reaction than the $\pipi$ final state.
+","[{""version"":""v1"",""created"":""Fri, 26 Mar 1993 19:57:06 GMT""}]","2019-08-17"
+"nucl-th/9303020",,"F. Myhrer (Department of Physics and Astronomy, University of South
+  Carolina, Columbia, SC29208)","Exclusive Hadronic Reactions at High $Q^2$ ($90\degree$) and
+  Polarization Phenomena, An Experimental Proposal}","6 pages, USCreport 1993",,,,"nucl-th",,"  Arguments are presented for the expected behaviour of $\piNpiN$ scattering
+and the $\pbarppipi$ reaction at high energy and large scattering angles. % The
+annihilation reaction has close to maximal asymmetry ($\approx$ 1) for $p_{lab}
+\siml $ 2.2 GeV/c. % As will be presented for fixed (90$\degree$) angle this
+large asymmetry will not become zero but will start to oscillate with energy at
+higher energies and large $Q^2$ when perturbative QCD becomes applicable. This
+is due to the energy dependence of a QCD phase difference between the
+independent quark-quark scattering (Landshoff) and short-distance processes at
+high but not asymptotic energies. % A consequence of the existence the
+Landshoff process is that even if helicity is conserved at the quark level
+($m_{q}$ = 0 MeV), helicity does not have to be conserved on the hadronic
+level. % We will discuss the implications for spin observables in $pp$ elastic
+scattering and argue that
+","[{""version"":""v1"",""created"":""Fri, 26 Mar 1993 20:02:32 GMT""}]","2007-05-23"
+"nucl-th/9303021","Arturo De Pace","A. De Pace and M. Viviani","The Quasi-Elastic Nuclear Response","26 pages, REVTEX 2.1, 9 figures (Postscript, available from the
+  Authors)","Phys.Rev.C48:2931-2945,1993","10.1103/PhysRevC.48.2931","Torino Preprint DFTT 7/93","nucl-th",,"  We explore the nuclear responses at intermediate energies, particularly in
+the spin longitudinal and spin transverse isovector channels, within the
+continuum random phase approximation framework. We also employ an extension of
+the standard random phase approximation to account for the spreading width of
+the single particle states through the inclusion of a complex and
+energy-dependent nucleon self-energy. The nuclear responses are then used as
+the basic ingredient to calculate hadronic reactions in the Glauber theory
+framework. Here both one and two-step contributions to the multiple scattering
+series in the quasi-elastic peak region are taken into account. We find
+evidence for shell effects in the one-step response and a strong dependence on
+the momentum regime of the two-step contribution.
+","[{""version"":""v1"",""created"":""Fri, 26 Mar 1993 22:44:24 GMT""}]","2009-09-25"
+"nucl-th/9303022","Ruprecht Machleidt","R. Machleidt and I. Slaus","Comment on Neutron-Proton Spin-Correlation Parameter A_{ZZ} at 68 Mev","6 pages text (LaTex) and 2 figures (paper, will be faxed upon
+  request), UI-NTH-9303","Phys.Rev.Lett. 72 (1994) 2664","10.1103/PhysRevLett.72.2664",,"nucl-th",,"  We present two arguments indicating that the large value for the $\epsilon_1$
+mixing parameter at 50 MeV, which the Basel group extracted from their recent
+$A_{zz}$ measurement, may be incorrect. First, there are nucleon-nucleon (NN)
+potentials which predict the $\epsilon_1$ at 50 MeV substantially below the
+Basel value and reproduce the Basel $A_{zz}$ data accurately. Second, the large
+value for $\epsilon_1$ at 50 MeV proposed by the Basel group can only be
+explained by a model for the NN interaction which is very unrealistic (no
+$\rho$-meson and essentially a point-like $\pi NN$ vertex) and overpredicts the
+$\epsilon_1$ in the energy range where it is well determined (150--500 MeV) by
+a factor of two.
+","[{""version"":""v1"",""created"":""Sat, 27 Mar 1993 00:24:31 GMT""}]","2009-10-22"

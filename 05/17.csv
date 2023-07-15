@@ -1,0 +1,98 @@
+"cond-mat/9305015",,"T. H. Hansson, Anders Karlhede and Erik Westerberg","Anyons on Higher Genus Surfaces - a Constructive Approach","8 pages, LaTex, 2 figures available on request (wes@vana.physto.se),
+  USITP-93-11",,"10.1142/S0217732393002427",,"cond-mat",,"  We reconsider the problem of anyons on higher genus surfaces by embedding
+them in three dimensional space. From a concrete realization based on three
+dimensional flux tubes bound to charges moving on the surface, we explicitly
+derive all the representations of the spinning braid group. The component
+structure of the wave functions arises from winding the flux tubes around the
+handles. We also argue that the anyons in our construction must fulfil the
+generalized spin-statistics relation.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 08:33:00 GMT""},{""version"":""v2"",""created"":""Mon, 17 May 1993 09:01:00 GMT""}]","2009-10-22"
+"cond-mat/9305016","Christian Muenkel","Christian Muenkel and Dieter W. Heermann","Structural Properties of Two-Dimensional Polymers","7 pages, LaTeX with RevTeX and epsf styles and PostScript figures
+  included (uuencoded shell archive), TVP-930512",,"10.1016/0378-4371(93)90092-I",,"cond-mat",,"  We present structural properties of two-dimensional polymers as far as they
+can be described by percolation theory. The percolation threshold, critical
+exponents and fractal dimensions of clusters are determined by computer
+simulation and compared to the results of percolation theory. We also describe
+the dependence of the typical cluster structures on the reaction rate.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 14:00:21 GMT""}]","2009-10-22"
+"gr-qc/9305013",,"Klaus Kirsten and Jaume Garriga","Massless Minimally Coupled Fields in De Sitter Space: O(4)-Symmetric
+  States Versus De Sitter Invariant Vacuum","TUTP-92-1, to appear in Phys. Rev. D","Phys.Rev. D48 (1993) 567-577","10.1103/PhysRevD.48.567",,"gr-qc hep-th",,"  The issue of de Sitter invariance for a massless minimally coupled scalar
+field is revisited. Formally, it is possible to construct a de Sitter invariant
+state for this case provided that the zero mode of the field is quantized
+properly. Here we take the point of view that this state is physically
+acceptable, in the sense that physical observables can be computed and have a
+reasonable interpretation. In particular, we use this vacuum to derive a new
+result: that the squared difference between the field at two points along a
+geodesic observer's space-time path grows linearly with the observer's proper
+time for a quantum state that does not break de Sitter invariance. Also, we use
+the Hadamard formalism to compute the renormalized expectation value of the
+energy momentum tensor, both in the O(4) invariant states introduced by Allen
+and Follaci, and in the de Sitter invariant vacuum. We find that the vacuum
+energy density in the O(4) invariant case is larger than in the de Sitter
+invariant case.
+","[{""version"":""v1"",""created"":""Sun, 16 May 1993 17:22:00 GMT""}]","2009-10-22"
+"hep-lat/9305014","David Seibert","David Seibert (Theory Division, CERN, CH-1211 Geneva 23, Switzerland)","Undesirable effects of covariance matrix techniques for error analysis","CERN-TH.6892/93 (revised), replaced because of major improvements
+  (finding a test for stability of covariance matrix regression and an
+  alternative method for fitting correlated data)","Phys.Rev. D49 (1994) 6240-6243","10.1103/PhysRevD.49.6240",,"hep-lat hep-ph nucl-th",,"  Regression with $\chi^2$ constructed from the covariance matrix should not be
+used for some combinations of covariance matrices and fitting functions. Using
+the technique for unsuitable combinations can amplify systematic errors. This
+amplification is uncontrolled, and can produce arbitrarily inaccurate results
+that might not be ruled out by a $\chi^2$ test. In addition, this technique can
+give incorrect (artificially small) errors for fit parameters. I give a test
+for this instability and a more robust (but computationally more intensive)
+method for fitting correlated data.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 09:46:00 GMT""},{""version"":""v2"",""created"":""Thu, 22 Jul 1993 08:26:55 GMT""},{""version"":""v3"",""created"":""Thu, 16 Sep 1993 14:27:57 GMT""}]","2009-10-22"
+"hep-ph/9305273",,"A. Denner, W. Hollik and B. Lampe","$\O(\GF^2\Mt^4)$ Electroweak Radiative Corrections to the $\PZ\Pb\Pbbar$
+  Vertex","12 pages, 3 figures (postscript files attached), Latex,
+  CERN-TH.6874/93","Z.Phys.C60:193-198,1993","10.1007/BF01650447",,"hep-ph",,"  The leading heavy-top two-loop corrections to the \Zbb~vertex are determined
+from a direct evaluation of the corresponding Feynman diagrams in the large
+\Mt~limit. %The calculation is done in the naive %dimensional regularization
+scheme with anticommuting $\ga_5$. The leading one-loop top-mass effect is
+enhanced by $[1+\GF\Mt^2(9-\pi^2/3)/(8\pi^2\sqrt{2})]$. Our calculation
+confirms a recent result of Barbieri et al.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 10:04:09 GMT""}]","2009-09-25"
+"hep-ph/9305274","Glennys R. Farrar","Glennys R. Farrar and M. E. Shaposhnikov","Baryon Asymmetry of the Universe in the Minimal Standard Model","14pp inc fig, RU-93-10 & CERN-TH.6729/93","Phys.Rev.Lett.70:2833-2836,1993; ERRATUM-ibid.71:210,1993","10.1103/PhysRevLett.70.2833",,"hep-ph astro-ph",,"  We calculate the baryon asymmetry of the Universe which would arise during a
+first order electroweak phase transition due to minimal standard model
+processes. It agrees in sign and magnitude with the observed baryonic excess,
+for resonable KM parameters and m$_t$ in the expected range, and plausible
+values of bubble velocity and other high temperature effects. A detailed
+version of this work (77pp) is being simultaneously submitted to the net. A
+shortened version of this recently appeared in Phys. Rev. Lett. {\bf 70}, 2833,
+1993.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 15:49:24 GMT""}]","2010-11-01"
+"hep-ph/9305275","Glennys R. Farrar","Glennys R. Farrar and M. E. Shaposhnikov","Baryon Asymmetry of the Universe in the Standard Model","121pp plus 14 figures, CERN-TH.6734/93 and RU-93-11. latex. This is
+  an extended version of the preprint originally issued in May, 1993. It
+  corrects some typographical errors and has been somewhat reorganized (e.g.,
+  moving more to the appendices) and elaborated (especially the section on
+  analytic results) in order to make it more readily understandable. In
+  addition we include two effects which were previously neglected: $L-R$ mixing
+  due to QCD sphalerons, and a diminution of the electroweak gauge and Higgs
+  effects in the broken phase due to mass corrections in the 1-loop
+  approximation to the","Phys.Rev.D50:774,1994","10.1103/PhysRevD.50.774",,"hep-ph astro-ph",,"  We study the interactions of quarks and antiquarks with the changing Higgs
+field during the electroweak phase transition, including quantum mechanical and
+some thermal effects, with the only source of CP violation being the known CKM
+phase. The magnitude and sign of the predicted BAU agrees with the observed
+value, with moderately optimistic assumptions about the dynamics of the phase
+transition. At present uncertainties related to the dynamics of the ew phase
+transition and the oversimplifications of our treatment are too great to decide
+whether or not this is the correct explanation for the presence of remnant
+matter in our universe, however the present work makes it clear that the
+minimal standard model cannot be discounted as a contender for explaining this
+phenomenon.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 15:58:37 GMT""},{""version"":""v2"",""created"":""Mon, 22 Nov 1993 17:32:26 GMT""}]","2010-11-01"
+"hep-th/9305072","Niels Obers","M.B. Halpern and N.A. Obers","Solving the Ward Identities of Irrational Conformal Field Theory","45 pages, Latex, UCB-PTH-93/18, LBL-34111, BONN-HE-93/17. We
+  factorize the biconformal nest correlators of the first version, obtaining
+  the conformal correlators of the affine-Sugawara nests on g/h_1/.../h_n","Int.J.Mod.Phys.A9:419-460,1994","10.1142/S0217751X94000200",,"hep-th",,"  The affine-Virasoro Ward identities are a system of non-linear differential
+equations which describe the correlators of all affine-Virasoro constructions,
+including rational and irrational conformal field theory. We study the Ward
+identities in some detail, with several central results. First, we solve for
+the correlators of the affine-Sugawara nests, which are associated to the
+nested subgroups $g\supset h_1 \supset \ldots \supset h_n$. We also find an
+equivalent algebraic formulation which allows us to find global solutions
+across the set of all affine-Virasoro constructions. A particular global
+solution is discussed which gives the correct nest correlators, exhibits
+braiding for all affine-Virasoro correlators, and shows good physical behavior,
+at least for four-point correlators at high level on simple $g$. In rational
+and irrational conformal field theory, the high-level fusion rules of the
+broken affine modules follow the Clebsch-Gordan coefficients of the
+representations.
+","[{""version"":""v1"",""created"":""Mon, 17 May 1993 15:40:02 GMT""},{""version"":""v2"",""created"":""Fri, 11 Jun 1993 21:48:24 GMT""}]","2008-11-26"

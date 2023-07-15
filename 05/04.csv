@@ -1,0 +1,278 @@
+"alg-geom/9305001","Kirti","Kirti Joshi","A General Noether-Lefschetz Theorem and applications","30 pages, in LaTeX. replaced to correct earlier e-mail corruption",,,,"alg-geom math.AG",,"  In this paper we generalize the classical Noether-Lefschetz Theorem to
+arbitrary smooth projective threefolds. Let $X$ be a smooth projective
+threefold over complex numbers, $L$ a very ample line bundle on $X$. Then we
+prove that there is a positive integer $n_0(X,L)$ such that for $n \geq
+n_0(X,L)$, the Noether-Lefschetz locus of the linear system $H^0(X,L^n)$ is a
+countable union of proper closed subvarieties of $\P(H^0(X,L^n)^*)$ of
+codimension at least two. In particular, the {\em general singular member} of
+the linear system $H^0(X,L^n)$ is not contained in the Noether-Lefschetz locus.
+  As an application of our main theorem we prove the following result: Let $X$
+be a smooth projective threefold, $L$ a very ample line bundle. Assume that $n$
+is very large. Let $S=\P(H^0(X,L^n)^*)$, let $K$ denote the function field of
+$S$. Let ${\cal Y}_K$ be the generic hypersurface corresponding to the sections
+of $H^0(X,L^n)$. Then we show that the natural map on codimension two cycles
+  $$ CH^2(X_{\C}) \to CH^({\cal Y}_K) $$ is injective. This is a weaker version
+of a conjecture of M. V. Nori, which generalises the Noether-Lefschetz theorem
+on codimension one cycles on a smooth projective threefolds to arbitrary
+codimension
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 18:08:00 GMT""},{""version"":""v2"",""created"":""Mon, 17 May 1993 13:53:21 GMT""}]","2008-02-03"
+"alg-geom/9305002","Mark Gross","M. Gross","A Finiteness Theorem for Elliptic Calabi-Yau Threefolds","29 pages, plain TeX",,,,"alg-geom math.AG",,"  We prove that up to birational equivalence, there exists only a finite number
+of families of Calabi-Yau threefolds (i.e. a threefold with trivial canonical
+class and factorial terminal singularities) which have an elliptic fibration to
+a rational surface. This strengthens a result of B. Hunt that there are only a
+finite number of possible Euler characteristics for such threefolds.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 23:47:30 GMT""}]","2008-02-03"
+"astro-ph/9305001","Ng Ka Lok","Ka Lok Ng and Kin-Wang Ng","Large-scale Polarization of the Cosmic Microwave Background Radiation","14 pages, LaTeX style, IP-ASTP-08-93, 2 revised figures available
+  upon request","Phys.Rev. D51 (1995) 364-368","10.1103/PhysRevD.51.364",,"astro-ph",,"  The anisotropy and polarization of the cosmic microwave background radiation
+(CMBR) induced by the scalar and tensor metric perturbations are computed in
+the long-wavelength limit. It is found that the large-scale polarization of
+CMBR induced by the decaying tensor mode can reach a few percents. This is
+different from the scalar or inflation-induced tensor mode, whereas the
+polarization is at least two orders of magnitude lower. The effect of matter
+re-ionization on CMBR is also considered. We conclude that measuring the
+polarization of CMBR on large-angular scales can probe the ionization history
+of the early Universe, and test different cosmological models.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 20:13:48 GMT""},{""version"":""v2"",""created"":""Thu, 10 Mar 1994 19:11:51 GMT""}]","2009-10-22"
+"chao-dyn/9305001","Russell W. Anderson","Russell W. Anderson (Los Alamos National Laboratory), Avidan U.
+  Neumann (Santa Fe Institute) and Alan S. Perelson (Los Alamos National
+  Laboratory)","A Cayley Tree Immune Network Model with Antibody Dynamics",,,,,"chao-dyn nlin.CD",,"  A Cayley tree model of idiotypic networks that includes both B cell and
+antibody dynamics is formulated and analyzed. As in models with B cells only,
+localized states exist in the network with limited numbers of activated clones
+surrounded by virgin or near-virgin clones. The existence and stability of
+these localized network states are explored as a function of model parameters.
+As in previous models that have included antibody, the stability of immune and
+tolerant localized states are shown to depend on the ratio of antibody to B
+cell lifetimes as well as the rate of antibody complex removal. As model
+parameters are varied, localized steady-states can break down via two routes:
+dynamically, into chaotic attractors, or structurally into percolation
+attractors. For a given set of parameters, percolation and chaotic attractors
+can coexist with localized attractors, and thus there do not exist clear cut
+boundaries in parameter space that separate regions of localized attractors
+from regions of percolation and chaotic attractors. Stable limit cycles, which
+are frequent in the two-clone antibody B cell (AB) model, are only observed in
+highly connected networks. Also found in highly connected networks are
+localized chaotic attractors. As in experiments by Lundkvist et al. (1989),
+injection of $Ab_1$ antibodies into a system operating in the chaotic regime
+can cause a cessation of fluctuations of $Ab_1$ and $Ab_2$ antibodies, a
+phenomenon already observed in the two-clone AB model. Interestingly, chaotic
+fluctuations continue at higher levels of the tree, a phenomenon observed by
+Lundkvist et al. but not accounted for previously.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 16:03:38 GMT""}]","2008-02-03"
+"gr-qc/9305002","Ng Ka Lok","K. L. Ng","Gravitational form factors of the neutrino","TEX, need PHYZZX.TEX, 16 pages, NTU-TH-03","Phys.Rev. D47 (1993) 5187-5190","10.1103/PhysRevD.47.5187",,"gr-qc",,"  The gravitational properties of the neutrino is studied in the weak field
+approximation. By imposing the hermiticity condition, CPT and CP invariance on
+the \em tensor matrix element, we shown that the allowed gravitational form
+factors for Dirac and Majorana neutrinos are very different. In a CPT and CP
+invariant theory, the \em tensor for a Dirac neutrino of the same specie is
+characterized by four gravitational form factors. As a result of CPT
+invariance, the \em tensor for a Majorana neutrino of the same specie has five
+form factors. In a CP invariant theory, if the initial and final Majorana
+neutrinos have the same (opposite) CP parity, then only tensor (pseudo-tensor)
+type transition are allowed.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 23:24:45 GMT""}]","2009-10-22"
+"gr-qc/9305003",,"Jorma Louko","Holomorphic quantum mechanics with a quadratic Hamiltonian constraint","37 pages, RevTeX v3.0, SU-GP-93/4-5","Phys.Rev.D48:2708-2727,1993","10.1103/PhysRevD.48.2708",,"gr-qc hep-th",,"  A finite dimensional system with a quadratic Hamiltonian constraint is Dirac
+quantized in holomorphic, antiholomorphic and mixed representations. A unique
+inner product is found by imposing Hermitian conjugacy relations on an operator
+algebra. The different representations yield drastically different Hilbert
+spaces. In particular, all the spaces obtained in the antiholomorphic
+representation violate classical expectations for the spectra of certain
+operators, whereas no such violation occurs in the holomorphic representation.
+A subset of these Hilbert spaces is also recovered in a configuration space
+representation. A propagation amplitude obtained from an (anti)holomorphic path
+integral is shown to give the matrix elements of the identity operators in the
+relevant Hilbert spaces with respect to an overcomplete basis of
+representation-dependent generalized coherent states. Relation to quantization
+of spatially homogeneous cosmologies is discussed in view of the no-boundary
+proposal of Hartle and Hawking and the new variables of Ashtekar.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 19:40:00 GMT""}]","2010-11-01"
+"hep-lat/9305005",,"J. Adler, C. Holm, and W. Janke","High-Temperature Series Analyses of the Classical Heisenberg and XY
+  Model","15 pages, Latex, 2 PS figures not included. FUB-HEP 18/92 and HLRZ
+  76/92","Physica A201 (1993) 581","10.1016/0378-4371(93)90130-V",,"hep-lat",,"  Although there is now a good measure of agreement between Monte Carlo and
+high-temperature series expansion estimates for Ising ($n=1$) models, published
+results for the critical temperature from series expansions up to 12{\em th}
+order for the three-dimensional classical Heisenberg ($n=3$) and XY ($n=2$)
+model do not agree very well with recent high-precision Monte Carlo estimates.
+In order to clarify this discrepancy we have analyzed extended high-temperature
+series expansions of the susceptibility, the second correlation moment, and the
+second field derivative of the susceptibility, which have been derived a few
+years ago by L\""uscher and Weisz for general $O(n)$ vector spin models on
+$D$-dimensional hypercubic lattices up to 14{\em th} order in $K \equiv J/k_B
+T$. By analyzing these series expansions in three dimensions with two different
+methods that allow for confluent correction terms, we obtain good agreement
+with the standard field theory exponent estimates and with the critical
+temperature estimates from the new high-precision MC simulations. Furthermore,
+for the Heisenberg model we reanalyze existing series for the susceptibility on
+the BCC lattice up to 11{\em th} order and on the FCC lattice up to 12{\em th}
+order.
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 15:16:11 GMT""}]","2009-10-22"
+"hep-ph/9305201",,"A. Jakov\'ac and A. Patk\'os","Weak Coupling Phase Structureof the Abelian Higgs Model at Finite
+  Temperature","16 pages+ 4 figures, BI-TP 93/18","Z.Phys. C60 (1993) 361-368","10.1007/BF01474635",,"hep-ph",,"  Using the 1-loop reduced 3D action of the Abelian Higgs-model we discuss the
+order of its finite temperature phase transition. A two-variable saddle point
+approximation is proposed for the evaluation of the effective potential. The
+strength of the first order case scales like \sim e^{3-6}. Analytic asymptotic
+weak coupling and numerical small coupling solutions are compared with special
+emphasis on the cancellation of divergences. (Figures are not included, can be
+sent upon request from jako@hercules.elte.hu .)
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 19:20:42 GMT""}]","2009-10-22"
+"hep-ph/9305203",,"Markus A. Luty and Martin White","Decuplet Contributions to Hyperon Axial Vector Form Factors","12 pages, 1 uuencoded figure, LBL-34040/CfPA-TH-93-10. The paper has
+  been substatially expanded and revised. Some conclusions are changed","Phys.Lett.B319:261-268,1993","10.1016/0370-2693(93)90812-V",,"hep-ph",,"  We consider the predictions of chiral perturbation theory for $SU(3)$
+breaking in the axial vector form factor $g_1$ measured in semileptonic hyperon
+decays. We confirm that if only octet baryon intermediate states are included,
+the non-analytic corrections are $\sim 100\%$. These corrections are dominated
+by an $SU(3)$-symmetric wavefunction renormalization, which explains the fact
+that the ``corrected'' predictions still fit the data well. We argue that the
+large corrections are nonetheless strong evidence that this chiral expansion is
+breaking down. Following a recent suggestion of Jenkins and Manohar, we then
+include contributions from decuplet baryon intermediate states. Unlike these
+authors, we do not neglect the octet--decuplet mass difference $\Delta$. We
+find that the effects of $\Delta \ne 0$ significantly change the pattern of
+corrections: we still find that the decuplet corrections can cancel the large
+octet contributions in a non-trivial way, but the corrections no longer favor
+the $SU(6)$ values of the axial couplings. We also argue that $D$ and $F$ axial
+couplings cannot be reliably extracted from calculations which keep only the
+non-analytic corrections.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 17:17:26 GMT""},{""version"":""v2"",""created"":""Fri, 30 Jul 1993 18:28:37 GMT""}]","2014-11-17"
+"hep-ph/9305204","Maggie Best","Alexei Yu. Smirnov, David N. Spergel, and John N. Bahcall","Is Large Lepton Mixing Excluded?","20 pages, TeX file. For hardcopy with figures contact
+  BEST@IASSNS.BITNET. Institute for Advanced Study number AST 93/15","Phys.Rev. D49 (1994) 1389-1397","10.1103/PhysRevD.49.1389",,"hep-ph",,"  The original \bnum -(or $\bar{\nu}_{\tau}$-) energy spectrum from the
+gravitational collapse of a star has a larger average energy than the spectrum
+for \bnue since the opacity of \bnue exeeds that of \bnum (or $\nu_{\tau}$).
+Flavor neutrino conversion, \bnue $\leftrightarrow$ \bnum, induced by lepton
+mixing results in partial permutation of the original \bnue and \bnum spectra.
+An upper bound on the permutation factor, $p \leq 0.35$ (99$\%$ CL) is derived
+using the data from SN1987A and the different models of the neutrino burst. The
+relation between the permutation factor and the vacuum mixing angle is
+established, which leads to the upper bound on this angle. The excluded region,
+$\sin^2 2\theta > 0.7 - 0.9$, covers the regions of large mixing angle
+solutions of the solar neutrino problem: ``just-so"" and, partly, MSW, as well
+as part of region of $\nu_{e} - \nu_{\mu}$ oscillation space which could be
+responsible for the atmospheric muon neutrino deficit. These limits are
+sensitive to the predicted neutrino spectrum and can be strengthened as
+supernova models improve.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 18:46:29 GMT""},{""version"":""v2"",""created"":""Wed, 2 Jun 1993 13:55:27 GMT""}]","2009-10-22"
+"hep-ph/9305205","Naoya Hata","Naoya Hata and Paul Langacker","The Earth Effect in the MSW Analysis of the Solar Neutrino Experiments","(11 pages, Revtex 3.0 (can be changed to Latex), 3 postscript figures
+  included, UPR-0570T)","Phys.Rev.D48:2937-2940,1993","10.1103/PhysRevD.48.2937",,"hep-ph astro-ph",,"  We consider the Earth effect in the MSW analysis of the Homestake,
+Kamiokande, GALLEX, and SAGE solar neutrino experiments. Using the
+time-averaged data and assuming two-flavor oscillations, the large-angle region
+of the combined fit extends to much smaller angles (to $\sin^22\theta \simeq
+0.1$) than when the Earth effect is ignored. However, the additional constraint
+from the Kamiokande II day-night data excludes most of the parameter space
+sensitive to the Earth effect independent of astrophysical uncertainties, and
+leaves only a small large-angle region close to maximal mixing at 90\% C.L. The
+nonadiabatic solution remains unaffected by the Earth effect and is still
+preferred. Both theoretical and experimental uncertainties are included in the
+analysis.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 19:43:23 GMT""}]","2009-04-13"
+"hep-ph/9305206",,"Eric Braaten, Kingman Cheung, Tzu Chiang Yuan","Perturbative QCD Fragmentation Functions for $B_c$ and $B_c^*$
+  Production","Latex, 12 pages, 3 figures available upon request, NUHEP-TH-93-6","Phys.Rev.D48:5049-5054,1993","10.1103/PhysRevD.48.R5049",,"hep-ph",,"  The dominant production mechanism for ${\bar b} c$ bound states in high
+energy processes is the production of a high energy ${\bar b}$ or $c$ quark,
+followed by its fragmentation into the ${\bar b} c$ state. We calculate the
+fragmentation functions for the production of the S-wave states $B_c$ and
+$B_c^*$ to leading order in the QCD coupling constant. The fragmentation
+probabilities for ${\bar b} \rightarrow B_c$ and ${\bar b} \rightarrow B_c^*$
+are approximately $2.2 \times 10^{-4}$ and $3.1 \times 10^{-4}$, while those
+for $c \rightarrow B_c$ and $c \rightarrow B_c^*$ are smaller by almost two
+orders of magnitude.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 20:34:47 GMT""}]","2016-09-01"
+"hep-ph/9305207","Sergei Khlebnikov","S. Yu. Khlebnikov","Disoriented chiral condensate in (1+1) Lorentz-invariant geometry","9 pages, LATEX, UCLA/93/TEP/10","Mod.Phys.Lett. A8 (1993) 1901-1908","10.1142/S0217732393001628",,"hep-ph",,"  We consider isospin correlations of pions produced in a relativistic nuclear
+collision, using an effective theory of the chiral order parameter. Our theory
+has (1+1) Lorentz invariance as appropriate for the central rapidity region. We
+argue that in certain regions of space correlations of the chiral order
+parameter are described by the fixed point of the (1+1) WZNW model. The
+corresponding anomalous dimension determines scaling of the probability to
+observe a correlated cluster of pions with the size of this cluster in
+rapidity. Though the maximal size of clusters for which this scaling is
+applicable is cut off by pion mass, such clusters can still include
+sufficiently many particles to make the scaling observable.
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 00:41:00 GMT""}]","2015-06-25"
+"hep-ph/9305208","Jihn E. Kim","Eung Jin Chun, Hang Bae Kim and Jihn E. Kim","Dark Matters in Axino Gravitino Cosmology","9 pages, Latex","Phys.Rev.Lett.72:1956-1959,1994","10.1103/PhysRevLett.72.1956",,"hep-ph",,"  It is suggested that the axino mass in the 1 MeV region and gravitino mass in
+the eV region can provide an axino lifetime of order of the time of photon
+decoupling. In this case, some undecayed axinos act like cold dark matters and
+some axino decay products (gravitinos and hot axions) act like hot dark matters
+at the time of galaxy formation.
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 11:49:18 GMT""}]","2010-12-09"
+"hep-ph/9305209","Kurt Langfeld","K. Langfeld, L.v. Smekal, H. Reinhardt","Non-Trivial Phase Structure of $\phi ^{4}$-Theory at Finite Temperature","10 LaTex pages (2 figures available on request), UNITUE-THEP-5-1993","Phys.Lett. B311 (1993) 207-212","10.1016/0370-2693(93)90556-W",,"hep-ph cond-mat",,"  The effective potential for the local composite operator $\phi^{2}(x)$ in
+$\lambda \phi^{4}$-theory is investigated at finite temperature in an approach
+based on path-integral linearisation of the $\phi^4 $-interaction. At zero
+temperature, the perturbative vacuum is unstable, because a non-trivial phase
+with a scalar condensate $\langle \phi ^{2} \rangle _{0}$ has lower effective
+action. Due to field renormalisation, $\langle \lambda \phi ^{2} \rangle _{0}$
+is renormalisation group invariant and leads to the correct scale anomaly. At a
+critical temperature $T_{c}$ the non-perturbative phase becomes meta-stable
+implying a first order phase-transition to the perturbative phase. The ratio
+$\langle\lambda \phi^{2} \rangle _{0} / T_{c}^{2} \approx 62$ turns out to be a
+universal constant.
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 06:53:00 GMT""}]","2009-10-22"
+"hep-th/9305005",,"L.Bonora and C.S.Xiong","Multi-field representations of KP hierarchies and multi-matrix models","14 pages, LaTeX, SISSA 53/93/EP, ASITP 93-25","Phys.Lett. B317 (1993) 329-340","10.1016/0370-2693(93)91004-7",,"hep-th",,"  We discuss the integrable hierarchies that appear in multi--matrix models.
+They can be envisaged as multi--field representations of the KP hierarchy. We
+then study the possible reductions of this systems via the Dirac reduction
+method by suppressing successively one by one part of the fields. We find in
+this way new integrable hierarchies, of which we are able to write the Lax pair
+representations by means of suitable Drinfeld--Sokolov linear systems. At the
+bottom of each reduction procedure we find an $N$--th KdV hierarchy. We discuss
+in detail the case which leads to the KdV hierarchy and to the Boussinesque
+hierarchy, as well as the general case in the dispersionless limit.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 17:11:05 GMT""},{""version"":""v2"",""created"":""Tue, 4 May 1993 14:20:49 GMT""}]","2009-10-22"
+"hep-th/9305006","Viqar Husain","Viqar Husain","Two dimensional general covariance from three dimensions","10 pages (Latex), Alberta-Thy-19-93","Class.Quant.Grav.10:L93-L100,1993","10.1088/0264-9381/10/8/002",,"hep-th gr-qc",,"  A 3d generally covariant field theory having some unusual properties is
+described. The theory has a degenerate 3-metric which effectively makes it a 2d
+field theory in disguise. For 2-manifolds without boundary, it has an infinite
+number of conserved charges that are associated with graphs in two dimensions
+and the Poisson algebra of the charges is closed. For 2-manifolds with boundary
+there are additional observables that have a Kac-Moody Poisson algebra. It is
+further shown that the theory is classically integrable and the general
+solution of the equations of motion is given. The quantum theory is described
+using Dirac quantization, and it is shown that there are quantum states
+associated with graphs in two dimensions.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 17:13:05 GMT""}]","2010-04-06"
+"hep-th/9305007","Fred Goldhaber","Alfred S.Goldhaber, Hsiang-Nan Li, and Rajesh R. Parwani","Scaling of Aharonov-Bohm couplings and the dynamical vacuum in gauge
+  theories","11 pages, ITP-SB-92-40, (major conceptual evolution from original)","Phys.Rev. D51 (1995) 919-923","10.1103/PhysRevD.51.919",,"hep-th hep-ph",,"  Recent results on the vacuum polarization induced by a thin string of
+magnetic flux lead us to suggest an analogue of the Copenhagen `flux spaghetti'
+QCD vacuum as a possible mechanism for avoiding the divergence of perturbative
+QED, thus permitting consistent completion of the full, nonperturbative theory.
+The mechanism appears to operate for spinor, but not scalar, QED.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 20:57:15 GMT""},{""version"":""v2"",""created"":""Mon, 7 Mar 1994 21:15:46 GMT""}]","2009-10-22"
+"hep-th/9305008",,"A.A. Bytsenko, E. Elizalde, and S.D. Odintsov","The Renormalization Group and the Effective Potential in a Curved
+  Spacetime with Torsion","16 pages, LaTeX file, figures available from the authors","Prog.Theor.Phys.90:677-688,1993","10.1143/PTP.90.677",,"hep-th",,"  The renormalization group method is employed to study the effective potential
+in curved spacetime with torsion. The renormalization-group improved effective
+potential corresponding to a massless gauge theory in such a spacetime is found
+and in this way a generalization of Coleman-Weinberg's approach corresponding
+to flat space is obtained. A method which works with the renormalization group
+equation for two-loop effective potential calculations in torsionful spacetime
+is developed. The effective potential for the conformal factor in the conformal
+dynamics of quantum gravity with torsion is thereby calculated explicitly.
+Finally, torsion-induced phase transitions are discussed.
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 10:20:14 GMT""}]","2009-09-17"
+"hep-th/9305009",,"Dan Radu Grigore","Higher-Order Lagrangian Theories and Noetherian Symmetries","25 pages, PLAIN-TEX","Rom.J.Phys. 39 (1994) 11-35",,,"hep-th",,"  A geometric global formulation of the higher-order Lagrangian formalism for
+systems with finite number of degrees of freedom is provided. The formalism is
+applied to the study of systems with groups of Noetherian symmetries.
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 07:30:00 GMT""}]","2007-05-23"
+"hep-th/9305010","Blau Matthias","M. Blau and G. Thompson","Derivation of the Verlinde Formula from Chern-Simons Theory and the G/G
+  model","47 pages (in A4 format), LaTex file, (original was truncated by the
+  mailer - apologies, m.b.), IC/93/83","Nucl.Phys. B408 (1993) 345-390","10.1016/0550-3213(93)90538-Z",,"hep-th",,"  We give a derivation of the Verlinde formula for the $G_{k}$ WZW model from
+Chern-Simons theory, without taking recourse to CFT, by calculating explicitly
+the partition function $Z_{\Sigma\times S^{1}}$ of $\Sigma\times S^{1}$ with an
+arbitrary number of labelled punctures. By a suitable gauge choice,
+$Z_{\Sigma\times S^{1}}$ is reduced to the partition function of an Abelian
+topological field theory on $\Sigma$ (a deformation of non-Abelian BF and
+Yang-Mills theory) whose evaluation is straightforward. This relates the
+Verlinde formula to the Ray-Singer torsion of $\Sigma\times S^{1}$. We derive
+the $G_{k}/G_{k}$ model from Chern-Simons theory, proving their equivalence,
+and give an alternative derivation of the Verlinde formula by calculating the
+$G_{k}/G_{k}$ path integral via a functional version of the Weyl integral
+formula. From this point of view the Verlinde formula arises from the
+corresponding Jacobian, the Weyl determinant. Also, a novel derivation of the
+shift $k\ra k+h$ is given, based on the index of the twisted Dolbeault complex.
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 13:39:34 GMT""},{""version"":""v2"",""created"":""Wed, 5 May 1993 08:52:21 GMT""}]","2009-10-22"
+"hep-th/9305011",,"M. A. Valle Basagoiti","Pressure in Chern-Simons Field Theory to Three-Loop Order","10 pages, PlainTeX with macro manumac (included), report EHU-FT-92/3","Phys.Lett. B306 (1993) 307-311","10.1016/0370-2693(93)90084-U",,"hep-th",,"  We calculate perturbatively the pressure of a dilute gas of anyons through
+second order in the anyon coupling constant, as described by Chern-Simons field
+theory. Near Bose statistics , the divergences in the perturbative expansion
+are exactly cancelled by a two-body $\delta$-function potential which is not
+required near Fermi statistics. To the order considered, we find no need for a
+non-hermitian Hamiltonian. (This paper precedes the article ''Three loop
+calculation of the full anyonic partition function'', by R. Emparan and M.
+Valle Basagoiti, hep-th/9304103)
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 15:12:35 GMT""}]","2009-10-22"
+"hep-th/9305012","John Gracey","J.A. Gracey","The Nambu-Jona-Lasinio Model at O(1/N^2)","9 latex pages, 4 figures (available on request from the author),
+  LTH-308, (2 eqns corrected)","Phys.Lett. B308 (1993) 65-69","10.1016/0370-2693(93)90602-E",,"hep-th",,"  We write down the anomalous dimensions of the fields of the
+Nambu--Jona-Lasinio model or chiral Gross Neveu model with a continuous global
+chiral symmetry for the two cases $U(1)$ $\times$ $U(1)$ and $SU(M)$ $\times$
+$SU(M)$ at $O(1/N^2)$ in a $1/N$ expansion.
+","[{""version"":""v1"",""created"":""Tue, 4 May 1993 15:28:00 GMT""},{""version"":""v2"",""created"":""Fri, 7 May 1993 09:18:00 GMT""}]","2009-10-22"

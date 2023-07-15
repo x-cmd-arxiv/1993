@@ -1,0 +1,220 @@
+"alg-geom/9308002","Elizondo Javier","Javier Elizondo","The Euler Series of Restricted Chow Varieties","15 pages, LaTex",,,,"alg-geom math.AG",,"  Let X be an algebraic projective variety in {\bf P}^n. Denote by {\cal
+C}_{\lambda} the space of all effective cycles on X whose homology class is
+\lambda \in H_{2p} (X,{\bf Z}). It is easy to show that {\cal C}_{\lambda} is
+an algebraic projective variety. Let \chi ({\cal C}_{\lambda} be its Euler
+characteristic. Define the Euler series of X by
+  E_{p} = \sum_{\lambda\in{C}} \, \chi({\cal C}_{\lambda} \lambda
+  \in \, {\bf Z}[[C]]
+  where {\bf Z}[[C]] is the full algebra over {\bf Z} of the monoid C of all
+homology classes of effective p-cyles on X. This algebra is the ring of
+function (with respect the convolution product) over C. Denote by {\bf Z}[C]
+the ring of functions with finite support on C. We say that an element of {\bf
+Z}[[C]] is rational if it is the quotient of two elements in {\bf Z}[C]. If a
+basis for homology is fixed we can associated to any rationa element a rational
+function and therefore compute the Euler characteristic of {\cal C}_{\lambda}.
+We prove that E_p is rational for any projective variety endowed with an
+algebraic torus action in such a way that there are finitely many irreducible
+invariant subvarieties. If it is smooth we also define the equivariant Euler
+series and proved it is rational, we relate both series and compute some
+classical examples. The projective space {\bf P}^n, the blow up of {\bf P}^n at
+a point, Hirzebruch surfaces, the product of {\bf P}^n with {\bf P}^m.
+","[{""version"":""v1"",""created"":""Wed, 11 Aug 1993 12:45:26 GMT""}]","2008-02-03"
+"astro-ph/9308014","Lars Jensen","Mark A. Gunderson and Lars Gerhard Jensen","Boson Stars in the Brans-Dicke Gravitational Theories","18 pages, REVTeX","Phys.Rev. D48 (1993) 5628-5633","10.1103/PhysRevD.48.5628",,"astro-ph gr-qc",,"  Boson stars consist of a system of self-gravitating scalar fields which form
+a macroscopic quantum state and are a possible dark matter candidate. In this
+paper, we address the existence of boson stars in Brans-Dicke gravity. We show
+that solutions to the equations of motion of a boson star in Brans-Dicke
+gravity exist for different values of the coupling constant $\Lambda=\lambda
+M_{Pl}^2/4\pi m^2$, where $\lambda$ is the quartic coupling, and $m$ the mass
+of the boson field. We find that there is only a small decrease of a few
+percent in the mass of these objects when compared to similar solutions based
+on general relativity. We also consider solutions in the limit as $\Lambda
+\rightarrow\infty$.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 18:12:09 GMT""}]","2009-10-22"
+"astro-ph/9308015",,"G.Giuricin, F.Mardirossian, M.Mezzetti, M.Persic, P.Salucci","A Unique Mass Function from Galaxies to Clusters ?","9 pages (2 figures not included, available upon request), LATEX,
+  SISSA Ref. 132/93/A",,,,"astro-ph",,"  We present an observational mass function ranging from galaxies to massive
+galaxy clusters, derived from direct dynamical mass estimates. Our mass
+function shows, in the low-mass range of galaxies and groups, a behaviour in
+agreement with that of standard CDM (n=-2), while in the high-mass range
+(clusters) our mass function is shallower (and thus contains more power) than
+standard CDM; it also results shallower than the recent mass function by
+Bahcall & Cen (1993, ApJ 407, L49).
+","[{""version"":""v1"",""created"":""Wed, 11 Aug 1993 10:18:17 GMT""}]","2007-05-23"
+"cond-mat/9308015","Fazekas Patrik","H.Y. Kee and P. Fazekas (International Centre for Theoretical Physics,
+  Trieste, Italy)","Correlated Mean Field Ansatz for the Kondo Necklace","22 pages (4 figures upon request from fazekas@ictp.trieste.it),
+  LATEX, submitted for publication, IC-93-248","Int. J. Mod. Phys. B 8, 1355 (1994)",,,"cond-mat",,"  We study the ground state phase diagram of the pseudospin model introduced by
+Doniach to describe the essential physics of Kondo lattices. We use variational
+trial states which augment the usual mean field solution by incorporating
+various intersite correlations. A composite spin correlation describing the
+antiparallel alignment of fluctuating triplets is found to be particularly
+favourable for large Kondo couplings. With this trial state, the
+magnetic--to--Kondo transition is suppressed and the strong coupling ground
+state is ordered with strongly reduced moments. The relevance of the findings
+is discussed.
+","[{""version"":""v1"",""created"":""Wed, 11 Aug 1993 13:28:56 GMT""}]","2013-07-22"
+"gr-qc/9308009","Dalia Goldwirth","Dalia S. Goldwirth, Malcolm J. Perry, Tsvi Piran and Kip S. Thorne","The Quantum Propagator for a Nonrelativistic Particle in the Vicinity of
+  a Time Machine",,"Phys.Rev. D49 (1994) 3951-3957","10.1103/PhysRevD.49.3951",,"gr-qc astro-ph hep-th",,"  We study the propagator of a non-relativistic, non-interacting particle in
+any non-relativistic ``time-machine'' spacetime of the type shown in Fig.~1: an
+external, flat spacetime in which two spatial regions, $V_-$ at time $t_-$ and
+$V_+$ at time $t_+$, are connected by two temporal wormholes, one leading from
+the past side of $V_-$ to t the future side of $V_+$ and the other from the
+past side of $V_+$ to the future side of $V_-$. We express the propagator
+explicitly in terms of those for ordinary, flat spacetime and for the two
+wormholes; and from that expression we show that the propagator satisfies
+completeness and unitarity in the initial and final ``chronal regions''
+(regions without closed timelike curves) and its propagation from the initial
+region to the final region is unitary. However, within the time machine it
+satisfies neither completeness nor unitarity. We also give an alternative proof
+of initial-region-to-final-region unitarity based on a conserved current and
+Gauss's theorem. This proof can be carried over without change to most any
+non-relativistic time-machine spacetime; it is the non-relativistic version of
+a theorem by Friedman, Papastamatiou and Simon, which says that for a free
+scalar field, quantum mechanical unitarity follows from the fact that the
+classical evolution preserves the Klein-Gordon inner product.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 16:29:23 GMT""}]","2009-10-22"
+"hep-lat/9308009","Wolfgang Bock","Wolfgang Bock, Jan Smit and Jeroen C. Vink","Non-gauge fixing approach to chiral gauge theories using staggered
+  fermions","25 pages, 12 postscript figures (appended), ITFA 93-18, UCSD/PTH
+  93-15","Nucl.Phys. B416 (1994) 645-674","10.1016/0550-3213(94)90326-3",,"hep-lat hep-th",,"  We investigate a proposal for the construction of models with chiral fermions
+on the lattice using staggered fermions. In this approach the gauge invariance
+is broken by the coupling of the staggered fermions to the gauge fields.
+Motivated by previous results in the non-gauge invariant massive Yang-Mills
+theory and certain gauge-fermion models we aim at a dynamical restoration of
+the gauge invariance in the full quantum model. If the gauge symmetry breaking
+is not too severe, this procedure could lead in the continuum limit to the
+desired gauge invariant chiral gauge theory. This scenario is very attractive
+since it does not rely on gauge fixing. We investigate a simple realization of
+this approach in a U(1) axial-vector model with dynamical fermions in four
+dimensions.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 19:43:58 GMT""}]","2009-10-22"
+"hep-lat/9308010","Don Weingarten","H. Chen, J. Sexton, A. Vaccarino, and D. Weingarten","Glueball Mass Predictions of the Valence Approximation to Lattice QCD","uufiles encoded copy of 19 pages of Latex plus 10 postscript figues",,,,"hep-lat hep-ph",,"  We evaluate the infinite volume, continuum limit of glueball masses in the
+valence (quenched) approximation to lattice QCD. For the lightest states with
+$J^{PC}$ of $0^{++}$ and $2^{++}$, we obtain $m_0 = 1340 \pm 160$ MeV and $m_2
+= 1900 \pm 320$ MeV.
+","[{""version"":""v1"",""created"":""Wed, 11 Aug 1993 03:59:39 GMT""}]","2007-05-23"
+"hep-ph/9308252","Naoya Hata","Naoya Hata and Paul Langacker","The Updated MSW Analysis and the Standard Solar Model Uncertainties","(Revtex 3.0, convertible to Latex, 10 pages + 6 uuencoded ps figures,
+  UPR-0581T)",,,,"hep-ph astro-ph",,"  We update the analysis of the MSW and general astrophysical solutions to the
+combined solar neutrino observations by including the GALLEX II result. We also
+show that our parametrized flux uncertainties are equivalent to the Monte-Carlo
+results of Bahcall and Ulrich.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 16:12:00 GMT""}]","2007-05-23"
+"hep-ph/9308253","Alexander Bochkarev","A. Bochkarev","On the relation between Euclidean and real time calculations of Green
+  functions at finite temperature","10 pages, 2 figs not included, Phys.Rev.D (in press), PITT-93-07","Phys.Rev.D48:2382-2384,1993","10.1103/PhysRevD.48.R2382",,"hep-ph",,"  We find a relation between the semiclassical approximation of the temperature
+(Matsubara) 2-point correlator and the corresponding classical Green function
+in real time at finite temperature. The anharmonic oscillator at finite
+temperature is used to illustrate our statement, which is however of rather
+general origin.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 19:10:53 GMT""}]","2009-12-30"
+"hep-ph/9308255","Topor Vasile Pop","C.Besliu, V.Popa, L.Popa, V.Topor Pop","Do Search for Dibaryonic De - Excitations in Relativistic Nuclear
+  Reactions","17 pages,LATEX, preprint ICTP -243 1993,figures available by request","J.Phys.G19:1831-1840,1993","10.1088/0954-3899/19/11/011",,"hep-ph",,"  Some odd characteristics are observed in the single particle distributions
+obtained from $ He + Li $ interactions at $ 4.5 AGeV/c $ momenta which are
+explained as the manifestation of a new mechanism of strangeness production via
+dibaryonic de-excitations. A signature of the formation of hadronic and
+baryonic clusters is also reported. The di-pionic signals of the dibaryonic
+orbital de-excitations are analyzed in the frame of the MIT - bag Model and a
+Monte Carlo simulation.The role played by the dibaryonic resonances in
+relativistic nuclear collisions could be a significant one.
+  Key words: Relativistic nuclear interactions negative pions, negative kaons,
+di-pions , streamer chamber, dibaryons, MIT - bag model
+  PACS codes: 25.75.+r,14.40.Aq,14.20.Pt,12.40.As
+","[{""version"":""v1"",""created"":""Wed, 11 Aug 1993 06:36:52 GMT""}]","2019-08-17"
+"hep-ph/9308256",,"Y. Levin and R. R. Volkas","Study of the simplest realistic Higgs sector in quark-lepton symmetric
+  models","25 pages, plain LaTeX, Melbourne preprint UM-P-93/51","Phys.Rev.D48:5342-5353,1993","10.1103/PhysRevD.48.5342",,"hep-ph",,"  A discrete symmetry between quarks and (generalized) leptons can exist in
+nature, and its spontaneous symmetry breaking scale can be as low as a few TeV.
+Such a discrete symmetry also has interesting implications for how electroweak
+symmetry is spontaneously broken, because the simplest version of the theory
+requires two electroweak Higgs doublets rather than one in order to provide
+acceptable values for quark and lepton masses. The effective theory generated
+at electroweak-scale energies is thus a particular type of two-Higgs-doublet
+model. We point out in this paper that the broken discrete symmetry imposes
+very interesting constraints on the form of the Yukawa couplings between
+physical Higgs bosons and quarks and leptons. In particular, we find that the
+flavour-changing neutral Higgs couplings to down-sector quarks are proportional
+to the neutrino Dirac mass matrix. If neutrinos are Dirac particles, then the
+severe experimental upper bounds on their mass values renders tree-level
+neutral flavour-changing Higgs effects on down-quark systems like
+$K^0-\bar{K}^0$ negligibly small. We also discuss minimization of some relevant
+Higgs potentials and some other pertinent phenomenological issues.
+","[{""version"":""v1"",""created"":""Wed, 11 Aug 1993 07:47:29 GMT""}]","2014-11-17"
+"hep-ph/9308257","Markus Thoma","Markus H. Thoma","Parton Interaction Rates in the Quark-Gluon Plasma","11 pages, 2 figures (not included), REVTex, UGI-93-04","Phys.Rev. D49 (1994) 451-459","10.1103/PhysRevD.49.451",,"hep-ph nucl-th",,"  The transport interaction rates of elastic scattering processes of thermal
+partons in the quark-gluon plasma are calculated beyond the leading logarithm
+approximation using the effective perturbation theory for QCD at finite
+temperatures developed by Braaten and Pisarski. The results for the ordinary
+and transport interaction rates obtained from the effective perturbation theory
+are compared to perturbative approximations based on an infrared cut-off by the
+Debye screening mass. The relevance of those interaction rates for a
+quark-gluon plasma possibly formed in ultrarelativistic heavy ion collisions
+are discussed.
+","[{""version"":""v1"",""created"":""Wed, 11 Aug 1993 08:15:56 GMT""}]","2009-10-22"
+"hep-ph/9308258",,"Apostolos Pilaftsis","Astrophysical and Terrestrial Constraints on Singlet Majoron Models","21 p. (4figs), LaTeX, MZ-TH/93-18","Phys.Rev.D49:2398-2404,1994","10.1103/PhysRevD.49.2398",,"hep-ph",,"  The general Lagrangian containing the couplings of the Higgs scalars to
+Majorana neutrinos is presented in the context of singlet Majoron models with
+intergenerational mixings. The analytical expressions for the coupling of the
+Majoron field to fermions are derived within these models. Astrophysical
+considerations imply severe restrictions on the parameters of the model if the
+singlet Majoron model with three generations is assumed to be embedded in grand
+unified theories. Bounds that originate from analyzing possible charged
+lepton-violating decays in terrestrial experiments are also discussed. In
+particular, we find that experimental searches for muon decays by Majoron
+emission cannot generally be precluded by astrophysical requirements.
+","[{""version"":""v1"",""created"":""Wed, 11 Aug 1993 13:01:08 GMT""}]","2008-11-26"
+"hep-ph/9308259","Poul H. Damgaard","P.H. Damgaard, H.B. Nielsen and R. Sollacher","Gauge-Symmetric Approach to Effective Lagrangians: The \eta' Meson from
+  QCD","LaTeX, 31 pages, CERN--TH-6959/93","Nucl.Phys. B414 (1994) 541-578","10.1016/0550-3213(94)90254-2",,"hep-ph",,"  We present a general scheme for extracting effective degrees of freedom from
+an underlying fundamental Lagrangian, through a series of well-defined
+transformations in the functional integral of the cut-off theory. This is done
+by introducing collective fields in a gauge-symmetric manner. Through
+appropriate gauge fixings of this symmetry one can remove long-distance degrees
+of freedom from the underlying theory, replacing them by the collective fields.
+Applying this technique to QCD, we set out to extract the long-distance
+dynamics in the pseudoscalar flavour singlet sector through a gauging (and
+subsequent gauge fixing) of the $U(1)_A$ flavour symmetry which is broken by
+the anomaly. By this series of exact transformations of a cut-off generating
+functional for QCD, we arrive at a theory describing the long-distance physics
+of a pseudoscalar flavour singlet meson coupled to the residual quark-gluon
+degrees of freedom. As examples of how known low-energy physics can be
+reproduced in this formulation, we rederive the Witten-Veneziano relation
+between the $\eta'$ mass and the topological susceptibility, now for any value
+of the number of colours $N_c$.
+","[{""version"":""v1"",""created"":""Wed, 11 Aug 1993 14:18:35 GMT""}]","2009-10-22"
+"hep-ph/9308261",,"E.L.Berger and K.Sridhar","QCD calculation of J/psi+gamma mass distributions","7 pages LaTex, 4 figures available on request. CERN-TH.6974/93,
+  ANL-HEP-PR-93.64","Phys.Lett.B317:443-448,1993","10.1016/0370-2693(93)91022-F",,"hep-ph",,"  We compute the J/psi+gamma invariant-mass distributions from the QCD
+subprocess g + g --> J/psi+gamma. At large masses, this subprocess is the
+dominant mechanism for J/psi+gamma production, and data could provide a good
+test of QCD. The mass distribution peaks at relatively small masses (3.4 - 4.0
+GeV) and the subprocess could, therefore, represent a significant QCD
+background to J/psi+gamma decay of heavier charmonia. We also analyze the J/psi
+angular distribution in the J/psi+gamma rest frame.
+","[{""version"":""v1"",""created"":""Wed, 11 Aug 1993 15:44:09 GMT""}]","2008-11-26"
+"hep-th/9308050","Branko Urosevic","Branko Uro\v{s}evi\'c","Scattering of Discrete States in Two Dimensional Open String Field
+  Theory","26 pages, BROWN-HET-917","Phys.Rev. D48 (1993) 5827-5837","10.1103/PhysRevD.48.5827",,"hep-th",,"  This is the second in a series of papers devoted to open string field theory
+in two dimensions. In this paper we aim to clarify the origin and the role of
+discrete physical states in the theory. To this end, we study interactions of
+discrete states and generic tachyons. In particular, we discuss at length four
+point amplitudes. We show that behavior of the correlation functions is
+governed by the number of generic tachyons involved and values of the kinematic
+invariants $s$, $t$ and $u$. Divergence of certain classes of correlators is
+shown to be the consequence of the fact certain kinematic invariants are
+non--positive integers in that case. Explicit examples are included. We check
+our results by standard conformal technique.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 17:35:20 GMT""}]","2009-10-22"
+"hep-th/9308051",,"J. Alfaro","Loop Equations for the d-dimensional One-Hermitian Matrix model","13 pages, Latex, CERN-TH-6966/93","Phys.Lett. B317 (1993) 550-558","10.1016/0370-2693(93)91371-S",,"hep-th",,"  We derive the loop equations for the one Hermitian matrix model in any
+dimension. These are a consequence of the Schwinger-Dyson equations of the
+model. Moreover we show that in leading order of large $N$ the loop equations
+form a closed set.
+","[{""version"":""v1"",""created"":""Tue, 10 Aug 1993 22:08:39 GMT""}]","2009-10-22"
+"hep-th/9308052","Gregory Moore","Gregory Moore","Symmetries and symmetry-breaking in string theory","11 pages, YCTP-P18-93",,,,"hep-th",,"  This is a summary of a talk based on hep-th/9305139 and presented at the
+SUSY-93 International Workshop. We study infinite dimensional unbroken gauge
+symmetries which arise when time is toroidally compactified in string theory.
+","[{""version"":""v1"",""created"":""Wed, 11 Aug 1993 00:29:06 GMT""}]","2007-05-23"
+"hep-th/9308053","Yasuhiro Kuwano","Yas-Hiro Quano","Spontaneous Polarization of the $\Bbb Z _{n}$-Baxter Model","14p, RIMS-930","Mod. Phys. Lett. A8 (1993) 3363-3376","10.1142/S0217732393003792",,"hep-th",,"  We show that correlation functions of the $\bz _n $-Baxter model in the
+principal regime satisfy a system of difference equations. We obtain the
+spontaneous polarization of the $\bz _n $-Baxter model as a solution of the
+simplest difference equation.
+","[{""version"":""v1"",""created"":""Wed, 11 Aug 1993 05:35:27 GMT""}]","2015-06-26"
+"nucl-th/9308011","T. Saito","T-Y. Saito and I.R. Afnan","How important is the three-nucleon force?","16 page RevTeX manuscript, two figures available from authors
+  I.R.Afnan@flinders.edu.au, to be published in Phys.Rev.C","Phys.Rev.C50:2756-2760,1994","10.1103/PhysRevC.50.2756",,"nucl-th",,"  By calculating the contribution of the $\pi-\pi$ three-body force to the
+three-nucleon binding energy in terms of the $\pi N$ amplitude using
+perturbation theory, we are able to determine the contribution of the different
+$\pi N$ partial waves to the three-nucleon force. The division of the $\pi N$
+amplitude into a pole and nonpole gives a unique procedure for the
+determination of the $\pi NN$ form factor in the model. The total contribution
+of the three-body force to the binding energy of the triton is found to be very
+small.
+","[{""version"":""v1"",""created"":""Wed, 11 Aug 1993 08:39:43 GMT""},{""version"":""v2"",""created"":""Mon, 28 Nov 1994 04:28:14 GMT""}]","2008-11-26"

@@ -1,0 +1,242 @@
+"chao-dyn/9303016","Predrag Cvitanovic","Predrag Cvitanovi\'c and Bruno Eckhardt","Symmetry Decomposition of Chaotic Dynamics","CYCLER Paper 93mar013",,"10.1088/0951-7715/6/2/008",,"chao-dyn nlin.CD",,"  Discrete symmetries of dynamical flows give rise to relations between
+periodic orbits, reduce the dynamics to a fundamental domain, and lead to
+factorizations of zeta functions. These factorizations in turn reduce the labor
+and improve the convergence of cycle expansions for classical and quantum
+spectra associated with the flow. In this paper the general formalism is
+developed, with the $N$-disk pinball model used as a concrete example and a
+series of physically interesting cases worked out in detail.
+","[{""version"":""v1"",""created"":""Wed, 24 Mar 1993 00:00:00 GMT""}]","2009-10-22"
+"cond-mat/9303042","Enzo Marinari","M. Guagnelli, E. Marinari and G. Parisi","Maximal Mean Field Solutions in the Random Field Ising Model: the
+  Pattern of the Symmetry Breaking","16 pages plus 9 ps figures added in a compressed uufile, ROM2F-92-46,
+  SCCS 372",,"10.1088/0305-4470/26/21/009",,"cond-mat hep-lat hep-th",,"  In this note we study the mean field equations for the $3d$ Random Field
+Ising Model. We discuss the phase diagram of the model, and we address the
+problem of finding if such equations admit more than one solution. We find two
+different critical values of $\beta$: one where the magnetization takes a
+non-zero expectation value, and one where we start to have more than one
+solution to the mean field equation. We find that, inside a given solution,
+there are no divergent correlation lengths.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 16:30:22 GMT""}]","2009-10-22"
+"cond-mat/9303043",,"Wolfgang Haeusler, Bernhard Kramer, PTB Braunschweig","Coulombically Interacting Electrons in a One-dimensional Quantum Dot","10 pages (excl. Figures), Figures added in POSTSCRIPT, LaTeX",,"10.1103/PhysRevB.47.16353",,"cond-mat",,"  The spectral properties of up to four interacting electrons confined within a
+quasi one--dimensional system of finite length are determined by numerical
+diagonalization including the spin degree of freedom. The ground state energy
+is investigated as a function of the electron number and of the system length.
+The limitations of a description in terms of a capacitance are demonstrated.
+The energetically lowest lying excitations are physically explained as
+vibrational and tunneling modes. The limits of a dilute, Wigner-type
+arrangement of the electrons, and a dense, more homogeneous charge distribution
+are discussed.
+","[{""version"":""v1"",""created"":""Wed, 24 Mar 1993 10:35:00 GMT""}]","2009-10-22"
+"hep-ph/9303295","Sharon Vadas","Sharon L. Vadas","Numerical Evolution of General Relativistic Voids","37 pages plus 12 figures (upon request-- vasha@fnas11.fnal.gov)
+  LaTeX, FNAL-PUB-93/005-A","Phys.Rev. D48 (1993) 4562-4594","10.1103/PhysRevD.48.4562",,"hep-ph astro-ph gr-qc",,"  In this paper, we study the evolution of a relativistic, superhorizon-sized
+void embedded in a Friedmann-Robertson-Walker universe. We numerically solve
+the spherically symmetric general relativistic equations in comoving,
+synchronous coordinates. Initially, the fluid inside the void is taken to be
+homogeneous and nonexpanding. In a radiation- dominated universe, we find that
+radiation diffuses into the void at approximately the speed of light as a
+strong shock---the void collapses. We also find the surprising result that the
+cosmic collapse time (the $1^{\rm st}$-crossing time) is much smaller than
+previously thought, because it depends not only on the radius of the void, but
+also on the ratio of the temperature inside the void to that outside. If the
+ratio of the initial void radius to the outside Hubble radius is less than the
+ratio of the outside temperature to that inside, then the collapse occurs in
+less than the outside Hubble time. Thus, superhorizon-sized relativistic void
+may thermalize and homogenize relatively quickly. These new simulations revise
+the current picture of superhorizon-sized void evolution after first-order
+inflation.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 20:15:20 GMT""}]","2009-10-22"
+"hep-ph/9303296",,"M. Dine, A. Kagan and R. G. Leigh","Supersymmetry and the Nelson-Barr Mechanism","24 pages, 3 figures, phyzzx format; minor adjustments made","Phys.Rev.D48:2214-2223,1993","10.1103/PhysRevD.48.2214","SCIPP 93/05,SLAC-PUB-6090","hep-ph",,"  One possible solution to the strong CP problem is that CP is an exact
+symmetry, spontaneously broken at some scale. Some years ago, Nelson and Barr
+suggested a mechanism for obtaining $\theta=0$ at tree level in this framework,
+and showed that radiative corrections were small in some non-supersymmetric
+models. Further investigations suggested that the same could be true in
+supersymmetric theories. In this note, we show that these analyses assumed an
+extraordinarily high degree of degeneracy among squark masses and among other
+supersymmetry breaking parameters. We argue, using naturalness as well as
+expectations from string theory, that this is not very plausible.
+","[{""version"":""v1"",""created"":""Wed, 24 Mar 1993 01:53:19 GMT""},{""version"":""v2"",""created"":""Tue, 18 May 1993 16:57:53 GMT""}]","2010-11-01"
+"hep-ph/9303297","J. Gunion","J.F. Gunion","Detecting the Supersymmetric Higgs Bosons: An Overview and the Role of
+  $\gam\gam$ Collisions","42 pages, UCD-93-8",,,,"hep-ph",,"  I summarize the abilities of LEP-II, the SSC/LHC hadron colliders, and a
+future high energy $\epem$ collider (NLC) to detect the Higgs bosons of the
+Minimal Supersymmetric Model (MSSM). I then review the unique capabilities of a
+back-scattered laser beam facility (BSLBF) at the NLC for detecting the heavier
+neutral Higgs bosons (the $\hh$ and $\ha$) of the MSSM. A BSLBF could well
+allow $\hh$ and $\ha$ discovery via inclusive $\gam\gam\rta \hh,\ha$ production
+out to masses of order $0.8\sqrt s$, \ie\ roughly $400\gev$, at the NLC. In
+addition, a BSLBF allows one to check for CP violation in the neutral Higgs
+sector; such CP violation is predicted to be absent in the MSSM. (Full
+postscript file available upon request. Macropackage phyzzx.tex required. To
+appear in Proceedings of 23rd INFN Eloisatron Workshop.)
+","[{""version"":""v1"",""created"":""Wed, 24 Mar 1993 02:41:00 GMT""}]","2007-05-23"
+"hep-ph/9303298","Ulf Meissner","Ulf-G. Mei{\ss}ner","Electroweak Reactions in the Non-Perturbative Regime of QCD","29pp, TeX (Springer Macro included), BUTP-93/04",,"10.1007/BFb0028950",,"hep-ph nucl-th",,"  In the first part of these lectures, I consider chiral perturbation theory in
+the presence of matter fields. It allows to systematically work out the
+consequences of the broken chiral symmetry of QCD. As examples, threshold pion
+photo- and electroproduction and (spin-flip) nucleon Compton scattering are
+considered. The second part deals with the quark structure of the nucleon at
+low energies. The various electromagnetic and weak form factors are discussed.
+It is shown how parity-violating electron and (anti)neutrino scattering off
+nucleons and nuclei can be used as a tool to pin down strange matrix elements
+of the proton. The calculation of QED, QCD and heavy quark corrections to these
+processes is also touched upon. (Lectures given at the XXXII. Internationale
+Universit{\""a}tswochen f{\""u}r Kern- und Teilchenphysik, Schladming, Austria,
+February 24- March 5, 1993).
+","[{""version"":""v1"",""created"":""Wed, 24 Mar 1993 09:16:54 GMT""}]","2015-06-25"
+"hep-ph/9303299","Mirjam Cvetic","F. del Aguila, Mirjam Cvetic, and Paul Langacker","Determination of $Z'$ Gauge Couplings to Quarks and Leptons at Future
+  Hadron Colliders","(figures available on request), 12 pages, UPR-547-T","Phys.Rev.D48:969-973,1993","10.1103/PhysRevD.48.R969",,"hep-ph",,"  We point out that at future hadron colliders the ratio of cross sections for
+$pp\to Z'\to \ell^+\ell^-$ in two rapidity bins is a useful probe of the
+relative couplings of the $Z'$ to $u$ and $d$ quarks. Combined with the
+forward-backward asymmetry, the rare decay modes $Z'\to W \ell\nu_\ell$, and
+three associated productions $pp\to Z'V$ ($V=Z,W,\gamma$), and assuming
+inter-family universality, small $Z-Z'$ mixing, and the $Z'$ charge commuting
+with the $SU_{2L}$ generators, three out of four normalized couplings could be
+extracted. An analysis of the statistical uncertainties expected for the above
+probes at the LHC for typical models with $M_{Z'}\simeq1$ TeV shows that one
+lepton coupling and two combinations of quark couplings could be determined to
+around 5\%, 20\%, and 30\%, respectively. This allows for a clear distinction
+between models.
+","[{""version"":""v1"",""created"":""Wed, 24 Mar 1993 12:11:37 GMT""}]","2009-09-17"
+"hep-ph/9303300","Yong Yeon Keum","Y. Y. Keum and X. Y. Pham","Possible huge enhancement in the radiative decay of the weal W boson
+  into the charmed $D_{s} $ meson","14, PAR/LPTHE 93 - 05","Mod.Phys.Lett. A9 (1994) 1545-1556","10.1142/S0217732394001386",,"hep-ph",,"  We point out that the rare decay mode $W^{\pm} \rightarrow \gamma +
+D^{\pm}_{s} $ could be spectacularly enhanced, with a branching ratio around
+$10^{-6} $ which is three order of magnitude larger than previous predictions.
+Its observation will determine the W boson mass with great accuracy, providing
+additional high precision tests of the standard model, as well as reveal
+eventual deviation from the trilinear non-abelian gauge coupling.
+","[{""version"":""v1"",""created"":""Wed, 24 Mar 1993 12:49:21 GMT""}]","2015-06-25"
+"hep-ph/9303301","Cvetic","G. Cvetic and C.S. Kim","Flavor Democracy in Standard Models at High Energies","23 pages (7 Figs. available on request), standard LATEX, preprint
+  DO-TH 93-08, SNUTP 93-12, YUMS 93-05","Nucl.Phys.B407:290-312,1993","10.1016/0550-3213(93)90059-X",,"hep-ph",,"  It is possible that the standard model (SM) is replaced around some
+transition energy $\E_{tr}$ by a new, possibly Higgsless, ``flavor gauge
+theory'' such that the Yukawa (running) parameters of SM at $E \sim \E_{tr}$
+show up an (approximate) flavor democracy (FD). We investigate the latter
+possibility by studying the renormalization group equations for the Yukawa
+couplings of SM with one and two Higgs doublets, by evolving them from given
+physical values at low energies ($E \simeq 1 GeV$) to $\E_{tr}$ ($ \sim
+\E_{pole}$) and comparing the resulting fermion masses and CKM matrix elements
+at $E \simeq \E_{tr}$ for various $m_t^{phy}$ and ratios $v_u/v_d$ of vacuum
+expectation values. We find that the minimal SM and the closely related SM with
+two Higgs doublets (type I) show increasing deviation from FD when energy is
+increased, but that SM with two Higgs doublets (type II) clearly tends to FD
+with increasing energy - in both the quark and the leptonic sector (q-q and l-l
+FD). Furthermore, we find within the type II model that, for $\E_{pole} \ll
+\E_{Planck}$, $m_t^{phy}$ can be less than $200 GeV$ in most cases of chosen
+$v_u/v_d$. Under the assumption that also the corresponding Yukawa couplings in
+the quark and the leptonic sector at $E \simeq \E_{tr}$ are equal (l-q FD), we
+derive estimates of bounds on masses of top quark and tau-neutrino, which are
+compatible with experimental bounds.
+","[{""version"":""v1"",""created"":""Wed, 24 Mar 1993 15:43:44 GMT""}]","2010-11-01"
+"hep-th/9303129","Andrei Mikhailov","A.Mikhailov","Ward identities and W-constraints in Generalized Kontsevich Model","22 pages, report UUITP 9/1993, FIAN/TD-03/93","Int.J.Mod.Phys. A9 (1994) 873-890","10.1142/S0217751X9400039X",,"hep-th",,"  The connection is obtained between Ward identities and W-constraints in
+Generalized Kontsevich Model with the potential $X^4/4$. We show that Ward
+identities include W-constraints (and do not include any other constraints) for
+this potential and make some observations in favour of the same connection for
+the model with the potential of the form $X^{(K+1)}/(K+1)$ for any $K\geq 2$.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 16:29:27 GMT""}]","2015-06-26"
+"hep-th/9303130","Alexander Migdal","Alexander A. Migdal","Loop Equation in Turbulence","33 pages, 7 figures, LaTeX",,,"PUPT-1383","hep-th",,"  The incompressible fluid dynamics is reformulated as dynamics of closed loops
+$C$ in coordinate space. This formulation allows to derive explicit functional
+equation for the generating functional $\Psi[C]$ in inertial range of spatial
+scales, which allows the scaling solutions. The requirement of finite energy
+dissipation rate leads then to the Kolmogorov index. We find an exact steady
+solution of the loop equation in inertial range of the loop sizes. The
+generating functional decreases as $\EXP{-A^{\tt}}$ where $A=\oint_C r \wedge
+dr$ is the area inside the loop. The pdf for the velocity circulation $\Gamma$
+is Lorentzian, with the width $\bar{\Gamma} \propto A^{\tt} $.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 21:39:44 GMT""},{""version"":""v2"",""created"":""Wed, 24 Mar 1993 20:55:56 GMT""}]","2008-02-03"
+"hep-th/9303131","Kim Chanju","Chanju Kim, Choonkyu Lee, Pyungwon Ko, Bum-Hoon Lee, and Hyunsoo Min","Schr\""{o}dinger Fields on the Plane with $[U(1)]^N$ Chern-Simons
+  Interactions and Generalized Self-dual Solitons","49 pages including 4 figures, LATEX ( three LATEX figures and one
+  PICTEX figure), SNUTP 93-14, UMN-TH-1135","Phys.Rev. D48 (1993) 1821-1840","10.1103/PhysRevD.48.1821",,"hep-th",,"  A general non-relativistic field theory on the plane with couplings to an
+arbitrary number of abelian Chern-Simons gauge fields is considered. Elementary
+excitations of the system are shown to exhibit fractional and mutual
+statistics. We identify the self-dual systems for which certain classical and
+quantal aspects of the theory can be studied in a much simplified mathematical
+setting. Then, specializing to the general self-dual system with two
+Chern-Simons gauge fields (and non-vanishing mutual statistics parameter), we
+present a systematic analysis for the static vortexlike classical solutions,
+with or without uniform background magnetic field. Relativistic generalizations
+are also discussed briefly.
+","[{""version"":""v1"",""created"":""Wed, 24 Mar 1993 06:21:27 GMT""}]","2009-10-22"
+"hep-th/9303132","David Fairlie","D. B. Fairlie and J. Nuyts","Study of Quommutators of Quantum Variables and Generalized Derivatives","17 pages (Previous version was truncated in transmission)","J.Math.Phys. 34 (1993) 4441-4454","10.1063/1.530350","DTP-93-09","hep-th math.QA",,"  A general deformation of the Heisenberg algebra is introduced with two
+deformed operators instead of just one. This is generalised to many variables,
+and permits the simultaneous existence of coherent states, and the
+transposition of creation operators.
+","[{""version"":""v1"",""created"":""Wed, 24 Mar 1993 08:45:54 GMT""},{""version"":""v2"",""created"":""Thu, 25 Mar 1993 12:28:19 GMT""}]","2009-10-22"
+"hep-th/9303133",,"Alexander Sevrin, Kris Thielemans and Walter Troost","Induced and Effective Gravity Theories in D=2","58 pages, latex, LBL-33738, UCB-PTH-93/06, KUL-TF-93/09","Nucl.Phys. B407 (1993) 459-512","10.1016/0550-3213(93)90067-Y",,"hep-th",,"  As a preparation for the study of {\it arbitrary} extensions of $d=2$ gravity
+we present a detailed investigation of $SO(N)$ supergravity. By gauging a
+chiral, nilpotent subgroup of the $OSp(N|2)$ Wess-Zumino-Witten model we obtain
+an all order expression for the effective action. Reality of the coupling
+constant imposes the usual restrictions on $c$ for $N=0$ and 1. No such
+restrictions appear for $N\geq 2$. For $N=2$, 3 and 4, no renormalizations of
+the coupling constant beyond one loop occur. These results are related to
+non-renormalization theorems for theories with extended supersymmetries.
+Arbitrary (super)extensions of $d=2$ gravity are then analyzed. The induced
+theory is represented by a WZW model for which a chiral, solvable group is
+gauged. From this, we obtain the effective action. All order expressions for
+both the coupling constant renormalization and the wavefunction renormalization
+are given. From this we classify all extensions of $d=2$ gravity for which the
+coupling constant gets at most a one loop renormalization. As an application of
+the general strategy, $N=4$ theories based on $D(2,1,\a)$ and $SU(1,1|2)$, all
+$WA$ gravities and the $N=2$ $W_n$ models are treated in some detail.
+","[{""version"":""v1"",""created"":""Wed, 24 Mar 1993 11:33:29 GMT""}]","2009-10-22"
+"hep-th/9303134","Taku Uchino","Taku Uchino","Canonical Theory of 2d Gravity Coupled to Conformal Matter","14 pages, LaTex, TIT/HEP-216",,,,"hep-th",,"  A canonical quantization for two dimensional gravity models, including a
+dilaton gravity model, is performed in a way suitable for the light-cone gauge.
+We extend the theory developed by Abdalla {\it et.al.}\cite{AM} and obtain the
+correlation functions by using the screening charges of the symmetry algebra.
+It turns out that the role of the cosmological constant term in the Liouville
+theory is played by the screening charge of the symmetry algebra and the
+resulting theory looks like a chiral part of the Liouville theory or a
+non-critical open string theory. Moreover, we show that the dilaton gravity
+theory has a symmetry realized by the centrally extended Poincar\'{e} algebra
+instead of the $\slr$ Kac-Moody algebra which is a symmetry of an ordinary two
+dimensional gravity theory.
+","[{""version"":""v1"",""created"":""Wed, 24 Mar 1993 13:11:49 GMT""}]","2007-05-23"
+"hep-th/9303135","Akika","Akika Nakamichi","Wave Function of the Universe in Topological and in Einstein 2-form
+  Gravity","10pages, phyzzx, TIT/HEP214/COSMO-28",,,,"hep-th",,"  We clarify the relation between 2-form Einstein gravity and its topological
+version. The physical space of the topological version is contained in that of
+the Einstein gravity.
+  Moreover a new vector field is introduced into 2-form Einstein gravity to
+restore the large symmetry of its topological version. The wave function of the
+universe is obtained for each model. (Talk given at the Workshop on General
+Relativity and Gravitation held at Waseda University, January 18-20, 1993.)
+","[{""version"":""v1"",""created"":""Wed, 24 Mar 1993 14:03:24 GMT""}]","2007-05-23"
+"hep-th/9303136","Armen Nersessian","O. M. Khudaverdian and A. P. Nersessian","On the Geometry of the Batalin-Vilkovisky Formalism","11 pages , UGVA---DPT 1993/03--807","Mod.Phys.Lett. A8 (1993) 2377-2386","10.1142/S0217732393003676",,"hep-th",,"  An invariant definition of the operator $\Delta $ of the Batalin-Vilkovisky
+formalism is proposed. It is defined as the divergence of a Hamiltonian vector
+field with an odd Poisson bracket (antibracket). Its main properties, which
+follow from this definition, as well as an example of realization on
+K\""ahlerian supermanifolds, are considered. The geometrical meaning of the
+Batalin-Vilkovisky formalism is discussed.
+","[{""version"":""v1"",""created"":""Wed, 24 Mar 1993 11:55:45 GMT""}]","2015-06-26"
+"patt-sol/9303004","David Griffeath","Janko Gravner (Cornell University) and David Griffeath (University of
+  Wisconsin)","Threshold Growth Dynamics","35 pages. To appear in the Transactions of the American Mathematical
+  Society. arXiv admin note, 17Jun2003: original PCL file and PDF version now
+  available, see HTML page",,,,"patt-sol adap-org nlin.AO nlin.PS",,"  We study the asymptotic shape of the occupied region for monotone
+deterministic dynamics in d-dimensional Euclidean space parametrized by a
+threshold theta, and a Borel set N with positive and finite Lebesgue measure.
+If A_n denotes the occupied set of the dynamics at integer time n, then A_n+1
+is obtained by adjoining any point x for which the volume of overlap between
+x+N and A_n exceeds theta. Except in some degenerate cases, we prove that A_n
+converges to a unique limiting ""shape"" L starting from any bounded initial
+region that is suitably large. Moreover, L is computed as the polar transform
+for 1/w, where w is an explicit width function that depends on N and theta. It
+is further shown that L describes the limiting shape of wave fronts for certain
+cellular automaton growth rules related to lattice models of excitable media,
+as the threshold and range of interaction increase suitably. In the case of 2-d
+box neighborhoods, these limiting shapes are calculated and the dependence of
+their anisotropy on theta is examined. Other specific two- and three-
+dimensional examples are also discussed in some detail.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 18:41:00 GMT""}]","2008-02-03"
+"patt-sol/9303005","David Griffeath","Robert Fisch (Department of Mathematics, Colby College), Janko Gravner
+  (Department of Mathematics, Cornell University), and David Griffeath
+  (Department of Mathematics, University of Wisconsin)","Metastability in the Greenberg-Hastings Model","31 pages. To appear as a Special Invited Paper in the Annals of
+  Applied Probability. arXiv admin note, 17Jun2003: original PCL file and PDF
+  version now available, see HTML page",,,,"patt-sol adap-org nlin.AO nlin.PS",,"  The Greenberg-Hastings Model (GHM) is a family of multitype cellular automata
+that emulate excitable media, exhibiting the nucleation and spiral formation
+characteristic of such complex systems. In this paper we study the asymptotic
+frequency of nucleation in 2-d GHM dynamics as the number k of types, or
+colors, becomes large. Starting from uniform product measure over colors, and
+assuming that the excitation threshold is not too large, the box size needed
+for formation of a spiral core is shown to grow exponentially in k. By
+exploiting connections with percolation theory we find that a box of size
+exp{(.23+-.06)k} is required in the nearest neighbor, threshold 1 case. In
+contrast, GHM rules obey power law nucleation scaling when started from a
+suitable non-uniform product measure over the k colors; this effect is driven
+by critical percolation. Finally, we present some analogous results for a
+Random GHM, an interacting Markovian system closely related to the epidemic
+with regrowth of Durrett and Neuhauser.
+","[{""version"":""v1"",""created"":""Tue, 23 Mar 1993 18:42:00 GMT""}]","2009-09-25"

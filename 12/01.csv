@@ -1,0 +1,353 @@
+"astro-ph/9311076","Adrian Melott","P.M. Harrington, A.L. Melott, and S.F. Shandarin","Quantitative Analysis of Voids in Percolating Structures in
+  Two-Dimensional N-Body Simulations","5 pages of Tex plus 5 Postscript figures in compressed uuencoded tar
+  file",,,,"astro-ph",,"  We present in this paper a quantitative method for defining void size in
+large-scale structure based on percolation threshold density. Beginning with
+two-dimensional gravitational clustering simulations smoothed to the threshold
+of nonlinearity, we perform percolation analysis to determine the large scale
+structure. The resulting objective definition of voids has a natural scaling
+property, is topologically interesting, and can be applied immediately to
+redshift surveys.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 20:57:02 GMT""},{""version"":""v2"",""created"":""Wed, 1 Dec 1993 08:42:39 GMT""}]","2008-02-03"
+"astro-ph/9311077","David W. Hogg","David W. Hogg & R. D. Blandford","The Gravitational Lens System B1422$+$231: Dark Matter, Superluminal
+  Expansion and the Hubble Constant","13 page LaTeX file (one non-crucial figure available on request),
+  Caltech GRP-355",,"10.1093/mnras/268.4.889",,"astro-ph",,"  A gravitational lens model of the radio quasar B1422+231 is presented which
+can account for the image arrangement and approximately for the relative
+magnifications. The locations of the principal lensing mass and a more distant
+secondary mass concentration were predicted and subsequently luminous galaxies
+were found at these locations. This argues against the existence of substantial
+numbers of ``dark'' galaxies. The model suggests that if the compact radio
+source is intrinsically superluminal then the observed component motions may be
+as large as ~100c with image B moving in the opposite direction to images A and
+C. The prospects for a measuring the Hubble constant from a model incorporating
+lens galaxy locations, compact radio source expansion speeds and radio time
+delays, if and when these are measured, are briefly assessed.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 21:52:05 GMT""}]","2015-06-24"
+"cond-mat/9311065","Xiao-Gang Wen","D.H. Lee and X.G. Wen","Orbital spins of the collective excitations in Hall liquids","8 pages, 1 figure, Plain TeX, IBM and MIT preprint",,"10.1103/PhysRevB.49.11066",,"cond-mat",,"  We show that the Chern-Simons-Ginzburg-Landau theory of the quantum Hall
+effect needs a modification, because the order parameter in that theory carries
+an intrinsic orbital angular momentum. This quantum number contains additional
+information about the topological order of the Hall liquids. We propose to
+measure this angular momentum by circular-polarized Ramman scattering.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 16:42:45 GMT""}]","2009-10-22"
+"cond-mat/9311066","Penc","Karlo Penc and Frederic Mila","Phase diagram of the one-dimensional extended Hubbard model with
+  attractive and/or repulsive interactions at quarter filling","24 pages, RevTeX (4 postscript figures attached to the end)",,"10.1103/PhysRevB.49.9670",,"cond-mat",,"  We study the phase diagram of the one dimensional (1D) $U-V$ model at quarter
+filling in the most general case where the on-site and first-neighbour
+interactions $U$ and $V$ can be both attractive and repulsive. The results have
+been obtained using exact diagonalization of small clusters and variational
+techniques, as well as exact results in various limits. We have analyzed four
+properties of the groundstate: i)~whether it is insulating or metallic;
+\hbox{ii)~whether} it is homogenous or phase separated; iii)~whether it has a
+spin gap; iv)~whether it has dominant superconducting fluctuations. With eight
+phases, the resulting phase diagram is unexpectedly rich. The four phases not
+found in the weak coupling limit are: i) an insulating phase when $U$ and $V$
+are large enough; ii) a region of phase separation when $V$ is attractive; iii)
+another region of phase separation when $V$ is large enough and $U$ small; iv)
+a region with dominant superconducting fluctuations when $V$ is intermediate
+and $U$ small. The actual nature of this last phase, which has pairs but no
+spin gap, is not fully clear yet.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 17:25:11 GMT""}]","2009-10-22"
+"cond-mat/9312001","Kim Doochul","Jaedong Noh and Doochul Kim","Interacting Domain Walls and the Five-Vertex Model","43 pages +12 figures on request, REVTEX, SNUTP-93-66",,"10.1103/PhysRevE.49.1943",,"cond-mat",,"  We investigate the thermodynamic and critical properties of an interacting
+domain wall model which is derived from the triangular lattice
+antiferromagnetic Ising model with the anisotropic nearest and next nearest
+neighbor interactions. The model is equivalent to the general five--vertex
+model. Diagonalizing the transfer matrix exactly by the Bethe Ansatz method, we
+obtain the phase diagram displaying the commensurate and incommensurate (IC)
+phases separated by the Pokrovsky--Talapov transitions. The phase diagram
+exhibits commensurate phases where the domain wall density $q$ is locked at the
+values of $0$, $1/2$ and $1$. The IC phase is a critical state described by the
+Gaussian fixed point. The effective Gaussian coupling constant is obtained
+analytically and numerically for the IC phase using the finite size scaling
+predictions of the conformal field theory. It takes the value $1/2$ in the
+non-interacting limit and also at the boundaries of $q=0$ or $1$ phase and the
+value $2$ at the boundary of $q=1/2$ phase, while it varies smoothly throughout
+the IC region. (TO APPEAR IN PHY. REV. E)
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 01:06:26 GMT""}]","2009-10-22"
+"cond-mat/9312002","Karl Runge","K. J. Runge and G. T. Zimanyi","Exact Diag. Study of the 1D Disordered XXZ Model","23 pages, 18 PostScript figures (4 per page) avail. upon request or
+  via anonymous ftp to redhook.llnl.gov:/pub/runge REVTeX 3.0, UCD Report",,,,"cond-mat",,"  We investigate the one-dimensional quantum $XXZ$ model in the presence of
+diagonal disorder. Recently the model has been analyzed with the help of
+field-theoretical renormalization group methods, and a phase diagram has been
+predicted. We study the model with exact diagonalization techniques up to chain
+lengths of 16 sites. Using finite-size scaling methods we estimate critical
+exponents and the phase diagram and find reasonably good agreement with the
+field-theoretical results, namely, that any amount of disorder destroys the
+superfluidity for $XXZ$ anisotropy $\Delta$ between $ -1/2 $ and $1$, while the
+superfluidity persists to finite disorder strength for $ -1 < \Delta < -1/2$
+and then undergoes a Kosterlitz-Thouless type transition.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 01:44:14 GMT""}]","2007-05-23"
+"cond-mat/9312003","Fong Liu","Fong Liu and H. Metiu","Stability and Kinetics of Step Motion on Crystal Surfaces","42 pages in Tex, 10 figures (not included), NSF-ITP-93-137",,"10.1103/PhysRevE.49.2601",,"cond-mat",,"  The kinetics of monoatomic steps in diffusion-controlled crystal growth and
+evaporation processes are investigated analytically using a Green's function
+approach. Integro-differential equations of motion for the steps are derived;
+and a systematic linear stability analysis is carried out treating
+simultaneously perturbations both along and perpendicular to the steps.
+Morphological fluctuations of steadily moving steps in response to ambient
+thermodynamic noises are also studied within a general Langevin formalism.
+Finally, a phase field model is developed to investigate the time-dependent,
+collective motion of steps. An application of the model to a finite step train
+recovers a variety of kinetic behaviors such as the bunching and spreading of
+steps.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 02:19:31 GMT""}]","2009-10-22"
+"cs/9312101",,"M. Buchheit, F. M. Donini, A. Schaerf","Decidable Reasoning in Terminological Knowledge Representation Systems","See http://www.jair.org/ for any accompanying files","Journal of Artificial Intelligence Research, Vol 1, (1993),
+  109-138",,,"cs.AI",,"  Terminological knowledge representation systems (TKRSs) are tools for
+designing and using knowledge bases that make use of terminological languages
+(or concept languages). We analyze from a theoretical point of view a TKRS
+whose capabilities go beyond the ones of presently available TKRSs. The new
+features studied, often required in practical applications, can be summarized
+in three main points. First, we consider a highly expressive terminological
+language, called ALCNR, including general complements of concepts, number
+restrictions and role conjunction. Second, we allow to express inclusion
+statements between general concepts, and terminological cycles as a particular
+case. Third, we prove the decidability of a number of desirable TKRS-deduction
+services (like satisfiability, subsumption and instance checking) through a
+sound, complete and terminating calculus for reasoning in ALCNR-knowledge
+bases. Our calculus extends the general technique of constraint systems. As a
+byproduct of the proof, we get also the result that inclusion statements in
+ALCNR can be simulated by terminological cycles, if descriptive semantics is
+adopted.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 00:00:00 GMT""}]","2014-11-17"
+"gr-qc/9311037","Robert H. Gowdy","Robert H. Gowdy","Affine Projection Tensor Geometry: Decomposing the Curvature Tensor When
+  the Connection is Arbitrary and the Projection is Tilted","49 pages, RevTeX 3.0","J.Math.Phys. 35 (1994) 1274-1301","10.1063/1.530589",,"gr-qc",,"  This paper constructs the geometrically natural objects which are associated
+with any projection tensor field on a manifold with any affine connection. The
+approaches to projection tensor fields which have been used in general
+relativity and related theories assume normal projection tensors of
+co-dimension one and connections which are metric compatible and torsion-free.
+These assumptions fail for projections onto lightlike curves or surfaces and
+other situations where degenerate metrics occur as well as projections onto
+two-surfaces and projections onto spacetime in the higher dimensional manifolds
+of unified field theories. This paper removes these restrictive assumptions.
+One key idea is to define two different ''extrinsic curvature tensors'' which
+become equal for normal projections. In addition, a new family of geometrical
+tensors is introduced: the cross-projected curvature tensors. In terms of these
+objects, projection decompositions of covariant derivatives, the full Riemann
+curvature tensor and the Bianchi identities are obtained and applied to perfect
+fluids, timelike curve congruences, string congruences, and the familiar 3+1
+analysis of the spacelike initial value problem of general relativity.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 16:57:31 GMT""}]","2009-10-22"
+"hep-lat/9311065","Claudio Parrinello","Claudio Parrinello","Gluon 2- and 3-Point Correlation Functions on the Lattice","3 pages, uuencoded Latex file + espcrc2.sty file + 3 Postscript
+  figures, preprint 93/537 University of Edinburgh","Nucl.Phys.Proc.Suppl. 34 (1994) 510-512","10.1016/0920-5632(94)90432-4",,"hep-lat",,"  I present some preliminary results, obtained in collaboration with C. Bernard
+and A. Soni, for the lattice evaluation of 2- and 3-point gluon correlation
+functions in momentum space, with emphasis on the amputated 3-gluon vertex
+function. The final goal of this approach is the study of the running QCD
+coupling constant as defined from the amputated 3-gluon vertex.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 16:23:49 GMT""},{""version"":""v2"",""created"":""Wed, 1 Dec 1993 09:41:24 GMT""}]","2009-10-22"
+"hep-lat/9311066","Wolfgang Bock","Wolfgang Bock, Jan Smit and Jeroen C. Vink","Chiral gauge theories on the lattice and restoration of gauge symmetry","3 pages, 2 postscript files appended (uuencoded), contribution to
+  Lattice'93, ITFA 93-32, UCSD/PTH 93-36","Nucl.Phys.Proc.Suppl. 34 (1994) 605-607","10.1016/0920-5632(94)90459-6",,"hep-lat",,"  We investigate a proposal for the construction of models with chiral fermions
+on the lattice using staggered fermions. In this approach the gauge invariance
+is broken by the coupling of the staggered fermions to the gauge fields. We aim
+at a dynamical restoration of the gauge invariance in the full quantum model.
+If the gauge symmetry breaking (SB) is not too severe, this procedure could
+lead in the continuum limit to the desired gauge invariant chiral gauge theory.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 19:20:35 GMT""}]","2009-10-22"
+"hep-lat/9311067","Erich Focht","E. Focht","Universality of 2d Yukawa and Gross-Neveu models","3 pages compressed uuencoded PostScript, to appear in the Proceedings
+  of LATTICE '93 (Dallas), HLRZ 91/93","Nucl.Phys.Proc.Suppl. 34 (1994) 647-649","10.1016/0920-5632(94)90472-3",,"hep-lat",,"  Evidence for the same universal behavior of 2d Yukawa and Gross-Neveu models
+in a certain range of couplings, particularly for $\kappa<0$, is presented.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 21:10:34 GMT""}]","2009-10-22"
+"hep-lat/9311068","Wolfgang Bock","Wolfgang Bock, Christoph Frick, Jan Smit and Jeroen C. Vink","Non-perturbative investigation of the fermion-Higgs sector of the
+  standard model","2 pages, 2 postscript figure files appended (uuencoded), contribution
+  to the HEP'93 conference, Marseille, ITFA 93-33, UCSD/PTH 93-34",,,,"hep-lat",,"  We present results for the renormalized quartic self-coupling $\lm_R$ and the
+renormalized Yukawa coupling $y_R$ in a fermion-Higgs model with two SU(2)
+doublets, indicating that with the standard lattice regulator these couplings
+cannot become very strong.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 21:19:56 GMT""}]","2007-05-23"
+"hep-lat/9311069","Wolfgang Bock","Wolfgang Bock","Chiral gauge theories on the lattice without gauge fixing?","3 pages, 1 figure, contribution to the 2nd IMACS conference on
+  Computational Physics, UCSD/PTH 93-37","Int.J.Mod.Phys.C5:327-329,1994","10.1142/S0129183194000416",,"hep-lat",,"  We discuss two proposals for a non-perturbative formulation of chiral gauge
+theories on the lattice. In both cases gauge symmetry is broken by the
+regularization. We aim at a dynamical restoration of symmetry. If the gauge
+symmetry breaking is not too severe this procedure could lead in the continuum
+limit to the desired chiral gauge theory.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 21:45:31 GMT""}]","2011-04-20"
+"hep-lat/9311070","Maarten Golterman","C. Bernard and M. Golterman","Partially quenched QCD and staggered fermions","3 pages, contribution to Lattice'93. latex file, style file
+  espcrc2.sty needed (appended at the end)","Nucl.Phys.Proc.Suppl. 34 (1994) 331-333","10.1016/0920-5632(94)90381-6","Wash. U. HEP/93-61","hep-lat",,"  We summarize results for partially quenched chiral perturbation theory and
+indicate an application to staggered fermion QCD in which the square root of
+the determinant is taken to reduce the number of flavors from four to two.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 00:03:53 GMT""}]","2009-10-22"
+"hep-lat/9311071","Tien Kieu","T D Kieu and C J Griffin","Simulations with Complex Measures","3 pages, postcript (95K), contribution to LAT93, UM-P-93/108","Nucl.Phys.Proc.Suppl.34:762-764,1994","10.1016/0920-5632(94)90506-1",,"hep-lat",,"  Towards a solution to the sign problem in the simulations of systems having
+indefinite or complex-valued measures, we propose a new approach which yields
+statistical errors smaller than the crude Monte Carlo using absolute values of
+the original measures. The 1D complex-coupling Ising model is employed as an
+illustration.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 00:17:27 GMT""}]","2008-11-26"
+"hep-lat/9311072","Tien Kieu","T D Kieu and C J Griffin","Monte Carlo Simulations with Indefinite and Complex-Valued Measures","10 A4 pages, postscript (140K), UM-P-93-70","Phys.Rev.E49:3855-3859,1994","10.1103/PhysRevE.49.3855",,"hep-lat hep-th",,"  A method is presented to tackle the sign problem in the simulations of
+systems having indefinite or complex-valued measures. In general, this new
+approach is shown to yield statistical errors smaller than the crude Monte
+Carlo using absolute values of the original measures. Exactly solvable,
+one-dimensional Ising models with complex temperature and complex activity
+illustrate the considerable improvements and the workability of the new method
+even when the crude one fails.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 01:31:48 GMT""}]","2008-11-26"
+"hep-lat/9311073","Tien Kieu","T D Kieu and C J Griffin","Tackling the Sign Problem","3 pages, postscript (68K), contribution to IMACS93, UM-P-93/109","Int.J.Mod.Phys.C5:275-277,1994","10.1142/S0129183194000313",,"hep-lat",,"  To tackle the sign problem in the simulations of systems having indefinite or
+complex-valued measures, we propose a new approach which yields statistical
+errors smaller than the crude Monte Carlo using absolute values of the original
+measures. The 1D complex-coupling Ising model is employed as an illustration.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 00:49:06 GMT""}]","2008-11-26"
+"hep-lat/9312001","Nick Hazel","Nicholas Hazel","An Extraction of Vcb from the Semi-Leptonic B->D* Decay","UKQCD Collaboration, at LATTICE 93. 3 pages, Edinburgh Preprint
+  93/538","Nucl.Phys.Proc.Suppl.34:471-473,1994","10.1016/0920-5632(94)90420-0",,"hep-lat",,"  We present an extraction of Vcb from a lattice calculation of the B->D* decay
+matrix elements. We obtain |Vcb| \sqrt{ \frac{ \tauB }{ 1.49 ps } } = 0.037^{+3
+\ +5}_{-3 \ -5} from a single parameter fit to the new CLEO data. Email
+nmh@uk.ac.ed.ph.th
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 15:23:40 GMT""}]","2010-11-01"
+"hep-lat/9312003","Helmut Gausterer","H. Gausterer","On the Correct Convergence of Complex Langevin Simulations for
+  Polynomial Actions","8 pages, LaTeX file, preprint UNIGRAZ-UTP 29-09-93","J.Phys. A27 (1994) 1325-1330","10.1088/0305-4470/27/4/025",,"hep-lat",,"  There are problems in physics and particularly in field theory which are
+defined by complex valued weight functions $e^{-S}$ where $S$ is a polynomial
+action $S: R^n \rightarrow C $. The conditions under which a convergent complex
+Langevin calculation correctly simulates such integrals are discussed. All
+conditions on the process which are used to prove proper convergence are
+defined in the stationary limit.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 13:10:41 GMT""}]","2009-10-22"
+"hep-lat/9312004","Christian B. Lang","C. B. Lang","Computer Stochastics in Scalar Quantum Field Theory","59 pages (31 figures), LaTeX file (sorry: no PS figures, please ask
+  for a hardcopy), preprint UNIGRAZ-UTP 01-12-93",,,,"hep-lat",,"  This is a series of lectures on Monte Carlo results on the non-perturbative,
+lattice formulation approach to quantum field theory. Emphasis is put on 4D
+scalar quantum field theory. I discuss real space renormalization group, fixed
+point properties and logarithmic corrections, partition function zeroes, the
+triviality bound on the Higgs mass, finite size effects, Goldstone bosons and
+chiral perturbation theory, and the determination of scattering phase shifts
+for some scalar models.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 12:24:40 GMT""}]","2007-05-23"
+"hep-ph/9311378","Michelangelo Mangano","Michelangelo MANGANO","Recent Progress in the Theory of Heavy Flavor Production","Invited talk presented at the 9th Topical Workshop on
+  Proton-Antiproton Collider Physics, 18-22 October 1993, Tsukuba, Japan. 11
+  pages in Latex + 10 figs (full postscript version including figures available
+  for copying from 39198::DISK$ALEPH:[MLM]KEK93.PS), IFUP-TH 60/93",,,,"hep-ph",,"  We review some recent results on heavy quark production in high energy
+hadronic collisions. We will discuss in particular the status of production
+cross sections for bottom quarks and charmonium states and will present some
+studies on the production of bottom and charm jets, at the inclusive level and
+in association with electroweak gauge bosons.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 16:58:57 GMT""}]","2009-09-25"
+"hep-ph/9311379","Bill Kilgore","William B. Kilgore","Anomalous Condensates and the Equivalence Theorem","14 Pages (Plain TeX + Harvmac), 2 uuencoded PostScript figures
+  appended (figures also available by mail or fax), LBL-34900","Phys.Lett. B323 (1994) 161-168","10.1016/0370-2693(94)90285-2",,"hep-ph",,"  A recently published report has called into question the validity of the
+equivalence theorem in dynamically broken gauge theories in which the fermions
+making up the symmetry breaking condensate lie in an anomalous representation
+of the broken gauge group. Such a situation can occur if the gauge anomaly is
+cancelled by another sector of the theory. Using the example of the one family
+Standard Model without scalar Higgs structure, we analyze a low energy
+effective theory which preserves the symmetries of the fundamental theory and
+demonstrate the validity of the equivalence theorem in this class of models.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 22:49:48 GMT""}]","2009-10-22"
+"hep-ph/9312201","J. Gunion","J.F. Gunion","Detecting the $tb$ Decays of a Charged Higgs Boson at a Hadron
+  Supercollider","9 pages, requires phyzzx.tex and tables.tex, revised to improve
+  treatment of QCD corrections to H+ tb vertex, full postscript file including
+  embedded figure available via anonymous ftp at ucdhep.ucdavis.edu as
+  [anonymous.gunion]hplus.ps, preprint UCD-93-40","Phys.Lett.B322:125-130,1994","10.1016/0370-2693(94)90500-2",,"hep-ph",,"  We demonstrate that detection of a charged Higgs boson decaying via $\hpm\rta
+t b$ will be possible at the LHC in $gg\rta \hm t \anti b+\hp b\anti t$ events,
+provided the $\hp\rta t\anti b$ coupling is substantial, $\mt\gsim 110\gev$,
+and reasonably efficient and pure $b$-tagging can be performed.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 06:42:00 GMT""},{""version"":""v2"",""created"":""Thu, 2 Dec 1993 09:23:00 GMT""}]","2011-08-11"
+"hep-ph/9312202","Michael Bilenky","M. Bilenky, J.-L. Kneur, F.M. Renard and D. Schildknecht","The Potential of a New Linear Collider for the Measurement of the
+  Trilinear Couplings among the Electroweak Vector Bosons","13 pages (LaTeX) + 5 figures (.ps files are available upon request)","Nucl.Phys.B419:240-253,1994","10.1016/0550-3213(94)90041-8","BI-TP 93/47, PM 93/14","hep-ph",,"  We study the accuracy to be obtained in measuring trilinear $Z^0W^+W^-$ and
+$\gamma W^+W^-$ couplings in the reaction $e^+e^- \to W^+W^-$ at ""New Linear
+Collider"" energies of $500GeV$ to $1000GeV$. We derive simple scaling laws for
+the sensitivity in the measurement of these couplings. For most couplings the
+sensitivity increases as $\sqrt{L\cdot s}$, where $L$ denotes the integrated
+luminosity and $\sqrt s$ denotes the $e^+e^-$ center-of-mass energy. Detailed
+investigations based on various fits confirm these scaling laws and show that
+an accuracy of the order of the standard radiative corrections can be reached
+at the NLC for the design values of the luminosity.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 09:39:50 GMT""}]","2011-07-19"
+"hep-ph/9312203",,"V\'eronique Bernard, Ulf-G. Mei{\ss}ner and A.A. Osipov","The Momentum--Space Bosonization of the Nambu--Jona-Lasinio Model with
+  Vector and Axial-Vector Mesons","11pp, TeX, CRN 93-57","Phys.Lett. B324 (1994) 201-208","10.1016/0370-2693(94)90408-1",,"hep-ph nucl-th",,"  The momentum-space bosonization method is extended to the case of a
+Nambu--Jona-Lasinio type model with vector and axial-vector mesons. The method
+presented gives the possibility of deriving any meson vertex function to all
+orders in momenta and to the leading order in $1/N_c$. Two-point functions,
+which describe one-particle transitions to the hadronic vacuum, and meson
+self-energies are considered. We find new relations which generalize the
+well-known KSFR relation and both the first and the second Weinberg sum rules.
+These result from a consistent treatment of higher order terms in the momentum
+expansion.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 11:07:35 GMT""}]","2016-08-16"
+"hep-ph/9312204",,"T. Altherr and P. Salati","The Electric Charge of Neutrinos and Plasmon Decay","19pp, 4 figures (available upon request), CERN-TH-7076/93","Nucl.Phys. B421 (1994) 662-682","10.1016/0550-3213(94)90521-5",,"hep-ph astro-ph",,"  By using both thermal field theory and a somewhat more intuitive method, we
+define the electric charge as well as the charge radius of neutrinos
+propagating inside a plasma. We show that electron neutrinos acquire a charge
+radius of order $\sim 6.5 \times 10^{-16}$ cm, regardless of the properties of
+the medium. Then, we compute the rate of plasmon decay which such an electric
+charge or a charge radius implies. Taking into account the relativistic effects
+of the degenerate electron gas, we compare our results to various
+approximations as well as to recent calculations and determine the regimes
+where the electric charge or the charge radius does mediate the decay of
+plasmons. Finally, we discuss the stellar limits on any anomalous charge radius
+of neutrinos.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 11:44:57 GMT""}]","2009-10-22"
+"hep-ph/9312205","James M. Johnson","Suraj N. Gupta, James M. Johnson, Wayne W. Repko and Casimir J.
+  Suchyta III","Heavy Quarkonium Potential Model and the ${}^1P_1$ State of Charmonium","15 page REVTEX document","Phys.Rev. D49 (1994) 1551-1555","10.1103/PhysRevD.49.1551",,"hep-ph",,"  A theoretical explanation of the observed splittings among the P~states of
+charmonium is given with the use of a nonsingular potential model for heavy
+quarkonia. We also show that the recently observed mass difference between the
+center of gravity of the ${}^3P_J$ states and the ${}^1P_1$ state of $c\bar{c}$
+does not provide a direct test of the color hyperfine interaction in heavy
+quarkonia. Our theoretical value for the mass of the ${}^1P_1$ state is in
+agreement with the experimental result, and its E1 transition width is
+341.8~keV. The mass of the $\eta_c'$ state is predicted to be 3622.3~MeV.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 15:42:07 GMT""}]","2009-10-22"
+"hep-th/9311183",,"D. Fioravanti, G. Pradisi and A. Sagnotti","Sewing Constraints and Non-Orientable Open Strings","phyzzx, 11 pages and 4 figures, ROM2F-93/33","Phys.Lett.B321:349-354,1994","10.1016/0370-2693(94)90255-0",,"hep-th",,"  We extend to non-orientable surfaces previous work on sewing constraints in
+Conformal Field Theory. A new constraint, related to the real projective plane,
+is described and is used to illustrate the correspondence with a previous
+construction of open-string spectra.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 16:43:48 GMT""}]","2010-11-01"
+"hep-th/9311184","Shahn Majid","Shahn Majid","Cross Product Quantisation, Nonabelian Cohomology And Twisting Of Hopf
+  Algebras","26 pages",,,"DAMTP/93-63","hep-th math.QA",,"  This is an introduction to work on the generalisation to quantum groups of
+Mackey's approach to quantisation on homogeneous spaces. We recall the
+bicrossproduct models of the author, which generalise the quantum double. We
+describe the general extension theory of Hopf algebras and the nonAbelian
+cohomology spaces $\CH^2(H,A)$ which classify them. They form a new kind of
+topological quantum number in physics which is visible only in the quantum
+world. These same cross product quantisations can also be viewed as trivial
+quantum principal bundles in quantum group gauge theory. We also relate this
+nonAbelian cohomology $\CH^2(H,\C )$ to Drinfeld's theory of twisting.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 17:04:46 GMT""}]","2008-02-03"
+"hep-th/9311185","Elias Kiritsis","C. Bachas and E. Kiritsis","Exact String Theory Instantons by Dimensional Reduction","LateX, 15pp., CERN-TH.7100/93, CPTh-A276.11.93 (Minor Errors
+  Corrected)","Phys.Lett.B325:103-114,1994","10.1016/0370-2693(94)90078-7",,"hep-th",,"  We identify exact gauge-instanton-like solutions to (super)-string theory
+using the method of dimensional reduction. We find in particular the Polyakov
+instanton of 3d QED, and a class of generalized Yang-Mills merons. We discuss
+their marginal deformations, and show that for the $3d$ instanton they
+correspond to a dissociation of vector- and axial-magnetic charges.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 18:40:44 GMT""},{""version"":""v2"",""created"":""Sat, 4 Dec 1993 16:22:39 GMT""}]","2011-07-19"
+"hep-th/9311186","Brian Greene","P.S.Aspinwall, B.R.Greene, D.R.Morrison","Spacetime Topology Change: The Physics of Calabi-Yau Moduli Space","21 pages with 5 figures, harvmac and epsf. Talk delivered by Greene
+  at STRINGS'93 Conference, Berkeley (reference added)","Strings '93 (M. B. Halpern, G. Rivlis, and A. Sevrin, eds.), World
+  Scientific, Singapore, 1995, pp. 241-262",,"IASSNS-HEP-93/81","hep-th alg-geom math.AG",,"  We review recent work which has significantly sharpened our geometric
+understanding and interpretation of the moduli space of certain $N$=2
+superconformal field theories. This has resolved some important issues in
+mirror symmetry and has also established that string theory admits physically
+smooth processes which can result in a change in topology of the spatial
+universe.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 19:03:52 GMT""},{""version"":""v2"",""created"":""Fri, 10 Dec 1993 18:38:31 GMT""},{""version"":""v3"",""created"":""Tue, 14 Dec 1993 19:09:01 GMT""}]","2008-02-03"
+"hep-th/9311188","Ninoslav Bralic","N. Bralic","A Generalized ``Surfaceless'' Stokes' Theorem","8 pages, plain TeX",,,,"hep-th alg-geom gr-qc math.AG",,"  We derive a generalized Stokes' theorem, valid in any dimension and for
+arbitrary loops, even if self intersecting or knotted. The generalized theorem
+does not involve an auxiliary surface, but inherits a higher rank gauge
+symmetry from the invariance under deformations of the surface used in the
+conventional formulation.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 00:38:00 GMT""}]","2008-02-03"
+"hep-th/9311189","Sergei Lukyanov","Sergei Lukyanov","Correlators of the Jost functions in the Sine-Gordon model","pp.12","Phys.Lett. B325 (1994) 409-417","10.1016/0370-2693(94)90033-7",,"hep-th",,"  In this paper the quantum direct scattering problem is solved for the
+Sine-Gordon model. Correlators of the Jost functions are derived by the angular
+quantization method.
+","[{""version"":""v1"",""created"":""Tue, 30 Nov 1993 23:01:18 GMT""}]","2009-10-22"
+"hep-th/9312001","Satoshi Iso","Hiroo Azuma and Satoshi Iso","Explicit Relation of Quantum Hall Effect and Calogero-Sutherland Model","10 pages","Phys.Lett. B331 (1994) 107-113","10.1016/0370-2693(94)90949-0","UT-660","hep-th cond-mat",,"  Explicit relation between Laughlin state of the quantum Hall effect and
+one-dimensional(1D) model with long-ranged interaction ($1/r^2$) is discussed.
+By rewriting lowest Landau level wave functions in terms of 1D representation,
+Laughlin state can be written as a deformation of the ground state of
+Calogero-Sutherland model. Corresponding to Laughlin state on different
+geometries, different types of 1D $1/r^2$ interaction models are derived.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 08:05:40 GMT""}]","2009-10-22"
+"hep-th/9312002",,"Jan Ambjorn and Kazuo Ghoroku","2D Quantum Gravity Coupled to Renormalizable Matter Fields","23 pages, Latex, NBI-HE-93-63","Int.J.Mod.Phys. A9 (1994) 5689-5710","10.1142/S0217751X94002338",,"hep-th",,"  We consider two-dimensional quantum gravity coupled to matter fields which
+are renormalizable, but not conformal invariant. Questions concerning the $\b$
+function and the effective action are addressed, and the effective action and
+the dressed renormalization group equations are determined for various matter
+potentials.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 09:52:10 GMT""},{""version"":""v2"",""created"":""Thu, 16 Dec 1993 10:13:36 GMT""}]","2009-10-22"
+"hep-th/9312003",,"D.Amati S.Elitzur and E.Rabinovici","On Induced Gravity in 2-d Topological Theories","38, tex, 160/93/ep","Nucl.Phys. B418 (1994) 45-80","10.1016/0550-3213(94)90238-0",,"hep-th",,"  We study 2-d $\phi F$ gauge theories with the objective to understand, also
+at the quantum level, the emergence of induced gravity. The wave functionals -
+representing the eigenstates of a vanishing flat potential - are obtained in
+the $\phi$ representation. The composition of the space they describe is then
+analyzed: the state corresponding to the singlet representation of the gauge
+group describes a topological universe. For other representations a metric
+which is invariant under the residual gauge group is induced, apart from
+possible topological obstructions. Being inherited from the group metric it is
+rather rigid.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 10:50:51 GMT""}]","2009-10-22"
+"math/9312213","Peter W. Michor","Dmitri V. Alekseevsky, Janusz Grabowski, Giuseppe Marmo, Peter W.
+  Michor","Poisson structures on the cotangent bundle of a Lie group or a principal
+  bundle and their reductions",,"J. Math. Phys. 35 (1994), 4909-4928","10.1063/1.530822","ESI Preprint 72; Michor 99-08","math.SG math.DG",,"  On a cotangent bundle $T\sp*G$ of a Lie group $G$ one can describe the
+standard Liouville form $\theta$ and the symplectic form $d \theta$ in terms of
+the right Maurer Cartan form and the left moment mapping (of the right action
+of $G$ on itself), and also in terms of the left Maurer-Cartan form and the
+right moment mapping, and also the Poisson structure can be written in related
+quantities. This leads to a wide class of exact symplectic stuctures on
+$T\sp*G$ and to Poisson structures by replacing the canonical momenta of the
+right or left actions of $G$ on itself by arbitrary ones, followed by reduction
+(to $G$ cross a Weyl-chamber, e.g.). This method also works on principal
+bundles.
+","[{""version"":""v1"",""created"":""Wed, 1 Dec 1993 00:00:00 GMT""}]","2016-09-06"

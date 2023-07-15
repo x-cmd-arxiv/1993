@@ -1,0 +1,217 @@
+"adap-org/9306003","Jim Crutchfield","M. Mitchell (SFI), J. P. Crutchfield (UC Berkeley), P. T. Hraber (SFI)","Dynamics, Computation, and the ""Edge of Chaos"": A Re-Examination","15 pages, 1 Figure, uuencoded compressed PostScript (PS = 192K;
+  compressed PS = 82K; uuencoded cPS = 113K). This is simply a shortened -- and
+  hopefully more accessible -- version of ""Revisiting the Edge of Chaos:
+  Evolving Cellular Automata to Perform Computational Tasks"" by the authors",,,,"adap-org nlin.AO",,"  In this paper we review previous work and present new work concerning the
+relationship between dynamical systems theory and computation. In particular,
+we review work by Langton \cite{Langton90} and Packard \cite{Packard88} on the
+relationship between dynamical behavior and computational capability in
+cellular automata (CA). We present results from an experiment similar to the
+one described in \cite{Packard88}, that was cited there as evidence for the
+hypothesis that rules capable of performing complex computations are most
+likely to be found at a phase transition between ordered and chaotic behavioral
+regimes for CA (the ``edge of chaos''). Our experiment produced very different
+results from the original experiment, and we suggest that the interpretation of
+the original results is not correct. We conclude by discussing general issues
+related to dynamics, computation, and the ``edge of chaos'' in cellular
+automata.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 17:00:32 GMT""}]","2008-02-03"
+"astro-ph/9306006","David Weinberg","Blane Little, David H. Weinberg","Cosmic Voids and Biased Galaxy Formation","TeX + epsf, 36 pages incl. 11 eps figures, subm. to MNRAS","Mon.Not.Roy.Astron.Soc. 267 (1994) 605","10.1093/mnras/267.3.605","IAS preprint #93-29","astro-ph",,"  Using cosmological $N$-body simulations and the void probability function
+(VPF), we investigate the statistical properties of voids within a wide range
+of initially Gaussian models for the origin of large-scale structure. We pay
+particular attention to the ability of the VPF to diagnose `biased galaxy
+formation': the preferential formation of galaxies in regions of high
+background density and corresponding suppression of galaxy formation in regions
+of low background density. Biased models have systematically higher VPFs than
+unbiased models, but for a given biasing scheme the VPF is relatively
+insensitive to the value of the bias factor $b$. Thus, while the VPF can
+distinguish unbiased models from some biased models, it is probably not a
+useful way to constrain the bias factor; uncertainties in the appropriate
+choice of biasing prescription overwhelm the mild dependence on $b$. We compare
+the predictions of our models to the most extensive VPF observations published
+to date. These data do {\it not} require strong biasing; Gaussian models in
+which galaxies trace mass can reproduce the VPF data to within the errors
+expected from the current finite volume fluctuations. Models with the moderate
+biasing predicted by cosmological simulations with gas dynamics yield a
+slightly better match to the data. Models in which galaxy formation is strongly
+suppressed in low density regions produce an excess of large, empty voids.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 19:34:58 GMT""}]","2015-06-24"
+"astro-ph/9306007","Brian Murphy","B.W. Murphy and D.F. Chernoff","Polarized Scattering in the Vicinty of Galaxies","29 pages of TEX, 14 figs, CRSR-1046, in ApJ Nov 20, 1993",,"10.1086/173371",,"astro-ph",,"  Some bright cD galaxies in cluster cooling flows have Thomson optical depths
+exceeding 0.01. A few percent of their luminosity is scattered and appears as
+diffuse polarized emission. We calculate the scattering process for different
+geometric combinations of luminosity sources and scattering media. We apply our
+results to galaxies, with and without active nuclei, immersed in cooling flows.
+We model observations of NGC 1275 and M87 (without active nuclei) in the
+presence of sky and galactic background fluxes which hinder the measurement of
+the scattered light at optical wavelengths. Current instruments are unable to
+detect the scattered light from such objects. However, when a galaxy has an
+active nucleus of roughly the same luminosity as the remainder of the galaxy in
+V, both the total and polarized scattered intensity should observable on large
+scales (5--30kpc), meaning intensity levels greater than 1% of the background
+level. For typical AGN and galaxy spectral distributions, the scattering is
+most easily detected at short (U) wavelengths. We point out that a number of
+such cases will occur. We show that the radiation pattern from the central
+nuclear region can be mapped using the scattering. We also show that the
+scattered light can be used to measure inhomogeneities in the cooling flow.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 19:57:24 GMT""}]","2009-10-22"
+"hep-lat/9306009","James Labrenz","Claude Bernard, James Labrenz and Amarjit Soni","A Lattice Computation of the Decay Constants of $B$ and $D$ Mesons","72 pages (tex file, mtexsis macros and 19 postscript figures bundled
+  by ""uufiles""), UW/PT-93-06","Phys.Rev. D49 (1994) 2536-2566","10.1103/PhysRevD.49.2536",,"hep-lat hep-ph",,"  A lattice calculation of the pseudoscalar decay constant of heavy-light
+mesons is reported. Results are obtained (in the quenched approximation) from
+lattices at $\beta=6.3$ through a procedure that interpolates between the
+static approximation of Eichten and the conventional (""heavy"" Wilson fermion)
+method. The previously observed discrepancy between these two approaches has
+been resolved: we find the scaling quantity $f\sqrt{M}$ to be significantly
+smaller than previous calculations had indicated ({\it e.g.} at $\beta=6.0$);
+in addition, we discuss a modification which is required in normalizing the
+conventional amplitude to correct for large-$am$ lattice errors. This change
+guarantees that $f\sqrt{M}$ will smoothly approach its value in the static
+limit. From the numerical interpolation of the static and intermediate-mass
+results, we find, in units of MeV, $f_B=187(10)\pm34\pm15$,
+$f_{B_s}=207(9)\pm34\pm22$, $f_D=208(9)\pm35\pm12$ and
+$f_{D_s}=230(7)\pm30\pm18$, where the first error is statistical and the second
+two are estimates of systematics due to 1) fitting and large-$am$ effects and
+2) scaling. In addition, using lattices at $\beta=6.3$, $\beta=6.0$ and
+$\beta=5.7$ and extrapolating to the limit of zero lattice spacing, we have
+computed $f_K/f_\pi = 1.08\pm.03\pm.08$ in the quenched approximation.
+","[{""version"":""v1"",""created"":""Sat, 12 Jun 1993 01:15:30 GMT""}]","2009-10-22"
+"hep-ph/9306258",,"Tadashi Kon","SUSY at High Energy $e\gamma$ and $\gamma\gamma$ Colliders","PAGES; 10 pages (LaTeX), 9 figures not included (available on
+  request) REPORT #; ITP-SU-93/02",,,,"hep-ph",,"  We investigate the sparticle production processes $e\gamma\goto \sele\sz1$
+and $\gamma\gamma\goto \sfermion\overline{\sfermion}$ at high energy $e\gamma$
+and $\gamma\gamma$ colliders in the framework of the minimal supersymmetric
+standard model (MSSM). It will be shown that the $e\gamma$ colliders would be
+more suitable in searching for the heavy selectrons than $ee$ colliders because
+of the low mass threshold of the process $e\gamma\goto \sele\sz1$. We show that
+the standard background processes $e\gamma\goto \nu W$ and $eZ$ can be
+suppressed in terms of initial beam polarization as well as the kinematical
+cuts on the energy and angle of the final electron. Moreover, it will be argued
+that the experimental measurements of the cross sections for the processes
+$e\gamma\goto \sele\sz1$ and $\gamma\gamma\goto \sfb\sf$ could enable us to
+constrain the basic parameters in the MSSM. This is originated from the
+simplicity of SUSY parameter dependence of these processes. We also give
+comments on the stop production at $e^{+}e^{-}$ colliders with the
+longitudinally polarized electron beams.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 16:06:03 GMT""}]","2007-05-23"
+"hep-ph/9306262",,"R. Casalbuoni, S. De Curtis, D. Dominici, P. Chiappetta, A. Deandrea
+  and R. Gatto","Limits on the Bess Model at NLC","8 pages + 4 figures (included at the end of the TeX file), plain TeX
+  (uses epef.tex for figures)",,,,"hep-ph",,"  Invited talk at the ``Workshop on Physics and Experiments at Linear e+e-
+Colliders'', Waikoloa, Hawaii, April 26-30, 1993 (presented by D. Dominici)
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 16:55:00 GMT""}]","2007-05-23"
+"hep-ph/9306263",,"G.E. Forden, DZERO Collaboration","The Search for Large Rapidity Gaps Between Jets by DZERO","3 pages, AZPH-EXP/93-01",,,,"hep-ph",,"  We have searched for high Pt (>40 GeV/c) jet events in ppbar collisions at
+the Fermilab TEVATRON (S**1/2 = 1800 GeV/c2) which have large pseudo-rapidity
+differences between the jets and are consistent with zero particle production
+from the underlying event. Preliminary analysis indicates that a significant
+fraction of these events with ""voids"" are present. (3 pages of plain text, 7
+Figures available on request from the author)
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 16:00:00 GMT""}]","2007-05-23"
+"hep-ph/9306264","Ernest Ma","T. V. Duong and Ernest Ma","Supersymmetric SU(3) X U(1) Gauge Model: Higgs Structure at the
+  Electroweak Scale","9 pages, Univ. of California, Riverside Report No. UCRHEP-T111, June
+  1993","Phys.Lett. B316 (1993) 307-311","10.1016/0370-2693(93)90329-G",,"hep-ph",,"  We consider a supersymmetric version of the recently proposed SU(3) X U(1)
+extended gauge model. We show that it is possible to have only two Higgs
+doublets at the SU(2) X U(1) energy scale but they are not those of the minimal
+supersymmetric standard model. In particular, the upper bound on the lightest
+scalar boson of this model is $4 M_Z \sin \theta_W$ at tree level and goes up
+to 189 GeV after radiative corrections.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 18:26:09 GMT""}]","2009-10-22"
+"hep-ph/9306265",,"Michael J. Dugan and Mitchell Golden","The Implications of Naturalness in Effective Field Theory on the Masses
+  of Resonances","25 pages including figures in pictex. text uses harvmac. BUHEP-93-14,
+  HUTP-93/A016","Phys. Rev. D 48, 4375 (1993)","10.1103/PhysRevD.48.4375",,"hep-ph",,"  Many years ago Weinberg formulated a definition of ``naturalness'' for
+effective theories: if an effective theory is to make sense, coefficients must
+not change too much when the cutoff scale is changed by a factor of order 1. As
+an example, we consider simple field theories in which an $O(N)$ symmetry
+spontaneously breaks to $O(N-1)$. We show that in these theories Weinberg's
+criterion for a natural effective theory may be applied directly to the
+$S$-matrix; it implies that the scale of new physics, beyond the Goldstone
+bosons, may not be too large: there is always a particle or a cut of mass below
+or about $4 \pi f / \sqrt{N}$. We discuss the range of convergence of the
+expansion of the chiral Lagrangian. It appears to be impossible to construct an
+underlying theory of the type considered here that fails to satisfy Weinberg's
+criterion.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 18:57:11 GMT""}]","2013-11-13"
+"hep-ph/9306266","Misha Eides","Michael I. Eides, Savely G. Karshenboim and Valery A. Shelyuto","First Corrections to Hyperfine Splitting and Lamb Shift Induced by
+  Diagrams with Two External Photons and Second Order Radiative Insertions in
+  the Electron Line","34 pages, Penn State Preprint PSU/TH/129, June 10, 1993","Phys.Atom.Nucl.57:1240-1256,1994; Yad.Fiz.57N6:1309-1325,1994",,,"hep-ph",,"  Contributions to HFS and to the Lamb shift intervals of order
+$\alpha^2(Z\alpha)^5$ induced by graphs with two radiative photons inserted in
+the electron line are considered. It is demonstrated that this last gauge
+invariant set of diagrams which are capable of producing corrections of
+considered order consists of nineteen topologically different diagrams.
+Contributions both to HFS and Lamb shift induced by graphs containing one-loop
+electron self-energy as a subgraph and also by the graph containing two
+one-loop vertices are obtained.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 20:38:40 GMT""}]","2014-11-17"
+"hep-ph/9306267","Cliff Burgess","Ivan Maksymyk, C.P. Burgess and David London","Beyond S, T and U","First repost: We have corrected typos, added a reference, and
+  included a figure missing in the original version. All figures are now
+  included as uuencoded tar files. Second repost: we replaced the abstract on
+  the arXiv, which got mistakenly removed during the first repost","Phys.Rev. D50 (1994) 529-535","10.1103/PhysRevD.50.529",,"hep-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  The contribution to precision electroweak measurements due to TeV physics
+which couples primarily to the $W^\pm$ and $Z$ bosons may be parameterized in
+terms of the three `oblique correction' parameters, S, T and U. We extend this
+parameterization to physics at much lower energies, $\ge 100$ GeV, and show
+that in this more general case three more parameters are required (which we
+call V, W and X). Only two of these appear in neutral-current experiments,
+while the third new parameter enters into the $W^\pm$ width.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 22:17:15 GMT""},{""version"":""v2"",""created"":""Wed, 14 Jul 1993 16:42:45 GMT""},{""version"":""v3"",""created"":""Thu, 15 May 2014 19:38:50 GMT""}]","2014-05-16"
+"hep-ph/9306268","Hitoshi Murayama","T. Moroi, Hitoshi Murayama and T. Yanagida","The Weinberg Angle Without Grand Unification","8 pages, TU-438","Phys.Rev.D48:2995-2997,1993","10.1103/PhysRevD.48.R2995",,"hep-ph",,"  We assume that strong and electroweak interactions become strong at very high
+energies. With this assumption, we compute the low-energy gauge coupling
+constants $\alpha_i (m_Z)$ as a function of the cutoff scale, taking the
+supersymmetric standard model with $3+2n$ families of quark and lepton
+multiplets. We find that only the five family case $(n=1)$ is consistent with
+the experimental values of the gauge coupling constants. This suggests the
+presence of a pair of families at $\sim 1$~TeV.
+","[{""version"":""v1"",""created"":""Sat, 12 Jun 1993 00:48:42 GMT""}]","2009-09-29"
+"hep-ph/9406284","Mannel Thomas","Boris Blok and Thomas Mannel","On the Determination of $|V_{ub}|$ from Inclusive Semileptonic Decay
+  Spectra","LaTeX, 19 pages, 8 figures appended after \end{document} as
+  uu-encoded and compressed .eps files, uses epsf, Technion-PH-94/9,
+  CERN-TH.7308/94","Phys.Rev.D51:2208-2216,1995","10.1103/PhysRevD.51.2208",,"hep-ph",,"  We propose a model independent method to determine $|V_{ub}|$ from the energy
+spectrum of the charged lepton in inclusive semileptonic $B$ decays. The method
+includes perturbative QCD corrections as well as nonperturbative ones.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 17:10:01 GMT""}]","2008-11-26"
+"hep-th/9306055","Luigi Martina","L. Martina(1), O. K. Pashaev(2) and G. Soliani(1) ((1)Dipartimento di
+  Fisica dell'Universita' and (2)Sezione INFN, Lecce, Italy Joint Institute for
+  Nuclear Research)","Chern - Simons Gauge Field Theory of Two - Dimensional Ferromagnets","15 pages, Plain TeX, Lecce, June 1993",,"10.1103/PhysRevB.48.15787",,"hep-th",,"  A Chern-Simons gauged Nonlinear Schr\""odinger Equation is derived from the
+continuous Heisenberg model in 2+1 dimensions. The corresponding planar magnets
+can be analyzed whithin the anyon theory. Thus, we show that static magnetic
+vortices correspond to the self-dual Chern - Simons solitons and are described
+by the Liouville equation. The related magnetic topological charge is
+associated with the electric charge of anyons. Furthermore, vortex - antivortex
+configurations are described by the sinh-Gordon equation and its conformally
+invariant extension. Physical consequences of these results are discussed.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 16:23:24 GMT""}]","2009-10-22"
+"hep-th/9306056","Eduardo Marino","E.C.Marino and R.O.Ramos","Mass Spectrum and Correlation Functions of Nonabelian Quantum Magnetic
+  Monopoles","30 pages, PUPT-1403, DART-HEP-93/04, 3 Figures (Feynman macros
+  required)","Phys.Rev. D49 (1994) 1093-1104","10.1103/PhysRevD.49.1093",,"hep-th",,"  The method of quantization of magnetic monopoles based on the order-disorder
+duality existing between the monopole operator and the lagrangian fields is
+applied to the description of the quantum magnetic monopoles of `t Hooft and
+Polyakov in the SO(3) Georgi-Glashow model.
+  The commutator of the monopole operator with the magnetic charge is computed
+explicitly, indicating that indeed the quantum monopole carries $4\pi/g$ units
+of magnetic charge. An explicit expression for the asymptotic behavior of the
+monopole correlation function is derived. From this, the mass of the quantum
+monopole is obtained. The tree-level result for the quantum monopole mass is
+shown to satisfy the Bogomolnyi bound ($M_{\rm mon} \geq 4 \pi \frac{M}{g^2}$)
+and to be within the range of values found for the energy of the classical
+monopole solution.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 20:14:23 GMT""}]","2009-10-22"
+"hep-th/9306057","Tristan Hubsch","Paul S. Green and Tristan Hubsch","Spacetime Variable Superstring Vacua","24 pages, harvmac, HUPAPP-93/1","Int. J. Mod. Phys. A9 (1994) 3203-3228","10.1142/S0217751X94001266",,"hep-th",,"  In a general superstring vacuum configuration, the `internal' space (sector)
+varies in spacetime. When this variation is non-trivial only in two space-like
+dimensions, the vacuum contains static cosmic strings with finite energy per
+unit length and which is, up to interactions with matter, an easily computed
+topological invariant. The total spacetime is smooth although the `internal'
+space is singular at the center of each cosmic string. In a similar analysis of
+the Wick-rotated Euclidean model, these cosmic strings acquire expected
+self-interactions. Also, a possibility emerges to define a global time in order
+to rotate back to the Lorentzian case.
+","[{""version"":""v1"",""created"":""Fri, 11 Jun 1993 22:41:08 GMT""}]","2015-06-26"
+"math/9306216","Dusa McDuff","Fran\c{c}ois Lalonde, Dusa McDuff","The geometry of symplectic energy","Abstract shortened in migration.",,,"Stony Brook IMS 1993/6","math.DG math.SG",,"  In this paper we consider a geometric variant of Hofer's symplectic energy,
+which was first considered by Eliashberg and Hofer in connection with their
+study of the extent to which the interior of a region in a symplectic manifold
+determines its boundary. We prove, by a simple geometric argument, that both
+versions of energy give rise to genuine norms on all symplectic manifolds.
+Roughly speaking, we show that if there were a symplectomorphism of $M$ which
+had ""too little"" energy, one could embed a large ball into a thin cylinder $M
+\times B^2$. Thus there is a direct geometric relation between symplectic
+rigidity and energy.
+  The second half of the paper is devoted to a proof of the Non-Squeezing
+theorem for an arbitrary manifold $M$. We do not need to restrict to manifolds
+in which the theory of pseudo-holomorphic curves behaves well. This is of
+interest since most other deep results in symplectic topology are generalised
+from Euclidean space to other manifolds by using this theory, and hence are
+still not known to be valid for arbitrary symplectic manifolds.
+","[{""version"":""v1"",""created"":""Sat, 12 Jun 1993 00:00:00 GMT""}]","2008-02-03"

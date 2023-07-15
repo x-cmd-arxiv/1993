@@ -1,0 +1,255 @@
+"astro-ph/9306002",,"Kevin Krisciunas (Joint Astronomy Centre, Hilo, Hawaii, USA)","Look Back Time, the Age of the Universe, and the Case for a Positive
+  Cosmological Constant","15 pages, Latex (plus 1 table and 5 graphs obtainable from the
+  author)","J.Roy.Astron.Soc.Canada 87 (1993) 223",,,"astro-ph",,"  We present explicit expressions for the calculation of cosmological look back
+time, for zero cosmological constant and arbitrary density parameter $\Omega$,
+which, in the limit as redshift becomes infinite, give the age of the universe.
+The case for non-zero cosmological constant is most easily solved via numerical
+integration. The most distant objects presently known (approaching redshift z =
+5) have implied ages of $\approx$ 1-2 Gyr after the the Big Bang. The range of
+such age is narrow, in spite of a variety of cosmological models one might
+choose. We give a graphical representation of a variety of cosmological models
+and show that a wide range of Hubble constants and values of the age and
+density of the universe compatible with modern studies are consistent with
+adoption of a positive cosmological constant.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 20:19:39 GMT""}]","2007-05-23"
+"astro-ph/9306003","Maggie Best","R. Juszkiewicz, F. R. Bouchet and S. Colombi","Skewness Induced by Gravity","10 pages, for hardcopy with figure contact BEST@SNS.IAS.BITNET,
+  Institute for Advanced Study number AST 92/28","Astrophys.J. 412 (1993) L9","10.1086/186927",,"astro-ph",,"  Large-scale structures, observed today, are generally believed to have grown
+from random, small-amplitude inhomogeneities, present in the early Universe. We
+investigate how gravitational instability drives the distribution of these
+fluctuations away from the initial state, assumed to be Gaussian. Using second
+order perturbation theory, we calculate the skewness factor, $S_3 \equiv
+\langle \delta^3 \rangle \, /\, \langle \delta^2 \rangle^2$. Here the brackets,
+$\langle \ldots \rangle$, denote an ensemble average, and $\delta$ is the
+density contrast field, smoothed with a low pass spatial filter. We show that
+$S_3$ decreases with the slope of the fluctuation power spectrum; it depends
+only weakly on $\Omega$, the cosmological density parameter. We compare
+perturbative calculations with N-body experiments and find excellent agreement
+over a wide dynamic range. If galaxies trace the mass, measurements of $S_3$
+can be used to distinguish models with Gaussian initial conditions from their
+non-Gaussian alternatives.
+","[{""version"":""v1"",""created"":""Tue, 8 Jun 1993 13:30:33 GMT""}]","2009-10-22"
+"cond-mat/9306014","Ben Hu","Ben Yu-Kuang Hu and S. Das Sarma","Self-consistent calculation of ionized impurity scattering in
+  semiconductor quantum wires","11 pages, 4 Postscript files (appended), Revtex Version 3.0,
+  UMCP-CMT-Hu-9301",,,,"cond-mat",,"  We calculate the electron elastic mean free path due to ionized impurity
+scattering in semiconductor quantum wires, using a scheme in which the screened
+ionized impurity potential and the electron screening self-consistently
+determine each other. By using a short-range scattering potential model, we
+obtain an {\sl exact} solution of the self-energy within the self-consistent
+Born and ``noncrossing"" approximations. We find that, compared to the mean free
+path for the bare unscreened potential $\ell_{\rm bare}$, the calculated mean
+free path including self-consistent screening $\ell_{\rm sc}$ is {\sl
+substantially larger}, going as $\ell_{\rm sc} \sim \ell_{\rm
+bare}[\ln(\ell_{\rm bare})]^2$ for large $\ell_{\rm bare}$.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 21:40:43 GMT""}]","2007-05-23"
+"cond-mat/9306015","Michael E. Flatte","M.E. Flatte'","Kohn Anomalies in Superconductors","18 pages (revtex) + 11 figures (upon request), NSF-ITP-93-76",,"10.1103/PhysRevB.50.1190",,"cond-mat",,"  I present the detailed behavior of phonon dispersion curves near momenta
+which span the electronic Fermi sea in a superconductor. I demonstrate that an
+anomaly, similar to the metallic Kohn anomaly, exists in a superconductor's
+dispersion curves when the frequency of the phonon spanning the Fermi sea
+exceeds twice the superconducting energy gap. This anomaly occurs at
+approximately the same momentum but is {\it stronger} than the normal-state
+Kohn anomaly. It also survives at finite temperature, unlike the metallic
+anomaly. Determination of Fermi surface diameters from the location of these
+anomalies, therefore, may be more successful in the superconducting phase than
+in the normal state. However, the superconductor's anomaly fades rapidly with
+increased phonon frequency and becomes unobservable when the phonon frequency
+greatly exceeds the gap. This constraint makes these anomalies useful only in
+high-temperature superconductors such as $\rm La_{1.85}Sr_{.15}CuO_4$.
+","[{""version"":""v1"",""created"":""Tue, 8 Jun 1993 00:37:12 GMT""}]","2009-10-22"
+"cond-mat/9306016","Toshiyuki Onogi","T. Onogi and Y. Murayama","Two-dimensional Superfluidity and Localization in the Hard-Core Boson
+  Model: a Quantum Monte Carlo Study","10 pages, 3 figures upon request, RevTeX version 3, (accepted for
+  Phys. Rev. B)",,"10.1103/PhysRevB.49.9009",,"cond-mat",,"  Quantum Monte Carlo simulations are used to investigate the two-dimensional
+superfluid properties of the hard-core boson model, which show a strong
+dependence on particle density and disorder. We obtain further evidence that a
+half-filled clean system becomes superfluid via a finite temperature
+Kosterlitz-Thouless transition. The relationship between low temperature
+superfluid density and particle density is symmetric and appears parabolic
+about the half filling point. Disorder appears to break the superfluid phase up
+into two distinct localized states, depending on the particle density. We find
+that these results strongly correlate with the results of several experiments
+on high-$T_c$ superconductors.
+","[{""version"":""v1"",""created"":""Tue, 8 Jun 1993 03:27:21 GMT""},{""version"":""v2"",""created"":""Tue, 11 Jan 1994 02:12:54 GMT""}]","2009-10-22"
+"cond-mat/9306017","Andreas Schadschneider","A. Schadschneider and M. Schreckenberg","Cellular automaton models and traffic flow","7 pages (latex), 3 PostScript figures appended, preprint
+  cologne-93-4711","J. Phys. A26, L679 (1993)","10.1088/0305-4470/26/15/011",,"cond-mat",,"  A recently introduced cellular automaton model for the description of traffic
+flow is investigated. It generalises asymmetric exclusion models which have
+attracted a lot of interest in the past. We calculate the so-called fundamental
+diagram (flow vs.\ density) for parallel dynamics using an improved mean-field
+approximation which takes into account short-range correlations. For maximum
+velocity 1 we find that the simplest non-trivial of these approximations gives
+already the exact result. For higher velocities our results are in excellent
+agreement with numerical data.
+","[{""version"":""v1"",""created"":""Tue, 8 Jun 1993 09:13:27 GMT""}]","2009-10-22"
+"cond-mat/9306018","Andreas Kluemper","R.Z. Bariev, A. Kl\""umper, A. Schadschneider, and J. Zittartz","Excitation spectrum and critical exponents of a one-dimensional
+  integrable model of fermions with correlated hopping","15 pages, 3 PostScript figures appended",,"10.1088/0305-4470/26/19/019","cologne-93-4712","cond-mat",,"  We investigate the excitation spectrum of a model of $N$ colour fermions with
+correlated hopping which can be solved by a nested Bethe ansatz. The gapless
+excitations of particle-hole type are calculated as well as the spin-wave like
+excitations which have a gap. Using general predictions of conformal field
+theory the long distance behaviour of some groundstate correlation functions
+are derived from a finite-size analysis of the gapless excitations. From the
+algebraic decay we show that for increasing particle density the correlation of
+so-called $N$-multiplets of particles dominates over the density-density
+correlation. This indicates the presence of bound complexes of these
+$N$-multiplets. This picture is also supported by the calculation of the
+effective mass of charge carriers.
+","[{""version"":""v1"",""created"":""Tue, 8 Jun 1993 12:56:06 GMT""}]","2009-10-22"
+"cond-mat/9306019","Andreas Kluemper","Andreas Kl\""umper","Thermodynamics of the Anisotropic Spin-1/2 Heisenberg Chain and Related
+  Quantum Chains","31 pages, LATEX, 5 PostScript figures appended, preprint
+  cologne-93-4713",,"10.1007/BF01316831",,"cond-mat",,"  The free energy and correlation lengths of the spin-1/2 $XYZ$ chain are
+studied at finite temperature. We use the quantum transfer matrix approach and
+derive non-linear integral equations for all eigenvalues. Analytic results are
+presented for the low-temperature asymptotics, in particular for the critical
+$XXZ$ chain in an external magnetic field. These results are compared to
+predictions by conformal field theory. The integral equations are solved
+numerically for the non-critical $XXZ$ chain and the related spin-1 biquadratic
+chain at arbitrary temperature.
+","[{""version"":""v1"",""created"":""Tue, 8 Jun 1993 14:59:49 GMT""}]","2009-10-22"
+"hep-lat/9306006","Balasubramanian","Bernd A. Berg and Balasubramanian Krishnan","Phase Structure of SU(2) Lattice Gauge Theory with Quantum Gravity","LaTeX file, 8 pages, 6 figures in postscript, FSU-SCRI-93-70.
+  (Figures 4 and 5 unavailable because of size, but a postscript version of the
+  entire document is available by anonymous ftp from ftp.scri.fsu.edu. To get
+  the file, enter username ``anonymous'' and give your e-mail address as
+  password and then type cd pub/krishnan; binary; get scri-93-70.ps)","Phys.Lett. B318 (1993) 59-62","10.1016/0370-2693(93)91784-K",,"hep-lat",,"  We investigate 4$d$ SU(2) lattice gauge theory with Regge--Einstein quantum
+gravity on a dynamically coupled Regge skeleton. To overview the phase diagram
+we perform simulations on a small $2\cdot 4^3$ system. Evidence for an
+entropy--dominated disordered, an entropy--dominated ordered and an
+ill--defined region is presented.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 19:47:33 GMT""}]","2009-10-22"
+"hep-ph/9306241",,"Bo-Qiang Ma and Qi-Ren Zhang","The Proton Spin and the Wigner Rotation","13 latex pages","Z.Phys. C58 (1993) 479-482","10.1007/BF01557707",,"hep-ph",,"  It is shown that in both the gluonic and strange sea explanations of the
+Ellis-Jaffe sum rule violation discovered by the European Muon Collaboration
+(EMC), the spin of the proton, when viewed in in its rest reference frame,
+could by fully provided by quarks and antiquarks within a simple quark model
+picture, taken into account the relativistic effect from the Wigner rotation.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 16:38:39 GMT""},{""version"":""v2"",""created"":""Thu, 10 Jun 1993 10:37:49 GMT""}]","2009-10-22"
+"hep-ph/9306242",,"K.S. Babu and S.M. Barr","Natural Suppression of Higgsino-Mediated Proton Decay in Supersymmetric
+  SO(10)","39 pages (3 Feynman graphs not included), in Plain LaTeX, BA-93-26","Phys.Rev.D48:5354-5364,1993","10.1103/PhysRevD.48.5354",,"hep-ph",,"  In supersymmetric Grand Unified Theories, proton decay mediated by the
+color--triplet higgsino is generally problematic and requires some fine--tuning
+of parameters. We present a mechanism which naturally suppresses such dimension
+5 operators in the context of SUSY $SO(10)$. The mechanism, which implements
+natural doublet--triplet splitting using the adjoint higgs, converts these
+dimension 5 operators effectively into dimension 6. By explicitly computing the
+higgs spectrum and the resulting threshold uncertainties we show that the
+successful prediction of $\sin^2\theta_W$ is maintained {\it as a prediction}
+in this scheme. It is argued that only a weak suppression of the higgsino
+mediated proton decay is achievable within SUSY $SU(5)$ without fine--tuning,
+in contrast to a strong suppression in SUSY $SO(10)$.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 20:38:18 GMT""}]","2011-05-12"
+"hep-ph/9306243",,"A. N. Ivanov, N. I. Troitskaya, M. Faber, M. Schaler, M. Nagy","Spontaneous Breaking of Chiral Symmetry as a Consequence of Confinement","10 pages, 0 figures, latex, IK-TUW-Preprint 9305401",,,,"hep-ph",,"  We show that at the leading order in the large-$N$ expansion a lattice QCD
+motivated linear rising confinement potential at large distances leads to a
+non-local four-quark interaction that realizes spontaneous breaking of chiral
+symmetry (SBCS) in the same way the Nambu-Jona-Lasinio model does. The
+dynamical quark mass $m$, which represents the solution of the gap-equation, is
+proportional to the square root of the string tension $\sigma$ and takes the
+form at the leading order in the large-$N$ expansion $m=2 \sqrt{\sigma}/\pi$
+with $\sigma=0.27$ GeV$^2$. The Nambu-Jona-Lasinio phenomenological constant
+$G_1$, which is responsible for SBCS, is expressed in terms of the string
+tension and the confinement radius.
+","[{""version"":""v1"",""created"":""Tue, 8 Jun 1993 10:34:42 GMT""},{""version"":""v2"",""created"":""Fri, 11 Jun 1993 07:20:32 GMT""}]","2008-02-03"
+"hep-th/9306036","Ruibin Zhang","R. B. Zhang","Finite dimensional representations of $U_q(C(n+1))$ at arbitrary $q$","21 pages","J.Phys. A26 (1993) 7041-7060","10.1088/0305-4470/26/23/042",,"hep-th math.QA",,"  A method is developed to construct irreducible representations(irreps) of the
+quantum supergroup $U_q(C(n+1))$ in a systematic fashion. It is shown that
+every finite dimensional irrep of this quantum supergroup at generic $q$ is a
+deformation of a finite dimensional irrep of its underlying Lie superalgebra
+$C(n+1)$, and is essentially uniquely characterized by a highest weight. The
+character of the irrep is given. When $q$ is a root of unity, all irreps of
+$U_q(C(n+1))$ are finite dimensional; multiply atypical highest weight irreps
+and (semi)cyclic irreps also exist. As examples, all the highest weight and
+(semi)cyclic irreps of $U_q(C(2))$ are thoroughly studied.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 20:12:34 GMT""}]","2009-10-22"
+"hep-th/9306040","Santiago Garcia","Santiago Garc\'ia","Hidden invariance of the free classical particle","<garcia@het.brown.edu>, LaTeX, 26 pages, some stylistic corrections,
+  enlarged bibliography",,"10.1119/1.17514","BROWN-HET-921","hep-th",,"  A formalism describing the dynamics of classical and quantum systems from a
+group theoretical point of view is presented. We apply it to the simple example
+of the classical free particle. The Galileo group $G$ is the symmetry group of
+the free equations of motion. Consideration of the free particle Lagrangian
+semi-invariance under $G$ leads to a larger symmetry group, which is a central
+extension of the Galileo group by the real numbers. We study the dynamics
+associated with this group, and characterize quantities like Noether invariants
+and evolution equations in terms of group geometric objects. An extension of
+the Galileo group by U(1) leads to quantum mechanics.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 21:32:33 GMT""},{""version"":""v2"",""created"":""Fri, 20 Aug 1993 19:47:34 GMT""},{""version"":""v3"",""created"":""Sat, 12 Mar 1994 04:08:27 GMT""}]","2016-08-17"
+"hep-th/9306041","Steve Giddings","S.B. Giddings","Black Holes and Quantum Predictability","24 pages (harvmac l mode). [insignificant change] UCSBTH-93-16",,,,"hep-th gr-qc",,"  A brief review of the confrontation between black hole physics and
+quantum-mechanical unitarity is presented. Possibile reconciliations are
+modifying the laws of physics to allow fundamental loss of information, escape
+of information during the Hawking process, or black hole remnants. Each of
+these faces serious objections. A better understanding of the problem and its
+possible solutions can be had by studying two-dimensional models of dilaton
+gravity. Recent developments in these investigations are summarized. (Linear
+superposition of talks presented at the 7th Nishinomiya Yukawa Memorial
+Symposium and at the 1992 YITP Workshop on Quantum Gravity, November 1992.)
+","[{""version"":""v1"",""created"":""Tue, 8 Jun 1993 00:15:00 GMT""},{""version"":""v2"",""created"":""Tue, 8 Jun 1993 21:26:47 GMT""}]","2008-02-03"
+"hep-th/9306042","Craig Tracy","Craig A. Tracy and Harold Widom","Fredholm Determinants, Differential Equations and Matrix Models","34 pages, LaTeX using RevTeX 3.0 macros; last version changes only
+  the abstract and decreases length of typeset version","Commun.Math.Phys. 163 (1994) 33-72","10.1007/BF02101734",,"hep-th math-ph math.MP nlin.SI solv-int",,"  Orthogonal polynomial random matrix models of NxN hermitian matrices lead to
+Fredholm determinants of integral operators with kernel of the form (phi(x)
+psi(y) - psi(x) phi(y))/x-y. This paper is concerned with the Fredholm
+determinants of integral operators having kernel of this form and where the
+underlying set is a union of open intervals. The emphasis is on the
+determinants thought of as functions of the end-points of these intervals. We
+show that these Fredholm determinants with kernels of the general form
+described above are expressible in terms of solutions of systems of PDE's as
+long as phi and psi satisfy a certain type of differentiation formula. There is
+also an exponential variant of this analysis which includes the circular
+ensembles of NxN unitary matrices.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 23:14:41 GMT""},{""version"":""v2"",""created"":""Sat, 18 Sep 1993 19:57:57 GMT""},{""version"":""v3"",""created"":""Tue, 2 Feb 1999 03:25:09 GMT""}]","2009-07-11"
+"hep-th/9306043","Yuri Makeenko","Yu. Makeenko","Some Remarks About the Two-Matrix Penner Model and the Kazakov-Migdal
+  Model","Latex, 13 pages, NBI-HE-93-28","Phys.Lett. B314 (1993) 197-205","10.1016/0370-2693(93)90449-R",,"hep-th",,"  I consider the Hermitean two-matrix model with a logarithmic potential which
+is associated in the one-matrix case with the Penner model. Using loop
+equations I find an explicit solution of the model at large N (or in the
+spherical approximation) and demonstrate that it solves the corresponding
+Riemann-Hilbert problem. I construct the potential of the Kazakov-Migdal model
+on a D-dimensional lattice, which turns out to be a sum of two logarithms as
+well, whose large-N solution is given by the same formulas. In the ""naive""
+continuum limit this potential recovers in D<4 dimensions the standard scalar
+theory with quartic self-interaction. I exploit the solution to calculate
+explicitly the pair correlator of gauge fields in the Kazakov-Migdal model with
+the logarithmic potential.
+","[{""version"":""v1"",""created"":""Tue, 8 Jun 1993 06:36:38 GMT""}]","2009-10-22"
+"hep-th/9306044",,"A. Koubek and G. Mussardo","On the Operator Content of the Sinh-Gordon Model","ISAS/EP/93/42, to appear in Phys. Lett. B","Phys.Lett. B311 (1993) 193-201","10.1016/0370-2693(93)90554-U",,"hep-th",,"  We classify the operator content of local hermitian scalar operators in the
+Sinh-Gordon model by means of independent solutions of the form-factor
+bootstrap equations. The corresponding linear space is organized into a
+tower-like structure of dimension $n$ for the form factors $F_{2n}$ and
+$F_{2n-1}$. Analyzing the cluster property of the form factors, a particular
+class of these solutions can be identified with the matrix elements of the
+operators $e^{k g\phi}$. We also present the complete expression of the form
+factors of the elementary field $\phi(x)$ and the trace of the energy-momentum
+tensor $\Theta(x)$.
+","[{""version"":""v1"",""created"":""Tue, 8 Jun 1993 10:01:27 GMT""}]","2009-10-22"
+"math/9306206","Gilles Pisier","Gilles Pisier","Noncommutative vector valued $L_p$-spaces and completely $p$-summing
+  maps",,"Ast\'erisque (Soc. Math. France) 247 (1998) 1-131.",,"Banach Archive 6/7/93","math.FA",,"  Let $E$ be an operator space in the sense of the theory recently developed by
+Blecher-Paulsen and Effros-Ruan. We introduce a notion of $E$-valued non
+commutative $L_p$-space for $1 \leq p < \infty$ and we prove that the resulting
+operator space satisfies the natural properties to be expected with respect to
+e.g. duality and interpolation. This notion leads to the definition of a
+``completely p-summing"" map which is the operator space analogue of the
+$p$-absolutely summing maps in the sense of Pietsch-Kwapie\'n. These notions
+extend the particular case $p=1$ which was previously studied by Effros-Ruan.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 18:54:06 GMT""}]","2016-09-06"
+"math/9306207","Gilles Pisier","Gilles Pisier","Complex Interpolation and Regular Operators Between Banach",,"Archiv der Mat. (Basel) 62 (1994) 261-269.",,"Banach Archive 6/7/93","math.FA",,"  We study certain interpolation and extension properties of the space of
+regular operators between two Banach lattices. Let $R_p$ be the space of all
+the regular (or equivalently order bounded) operators on $L_p$ equipped with
+the regular norm. We prove the isometric identity $R_p = (R_\infty,R_1)^\theta$
+if $\theta = 1/p$, which shows that the spaces $(R_p)$ form an interpolation
+scale relative to Calder\'on's interpolation method. We also prove that if
+$S\subset L_p$ is a subspace, every regular operator $u : S \to L_p$ admits a
+regular extension $\tilde u : L_p \to L_p$ with the same regular norm. This
+extends a result due to Mireille L\'evy in the case $p = 1$. Finally, we apply
+these ideas to the Hardy space $H^p$ viewed as a subspace of $L_p$ on the
+circle. We show that the space of regular operators from $H^p$ to $L_p$
+possesses a similar interpolation property as the spaces $R_p$ defined above.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 18:54:06 GMT""}]","2016-09-06"
+"nucl-th/9306008",,"G.F. Burgio, M. Baldo and A. Rapisarda","Non-Linear Mean Field Dynamics in the Nuclear Spinodal Zone","11 pages (3 figures not included but available upon request). In
+  RevTex (version 3.0). Catania University preprint no.93/20","Phys. Lett. B 321 (1994) 307","10.1016/0370-2693(94)90247-X",,"nucl-th",,"  We demonstrate, by numerical simulations, that the dynamics of nuclear matter
+mean field inside the spinodal region is chaotic. Spontaneous symmetry-breaking
+- no explicit fluctuating term is considered - occurs leading to wild
+unpredictable density fluctuations. A proper recipe to calculate an average
+Lyapunov exponent in this multidimensional phase space is introduced. The
+latter is calculated for different values of the density in order to
+characterize in a quantitative way the chaotic and regular regions. It is
+argued that the mean field chaoticity can be the main mechanism of the nuclear
+multifragmentation occurring in the intermediate energy reactions.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 18:46:00 GMT""}]","2009-10-22"
+"nucl-th/9306009",,"Sadhan K. Adhikari, Lauro Tomio, and T. Frederico","Relativistic three-particle scattering equations","5pages, text and one ps figure (in revtex) included","Phys.Rev.C48:2105-2107,1993","10.1103/PhysRevC.48.2105","Preprint#ift-p-18-93","nucl-th",,"  We derive a set of relativistic three-particle scattering equations in the
+three-particle c.m. frame employing a relativistic three-particle propagator
+suggested long ago by Ahmadzadeh and Tjon in the c.m. frame of a two-particle
+subsystem. We make the coordinate transformation of this propagator from the
+c.m. frame of the two-particle subsystem to the three-particle c.m. frame. We
+also point out that some numerical applications of the Ahmadzadeh and Tjon
+propagator to the three-nucleon problem use unnecessary nonrelativistic
+approximations which do not simplify the computational task, but violate
+constraints of relativistic unitarity and/or covariance.
+","[{""version"":""v1"",""created"":""Tue, 8 Jun 1993 11:54:00 GMT""}]","2008-11-26"

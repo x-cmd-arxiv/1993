@@ -1,0 +1,135 @@
+"cond-mat/9302031","Volker Meden","K. Sch\""onhammer and V. Meden","Nonuniversal spectral properties of the Luttinger model","19 pages, Revtex 2.0, 5 ps-figures, to be mailed on request",,"10.1103/PhysRevB.47.16205",,"cond-mat",,"  The one electron spectral functions for the Luttinger model are discussed for
+large but finite systems. The methods presented allow a simple interpretation
+of the results. For finite range interactions interesting nonunivesal spectral
+features emerge for momenta which differ from the Fermi points by the order of
+the inverse interaction range or more. For a simplified model with interactions
+only within the branches of right and left moving electrons analytical
+expressions for the spectral function are presented which allows to perform the
+thermodynamic limit. As in the general spinless model and the model including
+spin for which we present mainly numerical results the spectral functions do
+not approach the noninteracting limit for large momenta. The implication of our
+results for recent high resolution photoemission measurements on quasi
+one-dimensional conductors are discussed.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 16:02:19 GMT""}]","2009-10-22"
+"cond-mat/9302032",,"Myung-Hoon Chung","Many Particle Hamiltonian for the Fractional Quantum Hall Effect","24 pages, 4 figures available from lois@control, Latex, EFI 92-47",,,,"cond-mat",,"  A many-particle Hamiltonian is proposed in order to explain the fractional
+quantum Hall effect (FQHE) for fractional filling factors $\nu < 1$. The
+solutions of the corresponding Hartree-Fock equations make it possible to
+discuss the FQHE from the point of view of the single quasi-particle energy
+spectrum. It is shown how the specific couplings in the many-particle
+Hamiltonian depend on the magnetic field and the area density of electrons. The
+degeneracies of the quasi-particle states are related to the fractional filling
+factors $\nu$. It is suggested that the energy gaps obtained in the
+quasi-particle energy spectrum are comparable with the experimentally measured
+quantities. An explicit calculation for the FQH - conductance is given and its
+character as a topological invariant is discussed.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 16:44:58 GMT""}]","2007-05-23"
+"gr-qc/9302025",,"B. L. Hu, Juan Pablo Paz and Sukanya Sinha","Minisuperspace as a Quantum Open System","21 pages, umdpp 93-60, Latex",,,,"gr-qc",,"  We trace the development of ideas on dissipative processes in chaotic
+cosmology and on minisuperspace quantum cosmology from the time Misner proposed
+them to current research. We show 1) how the effect of quantum processes like
+particle creation in the early universe can address the issues of the isotropy
+and homogeneity of the observed universe, 2) how viewing minisuperspace as a
+quantum open system can address the issue of the validity of such
+approximations customarily adopted in quantum cosmology, and 3) how invoking
+statistical processes like decoherence and correlation when considered together
+can help to establish a theory of quantum fields in curved spacetime as the
+semiclassical limit of quantum gravity. {\it Dedicated to Professor Misner on
+the occasion of his sixtieth birthday, June 1992.} To appear in the Proceedings
+of a Symposium on {\it Directions in General Relativity}, College Park, May
+1993, Volume 1, edited by B. L. Hu, M. P. Ryan and C. V. Vishveshwara
+(Cambridge University Press 1993)~~~~umdpp 93-60
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 22:15:00 GMT""}]","2007-05-23"
+"hep-lat/9302006","Victor Matveev","Victor V. Matveev","Numerical Study of Periodic Instanton Configurations in Two-dimensional
+  Abelian Higgs Theory","8 pages, 6 figures available upon request, LaTeX, ITP-SB-92-74","Phys.Lett. B304 (1993) 291-294","10.1016/0370-2693(93)90297-U",,"hep-lat",,"  Numerical minimization of the Euclidean action of the two-dimensional Abelian
+Higgs model is used to construct periodic instantons, the euclidean field
+configurations with two turning points describing transitions between the
+vicinities of topologically distinct vacua. Periodic instantons are found at
+any energy ( up to the sphaleron energy $E_{sph}$ ) and for wide range of
+parameters of the theory. We obtain the dependence of the action and the energy
+of periodic instanton on its period; these quantities directly determine the
+probability of certain multiparticle scattering events.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 16:54:22 GMT""}]","2009-10-22"
+"hep-lat/9302007","Juan Jesus Ruiz Lorenzo","The RTN Collaboration, Garcia Perez, Gonzalez-Arroyo, Martinez,
+  Fernandez, Munoz Sudupe, Ruiz-Lorenzo, Azcoiti, Campos, Ciria, Cruz, Iniguez,
+  Lesmes, Piedrafita, Rivero, Tarancon, Tellez, Badoni and Pech","Instanton-like Contributions to the Dynamics of Yang-Mills Fields on the
+  Twisted Torus","17 text pages + 1 Table + 3 postscript figures, report# FTUAM/92-39","Phys.Lett.B305:366-374,1993","10.1016/0370-2693(93)91069-Y",,"hep-lat",,"  We study $SU(2)$ lattice gauge theory in small volumes and with twist
+$\vec{m}=(1,1,1)$. We investigate the presence of the periodic instantons of
+$Q=\frac{1}{2}$ and determine their free energy and their contribution to the
+splitting of energy flux sectors \mbox{$E(\vec{e}=(1,1,1))-E(\vec{e}=(0,0,0))
+$.}
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 17:09:40 GMT""}]","2008-11-26"
+"hep-ph/9302280",,"Z. Bern, L. Dixon and D. A. Kosower","One-Loop Corrections to Five-Gluon Amplitudes","7 pages","Phys.Rev.Lett.70:2677-2680,1993","10.1103/PhysRevLett.70.2677",,"hep-ph",,"  We present the one-loop helicity amplitudes with five external gluons. The
+computation employs string-based methods, new techniques for performing tensor
+integrals, and improvements in the spinor helicity method.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 19:08:00 GMT""}]","2010-11-15"
+"hep-ph/9302281","O. Yakovlev","K.Melnikov and O.Yakovlev","Higgs - Two Photon Decay: QCD radiative correction","6 pagers, 5 figuresdescribed but not included, available on request.
+  BUDKERINP-93-04","Phys.Lett. B312 (1993) 179-183","10.1016/0370-2693(93)90507-E",,"hep-ph",,"  QCD radiative correction to Higgs $\rightarrow$ two photons decay rate is
+calculated. Below the threshold we found negligible correction, thus supporting
+results obtained earlier by Djouadi et all [7]. Above the threshold radiative
+correction appears to be large for both real and imaginary part of H $\gamma
+\gamma$ vertex. This leads to radiative correction for $\Gamma $(H $\rightarrow
+\gamma \gamma $) to be of order 20--100 percents at $m_{t}=150 GeV$.
+  Possible applications of our results for Higgs search at Next Linear
+Colliders (NLC) are briefly discussed.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 16:44:00 GMT""}]","2009-10-22"
+"hep-ph/9302282",,"Robert Garisto and Gordy Kane","What is the Natural Size of Supersymmetric $CP$ Violation?","13pp (no figs), REVTEX (LATEX), TRI-PP-93-1",,,,"hep-ph",,"  It is well known that if phases and masses in the Minimal Supersymmetric
+Standard Model (MSSM) are allowed to have general values, the resulting neutron
+EDM ($d_n$) exceeds the experimental upper limit by about $10^3$. We assume
+that the needed suppression is not due to a fine-tuning of phases or masses,
+and ask what natural size of $CP$ violation (CPV) results. We show that (1) the
+phase of one of the superpotential parameters, $\mu$, does not contribute to
+any CPV in the MSSM and so is not constrained by \dn; (2) the MSSM contribution
+to $d_n$ is tiny, just coming from the CKM phase; (3) the phases in the MSSM
+cannot be used to generate a baryon asymmetry at the weak scale, given our
+assumptions; and (4) in non-minimal SUSY models, an effective phase can enter
+at one loop giving $d_n \sim 10^{-26}$\ecm, $d_e \sim 10^{-27}$\ecm, and
+allowing a baryon asymmetry to be generated at the weak scale, without
+fine-tunings. Our results could be evaded by a SUSY breaking mechanism which
+produced phases for the SUSY breaking parameters that somehow were naturally of
+order $10^{-3}$.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 23:42:17 GMT""}]","2007-05-23"
+"hep-th/9302094","Hubert Saleur","Paul Martin and Hubert Saleur","The Blob Algebra and the Periodic Temperley-Lieb Algebra","12 pages",,"10.1007/BF00805852",,"hep-th",,"  We determine the structure of two variations on the Temperley-Lieb algebra,
+both used for dealing with special kinds of boundary conditions in statistical
+mechanics models.
+  The first is a new algebra, the `blob' algebra (the reason for the name will
+become obvious shortly!). We determine both the generic and all the exceptional
+structures for this two parameter algebra. The second is the periodic
+Temperley-Lieb algebra. The generic structure and part of the exceptional
+structure of this algebra have already been studied. Here we complete the
+analysis, using results from the study of the blob algebra.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 18:36:57 GMT""}]","2009-10-22"
+"hep-th/9302095","Hubert Saleur","Paul Martin and Hubert Saleur","Algebras in Higher Dimensional Statistical Mechanics - the Exceptional
+  Partition (MEAN Field) Algebras","4 pages",,"10.1007/BF00805850",,"hep-th",,"  We determine the structure of the partition algebra $P_n(Q)$ (a generalized
+Temperley-Lieb algebra) for specific values of $Q \in \C$, focusing on the
+quotient which gives rise to the partition function of $n$ site $Q$-state Potts
+models (in the continuous $Q$ formulation) in arbitrarily high lattice
+dimensions (the mean field case). The algebra is non-semi-simple iff $Q$ is a
+non-negative integer less than $n$. We determine the dimension of the key
+irreducible representation in every specialization.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 18:48:41 GMT""}]","2009-10-22"
+"hep-th/9302096","Ez","Frank Wilczek","Quantum Purity at a Small Price: Easing a Black Hole Paradox","19 pages, phyzzx, 2 figures not included available by request sent to
+  ZYNDA@IASSNS.BITNET, IASSNS HEP/93-12",,,,"hep-th",,"  Following Hawking, it is usual to mimic the effect of collapse space-time
+geometry on quantum fields in a semi-classical approximation by imposing
+suitable boundary conditions at the origin of coordinates, which effectively
+becomes a moving mirror. Suitable mirror trajectories induces a close analogue
+to the radiance of black holes, including a flux of outgoing radiation that
+appears accurately thermal. If the acceleration of the mirror eventually ceases
+the complete state of the radiation field is a pure quantum state, even though
+it is indistinguishable from an accurately thermal state for an arbitrarily
+long period of time and in a precise sense differs little from ``pure thermal''
+closely followed by ``vacuum''. Suspicions that the semiclassical calculation
+of black hole radiance gives evidence for the evolution of pure into mixed
+states are criticized on this basis. Possible extensions of the model to mimic
+black holes more accurately (including the effects of back reaction and partial
+transparency), while remaining within the realm of tractable models, are
+suggested.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 19:55:00 GMT""}]","2007-05-23"
+"hep-th/9302097",,"Christian Grosche","An Introduction into the Feynman Path Integral","92 pages, amstex, Leipzig University preprint NTZ Nr.29/92",,,,"hep-th",,"  In this lecture a short introduction is given into the theory of the Feynman
+path integral in quantum mechanics. The general formulation in Riemann spaces
+will be given based on the Weyl- ordering prescription, respectively product
+ordering prescription, in the quantum Hamiltonian. Also, the theory of
+space-time transformations and separation of variables will be outlined. As
+elementary examples I discuss the usual harmonic oscillator, the radial
+harmonic oscillator, and the Coulomb potential. Lecture given at the graduate
+college ''Quantenfeldtheorie und deren Anwendung in der Elementarteilchen- und
+Festk\""orperphysik'', Universit\""at Leipzig, 16-26 November 1992.
+","[{""version"":""v1"",""created"":""Sat, 20 Feb 1993 14:14:00 GMT""}]","2007-05-23"

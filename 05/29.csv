@@ -1,0 +1,203 @@
+"astro-ph/9305038",,"Wayne Hu, Douglas Scott & Joseph Silk","Reionization and cosmic microwave background distortions: a complete
+  treatment of second order Compton scattering","29 pages, Plain TeX, 11 figures upon request, CfPA-TH-93-15","Phys.Rev. D49 (1994) 648-670","10.1103/PhysRevD.49.648",,"astro-ph",,"  The ionization history of the universe provides a major source of ambiguity
+in constraining cosmological models using small angular scale microwave
+background anisotropies. To clarify these issues, we consider a complete
+treatment of Compton scattering to second order, an approach which may be
+applicable to other astrophysical situations. We find that only the ${\cal O}
+(v)$ Doppler effect, and the ${\cal O} (v\delta)$ Vishniac effect are important
+for recent last scattering epochs; the ${\cal O} (v^2)$ Doppler effect is not
+significant on any angular scale, and other higher-order effects are completely
+negligible. However the ${\cal O}(v^2)$ effect does lead to \Cy\ distortions,
+which although generally below current constraints, set an unavoidable minimum
+level in reionization models. We consider the small-angle approximation for the
+Vishniac effect in detail, and show several improvements over previous
+treatments, particularly for low $\Omega_0$. For standard cold dark matter
+models, the effect of reionization is to redistribute the anisotropies to
+arcminute scales; late reionization leads to partially erased primary
+fluctuations and a secondary contribution of comparable magnitude. Using recent
+anisotropy limits from the ATCA experiment, we set new constraints on baryonic
+dark matter models. Stronger constraints are imposed (in second order) upon
+models with higher Hubble constant, steeper $n$, and higher density. These
+limits depend on the specific ionization history assumed, but the factor gained
+by lowering the ionization fraction is generally small, and may be tested by
+currently-planned
+","[{""version"":""v1"",""created"":""Sat, 29 May 1993 02:40:19 GMT""}]","2009-10-22"
+"cond-mat/9305039","Steve Teitel","Tao Chen and S. Teitel","Helicity Modulus and Meissner Effect in a Fluctuating Type II
+  Superconductor","10 pages, 0 figures, RevTex3.0, UR-93-ST01","Phys. Rev. Lett. 72, 2085 (1994)","10.1103/PhysRevLett.72.2085",,"cond-mat",,"  The helicity modulus for a fluctuating type II superconductor is computed
+within the elastic medium approximation, as a probe of superconducting phase
+coherence and the Meissner effect in the mixed state. We argue that at the
+vortex line lattice melting transition, there remains superconducting coherence
+parallel to the applied magnetic field, provided the vortex line liquid retains
+a finite shear modulus at finite wavevector.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 20:06:50 GMT""}]","2009-10-22"
+"cond-mat/9305040","Gunter Schuetz","Gunter Schuetz and Sven Sandow","Exclusive Many-Particle Diffusion in Disordered Media and Correlation
+  Functions for Random Vertex Models","32 pages, REVTEX, WIS-93/46/May.-PH",,,,"cond-mat",,"  We consider systems of particles hopping stochastically on $d$-dimensional
+lattices with space-dependent probabilities. We map the master equation onto an
+evolution equation in a Fock space where the dynamics are given by a quantum
+Hamiltonian (continuous time) or a transfer matrix resp. (discrete time). We
+show that under certain conditions the time-dependent two-point density
+correlation function in the $N$-particle steady state can be computed from the
+probability distribution of a single particle moving in the same environment.
+Focussing on exclusion models where each lattice site can be occupied by at
+most one particle we discuss as an example for such a stochastic process a
+generalized Heisenberg antiferromagnet where the strength of the spin-spin
+coupling is space-dependent. In discrete time one obtains for one-dimensional
+systems the diagonal-to-diagonal transfer matrix of the two-dimensional
+six-vertex model with space-dependent vertex weights. For a random distribution
+of the vertex weights one obtains a version of the random barrier model
+describing diffusion of particles in disordered media. We derive exact
+expressions for the averaged two-point density correlation functions in the
+presence of weak, correlated disorder.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1993 08:27:38 GMT""}]","2007-05-23"
+"cond-mat/9305041","Qingfeng Zhong","D. F. Wang Joseph Henry (Laboratories of Physics, Princeton
+  University, Princeton, New Jersey) Q. F. Zhong (International School for
+  Advanced Study Via Beirut 4, 34014 Trieste, Italy) P. Coleman Serin (Physics
+  Laboratory, Rutgers University, Piscataway, NJ)","Gutzwiller-Jastrow Wavefunctions for the $1/r$ Hubbard Model",,,,,"cond-mat hep-th",,"  In this work, we study the wavefunctions of the one dimensional $1/r$ Hubbard
+model in the strong interaction limit $U =\infty$. A set of Gutzwiller-Jastorw
+wavefunctions are shown to be eigen-functions of the Hamiltonian. The entire
+excitation spectrum and the thermodynamics are also studied in terms of more
+generalized Jastrow wavefunctions. For the wavefunctions and integrability
+conditions at finite on-site energy, further investigations are needed.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1993 10:43:31 GMT""},{""version"":""v2"",""created"":""Sun, 30 May 1993 17:42:15 GMT""}]","2019-08-15"
+"hep-lat/9305026","Rey Soo Jong","Jacques Distler and Soo-Jong Rey","3 Into 2 Doesn't Go: (almost) chiral gauge theory on the lattice","13 pages (no figures)",,,"PUPT-1386, NSF-ITP-93-66, SNUTP-93-27","hep-lat",,"  Kaplan recently proposed a novel lattice chiral gauge theory in which the
+bare theory is defined on $(2n+1)$-dimensions, but the continuum theory emerges
+in $2n$-dimensions. We explore whether the resulting theory reproduces all the
+features of continuum chiral gauge theory in the case of two-dimensional axial
+Schwinger model. We find that one can arrange for the two-dimensional
+perturbation expansion to be reproduced successfully. However, the theory fails
+to reproduce the 2-dimensional fermion nonconservation.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1993 09:44:13 GMT""}]","2016-08-31"
+"hep-ph/9305346",,"V. Del Duca and C.R. Schmidt","Minijet corrections to Higgs production","15 pages","Phys.Rev. D49 (1994) 177-182","10.1103/PhysRevD.49.177",,"hep-ph",,"  We study higher order corrections to Higgs production with an associated jet
+at SSC energies, using the resummation of the leading logarithmic contributions
+to multiple gluon emissions due to Lipatov and collaborators. We find a
+considerable enhancement of Higgs production at large transverse momenta.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1993 01:52:00 GMT""}]","2009-10-22"
+"hep-th/9305161","G. L. Huang","G.L. Huang and C.R. Lee","A Study of Anyon Statistics by Breit Hamiltonian Formalism","25 pages, LATEX","Chin.J.Phys. 32 (1994) 133-144","10.1063/1.357118",,"hep-th",,"  We study the anyon statistics of a $2 + 1$ dimensional Maxwell-Chern-Simons
+(MCS) gauge theory by using a systemmetic metheod, the Breit Hamiltonian
+formalism.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 23:28:01 GMT""}]","2009-10-22"
+"hep-th/9305164",,"P. Menotti and D. Seminara","Stationary Solutions and Closed Time-Like Curve in 2+1 Dimensional
+  Gravity","29 pages, REVTEX 3.0, IFUP-TH 18/93","Nucl.Phys. B419 (1994) 189-210","10.1016/0550-3213(94)90362-X",,"hep-th gr-qc",,"  We give the general solution of the stationary problem of 2+1 dimensional
+gravity in presence of extended sources, also endowed with angular momentum. We
+solve explicitly the compact support property of the energy momentum tensor and
+we apply the results to the study of closed time-like curves. In the case of
+rotational symmetry we prove that the weak energy condition combined with the
+absence of closed time-like curves at space infinity prevents the existence of
+closed time-like curves everywhere in an open universe (conical space at
+infinity).
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 18:05:00 GMT""}]","2009-10-22"
+"hep-th/9305165","Justin D. Hayward","S.W.Hawking & J.D.Hayward","Quantum Coherence in Two Dimensions","11 pages, DAMTP-R93/15, CALT-68-1861, Tex, 3 appended uuencoded
+  figures","Phys.Rev. D49 (1994) 5252-5256","10.1103/PhysRevD.49.5252",,"hep-th gr-qc",,"  The formation and evaporation of two dimensional black holes are discussed.
+It is shown that if the radiation in minimal scalars has positive energy, there
+must be a global event horizon or a naked singularity. The former would imply
+loss of quantum coherence while the latter would lead to an even worse
+breakdown of predictability. CPT invariance would suggest that there ought to
+be past horizons as well. A way in which this could happen with wormholes is
+described.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 16:05:00 GMT""},{""version"":""v2"",""created"":""Mon, 31 May 1993 11:41:39 GMT""}]","2009-10-22"
+"hep-th/9305166",,"F. Anton, A. Abdurrahman and J. Bordes","Half-String Approach to Closed String Field Theory","13 pages, Latex, OUTP 93-10-P","Nucl.Phys. B397 (1993) 260-282","10.1016/0550-3213(93)90344-O",,"hep-th",,"  In this letter we present an operator formalism for Closed String Field
+Theory based on closed half-strings. Our results indicate that the restricted
+polyhedra of the classical non-polynomial string field theory, can be
+represented as traces of infinite matrices, with operator insertions that
+reparametrise the half-strings.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 20:28:57 GMT""}]","2009-10-22"
+"hep-th/9305167","Andrei Mironov","I.A.Batalin and I.V.Tyutin","Unified Constrained Dynamics","Lebedev Inst. preprint, 20 pp","Phys.Lett. B317 (1993) 354-358","10.1016/0370-2693(93)91007-A",,"hep-th",,"  The unified constrained dynamics is formulated without making use of the
+Dirac splitting of constraint classes. The strengthened, completely--closed,
+version of the unified constraint algebra generating equations is given. The
+fundamental phase variable supercommutators are included into the unified
+algebra as well. The truncated generating operator is defined to be nilpotent
+in terms of which the Unitarizing Hamiltonian is constructed.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 21:01:14 GMT""}]","2009-10-22"
+"hep-th/9305168",,"Ovid C. Jacob","Zero Modes in a $c = 2$ Matrix Model","phyzxx, 14 pages, SLAC-PUB-59xx","Phys.Lett.B324:149-159,1994","10.1016/0370-2693(94)90401-4",,"hep-th",,"  Recently \REF\dk{Simon Dalley and Igor Klebanov,'Light Cone Quantization of
+the $c=2$ Matrix Model', PUPT-1333, hepth@xxx/920705} \refend Dalley and
+Klebanov proposed a light-cone quantized study of the $c=2$ matrix model, but
+which ignores $k^{+}=0$ contributions. Since the non-critical string limit of
+the matrix model involves taking the parameters $\lambda$ and $\mu$ of the
+matrix model to a critical point, zero modes of the field might be important in
+this study. The constrained light-cone quantization (CLCQ) approach of Heinzl,
+Krusche and Werner is applied . It is found that there is coupling between the
+zero mode sector and the rest of the theory, hence CLCQ should be implemented.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 23:55:00 GMT""}]","2011-07-19"
+"hep-th/9305169","Kanehisa Takasaki","Kanehisa Takasaki","Nonabelian KP hierarchy with Moyal algebraic coefficients","37 pages, Kyoto University KUCP-0062/93",,"10.1016/0393-0440(94)90040-X",,"hep-th",,"  A higher dimensional analogue of the KP hierarchy is presented. Fundamental
+constituents of the theory are pseudo-differential operators with Moyal
+algebraic coefficients. The new hierarchy can be interpreted as large-$N$ limit
+of multi-component ($\gl(N)$ symmetric) KP hierarchies. Actually, two different
+hierarchies are constructed. The first hierarchy consists of commuting flows
+and may be thought of as a straightforward extension of the ordinary and
+multi-component KP hierarchies. The second one is a hierarchy of noncommuting
+flows, and related to Moyal algebraic deformations of selfdual gravity. Both
+hierarchies turn out to possess quasi-classical limit, replacing Moyal
+algebraic structures by Poisson algebraic structures. The language of
+W-infinity algebras provides a unified point of view to these results.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1993 06:47:31 GMT""}]","2009-10-22"
+"hep-th/9305170","Itoyama","Kiyoshi Ezawa","Transition Amplitude in 2+1 dimensional Chern-Simons Gravity on a Torus","21 pages, Latex","Int.J.Mod.Phys. A9 (1994) 4727-4746","10.1142/S0217751X94001898","OU-HET/179","hep-th",,"  The discussions on the modular invariance in section 5 are refined.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1993 07:05:26 GMT""},{""version"":""v2"",""created"":""Tue, 16 Nov 1993 07:20:34 GMT""}]","2009-10-22"
+"hep-th/9305171","Jacques H. H. Perk","Helen Au-Yang and Jacques H.H. Perk","The N to Infinity Limit of the Chiral Potts Model","5 pages AMS-TeX, OSU-SM-93-01. v2: Errata added at very end","Int. J. Mod. Phys. Proc. Suppl. 3A:430-434, 1993",,,"hep-th cond-mat nlin.SI solv-int",,"  We consider the N to infinity limits of the N-state chiral Potts model. We
+find new weights that satisfy the star-triangle relations with spin variables
+either taking all the integer values or having values from a continous
+interval. The models provide chiral generalizations of Zamolodchikov's Fishnet
+Model. (For the more complete version, see math.QA/9906029, where the misprints
+in eq. (12) are also corrected.)
+","[{""version"":""v1"",""created"":""Sat, 29 May 1993 06:24:54 GMT""},{""version"":""v2"",""created"":""Sun, 25 Jun 2006 21:31:38 GMT""}]","2011-09-15"
+"hep-th/9305172",,"R.Floreanini and R. Percacci","Average Effective Potential for the Conformal Factor","8 pages, plain TEX, SISSA 71/93-EP","Nucl.Phys. B436 (1995) 141-162","10.1016/0550-3213(95)00479-C",,"hep-th gr-qc",,"  In a four dimensional theory of gravity with lagrangian quadratic in
+curvature and torsion, we compute the effective action for metrics of the form
+$g_{\mu\nu}=\rho^2\delta_{\mu\nu}$, with $\rho$ constant. Using standard
+field-theoretic methods we find that one loop quantum effects produce a
+nontrivial effective potential for $\rho$. We explain this unexpected result by
+showing how our regularization procedure differs from the one that is usually
+adopted in Quantum Gravity. Using the method of the average effective
+potential, we compute the scale dependence of the v.e.v. of the conformal
+factor.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1993 09:22:17 GMT""}]","2009-10-22"
+"hep-th/9305173",,"J. N. Tavares","Chen Integrals, Generalized Loops and Loop Calculus","43p., Latex. arXiv admin NOTE: large portions of pages 8-10 of this
+  submission are taken verbatim and without attribution from pages 252--255 of
+  ""The geometry of the mixed Hodge structure on the fundamental group"",
+  Proceedings Symposia Pure Math 46 (1987), 247-282, by Richard Hain","Int. J. Mod. Phys. A9 (1994) 4511-4548","10.1142/S0217751X94001795","DF/IST 5.93","hep-th",,"  We use Chen iterated line integrals to construct a topological algebra ${\cal
+A}_p$ of separating functions on the {\it Group of Loops} ${\bf L}{\cal M}_p$.
+${\cal A}_p$ has an Hopf algebra structure which allows the construction of a
+group structure on its spectrum. We call this topological group, the group of
+generalized loops $\widetilde {{\bf L}{\cal M}_p}$.
+  Then we develope a {\it Loop Calculus}, based on the {\it Endpoint} and {\it
+Area Derivative Operators}, providing a rigorous mathematical treatment of
+early heuristic ideas of Gambini, Trias and also Mandelstam, Makeenko and
+Migdal. Finally we define a natural action of the ""pointed"" diffeomorphism
+group $Diff_p({\cal M})$ on $ \widetilde {{\bf L}{\cal M}_p}$, and consider a
+{\it Variational Derivative} which allows the construction of homotopy
+invariants.
+  This formalism is useful to construct a mathematical theory of {\it Loop
+Representation} of Gauge Theories and Quantum Gravity. Figures available by
+request.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1993 10:13:47 GMT""}]","2015-06-26"
+"hep-th/9305174","Henric Rhedin","Stephen Hwang and Henric Rhedin","The BRST formulation of G/H WZNW models","23 pages latex file. G\""oteborg ITP 93-01 ( Not encoded version )","Nucl.Phys.B406:165-186,1993","10.1016/0550-3213(93)90165-L",,"hep-th",,"  We consider a BRST approach to G/H coset WZNW models, {\it i.e.} a
+formulation in which the coset is defined by a BRST condition. We will give the
+precise ingrediences needed for this formulation. Then we will prove the
+equivalence of this approach to the conventional coset formulation by solving
+the the BRST cohomology. This will reveal a remarkable connection between
+integrable representations and a class of non-integrable representations for
+negative levels. The latter representations are also connected to string
+theories based on non-compact WZNW models. The partition functions of G/H
+cosets are also considered. The BRST approach enables a covariant construction
+of these, which does not rely on the decomposition of G as $G/H\times H$. We
+show that for the well-studied examples of $SU(2)_k \times SU(2)_1/SU(2)_{k+1}$
+and $SU(2)_k/U(1)$, we exactly reproduce the previously known results.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1993 12:06:04 GMT""},{""version"":""v2"",""created"":""Thu, 17 Jun 1993 11:55:41 GMT""},{""version"":""v3"",""created"":""Wed, 23 Jun 1993 07:41:38 GMT""}]","2011-07-19"
+"hep-th/9305175",,"A. M. Chervyakov and V. V. Nesterenko","Is it possible to assign physical meaning to field theory with higher
+  derivatives?","16 pp, LaTeX, JINR E2-93-193","Phys.Rev.D48:5811-5817,1993","10.1103/PhysRevD.48.5811",,"hep-th",,"  To overcome the difficulties with the energy indefiniteness in field theories
+with higher derivatives, it is supposed to use the mechanical analogy, the
+Timoshenko theory of the transverse flexural vibrations of beams or rods well
+known in mechanical engineering. It enables one to introduce the notion of a
+""mechanical"" energy in such field models that is wittingly positive definite.
+This approach can be applied at least to the higher derivative models which
+effectively describe the extended localized solutions in usual first order
+field theories (vortex solutions in Higgs models and so on). Any problems with
+a negative norm ghost states and unitarity violation do not arise here.
+","[{""version"":""v1"",""created"":""Sat, 29 May 1993 15:32:11 GMT""}]","2011-07-19"
+"solv-int/9305003","Vladimir Makhankov","V.G. Makhankov (Center for Nonlinear Studies, LANL and Joint Institute
+  for Nuclear Research, LCTA, Dubna, Moscow, Russia)","On exact solution for some integrable nonlinear equations of the
+  Schr\""odinger type","LaTeX",,,"LA-UR-93-1331","solv-int nlin.PS nlin.SI patt-sol",,"  The outlook of a simple method to generate localized (soliton-like)
+potentials of time-dependent Schrodinger type equations is given. The
+conditions are discussed for the potentials to be real and nonsingular. For the
+derivative Schrodinger equation also is discussed its relation to the
+Ishimori-II model. Some pecular soliton solutions of nonlinear Schrodinger type
+equations are given and discussed.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 17:42:13 GMT""}]","2008-02-03"

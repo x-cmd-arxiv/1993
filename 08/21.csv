@@ -1,0 +1,250 @@
+"astro-ph/9308026","David Thomas","David Thomas, David N. Schramm, Keith A. Olive, Grant J. Mathews,
+  Bradley S. Meyer, Brian D. Fields","Production of Li, Be \& B from Baryon Inhomogeneous Primordial
+  Nucleosynthesis","18 pages; Plain TeX; UMN-TH-1131/93","Astrophys.J.430:291-299,1994","10.1086/174403",,"astro-ph hep-ph",,"  We investigate the possibility that inhomogeneous nucleosynthesis may
+eventually be used to explain the abundances of \li6, \be9 and B in population
+II stars. The present work differs from previous studies in that we have used a
+more extensive reaction network. It is demonstrated that in the simplest
+scenario the abundances of the light elements with $A\le7$ constrain the
+separation of inhomogeneities to sufficiently small scales that the model is
+indistinguishable from homogeneous nucleosynthesis and that the abundances of
+\li6, \be9\ and B are then below observations by several orders of magnitude.
+This conclusion does not depend on the \li7 constraint. We also examine
+alternative scenarios which involve a post-nucleosynthesis reprocessing of the
+light elements to reproduce the observed abundances of Li and B, while allowing
+for a somewhat higher baryon density (still well below the cosmological
+critical density). Future B/H measurements may be able to exclude even this
+exotic scenario and further restrict primordial nucleosynthesis to approach the
+homogeneous model conclusions.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 17:16:05 GMT""}]","2009-09-15"
+"astro-ph/9308027","Michael Strauss","Michael Strauss, Renyue Cen, and Jeremiah Ostriker","Confrontation of the Lauer and Postman Cluster Velocity Field with
+  Models","paper for Paris Conference ""Cosmic Velocity Fields"". 10 pages of
+  uuencoded compressed postscript; figures included. Report #2",,,,"astro-ph",,"  The large-scale bulk flow implied by the measurements of distances to
+brightest cluster members within 15,000 km/s by Lauer and Postman has the
+potential to put strong constraints on, or to even rule out, various models of
+large-scale structure. Using PM simulations 400$h^{-1}$ Mpc on a side of five
+cosmological models (Standard CDM, Tilted CDM, HDM, $\Omega = 0.3$ CDM, and
+PBI), we present detailed Monte-Carlo simulations of the peculiar velocity
+data, which we use to assess the probability that any given model can explain
+the data. These models are ruled out at confidence levels ranging from 94\%
+(HDM) to 97\% (PBI). However, these results may be affected by the finite size
+of the simulation volume. If the observed bulk flow remains unchanged when
+calculated using a refined distance indicator with smaller scatter, all these
+models will be ruled out at high confidence levels.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 19:31:52 GMT""}]","2007-05-23"
+"astro-ph/9308028","Michael Strauss","Michael Strauss and Daniel Koranyi","Tests of the Hubble Law from the Luminosity Function of IRAS Galaxies","paper for Paris Conference ""Cosmic Velocity Fields"". 10 pages of
+  uuencoded compressed postscript; figures included. Report #3",,,,"astro-ph",,"  All direct measurements of peculiar velocities of glaxies assume the Hubble
+law at low redshifts. However, it has been suggested by Segal et al (1993) that
+the correlation of redshifts and fluxes in a complete sample of IRAS galaxies
+is inconsistent with the Hubble law, and instead implies that redshifts are
+proportional to the square of distance at small redshift. The essence of the
+argument is that the luminosity function of galaxies itself can be used as a
+distance indicator. We examine this possibility critically using a variety of
+statistical tests, and conclude that the data do indeed support the Hubble law,
+although the strongest arguments require the assumption of small density
+contrasts on large scales. We identify several possible pitfalls in such an
+analysis which could lead one to an erroneous conclusion.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 19:32:49 GMT""}]","2007-05-23"
+"gr-qc/9308020",,"J.J.Halliwell and M.E.Ortiz","Quantum mechanical composition laws in reparameterization invariant
+  systems","5 pages","Int.J.Mod.Phys.D3:195-198,1994","10.1142/S0218271894000277",,"gr-qc hep-th",,"  This paper gives a brief description of the derivation of a composition law
+for the propagator of a relativistic particle, in a sum over histories
+quantization. The extension of this derivation to the problem of finding a
+composition law for quantum cosmology is also discussed. (For the proceedings
+of Journees Relativistes 93)
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 17:06:36 GMT""}]","2011-04-15"
+"gr-qc/9308021",,"Nenad Manojlovi\'c and Bill Spence","Integrals of Motion in the Two Killing Vector Reduction of General
+  Relativity","20 pages, plain TeX, SU-GP-93/7-8, UM-P-93/77","Nucl.Phys.B423:243-259,1994","10.1016/0550-3213(94)90572-X",,"gr-qc",,"  We apply the inverse scattering method to the midi-superspace models that are
+characterized by a two-parameter Abelian group of motions with two spacelike
+Killing vectors. We present a formulation that simplifies the construction of
+the soliton solutions of Belinski\v i and Zakharov. Furthermore, it enables us
+to obtain the zero curvature formulation for these models. Using this, and
+imposing periodic boundary conditions corresponding to the Gowdy models when
+the spatial topology is a three torus $T ^3$, we show that the equation of
+motion for the monodromy matrix is an evolution equation of the Heisenberg
+type. Consequently, the eigenvalues of the monodromy matrix are the generating
+functionals for the integrals of motion. Furthermore, we utilise a suitable
+formulation of the transition matrix to obtain explicit expressions for the
+integrals of motion. This involves recursion relations which arise in solving
+an equation of Riccati type. In the case when the two Killing vectors are
+hypersurface orthogonal the integrals of motion have a particularly simple
+form.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 20:58:00 GMT""}]","2010-11-01"
+"gr-qc/9308022","Salman Habib","Salman Habib","Multiplicative Noise: Applications in Cosmology and Field Theory","21 pages, LaTex, LA-UR-93-2105",,"10.1111/j.1749-6632.1993.tb24685.x",,"gr-qc hep-th",,"  Physical situations involving multiplicative noise arise generically in
+cosmology and field theory. In this paper, the focus is first on exact
+nonlinear Langevin equations, appropriate in a cosmologica setting, for a
+system with one degree of freedom. The Langevin equations are derived using an
+appropriate time-dependent generalization of a model due to Zwanzig. These
+models are then extended to field theories and the generation of multiplicative
+noise in such a context is discussed. Important issues in both the cosmological
+and field theoretic cases are the fluctuation-dissipation relations and the
+relaxation time scale. Of some importance in cosmology is the fact that
+multiplicative noise can substantially reduce the relaxation time. In the field
+theoretic context such a noise can lead to a significant enhancement in the
+nucleation rate of topological defects.
+","[{""version"":""v1"",""created"":""Sat, 21 Aug 1993 03:46:45 GMT""}]","2009-10-22"
+"hep-ph/9308307","Alex Krasnitz","A. Krasnitz and R. Potting","Sphaleron transitions in a realistic heat bath","13 pages, LATeX + 3 figures included as postscript files, to be
+  encapsulated using epsf. Also available as a compressed postscript file by
+  anonymous ftp from maggia.ethz.ch (login ftp, pw ftp; then: cd pub, binary,
+  get sphb.ps.Z). IPS Research Report No. 93-10","Phys.Lett. B318 (1993) 492-500","10.1016/0370-2693(93)91545-X",,"hep-ph hep-lat hep-th",,"  We measure the diffusion rate of Chern-Simons number in the (1+1)-dimensional
+Abelian Higgs model interacting with a realistic heat bath for temperatures
+between 1/13 and 1/3 times the sphaleron energy. It is found that the measured
+rate is close to that predicted by one-loop calculation at the lower end of the
+temperature range considered but falls at least an orderof magnitude short of
+one-loop estimate at the upper end of that range. We show numerically that the
+sphaleron approximation breaks down as soon as the gauge-invariant two-point
+function yields correlation length close to the sphaleron size.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 16:27:00 GMT""},{""version"":""v2"",""created"":""Sat, 21 Aug 1993 17:59:05 GMT""}]","2009-10-22"
+"hep-ph/9308310","Juergen Baacke","J. Baacke and S. Junker (Dortmund University)","Quantum Fluctuations around the Electroweak Sphaleron","DO-TH-93/19 39 pages, 5 figures (available on request as Postscript
+  files or via Fax or mail), LaTeX, no macros needed","Phys.Rev. D49 (1994) 2055-2073","10.1103/PhysRevD.49.2055",,"hep-ph",,"  We present an analysis of the quantum fluctuations around the electroweak
+sphaleron and calculate the associated determinant which gives the 1--loop
+correction to the sphaleron transition rate. The calculation differs in various
+technical aspects from a previous analysis by Carson et al. so that it can be
+considered as independent. The numerical results differ also -- by several
+orders of magnitude -- from those of this previous analysis; we find that the
+sphaleron transition rate is much less suppressed than found previously.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 17:21:59 GMT""}]","2009-10-22"
+"hep-ph/9308311","W. S. Hou","George Wei-Shu Hou","Searching for $t\to ch^0$ or $h^0\to t\bar c$ at $e^+e^-$ Linear
+  Colliders","4 pages, LaTex, NTUTH-93-12",,,,"hep-ph",,"  Talk presented at 2nd International Workshop on Physics and Experiments with
+Linear $e^+e^-$ Colliders (Hawaii, April 1993).
+","[{""version"":""v1"",""created"":""Sat, 21 Aug 1993 06:46:13 GMT""}]","2007-05-23"
+"hep-ph/9308312","W. S. Hou","Wei-Shu Hou and Gwo-Guang Wong","Experimental and Theoretical Implications of New Sequential Leptons","23 pages (RevTex), 2 figures (not included), NTUTH-93-10","Phys.Rev. D49 (1994) 3643-3649","10.1103/PhysRevD.49.3643",,"hep-ph",,"  If new sequential leptons $E^\pm$ and $N^0$ exist, the LEP bound implies
+$m_E$, $m_N > M_Z/2$. The heaviness of the neutral lepton breaks away from the
+pattern of the first three generations. The minimal model is to have 4
+left-handed lepton doublets and 4 right-handed charged lepton singlets, but
+only one right-handed neutral lepton singlet. Since in general the 3rd and 4th
+generation should mix, and since $\vert m_N - m_E\vert$ should not be too
+large, neither $E$ nor $N$ would be stable, and both tend to decay via the
+Cabibbo suppressed $E\to \nu_\tau$ or $N\to \tau$ charged currents. This leads
+to the interesting signature of like-sign $W$ pair production via $E^+N \to
+\bar\nu_\tau\tau^- W^+W^+$ at the SSC and LHC. The popular seesaw mechanism
+cannot plausibly accommodate the near masslessness of the light neutrinos and
+the heaviness of $N^0$ simultaneously. The representation structure poses a
+difficulty to the traditional approach of $SO(10)$-based grand unified
+theories. The discovery of such new heavy leptons would thus have rather wide
+ranging and far reaching implications.
+","[{""version"":""v1"",""created"":""Sat, 21 Aug 1993 09:52:26 GMT""}]","2009-10-22"
+"hep-ph/9308313","Mark Sutherland","B. Holdom and M. Sutherland","Simply Modeling B -> K* gamma","9 pages, LaTeX, UTPT-93-22","Phys.Rev. D49 (1994) 2356-2358","10.1103/PhysRevD.49.2356",,"hep-ph",,"  A simple relativistic model of heavy-light mesons is applied to the rare
+decay B -> K* gamma in the standard model. We find Gamma(B -> K* gamma)/Gamma(b
+-> s gamma)=(17 \pm 4)% and BR(B -> K* gamma)=(4.8 \pm 1.9) \times
+10^{-5}(V_cb/.04)^2. These numbers are reduced by only 20% in the heavy-quark
+limit.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 20:36:35 GMT""}]","2009-10-22"
+"hep-ph/9308314","Dey Mira","Jishnu Dey and Mira Dey","Observed Supersymmetry and Parity Doubling of Excited Hadrons from a
+  Simple Spectrum-Generating Algebra","15 pages, IFT perprint-IFT - P0.46/93, Latex, contact address:
+  jdey@ueift1.dnet.nasa.gov","Hadronic J.16:511-524,1993",,,"hep-ph",,"  We find remarkable agreement with the observed excitations of hadrons with a
+simple three parameter mass relation of the SU(3) subgroup of the underlying
+U(15/30) graded Lie group. The baryons are the appropriate supersymmetric
+partners of the mesons. An interesting feature, which is a focus of current
+interest, is that the baryons and isobars show parity doubling. Significantly,
+the ground state baryons and mesons have no place in the fit, so that the
+parity doubling is indicated only when excitation energy is available. This has
+correspondence with the parity doubling seen in recent lattice calculations,
+when thermal excitation is present. The agreement with experiment is comparable
+to the semi-relativistic quark model which fits with many force parameters and
+where the observed parity doubling is accidental. The gross splitting of the
+levels is the same for the strange and the non-strange sectors, suggesting
+flavour independence.
+","[{""version"":""v1"",""created"":""Sat, 21 Aug 1993 08:25:41 GMT""}]","2010-11-01"
+"hep-ph/9308315","Mariano Quiros","J.R. Espinosa, J.M. Moreno and M. Quir\'os","On the Spontaneous CP Breaking in the Higgs Sector of the Minimal
+  Supersymmetric Standard Model","9 pages, LATEX, 3 appended postscript figures, IEM-FT-76/93","Phys.Lett.B319:505-512,1993","10.1016/0370-2693(93)91758-F",,"hep-ph",,"  We revise a recently proposed mechanism for spontaneous CP breaking at finite
+temperature in the Higgs sector of the Minimal Supersymmetric Standard Model,
+based on the contribution of squarks, charginos and neutralinos to the one-loop
+effective potential. We have included plasma effects for all bosons and added
+the contribution of neutral scalar and charged Higgses. While the former have
+little effect, the latter provides very strong extra constraints on the
+parameter space and change drastically the previous results. We find that CP
+can be spontaneously broken at the critical temperature of the electroweak
+phase transition without any fine-tuning in the parameter space.
+","[{""version"":""v1"",""created"":""Sat, 21 Aug 1993 15:30:17 GMT""}]","2010-11-01"
+"hep-th/9308098",,"Z.Hasiewicz and P.Siemion","Chiral Splitting at Work","pp 7, KUL-TF-93/36",,,,"hep-th",,"  Second-order equations of motion on a group manifold that appear in a large
+class of so-called chiral theories are presented. These equations are presented
+and explicitely solved for cases of semi-simple, finite-dimensional Lie groups.
+With three figures avaliable from the authors upon request.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 16:37:51 GMT""}]","2007-05-23"
+"hep-th/9308099","Herbert W. Hamber","Herbert W. Hamber (UC Irvine) and Ruth M. Williams (DAMTP, Cambridge)","Simplicial Gravity Coupled to Scalar Matter","(34 pages + 8 figures)","Nucl.Phys. B415 (1994) 463-496","10.1016/0550-3213(94)90119-8",,"hep-th",,"  A model for quantized gravity coupled to matter in the form of a single
+scalar field is investigated in four dimensions. For the metric degrees of
+freedom we employ Regge's simplicial discretization, with the scalar fields
+defined at the vertices of the four-simplices. We examine how the continuous
+phase transition found earlier, separating the smooth from the rough phase of
+quantized gravity, is influenced by the presence of scalar matter. A
+determination of the critical exponents seems to indicate that the effects of
+matter are rather small, unless the number of scalar flavors is large. Close to
+the critical point where the average curvature approaches zero, the coupling of
+matter to gravity is found to be weak. The nature of the phase diagram and the
+values for the critical exponents suggest that gravitational interactions
+increase with distance. \vspace{24pt} \vfill
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 18:09:25 GMT""}]","2009-10-22"
+"hep-th/9308101","Jean-Philippe Brunet","Carlos Castro (I.A.E.C 1407 Alegria, Austin, Texas USA)","The KP Equation from Plebanski and $SU(\infty)$ Self-Dual Yang-Mills","10 pages, IAEC 7-93R",,,,"hep-th",,"  Starting from a self-dual $SU(\infty)$ Yang-Mills theory in $(2+2)$
+dimensions, the Plebanski second heavenly equation is obtained after a suitable
+dimensional reduction. The self-dual gravitational background is the cotangent
+space of the internal two-dimensional Riemannian surface required in the
+formulation of $SU(\infty)$ Yang-Mills theory. A subsequent dimensional
+reduction leads to the KP equation in $(1+2)$ dimensions after the relationship
+from the Plebanski second heavenly function, $\Omega$, to the KP function, $u$,
+is obtained. Also a complexified KP equation is found when a different
+dimensional reduction scheme is performed . Such relationship between $\Omega$
+and $u$ is based on the correspondence between the $SL(2,R)$ self-duality
+conditions in $(3+3)$ dimensions of Das, Khviengia, Sezgin (DKS) and the ones
+of $SU(\infty)$ in $(2+2)$ dimensions . The generalization to the
+Supersymmetric KP equation should be straightforward by extending the
+construction of the bosonic case to the previous Super-Plebanski equation,
+found by us in [1], yielding self-dual supergravity backgrounds in terms of the
+light-cone chiral superfield, $\Theta$, which is the supersymmetric analog of
+$\Omega$. The most important consequence of this Plebanski-KP correspondence is
+that $W$ gravity can be seen as the gauge theory of $\phi$-diffeomorphisms in
+the space of dimensionally-reduced $D=2+2,~SU^*(\infty)$ Yang-Mills instantons.
+These $\phi$ diffeomorphisms preserve a volume-three-form and are, precisely,
+the ones which provide the Plebanski-KP correspondence.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 22:04:48 GMT""}]","2007-05-23"
+"hep-th/9308102","Jean-Philippe Brunet","Yang-Mills Instantons Carlos Castro (I.A.E.C 1407 Alegria, Austin,
+  Texas Usa)","W Gravity, $N=2$ Strings and $ 2+2~SU^*(\infty)$","10 pages","J.Math.Phys. 35 (1994) 3013-3024","10.1063/1.530500","IAEC 8-93","hep-th",,"  We conjecture that $W$ gravity can be interpreted as the gauge theory of
+$\phi$ diffeomorphisms in the space of dimensionally-reduced $D=2+2$
+$SU^*(\infty)$ Yang-Mills instantons. These $\phi$ diffeomorphisms preserve a
+volume-three form and are those which furnish the correspondence between the
+dimensionally-reduced Plebanski equation and the KP equation in $(1+2)$
+dimensions. A supersymmetric extension furnishes super-$W$ gravity. The
+Super-Plebanski equation generates self-dual complexified super gravitational
+backgrounds (SDSG) in terms of the super-Plebanski second heavenly form. Since
+the latter equation yields $N=1~D=4~SDSG$ complexified backgrounds associated
+with the complexified-cotangent space of the Riemannian surface,
+$(T^*\Sigma)^c$, required in the formulation of $SU^*(\infty)$ complexified
+Self-Dual Yang-Mills theory, (SDYM ); it naturally follows that the recently
+constructed $D=2+2~N=4$ SDSYM theory- as the consistent background of the open
+$N=2$ superstring- can be embedded into the $N=1~SU^*(\infty)$ complexified
+Self-Dual-Super-Yang-Mills (SDSYM) in $D=3+3$ dimensions. This is achieved
+after using a generalization of self-duality for $D>4$. We finally comment on
+the the plausible relationship between the geometry of $N=2$ strings and the
+moduli of $SU^*(\infty)$ complexified SDSYM in $3+3$ dimensions.
+","[{""version"":""v1"",""created"":""Fri, 20 Aug 1993 22:13:40 GMT""}]","2009-10-22"
+"hep-th/9308103","Salman Habib","Francis J. Alexander, Salman Habib, and Alex Kovner","Statistical Mechanics of Kinks in (1+1)-Dimensions: Numerical
+  Simulations and Double Gaussian Approximation","28 pages (8 Figures not included, hard-copies available), Latex,
+  LA-UR-93-2765","Phys.Rev. E48 (1993) 4284-4296","10.1103/PhysRevE.48.4284",,"hep-th cond-mat",,"  We investigate the thermal equilibrium properties of kinks in a classical
+$\F^4$ field theory in $1+1$ dimensions. From large scale Langevin simulations
+we identify the temperature below which a dilute gas description of kinks is
+valid. The standard dilute gas/WKB description is shown to be remarkably
+accurate below this temperature. At higher, ``intermediate'' temperatures,
+where kinks still exist, this description breaks down. By introducing a double
+Gaussian variational ansatz for the eigenfunctions of the statistical transfer
+operator for the system, we are able to study this region analytically. In
+particular, our predictions for the number of kinks and the correlation length
+are in agreement with the simulations. The double Gaussian prediction for the
+characteristic temperature at which the kink description ultimately breaks down
+is also in accord with the simulations. We also analytically calculate the
+internal energy and demonstrate that the peak in the specific heat near the
+kink characteristic temperature is indeed due to kinks. In the neighborhood of
+this temperature there appears to be an intricate energy sharing mechanism
+operating between nonlinear phonons and kinks.
+","[{""version"":""v1"",""created"":""Sat, 21 Aug 1993 04:13:27 GMT""}]","2009-10-22"
+"hep-th/9308104",,"Kazuo Ghoroku","An approach to quantum gravity from 4-$\epsilon$ dimension","36 pages","Nucl.Phys. B412 (1994) 415-440","10.1016/0550-3213(94)90510-X",,"hep-th",,"  A calculational scheme of quantum-gravitational effects on the physical
+quantities is proposed. The calculations are performed in 4-$\epsilon$
+dimension with $1/N$-expansion scheme, where the Einstein gravity is
+renormalizable and it has an ultraviolet fixed-point within the 1/N-expansion.
+In order to perform a consistent perturbation in $4-\epsilon$ dimension,
+spin-3/2 fields should be adopted as the N matter-fields whose loop-corrections
+are included in the effective action. After calculating the physical quantities
+at $4-\epsilon$ dimension, the four-dimensional aspects of them can be seen by
+taking the limit of $\epsilon=0$. In taking this limit, any higher derivative
+terms are not introduced as the counter terms since no divergence appears at
+$\epsilon=0$ in our scheme. According to this approach, we have examined the
+effective potential of a scalar field to see the possibility of the spontaneous
+symmetry breaking due to the gravitational loop corrections.
+","[{""version"":""v1"",""created"":""Sat, 21 Aug 1993 15:15:10 GMT""}]","2009-10-22"

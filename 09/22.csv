@@ -1,0 +1,279 @@
+"astro-ph/9309032","Biswarup Banerjee","B.Banerjee and R. V. Gavai","Supercooling and Nucleation in Phase Transitions of the Early Universe -","10 pages, REVTEX 3.0, TIFR-TH-93-42","Mod.Phys.Lett. A11 (1996) 615-622","10.1142/S0217732396000631",,"astro-ph hep-ph",,"  The three phase transitions - the GUT, the electro-weak and the quark-hadron,
+which the universe is assumed to have undergone produce very important physical
+effects if they are assumed to be of first order. It is also important that
+enough supercooling is produced at these transitions so that the rate of
+nucleation of the lower temperature phase out of the higher temperature phase
+is large.
+  We argue on the basis of finite-size scaling theory that for the quark-hadron
+and the electro-weak transitions the universe does nor supercool enough to
+produce sizeable nucleation rates. Only for the GUT transition nucleation
+probability seems to be significant.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 16:20:36 GMT""}]","2015-06-24"
+"astro-ph/9309033","Nick Kaiser","Nick Kaiser","Testing Models for Structure Formation","8 pages, latex, CITA/93/40 proc. 9th IAP meeting ""Peculiar Velocity
+  Fields"", July, 93. ps file inc figs by anon ftp at ftp.cita.utoronto.ca in
+  /ftp/cita/nick/iap.ps",,,,"astro-ph hep-ph",,"  I review a number of tests of theories for structure formation. Large-scale
+flows and IRAS galaxies indicate a high density parameter $\Omega \simeq 1$, in
+accord with inflationary predictions, but it is not clear how this meshes with
+the uniformly low values obtained from virial analysis on scales $\sim$ 1Mpc.
+Gravitational distortion of faint galaxies behind clusters allows one to
+construct maps of the mass surface density, and this should shed some light on
+the large vs small-scale $\Omega$ discrepancy. Power spectrum analysis reveals
+too red a spectrum (compared to standard CDM) on scales $\lambda \sim 10-100$
+$h^{-1}$Mpc, but the gaussian fluctuation hypothesis appears to be in good
+shape. These results suggest that the problem for CDM lies not in the very
+early universe --- the inflationary predictions of $\Omega = 1$ and gaussianity
+both seem to be OK; furthermore, the COBE result severely restricts
+modifications such as tilting the primordial spectrum --- but in the assumed
+matter content. The power spectrum problem can be solved by invoking a cocktail
+of mixed dark matter. However, if gravitational lensing fails to reveal
+extended dark mass around clusters then we may be forced to explore more
+radical possibilities for the dark matter.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 20:37:30 GMT""}]","2007-05-23"
+"cond-mat/9309030",,"E. R. Mucciolo, B. S. Shastry, B. D. Simons, and B. L. Altshuler","Exact Dynamical Correlations of the 1/r^2 Model","29 pages + 11 figures available upon request, REVTeX 3.0,
+  CMT-ERM/93-1",,"10.1103/PhysRevB.49.15197",,"cond-mat",,"  We present exact results for the dynamical structure function, i.e.~the
+density-density correlations for the 1/r^2 system of interacting particles at
+three special values of the coupling constant. The results are interpreted in
+terms of exact excitations of the model which are available from Bethe's
+Ansatz, thereby throwing light on the quasi-particle content of the elementary
+excitations. We also obtain the first moment of the discrete version of the
+model, which provides a non-trivial check on its structure function. We show
+that the property of spectrum saturation is a common feature of both versions.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 19:01:38 GMT""}]","2016-08-31"
+"cond-mat/9309031","William Putikka","W. O. Putikka, R. L. Glenister, R. R. P. Singh and H. Tsunetsugu","Evidence for Spin-Charge Separation in the Two-Dimensional T-J Model","11 pages, RevTex 3.0, 8 postscript figures appended, NHMFL-93-988",,"10.1103/PhysRevLett.73.170",,"cond-mat",,"  We have calculated high temperature expansions for the momentum distribution
+function $n_{\scriptscriptstyle\bf k}$ and the equal time spin and density
+correlation functions $S({\bf q})$ and $N({\bf q})$ of the two-dimensional
+$t$-$J$ model. On extrapolation to low temperatures we find that
+$n_{\scriptscriptstyle\bf k}$ has a step-like feature at ${\bf
+k}_{\scriptscriptstyle F}$ and $S({\bf q})$ has $2{\bf k}_{\scriptscriptstyle
+F}$ as a characteristic wavevector, whereas $N({\bf q})$ has $2{\bf
+k}_{\scriptscriptstyle F}^{\scriptscriptstyle SF}$ as a characteristic
+wavevector. Here ${\bf k}_{\scriptscriptstyle F}$ and ${\bf
+k}_{\scriptscriptstyle F}^{\scriptscriptstyle SF}$ are the Fermi wavevectors of
+the nearest-neighbor square lattice tight-binding and spinless fermion models,
+respectively. By comparison to the known results for one dimension this
+suggests spin-charge separation in the two-dimensional $t$-$J$ model.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 23:38:00 GMT""}]","2009-10-22"
+"cond-mat/9309032","T. Poeschel","Volkhard Buchholtz and Thorsten Poeschel","Numerical Investigation of the Evolution of Sandpiles","13 pages, LaTeX, HLRZ 56/93","Physica A, Vol. 202, 390 (1994)","10.1016/0378-4371(94)90467-7",,"cond-mat adap-org nlin.AO",,"  The evolution of a pile of granular material is investigated by molecular
+dynamics using a new model including nonsphericity of the particles instead of
+introducing static friction terms. The angle of repose of the piles as well as
+the avalanche statistics gathered by the simulation agree with experimental
+results. The angle of repose of the pile is determined by the shape of the
+grains. Our results are compared with simulations using spherical grains and
+static friction.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 09:43:50 GMT""}]","2009-10-22"
+"cond-mat/9309033",,"Kasper Juel Eriksen and Per Hedeg{\aa}rd (Niels Bohr Institute,
+  Copenhagen)","Classical theory of the Hall-effect in an inhomogeneous magnetic field","17 pages, revtex v. 3.0, + 2 epic-style figures",,,,"cond-mat",,"  Inspired by recent experiments by Geim et al. we discuss the classical theory
+of the Hall effect of a 2 dimensional electron gas in an inhomogeneous magnetic
+field. The field modulation is in the form of flux tubes created by a
+superconductor overlayer. We find that an approach, where the vortices are
+treated as individual scatterers contributing to the collision term in the
+Boltzman equation will not work --- it leads to a vanishing Hall constant at
+$T=0$. If the field is treated as a smooth contribution to the driving term in
+the Boltzman equation, the classical Hall constant emerges, in agreement with
+experiments when the Fermi wavelength is short in comparison with all other
+lengths in the problem.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 09:52:55 GMT""}]","2016-08-14"
+"cond-mat/9309034","Jeong Hawoong","H.Jeong, B.Kahng, D.Kim","Avalanche size distribution in the Toom interface","16pages, latex, SNUTP 93-70",,,,"cond-mat",,"  We present numerical data of the height-height correlation function and of
+the avalanche size distribution for the three dimensional Toom interface. The
+height-height correlation function behaves samely as the interfacial
+fluctuation width, which diverges logarithmically with space and time for both
+unbiased and biased cases. The avalanche size defined by the number of changing
+sites caused by a single noise process, exhibits an exponentially decaying
+distribution, which is in contrast to power-law distributions appearing in
+typical self-organized critical phenomena. We also generalize the Toom model
+into arbitrary dimensions.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 10:36:08 GMT""}]","2007-05-23"
+"hep-lat/9309014","Haruto Hirose","S. Aoki and H. Hirose","Perturbative analysis for Kaplan's lattice chiral fermions","25 page, 5 PostScript figures, [some changes in the conclusion]","Phys.Rev. D49 (1994) 2604-2615","10.1103/PhysRevD.49.2604","UTHEP-262","hep-lat hep-th",,"  Perturbation theory for lattice fermions with domain wall mass terms is
+developed and is applied to investigate the chiral Schwinger model formulated
+on the lattice by Kaplan's method. We calculate the effective action for gauge
+fields to one loop, and find that it contains a longitudinal component even for
+anomaly-free cases. From the effective action we obtain gauge anomalies and
+Chern-Simons current without ambiguity. We also show that the current
+corresponding to the fermion number has a non-zero divergence and it flows off
+the wall into the extra dimension. Similar results are obtained for a proposal
+by Shamir, who used a constant mass term with free boundaries instead of domain
+walls.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 01:11:10 GMT""},{""version"":""v2"",""created"":""Fri, 24 Sep 1993 05:36:40 GMT""}]","2009-10-22"
+"hep-ph/9309304","Jose Ramon","J.R.Espinosa","Calculating the Bound on the Light Higgs Mass in General SUSY Models","(Talk given at the XVI Kazimierz Meeting on Elementary Particles,
+  24-28 May 1993, Kazimierz (Poland).), 4 pages, LATEX, (PS-files appended at
+  the end), IEM-FT-79/93",,,,"hep-ph",,"  In the Minimal Supersymmetric Standard Model (MSSM) the existence of an upper
+bound on the mass of the $CP=+1$ lightest Higgs boson, equal to $m_Z$ at
+tree--level and $\simlt 120\ GeV$ after the inclusion of radiative corrections,
+has important phenomenological consequences for Higgs searches. A similar
+bound, independent of mass parameters other than the electroweak scale, can be
+calculated in supersymmetric models with an extended Higgs sector. In models
+with arbitrary Higgs sectors perturbative up to $10^{16}\ GeV$, we find,
+including radiative corrections, $m_h \simlt 155\ GeV$ for $m_t \simlt 190\
+GeV$.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 16:02:05 GMT""}]","2007-05-23"
+"hep-ph/9309306","Judy Mack","Ashok Das and V. S. Mathur","More on Symmetries in Heavy Quark Effective Theory","15 pages, preprint UR-1320, ER40685-770","Phys.Rev. D49 (1994) 2508-2513","10.1103/PhysRevD.49.2508",,"hep-ph",,"  We present a general classification of all normal and ``chiral"" symmetries of
+heavy quark effective theories. Some peculiarities and conondrums associated
+with the ``chiral"" symmetries are discussed.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 19:26:00 GMT""}]","2009-10-22"
+"hep-ph/9309307",,"Jonathan L. Rosner and Mihir P. Worah (Enrico Fermi Institute and
+  Department of Physics, University of Chicago) and Tatsu Takeuchi (Fermilab)","Oblique Corrections To The W Width","15 pages (LaTeX), one PostScript figure not included (available upon
+  request)","Phys.Rev. D49 (1994) 1363-1369","10.1103/PhysRevD.49.1363","EFI 93-40 FERMILAB-PUB-93/247-T","hep-ph",,"  The lowest-order expression for the partial $W$ width to $e \nu ,~\Gamma (W
+\to e \nu) = G_\mu M_W^3 /(6 \pi \sqrt{2})$, has no oblique radiative
+corrections from new physics if the measured $W$ mass is used. Here $G_\mu =
+(1.16639 \pm 0.00002) \times 10^{-5}$ GeV/$c^2$ is the muon decay constant. For
+the present value of $M_W = (80.14 \pm 0.27)$ GeV/$c^2$, and with $m_t = 140$
+GeV$/c^2$, one expects $\Gamma (W \to e \nu) = (224.4 \pm 2.3)$ MeV. The total
+width $\Gamma_{\rm tot}(W)$ is also expected to lack oblique corrections from
+new physics, so that $\Gamma_{\rm tot} (W)/ \Gamma (W \to e \nu) = 3 + 6 [1 +
+\{\alpha_s (M_W)/\pi \}]$. Present data are consistent with this prediction.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 20:02:25 GMT""}]","2009-10-22"
+"hep-ph/9309308","Terry Goldman","G. J. Stephenson Jr. and T. Goldman","Observable Consequences of a Scalar Boson Coupled only to Neutrinos","15 pages, LaTeX, 2 figures in uuencoded, compressed format, Los
+  Alamos preprint LA-UR-93-3348",,,,"hep-ph astro-ph nucl-th",,"  We have examined the consequences of assuming the existence of a light scalar
+boson, weakly coupled to neutrinos, and not coupled to any other light
+fermions. For a range of parameters, we find that this hypothesis leads to the
+development of neutrino clusters which form in the early Universe and which
+provide gravitational fluctuations on scales small compared to a parsec (i.e.,
+the scale of solar systems). The existence of such clustering produces an
+effect which would appear as a negative mass squared for the electron neutrino
+in Tritium beta decay, without conflicting with other experiments. The neutrino
+masses arising in unified gauge theories would then be very much larger than
+the masses extracted from experiments within the solar system.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 20:44:42 GMT""}]","2007-05-23"
+"hep-ph/9309309",,"Christopher T. Hill","B--Physics in Hadron Colliders","Fermilab-Pub-93/256-T, 23 pages, Latex file, (171 blocks) 3 figures
+  (charm.eps, beaut.eps, phase.eps)",,"10.1142/9789814503785_0006",,"hep-ph",,"  The possibility of exploring the systematics of the spectroscopy, strong
+dynamics, and the weak and rare decay modes of b--quark systems at hadron
+colliders such as Fermilab, LHC and SSC, is discussed. A copious yield of
+$10^{10}$ detected $B$--mesons is readily accessible in a dedicated Fermilab
+program, and implies a vast array of accessible decay modes, including second
+order weak processes and $CP$--violation, which will be unavailable elsewhere
+until the commissioning of LHC or SSC. Kinematic and flavor tagging, utilizing
+the ``daughter pions'' from resonances, is expected to play a major role in
+semileptonic weak decay studies and the search for $CP$--violation. Plenary
+talk, Workshop on $B$ Physics at Hadron Accelerators, Snowmass, Colorado, June
+25, 1993; Invited Lecture, TASI, Boulder, Colorado, June 18, 1993.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 21:32:55 GMT""}]","2016-10-26"
+"hep-ph/9309310",,"Sacha Davidson, David Bailey, Bruce A. Campbell","Model independent constraints on leptoquarks from rare processes","39 pages, CfPA 93-th-29","Z.Phys.C61:613-644,1994","10.1007/BF01552629",,"hep-ph",,"  We present model independent constraints on the masses and couplings to
+fermions of $B$ and $L$ conserving leptoquarks. Such vector or scalar particles
+could have masses below 100 GeV and be produced at HERA; we list the generation
+dependent bounds that can be calculated from rare lepton and meson decays,
+meson-anti-meson mixing and various electroweak tests. PLEASE NOTE: this file
+does not contain tables and figures, so is not very useful. Complete paper
+available (by mail) from sacha@physics.berkeley.edu.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 00:00:43 GMT""}]","2008-11-26"
+"hep-ph/9309311","Liu Dongsheng","Dongsheng Liu","QCD improved estimates to rare B-Decays at the heavy b-quark limit","15, IC/93/323",,,,"hep-ph",,"  The renormalization effects from the b-quark scale down to the
+non-perturbative QCD regime are studied for rare $B$-decays at the heavy
+b-quark limit. Phenomenological consequences of these effects are investigated.
+We find that the anomalous scaling behavior plays a positive role in making
+non-perturbative model calculations consistent with recent CLEO measurements of
+$B\rightarrow K^* \gamma .$
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 15:33:29 GMT""}]","2007-05-23"
+"hep-th/9309112",,"Ph. Blanchard and A. Jadczyk","Strongly Coupled Quantum and Classical Systems and Zeno's Effect","9 pages",,"10.1016/0375-9601(93)90454-8",,"hep-th",,"  A model interaction between a two-state quantum system and a classical
+switching device is analysed and shown to lead to the quantum Zeno effect for
+large values of the coupling constant k . A minimal piecewise deterministic
+random process compatible with the Liouville equation is described, and it is
+shown that 1/k can be interpreted as the jump frequency of the classical device
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 18:38:26 GMT""}]","2009-10-22"
+"hep-th/9309113",,"Ph. Blanchard and A. Jadczyk","Classical and Quantum Intertwine","12 pages",,,,"hep-th",,"  Model interactions between classical and quantum systems are briefly
+discussed. These include: general measurement-like couplings, Stern-Gerlach
+experiment, model of a counter, quantum Zeno effect, SQUID-tank model.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 18:49:31 GMT""}]","2007-05-23"
+"hep-th/9309114","Massimo Porrati","Massimo Porrati","Open Strings in Constant Electric and Magnetic Fields","11 pages, LaTeX file, NYU-TH-93/09/06",,,,"hep-th",,"  Various properties of open strings in external constant E.M. fields are
+reviewed. In particular, the charged-particle pair production rate in an
+external electric field is evaluated, and shown to reduce to Schwinger's
+formula in the limit of low-intensity fields. Open strings in external magnetic
+fields are shown to undergo an infinite number of phase transitions as the
+strenght of the field increases. (Talk given at the conference ``Strings '93'',
+Berkeley, CA, (May 24-29, 1993) to appear in the proceedings.)
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 18:59:57 GMT""}]","2007-05-23"
+"hep-th/9309115","Miao Li","Antal Jevicki","Developments in 2D String Theory","45 pages, Brown HET918, (Phyzzx)",,"10.1142/9789814447072_0004",,"hep-th",,"  Lectures presented at the Spring School, Trieste, Italy 1993.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 20:33:53 GMT""}]","2016-11-03"
+"hep-th/9309116","Evan Reidell","Denise E. Freed","Reparametrization Invariance in Some Non-Local 1-D Field Theories","42 pages in Plain TeX (needs harvmac and epsf), uuencoded figures to
+  be sent using ""figures"" command, MIT-CTP-2241","Nucl.Phys.B424:628-674,1994","10.1016/0550-3213(94)90412-X",,"hep-th",,"  In this paper we consider 1-D non-local field theories with a particular
+$1/r^2$ interaction, a constant gauge field and an arbitrary scalar potential.
+We show that any such theory that is at a renormalization group fixed point
+also satisfies an infinite set of reparametrization invariance Ward identities.
+We also prove that, for special values of the gauge field, the value of the
+potential that satisfies the Ward identities to first order in the potential
+strength remains a solution to all orders in the potential strength, summed
+over all loops. These theories are of interest because they describe
+dissipative quantum mechanics with an arbitrary potential and a constant
+magnetic field. They also give solutions to open string theory in the presence
+of a uniform gauge field and an arbitrary tachyon field.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 01:30:51 GMT""},{""version"":""v2"",""created"":""Wed, 20 Oct 1993 09:07:50 GMT""}]","2010-11-01"
+"hep-th/9309117","Itoyama","H. Itoyama and T. Oota","Sine-Gordon Theory with Higher Spin $N=2$ Supersymmetry and the Massless
+  Limit","31 pages, Latex","Nucl.Phys.B419:632-646,1994","10.1016/0550-3213(94)90348-4","OU-HET-182","hep-th",,"  The Sine-Gordon theory at $\frac{\beta^{2}}{8\pi} = \frac{2}{(2n+3)},\; n=
+1,2,3 \cdots $ has a higher spin generalization of the $N=2$ supersymmetry with
+the central terms which arises from the affine quantum group $U_{q}( \hat{s
+\ell} (2))$. Observing that the algebraic determination of $S$ matrices $(
+\approx {\rm quantum~ integrability })$ requires the saturation of the
+generalized Bogomolny bound, we construct a variant of the Sine-Gordon theory
+at this value of the coupling in the framework of $S$ matrix theory. The
+spectrum consists of a doublet of fractionally charged solitons as well as that
+of anti-solitons in addition to the ordinary breathers. The construction
+demonstrates the existence of the theory other than the one by the truncation
+to the breathers considered by Smirnov. The allowed values for the fractional
+part of the fermion number is also determined. The central charge in the
+massless limit is found to be $c= 1$ from the TBA calculation for nondiagonal S
+matrices. The attendant $c=1$ conformal field theory is the gaussian model with
+${\bf Z_{2}}$ graded chiral algebra at the radius parameter $r= \sqrt{2n+3}$.
+In the course of the calculation, we find $4n+2$ zero modes from the
+(anti-)soliton distributions.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 06:14:49 GMT""}]","2016-09-06"
+"hep-th/9309118","Tetsuji Miwa","M. Jimbo, T. Kojima, T. Miwa and Y.-H. Quano","Smirnov's Integrals and Quantum Knizhnik-Zamolodchikov Equation of Level
+  $0$","19 pages","J.Phys. A27 (1994) 3267-3284","10.1088/0305-4470/27/9/036","RIMS-945","hep-th",,"  We study the quantum Knizhnik-Zamolodchikov equation of level $0$ associated
+with the spin $1/2$ representation of $U_q \bigl(\widehat{\frak s \frak l
+_{2}}\bigr)$. We find an integral formula for solutions in the case of an
+arbitrary total spin and $|q|<1$. In the formula, different solutions can be
+obtained by taking different integral kernels with the cycle of integration
+being fixed.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 07:30:45 GMT""},{""version"":""v2"",""created"":""Thu, 23 Sep 1993 07:06:11 GMT""},{""version"":""v3"",""created"":""Mon, 4 Oct 1993 01:49:13 GMT""}]","2009-10-22"
+"hep-th/9309119","Alexios Polychronakos","J. A. Minahan and A. P. Polychronakos","Classical Solutions for Two Dimensional QCD on the Sphere","26 pages, CERN-TH-7016, UVA-HET-93-08","Nucl.Phys.B422:172-194,1994","10.1016/0550-3213(94)00153-7",,"hep-th",,"  We consider $U(N)$ and $SU(N)$ gauge theory on the sphere. We express the
+problem in terms of a matrix element of $N$ free fermions on a circle. This
+allows us to find an alternative way to show Witten's result that the partition
+function is a sum over classical saddle points. We then show how the phase
+transition of Douglas and Kazakov occurs from this point of view. By
+generalizing the work of Douglas and Kazakov, we find other `stringy' solutions
+for the $U(N)$ case in the large $N$ limit. Each solution is described by a net
+$U(1)$ charge. We derive a relation for the maximum charge for a given area and
+we also describe the critical behavior for these new solutions. Finally, we
+describe solutions for lattice $SU(N)$ which are in a sense dual to the
+continuum $U(N)$ solutions. (Parts of this paper were presented at the Strings
+'93 Workshop, Berkeley, May 1993.)
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 10:34:38 GMT""}]","2010-11-01"
+"hep-th/9309120",,"M. Chaichian, R. Gonzales Felipe, C. Montonen","On the Class of Possible Nonlocal Anyon-Like Operators and Quantum
+  Groups","10 pages (plain latex), HU-SEFT R 1993-9, to be published in Journal
+  of Physics A: Math. and General, Letters to the Editor","J.Phys.A26:L1117-L1124,1993","10.1088/0305-4470/26/21/003",,"hep-th",,"  We find a class of nonlocal operators constructed by attaching a disorder
+operator to fermionic degrees of freedom, which can be used to generate
+q-deformed algebras following the Schwinger approach. This class includes the
+recently proposed anyonic operators defined on a lattice.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 10:41:12 GMT""}]","2011-07-19"
+"hep-th/9309121","Takahiro Fukui","T. Fukui","Self-Similar Potentials and q-Coherent States","9 pages, Revtex, preprint YITP/K-1034",,"10.1016/0375-9601(94)90808-7",,"hep-th",,"  The self-similar potentials are formulated in terms of the shape-invariance.
+Based on it, a coherent state associated with the shape-invariant potentials is
+calculated in case of the self-similar potentials. It is shown that it reduces
+to the q-deformed coherent state.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 11:34:18 GMT""}]","2009-10-22"
+"hep-th/9309122",,"M. Chaichian, J. L. Lucio M., C. Montonen, H. Perez Rojas, M. Vargas","Renormalization in Quantum Statistics of Systems with Spontaneous
+  Symmetry Breaking","7 pages (plain TeX), HU-SEFT R 1993-8. (Offending bold greek removed)","Phys.Lett. B342 (1995) 206-211","10.1016/0370-2693(94)01263-C",,"hep-th",,"  Renormalization in quantum statistics in the presence of a charge associated
+to a spontaneously broken symmetry is discussed for the scalar field model. In
+contrast to the case of non-broken symmetry, the renormalization mass
+counterterm depends on the chemical potential. We argue that this is connected
+to the ill-defined character of the charge operator.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 12:45:36 GMT""},{""version"":""v2"",""created"":""Thu, 23 Sep 1993 08:20:48 GMT""}]","2009-10-22"
+"hep-th/9309123","Wei Chen","Wei Chen (UNC-CH) and Chigak Itoi (Nihon U)","Equivalence of Several Chern-Simons Matter Models","latex, 7page, IFT-478-UNC/NUP-A-93-15 A version within the length
+  limit for Phys. Rev. Letts (in press)","Phys.Rev.Lett. 72 (1994) 2527-2530","10.1103/PhysRevLett.72.2527",,"hep-th cond-mat hep-ph",,"  Not only does Chern-Simons (CS) coupling characterize statistics, but also
+spin and scaling dimension of matter fields. We demonstrate spin transmutation
+in relativistic CS matter theory, and moreover show equivalence of several
+models. We study CS vector model in some details, which provide consistent
+check to the assertion of the equivalence.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 13:03:41 GMT""},{""version"":""v2"",""created"":""Wed, 30 Mar 1994 14:33:43 GMT""}]","2009-10-22"
+"math/9309212","Doron Zeilberger","Dominique Foata (University of Strasbourg) and Doron Zeilberger
+  (Temple University)","Combinatorial Proofs of Capelli's and Turnbull's Identities from
+  Classical Invariant Theory","Plain TeX","Elec. J. Comb. 1(1994), R1",,,"math.CO",,"  Capelli's and Turnbull's classical identities are given elegant combinatorial
+proofs.
+","[{""version"":""v1"",""created"":""Tue, 21 Sep 1993 20:41:36 GMT""}]","2008-02-03"
+"nucl-th/9309023","Dr. Tom Williams","H. Thomas Williams (Washington and Lee University VA, USA)","Symmetry properties of SU3 vector coupling coefficients","30 pages, LaTeX,WLUPY993",,,,"nucl-th",,"  A presentation of the problem of calculating the vector coupling coefficients
+for $SU3 \supset SU2 \otimes U1$ is made, in the spirit of traditional
+treatments of SU2 coupling. The coefficients are defined as the overlap matrix
+element between product states and a coupled state with good SU3 quantum
+numbers. A technique for resolution of the outer degeneracy problem, based upon
+actions of the infinitesimal generators of SU3 is developed, which
+automatically produces vector coupling coefficients with symmetries under
+exchange of state labels which parallel the familiar symmetries of the SU2
+case. An algorithm for efficient computation of these coefficients is outlined,
+for which an ANSI C code is available.
+","[{""version"":""v1"",""created"":""Wed, 22 Sep 1993 11:44:26 GMT""}]","2007-05-23"

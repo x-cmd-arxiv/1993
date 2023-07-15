@@ -1,0 +1,117 @@
+"astro-ph/9311029","Diego Harari","Vladimir Skarzhinsky, Diego Harari and Ulf Jasper","Quantum Electrodynamics in the Gravitational Field of a Cosmic String","19 pages, plain TeX","Phys.Rev. D49 (1994) 755-762","10.1103/PhysRevD.49.755",,"astro-ph gr-qc",,"  We evaluate the cross section for electron-positron pair production by a
+single high energy photon in the space-time of a static, straight cosmic
+string. Energy and momentum conservation precludes this process in empty
+Minkowski space. It happens around a cosmic string, in spite of the local
+flatness of the metric, as a consequence of the conical structure of space.
+Previous results based on a simplified model with scalar fields are here
+extended to the realistic QED case. Analytic expressions are found in three
+different regimes: near the threshold, at energies much larger than the
+electron rest mass M, and at ultrahigh energies, much larger than $M/\delta$,
+with $\delta$ the string mass per unit length in Planck units.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 19:54:03 GMT""}]","2009-10-22"
+"astro-ph/9311030","There's Always Something...","G. Hinshaw, A. Kogut, K.M. Gorski, A.J. Banday, C.L. Bennett, C.
+  Lineweaver, P. Lubin, G.F. Smoot & E.L. Wright","Limits on Three-Point Correlations in the COBE-DMR First Year Anisotropy
+  Maps","14 pages, 2 figures, uuencoded Postscript, COBE #93-12","Astrophys.J. 431 (1994) 1-5","10.1086/174462",,"astro-ph",,"  We compute the three-point temperature correlation function of the {\it COBE}
+Differential Microwave Radiometer (DMR) first-year sky maps to search for
+non-Gaussian temperature fluctuations. The level of fluctuations seen in the
+computed correlation function are too large to be attributable solely to
+instrument noise. However the fluctuations are consistent with the level
+expected to result from a superposition of instrument noise and sky signal
+arising from a Gaussian power law model of initial fluctuations, with a
+quadrupole normalized amplitude of 17 $\mu$K and a power law spectral index $n
+= 1$. We place limits on the amplitude of intrinsic three-point correlations
+with a variety of predicted functional forms.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 22:28:56 GMT""}]","2009-10-22"
+"hep-ph/9311284","Claudio Parrinello","J. Papavassiliou and C. Parrinello","Gauge invariant top quark form factors from e+ e- experiments","32 pages, 2 uuencoded dvi files, preprint NYU--TH--93/05/02","Phys.Rev.D50:3059-3075,1994","10.1103/PhysRevD.50.3059",,"hep-ph",,"  Motivated by the possibility of experimental determination of top quark form
+factors in upcoming e+ e- experiments, as recently discussed by Atwood and
+Soni, we show at the one loop level that the conventionally defined magnetic
+dipole moment (MDM) form factor of the top quark is gauge dependent, in the
+class of renormalizable ($R_{\xi}$) gauges. We explicitly calculate its gauge
+dependence, which, due to the massiveness of the top quark, turns out to be
+numerically very sizable. We show how to use the S-matrix pinch technique in
+order to define gauge independent form factors. The real and imaginary parts of
+the gauge independent MDM form factor are calculated and their dependence on
+the top quark and Higgs boson masses is discussed. Most noticeably, the
+dependence on the Higgs mass turns out to be stronger than that of the cross
+section as a whole.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 16:39:45 GMT""}]","2010-11-01"
+"hep-ph/9311286","Herbert Dreiner","Herbi Dreiner","Lepton Masses Protect the Primordial Baryogenesis from Spaleron erasure","talk given at the EPS-HEP conference in Marseille, July 1993; based
+  on work done together with Graham Ross; 3 pages of Latex, with conference
+  style file",,,,"hep-ph",,"  This talk is based on work performed with Graham Ross and is a very concise
+summary of our soon to be published paper. Here we present a revision of the
+analysis of sphaleron baryon-number violating processes in the standard model
+including lepton-mass effects. We find the surprising result that a GUT-scale
+matter-asymmetry can survive the $B$ and $L$ violating sphaleron interactions
+even though ($B- L$) is conserved and equals zero for all temperatures. We
+extend the analysis to cover the minimal supersymmetric standard model (MSSM).
+As a new result we present the MSSM analysis below the temperature of
+electroweak breaking and for $B-L=0$ at all temperatures
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 20:34:43 GMT""}]","2007-05-23"
+"hep-ph/9311287","Mark Sutherland","M. Sutherland","1/m_c Expansion of Omega_b -> Omega_c^(*) Semileptonic Decay Form
+  Factors","10 pages, LaTeX, 4 LaTeX figures in separate file, UTPT-93-27","Z.Phys. C63 (1994) 111-116","10.1007/BF01577549",,"hep-ph",,"  A simple model of Omega_Q and Omega_Q^(*) baryons containing one heavy quark
+Q is constructed. Amplitudes are represented by loop graphs with one line for
+the heavy quark and another for the light degrees of freedom. The latter are
+modelled as a freely-propagating vector particle interacting nonlocally with
+the heavy baryon and a free heavy quark. It is argued that the physics of
+confinement plays an inessential role in determining semileptonic decay form
+factors. The model has a well-defined heavy-quark expansion which has a form
+consistent (through order 1/m_Q) with that determined by QCD through the
+heavy-quark effective theory. The slope of the Isgur-Wise function is
+consistent with the Bjorken sum rule bound. The effect of the Omega_Q^* -
+Omega_Q mass splitting on the first-order form factors is examined.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 20:14:19 GMT""}]","2016-09-01"
+"hep-ph/9311288","Michael A. Doncheski","Michael A. Doncheski and Stephen Godfrey","Resolved Photon Contributions to Leptoquark Production in $e^+ e^-$ and
+  $e\gamma$ Collision","9 pages (5 postscript figures in separate uuencoded file), OCIP/C
+  93-15","Phys.Rev. D49 (1994) 6220-6223","10.1103/PhysRevD.49.6220",,"hep-ph",,"  We calculate the resolved photon contribution to leptoquark production at
+$e\gamma$ colliders for the center of mass energies $\sqrt s=500$~GeV and
+1~TeV. We also calculate the resolved photon contribution to leptoquark
+production at $e^+ e^-$ colliders for the center of mass energies $\sqrt{s} =
+1$~and~2~TeV. In both cases we find that these contributions are considerably
+larger than the standard contributions considered in the literature.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 20:23:58 GMT""}]","2009-10-22"
+"hep-th/9311074","Alexeiev Anton","A. Yu. Alekseev","Integrability in Hamiltonian Chern-Simons theory","21 pages",,,,"hep-th nlin.SI solv-int",,"  We consider the moduli space of flat connections on the Riemann surface with
+marked points. The new efficient parametrization is suggested and used to
+construct an integrable model on the moduli space. A family of commuting
+Hamiltonians is extracted from the trace of the transfer matrix built from the
+Wilson line observables of the Chern-Simons theory. Our model appears to be
+gauge equivalent to XXZ magnetic chain with finite number of sites.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 16:33:37 GMT""},{""version"":""v2"",""created"":""Sun, 14 Nov 1993 15:42:51 GMT""}]","2008-02-03"
+"hep-th/9311075","Alexeiev Anton","D. V. Gluschenkov and A. V. Lyakhovskaya","Regular Representation of the Quantum Heisenberg Double $U_q(sl(2))$,
+  $Fun_{q}(SL(2))$ ($q$ is a root of unity)","UUITP-- 27/1993",,,"15 pages","hep-th math.QA",,"  Pairing between the universal enveloping algebra $U_q(sl(2))$ and the algebra
+of functions over $SL_q(2)$ is obtained in explicit terms. The regular
+representation of the quantum double is constructed and investigated. The
+structure of the root subspaces of the Casimir operator is revealed and
+described in terms of $SL_q(2)$ elements.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 16:12:15 GMT""}]","2008-02-03"
+"hep-th/9311076",,"M. Leblanc, R. MacKenzie, P.K.Panigrahi, and R. Ray","Induced $B\wedge F$ term and photon mass generation in 3+1 dimensions","13 pages, UdeM-LPN-TH-162, CRM-1916","Int. J. Mod. Phys. A9 (1994) 4717-4726","10.1142/S0217751X94001886",,"hep-th",,"  Analysing a 3+1 dimensional model with four-Fermi interactions, we show that
+topological $\BF$ terms (both abelian and non-abelian) can be induced
+radiatively by massive fermions at the one-loop level. It is further pointed
+out that a mechanism of photon (or non-abelian gauge field) mass generation
+distinct from the usual Higgs mechanism, through the $\BF$ term, is also
+implemented in the long-distance effective action of this model, provided a gap
+equation is satisfied.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 20:04:12 GMT""}]","2015-06-26"
+"hep-th/9311077",,"B. Harms and Y. Leblanc","Black Holes as P-Branes","13 pages, LATEX; Figure sent upon request",,,,"hep-th",,"  We review briefly the thermodynamical interpretation of black hole physics
+and discuss the problems and inconsistencies in this approach. We provide an
+alternative interpretation of black holes as quantum objects and investigate
+the statistical mechanics of a gas of such objects in the microcanonical
+ensemble. We argue that the theory of black holes has the conformal properties
+of duality and satisfaction of the statistical bootstrap condition. We show in
+the context of mean field theory that the thermal vacuum is the false vacuum
+for a black hole and define a microcanonical vacuum which leads to a number
+density characteristic of pure states for the Hawking radiation.
+","[{""version"":""v1"",""created"":""Fri, 12 Nov 1993 23:11:44 GMT""}]","2009-09-25"
+"nucl-th/9311013",,"W. Koepf and E.M. Henley","Electromagnetic Gauge Invariance of Chiral Hybrid Quark Models","17 pages, REVTeX file followed by 2 postscript files for 2 figures,
+  DOE/ER/40427-25-N93","Phys.Rev.C49:2219-2225,1994","10.1103/PhysRevC.49.2219",,"nucl-th",,"  In this work, we investigate the question, whether the conventional analysis
+of the electromagnetic form factors of the nucleon, evaluated in the framework
+of the cloudy bag model (CBM) or other chirally invariant hybrid quark models
+utilizing the same philosophy, is gauge invariant. In order to address that
+point, we first formulate the CBM in a style that resembles the technique of
+loop integrals. Evaluating the self energy and the electromagnetic form factors
+of the nucleon in that manner and comparing with the standard analysis where
+nonrelativistic perturbation theory is used, allows us to show that our
+approach is appropriate and to point out, what approximations are made in the
+standard derivation of the model. {}From the form of those loop integrals, we
+then show that additional diagrams are needed to preserve electromagnetic gauge
+invariance and we assess the corresponding corrections.
+","[{""version"":""v1"",""created"":""Sat, 13 Nov 1993 02:41:18 GMT""}]","2008-11-26"

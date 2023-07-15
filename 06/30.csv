@@ -1,0 +1,267 @@
+"astro-ph/9306029",,"Michael S. Turner, Martin White, and James E. Lidsey","Tensor Perturbations in Inflationary Models as a Probe of Cosmology","31 pages; Latex; 7 Figs available on request; FNAL--Pub--93/69-A","Phys.Rev.D48:4613-4622,1993","10.1103/PhysRevD.48.4613",,"astro-ph hep-ph",,"  In principle, the tensor metric (gravity-wave) perturbations that arise in
+inflationary models can, beyond probing the underlying inflationary model,
+provide information about the Universe: ionization history, presence of a
+cosmological constant, and epoch of matter-radiation equality. Because tensor
+perturbations give rise to anisotropy of the cosmic background radiation (CBR)
+solely through the Sachs-Wolfe effect we are able to calculate analytically the
+variance of the multipole moments of this part of the CBR temperature
+anisotropy. In so doing, we carefully take account of the contribution of
+tensor perturbations that entered the Hubble radius during both the
+matter-dominated and radiation-dominated epoch by means of a transfer function.
+The striking feature in the spectrum of multipole amplitudes is a dramatic fall
+off for $l\ga \sqrt{1+\zl}$, where $\zl$ is the red shift of the
+last-scattering surface. ...
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 14:17:03 GMT""}]","2009-08-18"
+"cond-mat/9306059","Eric Roddick","Eric Roddick and David Stroud","Mean Field Theory for Underdamped Josephson Junction Arrays with an
+  Offset Voltage","13 pages, LaTex file,6 figures appended in postscript",,"10.1103/PhysRevB.48.16600",,"cond-mat",,"  We study a model Hamiltonian for superconductivity in underdamped Josephson
+junction arrays in the presence of an offset voltage between the array and the
+substrate. We develop an approximate zero-temperature (T = 0) phase diagram as
+a function of Josephson coupling, charging energy, and offset voltage, using a
+simple Hartree-type mean-field approximation. With diagonal charging energy,
+the calculated phase diagram is periodic in offset voltage, in agreement with
+previous results. At a special value of this voltage such that states with n
+and n+1 Cooper pairs per grain are degenerate, only an infinitesimal Josephson
+coupling is needed to establish long-range phase coherence in this
+approximation. With both diagonal and nearest-neighbor charging energies, the T
+= 0 phase diagram has two types of insulating lobes with different kinds of
+charge order, and two types of superconducting regions. One of these is a
+``supersolid'' in which long-range phase coherence coexists with a frozen
+charge density wave. We briefly discuss connections to previous calculations,
+and possible relevance to experiments.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 22:02:10 GMT""}]","2009-10-22"
+"cond-mat/9306060","Anne van Otterlo","Anne van Otterlo and Rosario Fazio","Quantum Vortices Near the Superconductor-Insulator Transition in
+  Josephson Junction Arrays","17 pages in REVTEX 3.0, 6 figures in LaTeX available upon request,
+  KA-TFP-93-1",,"10.1016/0921-4526(94)90906-7",,"cond-mat",,"  The properties of vortices in Josephson junction arrays are investigated in
+the quantum regime near the superconductor-insulator transition. We derive and
+study an effective action for vortex dynamics that is valid in the region where
+the charging energy is comparable to the Josephson coupling energy. In the
+superconducting phase the onset of quantum effects reduces the vortex mass and
+depinning current. In the case of long range Coulomb interaction between Cooper
+pairs we find that as the transition is approached, the velocity window in
+which ballistic vortex motion is possible grows. At the
+superconductor-insulator transition the vortex mass vanishes and vortices and
+spinwaves decouple. In the case of on-site Coulomb repulsion (which is of
+relevance for superconducting granular films) the vortex mass it is sample-size
+dependent in the superconducting phase, but stays finite at the critical point
+where it is scale invariant. The relation of our work to experiment is
+discussed.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 09:31:04 GMT""}]","2009-10-22"
+"cond-mat/9306061","Jens Johannesson","Jens Johannesson and Mario Liu","Bubble Growth in Superfluid 3-He: The Dynamics of the Curved A-B
+  Interface","20 pages, 3 figures, LaTeX, ITP-UH 11/93","Physica B, 194-196, 799 (1994)","10.1007/BF00755419",,"cond-mat",,"  We study the hydrodynamics of the A-B interface with finite curvature. The
+interface tension is shown to enhance both the transition velocity and the
+amplitudes of second sound. In addition, the magnetic signals emitted by the
+growing bubble are calculated, and the interaction between many growing bubbles
+is considered.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 12:49:00 GMT""}]","2012-07-23"
+"cond-mat/9306062","Hans","T. Poeschel and H.J. Herrmann","A Simple Geometrical Model for Solid Friction","9 pages, plain TeX, preprint HLRZ 24/93","Physica A, Vol. 198, 441 (1993)","10.1016/0378-4371(93)90233-T",,"cond-mat",,"  We present a simple model for the friction of two solid bodies moving against
+each other. In a self consistent way we can obtain the dependence of the
+macroscopic friction force as a function of the driving velocity, the normal
+force and the ruggedness of the surfaces in contact. Our results are discussed
+in the context of friction laws used in earthquake models.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 15:16:25 GMT""}]","2009-10-22"
+"hep-lat/9306024",,"G.S.Bali, J.Fingberg, U.M.Heller, F.Karsch and K.Schilling","The Spatial String Tension in the Deconfined Phase of the
+  (3+1)-Dimensional SU(2) Gauge Theory","8 pages (Latex, shell archive, 3 PostScript figures), HLRZ-93-43,
+  BI-TP 93/30, FSU-SCRI-93-76, WUB 93-25","Phys.Rev.Lett.71:3059-3062,1993","10.1103/PhysRevLett.71.3059",,"hep-lat",,"  We present results of a detailed investigation of the temperature dependence
+of the spatial string tension in SU(2) gauge theory. We show, for the first
+time, that the spatial string tension is scaling on the lattice and thus is
+non-vanishing in the continuum limit. It is temperature independent below Tc
+and rises rapidly above. For temperatures larger than 2Tc we find a scaling
+behaviour consistent with sigma_s(T) = 0.136(11) g^4(T) T^2, where g(T) is the
+2-loop running coupling constant with a scale parameter determined as Lambda_T
+= 0.076(13) Tc.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 19:13:22 GMT""}]","2009-07-09"
+"hep-ph/9306326",,"Kin-Wang Ng (Institute of Physics, Academia Sinica, Taiwan)","Cosmological Bound on the Decay $\pi^0\rightarrow\gamma X$","7 pages, IP-ASTP-03-93","Phys.Rev.D48:2941-2942,1993","10.1103/PhysRevD.48.2941",,"hep-ph",,"  Using the upper bound on the effective number of light neutrino species
+during primordial nucleosynthesis and the cosmological pion-pole mechanism
+$\gamma\gamma\rightarrow \pi^0\rightarrow \gamma X$, we obtain an upper limit
+on the branching ratio for the decay BR$(\pi^0\rightarrow \gamma X)<3\times
+10^{-13}$, where $X$ is any long-lived weakly interacting neutral vector
+particle with mass smaller than the neutral pion mass.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 17:32:00 GMT""}]","2008-11-26"
+"hep-ph/9306327","My Account","J. Lopez, D. Nanopoulos, and A. Zichichi","SU(5)xU(1): a string paradigm of a TOE and its experimental consequences","CERN-TH.6926/93, CTP-TAMU-33/93, LaTeX, 33 pages, 11 embedded
+  figures. Significant numerical correction to the dilaton scenario. Complete
+  ps file (7943 blocks,3.33MB) available via anonymous ftp from site
+  tamsun.tamu.edu in directory incoming, filename: CTP-TAMU-33-93.ps",,,,"hep-ph",,"  We present a string-inspired/derived supergravity model based on the flipped
+$SU(5)\times U(1)$ structure supplemented by a minimal set of additional matter
+representations such that unification occurs at the string scale
+($\sim10^{18}\GeV$). This model is complemented by two string supersymmetry
+breaking scenaria: the $SU(N,1)$ no-scale supergravity model and a
+dilaton-induced supersymmetry breaking scenario. Both imply universal soft
+supersymmetry breaking parameters: $m_0=0, A=0$ and
+$m_0=\coeff{1}{\sqrt{3}}m_{1/2}, A=-m_{1/2}$ respectively. In either case the
+models depend on only three parameters: $m_t$, $\tan\beta$, and $m_{\tilde g}$.
+We present a comparative study of the sparticle and Higgs spectra of both
+models and conclude that even though both can be partially probed at the
+Tevatron, LEPII, and HERA, a larger fraction of the parameter space of the
+no-scale model is actually accessible. In both cases there is a more
+constrained version which allows to determine $\tan\beta$ in terms of
+$m_t,m_{\tilde g}$. In the strict no-scale case we find that the value of $m_t$
+determines the sign of $\mu$ ($\mu>0:\,m_t\lsim135\GeV$,
+$\mu<0:\,m_t\gsim140\GeV$) and whether the lightest Higgs boson mass is above
+or below $100\GeV$. In the more constrained version of the dilaton scenario,
+$\tan\beta\approx1.4-1.6$ and $m_t\lsim155\GeV$, $61\GeV\lsim m_h\lsim91\GeV$
+follow. Thus, continuing Tevatron top-quark searches and LEPI,II Higgs searches
+could probe this restricted scenario completely.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 19:04:42 GMT""},{""version"":""v2"",""created"":""Fri, 2 Jul 1993 19:07:07 GMT""}]","2008-02-03"
+"hep-ph/9306328","Michael Dine","Michael Dine","Some Questions of Flavor in Supersymmetry","14 pages, SCIPP 93/17",,,,"hep-ph",,"  We consider certain naturalness questions in supersymmetric theories. Various
+suggestions which give rise to squark degeneracies are reviewed. A stringy
+scenario, discussed by Kaplunovsky and Louis, is the only one which leads to
+complete degeneracy of squarks and sleptons at the high scale. Alternatives
+include the possible existence of a gauged non-Abelian horizontal symmetry,
+broken at some scale, and theories in which the ``messengers"" of supersymmetry
+breaking are gauge interactions. A model of the latter type is described, in
+which supersymmetry is {\it dynamically} broken at TeV energies. Models of this
+type can solve many of the naturalness problems of supersymmetric theories, and
+predict a rich phenomenology at SSC energies.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 18:45:53 GMT""}]","2007-05-23"
+"hep-ph/9306329","Kingman Cheung","Kingman Cheung","Strong $W_L W_L$ Scattering at Hadronic Supercolliders","(Talk given at the ``Workshop on Physics and Experiments with Linear
+  $e^+e^-$ Collider"", Waikoloa, Kona, Hawaii), LaTex, 8 pages, 2 figures not
+  included, NUHEP-TH-93-16",,,,"hep-ph",,"  We will summarize some aspects of the scenario of a strongly interacting
+symmetry breaking sector via which the longitudinal vector boson scattering
+becomes strong. We will examine the feasibility of observing such strong $W_L
+W_L$ signal at the future hadronic supercolliders.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 20:44:52 GMT""}]","2007-05-23"
+"hep-ph/9306330",,"M.J.Duncan and M.H.Reno","Enhancing the Higgs signal in $pp\rightarrow ZZ\rightarrow
+  \ell^+\ell^-\nu\bar{\nu}$","6 pages, 6 figures available upon request, UIOWA-93-11",,,,"hep-ph",,"  One of the possible modes suggested for detecting the Higgs particle is
+$pp\rightarrow ZZ\rightarrow\ell^+\ell^-\nu\bar{\nu}$, where the Higgs appears
+as a resonance on a Jacobian background. Unfortunately there are QCD background
+processes which mimic the final state and we are obliged to impose stringent
+kinematic cuts to remove them. However, in doing so we also remove a
+significant fraction of the signal. In this report we suggest a method, based
+on examining the distribution of the final state charged leptons, which could
+allow us to relax our cuts and thus salvage the signal.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 22:56:10 GMT""}]","2007-05-23"
+"hep-ph/9306331",,"Martin Lavelle and David McMullan","On Quark Confinement","5 pages, MZ-TH/93-03, DIAS-STP-93-04",,,,"hep-ph",,"  A sufficient condition for the confinement of quarks is presented. Quarks are
+shown to be unobservable. Colour singlets are however, observables. The results
+of deep inelastic scattering are discussed. We argue that QCD does not exhibit
+a deconfining transition.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 10:57:10 GMT""}]","2007-05-23"
+"hep-ph/9306332","Shafi Qaisar","G.Lazarides, C.Panagiotakopoulos, Q.Shafi","Supersymmetric Unification without Proton Decay","15 pages, LATEX, BA-93-23","Phys.Lett.B315:325-330,1993; ERRATUM-ibid.B317:661,1993","10.1016/0370-2693(93)91620-3",,"hep-ph",,"  We present a supersymmetric grand unification scheme based on the gauge group
+SU(3)_c X SU(3)_L X SU(3)_R in which the proton and the lightest supersymmetric
+particle are stable, neutrinos are necessarily massive, and the observed baryon
+asymmetry originates in the lepton sector. Such models are also consistent with
+the measured value of sin^2\Theta_W as well as unification of the gauge
+couplings.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 12:37:00 GMT""}]","2008-11-26"
+"hep-ph/9306333","Zbyszek Pluciennik","Piotr H. Chankowski, Zbigniew Pluciennik","Renormalization Group Equations for Seesaw Neutrino Masses","9 pages and 2 figures, LaTeX, ZU-TH 20/93, DFPD 93/TH/44","Phys.Lett. B316 (1993) 312-317","10.1016/0370-2693(93)90330-K",,"hep-ph",,"  RGEs for coefficients of dim-5 operators giving rise to neutrino masses in
+the seesaw mechanism are written down in the SM, 2HDM and MSSM, and solved
+numerically. RG evolution of these coefficients modifies tree-level seesaw
+predictions for neutrino masses and mixing angles in SO(10)-type GUT models as
+strongly as quark Yukawa coupling evolution.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 13:51:17 GMT""}]","2009-10-22"
+"hep-ph/9306334","Hai-Yang Cheng","Hai-Yang Cheng, M. Huang, and C. F. Wai","Analysis of Weak-Interaction Effects in High Energy Hadron-Hadron
+  Collisions","Latex, 20 pages, 10 figures available upon request, ITP-SB-93-07 and
+  IP-ASTP-05-93","Phys.Rev. D49 (1994) 1272-1283","10.1103/PhysRevD.49.1272",,"hep-ph",,"  Parity-violating (pv) effects in inclusive hadron and jet productions in high
+energy hadron-hadron collisions are analyzed. Such effects arise from the
+interference between strong and weak amplitudes. This interference gives rise
+to a nonzero value of the pv parameters $A_L$ and $P_L$, where $A_L$ measures
+the difference in the inclusive cross sections of, for example, $p+p\ri {\rm
+jet}+X$ ($X$=anything), with one of incident proton beams in a state of $\pm$
+helicity, and $P_L$ denotes the longitudinal polarization of a high-energy
+baryon (e.g., $\Lambda$) produced in $p+p\ri\Lambda+X$ with the initial proton
+beams unpolarized. In the present paper, the single helicity asymmetry $A_L$ in
+one-jet, two-jet and two-jet plus photon productions as well as in the
+Drell-Yan process $p+p\ri\ell^+\ell^-+{\rm jet}+X$ is probed, and the
+longitudinal polarization $P_L$ of the $\Lambda$ produced in unpolarized $pp$
+collisions is studied. We conclude that the pv effects in high energy
+proton-proton collisions are in general only sensitive to the spin dependent
+valence quark distributions.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 14:54:50 GMT""}]","2009-10-22"
+"hep-th/9306156","Keith R. Dienes","Keith R. Dienes","Recent Developments in Fractional Superstrings","11 pages (LaTeX) [Talk presented at the SUSY-93 Conference
+  (Northeastern University) and at the MRST-15 ""Walifest"" Meeting (Syracuse
+  University). This is a condensed summary of material presented in
+  hep-th/9305093 and hep-th/9305094 .]",,,"McGill/93-18","hep-th",,"  Fractional superstrings experience new types of ``internal projections''
+which alter or deform their underlying worldsheet conformal field theories. In
+this talk I summarize some recent results concerning both the worldsheet theory
+which remains after the internal projections have acted, and the spacetime
+statistics properties of its various sectors.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 04:04:39 GMT""}]","2016-09-06"
+"hep-th/9306157","Philippe Di Francesco","P. Di Francesco, O. Aharony and S. Yankielowicz","Elliptic Genera and the Landau-Ginzburg Approach to N=2 Orbifolds","27p, uses harvmac (b). negligible change: suppression of the
+  draftmode","Nucl.Phys.B411:584-608,1994","10.1016/0550-3213(94)90463-4",,"hep-th",,"  We compute the elliptic genera of orbifolds associated with $N=2$
+super--conformal theories which admit a Landau-Ginzburg description. The
+identification of the elliptic genera of the macroscopic Landau-Ginzburg
+orbifolds with those of the corresponding microscopic $N=2$ orbifolds further
+supports the conjectured identification of these theories. For $SU(N)$
+Kazama-Suzuki models the orbifolds are associated with certain $\IZ_p$
+subgroups of the various coset factors. Based on our approach we also
+conjecture the existence of ""$E$-type"" variants of these theories, their
+elliptic genera and the corresponding Landau-Ginzburg potentials.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 07:17:20 GMT""},{""version"":""v2"",""created"":""Thu, 1 Jul 1993 09:44:01 GMT""}]","2016-09-06"
+"hep-th/9306158",,"Dmitrij P. Sorokin and Dmitrij V. Volkov","D=(0|2) Dirac--Maxwell--Einstein Theory as a Way for Describing
+  Supersymmetric Quartions","16 pages, LaTeX, report DFPD/93/TH/46","Int.J.Mod.Phys.A9:1555-1568,1994","10.1142/S0217751X94000698",,"hep-th",,"  Drawing an analogy with the Dirac theory of fermions interacting with
+electromagnetic and gravitational field we write down supersymmetric equations
+of motion and construct a superfield action for particles with spin 1/4 and 3/4
+(quartions), where the role of quartion momentum in effective
+(2+1)--dimensional space-time is played by an abelian gauge superfield
+propagating in a basic two-dimensional Grassmann-odd space with a cosmological
+constant showing itself as the quartion mass. So, the (0|2) (0 even and 2 odd)
+dimensional model of quartions interacting with the gauge and gravitational
+field manifests itself as an effective (2+1)-dimensional supersymmetric theory
+of free quartions.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 10:04:37 GMT""}]","2008-11-26"
+"hep-th/9306159",,"Aleksej V. Chechkin, Dmitrij P. Sorokin and Vladimir V. Yanovsky","Helicity in Classical Electrodynamics and Turbulence","12 pages, LaTeX, DFPD/93/TH/45",,,,"hep-th",,"  For the electromagnetic fields, hydrodynamic media and turbulent flows we
+consider the relationship between a topological characteristic of vector fields
+known as helicity and the angular momentum of the medium, and discuss, in this
+respect, the problem of helicity and angular momentum transfer from the
+electromagnetic field to a medium.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 13:30:00 GMT""}]","2007-05-23"
+"hep-th/9306160","Judy Mack","S. Okubo","Super Triple Systems and Applications to Para-Statistics and Yand-Baxter
+  Equation","14 pages, Preprint No. UR-1312, ER-40685-762",,,,"hep-th",,"  We introduce the notion of ortho-symplectic super triple system, and apply it
+to find solutions of super Yang-Baxter equation. Also, the para-statistics are
+formulated as a Lie-super triple system.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 15:12:00 GMT""}]","2007-05-23"
+"hep-th/9306161",,"Claus Kiefer and Andreas Wipf","Functional Schroedinger Equation for Fermions in External Gauge Fields","44 pages, LaTex File, preprint Freiburg THEP-94/2 and ETH-TH/93-17,
+  hep-th/9306161, corrected version (in particular the particle production)","Annals Phys. 236 (1994) 241-285","10.1006/aphy.1994.1112",,"hep-th",,"  We discuss the functional Schroedinger picture for fermions in external
+fields for both stationary and time-dependent problems. We give formal results
+for the ground state and the solution of the time-dependent Schroedinger
+equation for QED in arbitrary dimensions, while more explicit results are
+obtained in two dimensions. For both the massless and massive Schwinger model
+we give an explicit expression for the ground state functional as well as for
+the expectation values of energy, electric and axial charge. We also give the
+corresponding results for non-abelian fields. We solve the functional
+Schroedinger equation for a constant external field in four dimensions and
+obtain the amount of particle creation. We solve the Schroedinger equation for
+arbitrary external fields for massless QED in two dimensions and make a careful
+discussionof the anomalous particle creation rate. Finally, we discuss some
+subtleties connected with the interpretation of the quantized Gauss constraint.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 14:23:44 GMT""},{""version"":""v2"",""created"":""Fri, 4 Mar 1994 09:49:00 GMT""}]","2009-10-22"
+"nucl-th/9306025","Csoto Attila","Attila Csoto","Proton halo of $^8$B in a microscopic model","5 pages, LATEX with REVTEX, submitted to Phys. Lett. B",,"10.1016/0370-2693(93)90152-8",,"nucl-th",,"  The experimentally predicted existence of a proton halo in $^8$B is confirmed
+by dynamical microscopic multiconfiguration cluster model calculations. The
+thickness of the proton halo in $^8$B is 0.5 $fm$ while in $^8$Li a 0.4 $fm$
+thick neutron halo has been found. It is shown that the huge quadrupole moment
+of $^8$B partly comes from the very distortable $^7$Be core.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 21:17:30 GMT""}]","2009-10-22"
+"nucl-th/9306026","Evan Reidell","P. LaFrance, E. L. Lomon, and M. Aw","Improved Coupled Channels and R-Matrix Models: Predictions to 1 Gev","31 pages in Plain TeX (with figures to be added using FIGURES
+  command), MIT CTP #2133",,,,"nucl-th",,"  The $NN$ scattering near inelastic threshold is sensitive to the long-range
+diagonal interaction in the produced isobar channel. Earlier models included
+meson exchange potentials in the $NN$ sector and connecting that sector to
+isobar channels, as well as an $R$-matrix description of short-range quark
+effects. Including the diagonal pion exchange contributions in the $N\Delta$
+channels coupled to the very inelastic ${}^1D_2$ and ${}^3F_3$ $NN$ channels
+substantially improves those phase parameters and the observables
+$\Delta\sigma_{L}$ and $\Delta\sigma_{T}$. The same improvement is made to the
+other $I=1$ $NN$ channels. In the ${}^1S_0$ $NN$ channel coupling to the
+$\Delta\Delta$ channel is unusually important due to the $L=2$ angular momentum
+barrier in the $N\Delta$ channel. The pion exchange transition potentials
+between isobar channels are included in this partial wave to obtain the correct
+equilibrium between one- and two-pion decay channels. Other improvements to
+earlier models have been made, in the specification of isobar channels and the
+inclusion of decay width effects in more channels. A comparison is made with
+all the $pp$ data for $T_L \le 800$~MeV, producing a very good fit over the
+whole energy range.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 16:45:47 GMT""}]","2007-05-23"
+"solv-int/9306004","Marco Boiti","M. Boiti, F. Pempinelli (Dipartimento di Fisica dell'Universita` e
+  Sezione INFN, Lecce, Italy) and A. Pogrebkov (Steklov Mathematical Institute,
+  Moscow, Russia)","Solutions of the Kpi Equation with Smooth Initial Data","17 pages, 23 June 1993, LaTex file",,"10.1088/0266-5611/10/3/001",,"solv-int nlin.SI",,"  The solution $u(t,x,y)$ of the Kadomtsev--Petviashvili I (KPI) equation with
+given initial data $u(0,x,y)$ belonging to the Schwartz space is considered. No
+additional special constraints, usually considered in literature, as
+$\int\!dx\,u(0,x,y)=0$ are required to be satisfied by the initial data. The
+problem is completely solved in the framework of the spectral transform theory
+and it is shown that $u(t,x,y)$ satisfies a special evolution version of the
+KPI equation and that, in general, $\partial_t u(t,x,y)$ has different left and
+right limits at the initial time $t=0$. The conditions of the type
+$\int\!dx\,u(t,x,y)=0$, $\int\!dx\,xu_y(t,x,y)=0$ and so on (first, second,
+etc. `constraints') are dynamically generated by the evolution equation for
+$t\not=0$. On the other side $\int\!dx\!\!\int\!dy\,u(t,x,y)$ with prescribed
+order of integrations is not necessarily equal to zero and gives a nontrivial
+integral of motion.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 06:07:06 GMT""}]","2009-10-22"

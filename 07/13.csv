@@ -1,0 +1,292 @@
+"astro-ph/9307021","Reynier Peletier","R.F. Peletier and S.P. Willner","The Infrared Tully-Fisher Relation in the Ursa-Major Cluster","24, Latex, CfA-3667","Astrophys.J. 418 (1993) 626","10.1086/173422",,"astro-ph",,"  We present new magnitudes derived from 1.65 micron images for 23 galaxies in
+the Ursa Major cluster. Magnitudes now exist for all but one spiral meeting our
+criteria for cluster membership and having HI velocity width greater than 187
+km/s and inclination greater than 45 deg. These spirals fit a Tully-Fisher
+relation with dispersion in intrinsic magnitudes (after known observational
+uncertainties and the effect of cluster depth are removed) of 0.36 and a slope
+of 10.2 +/- 0.6. The magnitude dispersion is smaller than found in the Virgo
+cluster but still significantly larger than claimed by some authors. We find a
+hint that the Tully-Fisher relation may turn over at the bright end. Adding the
+central surface brightness of the disk as a third parameter flattens the slope
+of the Tully- Fisher relation and may give a distance estimate with slightly
+less dispersion, but the significance of the decrease must be tested on an
+independent sample.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 13:41:53 GMT""}]","2009-10-22"
+"cond-mat/9307021","Rudolph A Romer","Rudolf A. R\""omer and Bill Sutherland","Critical Exponents for the SC-Model in the Zero Sector","21 pages (REVTeX 3.0) + 4 figures (upon request), UoU-0040793",,"10.1103/PhysRevB.49.6779",,"cond-mat",,"  In this paper, we continue our investigation of a one-dimensional,
+two-component, quantum many-body system in which like particles interact with a
+pair potential $s(s+1)/{\rm sinh}^{2}(r)$, while unlike particles interact with
+a pair potential $-s(s+1)/{\rm cosh}^{2}(r)$. For an equal number of particles
+of the two components, the ground state for $s>0$ corresponds to an
+antiferromagnet/insulator. Excitations consist of a gapless pair-hole--pair
+continuum, a two-particle continuum with gap and excitons with gap. For
+$-1<s<0$, the system has two gapless excitations --- a particle-hole continuum
+and a two spin-wave continuum. Using finite-size scaling methods of conformal
+field theory, we calculate the asymptotic expressions and critical exponents
+for correlation functions of these gapless excitations at zero temperature. The
+conformal structure is closely related to the Hubbard model with repulsive
+on-site interaction.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 21:54:18 GMT""},{""version"":""v2"",""created"":""Tue, 20 Jul 1993 11:55:41 GMT""},{""version"":""v3"",""created"":""Mon, 29 Nov 1993 21:25:46 GMT""}]","2016-08-14"
+"cond-mat/9307022","Michael Stone","Michael Stone","Rossby Waves in the Quantum Hall effect","0, plain tex, This paper is incorrect, and has been withdrawn by the
+  Author",,,,"cond-mat",,"  This paper is incorrect, and has been withdrawn by the author.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 23:44:00 GMT""},{""version"":""v2"",""created"":""Sat, 17 Jul 1993 19:48:00 GMT""}]","2008-02-03"
+"cond-mat/9307023","Alessandro Pelizzola","A. Pelizzola and A. Stella","Mean Field Renormalization Group for the Boundary Magnetization of Strip
+  Clusters","16 pages (plain TeX) + 8 figures (PostScript, appended),
+  POLFIS-TH.XX/93",,"10.1088/0305-4470/26/23/022",,"cond-mat",,"  We analyze in some detail a recently proposed transfer matrix mean field
+approximation which yields the exact critical point for several two dimensional
+nearest neighbor Ising models. For the square lattice model we show explicitly
+that this approximation yields not only the exact critical point, but also the
+exact boundary magnetization of a semi--infinite Ising model, independent of
+the size of the strips used. Then we develop a new mean field renormalization
+group strategy based on this approximation and make connections with finite
+size scaling. Applying our strategy to the quadratic Ising and three--state
+Potts models we obtain results for the critical exponents which are in
+excellent agreement with the exact ones. In this way we also clarify some
+advantages and limitations of the mean field renormalization group approach.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 11:49:54 GMT""}]","2009-10-22"
+"cond-mat/9307024","Sabrina Oppo","Sabrina Oppo, Vincenzo Fiorentini, and Matthias Scheffler
+  (Fritz-Haber-Institut der MPG, Berlin, Germany)","Theory of Adsorption and Surfactant Effect of Sb on Ag (111)","RevTeX 3.0, 11 pages, 0 figures] 13 July 1993",,"10.1103/PhysRevLett.71.2437","FHI/TH/930713/1","cond-mat",,"  We present first-principles studies of the adsorption of Sb and Ag on clean
+and Sb-covered Ag (111). For Sb, the {\it substitutional} adsorption site is
+found to be greatly favored with respect to on-surface fcc sites and to
+subsurface sites, so that a segregating surface alloy layer is formed. Adsorbed
+silver adatoms are more strongly bound on clean Ag(111) than on Sb-covered Ag.
+We propose that the experimentally reported surfactant effect of Sb is due to
+Sb adsorbates reducing the Ag adatom mobility. This gives rise to a high
+density of Ag islands which coalesce into regular layers.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 12:54:13 GMT""}]","2009-10-22"
+"cond-mat/9307025","Franco Dalfovo","F.Dalfovo","Atomic and Molecular Impurities in $^4$He Clusters","16 pages (plain TeX), 6 figures (not included), UTF-298",,"10.1007/BF01437166",,"cond-mat",,"  A density functional theory is used to predict the binding energy of atomic
+and molecular impurities (Ne, Ar, Kr, Xe, Li, Na, K, Rb, Cs, and SF$_6$) in the
+center of $^4$He clusters, in the limit of zero temperature and for zero
+angular momentum states. The size dependence of the binding energy, from small
+clusters to the bulk liquid limit, is investigated. The behaviour of the $^4$He
+density near the impurity is also studied.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 14:16:09 GMT""}]","2009-10-22"
+"gr-qc/9307013",,"J.J.Halliwell","Quantum-Mechanical Histories and the Uncertainty Principle. II.
+  Fluctuations About Classical Predictability","40 pages (plain Tex), Imperial College Preprint","Phys.Rev. D48 (1993) 4785-4799","10.1103/PhysRevD.48.4785",,"gr-qc cond-mat hep-th",,"  This paper is concerned with two questions in the decoherent histories
+approach to quantum mechanics: the emergence of approximate classical
+predictability, and the fluctuations about it necessitated by the uncertainty
+principle. We consider histories characterized by position samplings at $n$
+moments of time. We use this to construct a probability distribution on the
+value of (discrete approximations to) the field equations, $F = m \ddot x +
+V'(x) $, at $n-2$ times. We find that it is peaked around $F=0$; thus classical
+correlations are exhibited. We show that the width of the peak $ \Delta F$ is
+largely independent of the initial state and the uncertainty principle takes
+the form $2 \sigma^2 \ (\Delta F)^2 \ge { \hbar^2 / t^2 } $, where $\sigma$ is
+the width of the position samplings, and $t$ is the timescale between
+projections. We determine the modifications to this result when the system is
+coupled to a thermal environment. We show that the thermal fluctuations become
+comparable with the quantum fluctuations under the same conditions that
+decoherence effects come into play. We also study an alternative measure of
+classical correlations, namely the conditional probability of finding a
+sequence of position samplings, given that particular initial phase space data
+have occurred. We use these results to address the issue of the formal
+interpretation of the probabilities for sequences of position samplings in the
+decoherent histories approach to quantum mechanics. The decoherence of the
+histories is also briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 16:07:03 GMT""}]","2009-10-22"
+"gr-qc/9307014","Gary Horowitz","Dieter Brill, Gary Horowitz, David Kastor, and Jennie Traschen","Testing Cosmic Censorship with Black Hole Collisions","30 pages, 8 figs., phyzzx","Phys.Rev. D49 (1994) 840-852","10.1103/PhysRevD.49.840",,"gr-qc hep-th",,"  There exists an upper limit on the mass of black holes when the cosmological
+constant $\Lambda$ is positive. We study the collision of two black holes whose
+total mass exceeds this limit. Our investigation is based on a recently
+discovered exact solution describing the collision of $Q=M$ black holes with
+$\Lambda > 0$. The global structure of this solution is analyzed. We find that
+if the total mass is less than the extremal limit, then the black holes
+coalesce. If it is greater, then a naked singularity forms to the future of a
+Cauchy horizon. However, the horizon is not smooth. Generically, there is a
+mild curvature singularity, which still allows geodesics to be extended. The
+implications of these results for cosmic censorship are discussed.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 20:32:44 GMT""}]","2009-10-22"
+"hep-lat/9307011","Tien Kieu","C. J. Griffin and T. D. Kieu","Fermionic Field Theory and Gauge Interactions on Random Lattices","16 A4 pages, UM-P-93/05","Ann.Phys.235:204-219,1994","10.1006/aphy.1994.1095",,"hep-lat hep-th",,"  Random-lattice fermions have been shown to be free of the doubling problem if
+there are no interactions or interactions of a non-gauge nature. However, gauge
+interactions impose stringent constraints as expressed by the Ward-Takahashi
+identities which could revive the free-field suppressed doubler modes in loop
+diagrams. After introducing a formulation for fermions on a new kind of random
+lattice, we compare random, naive and Wilson fermions in two dimensional
+Abelian background gauge theory. We show that the doublers are revived for
+random lattices in the continuum limit, while demonstrating that gauge
+invariance plays the critical role in this revival. Some implications of the
+persistent doubling phenomenon on random lattices are also discussed.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 14:54:52 GMT""}]","2014-11-17"
+"hep-ph/9307253","Mark Hindmarsh","Mark Hindmarsh and R.J. Rivers","Thermal Fluctuations at Second Order Phase Transitions","(LaTeX, 25pp plus 2 figs, available from mark@amtp.cam.ac.uk)
+  DAMTP-93-28, Imperial/TP/92-93/40","Nucl.Phys. B417 (1994) 506-526","10.1016/0550-3213(94)90482-0",,"hep-ph",,"  We construct a new coarse-grained effective potential which enables us to
+estimate the probabilities of thermal fluctuations above an arbitrary threshold
+at different length scales.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 16:16:00 GMT""}]","2009-10-22"
+"hep-ph/9307254","Patrick O'Donnell","Patrick J. O'Donnell and Utpal Sarkar","Three lepton decay modes of the proton","14 pages, UTPT-93-13, Latex file with one postscript figure to be cut
+  from the end of the Latex file","Phys.Lett. B316 (1993) 121-126","10.1016/0370-2693(93)90667-7",,"hep-ph",,"  We consider the three lepton decay modes of the proton within the proton
+decay interpretation of the atmospheric neutrino anomaly. We construct higher
+dimensional operators in the framework of the standard model. The operators
+which allow the particularly interesting decay mode are of dimension 10
+involving $SU(2)_L$ non-singlet higgs. We show how these operators can be
+comparable to the dimension 9 operators. We then present a simple left-right
+symmetric model which can give rise to the desired proton decay modes of the
+right order of magnitude.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 19:36:45 GMT""}]","2009-10-22"
+"hep-ph/9307255",,"M. L. Stong and K. Hagiwara","Probing the Scalar Sector in $e^+ e^- \to Z \phi$","4 pages, Latex, with 1 uuencoded figure. Talk given at ""Workshop on
+  Physics and Experiments with Linear e^+ e^- Colliders"", Waikoloa, Hawaii,
+  April 93",,,,"hep-ph",,"  We study possible deviations from the Standard Model in the reaction $e^+e^-
+\to Z\phi$, where $\phi$ denotes a spinless neutral boson. We show how the $Z$
+decay angular correlation can be used to extract detailed information on the
+$\phi$ couplings, such as the parity of $\phi$, radiatively induced form factor
+effects and possible CP violation in the scalar sector.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 19:43:00 GMT""}]","2007-05-23"
+"hep-ph/9307256","Drew Peterson","Stephen Godfrey and K. Andrew Peterson","Single $W$-Boson Production in $e\gamma$ Collisions","Talk at The 2nd International Workshop on Physics and Experiment with
+  Linear $e^+e^-$\ Colliders, Waikoloa, Hawaii, Apr. 26-30, 1993, 4 pages,
+  latex with epsfig and worldsci, OCIP/C-93-08",,,,"hep-ph",,"  We studied single $W$ boson production in high energy $e\gamma$ collisions
+and the sensitivity of various observables to the $WW\gamma$ vertex. We
+included gauge boson decay to final state fermions and all contributions to the
+same final state. The contributions of the non-resonant diagrams and their
+interference with the resonant gauge boson production diagrams give significant
+contributions which should not be neglected. We present results for $W$
+production at a 500 GeV $e^+e^-$ collider with the photon spectra obtained from
+a backscattered laser.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 04:01:05 GMT""}]","2007-05-23"
+"hep-ph/9307257",,"Tadashi Kon","Polarization Effects in Scalar Lepton Production at High Energy
+  $\gamma\gamma$ Colliders","6 pages (LaTeX), 4 figures not included (available on request) ;
+  ITP-SU-93/04","Phys.Lett. B316 (1993) 181-187","10.1016/0370-2693(93)90677-A",,"hep-ph",,"  We investigate the charged scalar lepton production processes
+$\gamma\gamma\to{\widetilde{\ell}}^{+}{\widetilde{\ell}}^{-}$ at high energy
+$\gamma\gamma$ colliders in the framework of the minimal supersymmetric
+standard model (MSSM). Here the high energy $\gamma$ beams are obtained by the
+backward Compton scattering of the laser flush by the electron in the basic
+linear TeV $ee$ colliders. We consider the polarization of the laser photons as
+well as the electron beams. Appropriate beam polarization could be effective to
+enhance the cross section and to extract the signal from the dominant
+background $\gamma\gamma\to W^{+}W^{-}$.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 13:28:42 GMT""}]","2009-10-22"
+"hep-ph/9307258","Kurt Langfeld","K. Langfeld, F. Schm""user, H. Reinhardt","Casimir Effect of Strongly Interacting Scalar Fields","18 LaTex pages (5 figures available on request), UNITUE-THEP-8-1993","Phys.Rev. D51 (1995) 765-773","10.1103/PhysRevD.51.765",,"hep-ph cond-mat hep-lat hep-th",,"  Non-trivial $\phi ^{4}$-theory is studied in a renormalisation group
+invariant approach inside a box consisting of rectangular plates and where the
+scalar modes satisfy periodic boundary conditions at the plates. It is found
+that the Casimir energy exponentially approaches the infinite volume limit, the
+decay rate given by the scalar condensate. It therefore essentially differs
+from the power law of a free theory. This might provide experimental access to
+properties of the non-trivial vacuum. At small interplate distances the system
+can no longer tolerate a scalar condensate, and a first order phase transition
+to the perturbative phase occurs. The dependence of the vacuum energy density
+and the scalar condensate on the box dimensions are presented.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 06:04:30 GMT""}]","2009-10-22"
+"hep-ph/9307259","Mike Berger","M. S. Berger","The $W$ Boson Loop Background to H -> ZZ at Photon-photon Colliders","16 pages + 4 PS figures included (uuencoded), MAD/PH/771","Phys.Rev. D48 (1993) 5121-5126","10.1103/PhysRevD.48.5121",,"hep-ph",,"  We have performed a complete one-loop calculation of $\gamma \gamma
+\rightarrow ZZ$ in the Standard Model, including both gauge bosons and fermions
+in the loop. We confirm the large irreducible continuum background from the
+$W$-boson loop found by Jikia. We have included the photon-photon luminosity,
+and find that the continuum background of transverse $Z$ boson pairs prohibits
+finding a heavy Higgs with mass $\gtap 350$ GeV in this decay mode.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 06:32:22 GMT""}]","2009-10-22"
+"hep-ph/9307260","Wambach","F.E. Close and A. Wambach","Quark Model Form Factors for Heavy Quark Effective Theory","(14 pages), RAL-93-022, OUTP-93-06P","Nucl.Phys. B412 (1994) 169-180","10.1016/0550-3213(94)90498-7",,"hep-ph",,"  We show how both the spectroscopy of heavy-light hadrons and the slope of the
+Isgur-Wise function can be simultaneously fitted when Heavy Quark Effective
+Theory is matched onto dynamical quark models, including careful treatment of
+wigner rotations. Working consistently to order $\vec{v}^2$ and using the
+parameters from hadron spectroscopy as input, we determine the slope parameter
+$\rho$ for s-wave transitions to be $1.19 \pm 0.02$. This agrees with the
+emperical value for $b \rightarrow c$ transitions.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 14:34:52 GMT""}]","2009-10-22"
+"hep-ph/9307261","Derek Leinweber","Derek B. Leinweber and Thomas D. Cohen","Unquenching the Rho Meson","RevTeX 3.0 manuscript. UU-File is a single postscript file of paper
+  including figures. 13 pages. (References and Intro. to Sec. II and III
+  revised.) U. MD PP \#94-003","Phys.Rev. D49 (1994) 3512-3518","10.1103/PhysRevD.49.3512",,"hep-ph hep-lat",,"  Two-pion induced self-energy contributions to the $\rho$-meson mass are
+examined in relation to the quenched approximation of QCD, where the physics
+associated with two-pion intermediate states has been excluded from
+vector-isovector correlation functions. Corrections to quenched QCD
+calculations of the $\rho$-meson mass are estimated to be small at the order of
+a few percent of the $\rho$-meson mass. The two-pion contributions display
+nonanalytic behavior as a function of the pion mass as the two-pion cut is
+encountered. The implications of this nonanalytic behavior in extrapolations of
+full QCD calculations are also discussed. We note that for full QCD, the error
+made in making a linear extrapolation of the $\rho$ mass, neglecting
+nonanalytic behavior, increases as one approaches the two-pion cut.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 14:23:54 GMT""},{""version"":""v2"",""created"":""Thu, 9 Sep 1993 20:23:50 GMT""}]","2009-10-22"
+"hep-ph/9307262",,"John F. Donoghue and Eugene Golowich","Chiral Sum Rules and Their Phenomenology","Standard Latex file, 27 pgs (figures not included), UMHEP-389","Phys.Rev. D49 (1994) 1513-1525","10.1103/PhysRevD.49.1513",,"hep-ph",,"  We present an analysis of four sum rules, each based on chiral symmetry and
+containing the difference $\rho_{\rm V}(s) - \rho_{\rm A}(s)$ of isovector
+vector and axialvector spectral functions. Experimental data from tau lepton
+decay and electron-positron scattering identify the spectral functions over a
+limited kinematic domain. We summarize the status of the existing database.
+However, a successful determination of the sum rules requires additional
+content, in the form of theoretical input. We show how chiral symmetry and the
+operator product expansion can be used to constrain the spectral functions in
+the low energy and the high energy limits and proceed to perform a
+phenomenological test of the sum rules.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 15:36:28 GMT""}]","2009-10-22"
+"hep-ph/9307263",,"John F. Donoghue and Eugene Golowich","Anatomy of a Weak Matrix Element","Standard Latex file, 10 pgs (figure not included), UMHEP-390","Phys.Lett. B315 (1993) 406-411","10.1016/0370-2693(93)91632-W",,"hep-ph",,"  Although the weak nonleptonic amplitudes of the Standard Model are
+notoriously difficult to calculate, we have produced a modified weak matrix
+element which can be analyzed using reliable methods. This hypothetical
+nonleptonic matrix element is expressible in terms of the isovector vector and
+axialvector spectral functions $\rho_{\rm V}(s)$ and $\rho_{\rm A}(s)$, which
+can be determined in terms of data from tau lepton decay and $e^+ e^-$
+annihilation. Chiral symmetry and the operator product expansion are used to
+constrain the spectral functions respectively in the low energy and the high
+energy limits. The magnitude of the matrix element thus determined is compared
+with its `vacuum saturation' estimate, and in the future may be accessible with
+lattice calculations.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 15:37:14 GMT""}]","2009-10-22"
+"hep-ph/9307265",,"D. Dumm, F. Pisano and V. Pleitez","Flavor changing neutral currents in $SU(3)\otimes U(1)$ models","REVTEX 10 pages, IFT-P.026/93, IC/93/174 (revised and extended
+  version)",,"10.1142/S0217732394001441",,"hep-ph",,"  We consider flavor changing neutral current effects coming from the $Z'$
+exchange in 3-3-1 models. We show that the mass of this extra neutral vector
+boson may be less than 2 TeV and discuss the problem of quark family
+discrimination.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 13:55:00 GMT""},{""version"":""v2"",""created"":""Wed, 22 Dec 1993 13:01:00 GMT""}]","2009-10-22"
+"hep-th/9307081",,"Hyuk-jae Lee","Topological Field Threories on The Compact Kahler Complex Surfaces","11 pages","Mod.Phys.Lett. A9 (1994) 903-912","10.1142/S0217732394000721",,"hep-th",,"  The structure of topological quantum field theories on the compact
+  Kahler manifold is interpreted. The BRST transformations of fields are
+derived from universal bundle and the observables are found from the second
+Chern class of universal bundle.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 20:33:00 GMT""}]","2009-10-22"
+"hep-th/9307082",,"Hyuk-jae Lee","Topological Field Theory of Vortices over Closed Kahler Manifolds","14 pages","Int.J.Mod.Phys.A10:4371-4386,1995","10.1142/S0217751X95002023",,"hep-th",,"  By dimensional reduction, Einstein-Hermitian equations of n + 1 dimensional
+closed Kahler manifolds lead to vortex equations of n dimensional closed Kahler
+manifolds. A Yang-Mills-Higgs functional to unitary bundles over closed Kahler
+manifolds has topological invariance by adding the additional terms which have
+ghost fields.
+  Henceforth we achieve the matter (Higgs field) coupled topological field
+theories in higher dimension.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 20:55:00 GMT""}]","2011-07-19"
+"hep-th/9307084","Aram Kotzinian","G.V. Grigoryan, R.P. Grigoryan (Yerevan Physics Institute, Republic of
+  Armenia)","Pseudoclassical Foldy-Wouthuysen transformation and the canonical
+  quantization of the D=2n dimensional spinning particle in the external
+  electromagnetic field","12 pages, article#",,,,"hep-th",,"  The canonical quantization of $D=2n$ dimensional Dirac spinning particle in
+the external electromagnetic field is carried out in the gauge which allows to
+describe simultaneously particles and antiparticles (massive and massless)
+already at the classical level. Pseudoclassical Foldy-Wouthuysen transformation
+is used to obtain canonical (Newton-Wigner) coordinates and in terms of this
+variables the theory is quantized. The connection of this quantization with the
+Blount picture of Dirac particle in the external electromagnetic field is
+discussed.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 11:10:59 GMT""}]","2007-05-23"
+"hep-th/9307086",,"D. Espriu and J. Matias","Regularization Methods in Chiral Perturbation Theory","37 pages, 5 figs. not included (available upon request), LaTeX,
+  PREPRINT UB-ECM-PF 93/15","Nucl.Phys. B418 (1994) 494-528","10.1016/0550-3213(94)90528-2",,"hep-th hep-ph",,"  Chiral lagrangians describing the interactions of Goldstone bosons in a
+theory possessing spontaneous symmetry breaking are effective,
+non-renormalizable field theories in four dimensions. Yet, in a momentum
+expansion one is able to extract definite, testable predictions from
+perturbation theory. These techniques have yielded in recent years a wealth of
+information on many problems where the physics of Goldstone bosons plays a
+crucial role, but theoretical issues concerning chiral perturbation theory
+remain, to this date, poorly treated in the literature. We present here a
+rather comprehensive analysis of the regularization and renormalization
+ambiguities appearing in chiral perturbation theory at the one loop level. We
+discuss first on the relevance of dealing with tadpoles properly. We
+demonstrate that Ward identities severely constrain the choice of regulators to
+the point of enforcing unique, unambiguous results in chiral perturbation
+theory at the one-loop level for any observable which is renormalization-group
+invariant. We comment on the physical implications of these results and on
+several possible regulating methods that may be of use for some applications.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 12:27:33 GMT""}]","2009-10-22"
+"nucl-th/9307011","Xinnian Wang","K. J. Eskola and Xin-Nian Wang","Space-time Structure of Initial Parton Production in Ultrarelativistic
+  Heavy Ion Collisions","19 pages in REVTEX with 12 figures in separate uuencoded postscript
+  files, LBL-34156","Phys.Rev. D49 (1994) 1284-1292","10.1103/PhysRevD.49.1284",,"nucl-th hep-ph",,"  The space and time evolution of initial parton production in
+ultrarelativistic heavy ion collisions is investigated within the framework of
+perturbative QCD which includes both initial and final state radiations.
+Uncertainty principle is used to relate the life time of a radiating parton to
+its virtuality and momentum. The interaction time of each hard or semihard
+parton scattering is also taken into account. For central $Au+Au$ collisions at
+$\sqrt{s}=200$ GeV, most of the partons are found to be produced within 0.5
+fm/c after the total overlap of the two colliding nuclei. The local momentum
+distribution is approximately isotropical at that time. The implication on how
+to treat correctly the the secondary scattering in an ultimate parton cascading
+model is also discussed.
+","[{""version"":""v1"",""created"":""Mon, 12 Jul 1993 23:44:47 GMT""}]","2009-10-22"
+"nucl-th/9307012",,"V. Van der Sluys, J. Ryckebusch and M. Waroquier","Effects of meson-exchange currents on the $(\protect\vec{e},e'p)$
+  structure functions","12 pages in LaTex with 5 figures (available on request), INW0703","Phys.Rev.C49:2695-2703,1994","10.1103/PhysRevC.49.2695",,"nucl-th",,"  The response functions for the unpolarized $(e,e'p)$ and polarized
+$(\vec{e},e'p)$ reaction are calculated for medium-heavy nuclei under quasifree
+conditions. The formalism presented here incorporates two-body currents related
+to meson-exchange and the $\Delta (1232)$ excitation. The final-state
+interaction of the outgoing nucleon with the residual nucleus is handled in a
+HF-RPA formalism. The sensitivity of the results to the two-body currents is
+discussed for the five structure functions in quasielastic $(\vec{e},e'p)$
+scattering off the target nuclei $^{16}O$ and $^{40}Ca$. A selective
+sensitivity to the two-body currents is obtained in the longitudinal-transverse
+interference term $W_{LT}$ where two-body currents can explain part of the
+discrepancy between the impulse-approximation calculations and the data.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 15:16:00 GMT""}]","2008-11-26"

@@ -1,0 +1,49 @@
+"cs/9308101",,"M. L. Ginsberg","Dynamic Backtracking","See http://www.jair.org/ for an online appendix and other files
+  accompanying this article","Journal of Artificial Intelligence Research, Vol 1, (1993), 25-46",,,"cs.AI",,"  Because of their occasional need to return to shallow points in a search
+tree, existing backtracking methods can sometimes erase meaningful progress
+toward solving a search problem. In this paper, we present a method by which
+backtrack points can be moved deeper in the search space, thereby avoiding this
+difficulty. The technique developed is a variant of dependency-directed
+backtracking that uses only polynomial space while still providing useful
+control information and retaining the completeness guarantees provided by
+earlier approaches.
+","[{""version"":""v1"",""created"":""Sun, 1 Aug 1993 00:00:00 GMT""}]","2008-02-03"
+"cs/9308102",,"M. P. Wellman","A Market-Oriented Programming Environment and its Application to
+  Distributed Multicommodity Flow Problems","See http://www.jair.org/ for any accompanying files","Journal of Artificial Intelligence Research, Vol 1, (1993), 1-23",,,"cs.AI",,"  Market price systems constitute a well-understood class of mechanisms that
+under certain conditions provide effective decentralization of decision making
+with minimal communication overhead. In a market-oriented programming approach
+to distributed problem solving, we derive the activities and resource
+allocations for a set of computational agents by computing the competitive
+equilibrium of an artificial economy. WALRAS provides basic constructs for
+defining computational market structures, and protocols for deriving their
+corresponding price equilibria. In a particular realization of this approach
+for a form of multicommodity flow problem, we see that careful construction of
+the decision process according to economic principles can lead to efficient
+distributed resource allocation, and that the behavior of the system can be
+meaningfully analyzed in economic terms.
+","[{""version"":""v1"",""created"":""Sun, 1 Aug 1993 00:00:00 GMT""}]","2008-02-03"
+"hep-lat/9307022","Sokal","Sergio Caracciolo, Robert G. Edwards, Andrea Pelissetto and Alan D.
+  Sokal","New Universality Classes for Two-Dimensional $\sigma$-Models","10 pages (includes 2 figures), 211176 bytes Postscript,
+  NYU-TH-93/07/03, IFUP-TH 34/93","Phys.Rev.Lett. 71 (1993) 3906-3909","10.1103/PhysRevLett.71.3906",,"hep-lat",,"  We argue that the two-dimensional $O(N)$-invariant lattice $\sigma$-model
+with mixed isovector/isotensor action has a one-parameter family of nontrivial
+continuum limits, only one of which is the continuum $\sigma$-model constructed
+by conventional perturbation theory. We test the proposed scenario with a
+high-precision Monte Carlo simulation for $N=3,4$ on lattices up to $512 \times
+512$, using a Wolff-type embedding algorithm. [CPU time $\approx$ 7 years IBM
+RS-6000/320H] The finite-size-scaling data confirm the existence of the
+predicted new family of continuum limits. In particular, the $RP^{N-1}$ and
+$N$-vector models do not lie in the same universality class.
+","[{""version"":""v1"",""created"":""Sat, 31 Jul 1993 20:15:07 GMT""}]","2009-10-22"
+"hep-th/9307196","Sergei Lukyanov","S.Lukyanov","Free Field Representation For Massive Integrable Models","49 pages, RU-93-30","Commun.Math.Phys.167:183-226,1995","10.1007/BF02099357",,"hep-th",,"  A new approach to massive integrable models is considered. It allows one to
+find symmetry algebras which define spaces of local operators and to get
+general integral representations for form-factors in the\ $ SU(2)$\ Thirring
+and Sine-Gordon models.
+","[{""version"":""v1"",""created"":""Sat, 31 Jul 1993 17:42:03 GMT""}]","2010-11-01"
+"hep-th/9307197","Koyama Yoshitaka","Y. Koyama","Staggered Polarization of Vertex Models with
+  $U_q(\widehat{sl}(n))$-Symmetry","18 pages, Latex file","Commun. Math. Phys. 164 (1994) 277-292","10.1007/BF02101703",,"hep-th",,"  In this paper we give an explicit formula for level 1 vertex operators
+related to $U_q(\widehat{sl}(n))$ as operators on the Fock spaces. We derive
+also their commutation relations. As an applications we culculate the one point
+functions of the one-dimensional spin chain associated with the vector
+representation of $U_q(\widehat{sl}(n))$, thereby extending the recent work on
+the staggered polarization of the $XXZ$-model.
+","[{""version"":""v1"",""created"":""Sun, 1 Aug 1993 09:35:05 GMT""}]","2009-10-22"

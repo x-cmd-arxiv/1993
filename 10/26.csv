@@ -1,0 +1,307 @@
+"astro-ph/9310043",,"P. Catelan, P. Coles, S. Matarrese and L. Moscardini","Weighted Bias and Galaxy Clustering","8 pages in Latex with mn.sty (here enclosed) plus 2 figures
+  (postscript files here enclosed), DAPD-311","Mon.Not.Roy.Astron.Soc. 268 (1994) 966","10.1093/mnras/268.4.966",,"astro-ph",,"  We consider a weighted biasing scheme for galaxy clustering. This differs
+from previous treatments in the fact that the biased density field coincides
+with the background mass--density whenever the latter exceeds a given threshold
+value. There is some physical motivation for this scheme and it is in better
+accord with intuitive ideas than models based on the Kaiser (1984) analysis of
+the clustering of rich clusters. We explain how different classes of object
+could be biased in different ways with respect to the underlying density
+distribution but still have $b=1$. We also show that if one applies our scheme
+consistently a weak dependence of $b$ upon density can be implied. This could
+also be the reason why the correlation function of galaxies in groups does not
+differ substantially from the correlation function of all galaxies.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 18:20:48 GMT""}]","2015-06-24"
+"astro-ph/9310044","Marc Kamionkowski","Marc Kamionkowski, Arthur Kosowsky, and Michael S. Turner","Gravitational Radiation from First-Order Phase Transitions","(25 pages and 9 figures as one uuencoded PostScript file),
+  IASSNS-HEP-93/44, FNAL-Pub-235-A","Phys.Rev. D49 (1994) 2837-2851","10.1103/PhysRevD.49.2837",,"astro-ph gr-qc hep-ph",,"  We consider the stochastic background of gravity waves produced by
+first-order cosmological phase transitions from two types of sources: colliding
+bubbles and hydrodynamic turbulence. First we discuss the fluid mechanics of
+relativistic spherical combustion. We then numerically collide many bubbles
+expanding at a velocity $v$ and calculate the resulting spectrum of
+gravitational radiation in the linearized gravity approximation. Our results
+are expressed as simple functions of the mean bubble separation, the bubble
+expansion velocity, the latent heat, and the efficiency of converting latent
+heat to kinetic energy of the bubble walls. We also estimate the gravity waves
+produced by a Kolmogoroff spectrum of turbulence and find that the
+characteristic amplitude of gravity waves produced is comparable to that from
+bubble collisions. Finally, we apply these results to the electroweak
+transition. Using the one-loop effective potential for the minimal electroweak
+model, the characteristic amplitude of gravity waves produced is $h\simeq
+1.5\times 10^{-27}$ at a characteristic frequency of $4.1\times 10^{-3} \,\rm
+Hz$ corresponding to $\Omega \sim10^{-22}$ in gravity waves, far too small for
+detection. Gravity waves from more strongly first-order phase transitions,
+including the electroweak transition in non-minimal models, have better
+prospects for detection, though probably not by LIGO.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 23:39:35 GMT""}]","2009-10-22"
+"cond-mat/9310056","Fabian Essler","Fabian H.L. Essler and Vladimir E. Korepin","SU(2)xSU(2) Invariant Scattering Matrix of the Hubbard Model","29 pages, jyTeX (macro included - just TeX the file) ITP-SB-93-45,
+  BONN-HE-93-39",,"10.1016/0550-3213(94)90019-1",,"cond-mat hep-th",,"  We consider the one-dimensional half-filled Hubbard model. We show that the
+excitation spectrum is given by the scattering states of four elementary
+excitations, which form the fundamental representation of $SU(2)\times SU(2)$.
+We determine the exact two-particle Scattering matrix, which a solution of the
+Yang-Baxter equation and reflects the $SO(4)$ symmetry of the model. The
+results for repulsive and attractive Hubbard model are related by an
+interchange of spin and charge degrees of freedom.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 20:15:41 GMT""}]","2009-10-22"
+"cond-mat/9310057","Mike Reid University of Canterbury","M. F. Reid, G. W. Burdick, and H. J. Kooy","The relationship between perturbation theory and direct calculations of
+  rare-earth transition intensities","LaTeX 11 pages. To be published in Journal of Alloys and Compounds","J. Alloys and Compounds 207-208, 78-82 (1994)","10.1016/0925-8388(94)90181-3",,"cond-mat",,"  We use a simplified calculation to demonstrate the equivalence between three
+different methods for calculating transition line strengths [B.R. Judd and D.
+R. Pooler, J. Phys. C 15 (1982) 591; G. W. Burdick and M. F. Reid, Phys. Rev.
+Lett. 70 (1993) 2491; G. W. Burdick, H. J. Kooy, and M. F. Reid, J. Phys.:
+Condens. Matter 5 (1993) L323]. These calculations demonstrate the complex
+interplay between spin-orbit and correlation contributions to two-photon
+transitions in rare-earth ions.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 15:08:36 GMT""}]","2019-09-09"
+"cond-mat/9310058","Gergely Zimanyi","G.T. Zimanyi, P.A. Crowell, R.T. Scalettar, and G.G. Batrouni","The Bose--Hubbard Model and Superfluid Staircases in $^{4}$He Films","11 pages+3 figures upon request, Revtex 3.0, UCD 93-112",,"10.1103/PhysRevB.50.6515",,"cond-mat",,"  The recent experimental observation of step-like structure in the superfluid
+density of $^{4}$He films on graphite is interpreted in terms of passage close
+to Mott insulating lobes in the Bose--Hubbard model. Plateaus develop in the
+superfluid density near the completion of each layer because of the He-He
+repulsion. We modify the Bose--Hubbard Hamiltonian, using a density-dependent
+He-He interaction term to model the He-substrate potential. Quantum Monte Carlo
+simulations yield results which agree well with the experimental data.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 00:14:14 GMT""}]","2009-10-22"
+"cond-mat/9310059",,"B. Drossel and F. Schwabl","Formation of Space-Time Structure in a Forest-Fire Model","20 pages REVTEX, 9 figures upon request",,"10.1016/0378-4371(94)90426-X",,"cond-mat",,"  We present a general stochastic forest-fire model which shows a variety of
+different structures depending on the parameter values. The model contains
+three possible states per site (tree, burning tree, empty site) and three
+parameters (tree growth probability $p$, lightning probability $f$, and
+immunity $g$). We review analytic and computer simulation results for a
+quasideterministic state with spiral-shaped fire fronts, for a percolation-like
+phase transition and a self-organized critical state. Possible applications to
+excitable systems are discussed.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 10:57:26 GMT""}]","2009-10-22"
+"cond-mat/9310060","Makoto Kaburagi","M. Kaburagi and T. Tonegawa","Energy Versus Magnetic-Field Diagram of the Spin-1 Haldane System with
+  an Impurity","10 pages, plain TeX (Postscript figures are included), KU-CCS-93-003",,"10.1016/0921-4526(94)91081-2",,"cond-mat",,"  Energy versus magnetic-field diagram of the spin-$1$ Haldane system with an
+impurity bond is studied in terms of spin-1/2 degree of freedom at the sites
+neighboring the impurity bond by means of analytical method. We examine the
+equivalence between the realistic Hamiltonian and the phenomenological
+Hamiltonian which is composed two spin-1/2 spins representing the spin-1/2
+degree of freedom. It is proved that when the strength of the impurity bond is
+sufficiently weak, the two Hamiltonians are equivalent to each other, as far as
+the energies of the low-lying states are concerned. We determine the
+correspondence between the interaction constants in the phenomenological
+Hamiltonian and those in the realistic Hamiltonian.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 15:31:36 GMT""}]","2009-10-22"
+"cond-mat/9310061","Makoto Kaburagi","Makoto Kaburagi and Takashi Tonegawa","Effect of a Spin-1/2 Impurity on the Spin-1 Antiferromagnetic Heisenberg
+  Chain","11 pages, plain TeX (Postscript figures are included), KU-CCS-93-002",,"10.1143/JPSJ.63.420",,"cond-mat",,"  Low-lying excited states as well as the ground state of the spin-1 antiferro-
+magnetic Heisenberg chain with a spin-1/2 impurity are investigated by means of
+a variational method and a method of numerical diagonalization. It is shown
+that 1) the impurity spin brings about massive modes in the Haldane gap, 2)
+when the the impurity-host coupling is sufficiently weak, the phenomenological
+Hamiltonian used by Hagiwara {\it et al.} in the analysis of ESR experimental
+results for NENP containing a small amount of spin-1/2 Cu impurities is
+equivalent to a more realistic Hamiltonian, as far as the energies of the
+low-lying states are concerned, 3) the results obtained by the variational
+method are in semi-quantitatively good agreement with those obtained by the
+numerical diagonalization.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 15:30:49 GMT""}]","2009-10-22"
+"gr-qc/9310033",,"Dieter R. Brill","Comments on Dragging Effects","4 pages, TEX, UMD 94-51",,,,"gr-qc",,"  This is a reply, given at the conference ``Mach's Principle"" in T\""ubingen in
+July 1993, to the paper by Pfister (1993). Unfortunately the Pfister paper
+itself was not sent to gr-qc.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 21:30:43 GMT""}]","2009-09-25"
+"gr-qc/9310034",,"Dieter R. Brill","Comments on Initial Value Formulation","4 pages, TEX, UMD94-52",,,,"gr-qc",,"  This is the reply given at the conference ``Mach's Principle"" at T\""ubingen
+in July 1993 to the paper by Isenberg (1993a). Unfortunately the Isenberg paper
+itself was not submitted to gr-qc.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 21:48:02 GMT""}]","2007-05-23"
+"gr-qc/9310035","John Baez","Louis H. Kauffman","Vassiliev Invariants and the Loop States in Quantum Gravity","22 pages, to appear in Knots and Quantum Gravity, ed. John Baez,
+  Oxford University Press, LaTeX",,,,"gr-qc",,"  An exposition of Vassiliev invariants is given in terms of the simplest
+approach to the functional integral construction of link invariants from
+Chern-Simons theory. This approach gives the top row evaluations of Vassiliev
+invariants for the classical Lie algebras, and a neat point of view on the
+results of Bar-Natan. It also clarifies the relation between Vassiliev
+invariants and the extension of the bracket invariant to links with transverse
+double points that appears in the work of Bruegmann, Gambini and Pullin on the
+loop representation of quantum gravity. We see that the Vassiliev vertex is not
+just a transversal intersection of Wilson loops, but rather has the structure
+of Casimir insertion (up to first order of approximation) coming from the
+difference formula in the functional integral. (Figures are available from the
+author.)
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 18:35:45 GMT""}]","2007-05-23"
+"hep-lat/9310026","Chris Michael","C. Michael","Fitting Correlated Data","10 pages, LATEX, 1 postscript figure enclosed, Liverpool LTH 321","Phys.Rev.D49:2616-2619,1994","10.1103/PhysRevD.49.2616",,"hep-lat",,"  We discuss fitting correlated data - with the example of hadron mass
+spectroscopy in mind. The main conclusion is that the method of minimising
+correlated $\chi^2$ is unreliable if the data sample is too small.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 18:00:30 GMT""}]","2008-11-26"
+"hep-lat/9310027","Pavlos Vranas","K.M. Bitar and P.M. Vranas","A Study of the Nambu--Jona-Lasinio Model on the Lattice","35 pages, LaTex file. (Added section with title: ""The zero pion mass
+  line on a finite lattice at large $N$"".)","Phys.Rev. D50 (1994) 3406-3421","10.1103/PhysRevD.50.3406",,"hep-lat hep-ph",,"  We present our full analysis of the two flavor Nambu--Jona-Lasinio model with
+$SU(2) \times SU(2)$ chiral symmetry on the four--dimensional hypercubic
+lattice with naive and Wilson fermions. We find that this model is an excellent
+toy field theory to investigate issues related to lattice QCD. We use the large
+$N$ approximation to leading order in $1/N$ to obtain non perturbative
+analytical results over almost the whole parameter range. By using numerical
+simulations we estimate that the size of the $1/N$ corrections for most of the
+quantities we consider are small and in this way we strengthen the validity of
+the leading order large $N$ calculations. We obtain results regarding the
+approach to the continuum chiral limit, the effects of the zero momentum
+fermionic modes on finite lattices and the scalar and pseudoscalar spectrum.
+Note: The full ps file of this preprint is also available via anonymous ftp to
+ftp.scri.fsu.edu. To get the ps file, ftp to this address and use for username
+""anonymous"" and for password your complete E-mail address. The file is in the
+directory pub/vranas (to go to that directory type: cd pub/vranas) and is
+called NJL_long.ps (to get it type: get NJL_long.ps)
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 14:47:11 GMT""},{""version"":""v2"",""created"":""Wed, 22 Jun 1994 15:36:09 GMT""}]","2009-10-22"
+"hep-ph/9310347","Kim Milton","Dean Miller, Kimball A. Milton, and Stephan Siegemund-Broka","Finite-Element Quantum Electrodynamics","2 pages, OKHEP-93-08, Latex, 2 uuencoded figures, uses hep93.sty
+  appended at end of file",,,,"hep-ph",,"  We apply the finite-element lattice equations of motion for quantum
+electrodynamics to an examination of anomalies in the current operators. By
+taking explicit lattice divergences of the vector and axial-vector currents we
+compute the vector and axial-vector anomalies in two and four dimensions. We
+examine anomalous commutators of the currents to compute divergent and finite
+Schwinger terms. And, using free lattice propagators, we compute the vacuum
+polarization in two dimensions and hence the anomaly in the Schwinger model.
+(To appear in the Proceedings of the International Europhysics Conference on
+High Energy Physics, Marseille, July 22-28, 1993.)
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 22:52:15 GMT""}]","2007-05-23"
+"hep-ph/9310348","Francesca Borzumati","F.M. Borzumati","Supersymmetric top decays","Latex file, 6 pages, 9 figures (not included, available upon
+  request), style file mystylr.sty appended after \end{document} preprint DESY
+  93-099",,,,"hep-ph",,"  The supersymmetric decays of the top quark into charged Higgs plus bottom,
+$\thb$, and into the supersymmetric partner of the top (${\wti u}_1$) plus the
+lightest neutralino (${\wti \chi}_1^0$), $\tstopneu$, are discussed within the
+framework of the Minimal Supersymmetric Standard Model with radiatively induced
+breaking of the gauge group $SU(2)\times U(1)$. The possibility of detecting
+these decays at present, i.e. given the available bounds on supersymmetric
+parameters, is compared with the situation a Next $e^+e^-$ Linear Collider
+would face if supersymmetric particles were still undiscovered at LEP~II. The
+indirect implications for $\thb$ and $\tstopneu$ of a measurement of the bottom
+quark decay $\bsgamma$ at the Standard Model level are taken into account. }}
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 01:50:53 GMT""}]","2009-09-25"
+"hep-ph/9310349","Tom Gould","K.S. Babu, T.M. Gould, and I.Z. Rothstein","Closing the Windows on Mev Tau Neutrinos","8 pgs. LaTeX (1 uuencoded fig., also available on request),
+  Bartol-930XXX, JHU-TIPAC-930026, UM-TH-93-26","Phys.Lett.B321:140-144,1994","10.1016/0370-2693(94)90340-9",,"hep-ph",,"  In this note, we analyze various constraints on the ``visible'' decay modes
+of a massive $\tau $ neutrino, $\nu_\tau\rightarrow\nu^\prime\,\gamma $ and
+$\nu_\tau\rightarrow\nu^\prime\, e^+ e^-$, where $\nu^\prime$ is a light
+neutrino. The BEBC beam dump experiment provides model-independent constraints
+on these modes. The lifetime for the $\nu^\prime\, e^+e^-$ mode is constrained
+to be $\tau_{\nu^\prime\, e^+e^-} \ge 0.18~(m_{\nu_\tau}/MeV)~sec.$ We point
+out that the same experiment implies a similar constraint on the
+$\nu^\prime\,\gamma$ mode. This results in a new upper limit on the transition
+magnetic moment of $\nu_\tau$, $\mu_{\rm tran} \le 1.1 \times 10^{-9}
+(MeV/m_{\nu_\tau})^2 \mu_B $. Furthermore, a limit on the electric charge of
+$\nu_\tau$ may be obtained, $Q_{\nu_\tau} \le 4 \times 10^{-4}e$. Combining
+these constraints with those arising from supernova observations and primordial
+nucleosynthesis calculations, we show that these ``visible'' decays cannot be
+the dominant decay modes of the $\tau$ neutrino.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 03:47:52 GMT""}]","2008-11-26"
+"hep-ph/9310350",,"S. Frixione, M. L. Mangano, P. Nason and G. Ridolfi","Improving the Weizs\""acker-Williams Approximation in Electron-Proton
+  Collisions","10 pages (LaTex, style file included) + 3 tables","Phys.Lett.B319:339-345,1993","10.1016/0370-2693(93)90823-Z","CERN-TH 7032/93, GEF-TH-18/1993","hep-ph",,"  We critically examine the validity of the Weizs\""acker-Williams approximation
+in electron-hadron collisions. We show that in its commonly used form it can
+lead to large errors, and we show how to improve it in order to get accurate
+results. In particular, we present an improved form that is valid beyond the
+leading logarithmic approximation in the case when a small-angle cut is applied
+to the scattered electron. Furthermore we include comparisons of the
+approximate expressions with the exact electroproduction calculation in the
+case of heavy-quark production.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 12:42:03 GMT""}]","2011-01-25"
+"hep-ph/9310351","S. Keller","S. Keller","Measuring the Gluon Helicity Difference Distribution Function of the
+  Proton using Photoproduction Processes","talk given at the International Europhysics Conference on High Energy
+  Physics, Marseille, July 22--28 1993. Latex, 5 pages + 2 postscript figures
+  encoded with uufile, FSU-HEP-931026. A postscript file with text and embedded
+  figures is available via anonymous ftp at hepsg1.physics.fsu.edu, file is
+  /pub/keller/fsu-hep-931026.ps",,,,"hep-ph",,"  Little information is known about the polarization of gluons inside a
+longitudinally polarized proton. I report on the sensitivity of photoproduction
+experiments to it. Both jet and heavy quark production are considered.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 14:58:07 GMT""}]","2007-05-23"
+"hep-th/9310161","Yao-Zhong Zhang","Anthony J. Bracken, Yao-Zhong Zhang and Mark D Gould","A possible origin of symmetric/asymmetric vertex models","UQMATH-93-09 (This paper is permanently removed from the network
+  since the content in this paper has now been put together with hep-th/9310183
+  in the the recently replaced (and widely revised) version of the latter)",,,,"hep-th",,"  This paper is removed from the network permanently. The content in this paper
+has now been put together with hep-th/9310183. See the recently replaced and
+widely revised version of the latter.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 20:08:51 GMT""},{""version"":""v2"",""created"":""Fri, 29 Oct 1993 16:37:43 GMT""},{""version"":""v3"",""created"":""Tue, 1 Mar 1994 15:13:52 GMT""}]","2008-02-03"
+"hep-th/9310163","Ader J.-P.","J-P Ader and H.Kachkachi","Induced Polyakov supergravity on Riemann surfaces of higher genus","LPTB 93-10, Latex file 20 pages","Class.Quant.Grav.11:767-784,1994","10.1088/0264-9381/11/4/004",,"hep-th",,"  An effective action is obtained for the $N=1$, $2D-$induced supergravity on a
+compact super Riemann surface (without boundary) $\hat\Sigma$ of genus $g>1$,
+as the general solution of the corresponding superconformal Ward identity. This
+is accomplished by defining a new super integration theory on $\hat\Sigma$
+which includes a new formulation of the super Stokes theorem and residue
+calculus in the superfield formalism. Another crucial ingredient is the notion
+of polydromic fields. The resulting action is shown to be well-defined and free
+of singularities on $\sig$. As a by-product, we point out a morphism between
+the diffeomorphism symmetry and holomorphic properties.
+","[{""version"":""v1"",""created"":""Mon, 25 Oct 1993 16:05:36 GMT""},{""version"":""v2"",""created"":""Fri, 29 Oct 1993 11:05:29 GMT""}]","2010-04-06"
+"hep-th/9310165","Jean-Marc Daul","Jean-Marc DAUL and Vladimir A.KAZAKOV","Wilson loop for large N Yang-Mills theory on a two-dimensional sphere","9 pages, LPTENS 93/37 and RU-93-50","Phys.Lett. B335 (1994) 371-376","10.1016/0370-2693(94)90366-2",,"hep-th",,"  We calculate various Wilson loop averages in a pure $SU(N)$-gauge theory on a
+two-dimensional sphere, in the large $N$ limit. The results can be expressed
+through the density of rows in the most probable Young tableau. They are valid
+in both phases (small and large areas of the sphere). All averages for
+self-intersecting loops can be reproduced from the average for a simple (non
+self-intersecting) loop by means of loop equations.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 11:02:57 GMT""}]","2009-10-22"
+"hep-th/9310166",,"F. De Jonghe and S. Vandoren","Construction of topological field theories using BV","15p","Phys.Lett. B324 (1994) 328-334","10.1016/0370-2693(94)90202-X",,"hep-th",,"  We discuss in detail the construction of topological field theories using the
+Batalin--Vilkovisky (BV) quantisation scheme. By carefully examining the
+dependence of the antibracket on an external metric, we show that
+differentiating with respect to the metric and the BRST charge do not commute
+in general. We introduce the energy momentum tensor in this scheme and show
+that it is BRST invariant, both for the classical and quantum BRST operators.
+It is antifield dependent, guaranteeing gauge independence. For topological
+field theories, this energy momentum has to be quantum BRST exact. This leads
+to conditions at each order in $\hbar$. As an example of this procedure, we
+consider topological Yang--Mills theory. We show how the reducible set of
+symmetries used in topological Yang--Mills can be recovered by means of trivial
+systems and canonical transformations. Self duality of the antighosts is
+properly treated by introducing an infinite tower of auxiliary fields. Finally,
+it is shown that the full energy momentum tensor is classically BRST exact in
+the antibracket sense.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 11:26:32 GMT""}]","2009-10-22"
+"hep-th/9310167","Coussaert Olivier","G. Barnich","Perturbative Gauge Anomalies in the Hamiltonian Formalism: A
+  Cohomological Analysis","9 pages LatTeX file, ULB-PMIF-93/06","Mod.Phys.Lett. A9 (1994) 665-674","10.1142/S0217732394003890",,"hep-th",,"  The quantum action principle of renormalisation theory is applied to the
+antibracket-antifield formalism for Hamiltonian systems. General results on the
+local BRST cohomology allow one to prove that the anomalies appear in the time
+development of the BRST charge and violate the nilpotency of this charge.
+Furthermore they are equivalent to those of the Lagrangian formalism. The
+analysis provides a completely gauge and regularisation independent proof of
+Faddeev's conjecture on the relationship between gauge anomalies and Schwinger
+terms in the context of descent equations.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 14:07:21 GMT""}]","2009-10-22"
+"hep-th/9310168",,"Arlen Anderson","Special functions from quantum canonical transformations","LaTeX, 24 pp., Imperial-TP-93-94-5 (revision: two sections added on
+  the three-body Toda problem and a two-dimensional generalization of the
+  hypergeometric equation)","J.Math.Phys. 35 (1994) 6018-6035","10.1063/1.530725",,"hep-th",,"  Quantum canonical transformations are used to derive the integral
+representations and Kummer solutions of the confluent hypergeometric and
+hypergeometric equations. Integral representations of the solutions of the
+non-periodic three body Toda equation are also found. The derivation of these
+representations motivate the form of a two-dimensional generalized
+hypergeometric equation which contains the non-periodic Toda equation as a
+special case and whose solutions may be obtained by quantum canonical
+transformation.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 15:02:20 GMT""},{""version"":""v2"",""created"":""Wed, 1 Jun 1994 15:04:16 GMT""}]","2009-10-22"
+"hep-th/9310169","Noureddine Mohammedi","H. Arfaei and Noureddine Mohammedi","Gauss Decomposition, Wakimoto Realisation and Gauged WZNW Models","17 pages, BONN-HE-93-42","Mod.Phys.Lett. A9 (1994) 1009-1024","10.1142/S0217732394000848",,"hep-th",,"  The implications of gauging the Wess-Zumino-Novikov-Witten (WZNW) model using
+the Gauss decomposition of the group elements are explored. We show that,
+contrary to standard gauging of WZNW models, this gauging is carried out by
+minimally coupling the gauge fields. We find that this gauging, in the case of
+gauging an abelian vector subgroup, differs from the standard one by terms
+proportional to the field strength of the gauge fields. We prove that gauging
+an abelian vector subgroup does not have a nonlinear sigma model
+interpretation. This is because the target-space metric resulting from the
+integration over the gauge fields is degenerate. We demonstrate, however, that
+this kind of gauging has a natural interpretation in terms of Wakimoto
+variables.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 15:07:50 GMT""}]","2015-06-26"
+"hep-th/9310170","Cumrun Vafa","Nathan Berkovits and Cumrun Vafa","On the Uniqueness of String Theory","14 pages","Mod.Phys.Lett. A9 (1994) 653-664","10.1142/S0217732394003889",,"hep-th",,"  We show that bosonic strings may be viewed as a particular class of vacua for
+N=1 superstrings, and N=1 superstrings may be viewed as a particular class of
+vacua for N=2 strings. Continuing this line of string hierarchies, we are led
+to search for a universal string theory which includes all the rest as a
+special vacuum selection.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 15:39:17 GMT""}]","2015-06-26"
+"hep-th/9310171","Miroslav Doresic","V.Bardek, M.Doresic and S.Meljanac","Example of q-deformed Field Theory","13 pages,LaTex","Int. J. Mod. Phys. A9 (1994) 4185-4194","10.1142/S0217751X94001709",,"hep-th",,"  The non-relativistic Chern-Simons theory with the single-valued anyonic field
+is proposed as an example of q-deformed field theory. The corresponding
+q-deformed algebra interpolating between bosons and fermions,both in position
+and momentum spaces, is analyzed.A possible generalization to a space with an
+arbitrary dimension is suggested.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 14:33:37 GMT""}]","2015-06-26"
+"math/9310213",,"Vladimir Kanovei","IST is more than an algorithm to prove ZFC theorems",,,,"Logic E-prints October 26, 1993","math.LO",,"  There is a sentence in the language of IST, Nelson's internal set theory,
+which is not equivalent in IST to a sentence in the ZFC language. Thus the
+Reduction algorithm of Nelson, that converts bounded IST formulas with standard
+parameters to provably (in IST) equivalent formulas in the ZFC language, cannot
+be extended to all formulas of the IST language. Therefore, certain IST
+sentences are ""meaningless"" from the point of view of the standard universe.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9310217",,"Mikhail I. Ostrovskii","On complemented subspaces of sums and products of Banach spaces",,"Proc. Amer. Math. Soc., 124 (1996), no. 7, 2005-2012",,"Banach Archive 10/26/93","math.FA",,"  It is proved that there exist complemented subspaces of countable topological
+products (locally convex direct sums) of Banach spaces which cannot be
+represented as topological products (locally convex direct sums) of Banach
+spaces. (This is a revised version of the paper by the same name formerly
+contained in the file ostrovskiicompsbsp.atx.)
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 15:12:34 GMT""}]","2010-09-07"
+"math/9310218",,"Mikhail I. Ostrovskii","Structure of total subspaces of dual Banach spaces",,"Teor. Funktsii, Funktsional. Anal. i Prilozhen. 58 (1992), 60-69,
+  English transl.: J. Math. Sci., 85 (1997), no. 5, 2188-2193",,"Banach Archive 10/26/93","math.FA",,"  Let $X$ be a separable nonquasireflexive Banach space. Let $Y$ be a Banach
+space isomorphic to a subspace of $X^*$. The paper is devoted to the following
+questions: 1. Under what conditions does there exist an isomorphic embedding
+$T:Y\to X^*$ such that subspace $T(Y)\subset X^*$ is total? 2. If such
+embeddings exist, what are the possible orders of $T(Y)$?
+  Here we need to recall some definitions. For a subset $M\subset X^*$ we
+denote the set of all limits of weak$^*$ convergent sequences in $M$ by
+$M_{(1)}$. Inductively, for ordinal number $\alpha$ we let
+$$M_{(\alpha)}=\cup_{\beta<\alpha}(M_{(\beta)})_{(1)}.$$
+  The least ordinal $\alpha$ for which $M_{(\alpha)}= M_{(\alpha+1)}$ is called
+the {\it order} of $M$.
+","[{""version"":""v1"",""created"":""Tue, 26 Oct 1993 15:12:34 GMT""}]","2010-09-07"

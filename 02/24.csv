@@ -1,0 +1,211 @@
+"alg-geom/9302005","Claude LeBrun","Claude LeBrun","A Finiteness Theorem for Quaternionic-Kaehler Manifolds with Positive
+  Scalar Curvature","17 pages, LaTeX",,,,"alg-geom math.AG",,"  We study the topology and geometry of those compact Riemannian (4n)-manifolds
+(M,g), n > 1, with positive scalar curvature and holonomy in Sp(n)Sp(1). Up to
+homothety, we show that there are only finitely many such manifolds of any
+dimension 4n.
+","[{""version"":""v1"",""created"":""Tue, 23 Feb 1993 16:03:09 GMT""}]","2008-02-03"
+"alg-geom/9302006","Claude LeBrun","Claude LeBrun and Michael Singer","Existence and Deformation Theory for Scalar-Flat Kaehler Metrics on
+  Compact Complex Surfaces","60 pages, LaTeX",,"10.1007/BF01232436",,"alg-geom math.AG",,"  Let M be a compact complex surface which admits a Kaehler metric whose scalar
+curvature has integral zero; and suppose the fundamental group of M does not
+contain an Abelian subgroup of finite index. Then if M is blown up at
+sufficiently many points, the resulting surface M' admits scalar-flat Kaehler
+metrics.
+","[{""version"":""v1"",""created"":""Tue, 23 Feb 1993 16:11:44 GMT""}]","2009-10-22"
+"astro-ph/9302014",,"L. Danese, L. Toffolatti, A. Franceschini, J.M. Martin-Mirones and G.
+  De Zotti","Angular Correlations of the X-Ray Background and Clustering of
+  Extragalactic X-Ray Sources","ApJ, in press (20 July 1993); 28 pages, TeX, ASTRPD-93-2-03",,"10.1086/172899",,"astro-ph",,"  The information content of the autocorrelation function (ACF) of intensity
+fluctuations of the X-ray background (XRB) is analyzed. The tight upper limits
+set by ROSAT deep survey data on the ACF at arcmin scales imply strong
+constraints on clustering properties of X-ray sources at cosmological distances
+and on their contribution to the soft XRB. If quasars have a clustering radius
+r_0=12-20 Mpc (H_0=50), and their two point correlation function, is constant
+in comoving coordinates as indicated by optical data, they cannot make up more
+40-50% of the soft XRB (the maximum contribution may reach 80% in the case of
+stable clustering, epsilon=0). Active Star-forming (ASF) galaxies clustered
+like normal galaxies, with r_0=10-12 Mpc can yield up to 20% or up to 40% of
+the soft XRB for epsilon=-1.2 or epsilon=0, respectively. The ACF on degree
+scales essentially reflects the clustering properties of local sources and is
+proportional to their volume emissivity. The upper limits on scales of a few
+degrees imply that hard X-ray selected AGNs have r_0<25 Mpc if epsilon=0 or
+r_0<20 Mpc if epsilon=-1.2. No significant constraints are set on clustering of
+ASF galaxies, due to their low local volume emissivity. The possible signal on
+scales >6 deg, if real, may be due to AGNs with r_0=20 Mpc; the contribution
+from clusters of galaxies with r_0~50 Mpc is a factor 2 lower.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 10:33:00 GMT""}]","2009-10-22"
+"astro-ph/9302015",,"P. Coles, L. Moscardini, F. Lucchin, S. Matarrese, A. Messina","Skewness as a Test of Non-Gaussian Primordial Density Fluctuations","1+12 pages (in Latex), 3 figures available upon request, DAPD-202","Mon.Not.Roy.Astron.Soc. 264 (1993) 749-757","10.1093/mnras/264.3.749",,"astro-ph",,"  We investigate the evolution of the skewness of the distribution of density
+fluctuations in CDM models with both Gaussian and non--Gaussian initial
+fluctuations. We show that the method proposed by Coles \& Frenk (1991), which
+uses the skewness of galaxy counts to test the hypothesis of Gaussian
+primordial density fluctuations, is a potentially powerful probe of initial
+conditions. As expected, the mass distribution in models with initially
+non--Gaussian fluctuations shows systematic departures from the Gaussian
+behaviour on intermediate to large scales. We investigate the effect of
+peculiar velocity distortions and normalisation upon the relationship between
+skewness and variance. These effects are generally small for the models we
+consider. Comparing our results to the QDOT measurements of the skewness, we
+find that our initially positive--skew models are clearly excluded by this
+analysis, but the available data do not rule out the negative--skew models.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 14:05:33 GMT""}]","2015-06-24"
+"cond-mat/9302036","Dermot Coffey","D. Coffey and K. S. Bedell (Los Alamos National Laboratory, Los
+  Alamos, NM)","Non-Analytic Contributions to the Self-Energy and the Thermodynamics of
+  Two-Dimensional Fermi Liquids","12 pages (RexTex, no figures)",,"10.1103/PhysRevLett.71.1043",,"cond-mat",,"  We calculate the entropy of a two-dimensional Fermi Liquid(FL) using a model
+with a contact interaction between fermions. We find that there are $T^2$
+contributions to the entropy from interactions separate from those due to the
+collective modes. These $T^2$ contributions arise from non-analytic corrections
+to the real part of the self-energy which may be calculated from the leading
+log dependence of the imaginary part of the self-energy through the
+Kramers-Kronig relation. We find no evidence of a breakdown in Fermi Liquid
+theory in 2D and conclude that FL in 2D are similar to 3D FL's.
+","[{""version"":""v1"",""created"":""Tue, 23 Feb 1993 18:25:17 GMT""}]","2009-10-22"
+"gr-qc/9302033","Charles Torre","C. G. Torre and I. M. Anderson","Symmetries of the Einstein Equations","15 pages, FTG-114-USU, Plain TeX","Phys.Rev.Lett. 70 (1993) 3525-3529","10.1103/PhysRevLett.70.3525",,"gr-qc",,"  Generalized symmetries of the Einstein equations are infinitesimal
+transformations of the spacetime metric that formally map solutions of the
+Einstein equations to other solutions. The infinitesimal generators of these
+symmetries are assumed to be local, \ie at a given spacetime point they are
+functions of the metric and an arbitrary but finite number of derivatives of
+the metric at the point. We classify all generalized symmetries of the vacuum
+Einstein equations in four spacetime dimensions and find that the only
+generalized symmetry transformations consist of: (i) constant scalings of the
+metric (ii) the infinitesimal action of generalized spacetime diffeomorphisms.
+Our results rule out a large class of possible ``observables'' for the
+gravitational field, and suggest that the vacuum Einstein equations are not
+integrable.
+","[{""version"":""v1"",""created"":""Tue, 23 Feb 1993 22:53:10 GMT""}]","2009-10-22"
+"gr-qc/9302034",,"M.C. Bento, O. Bertolami, P.V. Moniz, J.M. Mourao and P.M. S\'a","On the Cosmology of Massive Vector Fields with SO(3) Global Symmetry","19 pages, plain tex, DF/IST-3/92 and DFFCUL 03-5/1992","Class.Quant.Grav.10:285-298,1993","10.1088/0264-9381/10/2/010",,"gr-qc",,"  A relevant reference ([14]) has been added.
+","[{""version"":""v1"",""created"":""Tue, 23 Feb 1993 19:48:44 GMT""},{""version"":""v2"",""created"":""Wed, 3 Mar 1993 11:22:17 GMT""}]","2010-04-06"
+"hep-ph/9302295","M. Jezabek Th. T.. U. Karlsruhe","M. Je\.zabek and J.H. K\""uhn","The Top Width - Theoretical update","6 pages, LaTex, Univ. of Karlsruhe preprint TTP 93-4","Phys.Rev.D48:1910-1913,1993; Erratum-ibid.D49:4970,1994","10.1103/PhysRevD.48.R1910 10.1103/PhysRevD.49.4970",,"hep-ph",,"  A critical assessment of the available calculations of the top quark width is
+presented. QCD corrections, the finite mass of the $b$ quark and the effect of
+the $W$ width are included as well as the electroweak corrections. The relative
+importance of these corrections is demonstrated for the realistic range of top
+masses. For the QCD corrected decay rate we use the formulae from \cite{JK1}
+and include the electroweak correction taken from \cite{DS}. Our results differ
+from those available in the literature because all the later calculations
+ignored the effect of W width discussed earlier in \cite{JK1}~. This leads to
+an effect comparable in size to the electroweak correction.
+","[{""version"":""v1"",""created"":""Tue, 23 Feb 1993 17:05:00 GMT""}]","2014-11-17"
+"hep-ph/9302296","Takeshi Kurimoto","N.Kitazawa and T.Kurimoto","Unified Description of Hadrons and Heavy Hadron Decays","24 Pages (5 Figs available from the author, T.K.:
+  krmt@jpnyitp.bitnet), LaTeX with REVTeX ver.2.1, OS-GE-27-92, DPNU-92-48",,,,"hep-ph",,"  We construct an effective Lagrangian which describes interactions of heavy
+and light hadrons utilizing the chiral flavor symmetry for light quarks and
+heavy quark symmetry. For both light and heavy sector we include pseudo
+scalars, vectors and baryons in the Lagrangian. Heavy hadron decays are
+discussed as application of our formalism. The $D_s$ decay constant and the
+coupling constant among heavy meson, heavy vector meson and light meson are
+fitted from the experimental data of $D^0 \rightarrow K^- e^+\nu_e$ decay. We
+also point out the possibility of model independent determination of $|V_{ub}|$
+from $\Lambda_b \rightarrow p l \bar \nu$ decay.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 03:58:03 GMT""}]","2007-05-23"
+"hep-ph/9302297","Drew Peterson","K.A. Peterson and Stephen Godfrey","Constraints on Anomalous $WW\gamma$ Couplings From $e\gamma$\ Collisions","Talk presented at DPF92, 4 pages, latex with epsf.tex, OCIP/C 92-10",,,,"hep-ph",,"  We study the potential for using $e\gamma$\ collisions produced by
+backscattered laser photons to investigate WW$\gamma$\ couplings. We present
+results for Next Linear Collider energies of 500 GeV and 1 TeV. We find that
+where statistics allow, off W mass shell results can be quite important,
+complementing on W mass shell results from this and other studies. It is shown
+that $e\gamma$\ colliders would prove quite valuable in the investigations of
+W-boson physics.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 04:15:34 GMT""},{""version"":""v2"",""created"":""Wed, 24 Feb 1993 05:02:40 GMT""}]","2008-02-03"
+"hep-ph/9302298","Eletsky Vladimir","V.L.Eletsky and B.L. Ioffe","On the current correlators in QCD at finite temperature","6 pages, TPI-MINN-92/64-T","Phys.Rev.D47:3083-3085,1993","10.1103/PhysRevD.47.3083",,"hep-ph nucl-th",,"  Current correlators in QCD at a finite temperature $T$ are considered from
+the viewpoint of operator product expansion. It is stressed that at low $T$ the
+heat bath must be represented by hadronic, and not quark-gluon states. A
+possibility to express the results in terms of $T$-dependent resonance masses
+is discussed. It is demonstrated that in order $T^2$ the masses do not move and
+the only phenomenon which occurs is a parity and isospin mixing.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 10:53:03 GMT""}]","2010-11-01"
+"hep-ph/9302299","Eletsky Vladimir","V.L. Eletsky and B.L. Ioffe","Estimates of $m_d - m_u$ and $\langle\bar{d}d\rangle -
+  \langle\bar{u}u\rangle$ from QCD sum rules for $D$ and $D^{\ast}$ isospin
+  mass differences","6 pages, TPI-MINN-92/69-T and BUTP-93/2","Phys.Rev.D48:1441-1444,1993","10.1103/PhysRevD.48.1441",,"hep-ph",,"  The recent experimental data on $D^{+}-D^{0}$ and $D^{\ast\, +}-D^{\ast\,0}$
+mass differences are used as inputs in the QCD sum rules to obtain new
+estimates on the mass difference of light quarks and on the difference of their
+condensates: $m_d -m_u =3\pm 1\, MeV$, $\langle\bar{d}d\rangle
+-\langle\bar{u}u\rangle = -(2.5\pm 1)\cdot 10^{-3}\langle\bar{u}u\rangle$ (at a
+standard normalization point, $\mu = 0.5\, GeV$).
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 11:03:07 GMT""}]","2011-02-01"
+"hep-ph/9302300","Eletsky Vladimir","V. Eletsky, P. Ellis and J. Kapusta","Temperature Dependence of Electric and Magnetic Gluon Condensates","11 pages, TPI-MINN-92/37-T","Phys.Rev.D47:4084-4090,1993","10.1103/PhysRevD.47.4084",,"hep-ph nucl-th",,"  The contribution of Lorentz non-scalar operators to finite temperature
+correlation functions is discussed. Using the local duality approach for the
+one-pion matrix element of a product of two vector currents, the temperature
+dependence of the average gluonic stress tensor is estimated in the chiral
+limit to be $\langle{\bf E}^2 +{\bf B}^2\rangle_{T}=\frac{\pi^2}{10}bT^4$. At a
+normalization point $\mu=0.5$ GeV we obtain $b\approx 1.1$. Together with the
+known temperature dependence of the Lorentz scalar gluon condensate we are able
+to infer $\langle{\bf E}^2\rangle_T$ and $\langle{\bf B}^2\rangle_T$ separately
+in the low-temperature hadronic phase.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 11:37:24 GMT""}]","2010-11-01"
+"hep-ph/9302301",,"Arcadi Santamaria","Masses, Mixings, Yukawa Couplings and their Symmetries","10 pages, LaTeX, CERN-TH.6801/93","Phys.Lett. B305 (1993) 90-97","10.1016/0370-2693(93)91110-9",,"hep-ph",,"  We present a method to find the number of real and imaginary observable
+parameters coming from the Yukawa sector in an arbitrary gauge theory. The
+method leads naturally to a classification of Yukawa couplings according to
+their symmetries and suggests a new parametrization of masses and mixings that
+is useful to study the behaviour of Yukawa couplings under the renormalization
+group. We apply it to some examples based on the Standard Model with Yukawa
+couplings obeying various chiral symmetries. We also show how our method of
+parameter counting can be used in some models with an enlarged leptonic sector.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 15:04:25 GMT""}]","2009-10-22"
+"hep-ph/9302302","Geert Jan van Oldenborgh","Frank Cuypers, Geert Jan van Oldenborgh and Reinhold R\""uckl","Supersymmetric Signals in $\gamma\gamma$ Collisions","12 pages + 6 pages figures (included as uufile, also with anon. ftp
+  from gluon.hep.physik.uni-muenchen.de (129.187.198.1)), LaTeX (axodraw,epsf),
+  CERN-TH.6742/92, MPI-Ph/92-73, LMU-92/07. (forgot the bibliography file - my
+  excuses)","Nucl.Phys. B409 (1993) 144-160","10.1016/0550-3213(93)90450-4",,"hep-ph",,"  We study the occurrence of final states with only an electron-positron pair
+and missing transverse momentum as a signal of \susy\ in photon-photon
+collisions. Suitable high energy photon beams may be provided at linear
+colliders by back-scattering laser beams on electron beams. The final states
+considered represent a typical signature for the production and decay of
+selctron and chargino pairs within the \mssm. We show that, away from the
+kinematical threshold, selctrons produce this signal far more abundantly than
+charginos. The standard model background is dominated by W-pair production. We
+propose a series of kinematical cuts which reduce this background to an
+acceptable level. With a 1 TeV collider operated in the $\gamma\gamma$-mode, we
+find that interesting and complementary tests of \susic\ models can be
+performed for selctron masses up to 350 GeV.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 15:54:08 GMT""},{""version"":""v2"",""created"":""Thu, 25 Feb 1993 07:43:45 GMT""},{""version"":""v3"",""created"":""Fri, 26 Feb 1993 09:00:01 GMT""}]","2009-10-22"
+"hep-th/9302112","Malte Henkel","Francisco C. Alcaraz, Michel Droz, Malte Henkel and Vladimir
+  Rittenberg","Reaction-Diffusion Processes, Critical Dynamics and Quantum Chains","Latex 52 pages (2 figures appended at the end), UGVA-DPT 1992/12-799","Annals Phys. 230 (1994) 250-302","10.1006/aphy.1994.1026",,"hep-th cond-mat hep-lat",,"  The master equation describing non-equilibrium one-dimensional problems like
+diffusion limited reactions or critical dynamics of classical spin systems can
+be written as a Schr\""odinger equation in which the wave function is the
+probability distribution and the Hamiltonian is that of a quantum chain with
+nearest neighbor interactions. Since many one-dimensional quantum chains are
+integrable, this opens a new field of applications. At the same time physical
+intuition and probabilistic methods bring new insight into the understanding of
+the properties of quantum chains. A simple example is the asymmetric diffusion
+of several species of particles which leads naturally to Hecke algebras and
+$q$-deformed quantum groups. Many other examples are given. Several relevant
+technical aspects like critical exponents, correlation functions and
+finite-size scaling are also discussed in detail.
+","[{""version"":""v1"",""created"":""Tue, 23 Feb 1993 16:24:21 GMT""}]","2016-09-06"
+"hep-th/9302113","Geoffrey Dixon","Geoffrey Dixon","Division algebras, Galois fields, quadratic residues","13 pages",,,"BRX TH-344","hep-th math.RA",,"  Intended for mathematical physicists interested in applications of the
+division algebras to physics, this article highlights some of their more
+elegant properties with connections to the theories of Galois fields and
+quadratic residues.
+","[{""version"":""v1"",""created"":""Tue, 23 Feb 1993 18:16:00 GMT""}]","2008-02-03"
+"hep-th/9302114",,"Michael Freeman & Peter West","The covariant scattering and cohomology of $W_3$ strings","36 pages, KCL-TH-93-2","Int.J.Mod.Phys. A8 (1993) 4261-4290","10.1142/S0217751X93001740",,"hep-th",,"  A general formalism for covariant $W_3$ string scattering is given. It is
+found necessary to use screening charges that are constructed from the $W_3$
+fields including ghosts. The scattering amplitudes so constructed contain
+within them Ising model correlation functions and agree with those found
+previously by the authors. Using the screening charge and a picture changing
+operator, an infinite number of states in the cohomology of Q are generated
+from only three states. We conjecture that, apart from discrete states, these
+are all the states in the cohomology of Q.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 11:16:00 GMT""}]","2015-06-26"
+"hep-th/9302115",,"Doron Gepner","On RSOS models associated to Lie algebras and RCFT","Caltech preprint, February 1993, 16pp. (Restored truncated line and
+  corrected minor typos.)","Phys.Lett. B313 (1993) 45-54","10.1016/0370-2693(93)91189-T",,"hep-th",,"  RSOS models based on the Lie algebras $B_m$, $C_m$ and $D_m$ are derived from
+the braiding of conformal field theory. This gives the first systematic
+derivation of these models earlier described by Jimbo et al. The general two
+field Boltzmann weights associated to any RCFT are described, giving in
+particular the off critical thermalized Boltzmann weights. Crossing properties
+are discussed and are shown to agree with the general theory which connects
+these with toroidal modular transformations. The soliton systems based on these
+lattice models are described and are conjectured based on the mass formulae and
+the spins of the integrals of motions to describe perturbations of the RCFT
+$G_k\times G_1\over G_{k+1}$, where $G$ is the corresponding Lie algebra.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 14:02:27 GMT""},{""version"":""v2"",""created"":""Thu, 25 Feb 1993 19:29:47 GMT""}]","2009-10-22"
+"math/9302216","Stephen Montgomery-Smith","Yuri Latushkin, Stephen Montgomery-Smith","Lyapunov theorems for Banach spaces","6 pages","Bull. Amer. Math. Soc. (N.S.) 31 (1994) 44-49",,"Banach Archive 2/24/93; Bulletin migration 11/99","math.FA math.SP",,"  We present a spectral mapping theorem for semigroups on any Banach space $E$.
+From this, we obtain a characterization of exponential dichotomy for
+nonautonomous differential equations for $E$-valued functions. This
+characterization is given in terms of the spectrum of the generator of the
+semigroup of evolutionary operators.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9302011","Jochen Wambach","S. Drozdz, S. Nishizaki, J. Speth and J. Wambach","Modeling Complex Nuclear Spectra - Regularity versus Chaos","8 pages of text (LATEX), figures (not included, available from the
+  authors), Feb 93",,"10.1103/PhysRevC.49.867",,"nucl-th",,"  A statistical analysis of the spectrum of two particle - two hole doorway
+states in a finite nucleus is performed. On the unperturbed mean-field level
+sizable attractive correlations are present in such a spectrum. Including
+particle-hole rescattering effects via the residual interaction introduces
+repulsive dynamical correlations which generate the fluctuation properties
+characteristic of the Gaussian Orthogonal Ensemble. This signals that the
+underlying dynamics becomes chaotic. This feature turns out to be independent
+of the detailed form of the residual interaction and hence reflects the generic
+nature of the fluctuations studied.
+","[{""version"":""v1"",""created"":""Wed, 24 Feb 1993 15:25:19 GMT""}]","2009-10-22"

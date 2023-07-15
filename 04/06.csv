@@ -1,0 +1,214 @@
+"astro-ph/9304005",,"Anne A. Thoul, John N. Bahcall and Abraham Loeb","Element Diffusion in the Solar Interior","TeX document, 25 pages, for hardcopy with figures contact
+  BEST@IASSNS.BITNET. Institute for Advanced Study number AST 93/17","Astrophys.J. 421 (1994) 828-842","10.1086/173695",,"astro-ph",,"  We study the diffusion of helium and other heavy elements in the solar
+interior by solving exactly the set of flow equations developed by Burgers for
+a multi-component fluid, including the residual heat-flow terms. No
+approximation is made concerning the relative concentrations and no restriction
+is placed on the number of elements considered. We give improved diffusion
+velocities for hydrogen, helium, oxygen and iron, in the analytic form derived
+previously by Bahcall and Loeb. These expressions for the diffusion velocities
+are simple to program in stellar evolution codes and are expected to be
+accurate to $\sim 15\%$. Our complete treatment of element diffusion can be
+directly incorporated in a standard stellar evolution code by means of an
+exportable subroutine, but, for convenience, we also give simple analytical
+fits to our numerical results.
+","[{""version"":""v1"",""created"":""Tue, 6 Apr 1993 15:58:00 GMT""}]","2009-10-22"
+"cond-mat/9304006","Kent Baekgaard Lauritsen","K. B. Lauritsen, C. Moukarzel and H. J. Herrmann","Statistical Laws and Mechanics of Voronoi Random Lattices","14 pages (figures not included), LaTeX, HLRZ-26/93","J.Phys.I(France) 3 (1993) 1941-1951",,,"cond-mat hep-lat",,"  We investigate random lattices where the connectivities are determined by the
+Voronoi construction, while the location of the points are the dynamic degrees
+of freedom. The Voronoi random lattices with an associated energy are immersed
+in a heat bath and investigated using a Monte Carlo simulation algorithm. In
+thermodynamic equilibrium we measure coordination number distributions and test
+the Aboav-Weaire and Lewis laws.
+","[{""version"":""v1"",""created"":""Tue, 6 Apr 1993 09:11:51 GMT""}]","2007-05-23"
+"gr-qc/9304006","James B. Hartle","James B. Hartle","Spacetime Quantum Mechanics and the Quantum Mechanics of Spacetime","revtex4, 152 pages, added figures","in Gravitation and Quantizations: Proceedings of the 1992 Les
+  Houches Summer School, ed. by B. Julia and J. Zinn-Justin, North Holland,
+  Amsterdam, 1995",,,"gr-qc hep-th","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  These are the author's lectures at the 1992 Les Houches Summer School,
+""Gravitation and Quantizations"". They develop a generalized sum-over-histories
+quantum mechanics for quantum cosmology that does not require either a
+preferred notion of time or a definition of measurement. The ""post-Everett""
+quantum mechanics of closed systems is reviewed. Generalized quantum theories
+are defined by three elements (1) the set of fine-grained histories of the
+closed system which are its most refined possible description, (2) the allowed
+coarse grainings which are partitions of the fine-grained histories into
+classes, and (3) a decoherence functional which measures interference between
+coarse grained histories. Probabilities are assigned to sets of alternative
+coarse-grained histories that decohere as a consequence of the closed system's
+dynamics and initial condition. Generalized sum-over histories quantum theories
+are constructed for non-relativistic quantum mechanics, abelian gauge theories,
+a single relativistic world line, and for general relativity. For relativity
+the fine-grained histories are four-metrics and matter fields. Coarse grainings
+are four-dimensional diffeomorphism invariant partitions of these. The
+decoherence function is expressed in sum-over-histories form. The quantum
+mechanics of spacetime is thus expressed in fully spacetime form. The
+coarse-grainings are most general notion of alternative for quantum theory
+expressible in spacetime terms. Hamiltonian quantum mechanics of matter fields
+with its notion of unitarily evolving state on a spacelike surface is recovered
+as an approximation to this generalized quantum mechanics appropriate for those
+initial conditions and coarse-grainings such that spacetime geometry
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 23:43:51 GMT""},{""version"":""v2"",""created"":""Tue, 6 Apr 1993 22:30:15 GMT""},{""version"":""v3"",""created"":""Tue, 14 Jan 2014 03:59:38 GMT""}]","2014-01-15"
+"gr-qc/9304007",,"Dieter R. Brill and Sean A. Hayward","Global Structure of a Black-Hole Cosmos and its Extremes","11 pages. Diagrams not included","Class.Quant.Grav.11:359-370,1994","10.1088/0264-9381/11/2/008",,"gr-qc",,"  We analyze the global structure of a family of Einstein-Maxwell solutions
+parametrized by mass, charge and cosmological constant. In a qualitative
+classification there are: (i) generic black-hole solutions, describing a
+Wheeler wormhole in a closed cosmos of spatial topology $S^2\times S^1$; (ii)
+generic naked-singularity solutions, describing a pair of ``point"" charges in a
+closed cosmos; (iii) extreme black-hole solutions, describing a pair of
+``horned"" particles in an otherwise closed cosmos; (iv) extreme
+naked-singularity solutions, in which a pair of point charges forms and then
+evaporates, in a way which is not even weakly censored; and (v) an
+ultra-extreme solution. We discuss the properties of the solutions and of
+various coordinate systems, and compare with the Kastor-Traschen
+multi-black-hole solutions.
+","[{""version"":""v1"",""created"":""Tue, 6 Apr 1993 13:41:27 GMT""}]","2010-04-06"
+"hep-ph/9304216","My Account","J. Lopez, D. Nanopoulos, and K. Yuan","Accurate Neutralino Relic Density Computations in Supergravity Models","15 pages, 9 figures (available upon request as uuencoded file or
+  separate ps files), tex (harvmac) CTP-TAMU-14/93","Phys.Rev. D48 (1993) 2766-2776","10.1103/PhysRevD.48.2766",,"hep-ph",,"  We investigate the question of the proper thermal averaging of neutralino
+annihilation amplitudes which possess poles and thresholds, as they impact on
+the calculated neutralino relic density and therefore on the cosmological
+viability of supersymmetric models. We focus on two typical resonances, namely
+the $Z$ boson and the lightest Higgs boson ($h$). In the context of
+supergravity models with radiative electroweak symmetry breaking, an
+exploration of the whole parameter space of the model is possible and the
+overall relevance of these sophisticated analyses can be ascertained. As an
+example we chose the minimal $SU(5)$ supergravity model since the presence of
+such poles is essential to obtain a cosmologically acceptable model. We find
+that the proper thermal averaging is important for individual points in
+parameter space and that the fraction of cosmologically acceptable points is
+increased somewhat by the accurate procedure. However, qualitatively the new
+set of points is very similar to that obtained previously using the usual
+series approximations to the thermal average. We conclude that all
+phenomenological analyses based on the previously determined cosmologically
+allowed set remain valid.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 22:01:48 GMT""}]","2009-10-22"
+"hep-ph/9304217","Stephen B. Selipsky","Gonen Gomelski, Marek Karliner, and Stephen B. Selipsky","Static Properties of Quark Solitons","8 pages + 1 PostScript figure; plain LaTeX","Phys. Lett. B323 (1994) 182-187","10.1016/0370-2693(94)90289-5","BU-HEP/92-17, TAUP 2034-93","hep-ph",,"  It has been conjectured that at distances smaller than the confinement scale
+but large enough to allow for nonperturbative effects, QCD is described by an
+effective $SU(N_c {\times} N_f)_L\times SU(N_c {\times} N_f)_R$ chiral
+Lagrangian. The soliton solutions of such a Lagrangian are extended objects
+with spin ${1\over 2}$. For $N_c{=}3$, $N_f{=}3$ they are triplets of color and
+flavor and have baryon number ${1\over3}$, to be identified as constituent
+quarks. We investigate in detail the static properties of such
+constituent-quark solitons for the simplest case $N_f{=}1, N_c{=}3$. The mass
+of these objects comes from the energy of the static soliton and from quantum
+effects, described semiclassically by rotation of collective coordinates around
+the classical solution. The quantum corrections tend to be large, but can be
+controlled by exploring the Lagrangian's parameter space so as to maximize the
+inertia tensor. We comment on the acceptable parameter space and discuss the
+model's further predictive power.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 22:05:53 GMT""}]","2009-10-22"
+"hep-ph/9304218","Rick Weller","John S. Hagelin, S. Kelley and Toshiaki Tanaka","Exact Supersymmetric Amplitude for \kkb\/ and \bbb\/ Mixing","11 pages plus 2 figures available on request, MIU-THP-92/60","Mod.Phys.Lett.A8:2737-2746,1993","10.1142/S0217732393003123",,"hep-ph",,"  We present the most general supersymmetric amplitude for \kkb\/ and \bbb\/
+mixing resulting from gluino box diagrams. We use this amplitude to place
+general constraints on the magnitude of flavor-changing squark mass mixings,
+and compare these constraints to theoretical predictions both in and beyond the
+Minimal Supersymmetric Standard Model.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 18:35:24 GMT""}]","2010-11-01"
+"hep-ph/9304219",,"F.J. Botella, S. Noguera, J. Portol\'es","Parameter--free calculation of $D \rightarrow P P$ in a weak--gauged
+  $U(4)_L \otimes U(4)_R$ Chiral Lagrangian Model","FTUV/93-16 IFIC/93-7","Phys.Lett. B312 (1993) 191-198","10.1016/0370-2693(93)90509-G",,"hep-ph",,"  We analyze the decay modes of charmed mesons into two--pseudoscalars in a
+weak--gauged U(4)_L x U(4)_R chiral lagrangian model. The calculation is free
+of unknown parameters and only requires as inputs the masses of pseudoscalars
+and the decay constant of the pion. The general pattern of the results at
+leading order compares reasonably well with the experimental data.
+","[{""version"":""v1"",""created"":""Tue, 6 Apr 1993 11:21:00 GMT""}]","2009-10-22"
+"hep-ph/9304220",,"Jan Ambjorn and Poul Olesen","Electroweak Magnetism, W-condensation and Anti-Screening","Latex 12p. NBI-HE-93-17",,,,"hep-ph hep-th",,"  We review how external magnetic fields act as perfect probes of the
+non-abelian nature of the electroweak theory.
+","[{""version"":""v1"",""created"":""Tue, 6 Apr 1993 12:02:17 GMT""}]","2007-05-23"
+"hep-ph/9304221","Carlo Giunti","S.M. Bilenky, C. Giunti and V. Wataghin","The Process "" Pbar P -> E- E+ "" with Polarized Initial Particles and
+  Proton Form Factors in Time-Like Region","DFTT 13/93. LaTeX file, 11 pages + 3 figures (included)","Z.Phys.C59:475-480,1993","10.1007/BF01498628",,"hep-ph",,"  The discussion on the asymptotical behaviour of the form factors in the
+space-like and time-like regions have been corrected and clarified. Fig.3 has
+been replaced by an improved analysis of the data.
+","[{""version"":""v1"",""created"":""Tue, 6 Apr 1993 15:13:52 GMT""},{""version"":""v2"",""created"":""Thu, 22 Apr 1993 16:48:44 GMT""}]","2010-11-15"
+"hep-th/9304009","Yu-kui-Zhou","Paul A. Pearce and Yu-kui Zhou","Intertwiners and \ade Lattice Models","48 pages, Two postscript files included#","Int.J.Mod.Phys. B7 (1993) 3649-3705","10.1142/S0217979293003449",,"hep-th",,"  Intertwiners between \ade lattice models are presented and the general theory
+developed. The intertwiners are discussed at three levels: at the level of the
+adjacency matrices, at the level of the cell calculus intertwining the face
+algebras and at the level of the row transfer matrices. A convenient graphical
+representation of the intertwining cells is introduced. The utility of the
+intertwining relations in studying the spectra of the \ade models is
+emphasized. In particular, it is shown that the existence of an intertwiner
+implies that many eigenvalues of the \ade row transfer matrices are exactly in
+common for a finite system and, consequently, that the corresponding central
+charges and scaling dimensions can be identified.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 16:42:53 GMT""},{""version"":""v2"",""created"":""Tue, 6 Apr 1993 18:08:26 GMT""}]","2009-10-22"
+"hep-th/9304014","Gentil Oliveira Pires","C. Pinheiro, G. O. Pires and F. A. B. Rabelo de Carvalho","1-Loop Analysis of the Photon Self-Energy due to 3D-Gravity","LaTex, 8 pages, 4 figures available on request from the authors,
+  UCP-HEP 93/02","Europhys.Lett.25:329-333,1994","10.1209/0295-5075/25/5/003",,"hep-th",,"  A Maxwell-Chern-Simons field is minimally coupled to 3D-gravity. Feynman
+rules are written down and 1-loop corrections to the gauge-field self-energy
+are calculated. Transversality is verified and gauge-field dynamical mass
+generation does not take place.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 17:59:32 GMT""}]","2010-12-17"
+"hep-th/9304015","Alessandro D'Adda","M. Caselle, A. D'Adda, L. Magnea and S. Panzeri","Two dimensional QCD is a one dimensional Kazakov-Migdal model","DFTT 15/93, 17 pages, Latex (Besides minor changes and comments added
+  we note that for U(N) odd and even N have to be treated separately)","Nucl.Phys. B416 (1994) 751-770","10.1016/0550-3213(94)90553-3",,"hep-th",,"  We calculate the partition functions of QCD in two dimensions on a cylinder
+and on a torus in the gauge $\partial_{0} A_{0} = 0$ by integrating explicitly
+over the non zero modes of the Fourier expansion in the periodic time variable.
+The result is a one dimensional Kazakov-Migdal matrix model with eigenvalues on
+a circle rather than on a line. We prove that our result coincides with the
+standard expansion in representations of the gauge group. This involves a non
+trivial modular transformation from an expansion in exponentials of $g^2$ to
+one in exponentials of $1/g^2$. Finally we argue that the states of the $U(N)$
+or $SU(N)$ partition function can be interpreted as a gas of N free fermions,
+and the grand canonical partition function of such ensemble is given explicitly
+as an infinite product.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 17:38:13 GMT""},{""version"":""v2"",""created"":""Fri, 9 Apr 1993 12:31:13 GMT""}]","2009-10-22"
+"hep-th/9304017",,"M. Bordag and S. Voropaev","Charged Particle with Magnetic Moment in the Aharonov-Bohm Potential","16 pages, Latex, NTZ-93-07","J.Phys.A26:7637-7649,1993","10.1088/0305-4470/26/24/032",,"hep-th",,"  We considered a charged quantum mechanical particle with spin ${1\over 2}$
+and gyromagnetic ratio $g\ne 2$ in the field af a magnetic string. Whereas the
+interaction of the charge with the string is the well kown Aharonov-Bohm effect
+and the contribution of magnetic moment associated with the spin in the case
+$g=2$ is known to yield an additional scattering and zero modes (one for each
+flux quantum), an anomaly of the magnetic moment (i.e. $g>2$) leads to bound
+states. We considered two methods for treating the case $g>2$. \\ The first is
+the method of self adjoint extension of the corresponding Hamilton operator. It
+yields one bound state as well as additional scattering. In the second we
+consider three exactly solvable models for finite flux tubes and take the limit
+of shrinking its radius to zero. For finite radius, there are $N+1$ bound
+states ($N$ is the number of flux quanta in the tube).\\ For $R\to 0$ the bound
+state energies tend to infinity so that this limit is not physical unless $g\to
+2$ along with $R\to 0$. Thereby only for fluxes less than unity the results of
+the method of self adjoint extension are reproduced whereas for larger fluxes
+$N$ bound states exist and we conclude that this method is not applicable.\\ We
+discuss the physically interesting case of small but finite radius whereby the
+natural scale is given by the anomaly of the magnetic moment of the electron
+$a_e=(g-2)/2\approx 10^{-3}$.
+","[{""version"":""v1"",""created"":""Tue, 6 Apr 1993 11:11:50 GMT""}]","2009-10-22"
+"hep-th/9304018","Kondo","K.-I. Kondo and K. Yoshida","Finite-Temperature and -Density QED: Schwinger-Dyson Equation in the
+  Real-Time Formalism","28 pages+15 figures (figures: not included, available upon request)","Int.J.Mod.Phys. A10 (1995) 199-232","10.1142/S0217751X95000103","CHIBA-EP-67","hep-th",,"  Based on the real-time formalism, especially, on Thermo Field Dynamics, we
+derive the Schwinger-Dyson gap equation for the fermion propagator in QED and
+Four-Fermion model at finite-temperature and -density. We discuss some
+advantage of the real-time formalism in solving the self-consistent gap
+equation, in comparison with the ordinary imaginary-time formalism. Once we
+specify the vertex function, we can write down the SD equation with only
+continuous variables without performing the discrete sum over Matsubara
+frequencies which cannot be performed in advance without further approximation
+in the imaginary-time formalism. By solving the SD equation obtained in this
+way, we find the chiral-symmetry restoring transition at finite-temperature and
+present the associated phase diagram of strong coupling QED.
+  In solving the SD equation, we consider two approximations:
+instantaneous-exchange and $p_0$-independent ones. The former has a direct
+correspondence in the imaginary time formalism, while the latter is a new
+approximation beyond the former, since the latter is able to incorporate new
+thermal effects which has been overlooked in the ordinary imaginary-time
+solution. However both approximations are shown to give qualitatively the same
+results on the finite-temperature phase transition.
+","[{""version"":""v1"",""created"":""Tue, 6 Apr 1993 11:22:49 GMT""}]","2015-06-26"
+"nucl-th/9304002","Arturo De Pace","W.M. Alberico, M.B. Barbaro, A. De Pace, T.W. Donnelly and A. Molinari","The Pion in Electromagnetic and Weak Neutral Current Nuclear Response
+  Functions","TeX, 21 figures (Postscript, available from the authors), MIT
+  preprint CTP\#2194","Nucl. Phys. A563 (1993) 605","10.1016/0375-9474(93)90057-5",,"nucl-th",,"  The impact of pionic correlations and meson--exchange currents in determining
+the (vector) response functions for electroweak quasielastic lepton scattering
+from nuclei is discussed. The approach taken builds on previous work where the
+Fermi gas model is used to maintain consistency in treating forces and currents
+(gauge invariance) and to provide a Lorentz covariant framework. Results
+obtained in first-order perturbation theory are compared with infinite-order
+summation schemes (HF and RPA) and found to provide quite successful
+approximations for the quasielastic response functions. The role of pionic
+correlations in hardening the responses R_L and R_T is investigated in some
+detail, including studies of the relative importance of central and tensor
+pieces of the force and of exchange and self-energy diagrams; in addition,
+their role in significantly modifying the longitudinal parity-violating
+response R_{AV}^L is explored. The MEC are shown to provide a small, but
+non-negligible, contribution in determining the vector responses.
+","[{""version"":""v1"",""created"":""Tue, 6 Apr 1993 13:15:00 GMT""}]","2009-10-22"
+"nucl-th/9304003","Arturo De Pace","W.M. Alberico, P. Czerski, A. De Pace and V.R. Manfredi","Collective Modes in a Slab of Interacting Nuclear Matter: The effects of
+  finite range interactions","14 pages, TeX, 5 figures (separate uuencoded and tar-compressed
+  postscript files), Torino preprint DFTT 6/93","Z.Phys.A348:17-23,1994","10.1007/BF01291647",,"nucl-th",,"  We consider a slab of nuclear matter and investigate the collective
+excitations, which develop in the response function of the system. We introduce
+a finite-range realistic interaction among the nucleons, which reproduces the
+full G-matrix by a linear combination of gaussian potentials in the various
+spin-isospin channels. We then analyze the collective modes of the slab in the
+S=T=1 channel: for moderate momenta hard and soft zero-sound modes are found,
+which exhaust most of the excitation strength. At variance with the results
+obtained with a zero range force, new ""massive"" excitations are found for the
+vector-isovector channel .
+","[{""version"":""v1"",""created"":""Tue, 6 Apr 1993 14:49:39 GMT""},{""version"":""v2"",""created"":""Wed, 7 Apr 1993 10:19:14 GMT""}]","2015-06-26"

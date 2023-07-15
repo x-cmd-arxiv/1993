@@ -1,0 +1,102 @@
+"adap-org/9303002","Kunihiko Kaneko","Kunihiko Kaneko and Junji Suzuki","Evolution to the Edge of Chaos in Imitation Game","CYCLER Paper 93mar006. 8 pages, LaTex. (3.28 revised for minor LaTeX
+  changes)",,,,"adap-org nlin.AO q-bio.PE",,"  Motivated by the evolution of complex bird songs, an abstract imitation game
+is proposed to study the increase of dynamical complexity: Artificial ""birds""
+display a ""song"" time series to each other, and those that imitate the other's
+song better win the game. With the introduction of population dynamics
+according to the score of the game and the mutation of parameters for the song
+dynamics, the dynamics is found to evolve towards the borderline between chaos
+and a periodic window, after punctuated equilibria. The importance of edge of
+chaos with topological chaos for complexity is stressed.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 00:00:00 GMT""},{""version"":""v2"",""created"":""Mon, 29 Mar 1993 02:17:00 GMT""}]","2008-06-25"
+"chao-dyn/9303008","Fausto Borgonovi","Fausto Borgonovi and Italo Guarneri","S-matrix Fluctuations in a model with Classical Diffusion and Quantum
+  Localization","CYCLER Paper 93mar003 PostScript file (9 pages)",,"10.1103/PhysRevE.48.R2347",,"chao-dyn nlin.CD",,"  The statistics of S-matrix fluctuations are numerically investigated on a
+model for irregular quantum scattering in which a classical chaotic diffusion
+takes place within the interaction region. Agreement with various random-matrix
+theoretic predictions is discussed in the various regimes (ballistic,
+diffusive, localized).
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 00:00:00 GMT""}]","2009-10-22"
+"chao-dyn/9303009","Kunihiko Kaneko","Kunihiko Kaneko","Chaotic Traveling Waves in a Coupled Map Lattice","CYCLER Paper 93mar005",,"10.1016/0167-2789(93)90126-L",,"chao-dyn nlin.CD",,"  Traveling waves triggered by a phase slip in coupled map lattices are
+studied. A local phase slip affects globally the system, which is in strong
+contrast with kink propagation. Attractors with different velocities coexist,
+and form quantized bands determined by the number of phase slips. The mechanism
+and statistical and dynamical characters are studied with the use of spatial
+asymmetry, basin volume ratio, Lyapunov spectra, and mutual information. If the
+system size is not far from an integer multiple of the selected wavelength,
+attractors are tori, while weak chaos remains otherwise, which induces chaotic
+modulation of waves or a chaotic itinerancy of traveling states. In the
+itinerancy, the residence time distribution obeys the power law distribution,
+implying the existence of a long-ranged correlation. Supertransients before the
+formation of traveling waves are noted in the high nonlinearity regime. In the
+weaker nonlinearity regime corresponding to the frozen random pattern, we have
+found fluctuation of domain sizes and Brownian-like motion of domains.
+Propagation of chaotic domains by phase slips is also found. Relevance of our
+discoveries to B\'{e}nard convection experiments and possible applications to
+information processing are briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 00:00:00 GMT""}]","2009-10-22"
+"cond-mat/9303010","Yamanaka Masanori","M.Yamanaka, Y.Hatsugai and M.Kohmoto","Phase diagram of the S=1/2 quantum spin chain with bond alternation","25 pages, RevTex 2.0, 9 Figures available on request, Tec.rep. of
+  ISSP No.A2652","Phys. Rev. B 48, 9555 (1993)","10.1103/PhysRevB.48.9555",,"cond-mat",,"  We study the ground state properties of the bond alternating $S=1/2$ quantum
+spin chain whose Hamiltonian is H=\sum_j (S_{2j}^x S_{2j+1}^x +S_{2j}^y
+S_{2j+1}^y +\lambda S_{2j}^z S_{2j+1}^z ) +\beta \sum_j {\bf S}_{2j-1} \cdot
+{\bf S}_{2j} . When $\beta=0$, the ground state is a collection of local
+singlets with a finite excitation gap. In the limit of strong ferromagnetic
+coupling $\beta \to - \infty$, this is equivalent to the $S=1 \ XXZ$
+Hamiltonian. It has several ground state phases in the $\lambda$-$\beta$ plane
+including the gapful Haldane phase. They are characterized by a full breakdown,
+partial breakdowns and a non-breakdown of the hidden discrete $Z_2 \times Z_2$
+symmetry. The ground state phase diagram is obtained by series expansions.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 09:22:02 GMT""}]","2009-10-22"
+"cond-mat/9303011","Andrew Rutenberg","A.J. Bray and A.D. Rutenberg","Growth Laws for Phase Ordering","12 pages, LaTeX, second try","Phys. Rev. E 49, R27 (1994)","10.1103/PhysRevE.49.R27",,"cond-mat",,"  We determine the characteristic length scale, $L(t)$, in phase ordering
+kinetics for both scalar and vector fields, with either short- or long-range
+interactions, and with or without conservation laws. We obtain $L(t)$
+consistently by comparing the global rate of energy change to the energy
+dissipation from the local evolution of the order parameter. We derive growth
+laws for O(n) models, and our results can be applied to other systems with
+similar defect structures.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 12:24:57 GMT""},{""version"":""v2"",""created"":""Tue, 9 Mar 1993 15:04:27 GMT""}]","2009-10-22"
+"hep-ph/9303228",,"O.V. Teryaev","The Emc Spin Crisis: Comparing Proton and Photon","8 pages (2 figures included into the text), LATEX, the updated
+  contribution to XI High Energy Physics Seminar, Dubna, September 1992",,,,"hep-ph",,"  The ""kinematical"" resolution of the $U_A(1)$ problem is proposed. The
+cancellation of photonic and gluonic anomalies suggested by the t'Hooft
+consistency principle naturally explains the zero singlet contributions to the
+first moments of proton and photon spin structure functions. The new sum rule
+for the photon spin structure function is derived. The strong strong
+$Q^2$-dependence of the Gerasimov-Drell-Hearn sum rule is related to the $G_2$
+structure function and to the gluonic anomaly.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 1993 16:53:18 GMT""}]","2007-05-23"
+"hep-th/9303040","Vadim S. Kaplunovsky","Vadim Kaplunovsky and Jan Louis","Model-Independent Analysis of Soft Terms in Effective Supergravity and
+  in String Theory","CERN-TH.6809/93, UTTG-05-93, PHYZZX macros required, 13 pages","Phys.Lett.B306:269-275,1993","10.1016/0370-2693(93)90078-V",,"hep-th hep-ph",,"  We discuss supersymmetry breakdown in effective supergravities such as emerge
+in the low-energy limit of superstring theory. Without specifying the precise
+trigger of the breakdown, we analyse the soft parameters in the Lagrangian of
+the supersymmetrized Standard Model.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 10:18:57 GMT""}]","2010-02-18"
+"hep-th/9303041",,"J. Ambjorn, S. Jain, J. Jurkiewicz and C.F. Kristjansen","Observing 4D Baby Universes in Quantum Gravity","10 pages, 3 figures (available by request as PS files)","Phys.Lett. B305 (1993) 208-213","10.1016/0370-2693(93)90109-U","NBI-HE-93-2","hep-th gr-qc hep-lat",,"  We measure the fractal structure of four dimensional simplicial quantum
+gravity by identifying so-called baby universes. This allows an easy
+determination of the critical exponent $\g$ connected to the entropy of
+four-dimensional manifolds.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 14:37:00 GMT""}]","2009-10-22"
+"hep-th/9303042",,"J. Ambjorn, Z. Burda, J. Jurkiewicz and C.F. Kristjansen","4D Quantum Gravity Coupled to Matter","15 pages, 9 figures (available as PS-files by request). Latex","Phys.Rev. D48 (1993) 3695-3703","10.1103/PhysRevD.48.3695","NBI-HE-93-3","hep-th gr-qc hep-lat",,"  We investigate the phase structure of four-dimensional quantum gravity
+coupled to Ising spins or Gaussian scalar fields by means of numerical
+simulations.
+  The quantum gravity part is modelled by the summation over random simplicial
+manifolds, and the matter fields are located in the center of the 4-simplices,
+which constitute the building blocks of the manifolds. We find that the
+coupling between spin and geometry is weak away from the critical point of the
+Ising model. At the critical point there is clear coupling, which qualitatively
+agrees with that of gaussian fields coupled to gravity. In the case of pure
+gravity a transition between a phase with highly connected geometry and a phase
+with very ``dilute'' geometry has been observed earlier. The nature of this
+transition seems unaltered when matter fields are included.
+  It was the hope that continuum physics could be extracted at the transition
+between the two types of geometries. The coupling to matter fields, at least in
+the form discussed in this paper, seems not to improve the scaling of the
+curvature at the transition point.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 14:37:41 GMT""}]","2009-10-22"
+"hep-th/9303043",,"H.J. de Vega, Luca Mezincescu and Rafael I. Nepomechie","Thermodynamics of Integrable Chains with Alternating Spins","10 pages (change in the speed of sound by a factor of 2, implying
+  central charge c_{vir} = 2)","Phys.Rev. B49 (1994) 13223-13226","10.1103/PhysRevB.49.13223","LPTHE-PAR 93-09, UMTG-171","hep-th cond-mat",,"  We consider a two-parameter $(\bar c, \tilde c)$ family of quantum integrable
+Hamiltonians for a chain of alternating spins of spin $s=1/2$ and $s=1$. We
+determine the thermodynamics for low-temperature $T$ and small external
+magnetic field $H$, with $T << H$. In the antiferromagnetic $(\bar c > 0,
+\tilde c > 0)$ case, the model has two gapless excitations. In particular, for
+$\bar c = \tilde c$, the model is conformally invariant and has central charge
+$c_{vir} = 2$. When one of these parameters is zero, the Bethe Ansatz equations
+admit an infinite number of solutions with lowest energy.
+","[{""version"":""v1"",""created"":""Mon, 8 Mar 1993 15:08:32 GMT""},{""version"":""v2"",""created"":""Wed, 31 Mar 1993 18:47:46 GMT""}]","2009-10-22"

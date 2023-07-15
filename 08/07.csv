@@ -1,0 +1,127 @@
+"cond-mat/9308010","Robert J. Gooding","R.J. Gooding, K.J.E. Vos, and P.W. Leung","An Exact Diagonalization Demonstration of Incommensurability and Rigid
+  Band Filling for N Holes in the t-J Model","Revtex 3.0; 23 pages, 1 table, and 13 figures, all included",,"10.1103/PhysRevB.49.4119",,"cond-mat",,"  We have calculated S(q) and the single particle distribution function <n(q)>
+for N holes in the t - J model on a non--square sqrt{8} X sqrt{32} 16--site
+lattice with periodic boundary conditions; we justify the use of this lattice
+in compariosn to those of having the full square symmetry of the bulk. This new
+cluster has a high density of vec k points along the diagonal of reciprocal
+space, viz. along k = (k,k). The results clearly demonstrate that when the
+single hole problem has a ground state with a system momentum of vec k =
+(pi/2,pi/2), the resulting ground state for N holes involves a shift of the
+peak of the system's structure factor away from the antiferromagnetic state.
+This shift effectively increases continuously with N. When the single hole
+problem has a ground state with a momentum that is not equal to k =
+(pi/2,pi/2), then the above--mentioned incommensurability for N holes is not
+found. The results for the incommensurate ground states can be understood in
+terms of rigid--band filling: the effective occupation of the single hole k =
+(pi/2,pi/2) states is demonstrated by the evaluation of the single particle
+momentum distribution function <n(q)>. Unlike many previous studies, we show
+that for the many hole ground state the occupied momentum states are indeed k =
+(+/- pi/2,+/- pi/2) states.
+","[{""version"":""v1"",""created"":""Fri, 6 Aug 1993 18:36:47 GMT""}]","2009-10-22"
+"hep-lat/9308006","Enrico Onofri","Francesco Di Renzo, Giuseppe Marchesini, Paolo Marenzoni and Enrico
+  Onofri (Dipartimento di Fisica, Universita` di Parma)","Lattice Perturbation Theory by Langevin Dynamics","5 pages, 2 postscript figues appended",,,,"hep-lat",,"  We present an application of the standard Langevin dynamics to the problem of
+weak coupling perturbative expansions for Lattice QCD. This method can be
+applied to the computation of the most general observables. In this preliminary
+work we will concentrate in particular on the computation of the perturbative
+terms of the $1\times 1$ Wilson loop, up to fourth order. It is shown that a
+stochastic gauge fixing is a possible solution to the problem of divergent
+fluctuations which affect higher order coefficients.
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1993 10:09:50 GMT""}]","2009-09-25"
+"hep-ph/9308239","Rohini Godbole","R.M. Godbole","Higgs Search : Present and Future","22 pages, 14 figures, available on request. Latex, needs
+  equation.sty, added at the end of manuscript. BU-TH-93/1","Pramana 41:S83-S105,1993","10.1007/BF02908078",,"hep-ph",,"  In this talk I review theoretical bounds on mass of the Higgs scalar in the
+Standard Model(SM) and then summarise current experimental limits from the LEP
+experiments. Following this I discuss the search strategies for the SM Higgs at
+LEP 200 and the TeV energy \eplem\ colliders which are under discussion. This
+will be followed by a summary of the Higgs search potential of the pp
+supercolliders such as SSC/LHC. I then close with a brief discussion of a `Dark
+Higgs' whose dominant decay modes are into invisible channels.
+","[{""version"":""v1"",""created"":""Fri, 6 Aug 1993 18:19:02 GMT""}]","2015-06-25"
+"hep-ph/9308240",,"C.-P. Yuan","Top Quark Physics at Hadron Colliders","PHYZZX, 10 pages, MSUHEP-93/10",,,,"hep-ph",,"  I briefly report on what we can learn about the top quark at hadron
+colliders.
+","[{""version"":""v1"",""created"":""Fri, 6 Aug 1993 21:04:45 GMT""}]","2007-05-23"
+"hep-ph/9308241",,"Adam F. Falk and Michael E. Peskin","Production, Decay, and Polarization of Excited Heavy Hadrons","37 pages, 3 figures available upon request, uses phyzzx format","Phys.Rev.D49:3320-3332,1994","10.1103/PhysRevD.49.3320","SLAC-PUB-6311, JHU-TIPAC-930019","hep-ph",,"  We discuss the production via fragmentation of excited heavy mesons and
+baryons, and their subsequent decay. In particular, we consider the question of
+whether a net polarization of the initial heavy quark may be detected, either
+in a polarization of the final ground state or in anisotropies in the decay
+products of the excited hadron. The result hinges in part on a nonperturbative
+parameter which measures the net transverse alignment of the light degrees of
+freedom in the fragmentation process. We use existing data on charmed mesons to
+extract this quantity for certain excited mesons. Using this result, we
+estimate the polarization retention of charm and bottom baryons.
+","[{""version"":""v1"",""created"":""Fri, 6 Aug 1993 23:17:00 GMT""}]","2010-11-01"
+"hep-ph/9308242","Bouzas","Antonio Bouzas","Intermittency in Branching Processes","20 pages, UCLA93/TEP/28","Z. Phys. C64 (1994) 665-674","10.1007/BF01957775",,"hep-ph",,"  We study the intermittency properties of two branching processes, one with a
+uniform and another with a singular splitting kernel. The asymptotic
+intermittency indices, as well as the leading corrections to the asymptotic
+linear regime are explicitly computed in an analytic framework. Both models are
+found to possess a monofractal spectrum with $\varphi_{q}=q-1$. Relations with
+previous results are discussed.
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1993 01:04:23 GMT""}]","2009-10-22"
+"hep-ph/9308243","Arthur Weldon","H. Arthur Weldon","Suppression of Bremsstrahlung at Non-Zero Temperature","16 pages (plain TeX), figures available on request","Phys.Rev. D49 (1994) 1579-1584","10.1103/PhysRevD.49.1579",,"hep-ph",,"  The first-order bremsstrahlung emission spectrum is $\alpha d\omega/\omega$
+at zero temperature. If the radiation is emitted into a region that contains a
+thermal distribution of photons, then the rate is increased by a factor
+$1+N(\omega)$ where $N(\omega)$ is the Bose-Einstein function. The stimulated
+emission changes the spectrum to $\alpha Td\omega/\omega^{2}$ for $\omega\ll
+T$. If this were correct, an infinite amount of energy would be radiated in the
+low frequency modes. This unphysical result indicates a breakdown of
+perturbation theory. The paper computes the bremsstrahlung rate to all orders
+of perturbation theory, neglecting the recoil of the charged particle. When the
+perturbation series is summed, it has a different low-energy behavior. For
+$\omega\ll\alpha T$, the spectrum is independent of $\omega$ and has a value
+proportional to $d\omega/\alpha T$ .
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1993 14:24:12 GMT""}]","2009-10-22"
+"hep-th/9308029","Michael Martin Nieto","Michael Martin Nieto and D. Rodney Truax","Squeezed States for General Systems","8 pages, LAUR-93-1721, LaTeX","Phys.Rev.Lett. 71 (1993) 2843-2846","10.1103/PhysRevLett.71.2843",,"hep-th",,"  We propose a ladder-operator method for obtaining the squeezed states of
+general symmetry systems. It is a generalization of the annihilation-operator
+technique for obtaining the coherent states of symmetry systems. We connect
+this method with the minimum-uncertainty method for obtaining the squeezed and
+coherent states of general potential systems, and comment on the distinctions
+between these two methods and the displacement-operator method.
+","[{""version"":""v1"",""created"":""Fri, 6 Aug 1993 16:43:33 GMT""}]","2009-10-22"
+"hep-th/9308030",,"B. Harms and Y. Leblanc","Proper Field Quantization in Black Hole Spacetimes","16 pages, REVTEX","Ann.Phys.244:272-282,1995","10.1006/aphy.1995.1114",,"hep-th",,"  Canonical quantization of local field theories is classical black hole
+spacetimes with a single horizon leads to a particle number density with a
+thermal distribution in equilibrium at the Hawking temperature. A complete
+treatment including non-local quantum gravity effects has shown however that
+the full ""thermal vacuum"" of the theory is the false vacuum. In this work we
+find the true vacuum consistent with the complete semiclassical analysis of
+quantum black holes. The theory is described by a ""microcanonical"" quantum
+field theory with fixed energy E = M, the mass of the black hole.
+Considerations making use of the microcanonical density matrix as well as the
+idempotency condition show that particles in black hole backgrounds are
+described by pure states, unlike the canonical formulation.
+","[{""version"":""v1"",""created"":""Fri, 6 Aug 1993 20:27:36 GMT""}]","2010-11-01"
+"hep-th/9308031","Roberto Percacci","R. Percacci","The effective potential for the conformal factor in the standard model
+  and beyond","7 pages, plain TEX, ITP and SISSA",,,,"hep-th",,"  There is a general mechanism by which certain matter fields coupled to
+gravity can generate a nontrivial effective potential for the conformal factor
+of the metric. It is based on a nonstandard regularization method, with the
+cutoff being defined independently of the conformal factor. This mechanism
+produces a coupling of the matter fields to a dilaton, and a complicated
+interaction between matter, dilaton and metric. When it is applied to the
+standard model, it gives an effective potential which can be used to predict
+the top and Higgs masses. If the purely gravitational contribution to the
+potential is added, the mass of the dilaton is of the order of Planck's mass
+and the large hierarchy between the Planck and Fermi scales appears to be due
+to the smallness of the Higgs-dilaton coupling.
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1993 11:08:00 GMT""}]","2007-05-23"
+"math/9308223","Jacek Graczyk","Jacek Graczyk, Grzegorz Swiatek","Induced expansion for quadratic polynomials",,,,"Stony Brook IMS 1993/8","math.DS",,"  We prove that non-hyperbolic non-renormalizable quadratic polynomials are
+expansion inducing. For renormalizable polynomials a counterpart of this
+statement is that in the case of unbounded combinatorics renormalized mappings
+become almost quadratic. Technically, this follows from the decay of the box
+geometry. Specific estimates of the rate of this decay are shown which are
+sharp in a class of S-unimodal mappings combinatorially related to rotations of
+bounded type. We use real methods based on cross-ratios and Schwarzian
+derivative complemented by complex-analytic estimates in terms of conformal
+moduli.
+","[{""version"":""v1"",""created"":""Sat, 7 Aug 1993 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9308009",,"R.Cenni and S.Fantoni","Variational Methods for Nuclear Systems with Dynamical Mesons",,,"10.1016/0370-2693(93)91232-C",,"nucl-th",,"  We derive a model Hamiltonian whose ground state expectation value of any
+two-body operator coincides with that obtained with the Jastrow correlated wave
+function of the many-body Fermi system. Using this Hamiltonian we show that the
+variational principle can be extended to treat systems with dynamical mesons,
+even if in this case the concept of wave function looses its meaning.
+","[{""version"":""v1"",""created"":""Fri, 6 Aug 1993 17:11:00 GMT""}]","2009-10-22"
+"nucl-th/9308010",,"Dinghui H. Lu and Rubin H. Landau","Pionic Bound States in Momentum Space","11 pages plus 6 ps figures available on request from
+  lu@physics.orst.edu, OSU-TH-pibs",,,,"nucl-th",,"  Bound states of the pion--nucleus system are investigated in momentum space
+using a microscopic optical potential with inherent energy dependences and
+nonlocalities arising from elementary potential models. The wave equation and
+computational techniques are tested, shallow levels are calculated, and a
+comparison is made with experiment. Deep levels are found to be deeper and
+broader than those in other investigations.
+","[{""version"":""v1"",""created"":""Fri, 6 Aug 1993 23:32:39 GMT""}]","2007-05-23"

@@ -1,0 +1,181 @@
+"astro-ph/9304004",,"M. Capaccioli, E. Cappellaro, E.V. Held, and M. Vietri","Deep Kinematics and Dynamics of Edge-on S0 Galaxies. I. NGC 3115","Latex + L-AA Vers. 3.0, figures available from the authors",,,,"astro-ph",,"  As a first step of a program aimed to the detection of dark matter (or radial
+variations of M/L) in early-type galaxies, we report deep spectroscopic
+observations of the bulge-dominated edge-on S0 galaxy NGC 3115, made at ESO, La
+Silla, using EFOSC at the 3.6m telescope and EMMI at NTT. Such observations
+allow measurements of the rotational velocity out to 1.8 a_e (effective radii)
+from the galaxy center, where the surface brightness is \mu_B ~ 24 mag
+arcsec**-2. The rotation curve quickly reaches an asymptotic value, v_f ~ 260
+km/s, with only marginal indication of systematic decline within the range of
+our observations. The line-of-sight velocity dispersion has also been measured;
+it decreases steeply from a rather high central value and flattens out
+(<\sigma> ~ 100 km/s) within our observing range (a ~< 1.3 a_e). Models built
+on these data and simple dynamical arguments show that the M/L of NGC 3115 must
+thus be increasing from M/L = 6 (in solar units) in the inner regions (~ 1 a_e)
+to at least M/L >= 10 in the outermost regions (~ 2 a_e).
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 14:10:33 GMT""}]","2007-05-23"
+"chao-dyn/9304001","Jarmo Hietarinta","Jarmo Hietarinta and Seppo Mikkola (Department of Physics, University
+  of Turku, Turku, Finland)","Chaos in the one-dimensional gravitational three-body problem","24 pages of text (REVTEX 3.0) + 21 pages of figures. Figures are only
+  available in paper form, ask for a preprint from the authors",,"10.1063/1.165984","LA-UR 92-1791, TURKU-FL-P2","chao-dyn nlin.CD",,"  We have investigated the appearance of chaos in the 1-dimensional Newtonian
+gravitational three-body system (three masses on a line with $-1/r$ pairwise
+potential). We have concentrated in particular on how the behavior changes when
+the relative masses of the three bodies change (with negative total energy).
+For two mass choices we have calculated 18000 full orbits (with initial states
+on a $100\times 180$ lattice on the Poincar\'e section) and obtained dwell time
+distributions. For 105 mass choices we have calculated Poincar\'e maps for
+$10\times 18$ starting points. Our results show that the Poincar\'e section
+(and hence the phase space) divides into three well defined regions with orbits
+of different characteristics: 1) There is a region of fast scattering, with a
+minimum of pairwise collisions and smooth dependence on initial values. 2) In
+the chaotic scattering region the interaction times are longer, and both the
+interaction time and the final state depend sensitively on the starting point
+on the Poincar\'e section. For both 1) and 2) the initial and final states
+consists of a binary + single particle. 3) The third region consists of
+quasiperiodic orbits where the three masses are bound together forever. At the
+center of the quasiperiodic region there is the periodic Schubart orbit, whose
+stability turns out to correlate strongly with the global behavior.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 07:11:43 GMT""}]","2009-10-22"
+"cond-mat/9304005",,"D. Grecu, Anca Visinescu (Department of Theoretical Physics, Institute
+  of Atomic Physics, P.O.Box MG-6,Magurele,Bucharest,Romania)","On the Lattice Corrections to the Free Energy of Kink-Bearing Nonlinear
+  One-Dimensional Scalar Systems","12 pages,plaintex",,"10.1051/jp1:1993199",,"cond-mat",,"  A ri proof of the effective potential (lattice corrections included) deduced
+by Trullinger and Sasaki is given. Using asymptotic methods from the theory of
+differential equations depending on a large parameter, the lattice corrections
+to the kink and kink-kink contributions to the free energy are calculated. The
+results are in complete agreement with a first order correction to the energy
+of the static kink.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 10:54:00 GMT""}]","2009-10-22"
+"gr-qc/9304004","Robert Bartnik","Robert Bartnik and Gyula Fodor","Proof of the Thin Sandwich Conjecture","8 pages","Phys.Rev. D48 (1993) 3596-3599","10.1103/PhysRevD.48.3596",,"gr-qc",,"  We prove that the Thin Sandwich Conjecture in general relativity is valid,
+provided that the data $(g_{ab},\dot g_{ab})$ satisfy certain geometric
+conditions. These conditions define an open set in the class of possible data,
+but are not generically satisfied. The implications for the ``superspace''
+picture of the Einstein evolution equations are discussed.
+","[{""version"":""v1"",""created"":""Sun, 4 Apr 1993 23:49:15 GMT""}]","2009-10-22"
+"gr-qc/9304005","Mark A. Miller","O. Bostrom, M. Miller, L. Smolin","A New Discretization of Classical and Quantum General Relativity","25 pages, LaTeX (calculational errors corrected, revised conclusions)",,,"Goteborg ITP 94-5, SU-GP-93-4-1, CGPG-94/3-3","gr-qc hep-lat hep-th",,"  We propose a new discrete approximation to the Einstein equations, based on
+the Capovilla-Dell-Jacobson form of the action for the Ashtekar variables. This
+formulation is analogous to the Regge calculus in that the curvature has
+support on sets of measure zero. Both a Lagrangian and Hamiltonian formulation
+are proposed and we report partial results about the constraint algebra of the
+Hamiltonian formulation. We find that the discrete versions of the
+diffeomorphism constraints do not commute with each other or with the
+Hamiltonian constraint.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 13:51:34 GMT""},{""version"":""v2"",""created"":""Tue, 10 May 1994 21:02:16 GMT""}]","2008-02-03"
+"hep-ph/9304210","Claudio Coriano","Claudio Coriano'","Power Corrections to QCD Sum Rules for Compton Scattering","24 pages in latex 5 figures not includes availiable upon request
+  (email: claudio@max.physics.sunysb.edu), ITP-US-93-3 preprint","Nucl.Phys. B410 (1993) 90-116","10.1016/0550-3213(93)90574-9",,"hep-ph",,"  We extend previous work on sum rules for the invariant amplitudes of pion
+Compton scattering by deriving a complete lowest order perturbative spectral
+function - and its leading non perturbative power corr ections - for a specific
+combination of the two helicities $(H_1 + H_2)$ of this process. Using some
+properties of a modified version of the Borel transform, we develop a method of
+calculation of the gluonic corrections which can be easily extended to other
+similar reactions, such as proton Compton scattering. A preliminary comparison
+of the new sum rule with the pion form factor sum rule is made.
+","[{""version"":""v1"",""created"":""Sun, 4 Apr 1993 20:18:19 GMT""}]","2009-10-22"
+"hep-ph/9304211","Miriam Leurer","Miriam Leurer (Weizmann Institute)","New Bounds on Leptoquark Couplings","8 pages (Latex) + 3 appended postscript figures. WIS-93/26/March-PH","Phys.Rev.Lett.71:1324-1327,1993","10.1103/PhysRevLett.71.1324",,"hep-ph",,"  We derive new bounds on scalar leptoquark couplings from K^0 K^0 bar, D^0 D^0
+bar and B^0 B^0 bar mixing. Although leptoquarks contribute to these processes
+only at one loop, their contribution is large, due to the lack of GIM
+cancelation. Our bounds have two important features: (i) They bound g^4/M^2, in
+contrast to the hitherto known bounds on g^2/M^2, and are consequently stronger
+at high masses. (ii) The bound from D^0 D^0 bar mixing is the first FCNC bound
+in the up sector for chirally-coupled leptoquarks, and is similar in strength
+to the K^0 K^0 bar and B^0 B^0 bar bounds. Together, these bounds strongly
+constrain any leptoquark that couples to left handed quarks.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 11:56:25 GMT""}]","2010-11-01"
+"hep-ph/9304212","Per Osland","G\""oran F\""aldt and Per Osland","Decorated-box-diagram-contributions to Bhabha scattering. (I)","42 pages + 6 PostScript figures available on request, plain TEX, with
+  private macros (attached) and EPSF Bergen Scientific/Technical Report No.
+  1993-04","Nucl.Phys. B413 (1994) 16-63; Erratum-ibid. B419 (1994) 404-405","10.1016/0550-3213(94)90612-2",,"hep-ph",,"  We evaluate, in the high-energy limit, $s\gg|t|\gg m^2\gg\lambda^2$, the sum
+of amplitudes corresponding to a class of Feynman diagrams describing two-loop
+virtual photonic corrections to Bhabha scattering. The diagrams considered are
+box and crossed box diagrams with an extra photon decorating one of the fermion
+lines. The mathematical method employed is that of Mellin transforms. In the
+eikonal approximation, this sum of two-loop amplitudes has previously been
+evaluated, and found to be equal to the sum of the box and crossed box
+amplitudes, multiplied by the electric form factor of the electron. We obtain a
+similar factorization, but with the form factor replaced by another expression
+involving the logarithms $\log(\lambda^2/m^2)$ and $\log(\lambda^2/|t|)$.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 10:44:47 GMT""}]","2009-10-22"
+"hep-ph/9304213","JiangLiu","Jiang Liu","Phenomenological Description of an Unstable Fermion","20 pages, one Feynman diagram (not included), UPR-0558T",,,,"hep-ph",,"  We present a phenomenological description for an unstable fermion based upon
+one-loop renormalization of quantum field theory. It is emphasized that wave
+function renormalization can introduce important $CP$-conserving and
+$CP$-violating phases. Implications for the study of $CP$ violation are
+examined. Applications are given to $CP$-violating asymmetries in the $t$
+decays: $t\to bW^+, bH^+$, in which we show that a naive calculation following
+the standard rule either is incomplete or violates $CPT$.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 13:06:15 GMT""}]","2007-05-23"
+"hep-ph/9304214","Ez","Katherine Benson and Martin Bucher","Skyrmions and Semilocal Strings in Cosmology","27 pages, IAS-HEP 92/92","Nucl.Phys. B406 (1993) 355-376","10.1016/0550-3213(93)90172-L",,"hep-ph hep-th",,"  It has been pointed out that cosmic string solutions can exist in gauge field
+theories with broken symmetry even when $\pi _1(G/H)$ is trivial. The stability
+of such semilocal defects is not guaranteed by topology and depends on
+dynamical considerations. In the literature it has been tacitly assumed that if
+stable, such strings would form in the Early Universe in a manner analogous to
+the formation of a network of more robust topologically-stable strings. In this
+paper we find that except for unnaturally small values of the correlation
+length, a network of semilocal strings does not form. Instead, delocalized
+skyrmionic string configurations, which expand with the Hubble flow, dominate.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 12:44:00 GMT""}]","2009-10-22"
+"hep-ph/9304215","Big Bad Bob","R.K. Schaefer, T.K. Gaisser, and T.S.Stanev","Calculated Electron Fluxes at Airplane Altitudes","in REVTEX, 12 pages + 4 figures available upon request","Phys.Rev.D47:4823-4827,1993","10.1103/PhysRevD.47.R4823","BA-93-07","hep-ph astro-ph",,"  A precision measurement of atmospheric electron fluxes has been performed on
+a Japanese commercial airliner (Enomoto, {\it et al.}, 1991). We have performed
+a monte carlo calculation of the cosmic ray secondary electron fluxes expected
+in this experiment. The monte carlo uses the hadronic portion of our neutrino
+flux cascade program combined with the electromagnetic cascade portion of the
+CERN library program GEANT. Our results give good agreement with the data,
+provided we boost the overall normalization of the primary cosmic ray flux by
+12\% over the normalization used in the neutrino flux calculation.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 15:43:07 GMT""}]","2009-12-30"
+"hep-th/9304008","Nathan Poliatzky","Nathan Poliatzky","Normalization of Scattering States, Scattering Phase Shifts and
+  Levinson's Theorem","20 pages, LaTeX, Preprint WIS-92/100/Dec-PH (an erroneous minus sign
+  in Eq. (101) removed)","Helv. Phys. Acta 66 (1993) 241-263",,,"hep-th nucl-th",,"  We show that the normalization integral for the Schr\""odinger and Dirac
+scattering wave functions contains, besides the usual delta-function, a term
+proportional to the derivative of the phase shift. This term is of zero measure
+with respect to the integration over momentum variables and can be discarded in
+most cases. Yet it carries the full information on phase shifts and can be used
+for computation and manipulation of quantities which depend on phase shifts. In
+this paper we prove Levinson's theorem in a most general way which assumes only
+the completeness of states. In the case of a Dirac particle we obtain a new
+result valid for positive and negative energies separately. We also make a
+generalization of known results, for the phase shifts in the asymptotic limit
+of high energies, to the case of singular potentials. As an application we
+consider certain equations, which arise in a generalized interaction picture of
+quantum electrodynamics. Using the above mentioned results for the phase shifts
+we prove that any solution of these equations, which has a finite number of
+bound states, has a total charge zero. Furthermore, we show that in these
+equations the coupling constant is not a free parameter, but rather should be
+treated as an eigenvalue and hence must have a definite numerical value.
+","[{""version"":""v1"",""created"":""Sun, 4 Apr 1993 22:03:06 GMT""},{""version"":""v2"",""created"":""Wed, 5 May 1993 06:55:35 GMT""}]","2008-02-03"
+"hep-th/9304010","Hiroshi Shirokura","Yoichro Matsumura, Norisuke Sakai and Hiroshi Shirokura","Macroscopic Loop Amplitudes in Two-Dimensional Dilaton Gravity","23 pages, LaTeX, TIT/HEP-210","Prog.Theor.Phys. 90 (1993) 201-218","10.1143/ptp/90.1.201",,"hep-th",,"  Macroscopic loop amplitudes are obtained for the dilation gravity in
+two-dimensions. The dependence on the macroscopic loop length $l$ is completely
+determined by using the Wheeler-DeWitt equation in the mini-superspace
+approximation. The dependence on the cosmological constant $\Lambda$ is also
+determined by using the scaling argument in addition.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 05:58:36 GMT""}]","2017-02-01"
+"hep-th/9304011","Free the RCFTs","P. Ginsparg and Gregory Moore","Lectures on 2D gravity and 2D string theory (TASI 1992)","230 pages in harvmac l mode with 42 figures, all essential. WARNING:
+  tex file is 472kb, figures another 285kb, also available only via anon ftp
+  (as usual in hep-th/papers/9304), uses harvmac + epsf",,,"YCTP-P23-92, LA-UR-92-3479","hep-th",,"  Emphasis is on 2d target space (c=1 coupled to gravity).
+  Contents:
+  0. Introduction, Overview, and Purpose
+  1. Loops and States in Conformal Field Theory
+  2. 2D Euclidean Quantum Gravity I: Path Integral Approach
+  3. Brief Review of the Liouville Theory
+  4. 2D Euclidean Quantum Gravity II: Canonical Approach
+  5. 2D Critical String Theory
+  6. Discretized surfaces, matrix models, and the continuum limit
+  7. Matrix Model Technology I: Method of Orthogonal Polynomials
+  8. Matrix Model Technology II: Loops on the Lattice
+  9. Matrix Model Technology III: Free Fermions from the Lattice
+  10. Loops and States in Matrix Model Quantum Gravity
+  11. Loops and States in the $c=1$ Matrix Model
+  12. Fermi Sea Dynamics and Collective Field Theory
+  13. String scattering in two spacetime dimensions
+  14. Vertex Operator Calculations and Continuum Methods
+  15. Achievements, Disappointments, Future Prospects
+  ""if you read only one set of lecture notes this year, don't read these.""
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 14:07:08 GMT""}]","2007-05-23"
+"hep-th/9304012","Ikeda Noriaki","Noriaki Ikeda and Izawa K.-I","General Form of Dilaton Gravity and Nonlinear Gauge Theory","12 pages, phyzzx, RIMS-918","Prog.Theor.Phys. 90 (1993) 237-246","10.1143/ptp/90.1.237",,"hep-th",,"  We construct a gauge theory based on general nonlinear Lie algebras. The
+generic form of `dilaton' gravity is derived from nonlinear Poincar{\' e}
+algebra, which exhibits a gauge-theoretical origin of the non-geometric scalar
+field in two-dimensional gravitation theory.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 07:36:38 GMT""}]","2017-02-01"
+"hep-th/9304013","Noureddine Mohammedi","Noureddine Mohammedi","Naked Singularities in Four-Dimensional String Backgrounds","15 pages, Latex file, BONN-HE-93-11","Phys.Rev. D48 (1993) 3784-3792","10.1103/PhysRevD.48.3784",,"hep-th gr-qc",,"  It is shown that gauged nonlinear sigma models can be always deformed by
+terms proportional to the field strength of the gauge fields (nonminimal
+gauging). These deformations can be interpreted as perturbations, by marginal
+operators, of conformal coset models. When applied to the
+SL(2,R)*SU(2)/[U(1)*U(1)] WZWN model, a large class of four-dimensional curved
+spacetime backgrounds are obtained. In particular, a naked singularity may form
+at a time when the volume of the universe is different from zero.
+","[{""version"":""v1"",""created"":""Mon, 5 Apr 1993 10:14:14 GMT""}]","2009-10-22"

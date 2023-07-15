@@ -1,0 +1,186 @@
+"alg-geom/9304004",,"Reyer Sjamaar","Holomorphic Slices, Symplectic Reduction and Multiplicities of
+  Representations","34 pages, AmS-LaTeX version 1.1",,,,"alg-geom math.AG",,"  I prove the existence of slices for an action of a reductive complex Lie
+group on a K\""ahler manifold at certain orbits, namely those orbits that
+intersect the zero level set of a momentum map for the action of a compact real
+form of the group. I give applications of this result to symplectic reduction
+and geometric quantization at singular levels of the momentum map. In
+particular, I obtain a formula for the multiplicities of the irreducible
+representations occurring in the quantization in terms of symplectic invariants
+of reduced spaces, generalizing a result of Guillemin and Sternberg.
+","[{""version"":""v1"",""created"":""Mon, 12 Apr 1993 20:57:39 GMT""}]","2008-02-03"
+"astro-ph/9304011","Ben Dorman","Michael J. Tripicco, Ben Dorman and Roger A. Bell","Mass Loss In M67 Giants: Evidence From Isochrone Fitting","21pp., plain TeX astro-ph/yymmnnn","Astron.J. 106 (1993) 618","10.1086/116666",,"astro-ph",,"  We present a study of the stellar content of the open cluster M67. We have
+computed new evolutionary sequences of stellar models with solar abundance that
+cover all phases of evolution from the Zero-Age Main Sequence to the bright end
+of the Asymptotic Giant Branch (AGB). We examine the fit between the calculated
+and the observed red giant branch (RGB) in particular, and discuss factors that
+most influence its quality. The distinct color gap between the RGB and the
+clump giants is compared with the temperature gap between the He-burning tracks
+and the computed 5 Gyr isochrone. This purely differential approach strongly
+indicates that the clump giants have M $\lta 0.70\msun\ $, implying an amount
+of mass loss ($\approx 0.6$ \msun) well in excess of that found in globular
+cluster stars. Observational constraints on mass loss processes favor the
+interpretation that mass loss in cool low-mass giant stars increases with
+metallicity.
+","[{""version"":""v1"",""created"":""Mon, 12 Apr 1993 18:09:42 GMT""}]","2009-10-22"
+"astro-ph/9304012",,"Michael S. Turner","Inflation After COBE: Lectures on Inflationary Cosmology","69 pages, 13 Figs (available on request) FERMILAB-Conf-92/313-A",,,,"astro-ph hep-ph",,"  In these lectures I review the standard hot big-bang cosmology, emphasizing
+its successes, its shortcomings, and its major challenge---a detailed
+understanding of the formation of structure in the Universe. I then discuss the
+motivations for---and the fundamentals of---inflationary cosmology,
+particularly emphasizing the quantum origin of metric (density and
+gravity-wave) perturbations. Inflation addresses the shortcomings of the
+standard cosmology and provides the ``initial data'' for structure formation. I
+conclude by addressing the implications of inflation for structure formation,
+evaluating the various cold dark matter models in the light of the recent
+detection of temperature anisotropies in the cosmic background radiation by
+COBE. In the near term, the study of structure formation offers a powerful
+probe of inflation, as well as specific inflationary models.
+","[{""version"":""v1"",""created"":""Mon, 12 Apr 1993 20:53:51 GMT""}]","2007-05-23"
+"cond-mat/9304022","Jan T. Gammel","J. Tinka Gammel F. Guo, D. Guo, K.C. Ung, and S. Mazumdar","Pairing on Small Clusters in the Peierls-Hubbard Model: Implications for
+  C$_{60}$","to be published in the Proceedings of the International Winterschool
+  on the Electronic Properties of Novel Materials: Fullerenes and Related
+  Compounds, Kirchberg/Tirol, March 6-13, 1993, 5 pages, in plain TeX, 4
+  figures, appended, in postscript. NRaD.9304.007.GAM",,,,"cond-mat",,"  We study the pairing within the Peierls-Hubbard Model for electron- and
+hole-doped analogs of C$_{60}$ accessible to exact diagonalization techniques
+(cube, truncated tetrahedron, {\it etc.}). We discuss how inclusion of
+electron-phonon interactions can substantially modify the conclusions about
+pairing obtained when this coupling is neglected. We also discuss potential
+pitfalls in the extrapolation from these small system calculations to C$_{60}$,
+and stress the necessity of having the correct intuitive picture.
+","[{""version"":""v1"",""created"":""Tue, 13 Apr 1993 02:18:10 GMT""}]","2007-05-23"
+"gr-qc/9304015","Andrei Linde","Andrei Linde and Arthur Mezhlumian","Stationary Universe","12 pages, SU-ITP-93-9 (few misprints removed)","Phys.Lett.B307:25-33,1993","10.1016/0370-2693(93)90187-M",,"gr-qc astro-ph hep-ph",,"  If the Universe contains at least one inflationary domain with a sufficiently
+large and homogeneous scalar field, then this domain permanently produces new
+inflationary domains of all possible types. We show that under certain
+conditions this process of the self-reproduction of the Universe can be
+described by a stationary distribution of probability, which means that the
+fraction of the physical volume of the Universe in a state with given
+properties (with given values of fields, with a given density of matter, etc.)
+does not depend on time. This represents a strong deviation of inflationary
+cosmology from the standard Big Bang paradigm.
+","[{""version"":""v1"",""created"":""Tue, 13 Apr 1993 04:42:38 GMT""},{""version"":""v2"",""created"":""Thu, 13 May 1993 05:04:40 GMT""}]","2009-09-29"
+"gr-qc/9304016",,"Lajos Diosi","Unique family of consistent histories in the Caldeira-Leggett model","10pp LaTex, resubmitted because arXive can not process v1, no
+  revision, just typos corrected",,,,"gr-qc",,"  Based on the standard statistical interpretation of mixed quantum states, a
+unique family of consistent histories has been constructed for the quantum
+Brownian motion in the Caldeira-Leggett reservoir. Analytic solutions have been
+shown in the Markovian regime: they are uniquely defined coherent wave packets
+travelling near classical trajectories.
+","[{""version"":""v1"",""created"":""Tue, 13 Apr 1993 14:25:00 GMT""},{""version"":""v2"",""created"":""Sun, 8 Jul 2007 13:55:57 GMT""}]","2008-02-03"
+"hep-lat/9304006","Klaus Pinn","M. Hasenbusch, K. Pinn and K. Rummukainen","Computing Masses from Effective Transfer Matrices","(revised version: a few references added) LaTeX file, 25 pages, 6
+  PostScript figures, (revised version: a few references added)","Phys.Rev. D49 (1994) 495-506","10.1103/PhysRevD.49.495",,"hep-lat",,"  We study the use of effective transfer matrices for the numerical computation
+of masses (or correlation lengths) in lattice spin models. The effective
+transfer matrix has a strongly reduced number of components. Its definition is
+motivated by a renormalization group transformation of the full model onto a
+1-dimensional spin model. The matrix elements of the effective transfer matrix
+can be determined by Monte Carlo simulation. We show that the mass gap can be
+recovered exactly from the spectrum of the effective transfer matrix. As a
+first step towards application we performed a Monte Carlo study for the
+2-dimensional Ising model. For the simulations in the broken phase we employed
+a multimagnetical demon algorithm. The results for the tunnelling correlation
+length are particularly encouraging.
+","[{""version"":""v1"",""created"":""Tue, 13 Apr 1993 13:44:19 GMT""},{""version"":""v2"",""created"":""Thu, 6 May 1993 16:37:33 GMT""}]","2009-10-22"
+"hep-lat/9304007","Heiko Rieger","Heiko Rieger and A. P. Young","Critical Exponents of the Three Dimensional Random Field Ising Model","Revtex, 10 pages + 4 figures included as Latex files and 1 in
+  Postscript",,"10.1088/0305-4470/26/20/014",,"hep-lat",,"  The phase transition of the three--dimensional random field Ising model with
+a discrete ($\pm h$) field distribution is investigated by extensive Monte
+Carlo simulations. Values of the critical exponents for the correlation length,
+specific heat, susceptibility, disconnected susceptibility and magnetization
+are determined simultaneously via finite size scaling. While the exponents for
+the magnetization and disconnected susceptibility are consistent with a first
+order transition, the specific heat appears to saturate indicating no latent
+heat. Sample to sample fluctuations of the susceptibilty are consistent with
+the droplet picture for the transition.
+","[{""version"":""v1"",""created"":""Tue, 13 Apr 1993 11:26:44 GMT""}]","2019-06-05"
+"hep-lat/9304008","Kari Kankaala","I. Vattulainen, K. Kankaala, J. Saarinen, T. Ala-Nissila","A Comparative Study of Some Pseudorandom Number Generators","University of Helsinki preprint HU-TFT-93-22 (minor changes in Tables
+  2 and 7, and in the text, correspondingly)","Comput.Phys.Commun. 86 (1995) 209-226","10.1016/0010-4655(95)00015-8",,"hep-lat cond-mat",,"  We present results of an extensive test program of a group of pseudorandom
+number generators which are commonly used in the applications of physics, in
+particular in Monte Carlo simulations. The generators include public domain
+programs, manufacturer installed routines and a random number sequence produced
+from physical noise. We start by traditional statistical tests, followed by
+detailed bit level and visual tests. The computational speed of various
+algorithms is also scrutinized. Our results allow direct comparisons between
+the properties of different generators, as well as an assessment of the
+efficiency of the various test methods. This information provides the best
+available criterion to choose the best possible generator for a given problem.
+However, in light of recent problems reported with some of these generators, we
+also discuss the importance of developing more refined physical tests to find
+possible correlations not revealed by the present test methods.
+","[{""version"":""v1"",""created"":""Tue, 13 Apr 1993 14:43:12 GMT""},{""version"":""v2"",""created"":""Tue, 10 Aug 1993 08:08:04 GMT""}]","2009-10-22"
+"hep-ph/9304245","Mark Alford","M. Alford and M. Gleiser","Metastability in Two Dimensions and the Effective Potential","13pp, LaTex with Postscript figs, CLNS 93/1202, DART-HEP-93/03","Phys.Rev. D48 (1993) 2838-2844","10.1103/PhysRevD.48.2838",,"hep-ph cond-mat hep-lat",,"  We study analytically and numerically the decay of a metastable phase in
+(2+1)-dimensional classical scalar field theory coupled to a heat bath, which
+is equivalent to two-dimensional Euclidean quantum field theory at zero
+temperature. By a numerical simulation we obtain the nucleation barrier as a
+function of the parameters of the potential, and compare it to the theoretical
+prediction from the bounce (critical bubble) calculation. We find the
+nucleation barrier to be accurately predicted by theory using the bounce
+configuration obtained from the tree-level (``classical'') effective action.
+Within the range of parameters probed, we found that using the bounce derived
+from the one-loop effective action requires an unnaturally large prefactor to
+match the lattice results. Deviations from the tree-level prediction are seen
+in the regime where loop corrections would be expected to become important.
+","[{""version"":""v1"",""created"":""Mon, 12 Apr 1993 17:00:47 GMT""}]","2009-10-22"
+"hep-ph/9304246","Makoto Oka","Makoto Oka","Nuclear Force in the Skyrme Model: Quasistatic Approach","15","Nucl.Phys.A563:671-686,1993","10.1016/0375-9474(93)90059-7",,"hep-ph",,"  Dynamics of two-Skyrmion systems is studied in the quasistatic approach. The
+quasistatic approach enables us to formulate the collective coordinate
+quantization of two-Skyrmion systems consistently with the 1/Nc expansion. By
+constructing quasistatic field configurations for largely separated two
+Skyrmions, their energies are computed for three independent relative
+orientations of the Skyrmions in the isospin space. The obtained energies are
+much lower than those for the product approximation. In particular, the
+repulsion in the two-pion range is considerably reduced.
+","[{""version"":""v1"",""created"":""Tue, 13 Apr 1993 01:52:38 GMT""}]","2010-11-01"
+"hep-th/9304046",,"A. Galperin and E. Sokatchev","A Twistor Formulation of the Non-Heterotic Superstring with Manifest
+  Worldsheet Supersymmetry","21p., LaTeX","Phys.Rev. D48 (1993) 4810-4820","10.1103/PhysRevD.48.4810",,"hep-th",,"  We propose a new formulation of the $D=3$ type II superstring which is
+manifestly invariant under both target-space $N=2$ supersymmetry and worldsheet
+$N=(1,1)$ super reparametrizations. This gives rise to a set of twistor
+(commuting spinor) variables, which provide a solution to the two Virasoro
+constraints. The worldsheet supergravity fields are shown to play the r\^ole of
+auxiliary fields.
+","[{""version"":""v1"",""created"":""Mon, 12 Apr 1993 16:18:43 GMT""}]","2009-10-22"
+"hep-th/9304047","Sasha Gorsky","A.Gorsky and N.Nekrasov","Hamiltonian systems of Calogero type and two dimensional Yang-Mills
+  theory","34 pages,UUITP-6/93 and ITEP-20/93","Nucl.Phys. B414 (1994) 213-238","10.1016/0550-3213(94)90429-4",,"hep-th",,"  We obtain integral representations for the wave functions of Calogero-type
+systems,corresponding to the finite-dimentional Lie algebras,using exact
+evaluation of path integral.We generalize these systems to the case of the
+Kac-Moody algebras and observe the connection of them with the two dimensional
+Yang-Mills theory.We point out that Calogero-Moser model and the models of
+Calogero type like Sutherland one can be obtained either classically by some
+reduction from two dimensional Yang-Mills theory with appropriate sources or
+even at quantum level by taking some scaling limit.We investigate large k limit
+and observe a relation with Generalized Kontsevich Model.
+","[{""version"":""v1"",""created"":""Mon, 12 Apr 1993 19:44:10 GMT""}]","2009-10-22"
+"hep-th/9304048","Eric Raiten","Eric Raiten","Tachyon Condensates and String Theoretic Inflation","FERMI-PUB 93/074-T, harvmac, 16 pages","Nucl.Phys.B416:881-894,1994","10.1016/0550-3213(94)90559-2",,"hep-th",,"  Cosmological solutions of the beta function equations for the background
+fields of the closed bosonic string are investigated at the one-loop level.
+Following recent work of Kostelecky and Perry, it is assumed that the spatial
+sections of the space-time are conformally flat. Working in the sigma-model
+frame, the non-trivial tachyon potential is utilized to determine solutions
+with sufficient inflation to solve the smoothness and flatness problems. The
+graceful exit and density perturbation constraints can also be successfully
+implemented.
+","[{""version"":""v1"",""created"":""Tue, 13 Apr 1993 04:11:56 GMT""}]","2010-11-01"
+"hep-th/9304049","Vladimir Sadov","V. Sadov","The hamiltonian reduction of the BRST complex and N=2 SUSY","28 pages, 6 pictures available on request; in the revised version
+  some misprints are corrected",,,"HUTP-93/A006","hep-th",,"  We study the nonunitary representations of N=2 Super Virasoro algebra for the
+rational central charges c<3. The resolutions for the irreducible
+representations of N=2 SVir in terms of the ""2-d gravity modules"" are obtained
+and their characters are computed. The correspondence between the N=2
+nonunitary ""minimal"" models and the Virasoro minimal models coupled to 2-d
+gravity is shown at the level of states. We also define the hamiltonian
+reduction of the BRST complex of sl(N)/sl(N) coset to the BRST complex of the
+W-gravity coupled to the W matter. The case of sl(2) is considered explicitly.
+It leads to the presentation of N=2 Super Virasoro algebra by the Lie algebra
+cohomology. Finally, we reveal the mechanism of the correspondence between
+sl(2)/sl(2)$ coset and 2-d gravity.
+","[{""version"":""v1"",""created"":""Mon, 12 Apr 1993 22:50:48 GMT""},{""version"":""v2"",""created"":""Tue, 20 Apr 1993 16:16:23 GMT""}]","2008-02-03"
+"hep-th/9304054",,"J. Mickelsson and R. Percacci","Global Aspects of p-Branes","14 pages, plain TEX, SISSA 36/93/EP","J. Geom. Phys. 15 (1995) 369-380","10.1016/0393-0440(94)00016-W",,"hep-th",,"  We generalize to dimension $p>1$ the notion of string structure and discuss
+the related obstruction. We apply our results to a model of bosonic $p$-branes
+propagating on a principal $G$-bundle, coupled to a Yang--Mills field and an
+antisymmetric tensor field and in the presence of a Wess-Zumino term in the
+Lagrangian. We construct the quantization line bundle and discuss the action of
+background gauge transformations on wave functions.
+","[{""version"":""v1"",""created"":""Tue, 13 Apr 1993 13:29:23 GMT""}]","2015-06-26"
+"nucl-th/9304010",,"Michael Beyer","Model Analysis of Time Reversal Symmetry Test in the Caltech Fe-57
+  Gamma-Transition Experiment","5 pages, RevTex 3.0","Phys.Rev.C48:906,1993","10.1103/PhysRevC.48.906",,"nucl-th hep-ph",,"  The CALTECH gamma-transition experiment testing time reversal symmetry via
+the E2/M1 mulipole mixing ratio of the 122 keV gamma-line in Fe-57 has already
+been performed in 1977. Extending an earlier analysis in terms of an effective
+one-body potential, this experiment is now analyzed in terms of effective one
+boson exchange T-odd P-even nucleon nucleon potentials. Within the model space
+considered for the Fe-57 nucleus no contribution from isovector rho-type
+exchange is possible. The bound on the coupling strength phi_A from effective
+short range axial-vector type exchange induced by the experimental bound on
+sin(eta) leads to phi_A < 10^{-2}.
+","[{""version"":""v1"",""created"":""Tue, 13 Apr 1993 12:30:18 GMT""}]","2008-11-26"

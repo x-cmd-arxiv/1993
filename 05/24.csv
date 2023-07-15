@@ -1,0 +1,195 @@
+"astro-ph/9305029","Eanna E. Flanagan","Eanna Flanagan","The Sensitivity of Ligo to a Stochastic Background, and its Dependance
+  on the Detector Orientations","56 pages, 10 figures, Caltech preprint GRP-347, submitted to Phys Rev
+  D, uses revtex macros","Phys.Rev.D48:2389-2407,1993","10.1103/PhysRevD.48.2389",,"astro-ph gr-qc",,"  We analyze the sensitivity of a network of interferometer gravitational-wave
+detectors to the gravitational-wave stochastic background, and derive the
+dependence of this sensitivity on the orientations of the detector arms. We
+build on and extend the recent work of Christensen, but our conclusion for the
+optimal choice of orientations of a pair of detectors differs from his. For a
+pair of detectors (such as LIGO) that subtends an angle at the center of the
+earth of $\,\alt 70^\circ$, we find that the optimal configuration is for each
+detector to have its arms make an angle of $45^\circ$ (modulo $90^\circ$) with
+the arc of the great circle that joins them. For detectors that are farther
+separated, each detector should instead have one arm aligned with this arc. We
+also describe in detail the optimal data-analysis algorithm for searching for
+the stochastic background with a detector network, which is implicit in earlier
+work of Michelson. The LIGO pair of detectors will be separated by $\sim 3000
+\, {\rm km}$. The minimum detectable stochastic energy-density for these
+detectors with their currently planned orientations is $\sim 3\%$ greater than
+what it would be if the orientations were optimal.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 11:52:31 GMT""}]","2009-12-30"
+"astro-ph/9405049","R. A. Sharipov","A.Yu. Boldin, A.A. Bronnikov, V.V. Dmitrieva, R.A. Sharipov (Bashkir
+  State University, Ufa, Russia)","Complete normality conditions for the dynamical systems on Riemannian
+  manifolds","AMS-TeX, version 2.1, 7 pages, size 23K (ASCII), Published in book
+  ""Dynamical systems accepting the normal shift"", (R.A. Sharipov, ed.), Bashkir
+  State University, Ufa, 1994, pp. 20-30",,,,"astro-ph",,"  New additional equations for the Newtonian dynamical systems on Riemannian
+manifolds are found. They supplement the previously found weak normality
+conditions up to the complete normality conditions for Newtonian dynamical
+systems.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 02:01:41 GMT""}]","2007-05-23"
+"cond-mat/9305026","Andreas Mielke","Andreas Mielke and Hal Tasaki","Ferromagnetism in the Hubbard Model-- Examples from Models with
+  Degenerate Single-Electron Ground States","33 pages, LaTeX",,"10.1007/BF02108079",,"cond-mat",,"  Whether spin-independent Coulomb interaction can be the origin of a realistic
+ferromagnetism in an itinerant electron system has been an open problem for a
+long time. Here we study a class of Hubbard models on decorated lattices, which
+have a special property that the corresponding single-electron Schr\""{o}dinger
+equation has $N_{\rm d}$-fold degenerate ground states. The degeneracy $N_{\rm
+d}$ is proportional to the total number of sites $\abs{\Lambda}$. We prove that
+the ground states of the models exhibit ferromagnetism when the electron
+filling factor is not more than and sufficiently close to $\rho_0=N_{\rm
+d}/(2\abs{\Lambda})$, and paramagnetism when the filling factor is sufficiently
+small. An important feature of the present work is that it provides examples of
+three dimensional itinerant electron systems which are proved to exhibit
+ferromagnetism in a finite range of the electron filling factor.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 08:21:21 GMT""},{""version"":""v2"",""created"":""Wed, 26 May 1993 08:29:35 GMT""}]","2009-10-22"
+"cond-mat/9305027","Vincenzo Fiorentini","Vincenzo Fiorentini, Michael Methfessel, and Matthias Scheffler
+  (Fritz-Haber-Institut der MPG, Berlin, Germany)","Reconstruction Mechanism of FCC Transition-Metal (001) Surfaces","RevTeX 3.0, 12 pages, 1 PostScript figure available upon request] 23
+  May 1993",,"10.1103/PhysRevLett.71.1051","FHI/TH/930523/1","cond-mat",,"  The reconstruction mechanism of (001) fcc transition metal surfaces is
+investigated using a full-potential all-electron electronic structure method
+within density-functional theory. Total-energy supercell calculations confirm
+the experimental finding that a close-packed quasi-hexagonal overlayer
+reconstruction is possible for the late 5$d$-metals Ir, Pt, and Au, while it is
+disfavoured in the isovalent 4$d$ metals (Rh, Pd, Ag). The reconstructive
+behaviour is driven by the tensile surface stress of the unreconstructed
+surfaces; the stress is significantly larger in the 5$d$ metals than in 4$d$
+ones, and only in the former case it overcomes the substrate resistance to the
+required geometric rearrangement. It is shown that the surface stress for these
+systems is due to $d$ charge depletion from the surface layer, and that the
+cause of the 4th-to-5th row stress difference is the importance of relativistic
+effects in the 5$d$ series.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 15:21:50 GMT""}]","2009-10-22"
+"gr-qc/9305017","Kristin Schleich","John L. Friedman, Kristin Schleich, and Donald M. Witt","Topological Censorship","12 pages, REVTEX; 1 postscript figure in a separate uuencoded file.
+  Our earlier version (PRL 71, 1486 (1993)) contained a secondary result,
+  mistakenly attributed to Schoen and Yau, regarding ``passive topological
+  censorship'' of a certain class of topologies. As Gregory Burnett has pointed
+  out (gr-qc/9504012), this secondary result is false. The main topological
+  censorship theorem is unaffected by the error","Phys.Rev.Lett. 71 (1993) 1486-1489; Erratum-ibid. 75 (1995) 1872","10.1103/PhysRevLett.75.1872",,"gr-qc",,"  All three-manifolds are known to occur as Cauchy surfaces of asymptotically
+flat vacuum spacetimes and of spacetimes with positive-energy sources. We prove
+here the conjecture that general relativity does not allow an observer to probe
+the topology of spacetime: any topological structure collapses too quickly to
+allow light to traverse it. More precisely, in a globally hyperbolic,
+asymptotically flat spacetime satisfying the null energy condition, every
+causal curve from $\scri^-$ to ${\scri}^+$ is homotopic to a topologically
+trivial curve from $\scri^-$ to ${\scri}^+$. (If the Poincar\'e conjecture is
+false, the theorem does not prevent one from probing fake 3-spheres).
+","[{""version"":""v1"",""created"":""Sun, 23 May 1993 21:09:00 GMT""},{""version"":""v2"",""created"":""Fri, 9 Jun 1995 05:21:58 GMT""}]","2009-10-22"
+"gr-qc/9305018","Alan R. Steif","G.W. Gibbons and Alan R. Steif","Anomalous Fermion Production in Gravitational Collapse","12 pages, preprint DAMTP93/R14","Phys.Lett.B314:13-20,1993","10.1016/0370-2693(93)91315-E",,"gr-qc hep-th",,"  The Dirac equation is solved in the Einstein-Yang-Mills background found by
+Bartnik and McKinnon. We find a normalizable zero-energy fermion mode in the
+$s$-wave sector. As shown recently, their solution corresponds to a
+gravitational sphaleron which mediates transitions between topologically
+distinct vacua. Since the Bartnik-McKinnon solution is unstable, it will either
+collapse to form a black hole or radiate away its energy. In either case, as
+the Chern-Simons number of the configuration changes, there will be an
+accompanying anomalous change in fermion number.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 10:58:41 GMT""}]","2009-10-07"
+"hep-ph/9305304","Zoltan Ligeti","Z. Ligeti, Y. Nir, and M. Neubert","The Subleading Isgur-Wise Form Factor $\xi_3(v\cdot v')$ and its
+  Implications for the Decays $\bar B\to D^{(*)}\ell\,\bar\nu$","14 pages (ReVTeX, 2 figures available), SLAC-PUB-6146,
+  WIS-93/33/May-PH","Phys.Rev.D49:1302-1309,1994","10.1103/PhysRevD.49.1302",,"hep-ph",,"  We calculate, in the framework of QCD sum rules and to next-to-leading order
+in perturbation theory, the universal function $\xi_3(v\cdot v')$ which appears
+at order $1/m_Q$ in the heavy quark expansion of meson weak decay form factors.
+We find that radiative corrections of order $\alpha_s$ are very important. Over
+the kinematic range accessible in semileptonic decays, $\xi_3(v\cdot v')$ is
+proportional to the leading-order Isgur-Wise function $\xi(v\cdot v')$ to very
+good accuracy. Taking into account all sources of uncertainty, we estimate
+$\xi_3/\xi=(0.6\pm 0.2)$. This reduces the theoretical uncertainty in the
+extraction of $|\,V_{cb}|$ from $\bar B\to D\,\ell\, \bar\nu$ transitions. A
+measurement of the form factor ratio $A_2/A_1$ in $\bar B\to D^*\ell\,\bar\nu$
+decays can be used to test our prediction.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 08:17:51 GMT""}]","2010-11-01"
+"hep-ph/9305305",,"German Rodrigo and Arcadi Santamaria","QCD Matching Conditions at Thresholds","9 pages and 2 postscript figures added after the TeX file, LaTeX,
+  CERN-TH.6899/93","Phys.Lett. B313 (1993) 441-446","10.1016/0370-2693(93)90016-B",,"hep-ph",,"  The use of MS-like renormalization schemes in QCD requires an implementation
+of nontrivial matching conditions across thresholds, a fact often overlooked in
+the literature. We shortly review the use of these matching conditions in QCD
+and check explicitly that the prediction for $\alpha_s(M_Z)$, obtained by
+running the strong coupling constant from the $M_\tau$ scale, does not
+substantially depend on the exact value of the matching point chosen in
+crossing the $b$-quark threshold when the appropriate matching conditions are
+taken into account.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 10:47:01 GMT""}]","2009-10-22"
+"hep-ph/9305306","Marek Karliner","John Ellis and Marek Karliner","Analysis of Data on Polarized Lepton-Nucleon Scattering","15 pages (LateX) + 6 postscript figures encoded through uufiles;
+  (improved estimate of errors on higher-twist effects, in text and in figs. 3
+  and 4 + typos corrected)","Phys.Lett.B313:131-140,1993","10.1016/0370-2693(93)91202-X","CERN-TH-6898/93, TAUP-2052-93","hep-ph",,"  We re-analyze data on deep inelastic polarized lepton-nucleon scattering,
+with particular attention to testing the Bjorken sum rule and estimating the
+quark contributions to the nucleon spin. Since only structure function data at
+fixed $Q^2$ can be used to test sum rules, we use E142 asymmetry measurements
+and unpolarized structure function data to extract $g_1^n$ at fixed $Q^2$ = 2
+GeV$^2$. When higher-twist effects, which are important at low $Q^2$, are
+included, both the E142 and SMC data are compatible with the Bjorken sum rule
+within one standard deviation. Assuming validity of the Bjorken sum rule, we
+estimate the quark contributions to the nucleon spin, finding that their total
+net contribution is small, with the strange quark contribution non-zero and
+negative. The quark spin content of the nucleon spin is in agreement with
+Skyrme model.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 14:18:31 GMT""},{""version"":""v2"",""created"":""Thu, 27 May 1993 14:13:38 GMT""}]","2009-09-25"
+"hep-th/9305113",,"A. N. Leznov and A. V. Razumov","The Canonical Symmetry and Hamiltonian Formalism. I. Conservation Laws","10 pages, LaTeX file, IHEP 93-26",,,,"hep-th",,"  The properties of the canonical symmetry of the nonlinear Schr\""odinger
+equation are investigated. The densities of the local conservation laws for
+this system are shown to change under the action of the canonical symmetry by
+total space derivatives.
+","[{""version"":""v1"",""created"":""Sun, 23 May 1993 16:15:50 GMT""}]","2007-05-23"
+"hep-th/9305114","Ezer Melzer","Ezer Melzer","Fermionic Character Sums and the Corner Transfer Matrix","24/15 pages in harvmac, Stony Brook preprint ITP-SB-93-29","Int.J.Mod.Phys.A9:1115-1136,1994","10.1142/S0217751X94000510",,"hep-th",,"  We present a ``natural finitization'' of the fermionic q-series (certain
+generalizations of the Rogers-Ramanujan sums) which were recently conjectured
+to be equal to Virasoro characters of the unitary minimal conformal field
+theory (CFT) M(p,p+1). Within the quasi-particle interpretation of the
+fermionic q-series this finitization amounts to introducing an ultraviolet
+cutoff, which -- contrary to a lattice spacing -- does not modify the linear
+dispersion relation. The resulting polynomials are conjectured (proven, for
+p=3,4) to be equal to corner transfer matrix (CTM) sums which arise in the
+computation of order parameters in regime III of the r=p+1 RSOS model of
+Andrews, Baxter, and Forrester. Following Schur's proof of the Rogers-Ramanujan
+identities, these authors have shown that the infinite-lattice limit of the CTM
+sums gives what later became known as the Rocha-Caridi formula for the Virasoro
+characters. Thus we provide a proof of the fermionic q-series representation
+for the Virasoro characters for p=4 (the case p=3 is ``trivial''), in addition
+to extending the remarkable connection between CFT and off-critical RSOS
+models. We also discuss finitizations of the CFT modular-invariant partition
+functions.
+","[{""version"":""v1"",""created"":""Sun, 23 May 1993 20:42:24 GMT""}]","2008-11-26"
+"hep-th/9305115",,"Vipul Periwal","Topological closed-string interpretation of Chern-Simons theory","6 pages, iassns-hep-93-30 (title change, omitted refs. added, two
+  sign errors corrected, no significant change)","Phys.Rev.Lett.71:1295-1298,1993","10.1103/PhysRevLett.71.1295",,"hep-th",,"  The exact free energy of SU($N$) Chern-Simons theory at level $k$ is expanded
+in powers of $(N+k)^{-2}.$ This expansion keeps rank-level duality manifest,
+and simplifies as $k$ becomes large, keeping $N$ fixed (or vice versa)---this
+is the weak-coupling (strong-coupling) limit. With the standard normalization,
+the free energy on the three-sphere in this limit is shown to be the generating
+function of the Euler characteristics of the moduli spaces of surfaces of genus
+$g,$ providing a string interpretation for the perturbative expansion. A
+similar expansion is found for the three-torus, with differences that shed
+light on contributions from different spacetime topologies in string theory.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 00:01:00 GMT""},{""version"":""v2"",""created"":""Thu, 17 Jun 1993 19:22:00 GMT""}]","2010-11-01"
+"hep-th/9305116",,"John Ellis N.E. Mavromatos and D.V. Nanopoulos","Valleys in String Foam Suppress Quantum Coherence","CERN-TH.6896/93, 12 pages, 1 figure, (final version to be published
+  in Mod. Physics Letters)","Mod.Phys.Lett.A10:425-440,1995","10.1142/S0217732395000466",,"hep-th",,"  We exhibit string contributions to the $\nd{S}$ matrix relating in- and out-
+state density matrices that do not factorize as a product of $S$ and
+$S^\dagger$ matrices. They are associated with valley trajectories between
+topological defects on the string world sheet, that appear as quantum
+fluctuations in the space-time foam. Through their ultraviolet cut-off
+dependences these valleys cause non-Hamiltonian time evolution and suppress
+off-diagonal entries in the density matrix at large times.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 14:11:04 GMT""},{""version"":""v2"",""created"":""Wed, 25 Jan 1995 17:05:24 GMT""}]","2009-09-11"
+"hep-th/9305117",,"J Ellis, N E Mavromatos and D V Nanopoulos","A String Derivation of the $\nd{S}$ matrix","CERN-TH.6897/93, 54 pages, 8 figures",,,,"hep-th gr-qc",,"  We show that, in string theory, as a result of the $W_{\infty}$-symmetries
+that preserve quantum coherence in the {\it full} string theory by coupling
+different mass levels, transitions between initial- and final-state density
+matrices for the effective light-particle theory involve non-Hamiltonian terms
+$\nd{\delta H}$ in their time evolution, and are described by a $\nd{S}$ matrix
+that is not factorizable as a product of field-theoretical $S$ and $S^\dagger$
+matrices. We exhibit non-trivial string contributions to $\nd{\delta H}$ and
+the $\nd{S}$ matrix associated with topological fluctuations related to the
+coset model that describes an s-wave black hole. These include
+monopole-antimonopole configurations on the world-sheet that correspond to
+black hole creation and annihilation, and instantons that represent
+back-reaction via quantum jumps between black holes of different mass, both of
+which make the string supercritical. The resulting Liouville mode is
+interpreted as the time variable, and the arrow of time is associated with
+black hole decay. Since conformal invariance is broken in the non-critical
+string theory, monopole and antimonopole, or instanton and anti-instanton, are
+not separable, and the
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 14:12:10 GMT""}]","2007-05-23"
+"hep-th/9305119","Loic Turban","L. Turban, B. Berche (Henri Poincare Universty, Nancy)","Marginal Extended Perturbations in Two Dimensions and Gap-Exponent
+  Relations","11 pages, Plain TeX, epsf","J.Phys.A26:3131-3142,1993","10.1088/0305-4470/26/13/017",,"hep-th cond-mat",,"  The most general form of a marginal extended perturbation in a
+two-dimensional system is deduced from scaling considerations. It includes as
+particular cases extended perturbations decaying either from a surface, a line
+or a point for which exact results have been previously obtained. The
+first-order corrections to the local exponents, which are functions of the
+amplitude of the defect, are deduced from a perturbation expansion of the
+two-point correlation functions. Assuming covariance under conformal
+transformation, the perturbed system is mapped onto a cylinder. Working in the
+Hamiltonian limit, the first-order corrections to the lowest gaps are
+calculated for the Ising model. The results confirm the validity of the
+gap-exponent relations for the perturbed system.
+","[{""version"":""v1"",""created"":""Mon, 24 May 1993 14:21:54 GMT""},{""version"":""v2"",""created"":""Thu, 11 Sep 1997 13:40:45 GMT""}]","2009-10-22"

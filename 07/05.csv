@@ -1,0 +1,163 @@
+"astro-ph/9307005","Simon Morris","S. L. Morris, R. J. Weymann, Alan Dressler, P. J. McCarthy, B. A.
+  Smith, R. J. Terrile, R. Gionvanelli and M. Irwin","The Environment of Lyman a Absorbers in the Sightline toward 3C273","36 pages, AAS LaTeX v3.0, (postscript version of paper, tables and 5
+  figures and 3 half-tones available by anon ftp) IOA-93-01",,"10.1086/173505",,"astro-ph",,"  We present new ground-based data following up on the HST discovery of
+low-redshift Lya absorption in the sight-line to the quasar 3C273. Narrow-band
+filter observations show that there are no H II regions within a 12 kpc radius
+of the line-of-sight to the quasar, at the velocities of three of the
+absorbers. Broad-band imaging shows that there are no dwarf galaxies at Virgo
+distances with absolute magnitude above MB~-13.5 and within a radius of 40 kpc.
+We present fiber spectroscopy of galaxies within a radius of 1 deg, down to an
+apparent magnitude of B~19. We show that the absorbers are definitely not
+distributed at random with respect to the galaxies, but also that the
+absorber-galaxy correlation function is not as strong as the galaxy-galaxy
+correlation function on large scales. Our data are consistent with the
+hypothesis that all galaxies more luminous than 1/10 L* have effective
+cross-sections (for association with absorbers with Log(NH)>13.0), of between
+0.5 and 1 Mpc. We also show a clear case of a Lya absorber which has no galaxy
+brighter than MB=-18 within a projected distance of 4.8 Mpc, and discuss the
+possibility that Lya absorbers are destroyed in a rich galaxy environment.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 11:34:00 GMT""}]","2009-10-22"
+"astro-ph/9307006","P. Monaco","G. Giuricin, P. Monaco, F. Mardirossian, M. Mezzetti","The Local Galaxy Density and the Arm Class of Spiral Galaxies","15 pages, Latex, SISSA 102/93/A openbib.sty and 4 POSTSCRIPT figures
+  appended",,"10.1086/174000",,"astro-ph",,"  We have examined the effect of the environmental density on the arm
+classification of an extensive sample of spiral galaxies included in the Nearby
+Galaxy Catalog (Tully, 1988a). We have also explored the dependence of the arm
+class of a galaxy on other factors, such as its blue absolute magnitude and its
+disk-to-total mass ratio, inferred in the literature either from the gradient
+of a good galaxy rotation curve or from a photometric mass decomposition
+method. We have found that the arm class is strongly related to the absolute
+magnitude in the mid-type spirals (in the sense that grand design galaxies are,
+on average, more luminous than flocculent objects), whilst this relation is
+considerably weaker in the early and late types. In general the influence of
+the local density on the arm structure appears to be much weaker than that of
+the absolute magnitude. The local density acts essentially in strengthening the
+arm class--absolute magnitude relation for the mid types, whereas no
+environmental density effects are observed in the early and late types. Using
+the most recent estimates of the disk-to-total mass ratio, we do not confirm
+this ratio to be a significant factor which affects the arm class;
+nevertheless, owing to poor statistics and large uncertanties, the issue
+remains open. Neither a local density effect nor an unambiguous bar effect on
+the disk-to-total mass ratio is detectable; the latter finding may challenge
+some theoretical viewpoints on the formation of bar structures.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 15:34:02 GMT""}]","2009-10-22"
+"astro-ph/9307008","Edvige Corbelli","Stephen E. Schneider and Edvige Corbelli","Neutral Hydrogen Absorption and Emission in the Quasar/Galaxy Pair
+  3C275.1/\NGC4651","13 pages, 4 figures ARCETRI-PR-93-11","Astrophys.J. 414 (1993) 500-505","10.1086/173097",,"astro-ph",,"  3C275.1 and \NGC4651 make a particularly interesting quasar/galaxy pairing
+because of the alignment of such a strong radio emitter behind the outer H\I
+disk of a relatively undisturbed spiral galaxy. This provides an opportunity to
+study the spin-temperature characteristics of atomic hydrogen at low column
+densities, in an apparently star-free environment. We previously reported a
+tentative detection of absorption against the quasar based on VLA C--array
+observations; we have now made more sensitive maps of the H\I emission from
+\NGC4651 with the VLA D--array, and we have attempted to confirm the weak H\I
+absorption against the quasar at higher spatial and spectral resolution in VLA
+B--array. The possible absorption feature against this quasar appears to be
+weaker than we previously suspected, even though it seems fairly clear that H\I
+emission is present close to the line of sight to the quasar.The weakness of
+the possible absorption seems also to confirm, conversely, the trend found in
+previous observations that where strong absorption lines are seen, the galaxies
+show evidence of disturbance. The possible detection of (or limits on)
+absorption suggest that the neutral gas in the outer disk is quite warm. We use
+the absorption and emission measurements to set lower limits on the combination
+of heating inputs outside the star-forming regions of a disk galaxy and/or the
+intensity of the cosmic background radiation around 100 eV.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 15:59:11 GMT""}]","2009-10-22"
+"cond-mat/9307006",,"F. Guinea and Yu. Pogorelov","Flux flow dissipation in superconductors with short coherence length","8 pages (RevTex). 1 figure by resquest",,,,"cond-mat",,"  In superconductors where the coherence length is comparable to the Fermi
+wavelength, the electronic levels within a vortex core are quantized, and
+separated by energies of the order of the superconducting gap. The absence of a
+continuum modifies significantly the energy dissipation due to the motion of
+vortices. At zero temperature, dissipation is suppressed, and the system shows
+non ohmic behavior. The I-V characteristics show two distinct regimes. Below a
+given electric field, I is strongly dependent on V. Flux flow resistivity also
+shows a marked dependence on temperature, and reaches conventional values near
+$T_c$.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 13:43:10 GMT""}]","2007-05-23"
+"hep-lat/9307003","Ralph Kenna","R. Kenna","Finite-Size Scaling in the $O(N)$ $\phi^4_4$ Model","13 pages",,,,"hep-lat",,"  Perturbation theory and renormalization group methods are used to derive a
+finite-size scaling theory for the partition function zeroes and thermodynamic
+functions in the $O(n)$ $\phi^4$ model in four dimensions. The leading
+power--law scaling behaviour is the same as that of the mean field theory.
+There exist, however, multiplicative logarithmic corrections which are linked
+to the triviality of the theory.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 13:21:55 GMT""}]","2007-05-23"
+"hep-ph/9307217","Youichi Yamada","Youichi Yamada","Two-loop renormalization of gaugino mass in supersymmetric gauge model","7 pages + 1 figure (omitted), KEK-TH-363 / UT-647","Phys.Lett. B316 (1993) 109-111","10.1016/0370-2693(93)90665-5",,"hep-ph",,"  We study the two-loop renormalization group equation for the running gaugino
+mass in the supersymmetric gauge theory. We find that both in the \msbar and
+\drbar renormalization schemes, the well-known proportionality of the runnings
+of the gaugino mass and the gauge coupling constant is violated at the two-loop
+order, even in models with vector supermultiplets only. Scheme dependence of
+the running gaugino mass is clarified.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 09:19:03 GMT""}]","2009-10-22"
+"hep-ph/9307218",,"Dongsheng Du and Zhi-zhong Xing","Effect of Hairpin Diagram on Two-body Nonleptonic B Decays and CP
+  Violation","14 pages (Latex, 2 figures available), BIHEP-TH-93-25 (accepted for
+  publication in Phys. Lett. B)","Phys.Lett.B312:199-204,1993","10.1016/0370-2693(93)90510-O",,"hep-ph",,"  A careful quark-diagram analysis shows that a number of two-body nonleptonic
+$B$ decays can occur through the so-called hairpin diagram, a QCD loop-induced
+graph different from penguin in final-state hadronization of valence quarks.
+Using the two-loop renormalization-group-improved effective Hamiltonian and the
+naive factorization approximation, we demonstrate the effect of the hairpin
+diagram on decay rates and $CP$ asymmetries for a few interesting channels such
+as $B^{0}_{d},\bar{B}^{0}_{d} \rightarrow \psi K_{S}$ and
+$B^{\pm}_{u}\rightarrow \phi K^{\pm}$. Branching ratios of some pure hairpin
+decay modes, e.g., $B^{-}_{u}\rightarrow \phi \pi^{-},\phi \rho^{-}$ and
+$\bar{B}^{0}_{d}\rightarrow \phi \pi^{0},\phi \rho^{0}, \phi \omega, \phi
+\eta,$ etc., are estimated to be on the order of $10^{-7}$.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 10:52:30 GMT""}]","2010-11-01"
+"hep-ph/9307219","Nick Evans","NJ Evans and DA Ross","Majorana Neutrino Masses Can Save One Family Technicolour","15 pages plus appended diagrams (ps), Latex, SHEP 92/93--23","Nucl.Phys. B417 (1994) 151-166","10.1016/0550-3213(94)90541-X",,"hep-ph",,"  We make non perturbative estimates of the electroweak radiative correction
+parameter $S$ in dynamical symmetry breaking models with Majorana neutrino
+masses. The Majorana masses are treated as perturbations to a Non Local Chiral
+Model of the strong interactions. We argue that parameter ranges exist that
+would allow realistic values of $S$ and $T$ in one family Technicolour models.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 13:38:24 GMT""}]","2009-10-22"
+"hep-th/9307020","Dr M. Manas","Manuel Ma\~nas","Scaling Self-Similar Formulation of the String Equations of the
+  Hermitian Matrix Model","12 pages in AMS-LaTeX, AMS-LaTeXable version","Phys.Lett. B317 (1993) 341-345","10.1016/0370-2693(93)91005-8",,"hep-th nlin.SI solv-int",,"  The string equation appearing in the double scaling limit of the Hermitian
+one--matrix model, which corresponds to a Galilean self--similar condition for
+the KdV hierarchy, is reformulated as a scaling self--similar condition for the
+Ur--KdV hierarchy. A non--scaling limit analysis of the one--matrix model has
+led to the complexified NLS hierarchy and a string equation. We show that this
+corresponds to the Galilean self--similarity condition for the AKNS hierarchy
+and also its equivalence to a scaling self--similar condition for the
+Heisenberg ferromagnet hierarchy.
+","[{""version"":""v1"",""created"":""Sun, 4 Jul 1993 18:01:00 GMT""},{""version"":""v2"",""created"":""Fri, 16 Jul 1993 00:13:24 GMT""}]","2009-10-22"
+"hep-th/9307021","Dr M. Manas","Francisco Guil and Manuel Ma\~nas","Two-Dimensional Integrable Systems and Self-Dual Yang-Mills Equations","14 pages in LaTeX, LaTeXable version","J.Math.Phys.35:2902-2913,1994","10.1063/1.530493",,"hep-th nlin.SI solv-int",,"  The relation between two--dimensional integrable systems and
+four--dimen\-sional self--dual Yang--Mills equations is considered. Within the
+twistor description and the zero--curvature representation a method is given to
+associate self--dual Yang-Mills connections with integrable systems of the
+  Korteweg--de Vries and non--linear Schr\""odinger type or principal chiral
+models.
+  Examples of self--dual connections are constructed that as points in the
+moduli do not have two independent conformal symmetries.
+","[{""version"":""v1"",""created"":""Sun, 4 Jul 1993 18:05:15 GMT""},{""version"":""v2"",""created"":""Thu, 15 Jul 1993 23:45:08 GMT""}]","2011-07-19"
+"hep-th/9307026",,"Anton Alekseev and Ivan Todorov","Quadratic brackets from symplectic forms","16 pages","Nucl.Phys. B421 (1994) 413-428","10.1016/0550-3213(94)90334-4",,"hep-th",,"  We give a physicist oriented survey of Poisson-Lie symmetries of classical
+systems. We consider finite dimensional geometric actions and the chiral WZNW
+model as examples for the general construction. An essential point is that
+quadratic Poisson bracets appear for group--like variables. It is believed that
+after quantization they lead to quadratic exchange algebras.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 13:08:00 GMT""}]","2009-10-22"
+"hep-th/9307027",,"B. de Wit, M.T. Grisaru, and P. van Nieuwenhuizen","The WZNW Model at Two Loops","40 pages, Latex, (4 postscript figures at end of file, to be split
+  off into files called diag1.ps,...,diag4.ps),THU-93/15","Nucl.Phys. B408 (1993) 299-344","10.1016/0550-3213(93)90537-Y",,"hep-th",,"  We study perturbatively the (conformal) WZNW model. At one loop we compute
+one-particle irreducible two- and three-point current correlation functions,
+both in the conventional version and in the classically equivalent, chiral,
+nonlocal, induced version of the model. At two loops we compute the two-point
+function and find that it vanishes (modulo infrared-induced logarithms). We use
+dimensional regularization and the $R^*$ operation for removing infrared
+divergences. The outcome of the calculations is insensitive to the treatment of
+the $\varepsilon^{\m\n}$ tensor as a two-dimensional or $d$-dimensional object.
+Our results indicate that the one-particle irreducible current correlation
+functions constitute an effective action equal to the original WZNW action with
+the familiar level shift, $k\to k+\tilde h$.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 14:40:00 GMT""}]","2009-10-22"
+"nucl-th/9307004",,"J. Ryckebusch, M. Vanderhaeghen, L. Machenil and M. Waroquier","Effects of the final-state interaction in ($\gamma$,pn) and
+  ($\gamma$,pp) processes","30 pages, 11 figures (available from the authors upon request),
+  INW0701","Nucl.Phys. A568 (1994) 828-854","10.1016/0375-9474(94)90362-X",,"nucl-th",,"  A model is presented to describe electromagnetically induced two-nucleon
+emission processes in a shell-model picture. Distortions in the outgoing
+nucleon waves are accounted for by performing a partial-wave expansion in a
+real mean-field potential. The antisymmetry condition for the A-body
+wavefunctions is shown to be naturally preserved.
+  The model is used to calculate ($\gamma$,pn) and ($\gamma$,pp) cross sections
+off the target nuclei $^{16}$O and $^{12}$C for photon energies ranging from 50
+MeV up to the $\bigtriangleup$(1232) isobar threshold. Effects due to the
+pionic currents and intermediate $\bigtriangleup$ creation are implemented. The
+impact of the distortions due to the interaction of the outgoing nucleon waves
+with the (A-2) core is examined. Hadronic form factors are introduced to
+regularize the $\pi$NN vertices and the sensitivity of the cross section to the
+pion cut-off mass is examined. The relative contribution of the ($\gamma$,pp)
+and the ($\gamma$,pn) channel to the total photoabsorption strength is
+discussed. Further, the photon energy dependence of the
+($\gamma$,pp)/($\gamma$,pn) ratio is investigated.
+","[{""version"":""v1"",""created"":""Mon, 5 Jul 1993 14:01:00 GMT""}]","2009-10-22"

@@ -1,0 +1,311 @@
+"astro-ph/9311001",,"G.M. Stirpe, et al","Monitoring of active galactic nuclei. V. The Seyfert 1 galaxy Markarian
+  279","24 pages in plain TeX, 11 postscript figures available on request
+  from stirpe@alma02.bo.astro.it or 37907::stirpe, BAP#10-1993-034-OAB",,,,"astro-ph",,"  We report on the Lovers of Active Galaxies' (LAG) monitoring of the Seyfert 1
+galaxy Markarian 279 from January to June 1990. The source, which was in a very
+bright state, gradually weakened after the first month of monitoring: the
+H-Alpha and H-Beta flux decreased by 20% and 35% respectively, and the
+continuum under H-Alpha by 30%. The luminosity-weighted radius of the broad
+line region (BLR), as derived from the cross-correlation function, is of the
+order of 10 light days. This result is very uncertain because the features in
+the light curves are very shallow, but it is unlikely that the radius of the
+BLR is more than 1 light month. The profile variations of H-Alpha confirm that
+the prevailing motions are not radial. The data of the present campaign and
+those obtained in previous years, when the source was in a much weaker state,
+show that the red asymmetry of the Balmer lines correlates positively with the
+broad line flux. This new effect is briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 15:15:00 GMT""}]","2007-05-23"
+"astro-ph/9311002",,"G.M. Stirpe, et al","Steps toward determination of the size and structure of the broad-line
+  region in active galactic nuclei. VI. Variability of NGC 3783 from
+  ground-based data","34 pages in LaTeX, 7 postscript figures available on request from
+  stirpe@alma02.bo.astro.it or 37907::stirpe, BAP#10-1993-035-OAB",,"10.1086/174008",,"astro-ph",,"  The Seyfert 1 galaxy NGC 3783 was intensely monitored between 1991 December
+and 1992 August. We present the results from the ground-based observations in
+the optical and near-IR, which complement the data-set from the IUE, discussed
+elsewhere. Spectroscopic and photometric data from many observatories were
+combined in order to obtain well sampled light curves of the continuum and of
+H-Beta. During the campaign the source varied significantly. The light curves
+of the optical continuum and of H-Beta are similar to those obtained with the
+IUE. The near-IR flux did not vary significantly except for an increase at the
+end of the campaign. The optical continuum and the flux of H-Beta lag the UV
+continuum by 1 day or less and by 8 days respectively. These results confirm
+that the continuum variations are simultaneous or have a very small lag across
+the entire UV-optical range, and that the lines of NGC 3783 respond to ionizing
+continuum variations with less delay than those of NGC 5548. As in NGC 5548,
+the lag of H-Beta is greater than those of the high ionization lines.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 15:15:00 GMT""}]","2009-10-22"
+"astro-ph/9311003","Stacy Mc Gaugh","Stacy McGaugh & Greg Bothun","Structural Characteristics and Stellar Composition of Low Surface
+  Brightness Disk Galaxies","Astronomical Journal, in press 45 pages uuencoded postscript (368K)
+  including 9 multipart figures also available by anonymous ftp @
+  ftp.ast.cam.ac.uk /pub/ssm/phot.uu CAP-30-2104429629837429376","Astron.J. 107 (1994) 530","10.1086/116874",,"astro-ph",,"  We present UBVI surface photometry of a sample of low surface brightness
+(LSB) disk galaxies. LSB disk galaxies are fairly well described as exponential
+disks with no preferred value for either scale length, central surface
+brightness, or rotational velocity. Indeed, the distribution of scale lengths
+is indistinguishable from that of high surface brightness spirals, indicating
+that dynamically similar galaxies (e.g., those with comparable Rv^2) exist over
+a large range in surface density.
+  These LSB galaxies are strikingly blue. The complete lack of correlation
+between central surface brightness and color rules out any fading scenario.
+Similarly, the oxygen abundances inferred from HII region spectra are
+uncorrelated with color so the low metallicities are not the primary cause of
+the blue colors. While these are difficult to interpret in the absence of
+significant star formation, the most plausible scenario is a stellar population
+with a young mean age stemming from late formation and subsequent slow
+evolution.
+  These properties suggest that LSB disks formed from low initial overdensities
+with correspondingly late collapse times.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 15:57:00 GMT""}]","2009-10-22"
+"cond-mat/9311001","Yang Chen","C. Blecken, Y. Chen and K. A. Muttalib","Transitions In Spectral Statistics","12 pp. latex","J. Phys. A: Mat. Gen. 27 (1994) L563","10.1088/0305-4470/27/16/001",,"cond-mat",,"  We present long range statistical properties of a recently introduced unitary
+random matrix ensemble, whose short range correlations were found to describe a
+transition from Wigner to Poisson type as a function of a single parameter.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 15:43:36 GMT""}]","2019-08-17"
+"cs/9311101",,"F. Bergadano, D. Gunetti, U. Trinchero","The Difficulties of Learning Logic Programs with Cut","See http://www.jair.org/ for any accompanying files","Journal of Artificial Intelligence Research, Vol 1, (1993), 91-107",,,"cs.AI",,"  As real logic programmers normally use cut (!), an effective learning
+procedure for logic programs should be able to deal with it. Because the cut
+predicate has only a procedural meaning, clauses containing cut cannot be
+learned using an extensional evaluation method, as is done in most learning
+systems. On the other hand, searching a space of possible programs (instead of
+a space of independent clauses) is unfeasible. An alternative solution is to
+generate first a candidate base program which covers the positive examples, and
+then make it consistent by inserting cut where appropriate. The problem of
+learning programs with cut has not been investigated before and this seems to
+be a natural and reasonable approach. We generalize this scheme and investigate
+the difficulties that arise. Some of the major shortcomings are actually
+caused, in general, by the need for intensional evaluation. As a conclusion,
+the analysis of this paper suggests, on precise and technical grounds, that
+learning cut is difficult, and current induction techniques should probably be
+restricted to purely declarative logic languages.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 00:00:00 GMT""}]","2008-02-03"
+"cs/9311102",,"J. C. Schlimmer, L. A. Hermens","Software Agents: Completing Patterns and Constructing User Interfaces","See http://www.jair.org/ for an online appendix and other files
+  accompanying this article","Journal of Artificial Intelligence Research, Vol 1, (1993), 61-89",,,"cs.AI",,"  To support the goal of allowing users to record and retrieve information,
+this paper describes an interactive note-taking system for pen-based computers
+with two distinctive features. First, it actively predicts what the user is
+going to write. Second, it automatically constructs a custom, button-box user
+interface on request. The system is an example of a learning-apprentice
+software- agent. A machine learning component characterizes the syntax and
+semantics of the user's information. A performance system uses this learned
+information to generate completion strings and construct a user interface.
+Description of Online Appendix: People like to record information. Doing this
+on paper is initially efficient, but lacks flexibility. Recording information
+on a computer is less efficient but more powerful. In our new note taking
+softwre, the user records information directly on a computer. Behind the
+interface, an agent acts for the user. To help, it provides defaults and
+constructs a custom user interface. The demonstration is a QuickTime movie of
+the note taking agent in action. The file is a binhexed self-extracting
+archive. Macintosh utilities for binhex are available from
+mac.archive.umich.edu. QuickTime is available from ftp.apple.com in the
+dts/mac/sys.soft/quicktime.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 00:00:00 GMT""}]","2009-09-25"
+"gr-qc/9311001","Khatsymovsky","V.Khatsymovsky","On quantization of Regge links","6 pages, Plain LaTeX, Preprint UUITP-23/1993","Phys.Lett. B323 (1994) 292-295","10.1016/0370-2693(94)91222-X",,"gr-qc",,"  In quantum Regge calculus areas of timelike triangles possess discrete
+spectrum. This is because bivectors of these triangles are variables
+canonically conjugate to orthogonal connection matrices varying in the compact
+group. (The scale of quantum of this spectrum is nothing but Plankian one).
+This is checked in simple exactly solvable model - dimensionally reduced in
+some way Regge calculus.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 10:59:58 GMT""}]","2009-10-22"
+"hep-lat/9311001","Paul Rakow","Stefan Kappler and Paul Rakow","The crossover from first to second-order finite size scaling: A
+  numerical study Christian Borgs","TEX, 37 pages, 13 postscript figures included. Preprint FUB-HEP 16/93",,,,"hep-lat",,"  We consider a particular case of the two dimensional
+  Blume-Emery-Griffiths model to study the finite-size scaling for a field
+driven first-order phase transition with two coexisting phases not related by a
+symmetry. For low temperatures we verify the asymptotic (large volume)
+predictions of the rigorous theory of Borgs and Kotecky, including the
+predictions concerning the so-called equal-weight versus equal-height
+controversy. Near the critical temperature we show that all data fit onto a
+unique curve, even when the correlation length xi becomes comparable to or
+larger then the size of the system, provided the linear dimension L of the
+system is rescaled by xi.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 14:59:49 GMT""}]","2009-09-25"
+"hep-ph/9310379","Elizabeth Jenkins","Roger Dashen, Elizabeth Jenkins, and Aneesh V. Manohar","The 1/N Expansion for Baryons","(71 pgs in l format, 9 figs, uses harvmac and uufiles), UCSD/PTH
+  93-21","Phys.Rev.D49:4713,1994; Erratum-ibid.D51:2489,1995;
+  Phys.Rev.D51:2489,1995","10.1103/PhysRevD.49.4713 10.1103/PhysRevD.51.2489",,"hep-ph",,"  A systematic expansion in 1/N is constructed for baryons in QCD. Predictions
+of the 1/N expansion at leading and subleading order for baryon axial current
+coupling constant ratios such as F/D, baryon masses and magnetic moments are
+derived. The baryon sector of QCD has a light quark spin-flavor symmetry at
+leading order in 1/N. The formalism of induced representations for contracted
+Lie algebras is introduced to explain the consequences of this symmetry.
+Relations are first derived for the simplest case of two light flavors of
+quarks. The generalization of the large N expansion to N_f = 3 flavors is
+subtle and is treated using several complementary methods. The 1/N expansion
+severely restricts the form of SU(3) breaking in the baryon sector.
+Extrapolation of the large N results to N=3 permits quantitative comparison
+with experimental data. Deviations of the measured quantities from exact
+spin-flavor symmetry predictions are accurately described by the subleading 1/N
+corrections. Implications of the 1/N expansion for baryon chiral perturbation
+theory are discussed.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 00:20:45 GMT""}]","2014-11-17"
+"hep-ph/9310380","Matsuda Masahisa","Takemi Hayashi, Masahisa Matsuda and Morimitsu Tanimoto","Penguin Effects on K Pi and PiPi Decays of the $B$ Meson","LATEX-file without figures. Figures will be sent by request to
+  masa@auephyas.aichi-edu.ac.jp","Phys.Lett.B323:78-84,1994","10.1016/0370-2693(94)00045-X","AUE-05-93,EHU-06-93, KGU-03-93","hep-ph",,"  We give the detailed analyses for the gluonic-penguin effect on the $\kp$ and
+$\pp$ decays of the $B$ meson. In the standard model, it is shown that the
+ratio $BR(B\A\kp)/BR(B\A\pp)$ takes the value $0.5\sim 3.0$ with the strongly
+depending on the CP violating phase $\phi$ and the KM matrix element
+$|V_{ub}|$. We obtain the constraint on the form factor by using the
+experimental branching ratio. It is also found that, in the two-Higgs-doublet
+model, the charged Higgs contribution which could enhance the $B\A X_s\r$ decay
+does not a sizable effect on our processes. The effect of the final state
+interaction on these processes is also discussed.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 02:56:45 GMT""}]","2010-11-01"
+"hep-ph/9311201","Peter Landshoff","P V Landshoff","Small $x$ and Small $Q^2$","talk at workshops at Kyffha\""user and DESY, September 1993 6 pages +
+  9 figures (not included) plain tex",,,,"hep-ph",,"  I discuss (i) hadron-hadron and photon-hadron total cross-sections, (ii)
+elastic scattering, (iii) the r\^{o}le of minijets in total cross-sections and
+the need to include them in Monte-Carlos for small-$x$ structure functions,
+(iv) how the two pomerons affect small-$x$ behaviour, and (v) rapidity-gap
+physics.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 11:57:59 GMT""}]","2007-05-23"
+"hep-ph/9311202","A. P. Martin","A.C.Davis, A.P.Martin and N.Ganoulis","Charged Particle Scattering from Electroweak and Semi-Local Strings","18 pages, DAMTP 93-46","Nucl.Phys. B419 (1994) 323-340","10.1016/0550-3213(94)90045-0",,"hep-ph",,"  The scattering of a charged fermion from an electroweak or semi-local string
+is investigated and a full solution obtained for both massive and massless
+cases. For the former, with fractional string flux, there is a helicity
+conserving and helicity-flip cross-section, of equal magnitude and of a
+modified Aharonov-Bohm form: for integer flux the strong interaction
+cross-section is suppressed by a logarithmic term. The results also apply for
+GUT cosmic strings and chiral fermions.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 15:09:19 GMT""},{""version"":""v2"",""created"":""Tue, 19 Apr 1994 08:49:00 GMT""}]","2019-08-17"
+"hep-ph/9311203","A. P. Martin","A.C.Davis and A.P.Martin","Global Strings and the Aharonov-Bohm Effect","11 pages, DAMTP 93-50","Nucl.Phys. B419 (1994) 341-351","10.1016/0550-3213(94)90046-9",,"hep-ph cond-mat",,"  When a fermion interacts with a global vortex or cosmic string a solenoidal
+""gauge"" field is induced. This results in a non-trivial scattering
+cross-section. For scalars and non-relativistic fermions the cross-section is
+similar to that of Aharonov and Bohm, but with corrections. A cosmological
+example is compared to one in liquid He$^{3}$-A and important differences are
+discovered.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 15:15:19 GMT""},{""version"":""v2"",""created"":""Tue, 19 Apr 1994 08:56:00 GMT""}]","2009-10-22"
+"hep-th/9310198","Denjoe O'Connor","Denjoe O'Connor and C. R. Stephens","Environmentally Friendly Renormalization","76 pages of Plain Tex, Postscript figures available upon request from
+  denjoe@stp.dias.ie, preprint numbers THU-93/14, DIAS-STP-93-19","Int.J.Mod.Phys. A9 (1994) 2805-2902; Erratum-ibid. A9 (1994) 5851","10.1142/S0217751X94001151",,"hep-th",,"  We analyze the renormalization of systems whose effective degrees of freedom
+are described in terms of fluctuations which are ``environment'' dependent.
+Relevant environmental parameters considered are: temperature, system size,
+boundary conditions, and external fields. The points in the space of \lq\lq
+coupling constants'' at which such systems exhibit scale invariance coincide
+only with the fixed points of a global renormalization group which is
+necessarily environment dependent. Using such a renormalization group we give
+formal expressions to two loops for effective critical exponents for a generic
+crossover induced by a relevant mass scale $g$. These effective exponents are
+seen to obey scaling laws across the entire crossover, including hyperscaling,
+but in terms of an effective dimensionality, $d\ef=4-\gl$, which represents the
+effects of the leading irrelevant operator. We analyze the crossover of an
+$O(N)$ model on a $d$ dimensional layered geometry with periodic, antiperiodic
+and Dirichlet boundary conditions. Explicit results to two loops for effective
+exponents are obtained using a [2,1] Pad\'e resummed coupling, for: the
+``Gaussian model'' ($N=-2$), spherical model ($N=\infty$), Ising Model ($N=1$),
+polymers ($N=0$), XY-model ($N=2$) and Heisenberg ($N=3$) models in four
+dimensions. We also give two loop Pad\'e resummed results for a three
+dimensional Ising ferromagnet in a transverse magnetic field and corresponding
+one loop results for the two dimensional model. One loop results are also
+presented for a three dimensional layered Ising model with Dirichlet and
+antiperiodic boundary conditions. Asymptotically the effective exponents are in
+excellent agreement with known results.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 1993 17:33:32 GMT""}]","2015-06-26"
+"hep-th/9310199","Denjoe O'Connor","M. A. van Ejick, Denjoe O'Connor and C. R. Stephens","Heating Field Theory the ``Environmentally Friendly'' Way!","7 pages of Plain Tex, Postscript figure available upon request from
+  denjoe@stp.dias.ie, preprint number DIAS-STP-93-25",,,,"hep-th",,"  We discuss how to implement an ``environmentally friendly'' renormalization
+in the context of finite temperature field theory. Environmentally friendly
+renormalization provides a method for interpolating between the different
+effective field theories which characterize different asymptotic regimes. We
+give explicit two loop Pad\'e resummed results for $\l\ff$ theory for $T>T_c$.
+We examine the implications for non-Abelian gauge theories.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 1993 18:08:49 GMT""}]","2007-05-23"
+"hep-th/9310200","Jos\'e M. Figueroa-O'Farrill","J.M. Figueroa-O'Farrill","On the Universal String Theory","7 pages, Plain TeX, QMW-PH-93-29. (no major changes, added some
+  remarks and one reference; v3: solved legacy compilation problems)","Phys.Lett. B321 (1994) 344-348","10.1016/0370-2693(94)90254-2",,"hep-th","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Very recently Berkovits and Vafa have argued that the $N{=}0$ string is a
+particular choice of background of the $N{=}1$ string. Under the assumption
+that the physical states of the $N{=}0$ string theory came essentially from the
+matter degrees of freedom, they proved that the amplitudes of both string
+theories agree. They also conjectured that this should persist whatever the
+form of the physical states. The aim of this note is to prove that both
+theories have the same spectrum of physical states without making any
+assumption on the form of the physical states. We also notice in passing that
+this result is reminiscent of a well-known fact in the theory of induced
+representations and we explore what repercussions this may have in the search
+for the universal string theory.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 1993 18:55:40 GMT""},{""version"":""v2"",""created"":""Fri, 5 Nov 1993 19:03:10 GMT""},{""version"":""v3"",""created"":""Fri, 16 Oct 2020 12:51:02 GMT""}]","2020-10-19"
+"hep-th/9310202","Elias Kiritsis","E. Kiritsis and C. Kounnas","String Propagation in Gravitational Wave Backgrounds","LateX file, 13pp., CERN-TH.7059/93 (Some typos coorected and a few
+  remarks added)","Phys.Lett. B320 (1994) 264-272; Addendum-ibid. B325 (1994) 536","10.1016/0370-2693(94)90655-6",,"hep-th",,"  The Conformal Field Theory of the current algebra of the centrally extended
+2-d Euclidean group is analyzed. Its representations can be written in terms of
+four free fields (without background charge) with signature ($-$+++). We
+construct all irreducible representations of the current algebra with unitary
+base out of the free fields and their orbifolds. This is used to investigate
+the spectrum and scattering of strings moving in the background of a
+gravitational wave. We find that all the dynamics happens in the transverse
+space or the longitunal one but not both.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 1993 20:43:30 GMT""},{""version"":""v2"",""created"":""Mon, 1 Nov 1993 13:37:39 GMT""},{""version"":""v3"",""created"":""Mon, 15 Nov 1993 14:08:44 GMT""}]","2009-10-22"
+"hep-th/9311001","Grosche Christian","Christian Grosche","Path Integration and Separation of Variables in Spaces of Constant
+  Curvature in Two and Three Dimensions","70 pages, AmSTeX, DESY 93 - 141 (mailer corrupted file, and truncated
+  it)","Fortschr.Phys.42:509-584,1994","10.1002/prop.2190420602",,"hep-th",,"  In this paper path integration in two- and three-dimensional spaces of
+constant curvature is discussed: i.e.\ the flat spaces $\bbbr^2$ and $\bbbr^3$,
+the two- and three-dimensional sphere and the two- and three dimensional
+pseudosphere. The Laplace operator in these spaces admits separation of
+variables in various coordinate systems. In all these coordinate systems the
+path integral formulation will be stated, however in most of them an explicit
+solution in terms of the spectral expansion can be given only on a formal
+level. What can be stated in all cases, are the propagator and the
+corresponding Green function, respectively, depending on the invariant distance
+which is a coordinate independent quantity. This property gives rise to
+numerous identities connecting the corresponding path integral representations
+and propagators in various coordinate systems with each other.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 10:39:10 GMT""},{""version"":""v2"",""created"":""Wed, 3 Nov 1993 12:50:56 GMT""}]","2011-07-19"
+"hep-th/9311002",,"M. Arik and V. Gabay","Unification of gauge couplings in Kaluza-Klein theory with two internal
+  manifolds","6,BUFB0993","Phys.Rev. D49 (1994) 5604-5605","10.1103/PhysRevD.49.5604",,"hep-th",,"  We consider a Kaluza-Klein theory whose ground state is ${\bf R}^4 \times
+{\bf M } \times {\bf K}$ where ${\bf M}$ and ${\bf K}$ are compact,
+irreducible, homogenous internal mani folds. This is the simplest ground state
+compatible with the existence of the graviton, gauge fields, massless scalar
+fields and the absence of the cosmological constan t. The requirement for these
+conditions to be satisfied are the odd dimensionality of ${\bf M}$ and ${\bf
+K}$, and the choice of a dimensionally continued Euler form action whose
+dimension is the same as the dimension of ${\bf M} \times {\bf K}$. We show
+that in such a theory, which is not simple due to presence of two internal
+manifolds, the gauge couplings $g^2_M$ and $g^2_K$ are actually unified
+provided that the internal space sizes are constant. For ${\bf M} \times {\bf
+K} = S^{2m+ 1} \times S^{2k+1}$ this gauge coupling unification relation reads
+$g^2_M / g^2_K = m / k$.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 10:52:57 GMT""}]","2009-10-22"
+"hep-th/9311003","Rodrigo Martinez","J.R.Reyes Mart\'inez","Theory of Superselection Sectors for Generalized Ising models","Latex","Lett.Math.Phys. 31 (1994) 117-126",,,"hep-th",,"  We apply the theory of superselection sectors in the same way as done by
+G.Mack and V.Schomerus for the Ising model to generalizations of this model
+described by J.Fr\""{o}hlich and T.Kerler.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 14:36:31 GMT""}]","2016-08-14"
+"hep-th/9311004","Andre LeClair","Andre LeClair","Affine Lie Algebras in Massive Field Theory and Form-Factors from Vertex
+  Operators","13 pages, CLNS 93/1255","Theor.Math.Phys. 98 (1994) 297-305; Teor.Mat.Fiz. 98 (1994)
+  430-441","10.1007/BF01102206",,"hep-th",,"  We present a new application of affine Lie algebras to massive quantum field
+theory in 2 dimensions, by investigating the $q\to 1$ limit of the q-deformed
+affine $\hat{sl(2)}$ symmetry of the sine-Gordon theory, this limit occurring
+at the free fermion point. Working in radial quantization leads to a
+quasi-chiral factorization of the space of fields. The conserved charges which
+generate the affine Lie algebra split into two independent affine algebras on
+this factorized space, each with level 1 in the anti-periodic sector, and level
+$0$ in the periodic sector. The space of fields in the anti-periodic sector can
+be organized using level-$1$ highest weight representations, if one supplements
+the $\slh$ algebra with the usual local integrals of motion. Introducing a
+particle-field duality leads to a new way of computing form-factors in radial
+quantization. Using the integrals of motion, a momentum space bosonization
+involving vertex operators is formulated. Form-factors are computed as vacuum
+expectation values in momentum space. (Based on talks given at the Berkeley
+Strings 93 conference, May 1993, and the III International Conference on
+Mathematical Physics, String Theory, and Quantum Gravity, Alushta, Ukraine,
+June 1993.)
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 15:16:01 GMT""}]","2009-10-22"
+"math/9310201",,"Marco Abate and Giorgio Patrizio","Complex Finsler metrics","plain TeX",,,,"math.CV",,"  In this paper we describe an approach to complex Finsler metrics suitable to
+deal with global questions, and stressing the similarities between hermitian
+and complex Finsler metrics. Let $F$ be a smooth complex Finsler metric on a
+complex manifold $M$, and assume that the indicatrices of $F$ are strongly
+pseudoconvex -- we shall say that $F$ itself is strongly pseudoconvex.
+  The vertical bundle $\cal V$ is the kernel of the differential of the
+canonical projection of the holomorphic tangent bundle of $M$. Using $F$, it is
+possible to endow $\cal V$ with a hermitian metric; let $D$ be the Chern
+connection associated to this metric. It turns out that there is a canonical
+way to build starting from $D$ a horizontal bundle $\cal H$, as well as a
+bundle isomorphism $\Theta\colon{\cal V}\to\cal H$. Using $\Theta$ we may
+transfer both the metric and the connection on $\cal H$; furthermore, there is
+a canonical isometric embedding $\chi$ of the holomorphic tangent bundle of $M$
+into $\cal H$.
+  Our idea is that the Finsler geometry of $M$ can be studied applying standard
+hermitian techniques to $\cal H$ using $\chi$ to transfer back and forth
+problems and solutions. To support this claim, in this paper we discuss Bianchi
+identities, K\""ahler conditions, the first and second variation formulas,
+geodesics and holomorphic curvature. Furthermore, we provide a sound geometric
+interpretation to our previous work on the existence of complex geodesic
+curves. Finally, we prove that in complex K\""ahler Finsler manifolds with
+constant nonpositive holomorphic curvature (and satisfying an additional
+symmetry property on the curvature) the complex geodesic curves define a nice
+fibration of the manifold, completely analogous to the one described by Lempert
+in strongly convex domains.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 1993 17:03:00 GMT""}]","2016-09-06"
+"math/9311209",,"Mourad E. H. Ismail, Mizan Rahman","Some basic bilateral sums and integrals",,,,"OP-SF 1 Nov 1993","math.CA",,"  By splitting the real line into intervals of unit length a doubly infinite
+integral of the form $\Int F(q^x)\,dx,\; 0<q<1$, can clearly be expressed as
+$\Integ \Sum F(q^{x+n})\,dx$, provided $F$ satisfies the appropriate
+conditions. This simple idea is used to prove Ramanujan's integral analogues of
+his \ph{1}{1} sum and give a new proof of Askey and Roy's extention of it.
+Integral analogues of the well-poised \ph{2}{2} sum as well as the
+very-well-poised \ph{6}{6} sum are also found in a straightforward manner. An
+extension to a very-well-poised and balanced \ph{8}{8} series is also given. A
+direct proof of a recent q-beta integral of Ismail and Masson is given.
+","[{""version"":""v1"",""created"":""Mon, 1 Nov 1993 00:00:00 GMT""}]","2016-09-06"

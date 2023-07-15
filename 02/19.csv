@@ -1,0 +1,330 @@
+"astro-ph/9302010",,"A R Liddle and D H Lyth","The End for Extended Inflation?","8 pages 2 Figures, available from A R Liddle LAN-TH-93-02 `replaced'
+  because original file corrupted in transit",,"10.1111/j.1749-6632.1993.tb43951.x",,"astro-ph gr-qc hep-ph",,"  This paper is based on a talk given by A R Liddle at the PASCOS/TEXAS meeting
+in December 1992, and will appear in the proceedings. The central result is
+that all known models of inflation which end in a first order phase transition
+can be ruled out by combining galaxy surveys at a few tens of Mpc with the COBE
+data (including the effect of gravitational waves). This conclusion is based on
+the work described in A R Liddle and D H Lyth, Phys Lett B 291 (1992) 391.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 16:00:00 GMT""}]","2009-10-22"
+"astro-ph/9302011","Chris Dudley","C. C. Dudley and C. G. Wynn-Williams","The 8-13 Micron Spectrum of Arp 299C","Eight pages with one figure included, Plain TeX with psfig macros
+  included, IfA-93","Astrophys.J. 407 (1993) L65","10.1086/186807",,"astro-ph",,"  Arp 299C is a $5 \times 10^{10}$ \Lsun infrared source in the merging galaxy
+system Arp 299. It is the most luminous object known that is not obviously
+associated with a galaxy nucleus. Our data show that the 8--13 \mum spectrum of
+Arp 299C has a strong \NeII emission line and emission features like those of
+polycyclic aromatic hydrocarbon molecules. These emission features are
+characteristic of \HII regions associated with a burst of star formation. We
+did not detect any high-excitation ionic lines characteristic of an active
+galactic nucleus, nor a deep silicate absorption feature that might indicate a
+hidden compact nucleus. We deduce that Arp 299C is powered by an intense burst
+of star formation.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 00:51:29 GMT""}]","2009-10-22"
+"cond-mat/9302026","Ko Okumura","Ko Okumura","The supergroup U(M/N) with regard to electronic Hamiltonians","13 pages, LaTeX",,"10.1143/JPSJ.62.1922",,"cond-mat",,"  We study the U(M/N) supergroup keeping in mind its connection with electronic
+Hamiltonians. It is explicitly shown that the generators of the supergroup
+U(N/N) can be expressed by Clifford operators or Fermi operators. A multi-band
+supersymmetric electronic model is suggested.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 19:12:04 GMT""}]","2009-10-22"
+"cond-mat/9302027","Alexander V. Balatsky","A. V. Balatsky and J. Bonca","Even and odd-frequency pairing correlations in 1-D t-J-h model: a
+  comparative study","6 pages + 4 figures",,"10.1103/PhysRevB.48.7445",,"cond-mat",,"  An equal time version of odd-frequency pairing for a generalized $t-J$ model
+is introduced. It is shown that the composite operators describing binding of
+Cooper pairs with magnetization fluctuations naturally appear in this approach.
+The pairing correlations in both BCS and odd-frequency channels are
+investigated exactly in 1D systems with up to 16 sites. Our results indicate
+that at some range of parameters odd-frequency correlations become comparable,
+however smaller than BCS pairing correlations. It is speculated that the spin
+and density fluctuations in the frustrated model lead to the enhancement of the
+odd gap susceptibilities. 4 postscript figure files are attached at the bottom
+of the tex file.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 22:09:17 GMT""}]","2009-10-22"
+"cond-mat/9302028","Emilio Hernandez-Garcia","E. Hernandez-Garcia, Jorge Vinals, Raul Toral, and M. San Miguel","Fluctuations and Pattern Selection Near an Eckhaus Instability","13 pages REVTeX + 2 postscript figures","Phys.Rev.Lett.70:3576-3579,1993","10.1103/PhysRevLett.70.3576","UIBCM293","cond-mat nlin.PS patt-sol",,"  We study the effect of fluctuations in the vicinity of an Eckhaus
+instability. The classical stability limit, which is defined in the absence of
+fluctuations, is smeared out into a region in which fluctuations and
+nonlinearities dominate the decay of unstable states. The width of this region
+is shown to grow as $ D^{1/2} $, where $D$ is the intensity of the
+fluctuations. We find an effective stability boundary that depends on $D$. A
+numerical solution of the stochastic Swift-Hohenberg equation in one dimension
+is used to test this prediction and to study pattern selection when the initial
+unstable state lies within the fluctuation dominated region. The asymptotically
+selected state differs from the predictions of previous analyses. Finally, the
+nonlinear relaxation for $D > 0$ is shown to exhibit a scaling form.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 14:46:00 GMT""}]","2009-09-25"
+"cond-mat/9302029","C. W. J. Beenakker","R.A. Jalabert, J.-L. Pichard, C.W.J. Beenakker","Long-Range Energy-Level Interaction in Small Metallic Particles","Saclay-s93/014 Email: pichard@amoco.saclay.cea.fr [2017: missing
+  figure included]","Europhys.Lett.24:1,1993","10.1209/0295-5075/24/1/001",,"cond-mat","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We consider the energy level statistics of non-interacting electrons which
+diffuse in a $ d $-dimensional disordered metallic conductor of characteristic
+Thouless energy $ E_c. $ We assume that the level distribution can be written
+as the Gibbs distribution of a classical one-dimensional gas of fictitious
+particles with a pairwise additive interaction potential $ f(\varepsilon ). $
+We show that the interaction which is consistent with the known correlation
+function of pairs of energy levels is a logarithmic repulsion for level
+separations $ \varepsilon <E_c, $ in agreement with Random Matrix Theory. When
+$ \varepsilon >E_c, $ $ f(\varepsilon ) $ vanishes as a power law in $
+\varepsilon /E_c $ with exponents $ -{1 \over 2},-2, $ and $ -{3 \over 2} $ for
+$ d=1,2, $ and 3, respectively. While for $ d=1,2 $ the energy-level
+interaction is always repulsive, in three dimensions there is long-range level
+attraction after the short-range logarithmic repulsion.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 15:15:18 GMT""},{""version"":""v2"",""created"":""Wed, 6 Dec 2017 15:36:07 GMT""}]","2017-12-07"
+"cond-mat/9302030","Peter Kopietz","Peter Kopietz","Universal persistent currents in mesoscopic metal rings due to
+  long-range Coulomb interactions","11 pages, Revtex 3.0, 2 Figures, will be mailed on request","Phys.Rev.Lett.70:3123-3127,1993; ERRATUM-ibid.71:306,1993","10.1103/PhysRevLett.70.3123",,"cond-mat",,"  We calculate the average persistent current in a mesoscopic metal ring
+threaded by a magnetic flux in the diffusive regime. It is shown that the
+classical electromagnetic energy leads to a {\it{universal}} average current of
+the order of $ \alpha e c / C_{0}$, where $\alpha$ is the fine structure
+constant, $-e$ is the charge of the electron, $c$ is the velocity of light, and
+$C_{0}$ is the classical capacitance of the ring. Striking similarities between
+persistent currents and universal conductance fluctuations are discovered. We
+suggest a simple experiment to test our theory.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 15:27:48 GMT""}]","2009-01-23"
+"gr-qc/9302020","Ted Jacobson","R. Capovilla, J. Dell and T. Jacobson","The Initial Value Problem in Light of Ashtekar's Variables","15 pages, UMDGR93-140, NSF-ITP-93-20",,,,"gr-qc",,"  The form of the initial value constraints in Ashtekar's hamiltonian
+formulation of general relativity is recalled, and the problem of solving them
+is compared with that in the traditional metric variables. It is shown how the
+general solution of the four diffeomorphism constraints can be obtained
+algebraically provided the curvature is non-degenerate, and the form of the
+remaining (Gauss law) constraints is discussed. The method is extended to cover
+the case when matter is included, using an approach due to Thiemann. The
+application of the method to vacuum Bianchi models is given. The paper
+concludes with a brief discussion of alternative approaches to the initial
+value problem in the Ashtekar formulation.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 22:02:00 GMT""}]","2007-05-23"
+"gr-qc/9302021",,"B. L. Hu","Fluctuation, Dissipation and Irreversibility in Cosmology","31pp, UMDPP #93-55",,,,"gr-qc",,"  We discuss the appearance of time-asymmetric behavior in physical processes
+in cosmology and in the dynamics of the Universe itself. We begin with an
+analysis of the nature and origin of irreversibility in well-known physical
+processes such as dispersion, diffusion, dissipation and mixing, and make the
+distinction between processes whose irreversibility arises from the stipulation
+of special initial conditions, and those arising from the system's interaction
+with a coarse-grained environment. We then study the irreversibility associated
+with quantum fluctuations in cosmological processes like particle creation and
+the `birth of the Universe'. We suggest that the backreaction effect of such
+quantum processes can be understood as the manifestation of a
+fluctuation-dissipation relation relating fluctuations of quantum fields to
+dissipations in the dynamics of spacetime. For the same reason it is shown that
+dissipation is bound to appear in the dynamics of minisuperspace cosmologies.
+This provides a natural course for the emergence of a cosmological and
+thermodynamic arrow of time and suggests a meaningful definition of
+gravitational entropy. We conclude with a discussion on the criteria for the
+choice of coarse-grainings and the stability of persistent physical structures.
+Invited Talk given at the Conference on The Physical Origin of Time-Asymmetry
+Huelva, Spain, Oct. 1991, Proceedings eds. J. J. Halliwell, J. Perez-Mercader
+and W. H. Zurek, Cambridge University Press, 1993
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 22:51:00 GMT""}]","2007-05-23"
+"gr-qc/9302022",,"J.M. Mour\~ao","Symmetric solutions of Einstein-Yang-Mills equations","5 pages, Latex",,,"DF/IST-1-93","gr-qc",,"  Symmetric gauge fields and invariant metrics in homogeneous spaces are found.
+Their use for finding exact solutions of the Einstein-Yang-Mills (EYM)
+equations is discussed.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 10:51:18 GMT""}]","2016-08-14"
+"gr-qc/9302023",,"Niall \'O Murchadha","Brill Waves","15 pages, plain tex, CUP macro included",,,,"gr-qc",,"  Brill waves are the simplest (non-trivial) solutions to the vacuum
+constraints of general relativity. They are also rich enough in structure to
+allow us believe that they capture, at least in part, the generic properties of
+solutions of the Einstein equations. As such, they deserve the closest
+attention. This article illustrates this point by showing how Brill waves can
+be used to investigate the structure of conformal superspace. This article is
+written as a contribution to the Dieter Brill Festschrift.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 12:36:00 GMT""}]","2007-05-23"
+"gr-qc/9302024",,"Abhay Ashtekar","Mathematical Problems of Non-perturbative Quantum General Relativity","(Lectures delivered at the 1992 Les Houches summer school on
+  Gravitation and Quantization), 87 pp, Plain TeX, SU-GP-92/11-1",,,,"gr-qc hep-th",,"  The purpose of these lectures is to discuss in some detail a new,
+non-perturbative approach to quantum gravity. I would like to present the basic
+ideas, outline the key results that have been obtained so far and indicate
+where we are headed and what the hopes are. The audience at this summer school
+had a diverse background; many came from high energy physics, some from
+mathematical physics and the rest from general relativity. Therefore, I have
+tried to keep the technicalities --particularly proofs and even the number of
+equations-- to a minimum. My hope is that a research student in any of these
+three fields should be able to get a bird's eye view of the entire program. In
+particular, I have kept all three perspectives in mind while discussing the
+difficulties one encounters and strategies one adopts and in evaluating the
+successes and limitations of the program.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 15:46:00 GMT""}]","2007-05-23"
+"hep-lat/9302005","Burkhard Plache","F. Karsch, M. L. Laursen, T. Neuhaus and B. Plache","Vacuum Tunneling and Periodic Structure in Lattice Higgs Models","25 pages, 5 figures, LaTeX (+ PicLaTeX) file, HLRZ-93-08 and BI-TP
+  93/04","Nucl.Phys. B406 (1993) 825-846","10.1016/0550-3213(93)90012-E",,"hep-lat",,"  Using a geometric definition for the lattice Chern-Simons term in even
+dimensions, we have studied the distribution of Chern-Simons numbers for the
+2d-U(1) and the 4d-SU(2) lattice Higgs models. The periodic structure of the
+distributions is preserved in our lattice formulation and has been examined in
+detail. In both cases the finite size effects visible in the distribution of
+Chern-Simons numbers are well accounted for by the Haar measure. Moreover, we
+find that $\langle N_{CS}^2 \rangle$ grows with the spatial volume. We also
+find numerical evidence that tunneling in 4d is increased at high temperature.
+(PS-File including Figures available via E-mail: plache@physv.uni-bielefeld.de)
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 14:59:34 GMT""}]","2009-10-22"
+"hep-ph/9302276","Tao Zhijian","Zhijian Tao","Charged Scalar Particles and $\tau$ Leptonic Decay","ICTP Report No. IC/93/31, 12 pages, Latex, one figure is not
+  included, it is available upon demand","Phys.Rev. D48 (1993) 3221-3224","10.1103/PhysRevD.48.3221",,"hep-ph",,"  Charged scalar particles introduced in some extensions of the standard model
+can induce $\tau$ leptonic decay at tree level. We find that with some charged
+SU(2)-singlet scalar particles, like ones introduced in Zee-type models, $\tau$
+leptonic decay width is always smaller than what is predicted by the standard
+model, therefore they may offer a natural solution to $\tau$ decay puzzle. To
+be more specific, we examine some Zee-type models in detail to see if at the
+same time they are acceptable in particle physics, cosmology and astrophysics.
+It is shown that $\tau$ decay data do put some constrains on these models.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 16:44:12 GMT""}]","2009-10-22"
+"hep-ph/9302277","Ernest Ma","Ernest Ma","Derivation of $m_A \simeq M_Z$ and $\tan \beta > \sqrt 3$ in the Minimal
+  Supersymmetric Standard Model","7 pages, University of California, Riverside Report No. UCRHEP-T105
+  (Feb 1993). [Discussion of radiative correction is now included.]","Phys.Rev. D49 (1994) 1663-1665","10.1103/PhysRevD.49.1663",,"hep-ph",,"  In the minimal supersymmetric standard model, the Higgs sector has two
+unknown parameters, usually taken to be $\tan \beta \equiv v_2/v_1$ and $m_A$,
+the mass of its one physical pseudoscalar particle. By minimizing the minimum
+of the Higgs potential along a certain direction in parameter space, it is
+shown that $m_A = M_Z$ + radiative correction, and if one further plausible
+assumption is made, $\tan \beta > \sqrt 3$.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 19:29:57 GMT""},{""version"":""v2"",""created"":""Thu, 25 Feb 1993 16:54:46 GMT""}]","2009-10-22"
+"hep-ph/9302278","Alick MacPherson","Alick L. Macpherson and Bruce A. Campbell","Toponium Tests Of Top-Quark Higgs Bags","LATEX file;9 pages, 3 figures (not included, available on request);
+  preprint number: Alberta Thy-9-93","Phys.Lett. B306 (1993) 379-385","10.1016/0370-2693(93)90094-X",,"hep-ph",,"  Recently it has been suggested that top quarks, or very massive fourth
+generation quarks, might surround themselves with a Higgs ""bag"" of deformation
+of the Higgs expectation value from its vacuum magnitude. In this paper we
+address the question of whether such nonlinear Higgs-top interaction effects
+are subject to experimental test. We first note that if top quarks were
+necessarily accompanied by Higgs ""bags"", then top quark weak decay would
+involve the sudden disruption of the Higgs ""bag"", with copious production of
+physical Higgs particles accompanying the decay. We then examine the effects
+that such Higgs ""bags"" would produce on the spectrum of toponium, where the two
+bound top (anti)quarks, and their ""bags"", overlap. We numerically evaluate the
+effects that the nonlinear feedback in the Higgs-toponium system would have on
+the energy level splittings of the toponium bound states, and find that for
+allowed values of the top and Higgs mass the effect is negligible, thus
+indicating that even in this favourable circumstance Higgs ""bag"" formation
+around top quarks does not observably occur. Finally, we consider the case of a
+second Higgs doublet, allowing the possibility of enhanced couplings for one of
+the physical Higgs to top. Even in this nonstandard scenario the effects are
+minimal, and we infer the general absence of observable effects at any level
+that might suggest the utility of considering top quarks to be accompanied by
+Higgs ""bags"".
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 05:03:16 GMT""},{""version"":""v2"",""created"":""Fri, 19 Feb 1993 05:59:06 GMT""}]","2009-10-22"
+"hep-ph/9302279","Michelangelo Mangano","Michelangelo MANGANO","On the B and J/Psi Cross Section Measurements at Ua1 and CDF","16 pages + 8 topdrawer figs included at the end, Latex, IFUP-TH 2/93","Z.Phys. C58 (1993) 651-658","10.1007/BF01553026",,"hep-ph",,"  We analise the implications of the measurement of $B$ and $J/\psi$ inclusive
+\pt\ distributions performed in $p\bar p$ collisions by the UA1 and CDF
+experiments.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 13:55:31 GMT""}]","2009-10-22"
+"hep-th/9302081","Uzi Paz","Aharon Davidson and Uzi Paz","Threefold Family of Charged Spin-1/2 Dirac Bubbles","13pp. , (BGU-10-92)","Phys.Lett.B300:234-240,1993","10.1016/0370-2693(93)90359-P",,"hep-th hep-ph",,"  We extend Dirac's `extensible model of the electron' to include spin and
+family. $U(1)_{e.m.}$ charge conservation on the bubble is translated into a
+secondary $U(1)_{g}$ world-manifold gauge principle. Reflecting the secondary
+magnetic monopole configuration on spatial $S^2$, the harmonic excitations may
+furnish half integer $SU(2)_{spin}\otimes U(1)_{g}$ representations. Our
+spin--$1/2$ `electron' is described by four world-manifold scalar fields. Its
+three varieties are associated with different minima of the (6th--order)
+surface-tension scalar potential.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 21:09:28 GMT""}]","2014-11-18"
+"hep-th/9302082","Branko Urosevic","Branko Urosevic (BROWN)","Perturbation Theory in Two Dimensional Open String Field Theory","26 pages","Phys.Rev. D47 (1993) 5460-5469","10.1103/PhysRevD.47.5460","BROWN-HET-899","hep-th",,"  In this paper we develop the covariant string field theory approach to open
+2d strings. Upon constructing the vertices, we apply the formalism to calculate
+the lowest order contributions to the 4- and 5- point tachyon--tachyon tree
+amplitudes. Our results are shown to match the `bulk' amplitude calculations of
+Bershadsky and Kutasov. In the present approach the pole structure of the
+amplitudes becomes manifest and their origin as coming from the higher string
+modes transparent.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 21:20:23 GMT""}]","2009-10-22"
+"hep-th/9302083","Arkady Tseytlin","A.A. Tseytlin","Conformal sigma models corresponding to gauged Wess-Zumino-Witten
+  theories","56 pages, harvmac (b), CERN-TH.6804/93 (minor changes in sects.
+  2,4,6)","Nucl.Phys.B411:509-558,1994","10.1016/0550-3213(94)90461-8",,"hep-th",,"  We develop a field-theoretical approach to determination of the background
+target space fields corresponding to general $G/H$ coset conformal theories
+described by gauged WZW models. The basic idea is to identify the effective
+action of a gauged WZW theory with the effective action of a sigma model. The
+derivation of the quantum effective action in the gauged WZW theory is
+presented in detail, both in the bosonic and in the supersymmetric cases. We
+explain why and how one can truncate the effective action by omitting most of
+the non-local terms (thus providing a justification for some previous
+suggestions). The resulting metric, dilaton and the antisymmetric tensor are
+non-trivial functions of $1/k$ (or $\alpha'$) and represent a large class of
+conformal sigma models. The exact expressions for the fields in the
+sypersymmetric case are equal to the leading order (`semiclassical') bosonic
+expressions (with no shift of $k$). An explicit form in which we find the sigma
+model couplings makes it possible to prove that the metric and the dilaton are
+equivalent to the fields which are obtained in the operator approach, i.e. by
+identifying the $L_0$-operator of the conformal theory with a Klein-Gordon
+operator in a background. The metric can be considered as a `deformation' of an
+invariant metric on the coset space $G/H$ and the dilaton can be in general
+represented in terms of the logarithm of the ratio of the determinants of the
+`deformed' and `round' metrics.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 22:39:27 GMT""},{""version"":""v2"",""created"":""Thu, 25 Feb 1993 22:12:21 GMT""},{""version"":""v3"",""created"":""Fri, 30 Apr 1993 10:26:44 GMT""}]","2009-09-17"
+"hep-th/9302084","Serguei Piunikhine","Sergey Piunikhin (Harvard University)","Combinatorial expression for universal Vassiliev link invariant","20 pages","Commun.Math.Phys. 168 (1995) 1-22","10.1007/BF02099581",,"hep-th math.QA",,"  The most general R-matrix type state sum model for link invariants is
+constructed. It contains in itself all R-matrix invariants and is a generating
+function for ""universal"" Vassiliev link invariants. This expression is more
+simple than Kontsevich's expression for the same quantity, because it is
+defined combinatorially and does not contain any integrals, except for an
+expression for ""the universal Drinfeld's associator"".
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 23:39:27 GMT""}]","2009-10-22"
+"hep-th/9302086","Peter Bouwknegt","P. Bouwknegt, J. McCarthy and K. Pilch","Semi-infinite cohomology of W-algebras","15 pages","Lett.Math.Phys.29:91-102,1993","10.1007/BF00749725","USC-93/11, ADP-93-200/M15","hep-th math.QA",,"  We generalize some of the standard homological techniques to $\cW$-algebras,
+and compute the semi-infinite cohomology of the $\cW_3$ algebra on a variety of
+modules. These computations provide physical states in $\cW_3$ gravity coupled
+to $\cW_3$ minimal models and to two free scalar fields.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 03:22:15 GMT""}]","2009-09-11"
+"hep-th/9302087",,"Dan Radu Grigore","On the Uniqueness of the Newton-Wigner Position Operator","10 pages, PLAIN-TEX","Int.J.Theor.Phys. 32 (1993) 555-564",,,"hep-th",,"  It is shown that the quantum position operator of Newton and Wigner for
+non-zero mass systems is uniquely determined if one imposes a quantum
+''manifest covariance'' condition of the same type as the similar condition of
+Currie, Jordan and Sudarshan in the the framework of the Hamiltonian formalism.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 08:19:00 GMT""}]","2007-05-23"
+"hep-th/9302088","Daniel Arnaudon","Daniel Arnaudon and Vladimir Rittenberg","Quantum Chains with U_q(SL(2)) Symmetry and Unrestricted Representations","9 pages, minor TeXnical revision to allow automatic TeXing","Phys.Lett. B306 (1993) 86-90","10.1016/0370-2693(93)91142-A","CERN-TH.6786/93","hep-th cond-mat math.QA",,"  We consider two-state (q^2=-1) and three-state (q^3=1) one-dimensional
+quantum spin chains with U_q(SL(2)) symmetry. Taking unrestricted
+representations (periodic, semi-periodic and nilpotent), we show which are the
+necessary conditions to obtain a Hermitian Hamiltonian.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 11:07:35 GMT""}]","2009-10-22"
+"hep-th/9302089","Rodolfo Cuerno","R.Cuerno, C.Gomez, E.Lopez and G.Sierra","The Hidden Quantum Group of the 8-vertex Free Fermion Model: q-Clifford
+  Algebras","8 pages, Latex, IMAFF-2/93 (several typos corrected; some comments
+  added)","Phys.Lett. B307 (1993) 56-60","10.1016/0370-2693(93)90192-K",,"hep-th",,"  We prove in this paper that the elliptic $R$--matrix of the eight vertex free
+fermion model is the intertwiner $R$--matrix of a quantum deformed
+Clifford--Hopf algebra. This algebra is constructed by affinization of a
+quantum Hopf deformation of the Clifford algebra.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 11:09:34 GMT""},{""version"":""v2"",""created"":""Mon, 22 Feb 1993 08:41:49 GMT""}]","2009-10-22"
+"hep-th/9302090",,"A.P.Isaev and Z.Popowicz","Quantum Group Gauge Theories and Covariant Quantum Algebras","12 pages, LaTeX, JINR preprint E2-93-54, Dubna (19 February 1993)","Phys.Lett. B307 (1993) 353-361","10.1016/0370-2693(93)90232-7",,"hep-th",,"  The algebraic formulation of the quantum group gauge models in the framework
+of the $R$-matrix approach to the theory of quantum groups is given. We
+consider gauge groups taking values in the quantum groups and noncommutative
+gauge fields transformed as comodules under the coaction of the gauge quantum
+group $ G_{q}$. Using this approach we construct the quantum deformations of
+the topological Chern-Simons models, non-abelian gauge theories and the
+Einstein gravity. The noncommutative fields in these models generate $
+G_{q}$-covariant quantum algebras.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 09:06:53 GMT""},{""version"":""v2"",""created"":""Thu, 11 Mar 1993 20:10:38 GMT""}]","2009-10-22"
+"hep-th/9302091","Sergei Ketov","S.V.Ketov","Space-Time Supersymmetry of Extended Fermionic Strings in $2 + 2$
+  Dimensions","29 pages, LaTeX, ITP-UH-1/93","Class.Quant.Grav.10:1689-1710,1993","10.1088/0264-9381/10/9/013",,"hep-th",,"  The $N=2$ fermionic string theory is revisited in light of its recently
+proposed equivalence to the non-compact $N=4$ fermionic string model. The
+issues of space-time Lorentz covariance and supersymmetry for the BRST
+quantized $N=2$ strings living in uncompactified $2 + 2$ dimensions are
+discussed. The equivalent local quantum supersymmetric field theory appears to
+be the most transparent way to represent the space-time symmetries of the
+extended fermionic strings and their interactions. Our considerations support
+the Siegel's ideas about the presence of $SO(2,2)$ Lorentz symmetry as well as
+at least one self-dual space-time supersymmetry in the theory of the $N=2(4)$
+fermionic strings, though we do not have a compelling reason to argue about the
+necessity of the {\it maximal} space-time supersymmetry. The world-sheet
+arguments about the absence of all string massive modes in the physical
+spectrum, and the vanishing of all string-loop amplitudes in the Polyakov
+approach, are given on the basis of general consistency of the theory.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 13:44:52 GMT""}]","2010-04-06"
+"hep-th/9302092","Boguslaw Broda","B. Broda (U. Clausthal and U. Lodz)","Surgical invariants of four-manifolds","8 pages, plaintex, Revised version (MARCH 1993): trivial
+  factorization escaped",,,,"hep-th alg-geom math.QA",,"  A new topological invariant of closed connected orientable four-dimensional
+manifolds is proposed. The invariant, constructed via surgery on a special
+link, is a four-dimensional counterpart of the celebrated SU(2) three-manifold
+invariant of Reshetikhin, Turaev and Witten.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 14:00:41 GMT""},{""version"":""v2"",""created"":""Fri, 26 Mar 1993 16:28:57 GMT""}]","2008-02-03"
+"hep-th/9302093","Nathan Poliatzky","Nathan Poliatzky","Levinson's Theorem for Dirac Equation","9 pages, Preprint WIS-92/101/DEC-PH, REVTEX-file (the final argument
+  in the proof of the theorem is given in more detail)","Phys.Rev.Lett. 70 (1993) 2507-2510","10.1103/PhysRevLett.70.2507",,"hep-th nucl-th",,"  Levinson's theorem for the Dirac equation is known in the form of a sum of
+positive and negative energy phase shifts at zero momentum related to the total
+number of bound states. In this letter we prove a stronger version of
+Levinson's theorem valid for positive and negative energy phase shifts
+separately. The surprising result is, that in general the phase shifts for each
+sign of the energy do not give the number of bound states with the same sign of
+the energy (in units of $\pi$), but instead, are related to the number of bound
+states of a certain Schr\""odinger equation, which coincides with the Dirac
+equation at zero momentum.
+","[{""version"":""v1"",""created"":""Fri, 19 Feb 1993 15:14:03 GMT""},{""version"":""v2"",""created"":""Mon, 22 Feb 1993 08:05:06 GMT""},{""version"":""v3"",""created"":""Fri, 26 Feb 1993 10:01:18 GMT""}]","2009-10-22"
+"math/9302214","Gilles Pisier","U. Haagerup, Gilles Pisier","Bounded linear operators between C^*-algebras",,,,"Banach Archive 2/18/93","math.FA",,"  Let $u:A\to B$ be a bounded linear operator between two $C^*$-algebras $A,B$.
+The following result was proved by the second author.
+  Theorem 0.1. There is a numerical constant $K_1$ such that for all finite
+sequences $x_1,\ldots, x_n$ in $A$ we have
+$$\leqalignno{&\max\left\{\left\|\left(\sum u(x_i)^*
+u(x_i)\right)^{1/2}\right\|_B, \left\|\left(\sum u(x_i)
+u(x_i)^*\right)^{1/2}\right\|_B\right\}&(0.1)_1\cr \le &K_1\|u\|
+\max\left\{\left\|\left(\sum x^*_ix_i\right)^{1/2}\right\|_A, \left\|\left(\sum
+x_ix^*_i\right)^{1/2}\right\|_A\right\}.}$$
+  A simpler proof was given in [H1]. More recently an other alternate proof
+appeared in [LPP]. In this paper we give a sequence of generalizations of this
+inequality.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 19:43:15 GMT""}]","2016-09-06"
+"math/9302215","Gilles Pisier","Gilles Pisier","Projections from a von~Neumann algebra onto a subalgebra",,,,"Banach Archive 2/18/93","math.FA",,"  This paper is mainly devoted to the following question:\ Let $M,N$ be
+von~Neumann algebras with $M\subset N$, if there is a completely bounded
+projection $P\colon \ N\to M$, is there automatically a contractive projection
+$\widetilde P\colon \ N\to M$?
+  We give an affirmative answer with the only restriction that $M$ is assumed
+semi-finite.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 19:43:15 GMT""}]","2009-09-25"
+"nucl-th/9302008","Wytse van Dijk","W. van Dijk, M.W. Kermode, and D-C Zheng","The $^3S_1-^3D_1$ effective-range parameters of some realistic
+  nucleon-nucleon potentials","16 pages, REVTEX, McM/Th-93-01",,"10.1103/PhysRevC.47.1898",,"nucl-th",,"  We consider the $P$- and $Q$-shape parameters in the eigenphase and `bar'
+phase shift representations for the two Reid potentials and the more recent
+Moscow potential. The values of these parameters were obtained from integrals
+of the zero-energy wave function in a similar manner to that for the effective
+range. Such expressions for the shape parameters yield more reliable numerical
+values of the shape parameter than those obtained by least-mean-square or
+polynomial fits. We show that the eigenphase representation is more meaningful
+than the `bar' phase shift representation and that the variation in the values
+of $P_\alpha$ in the models may be of significance.
+","[{""version"":""v1"",""created"":""Thu, 18 Feb 1993 18:35:04 GMT""}]","2009-10-22"

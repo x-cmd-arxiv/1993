@@ -1,0 +1,106 @@
+"cond-mat/9301008","Michael R. Gallis","M. R. Gallis","Models for local ohmic quantum dissipation","19 pages, REVTEX, PSU/TH/120",,"10.1103/PhysRevA.48.1028",,"cond-mat gr-qc",,"  We construct model master equations for local quantum dissipation. The master
+equations are in the form of Lindblad generators, with imposed constraints that
+the dissipations be strictly linear (i.e. ohmic), isotropic and translationally
+invariant. A particular form for is chosen to satisfy the constraints. The
+resulting master equations are given in both the Schr\""odinger and Heisenberg
+forms. We obtain fluctuation-dissipation relations, and discuss the relaxation
+of average kinetic energy to effective thermal equilibrium values. We compare
+our results to the Dekker and the Caldeira-Leggett master equations. These
+master equations allow a more general approach to quantum dissipation and the
+dynamics of quantum coherence to account for the nontrivial system-environment
+coupling in a local environment.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 17:26:00 GMT""}]","2009-10-22"
+"cond-mat/9301009",,"A.H.Castro Neto and Eduardo Fradkin","The Thermodynamics of Quantum Systems and Generalizations of
+  Zamolodchikov's C-theorem","25 pages, LateX, P-92-10-128","Nucl.Phys. B400 (1993) 525-546","10.1016/0550-3213(93)90414-K",,"cond-mat",,"  In this paper we examine the behavior in temperature of the free energy on
+quantum systems in an arbitrary number of dimensions. We define from the free
+energy a function $C$ of the coupling constants and the temperature, which in
+the regimes where quantum fluctuations dominate, is a monotonically increasing
+function of the temperature. We show that at very low temperatures the system
+is controlled by the zero-temperature infrared stable fixed point while at
+intermediate temperatures the behavior is that of the unstable fixed point. The
+$C$ function displays this crossover explicitly. This behavior is reminiscent
+of Zamolodchikov's $C$-theorem of field theories in 1+1 dimensions. Our results
+are obtained through a thermodynamic renormalization group approach. We find
+restrictions on the behavior of the entropy of the system for a
+$C$-theorem-type behavior to hold. We illustrate our ideas in the context of a
+free massive scalar field theory, the one-dimensional quantum Ising Model and
+the quantum Non-linear Sigma Model in two space dimensions. In regimes in which
+the classical fluctuations are important the monotonic behavior is absent.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 22:04:51 GMT""}]","2009-10-22"
+"gr-qc/9301006","Steve Carlip","S. Carlip","Real Tunneling Solutions and the Hartle-Hawking Wave Function","10 pages, LaTeX, UCD-92-30","Class.Quant.Grav.10:1057-1064,1993","10.1088/0264-9381/10/6/004",,"gr-qc hep-th",,"  A real tunneling solution is an instanton for the Hartle-Hawking path
+integral with vanishing extrinsic curvature (vanishing ``momentum'') at the
+boundary. Since the final momentum is fixed, its conjugate cannot be specified
+freely; consequently, such an instanton will contribute to the wave function at
+only one or a few isolated spatial geometries. I show that these geometries are
+the extrema of the Hartle-Hawking wave function in the semiclassical
+approximation, and provide some evidence that with a suitable choice of time
+parameter, these extrema are the maxima of the wave function at a fixed time.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 21:37:54 GMT""}]","2010-04-28"
+"hep-lat/9301002","Christian Holm","Christian Holm and Wolfhard Janke","Critical Exponents of the Classical 3D Heisenberg Model: A
+  Single-Cluster Monte Carlo Study","33 pages, 12 figures (not included, available on request). Preprint
+  FUB-HEP 19/92, HLRZ 77/92, September 1992","Phys. Rev. B48 (1993) 936","10.1103/PhysRevB.48.936",,"hep-lat",,"  We have simulated the three-dimensional Heisenberg model on simple cubic
+lattices, using the single-cluster Monte Carlo update algorithm. The expected
+pronounced reduction of critical slowing down at the phase transition is
+verified. This allows simulations on significantly larger lattices than in
+previous studies and consequently a better control over systematic errors. In
+one set of simulations we employ the usual finite-size scaling methods to
+compute the critical exponents $\nu,\alpha,\beta,\gamma, \eta$ from a few
+measurements in the vicinity of the critical point, making extensive use of
+histogram reweighting and optimization techniques. In another set of
+simulations we report measurements of improved estimators for the spatial
+correlation length and the susceptibility in the high-temperature phase,
+obtained on lattices with up to $100^3$ spins. This enables us to compute
+independent estimates of $\nu$ and $\gamma$ from power-law fits of their
+critical divergencies.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 19:52:45 GMT""}]","2009-10-22"
+"hep-ph/9301222","R. Sekhar Chivukula","Dimitris Kominis and R. Sekhar Chivukula","Triviality Bounds in Two-Doublet Models","15 pages (8 postscript figures in two files), BUHEP-93-2","Phys.Lett. B304 (1993) 152-158","10.1016/0370-2693(93)91415-J",,"hep-ph hep-lat",,"  We examine perturbatively the two-Higgs-doublet extension of the \SM\ in the
+context of the suspected triviality of theories with fundamental scalars.
+Requiring the model to define a consistent effective theory for scales below a
+cutoff of $2\pi$ times the largest mass of the problem, as motivated by lattice
+investigations of the one-Higgs-doublet model, we obtain combined bounds for
+the parameters of the model. We find upper limits of 470 GeV for the mass of
+the light $CP$--even neutral scalar and 650--700 GeV for the other scalar
+masses.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 18:23:04 GMT""}]","2009-10-22"
+"hep-ph/9301223","Lisa Randall","Laurent Lellouch, Lisa Randall and Eric Sather","The Rate for $e^+e^-\to B B^\pm \pi^\mp$ and its Implications for the
+  Study of CP Violation, $B_s$ Identification, and the Study of $B$ Meson
+  Chiral Perturbation Theory","32 pages, 3 PS figures available upon request, MIT-CTP#2155","Nucl.Phys.B405:55-79,1993","10.1016/0550-3213(93)90426-P",,"hep-ph",,"  H.~Yamamoto has proposed employing $B$ mesons produced in conjunction with a
+single charged pion at an $\Upsilon$ resonance for studies of CP violation in
+the neutral $B$ meson system at a symmetric $e^+$-$e^-$ collider. The sign of
+the charged pion would tag the neutral $B$ meson. We estimate this branching
+ratio, employing the heavy meson chiral effective field theory. We find a
+negligible branching ratio to $B B^{\pm} \pi^{\mp}$ at the $\Upsilon$(5S) and a
+branching ratio of only a few percent at the $\Upsilon$(6S). However, if
+nonresonant studies of neutral $B$ mesons should prove feasible, Yamamoto's
+proposal could be a good method for tagging neutral $B$'s for the study of CP
+violation at a symmetric collider.
+  We also explore the possibility of studying $B_s$ at the $\Upsilon$(5S). The
+rate is low but depends sensitively on the precise value of the mass of the
+$B_s$. The background we compute is comparable to the rate at the largest
+allowed value of the $B_s$ mass.
+  Finally, we discuss the extraction of the axial pion coupling to $B$ mesons
+from measurement of the $B\bbar\pi$ branching fraction in a restricted region
+of phase space, where chiral perturbation theory should work well.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 20:42:26 GMT""}]","2009-09-15"
+"hep-ph/9301224","Charles Gale","David Seibert, Kevin Haglin and Charles Gale","Measuring velocity ratios with correlation functions","9 pages, LaTeX, 2 PostScript figures","Phys.Rev.D48:1889-1893,1993","10.1103/PhysRevD.48.R1889","McGill/92-10, KSUCNR-005-92","hep-ph nucl-th",,"  We show how to determine the ratio of the transverse velocity of a source to
+the velocity of emitted particles, using split-bin correlation functions. The
+technique is to measure $S_2$ and $S_2^{\phi}$, subtract the contributions from
+the single-particle distribution, and take the ratio as the bin size goes to
+zero. We demonstrate the technique for two cases: each source decays into two
+particles, and each source emits a large number of particles.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 20:53:23 GMT""}]","2010-01-06"
+"hep-th/9301026","S. Ole Warnaar","Ole Warnaar and Bernard Nienhuis","Solvable lattice models labelled by Dynkin diagrams","18 pages","J.Phys. A26 (1993) 2301-2316","10.1088/0305-4470/26/10/005","ITFA 93-01","hep-th nlin.SI solv-int",,"  An equivalence between generalised restricted solid-on-solid (RSOS) models,
+associated with sets of graphs, and multi-colour loop models is established. As
+an application we consider solvable loop models and in this way obtain new
+solvable families of critical RSOS models. These families can all be classified
+by the Dynkin diagrams of the simply-laced Lie algebras. For one of the RSOS
+models, labelled by the Lie algebra pair (A$_L$,A$_L$) and related to the
+C$_2^{(1)}$ vertex model, we give an off-critical extension, which breaks the
+Z$_2$ symmetry of the Dynkin diagrams.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 18:16:37 GMT""}]","2009-10-22"
+"hep-th/9301027",,"Yoshiaki Tanii and Masakazu Yamashita","Physical States in Two-Dimensional Topological Gauge Theories","9 pages, STUPP-93-133","Mod.Phys.Lett. A8 (1993) 1603-1610","10.1142/S0217732393001343",,"hep-th",,"  Physical states of two-dimensional topological gauge theories are studied
+using the BRST formalism in the light-cone gauge. All physical states are
+obtained for the abelian theory. There are an infinite number of physical
+states with different ghost numbers. Simple examples of physical states in a
+non-abelian theory are also given.
+","[{""version"":""v1"",""created"":""Sat, 9 Jan 1993 05:23:12 GMT""}]","2015-06-26"

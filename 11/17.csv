@@ -1,0 +1,224 @@
+"astro-ph/9311039","Ruth Durrer","Ruth Durrer","Early Reionization in Cosmology","LaTeX, ZU-TH 28/93",,"10.1016/1350-4495(94)90070-1",,"astro-ph",,"  The cosmic microwave background (CMB) anisotropies have turned out to
+represent one of the most stringent 'bottle necks' for scenarios of large scale
+structure formation. As a possibility to relax this constraint, it has been
+proposed that early reionization can damp CMB fluctuations on small scales due
+to photon diffusion in the ionized plasma. As an example, I investigate the
+recently proposed scenario with cold dark matter (CDM) and texture seeds.
+There, an analysis of CMB anisotropies shows that early reionization is a
+crucial ingredient for this scenario. Without damping, the small scale
+anisotropies would dominate and exceed observed limits. In this paper I present
+analytical and numerical results for the amount of damping due to early
+reionization for CMB perturbations induced by a collapsing texture.
+Furthermore, the spectral distortion of the CMB due to Compton scattering of
+the hotter plasma electrons is calculated. Next I discuss the physical
+processes which lead to a system of coupled ordinary differential equations for
+the degree of ionization, the electron temperature and the evolution of the
+ionizing radiation.
+","[{""version"":""v1"",""created"":""Wed, 17 Nov 1993 14:20:49 GMT""}]","2009-10-22"
+"astro-ph/9311040","Ruth Durrer","R.Durrer, A. Howard, Z.-H. Zhou","Microwave Anisotropies from Texture Seeded Structure Formation","16p, LaTex, ZU-TH 32/92","Phys.Rev.D49:681-691,1994","10.1103/PhysRevD.49.681",,"astro-ph",,"  The cosmic microwave anisotropies in a scenario of large scale structure
+formation with cold dark matter and texture are discussed and compared with
+recent observational results of the COBE satellite. A couple of important
+statistical parameters are determined. The fluctuations are slightly non
+gaussian. The quadrupole anisotropy is $1.5\pm 1.2\times 10^{-5}$ and the
+fluctuations on a angular scale of 10 degrees are $ (3.8\pm 2.6)\times
+10^{-5}$. The COBE are within about one standard deviation of the typical
+texture + CDM model discussed in this paper. Furthermore, we calculate
+fluctuations on intermediate scales (about 2 degrees) with the result $\De
+T/T(\theta \sim 2^o) = 3.9\pm 0.8)\times 10^{-5}$. Collapsing textures are
+modeled by spherically symmetric field configurations. This leads to
+uncertainties of about a factor of~2.
+","[{""version"":""v1"",""created"":""Wed, 17 Nov 1993 15:36:40 GMT""}]","2008-11-26"
+"astro-ph/9311041","Ruth Durrer","Ruth Durrer","Gauge Invariant Cosmological Perturbation Theory","99, LaTeX, ZU-Th14/92","Fund.Cosmic Phys.15:209,1994",,,"astro-ph",,"  After an introduction to the problem of cosmological structure formation, we
+develop gauge invariant cosmological perturbation theory. We derive the first
+order perturbation equations of Einstein's equations and energy momentum
+``conservation''. Furthermore, the perturbations of Liouville's equation for
+collisionless particles and Boltzmann's equation for Compton scattering are
+worked out. We fully discuss the propagation of photons in a perturbed
+Friedmann universe, calculating the Sachs--Wolfe effect and light deflection.
+The perturbation equations are extended to accommodate also perturbations
+induced by seeds.
+  With these general results we discuss some of the main aspects of the texture
+model for the formation of large scale structure in the
+  Universe (galaxies, clusters, sheets, voids).
+  In this model, perturbations in the dark matter are induced by texture seeds.
+  The gravitational effects of a spherically symmetric collapsing texture on
+dark matter, baryonic matter and photons are calculated in first order
+perturbation theory. We study the characteristic signature of the microwave
+background fluctuations induced in this scenario and compare it with the COBE
+observations.
+","[{""version"":""v1"",""created"":""Wed, 17 Nov 1993 15:53:13 GMT""}]","2010-12-09"
+"chao-dyn/9311003","Josh Wilkie","Joshua Wilkie and Paul Brumer (Chemical Physics Theory Group,
+  Department of Chemistry, University of Toronto, Toronto, Ontario, Canada)","Correspondence in Quasiperiodic and Chaotic Maps: Quantization via the
+  von Neumann Equation","36 pages, RevTex preprint format",,"10.1103/PhysRevE.49.1968",,"chao-dyn nlin.CD",,"  A generalized approach to the quantization of a large class of maps on a
+torus, i.e. quantization via the von Neumann Equation, is described and a
+number of issues related to the quantization of model systems are discussed.
+The approach yields well behaved mixed quantum states for tori for which the
+corresponding Schrodinger equation has no solutions, as well as an extended
+spectrum for tori where the Schrodinger equation can be solved.
+Quantum-classical correspondence is demonstrated for the class of mappings
+considered, with the Wigner-Weyl density $\rho(p,q,t)$ going to the correct
+classical limit. An application to the cat map yields, in a direct manner,
+nonchaotic quantum dynamics, plus the exact chaotic classical propagator in the
+correspondence limit.
+","[{""version"":""v1"",""created"":""Tue, 16 Nov 1993 19:16:16 GMT""}]","2009-10-22"
+"cond-mat/9311039","Lizeng Zhang","Lizeng Zhang, Geoff Canright and Ted Barnes","Simulating `Complex' Problems with Quantum Monte Carlo","Revtex, 11 pages. 3 postscript files for figures attached",,"10.1103/PhysRevB.49.12355",,"cond-mat",,"  We present a new quantum Monte Carlo algorithm suitable for generically
+complex problems, such as systems coupled to external magnetic fields or anyons
+in two spatial dimensions. We find that the choice of gauge plays a nontrivial
+role, and can be used to reduce statistical noise in the simulation.
+Furthermore, it is found that noise can be greatly reduced by approximate
+cancellations between the phases of the (gauge dependent) statistical flux and
+the external magnetic flux.
+","[{""version"":""v1"",""created"":""Tue, 16 Nov 1993 19:20:42 GMT""}]","2009-10-22"
+"cond-mat/9311040","Eugene Wong","Eugene Wong and Ian Affleck","Tunneling in Quantum Wires: a Boundary Conformal Field Theory Approach","32 pages, REVTEX 3.0, 1 postscript file appended, UBCTP-93-20",,"10.1016/0550-3213(94)90479-0",,"cond-mat hep-th",,"  Tunneling through a localized barrier in a one-dimensional interacting
+electron gas has been studied recently using Luttinger liquid techniques.
+Stable phases with zero or unit transmission occur, as well as critical points
+with universal fractional transmission whose properties have only been
+calculated approximately, using a type of ``$\epsilon$-expansion''. It may be
+possible to calculate the universal properties of these critical points exactly
+using the recent boundary conformal field theory technique, although
+difficulties arise from the $\infty$ number of conformal towers in this $c=4$
+theory and the absence of any apparent ``fusion'' principle. Here, we formulate
+the problem efficiently in this new language, and recover the critical
+properties of the stable phases.
+","[{""version"":""v1"",""created"":""Tue, 16 Nov 1993 20:13:00 GMT""}]","2009-10-22"
+"cond-mat/9311041","Wang Deng Feng Post doc Gruber","D. F. Wang and C. Gruber","Invariants of the $1/r^2$ Supersymmetric t-J Models","10 pages, Latex, IPT-EPFL 31/10/1993",,"10.1103/PhysRevB.49.15712",,"cond-mat hep-th",,"  In this work, we have studied the invariants of motion of two SU(N)
+supersymmetric t-J model of $1/r^2$ hopping and exchange in one dimension. The
+first model is defined on a lattice of equal spaced sites, and the second on a
+non-equal spacing lattice. Using the ``exchange operator formalism'', we are
+able to construct all the invariants for the models, by mapping the systems to
+mixtures of fermions and bosons. This identification shows that the
+supersymmetric t-J model on the chain with equal-spaced sites also belongs to
+Shastry-Sutherland's ``Super-Lax-Pair'' family. (IPT-EPFL 31/10/1993).
+","[{""version"":""v1"",""created"":""Wed, 17 Nov 1993 15:45:00 GMT""}]","2009-10-22"
+"gr-qc/9311028","Matt Visser","Matt Visser","Acoustic propagation in fluids: an unexpected example of Lorentzian
+  geometry","11 pages, ReV_TeX 3.0",,,,"gr-qc hep-th",,"  It is a deceptively simple question to ask how acoustic disturbances
+propagate in a non--homogeneous flowing fluid. If the fluid is barotropic and
+inviscid, and the flow is irrotational (though it may have an arbitrary time
+dependence), then the equation of motion for the velocity potential describing
+a sound wave can be put in the (3+1)--dimensional form: d'Alembertian psi = 0.
+That is partial_mu(sqrt{-g} g^{mu nu} partial_nu psi)/sqrt{-g} = 0. The
+acoustic metric --- g_{mu nu}(t,x) --- governing the propagation of sound
+depends algebraically on the density, flow velocity, and local speed of sound.
+Even though the underlying fluid dynamics is Newtonian, non--relativistic, and
+takes place in flat space + time, the fluctuations (sound waves) are governed
+by a Lorentzian spacetime geometry.
+","[{""version"":""v1"",""created"":""Tue, 16 Nov 1993 19:18:05 GMT""}]","2016-08-31"
+"hep-lat/9311017","Tony Kennedy","A. D. Kennedy and K. M. Bitar","An Exact Local Hybrid Monte Carlo Algorithm for Gauge Theories","FSU-SCRI-93-137, 6pp, Postscript","Nucl.Phys.Proc.Suppl. 34 (1994) 786-788","10.1016/0920-5632(94)90514-2",,"hep-lat",,"  We introduce a new Monte Carlo method for pure gauge theories. It is not
+intended for use with dynamical fermions. It belongs to the class of Local
+Hybrid Monte Carlo (LHMC) algorithms, which make use of the locality of the
+action by updating individual sites or links by following a classical mechanics
+trajectory in fictitious time. We choose to update a one-parameter subgroup of
+the gauge field on each link of the lattice, and the classical trajectory can
+be found in closed form in terms of elliptic functions for this case. We show
+that this gives an overrelaxation algorithm with a tunable parameter which,
+unlike some previous methods, does not require the numerical integration of the
+equations of motion.
+","[{""version"":""v1"",""created"":""Tue, 16 Nov 1993 23:55:10 GMT""}]","2009-10-22"
+"hep-ph/9311303",,"A. Ballestrero and E. Maina","Five Jet Production with Heavy Quarks at $e^+ e^-$ Colliders","14 pages + 2 pages of Feynman diagrams appended as 2 separate files
+  after \end{document}(with Feynman.tex) + 2 Figs submitted in uuencoded form,
+  LaTex, DFTT 68/93","Phys.Lett.B323:53-64,1994","10.1016/0370-2693(94)00028-X",,"hep-ph",,"  Heavy quark production in five jet events at $e^+e^-$ colliders is studied at
+tree level using helicity amplitudes. Total production rates for $2b3j$ and
+$4bj$ are given and compared with the corresponding results for massless
+quarks. The process $e^+e^-\rightarrow q\bar q gg\gamma$ which is the dominant
+contribution to $4j\gamma$ production is briefly discussed.
+","[{""version"":""v1"",""created"":""Wed, 17 Nov 1993 13:35:13 GMT""}]","2010-11-01"
+"hep-th/9311086","Jorge Alfaro","J. Alfaro","Loop Equations for the d-dimensional n-Hermitian matrix model","13 pages,PUC-FIS 28-93",,,,"hep-th",,"  We derive the loop equations for the d-dimensional n-Hermitian matrix model.
+These are a consequence of the Schwinger-Dyson equations of the model. Moreover
+we show that in leading order of large $N$ the loop equations form a closed
+set. In particular we derive the loop equations for the $n=2^k$ matrix model
+recently proposed to describe the coupling of Two-dimensional quantum gravity
+to conformal matter with $c> 1$.
+","[{""version"":""v1"",""created"":""Tue, 16 Nov 1993 16:00:00 GMT""}]","2007-05-23"
+"hep-th/9311089",,"L.Bonora and C.S.Xiong","Correlation functions of two-matrix models","38 p., LaTeX, SISSA 172/93/EP, BONN-HE-45/93. (revised version: a few
+  remarks added, misprints corrected)",,,,"hep-th",,"  We show how to calculate correlation functions of two matrix models. Our
+method consists in making full use of the integrable hierarchies and their
+reductions, which were shown in previous papers to naturally appear in
+multi--matrix models. The second ingredient we use are the $W$--constraints. In
+fact an explicit solution of the relevant hierarchy, satisfying the
+$W$--constraints (string equation), underlies the explicit calculation of the
+correlation functions. In the course of our derivation we do not use any
+continuum limit tecnique. This allows us to find many solutions which are
+invisible to the latter technique.
+","[{""version"":""v1"",""created"":""Tue, 16 Nov 1993 16:12:25 GMT""},{""version"":""v2"",""created"":""Tue, 18 Jan 1994 18:47:00 GMT""},{""version"":""v3"",""created"":""Wed, 19 Jan 1994 09:07:09 GMT""}]","2008-02-03"
+"hep-th/9311090","Jadczyk","Ph. Blanchard and A. Jadczyk","From Quantum Probabilities to Classical Facts","17 pages (the revised version: puts a different weight on ""meaning of
+  the wave function"")",,,,"hep-th",,"  Model interactions between classical and quantum systems are briefly
+reviewed. These include: general measurement - like couplings, Stern-Gerlach
+experiment, model of a counter, quantum Zeno effect, piecewise deterministic
+Markov processes and meaning of the wave function.
+","[{""version"":""v1"",""created"":""Tue, 16 Nov 1993 19:28:54 GMT""},{""version"":""v2"",""created"":""Thu, 25 Nov 1993 08:12:44 GMT""}]","2008-02-03"
+"hep-th/9311091",,"Chihong Chou","Dynamical Equations of Spinning Particles: Feynman's Proof","16pages, RU93-10-B","Phys.Lett. B323 (1994) 147-152","10.1016/0370-2693(94)90283-6",,"hep-th",,"  In this letter, we discuss the extension of Feynman's derivation of the
+equation of motion to the case of spinning particles. We show that a spinning
+particle interacts only with the electromagnetic and gravitational fields. In
+the absence of the electromagnetic interactions, we rederive Papapetrou's
+equations for spinning particles in the background of the conformal gravity. We
+also find that the effect of spin coupled to non-constant electromagnetic
+fields leads to further corrections to the Lorentz force equations. Some
+discussions of these results are given at the end.
+","[{""version"":""v1"",""created"":""Wed, 17 Nov 1993 03:04:36 GMT""}]","2009-10-22"
+"hep-th/9311092","Curtis Callan","Curtis G. Callan and Igor R. Klebanov","Exact C=1 Boundary Conformal Field Theories","harvmac, 10 pages, PUPT-1432/IASSNS-HEP-93/78","Phys.Rev.Lett. 72 (1994) 1968-1971","10.1103/PhysRevLett.72.1968",,"hep-th cond-mat",,"  We present a solution of the problem of a free massless scalar field on the
+half line interacting through a periodic potential on the boundary. For a
+critical value of the period, this system is a conformal field theory with a
+non-trivial and explicitly calculable S-matrix for scattering from the
+boundary. Unlike all other exactly solvable conformal field theories, it is
+non-rational ({\it i.e.} has infinitely many primary fields). It describes the
+critical behavior of a number of condensed matter systems, including
+dissipative quantum mechanics and of barriers in ``quantum wires''.
+","[{""version"":""v1"",""created"":""Wed, 17 Nov 1993 03:46:50 GMT""}]","2009-10-22"
+"hep-th/9311094","Claudio Emmrich","Claudio Emmrich, Alan Weinstein","The differential geometry of Fedosov's quantization","20 pages",,,,"hep-th math.DG math.QA",,"  B. Fedosov has given a simple and very natural construction of a deformation
+quantization for any symplectic manifold, using a flat connection on the bundle
+of formal Weyl algebras associated to the tangent bundle of a symplectic
+manifold. The connection is obtained by affinizing, nonlinearizing, and
+iteratively flattening a given torsion free symplectic connection. In this
+paper, a classical analog of Fedosov's operations on connections is analyzed
+and shown to produce the usual exponential mapping of a linear connection on an
+ordinary manifold. A symplectic version is also analyzed. Finally, some remarks
+are made on the implications for deformation quantization of Fedosov's index
+theorem on general symplectic manifolds.
+","[{""version"":""v1"",""created"":""Wed, 17 Nov 1993 07:45:00 GMT""},{""version"":""v2"",""created"":""Fri, 19 Nov 1993 01:50:27 GMT""}]","2009-09-25"
+"hep-th/9311095","Volodimir Lyubashenko","Volodymyr Lyubashenko and A. Sudbery","Quantum supergroups of $GL(n|m)$ type: differential forms, Koszul
+  complexes and Berezinians","50 pages, close to published version","Duke Math. J. 90 (1997), no. 1, 1-62",,,"hep-th math.QA",,"  We introduce and study the Koszul complex for a Hecke $R$-matrix. Its
+cohomologies, called the Berezinian, are used to define quantum
+superdeterminant for a Hecke $R$-matrix. Their behaviour with respect to Hecke
+sum of $R$-matrices is studied. Given a Hecke $R$-matrix in $n$-dimensional
+vector space, we construct a Hecke $R$-matrix in $2n$-dimensional vector space
+commuting with a differential. The notion of a quantum differential supergroup
+is derived. Its algebra of functions is a differential coquasitriangular Hopf
+algebra, having the usual algebra of differential forms as a quotient. Examples
+of superdeterminants related to these algebras are calculated. Several remarks
+about Woronowicz's theory are made.
+","[{""version"":""v1"",""created"":""Wed, 17 Nov 1993 12:46:27 GMT""},{""version"":""v2"",""created"":""Mon, 27 Dec 1993 17:03:54 GMT""},{""version"":""v3"",""created"":""Mon, 26 Sep 1994 10:44:16 GMT""},{""version"":""v4"",""created"":""Wed, 20 Feb 2008 15:42:29 GMT""}]","2009-09-25"
+"hep-th/9311096","Gleb Arutyunov","G. E. Arutyunov and P. B. Medvedev","Quantization of the external algebra on a Poisson-Lie group","19 pages. The proof of eq.(3.16) and LaTeX errors are corrected",,,"SMI-11-93","hep-th math.QA",,"  We show that the external algebra $\cal M$ on $GL(N)$ can be equipped with
+the graded Poisson brackets compatible with the group action. We prove that
+there are only two graded Poisson-Lie structures (brackets) on $\cal M$ and we
+obtain their explicit description. We realize that just these two structures
+appear as the quasiclassical limit of the bicovariant differential calculi on
+the quantum linear group $GL_q (N)$.
+","[{""version"":""v1"",""created"":""Wed, 17 Nov 1993 11:57:59 GMT""},{""version"":""v2"",""created"":""Fri, 4 Feb 1994 17:12:41 GMT""}]","2008-02-03"
+"hep-th/9311097",,"C.M. Becchi, R. Collina and C. Imbimbo","On the Semi-Relative Condition for Closed (TOPOLOGICAL) Strings","10 pages, harvmac, CERN-TH-7084/93, GEF-TH-21/1993","Phys.Lett.B322:79-83,1994","10.1016/0370-2693(94)90493-6",,"hep-th",,"  We provide a simple lagrangian interpretation of the meaning of the $b_0^-$
+semi-relative condition in closed string theory. Namely, we show how the
+semi-relative condition is equivalent to the requirement that physical
+operators be cohomology classes of the BRS operators acting on the space of
+local fields {\it covariant} under world-sheet reparametrizations. States
+trivial in the absolute BRS cohomology but not in the semi-relative one are
+explicitly seen to correspond to BRS variations of operators which are not
+globally defined world-sheet tensors. We derive the covariant expressions for
+the observables of topological gravity. We use them to prove a formula that
+equates the expectation value of the gravitational descendant of ghost number 4
+to the integral over the moduli space of the Weil-Peterson K\""ahler form.
+","[{""version"":""v1"",""created"":""Wed, 17 Nov 1993 15:51:47 GMT""}]","2010-11-01"
+"math/9311210",,"Arieh Iserles","From Schr\""odinger spectra to orthogonal polynomials, via a functional
+  equation",,,,"OP-SF 17 Nov 1993","math.CA",,"  The main difference between certain spectral problems for linear
+Schr\""odinger operators, e.g. the almost Mathieu equation, and three-term
+recurrence relations for orthogonal polynomials is that in the former the index
+ranges across $\ZZ$ and in the latter only across $\Zp$. We present a technique
+that, by a mixture of Dirichlet and Taylor expansions, translates the almost
+Mathieu equation and its generalizations to three term recurrence relations.
+This opens up the possibility of exploiting the full power of the theory of
+orthogonal polynomials in the analysis of Schr\""odinger spectra.
+  Aforementioned three-term recurrence relations share the property that their
+coefficients are almost periodic. We generalize a method of proof, due
+originally to Jeff Geronimo and Walter van Assche, to investigate essential
+support of the Borel measure of associated orthogonal polynomials, thereby
+deriving information on the underlying absolutely continuous spectra of
+Schr\""odinger operators.
+","[{""version"":""v1"",""created"":""Wed, 17 Nov 1993 00:00:00 GMT""}]","2016-09-06"

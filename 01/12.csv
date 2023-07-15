@@ -1,0 +1,200 @@
+"cond-mat/9301011","Yigal Meir","Y. Meir and O. Entin-Wohlman","Random Matrix Theory of Transition Strengths and Universal
+  Magnetoconductance in the Strongly Localized Regime","15 pages and two figures in postscript, revtex",,"10.1103/PhysRevLett.70.1988",,"cond-mat",,"  Random matrix theory of the transition strengths is applied to transport in
+the strongly localized regime. The crossover distribution function between the
+different ensembles is derived and used to predict quantitatively the {\sl
+universal} magnetoconductance curves in the absence and in the presence of
+spin-orbit scattering. These predictions are confirmed numerically.
+","[{""version"":""v1"",""created"":""Mon, 11 Jan 1993 20:37:00 GMT""}]","2009-10-22"
+"cond-mat/9301012","Olle Heinonen","Olle Heinonen and Walter Kohn","Surface Effects on Bulk Plasmons","9 pages (postscipt figures NOT included) (RevTeX 3.0)",,"10.1103/PhysRevB.48.12240",,"cond-mat",,"  We discuss the effects of surfaces on bulk plasma oscillations in a metallic
+film of thickness $L$. The leading corrections to the plasma frequencies due to
+the surfaces are proportional to $L^{-1}$. dispersion relation of bulk modes,
+$\omega=\omega_p[1+\alpha(q^2/k_F^2)] $, where the allowed $q$-values are
+$q^{(n)}=(n\pi/\overline L)$, $\overline L\equiv L-2d_b$, and $d_b$ is a
+complex length characteristic of the surface (reminiscent of but different from
+Feibelman's $d_\perp$). An explicit expression for $d_b$ is derived. Resonant
+excitation by an external field, $E_0e^{-i\omega t}$, is calculated.
+","[{""version"":""v1"",""created"":""Mon, 11 Jan 1993 20:49:52 GMT""}]","2009-10-22"
+"cond-mat/9301013",,"J.M.P. Carmelo and A.H. Castro Neto","Dynamical decoupling and Kac-Moody current representation in
+  multicomponent integrable systems","10 pages, RevteX, P-92-09-113","Phys.Rev.Lett. 70 (1993) 1904-1907","10.1103/PhysRevLett.70.1904",,"cond-mat",,"  The conformal invariant character of $\nu$-multicomponent integrable systems
+(with $\nu$ branches of gapless excitations) is described from the point of
+view of the response to curvature of the two-dimensional space. The
+$\nu\times\nu$ elements of the dressed charge matrix are shown to be transition
+matrix elements of the zero ($\mu =0$) components of the diagonal generators of
+$\nu$ independent Kac-Moody algebras (Cartan currents). The dynamical
+decoupling which occurs in these systems is characterized in terms of the
+conductivities associated with the $\mu = 1$ components of the Cartan currents.
+","[{""version"":""v1"",""created"":""Mon, 11 Jan 1993 19:58:37 GMT""}]","2009-10-22"
+"gr-qc/9301008","Gary Horowitz","Gary T. Horowitz","What is the True Description of Charged Black Holes?","15 pages, harvmac, UCSBTH-92-52",,,,"gr-qc hep-th",,"  If string theory describes nature, then charged black holes are not described
+by the Reissner-Nordstrom solution. This solution must be modified to include a
+massive dilaton. In the limit of vanishing dilaton mass, the new solution can
+be found by a generalization of the Harrison transformation for the
+Einstein-Maxwell equations. These two solution generating transformations and
+the resulting black holes are compared. It is shown that the extremal black
+hole with massless dilaton can be viewed as the ``square root"" of the extremal
+Reissner-Nordstrom solution. When the dilaton mass is included, extremal black
+holes are repulsive, and it is energetically favorable for them to bifurcate
+into smaller holes. (To appear in the Festschrift for Dieter Brill)
+","[{""version"":""v1"",""created"":""Tue, 12 Jan 1993 01:18:20 GMT""}]","2007-05-23"
+"gr-qc/9301009",,"Pablo Sisterna and Hector Vucetich","Cosmology, Oscillating Physics and Oscilllating Biology","9 pages. latex using revtex. This revised version is supposed to be
+  free of e-mail noise","Phys.Rev.Lett.72:454-457,1994","10.1103/PhysRevLett.72.454","La Plata preprint #93001","gr-qc",,"  According to recent reports there is an excess correlation and an apparent
+regularity in the galaxy one-dimensional polar distribution with a
+characteristic scale of 128 $h^{-1}$ Mpc. This aparent spatial periodicity can
+be naturally explained by a time oscillation of the gravitational constant $G$.
+On the other hand, periodic growth features of bivalve and coral fossiles
+appear to show a periodic component in the time dependence of the number of
+days per year. In this letter we show that a time oscillating gravitational
+constant with similar period and amplitude can explain such a feature.
+","[{""version"":""v1"",""created"":""Mon, 11 Jan 1993 16:34:46 GMT""},{""version"":""v2"",""created"":""Tue, 19 Jan 1993 18:37:20 GMT""},{""version"":""v3"",""created"":""Fri, 7 May 1993 21:28:45 GMT""}]","2010-11-01"
+"hep-ph/9301229","Mike Musolf","M.J. Musolf and M. Burkardt","Stranger Still: Kaon Loops and Strange Quark Matrix Elements of the
+  Nucleon","18 Tex pages and 2 figures (postscript files included), CEBAF Theory
+  pre-print #TH-93-01","Z.Phys.C61:433-440,1994","10.1007/BF01413182",,"hep-ph nucl-th",,"  Intrinsic strangeness contributions to low-energy strange quark matrix
+elements of the nucleon are modelled using kaon loops and meson-nucleon vertex
+functions taken from nucleon-nucleon and nucleon-hyperon scattering. A
+comparison with pion loop contributions to the nucleon electromagnetic (EM)
+form factors indicates the presence of significant SU(3)-breaking in the
+mean-square charge radii. As a numerical consequence, the kaon loop
+contribution to the mean square Dirac strangeness radius is significantly
+smaller than could be observed with parity-violating elastic ep experiments
+planned for CEBAF, while the contribution to the Sachs radius is large enough
+to be observed with PV electron scattering from (0^+,0) nuclei. Kaon loops
+generate a strange magnetic moment of the same scale as the isoscalar EM
+magnetic moment and a strange axial vector form factor having roughly one-third
+magnitude extracted from nu p/nubar p elastic scattering. In the chiral limit,
+the loop contribution to the fraction of the nucleon's scalar density arising
+from strange quarks has roughly the same magnitude as the value extracted from
+analyses of Sigma_{\pi N}. The importance of satisfying the Ward-Takahashi
+Identity, not obeyed by previous calculations, is also illustrated, and the
+sensitivity of results to input parameters is analyzed.
+","[{""version"":""v1"",""created"":""Mon, 11 Jan 1993 19:51:25 GMT""}]","2014-11-17"
+"hep-ph/9301230","Kurt Langfeld","K.Langfeld, H.Reinhardt","Instanton Condensation in Field Strength Formulated QCD","38 Latex pages 5 figures not included (available on request),
+  UNITUE-THEP-18/1992",,,,"hep-ph",,"  Field strength formulated Yang-Mills theory is confronted with the
+traditional formulation in terms of gauge fields. It is shown that both
+formulations yield the same semiclassics, in particular the same instanton
+physics. However, at the tree level the field strength approach is superior
+because it already includes a good deal of of quantum fluctuations of the
+standard formulation. These quantum fluctuations break the scale invariance of
+classical QCD and give rise to an instanton interaction and this causes the
+instantons to condense and form a homogeneous instanton solid. Such the
+instanton solids show up in the field strength approach as homogeneous
+(constant up to gauge transformations) vacuum solutions. A new class of SU(N)
+instantons is presented which are not embeddings of SU(N-1) instantons but have
+non-trivial SU(N) color structure and carry winding number $n=N(N^{2}-1)/6$.
+These instantons generate (after condensation) the lowest action solutions of
+the field strength approach. The statistical weight (entropy) of different
+homogeneous solutions for SU(3) is numerically estimated by Parisi's stochastic
+quantization method. Finally, we compare instanton induced quark condensation
+with the condensation of quarks in the homogeneous field strength solutions.
+Our investigations show that the homogeneous vacuum of the field strength
+approach simulates in an efficient way a condensate of instantons.
+","[{""version"":""v1"",""created"":""Tue, 12 Jan 1993 07:18:46 GMT""}]","2007-05-23"
+"hep-ph/9301232",,"V. Pleitez and M.D. Tonasse","Heavy Charged Leptons in an $SU(3)_L\otimes U(1)_N$ Model","9 pages, Latex, preprint IFT-P.050/92 (revised)","Phys.Rev. D48 (1993) 2353-2355","10.1103/PhysRevD.48.2353",,"hep-ph",,"  We consider an $SU(3)_L\otimes U(1)_N$ model for the electroweak interactions
+which includes extra charged leptons which do not mix with the known leptons.
+These new leptons couple to $Z^0$ only through vector currents. We consider
+constraints on the mass of one of these leptons coming from the $Z^0$-width and
+from the muon $(g-2)$ factor. The last one is less restrictive than the former.
+","[{""version"":""v1"",""created"":""Tue, 12 Jan 1993 14:34:00 GMT""},{""version"":""v2"",""created"":""Fri, 16 Apr 1993 18:40:00 GMT""}]","2009-10-22"
+"hep-th/9301033","Ignatios Antoniadis","I. Antoniadis and T.R. Taylor","String loop corrections to gauge and Yukawa couplings","11 pages, CPTH-C218.0193 (Based on talks presented at the Rome
+  Workshop STRINGS 92, at the 7th Meeting of the American Physical Society, and
+  at the 26th Erice Workshop: ``From Superstrings to Supergravity"")",,,,"hep-th hep-ph",,"  We report on the recent progress in computing the effective supergravity
+action from superstring scattering amplitudes beyond the tree approximation. We
+discuss the moduli-dependent string loop corrections to gauge, gravitational
+and Yukawa couplings.
+","[{""version"":""v1"",""created"":""Mon, 11 Jan 1993 16:43:17 GMT""}]","2007-05-23"
+"hep-th/9301034","Eduardo Marino","E.C.Marino","Quantum Electrodynamics of Particles on a Plane and the Chern-Simons
+  Theory","Latex, 17 pages, 1 figure available from the author as a postscript
+  file, preprint PUPT-1368","Nucl.Phys. B408 (1993) 551-564","10.1016/0550-3213(93)90379-4",,"hep-th",,"  We study the electrodynamics of generic charged particles (bosons, fermions,
+relativistic or not) constrained to move on an infinite plane. An effective
+gauge theory in 2+1 dimensional spacetime which describes the real
+electromagnetic interaction of this particles is obtained. The relationship
+between this effective theory with the Chern-Simons theory is explored. It is
+shown that the QED lagrangian {\it per se} produces the Chern-Simons constraint
+relating the current to the effective gauge field in 2+1 D. It is also shown
+that the geometry of the system unavoidably induces a contribution from the
+topological $\theta$-term that generates an explicit Chern-Simons term for the
+effective 2+1 dimensional gauge field as well as a minimal coupling of the
+matter to it. The possible relation of the effective three dimensional theory
+with the bosonization of the Dirac fermion field in 2+1 D is briefly discussed
+as well as the potential applications in Condensed Matter systems.
+","[{""version"":""v1"",""created"":""Mon, 11 Jan 1993 17:16:48 GMT""}]","2009-10-22"
+"hep-th/9301035",,"Ramzi R. Khuri","A Comment on the Stability of String Monopoles","5 pages","Phys.Lett. B307 (1993) 302-304","10.1016/0370-2693(93)90224-6",,"hep-th",,"  In recent work a multimonopole solution of heterotic string theory was
+obtained. The monopoles are noted to be stable, in contrast with analogous
+solutions of Einstein-Maxwell or Yang-Mills-dilaton theory. The existence of
+this and other classes of stable solitonic solutions in string theory thus
+provides a possible test for low-energy string theory as distinct from other
+gauge + gravity theories.
+","[{""version"":""v1"",""created"":""Mon, 11 Jan 1993 20:28:49 GMT""}]","2009-10-22"
+"hep-th/9301036","Mario Bergeron","Mario Bergeron, David Eliezer and Gordon Semenoff","Canonical Chern-Simons Theory and the Braid Group on a Riemann Surface","12 pages, Latex","Phys.Lett.B311:137-146,1993","10.1016/0370-2693(93)90546-T",,"hep-th",,"  We find an explicit solution of the Schr\""odinger equation for a Chern-Simons
+theory coupled to charged particles on a Riemann surface, when the coefficient
+of the Chern-Simons term is a rational number (rather than an integer) and
+where the total charge is zero. We find that the wave functions carry a
+projective representation of the group of large gauge transformations. We also
+examine the behavior of the wave function under braiding operations which
+interchange particle positions. We find that the representation of both the
+braiding operations and large gauge transformations involve unitary matrices
+which mix the components of the wave function. The set of wave functions are
+expressed in terms of appropriate Jacobi theta functions. The matrices form a
+finite dimensional representation of a particular (well known to
+mathematicians) version of the braid group on the Riemann surface. We find a
+constraint which relates the charges of the particles, $q$, the coefficient of
+the Chern-Simons term, $k$ and the genus of the manifold, $g$: $q^2(g-1)/k$
+must be an integer. We discuss a duality between large gauge transformations
+and braiding operations.
+","[{""version"":""v1"",""created"":""Mon, 11 Jan 1993 22:52:00 GMT""}]","2011-07-19"
+"hep-th/9301037","V. P. Nair","Chihong Chou, V.P.Nair and A.Polychronakos","On the Electromagnetic Interactions of Anyons","13 pages, RU-92-17-B,CU-TP-584, CERN-TH6768/93","Phys.Lett.B304:105-110,1993","10.1016/0370-2693(93)91407-E",,"hep-th cond-mat",,"  Using the appropriate representation of the Poincare group and a definition
+of minimal coupling, we discuss some aspects of the electromagnetic
+interactions of charged anyons. In a nonrelativistic expansion, we derive a
+Schrodinger-type equation for the anyon wave function which includes
+spin-magnetic field and spin-orbit couplings. In particular, the gyromagnetic
+ratio for charged anyons is shown to be 2; this last result is essentially a
+reflection of the fact that the spin is parallel to the momentum in (2+1)
+dimensions.
+","[{""version"":""v1"",""created"":""Mon, 11 Jan 1993 16:43:01 GMT""}]","2011-08-12"
+"hep-th/9301038","Matthias Staudacher","Matthias Staudacher","Combinatorial Solution of the Two-Matrix Model","10 pages, Rutgers preprint RU-92-64","Phys.Lett. B305 (1993) 332-338","10.1016/0370-2693(93)91063-S",,"hep-th",,"  We write down and solve a closed set of Schwinger-Dyson equations for the
+two-matrix model in the large $N$ limit. Our elementary method yields exact
+solutions for correlation functions involving angular degrees of freedom whose
+calculation was impossible with previously known techniques. The result
+sustains the hope that more complicated matrix models important for lattice
+string theory and QCD may also be solvable despite the problem of the angular
+integrations. As an application of our method we briefly discuss the
+calculation of wavefunctions with general matter boundary conditions for the
+Ising model coupled to $2D$ quantum gravity. Some novel insights into the
+relationship between lattice and continuum boundary conditions are obtained.
+","[{""version"":""v1"",""created"":""Tue, 12 Jan 1993 05:34:15 GMT""}]","2009-10-22"
+"hep-th/9301040",,"L. Frappat, E. Ragoucy and P. Sorba","Folding the W Algebras","27 pages, Latex","Nucl.Phys. B404 (1993) 805-838","10.1016/0550-3213(93)90598-J",,"hep-th",,"  In the same way the folding of the Dynkin diagram of A_{2n} (resp. A_{2n-1})
+produces the B_n (resp. C_n) Dynkin diagram, the symmetry algebra W of a Toda
+model based on B_n (resp. C_n) can be seen as resulting from the folding of a
+W-algebra based on A_{2n} (resp. A_{2n-1}). More generally, W algebras related
+to the B-C-D algebra series can appear from W algebras related to the unitary
+ones. Such an approach is in particular well adapted to obtain fusion rules of
+W algebras based on non simply laced algebras from fusion rules corresponding
+to the A_n case. Anagously, super W algebras associated to orthosymplectic
+superalgebras are deduced from those relative to the unitary A(m,n) series.
+","[{""version"":""v1"",""created"":""Tue, 12 Jan 1993 09:48:20 GMT""}]","2009-10-22"
+"hep-th/9301041",,"Ansar Fayyazuddin","On the origin of multi-component anyon wave functions","20, Latex, USITP-92-15","Nucl.Phys. B401 (1993) 644-662","10.1016/0550-3213(93)90317-I",,"hep-th",,"  In this paper I discuss how the component structure of anyon wave functions
+arises in theories with non-relativistic matter coupled to a Chern-Simons gauge
+field on the torus. It is shown that there exists a singular gauge
+transformation which brings the Hamiltonian to free form. The gauge
+transformation removes a degree of freedom from the Hamiltonian. This degree of
+freedom generates only a finite dimensional Hilbert space and is responsible
+for the component structure of free anyon wave functions. This gives an
+understanding of the need for multiple component anyon wave functions from the
+point of view of Chern-Simons theory.
+","[{""version"":""v1"",""created"":""Tue, 12 Jan 1993 11:28:00 GMT""}]","2009-10-22"
+"hep-th/9301042",,"Edward Witten","Phases of $N=2$ Theories In Two Dimensions","75 pp; mainly extra references and minor corrections","Nucl.Phys.B403:159-222,1993","10.1016/0550-3213(93)90033-L","IASSNS-HEP-93/3","hep-th",,"  This is a study of the Landau-Ginzburg/Calabi-Yau correspondence, and related
+matters, using linear sigma models.
+","[{""version"":""v1"",""created"":""Tue, 12 Jan 1993 15:11:00 GMT""},{""version"":""v2"",""created"":""Tue, 12 Jan 1993 18:46:00 GMT""},{""version"":""v3"",""created"":""Thu, 18 Feb 1993 13:59:00 GMT""}]","2010-04-07"
+"hep-th/9301043","David R. Morrison","Paul S. Aspinwall, Brian R. Greene, and David R. Morrison","Multiple Mirror Manifolds and Topology Change in String Theory","18 pp., (uses harvmac and epsf) (Missing reference added.)","Phys.Lett. B303 (1993) 249-259","10.1016/0370-2693(93)91428-P","IASSNS-HEP-93/4","hep-th",,"  We use mirror symmetry to establish the first concrete arena of spacetime
+topology change in string theory. In particular, we establish that the {\it
+quantum theories} based on certain nonlinear sigma models with topologically
+distinct target spaces can be smoothly connected even though classically a
+physical singularity would be encountered. We accomplish this by rephrasing the
+description of these nonlinear sigma models in terms of their mirror manifold
+partners--a description in which the full quantum theory can be described
+exactly using lowest order geometrical methods.
+  We establish that, for the known class of mirror manifolds, the moduli space
+of the corresponding conformal field theory requires not just two but {\it
+numerous} topologically distinct Calabi-Yau manifolds for its geometric
+interpretation. A {\it single} family of continuously connected conformal
+theories thereby probes a host of topologically distinct geometrical spaces
+giving rise to {\it multiple mirror manifolds}.
+","[{""version"":""v1"",""created"":""Tue, 12 Jan 1993 02:58:23 GMT""},{""version"":""v2"",""created"":""Fri, 15 Jan 1993 01:27:49 GMT""}]","2009-10-22"

@@ -1,0 +1,58 @@
+"astro-ph/9304017",,"Andrew R Liddle and David H Lyth","Inflation and Mixed Dark Matter Models","10 pages, plus figure available from ARL SUSSEX-AST 93/4-2 LANCS-TH
+  93/1",,"10.1093/mnras/265.2.379",,"astro-ph hep-ph",,"  Recent large scale structure observations, including COBE, have prompted many
+authors to discuss modifications of the standard Cold Dark Matter model. Two of
+these, a tilted spectrum and a gravitational wave contribution to COBE, are at
+some level demanded by theory under the usual assumption that inflation
+generates the primeval perturbations. The third, whose motivation comes by
+contrast from observation, is the introduction of a component of hot dark
+matter to give the Mixed Dark Matter model. We discuss the implication of
+taking these modifications together. Should Mixed Dark Matter prove necessary,
+very strong constraints on inflationary models will ensue.
+","[{""version"":""v1"",""created"":""Sun, 18 Apr 1993 09:29:00 GMT""}]","2015-06-24"
+"gr-qc/9304025",,"Arlen Anderson and Jonathan J. Halliwell","An Information-Theoretic Measure of Uncertainty due to Quantum and
+  Thermal Fluctuations","36 pages (revised uncorrupted version), Report IC 92-93/25","Phys.Rev. D48 (1993) 2753-2765","10.1103/PhysRevD.48.2753",,"gr-qc cond-mat hep-th",,"  We study an information-theoretic measure of uncertainty for quantum systems.
+It is the Shannon information $I$ of the phase space probability distribution
+$\la z | \rho | z \ra $, where $|z \ra $ are coherent states, and $\rho$ is the
+density matrix. The uncertainty principle is expressed in this measure as $I
+\ge 1$. For a harmonic oscillator in a thermal state, $I$ coincides with von
+Neumann entropy, $- \Tr(\rho \ln \rho)$, in the high-temperature regime, but
+unlike entropy, it is non-zero at zero temperature. It therefore supplies a
+non-trivial measure of uncertainty due to both quantum and thermal
+fluctuations. We study $I$ as a function of time for a class of non-equilibrium
+quantum systems consisting of a distinguished system coupled to a heat bath. We
+derive an evolution equation for $I$. For the harmonic oscillator, in the
+Fokker-Planck regime, we show that $I$ increases monotonically. For more
+general Hamiltonians, $I$ settles down to monotonic increase in the long run,
+but may suffer an initial decrease for certain initial states that undergo
+``reassembly'' (the opposite of quantum spreading). Our main result is to
+prove, for linear systems, that $I$ at each moment of time has a lower bound
+$I_t^{min}$, over all possible initial states. This bound is a generalization
+of the uncertainty principle to include thermal fluctuations in non-equilibrium
+systems, and represents the least amount of uncertainty the system must suffer
+after evolution in the presence of an environment for time $t$.
+","[{""version"":""v1"",""created"":""Sun, 18 Apr 1993 13:32:00 GMT""},{""version"":""v2"",""created"":""Wed, 21 Apr 1993 10:52:00 GMT""},{""version"":""v3"",""created"":""Wed, 28 Apr 1993 10:48:54 GMT""}]","2009-10-22"
+"hep-th/9304072","Gautam Mandal","Avinash Dhar, Gautam Mandal and Spenta R. Wadia","Wave Propagation in Stringy Black Hole","23p, TIFR-TH-93/05; (v3) tex error corrected","Mod.Phys.Lett.A8:1701-1718,1993","10.1142/S0217732393001446",,"hep-th",,"  We further study the nonperturbative formulation of two-dimensional black
+holes. We find a nonlinear differential equation satisfied by the tachyon in
+the black hole background. We show that singularities in the tachyon field
+configurations are always associated with divergent semiclassical expansions
+and are absent in the exact theory. We also discuss how the Euclidian black
+hole emerges from an analytically continued fermion theory that corresponds to
+the right side up harmonic oscillator potential.
+","[{""version"":""v1"",""created"":""Sat, 17 Apr 1993 17:41:56 GMT""},{""version"":""v2"",""created"":""Mon, 28 Jun 2004 14:29:20 GMT""}]","2010-11-01"
+"nucl-th/9304013","Neal Devine","N. K. Devine and S. J. Wallace","Electromagnetic Scattering from Relativistic Bound States","RevTeX 3.0 manuscript, 9 pages. UU-file is a single PostScript file
+  of the manuscript including figures. U. MD PP #93-174","Phys.Rev.C48:R973-R977,1993","10.1103/PhysRevC.48.R973",,"nucl-th",,"  The quasipotential formalism for elastic scattering from relativistic bound
+states is formulated based on the instant constraint in the Breit frame. The
+quasipotential electromagnetic current is derived from Mandelstam's five-point
+kernel and obeys a two-body Ward identity. Breit-frame wave functions are
+obtained directly by solving integral equations with nonzero total
+three-momentum, thus accomplishing a dynamical boost. Calculations of
+electron-deuteron elastic form factors illustrate the importance of the
+dynamical boost versus kinematic boosts of the rest frame wave functions.
+","[{""version"":""v1"",""created"":""Sat, 17 Apr 1993 17:49:07 GMT""}]","2008-11-26"
+"solv-int/9404003","R. A. Sharipov","R. A. Sharipov (home address: Rabochaya str. 5, Ufa 450003, Russia)","Problem of Metrizability for the Dynamical Systems Accepting the Normal
+  Shift","8 pages (26 Kbytes), AmS-TeX, version 2.1. To be published in Theor.
+  and Math. Phys. (Russian)",,"10.1007/BF01079259",,"solv-int nlin.SI",,"  The problem of metrizability for the dynamical systems accepting the normal
+shift is formulated and solved. The explicit formula for the force field of
+metrizable Newtonian dynamical system $\ddot\bold r=\bold F(\bold r,\dot\bold
+r)$ is found.
+","[{""version"":""v1"",""created"":""Sun, 18 Apr 1993 03:22:32 GMT""}]","2009-10-28"

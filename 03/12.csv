@@ -1,0 +1,150 @@
+"chao-dyn/9303013","Bruno Eckhardt","Bruno Eckhardt","Order and chaos in quantum irregular scattering: Wigner's time delay","CYCLER Paper 93mar010",,"10.1016/0083-6656(93)90007-7",,"chao-dyn nlin.CD",,"  Recent developments in the semiclassical analysis of chaotic systems are
+reviewed and illustrated for Wigner's time delay in elastic scattering of a
+point particle from three disks in the plane. The convergence of the cycle
+expanded periodic orbit expression for Wigners time delay is demonstrated.
+Different regimes in form factor (the Fourier transform of the two point
+correlation function) of the semiclassical time delay are identified and their
+relation to Berry's semiclassical theory of the spectral rigidity are
+discussed.
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 00:00:00 GMT""}]","2009-10-22"
+"cond-mat/9303022","Sylvie Zaffanella","B. Velikson, J. Bascle, T. Garel, H. Orland","Structural and ultrametric properties of twenty(L-alanine)","Saclay-T93/025 Email: bascle@amoco.saclay.cea.fr",,"10.1021/ma00070a010",,"cond-mat",,"  We study local energy minima of twenty(L-alanine). The minima are generated
+using high-temperature Molecular Dynamics and Chain-Growth Monte Carlo
+simulations, with subsequent minimization. We find that the lower-energy
+configurations are $ \alpha $-helices for a wide range of dielectric constant
+values $ (\epsilon = 1,10,80), $ and that there is no noticeable difference
+between the distribution of energy minima in $ \phi \psi $ space for different
+values of $ \epsilon . $ Ultrametricity tests show that lower-energy $ (\alpha
+$ -helical) $ \epsilon =1 $ configurations form a set which is ultrametric to a
+certain degree, providing evidence for the presence of fine structure among
+those minima. We put forward a heuristic argument for this fine structure. We
+also find evidence for ultrametricity of a different kind among $ \epsilon =10
+$ and $ \epsilon =80 $ energy minima. We analyze the distribution of lengths of
+$ \alpha $-helical portions among the minimized configurations and find a
+persistence phenomenon for the $ \epsilon =1 $ ones, in qualitative agreement
+with previous studies of critical lengths. Email contact:
+bascle@amoco.saclay.cea.fr
+","[{""version"":""v1"",""created"":""Thu, 11 Mar 1993 17:10:00 GMT""},{""version"":""v2"",""created"":""Fri, 12 Mar 1993 12:17:00 GMT""}]","2009-10-22"
+"cond-mat/9303023","Sylvie Zaffanella","J.P. Bouchaud, E. Vincent, J. Hammann","Towards an experimental measure of the number of metastable states in
+  spin-glasses ?","Saclay-S93/016","J. Phys. I France 4, 139 (1994)","10.1051/jp1:1994127",,"cond-mat",,"  We show that an 'ergodic' time scale can be extracted from the aging
+experiments on spin-glasses. This is the time for which a significant fraction
+of the metastable states have been visited. Experiments suggest that the number
+of metastable states per independent subsystem is $\simeq 10^{12}-10^{14}$. For
+our insulating spin-glass $({\rm CdCr}_{1.7} {\rm In}_{0.3} {\rm S}_4)$ this
+number doubles when the temperature is lowered by 1K, but is roughly constant
+for the metallic sample (Ag:Mn 2.6%).
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 14:55:00 GMT""}]","2009-10-22"
+"funct-an/9303002","Reinhard Werner","P.E.T. J{\o}rgensen and R.F. Werner","Coherent States of the q--Canonical Commutation Relations","19 pages, Plain TeX",,"10.1007/BF02101486",,"funct-an math.OA",,"  For the $q$-deformed canonical commutation relations $a(f)a^\dagger(g) =
+(1-q)\,\langle f,g\rangle{\bf1}+q\,a^\dagger(g)a(f)$ for $f,g$ in some Hilbert
+space ${\cal H}$ we consider representations generated from a vector $\Omega$
+satisfying $a(f)\Omega=\langle f,\phi\rangle\Omega$, where $\phi\in{\cal H}$.
+We show that such a representation exists if and only if $\Vert\phi\Vert\leq1$.
+Moreover, for $\Vert\phi\Vert<1$ these representations are unitarily equivalent
+to the Fock representation (obtained for $\phi=0$). On the other hand
+representations obtained for different unit vectors $\phi$ are disjoint. We
+show that the universal C*-algebra for the relations has a largest proper,
+closed, two-sided ideal. The quotient by this ideal is a natural $q$-analogue
+of the Cuntz algebra (obtained for $q=0$). We discuss the Conjecture that, for
+$d<\infty$, this analogue should, in fact, be equal to the Cuntz algebra
+itself. In the limiting cases $q=\pm1$ we determine all irreducible
+representations of the relations, and characterize those which can be obtained
+via coherent states.
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 13:42:03 GMT""}]","2016-08-31"
+"gr-qc/9303017",,"Vanda Silveira and M.D. Maia (Universidade de Brasilia)","Topologica Defects and Corrections to the Nambu Action","UNB.FIS.FM-002/92, Marcos@FNAL, 12 pages, Latex","Phys.Lett.A174:280-284,1993","10.1016/0375-9601(93)90138-P",,"gr-qc",,"  The effective action of a (1+2)-dimensional defect is obtained as an
+expansion in powers of the thickness.Considering non-straight solutions as the
+zero order term, the corrections to the Nambu action are found to depend on the
+curvature scalar and on the gaussian curvature .
+","[{""version"":""v1"",""created"":""Thu, 11 Mar 1993 22:53:08 GMT""}]","2008-11-26"
+"gr-qc/9303018","Miguel Navarro","J. Navarro-Salas, M. Navarro and V. Aldaya","Wave Functions of the Induced 2D-Gravity","9 pages; FTUV/93-3&IFIC/93-3","Phys.Lett.B318:293-297,1993","10.1016/0370-2693(93)90131-Z",,"gr-qc",,"  We consider the induced $2$d-gravity in the minisuperspace approach. The
+general solution to the Wheeler-DeWitt equation is given in terms of different
+kind of Bessel functions of purely real or imaginary orders. We study the
+properties of the corresponding probability distribution finding a kind of
+phase transition at the critical point $\nu=0$.
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 08:36:56 GMT""}]","2011-04-20"
+"hep-lat/9303006","Clive Baillie","C.F. Baillie and D.A. Johnston","Smooth Random Surfaces from Tight Immersions?","7 pages","Phys.Rev. D49 (1994) 4139-4143","10.1103/PhysRevD.49.4139",,"hep-lat",,"  We investigate actions for dynamically triangulated random surfaces that
+consist of a gaussian or area term plus the {\it modulus} of the gaussian
+curvature and compare their behavior with both gaussian plus extrinsic
+curvature and ``Steiner'' actions.
+","[{""version"":""v1"",""created"":""Thu, 11 Mar 1993 16:30:53 GMT""}]","2009-10-22"
+"hep-lat/9303007",,"M.I.Polikarpov, U.-J. Wiese and M.A. Zubkov","String Representation of the Abelian Higgs Theory and Aharonov-Bohm
+  Effect on the Lattice","(This resubmitted paper includes two additional references),
+  10pages,LaTeX, ITEP-16-93","Phys.Lett.B309:133-138,1993","10.1016/0370-2693(93)91516-P",,"hep-lat hep-th",,"  The partition function of the $4D$ lattice Abelian Higgs theory is
+represented as the sum over world sheets of Nielsen--Olesen strings. The
+creation and annihilation operators of the strings are constructed. The
+topological long--range interaction of the strings and charged particles is
+shown to exist; it is proportional to the linking number of the string world
+sheet and particle world trajectory.
+","[{""version"":""v1"",""created"":""Thu, 11 Mar 1993 17:09:33 GMT""},{""version"":""v2"",""created"":""Fri, 26 Mar 1993 21:05:13 GMT""}]","2010-05-27"
+"hep-ph/9303248",,"M. A. Doncheski and C. S. Kim","Associated $J/\psi + \gamma$ production as a probe of the polarized
+  gluon distribution","16 pages (10 figures available from M.A.D.), MAD/PH/745, SNUTP 93-6,
+  YUMS 93-1","Phys.Rev. D49 (1994) 4463-4468","10.1103/PhysRevD.49.4463",,"hep-ph",,"  Associated production of $J/\psi$ and a $\gamma$ has recently been proposed
+as clean probe of the gluon distribution. The same mechanism can be used to
+probe the polarized gluon content of the proton in polarized proton-proton
+collisions. We study $J/\psi + \gamma$ production at both polarized fixed
+target and polarized collider energies.
+","[{""version"":""v1"",""created"":""Thu, 11 Mar 1993 20:32:48 GMT""}]","2009-10-22"
+"hep-ph/9303249","Michael Luke","Michael Luke and Martin J. Savage","Flavour Changing Neutral Currents, Weak-Scale Scalars and Rare Top
+  Decays","(some wording changed, and several references added) 13 pages, 2
+  figures included, uses harvmac.tex and epsf.tex, UCSD/PTH 93-01","Phys.Lett. B307 (1993) 387-393","10.1016/0370-2693(93)90238-D",,"hep-ph",,"  We examine the decays $t\rightarrow c\gamma$ and $c Z^0$ in the Standard
+Model with an extra scalar doublet and no discrete symmetry preventing
+tree-level flavour changing neutral currents. The Yukawa couplings of the new
+scalars are assumed to be proportional to fermion masses, evading bounds on
+FCNC's from the light quark sector. These rare top decays may be visible at the
+SSC.
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 07:11:13 GMT""},{""version"":""v2"",""created"":""Wed, 12 May 1993 23:31:12 GMT""},{""version"":""v3"",""created"":""Thu, 13 May 1993 16:50:30 GMT""}]","2009-10-22"
+"hep-th/9303072","Fernando Ruiz-Ruiz","G. Giavarini, C.P. Martin and F. Ruiz Ruiz","The universality of the shift of the Chern-Simons parameter for a
+  general class of BRS invariant regularizations","phyzzx, 7 pages (no figures)","Phys.Lett.B314:328-332,1993","10.1016/0370-2693(93)91244-H","FTUAM 93/03, LPTHE 93/06, NIKHEF-H 93/03","hep-th",,"  We consider a biparametric family of BRS invariant regularization methods of
+SU(N) Chern-Simons theory (the parameters defining the family taking arbitrary
+values in $\RR^2$) and show that the shift $k\to k + sign(k) N$ of the
+Chern-Simons parameter $k$ occurs for arbitrary values of the family defining
+parameters. This supports irrefutably the conjecture that the shift of $k$ is
+universal for BRS invariant regulators.
+","[{""version"":""v1"",""created"":""Thu, 11 Mar 1993 19:26:58 GMT""}]","2011-07-19"
+"hep-th/9303073","Francesco Toppan","E. Ivanov and F. Toppan","N=2 Superconformal Affine Liouville Theory","12 pages, latex, preprint ENSLAPP-L-422/93 and JINR E2-93-72","Phys.Lett. B309 (1993) 289-296","10.1016/0370-2693(93)90936-C",,"hep-th",,"  We present a new supersymmetric integrable model: the $N=2$ superconformal
+affine Liouville theory. It interpolates between the $N=2$ super Liouville and
+$N=2$ super sine-Gordon theories and possesses a Lax representation on the
+complex affine Kac-Moody superalgebra ${\hat {sl(2| 2)^{(1)}}}$. We show that
+the higher spin $W_{1+\infty}$-type symmetry algebra of ordinary conformal
+affine Liouville theory extends to a $N=2\; W_{1/2 + \infty}$-type
+superalgebra.
+","[{""version"":""v1"",""created"":""Thu, 11 Mar 1993 21:01:26 GMT""}]","2009-10-22"
+"hep-th/9303074",,"Ramzi R. Khuri","Veneziano Amplitude for Winding Strings","7 pages","Phys.Rev. D48 (1993) 2823-2825","10.1103/PhysRevD.48.2823",,"hep-th",,"  String configurations with nonzero winding number describe soliton string
+states. We compute the Veneziano amplitude for the scattering of arbitrary
+winding states and show that in the large radius limit the strings always
+scatter trivially and with no change in the individual winding numbers of the
+strings. In this limit, then, these states scatter as true solitons.
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 02:54:34 GMT""}]","2009-10-22"
+"hep-th/9303075","Robert Lacaze","T. Bhattacharya, R. Lacaze and A. Morel","The free energy of the Potts model: from the continuous to the
+  first-order transition region","11 pages, plain tex with 3 Postscript figures included Postscript
+  file available by anonymous ftp://amoco.saclay.cea.fr/pubs.spht/93-022.ps","Europhys.Lett.23:547,1993","10.1209/0295-5075/23/8/002","SPht-93/022","hep-th cond-mat hep-lat",,"  We present a large $q$ expansion of the 2d $q$-states Potts model free
+energies up to order 9 in $1/\sqrt{q}$. Its analysis leads us to an ansatz
+which, in the first-order region, incorporates properties inferred from the
+known critical regime at $q=4$, and predicts, for $q>4$, the $n^{\rm th}$
+energy cumulant scales as the power $(3 n /2-2)$ of the correlation length. The
+parameter-free energy distributions reproduce accurately, without reference to
+any interface effect, the numerical data obtained in a simulation for $q=10$
+with lattices of linear dimensions up to L=50. The pure phase specific heats
+are predicted to be much larger, at $q\leq10$, than the values extracted from
+current finite size scaling analysis of extrema. Implications for safe
+numerical determinations of interface tensions are discussed.
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 08:52:10 GMT""}]","2010-12-17"
+"hep-th/9303076",,"G. Papadopoulos and B. Spence","A Covariant Canonical Description of Liouville Field Theory","12pp","Phys.Lett.B308:253-259,1993","10.1016/0370-2693(93)91281-Q",,"hep-th",,"  Original Version Corrupted by Mailer
+","[{""version"":""v1"",""created"":""Fri, 12 Mar 1993 11:02:02 GMT""},{""version"":""v2"",""created"":""Thu, 25 Mar 1993 14:46:01 GMT""}]","2009-10-09"
+"nucl-th/9303008",,"K. Varga and J. Cseh","Relation between the phenomenological interactions of the algebraic
+  cluster model and the effective two--nucleon forces","Latex with Revtex, 1 figure available on request","Phys.Rev.C48:602-606,1993","10.1103/PhysRevC.48.602",,"nucl-th",,"  We determine the phenomenological cluster--cluster interactions of the
+algebraic model corresponding to the most often used effective two--nucleon
+forces for the $^{16}$O + $\alpha$ system.
+","[{""version"":""v1"",""created"":""Thu, 11 Mar 1993 16:48:19 GMT""}]","2008-11-26"
+"patt-sol/9303001","Bob Ecke","Li Ning and Robert E. Ecke (Physics Division and Center for Nonlinear
+  Studies Los Alamos National Laboratory)","Rotating Rayleigh-B\'enard Convection: Aspect Ratio Dependence of the
+  Initial Bifurcations","21 pages, LaTeX with psfig.sty (available using `get'), figs. in
+  PostScript. To appear in Phys. Rev. E",,"10.1103/PhysRevE.47.3326","LAUR-92-3756","patt-sol nlin.PS",,"  The initial bifurcations in rotating Rayleigh-B\'enard convection are studied
+in the range of dimensionless rotation rate $0 < \Omega < 2150$ for an
+aspect-ratio-2.5 cylindrical cell. We used simultaneous optical shadowgraph,
+heat transport and local temperature measurements to determine the stability
+and characteristics of the azimuthally-periodic wall convection state. We also
+show that the second transition corresponds to the onset of bulk convection.
+Our results for critical Rayleigh numbers, precession frequencies and critical
+mode numbers agree well with theoretical results. The dynamics of the wall
+convection state can be described by a complex Ginzburg-Landau amplitude
+equation.
+","[{""version"":""v1"",""created"":""Thu, 11 Mar 1993 23:12:31 GMT""}]","2009-10-22"

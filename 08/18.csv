@@ -1,0 +1,183 @@
+"astro-ph/9308022","Maggie Best","Hans-Walter Rix and George Lake","Can the Dark Matter be $10^6$ Solar Mass Objects?","TeX document, 7 pages, Institute for Advanced Study number AST 93/47",,"10.1086/187079",,"astro-ph",,"  If the dark matter in galactic halos is made up of compact, macroscopic
+objects (MO), such as black holes with $M_\MO >>M_{stars}$, gravitational
+scattering will lead to kinematic heating of the stars. Observational
+constraints on the amount of heating in the disk of the Milky Way put upper
+limits on $M_\MO \ltorder 10^{6.3}\msun $. We find limits that are three orders
+of magnitude more stringent by examining the heating limits in low mass stellar
+systems, where higher densities of dark matter and lower relative velocities
+disperse the stars in less than a billion years. Specifically, the structure
+and kinematics of the Local Group member GR8 yield a limit of $M_\MO \ltorder
+6\times 10^{3}\msun$. If the properties of the dark matter are universal these
+results preclude the dominance of dark matter constituents in the
+cosmologically interesting mass range $\sim 10^6\msun$ and limit them to $M_\MO
+\ltorder 10^{3.7}\msun$. These results also rule out massive compact halo
+objects as significant contributors to the kinematic heating of the Galactic
+disk.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 19:20:28 GMT""}]","2009-10-22"
+"astro-ph/9308023","Maggie Best","O.-G. Richter, P.D. Sackett and L.S. Sparke","A Neutral Hydrogen Survey of Polar-Ring Galaxies: I. Green Bank
+  Observations of the Northern Sample","34 pages, LaTeX file, Institute for Advanced Study number AST 93/48","Astron.J.107:99-117,1994","10.1086/116837",,"astro-ph",,"  We present the results of a neutral hydrogen survey conducted with the Green
+Bank 140-foot radio telescope of 47 northern objects in the polar-ring galaxy
+atlas of Whitmore \etal\ (1990). We detected 39 of these above our detection
+limit of 1.7 \hbox{Jy\CDOT\KMS}; the average measured flux of 21 Jy\CDOT\KMS\
+corresponds to an average neutral hydrogen mass of $\rm 5.3 \times 10^9$ \MSUN
+for a Hubble constant of $\rm H_0 = 75$ \KMS \ Mpc$^{-1}$. For the polar-ring
+galaxies in our sample that have also been observed with radio arrays, we find
+that the 21\AMIN\ (FWHM) Green Bank beam often includes much more flux than
+found by the synthesis instruments for the polar rings alone; some of these
+galaxies are known to have gas-rich companions. We compare the neutral hydrogen
+content of the sample to the blue luminosity and IRAS fluxes. The \HI-to-blue-
+light ratios of the confirmed and probable polar rings are around unity in
+solar units, indicating that polar ring galaxies (or their environments) are as
+gas-rich as typical irregular galaxies. For their blue luminosity, the
+confirmed polar rings are underluminous in the far-infrared, as compared with
+the rest of the sample. They are also FIR-underluminous for their \HI\ masses,
+which suggests that most of the gas in the ring may be in stable orbits, rather
+than flowing inward to trigger star formation in the central galaxy. The more
+disordered class of `related objects,' which includes a number of obvious
+mergers, is highly luminous in the far-infrared.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 20:40:37 GMT""}]","2008-11-26"
+"cond-mat/9308024",,"J. K. Freericks and D. J. Scalapino","Weak-coupling expansions for the attractive Holstein and Hubbard models","10 pages, (five figures available from the author by request) typeset
+  with ReVTeX, preprint NSF-ITP-93-100",,"10.1103/PhysRevB.49.6368",,"cond-mat",,"  Weak-coupling expansions (conserving approximations) are carried out for the
+attractive Holstein and Hubbard models (on an infinite-dimensional hypercubic
+lattice) that include all bandstructure and vertex correction effects. Quantum
+fluctuations are found to renormalize transition temperatures by factors of
+order unity, but may be incorporated into the superconducting channel of
+Migdal-Eliashberg theory by renormalizing the phonon frequency and the
+interaction strength.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 18:09:18 GMT""}]","2009-10-22"
+"cond-mat/9308025","Meb Alouani","M. Alouani, J. W. Wilkins, R. C. Albers, and J. M. Wills","Tuning of the CDW in the Halogen-Bridged Transition-Metal Linear-Chain
+  Compounds","13 pages",,"10.1103/PhysRevLett.71.1415",,"cond-mat",,"  Local-density-approximation calculations are used to show that the
+metal-metal distance along the chains controls the charge-density wave (CDW) in
+halogen-bridged transition-metal linear-chain (MX) compounds. The strength of
+the CDW can be understood in terms of a two band Su-Schrieffer-Heeger model if
+a hard-core ion-ion repulsion potential is also added. We predict a
+second-order phase transition from an insulating to a semi-metallic ground
+state and explain trends in dimerization, bond-length ratios, band gaps, and
+Raman breathing modes in terms of the metal-metal distance. Three ""ps"" figures
+are included at the end of the file.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 14:33:24 GMT""}]","2009-10-22"
+"gr-qc/9308016","Bev Berger","Beverly K. Berger","How to determine approximate Mixmaster parameters from numerical
+  evolution of Einstein's equations","11 pages in revtex","Phys.Rev. D49 (1994) 1120-1123","10.1103/PhysRevD.49.1120",,"gr-qc",,"  To assess the validity of the Belinskii, Khalatnikov, and Lifshitz (BKL)
+approximation to Mixmaster dynamics, it would be useful to evaluate the BKL
+discrete parameters as a byproduct of the numerical solution of Einstein's
+equations. An algorithm to do this and results for a typical trajectory are
+presented.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 20:58:23 GMT""}]","2009-10-22"
+"hep-ph/9308283",,"H.Y. Cheng, C.Y. Cheung, G.L. Lin, Y.C. Lin, T.M. Yan and H.L. Yu","Corrections to Chiral Dynamics of Heavy Hadrons: (I) 1/M Correction","PHYZZX, 45 pages, 1 figure (not included), CLNS 93/1192,
+  IP-ASTP-02-93, ITP-SB-93-04","Phys.Rev. D49 (1994) 2490-2507","10.1103/PhysRevD.49.2490",,"hep-ph",,"  In earlier publications we have analyzed the strong and radiative decays of
+heavy hadrons in a formalism which incorporates both heavy-quark and chiral
+symmetries. In particular, we have derived a heavy-hadron chiral Lagrangian
+whose coupling constants are related by the heavy-quark flavor-spin symmetry
+arising from the QCD Lagrangian with infinitely massive quarks. In this paper,
+we re-examine the structure of the above chiral Lagrangian by including the
+effects of $1/m_Q$ corrections in the heavy quark effective theory. The
+relations among the coupling constants, originally derived in the heavy-quark
+limit, are modified by heavy quark symmetry breaking interactions in QCD. Some
+of the implications are discussed.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 21:57:00 GMT""}]","2009-10-22"
+"hep-ph/9308286",,"A.P. Kostyuk, A.P. Kobushkin, N.M. Chepilko and T. Okazaki","Quantum solitons of the nonlinear sigma-model with broken chiral
+  symmetry","13 pages, LaTeX, ITP-93-44E","Phys.Atom.Nucl. 58 (1995) 1398-1403; Yad.Fiz. 58N8 (1995)
+  1482-1487",,,"hep-ph",,"  It is proved that the quantum-mechanical consideration of global breathing of
+a hedgehog-like field configuration leads to the dynamically stable soliton
+solutions in the nonlinear sigma-model without the Skyrme term. Such solutions
+exist only when chiral symmetry of the model is broken.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 01:10:25 GMT""}]","2014-11-17"
+"hep-ph/9308287","Michael Luke","Michael Luke and Martin J. Savage","Extracting $|V_{bc}|$, $m_c$ and $m_b$ from Inclusive $D$ and $B$ Decays","(revised version - contains a more detailed discussion of the
+  uncertainty in our results from the uncertainty in the scale of \alpha_s) 12
+  pages, 5 figures included, uses harvmac.tex and epsf.tex, UCSD/PTH 93-25,
+  UTPT 93-21, CMU-HEP 93-13","Phys.Lett.B321:88-94,1994","10.1016/0370-2693(94)90331-X",,"hep-ph",,"  Using recent results for nonperturbative contributions to the $B$ and $D$
+meson inclusive semileptonic widths, a model independent extraction of $\vbc$,
+$m_c$ and $m_b$ is made from the experimentally measured $B$ and $D$ lifetimes
+and semileptonic branching ratios. Constraining the parameters of the HQET at
+$\CO(1/m_Q^2)$ by the $D$ semileptonic width, $\vbc$ is found to lie in the
+range $.040<\vbc< 0.057$. The $c$ and $b$ quark masses are not well constrained
+due to uncertainty in the relevant scale of $\alpha_s$. These results assume
+the validity of perturbative QCD at the low scales relevant to semileptonic
+charm decay. Without making this assumption, somewhat less stringent bounds on
+$V_{bc}$ from $B$ decay alone may be obtained.
+","[{""version"":""v1"",""created"":""Tue, 17 Aug 1993 22:48:44 GMT""},{""version"":""v2"",""created"":""Tue, 2 Nov 1993 01:26:26 GMT""}]","2010-11-01"
+"hep-ph/9308288",,"Adam F. Falk, Michael Luke and Martin J. Savage","Nonperturbative Contributions to the Inclusive Rare Decays $B\to
+  X_s\gamma$ and $B\to X_s\ell^+\ell^-$","25 pages, 2 figures available upon request, uses harvmac.tex,
+  SLAC-PUB-6317, UCSD/PTH 93-23, JHU-TIPAC-930020, UTPT 93-19, CMU-HEP 93-12,
+  DOE-ER/40682-37","Phys.Rev. D49 (1994) 3367-3378","10.1103/PhysRevD.49.3367",,"hep-ph",,"  We discuss nonperturbative contributions to the inclusive rare $B$ decays
+$B\to X_s\gamma$ and $B\to X_s\ell^+\ell^-$. We employ an operator product
+expansion and the heavy quark effective theory to compute the leading
+corrections to the decay rate found in the free quark decay model, which is
+exact in the limit $m_b\to\infty$. These corrections are of relative order
+$1/m_b^2$, and may be parameterised in terms of two low-energy parameters. We
+also discuss the corrections to other observables, such as the average photon
+energy in $B\to X_s\gamma$ and the lepton invariant mass spectrum in $B\to
+X_s\ell^+\ell^-$.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 00:53:00 GMT""}]","2009-10-22"
+"hep-ph/9308289",,"C.S. Lam","Spinor Helicity Technique and String Reorganization for Multiloop
+  Diagrams","41 pages in Plain Tex, plus 6 pages of (fourteen) figures in a
+  postcript file attached to the end of the Tex file; McGill/93-20","Can.J.Phys.72:415-438,1994","10.1139/p94-058",,"hep-ph hep-th",,"  Methods to apply the spinor helicity technique and string reorganization to
+multiloop amplitudes using the Feynman- and Schwinger-parameter representations
+are reviewed and expanded.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 13:08:05 GMT""}]","2015-06-25"
+"hep-th/9308083","David R. Morrison","Philip Candelas, Xenia de la Ossa, Anamaria Font, Sheldon Katz and
+  David R. Morrison","Mirror Symmetry for Two Parameter Models -- I","57 pages, plain TeX with PostScript figures (minor corrections; added
+  missing table and figure)","Nucl.Phys. B416 (1994) 481-538","10.1016/0550-3213(94)90322-0","CERN-TH.6884/93, UTTG-15-93, NEIP-93-005, OSU Math 1993-1","hep-th alg-geom math.AG",,"  We study, by means of mirror symmetry, the quantum geometry of the
+K\""ahler-class parameters of a number of Calabi-Yau manifolds that have
+$b_{11}=2$. Our main interest lies in the structure of the moduli space and in
+the loci corresponding to singular models. This structure is considerably
+richer when there are two parameters than in the various one-parameter models
+that have been studied hitherto. We describe the intrinsic structure of the
+point in the (compactification of the) moduli space that corresponds to the
+large complex structure or classical limit. The instanton expansions are of
+interest owing to the fact that some of the instantons belong to families with
+continuous parameters. We compute the Yukawa couplings and their expansions in
+terms of instantons of genus zero. By making use of recent results of
+Bershadsky et al. we compute also the instanton numbers for instantons of genus
+one. For particular values of the parameters the models become birational to
+certain models with one parameter. The compactification divisor of the moduli
+space thus contains copies of the moduli spaces of one parameter models. Our
+discussion proceeds via the particular models $\P_4^{(1,1,2,2,2)}[8]$ and
+$\P_4^{(1,1,2,2,6)}[12]$. Another example, $\P_4^{(1,1,1,6,9)}[18]$, that is
+somewhat different is the subject of a companion paper.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 01:51:15 GMT""},{""version"":""v2"",""created"":""Wed, 25 Aug 1993 22:22:27 GMT""}]","2009-10-22"
+"hep-th/9308084","Kim Chanju","Chanju Kim and Choonkyu Lee","Charged Particle System in Uniform Magnetic and Electric Fields: The
+  Role of Galilean Transformation","24 pages, REVTEX, SNUTP-93-61",,,,"hep-th cond-mat",,"  Galilean transformation relates a physical system under mutually
+perpendicular uniform magnetic and electric fields to that under uniform
+magnetic field only. This allows a complete specification of quantum states in
+the former case in terms of those for the latter. Based on this observation, we
+consider the Hall effect and the behavior of a neutral composite system in the
+presence of uniform electromagnetic fields.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 03:10:28 GMT""}]","2007-05-23"
+"hep-th/9308085",,"S. Massar","Local modes, local vacuum, local bogoljubov coefficients and the
+  renormalised stress tensor","(talk presented at Journees relativistes 93), 4 pages (LATEX),ULB-TH
+  09/93","Int.J.Mod.Phys.D3:237-240,1994","10.1142/S0218271894000368",,"hep-th",,"  Local modes and local particles are defined at any point in curved space time
+as those that most resemble Minkowsky modes at that point. It is shown that the
+renormalised stress tensor is the difference of energy between the physical
+vacuum and that defined by these local modes.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 11:11:48 GMT""}]","2011-04-15"
+"hep-th/9308086",,"H. Aratyn, L.A. Ferreira, J.F. Gomes and A.H. Zimerman","The Conserved Charges and Integrability of the Conformal Affine Toda
+  Models","18 pages, LaTeX, (one appendix and one reference added, small changes
+  in introduction and conclusions, eqs.(5.14) and (5.19) improved, final
+  version to appear in Int. J. Modern Phys. A)","Mod.Phys.Lett. A9 (1994) 2783-2802","10.1142/S021773239400263X",,"hep-th nlin.SI solv-int",,"  We construct infinite sets of local conserved charges for the conformal
+affine Toda model. The technique involves the abelianization of the
+two-dimensional gauge potentials satisfying the zero-curvature form of the
+equations of motion. We find two infinite sets of chiral charges and apart from
+two lowest spin charges all the remaining ones do not possess chiral densities.
+Charges of different chiralities Poisson commute among themselves. We discuss
+the algebraic properties of these charges and use the fundamental Poisson
+bracket relation to show that the charges conserved in time are in involution.
+Connections to other Toda models are established by taking particular limits.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 11:21:00 GMT""},{""version"":""v2"",""created"":""Thu, 26 Aug 1993 17:58:00 GMT""},{""version"":""v3"",""created"":""Wed, 10 Aug 1994 06:52:00 GMT""}]","2009-10-22"
+"hep-th/9308087","Alberto Vazquez Saa","A.Saa","Volume-forms and Minimal Action Principles in Affine Manifolds","14 pages, IFUSP/P-1068","J. Geom. Phys. 15 (1995) 102-108","10.1016/0393-0440(94)00006-P",,"hep-th",,"  Through the analyses of volume-forms in differentiable manifolds, it is shown
+that the usual way of defining minimal action principles for field theory on
+curved space-times is not appropriate on non-riemannian manifolds. An
+alternative approach, based in a new volume-form, is proposed and confronted
+with the standard one.
+  The new volume element is explicitly used in the study of Einstein-Cartan
+theory of gravity and its relation to string theory, in connection with some
+recent results on the subject.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 15:49:38 GMT""},{""version"":""v2"",""created"":""Thu, 19 Aug 1993 08:27:46 GMT""}]","2009-10-22"
+"nucl-th/9308014","Coen van Antwerpen","C. H. M. van Antwerpen and I. R. Afnan","A Gauge Invariant Unitary Theory for Pion Photoproduction","4 pages, LaTeX, 1 figure as a separate uuencoded compressed tar file",,,,"nucl-th",,"  A covariant, unitary and gauge invariant theory for pion photoproduction on a
+single nucleon is presented. To achieve gauge invariance at the operator level
+one needs to include both the $\pi N$ and $\gamma\pi N$ thresholds. The final
+amplitude can be written in terms of a distorted wave in the final $\pi N$
+channel provided one includes additional diagrams to the standard Born term in
+which the photon is coupled to the final state pion and nucleon. These
+additional diagrams are required in order to satisfy gauge invariance.
+","[{""version"":""v1"",""created"":""Wed, 18 Aug 1993 05:21:02 GMT""}]","2007-05-23"

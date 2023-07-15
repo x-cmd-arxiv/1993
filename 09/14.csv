@@ -1,0 +1,317 @@
+"astro-ph/9309018",,"Keith A. Olive, Nikos Prantzos, Sean Scully, and Elisabeth
+  Vangioni-Flam","Neutrino Process Nucleosynthesis and the $^{11}$B/$^{10}$B Ratio","14 pages, LaTeX","Astrophys.J.424:666-670,1994","10.1086/173922","UMN-TH-1203/93","astro-ph",,"  We consider the evolution of the light elements ($Li, Be$ and $B$)
+incorporating the effects of their production by both neutrino process and
+cosmic-ray nucleosynthesis. We test the viability of the neutrino process to
+resolve the long standing problem of the $^{11}$B/$^{10}$B isotopic ratio which
+amounts to 4 at the time of the formation of the solar system. This hypothesis
+may be ultimately constrained by the $B/Be$ ratio observed in halo stars.
+Though we are able to obtain a solar isotopic ratio $^{11}B/^{10}B \simeq 4$,
+the current paucity of data at low metallicity prevents us from making a
+definitive conclusion regarding the resolution of this problem. We show
+however, that neutrino process nucleosynthesis leads to a relatively model
+independent prediction that the $B/Be$ elemental ratio is large ($>$ 50) at low
+metallicities ($[Fe/H] < -3.0$), if $Be$ is produced as a secondary element (as
+is the case in the conventional scenario of galactic cosmic-ray
+nucleosynthesis).
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 17:18:52 GMT""}]","2009-09-25"
+"astro-ph/9309019",,"Enrique Gaztanaga","High-order galaxy correlation functions in the APM Galaxy Survey","12 pages of uuencoded compressed postscript, also available from the
+  author on request, this is a revised version accepted for publication in
+  MNRAS, OXFORD-OUAST/94-#","Mon.Not.Roy.Astron.Soc. 268 (1994) 913","10.1093/mnras/268.4.913",,"astro-ph",,"  We estimate J-point galaxy averaged correlation functions $\wbar_J(\theta)$
+for $J=2,...,9$, in a sample of the APM Galaxy Survey with more than $1.3
+\times 10^6$ galaxies and a depth $ \calD \sim 400 \Mpc$. The hierarchical
+amplitudes $s_J=\wbar_J/\wbar_2^{J-1}$ are roughly constant, up to $J=9$,
+between $0.5 \Mpc$ and $2 \Mpc$ and decrease slowly for larger scales. At
+scales larger than $7 \Mpc$ we find strong similarities between the statistical
+properties of the galaxy fluctuations and the theoretical properties of matter
+fluctuations evolving under the influence of gravity in an expanding universe
+on assumption that the initial fluctuations are small and Gaussian. This is
+most easily explained if at large scales there is no significant biasing
+between matter and galaxy fluctuations. The comparison of the skewness in the
+CfA and SSRS catalogues with comparable sub-samples of the APM indicates that
+the volume of a ``fair sample'' has to be much larger that the one in the
+combined CfA/SSRS catalogues.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 17:26:41 GMT""},{""version"":""v2"",""created"":""Tue, 18 Jan 1994 14:30:43 GMT""}]","2015-06-24"
+"astro-ph/9309020","Tim Bedding","Timothy R. Bedding and Albert A. Zijlstra","Angular Diameters of Compact Planetary Nebulae","(LaTeX 8 pages; send email to tbedding@eso.org for figures). Accepted
+  for publication in Astronomy and Astrophysics. ESO-TRB02","Astron.Astrophys.283:955,1994",,,"astro-ph",,"  We have obtained H$\alpha$ CCD images of 21 compact planetary nebulae in the
+galactic bulge. All objects are resolved and, after deconvolving the seeing
+disk, we find diameters of 1--2$''$ with typical uncertainties of 20\%. The
+values are generally in good agreement with radio measurements but are smaller
+than older optical measurements. Based on the new values, we find that the
+Shklovsky method for distance determination greatly overestimates the actual
+distance for all of our objects.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 11:59:58 GMT""}]","2011-05-23"
+"astro-ph/9309021","Ray Carlberg","Ray Carlberg","Cosmological Velocity Bias","10pages (0.5Mbyte .ps.Z.uu file) in proceedings of IAP Colloq 9,
+  Cosmological Velocity Fields ed F Bouchet & M. Lachieze-Rey (revised--typo in
+  eq.4, numerical value correct)",,,,"astro-ph",,"  Velocity bias is a reduction of the velocity dispersion of tracer galaxies in
+comparison to the velocity dispersion of the underlying mass field. There are
+two distinct forms of velocity bias. The single particle velocity reduction,
+$b_v(1)$, is the result of energy loss of a tracer population, and in
+virialized regions, such as galaxy clusters, is intimately associated with mass
+segregation which together lead to cluster mass underestimates. The pairwise
+velocity bias, $b_v(2)$, has an additional statistical reduction if the total
+mass per galaxy rises with velocity dispersion of the virialized cluster.
+Values of the velocity bias are estimated from n-body simulations, finding
+$b_v(1)\simeq 0.85\pm0.1$ and $b_v(2)\simeq 0.6\pm0.2$. The value of $b_v(1)$
+is relatively secure and predicts that the virial radius of the cluster light
+is about 20\% of the cluster mass, which can be tested with observations of
+cluster mass profiles beyond the apparent virial radius. The value of $b_v(2)$
+is sensitive to the formation efficiency of galaxies over environments ranging
+from voids to rich clusters, the latter of which are not yet well resolved in
+simulations. An $n=1$, $\Omega=1$, COBE normalized CDM spectrum requires
+$b_v(2)\simeq0.20(15\mu K/Q)(\sigma_{12}/317 \kms)$ which is well below the
+measured range of $b_v(2)$. The pairwise velocities at 1 \hmpc\ allow
+$\Omega=1$ for a galaxy clustering bias near unity if $b_v(2)\simeq0.6$.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 13:17:50 GMT""},{""version"":""v2"",""created"":""Thu, 16 Sep 1993 19:11:41 GMT""}]","2008-02-03"
+"chao-dyn/9309004","Harvey Shepard","Fred Cooper (LANL & UNH), John Dawson (UNH), Dawn Meredith (UNH), and
+  Harvey Shepard (UNH)","Semi-Quantum Chaos","9 pages, LaTeX, to appear in Phys Rev Letters",,"10.1103/PhysRevLett.72.1337",,"chao-dyn nlin.CD",,"  We consider a system in which a classical oscillator is interacting with a
+purely quantum mechanical oscillator, described by the Lagrangian
+  $ L = \frac{1}{2} \dot{x}^2 + \frac{1}{2} \dot{A}^2 - \frac{1}{2} ( m^2 + e^2
+A^2) x^2 \>, $
+  where $A$ is a classical variable and $x$ is a quantum operator. With
+$\langle x(t) \rangle = 0$, the relevant variable for the quantum oscillator is
+$\langle x(t) x(t) \rangle = G(t)$. The classical Hamiltonian dynamics
+governing the variables $A(t)$, $\Pi_A(t)$, $G(t)$ and $\Pi_G(t)$ is chaotic so
+that the results of making measurements on the quantum system at later times
+are sensitive to initial conditions. This system arises as the zero momentum
+part of the problem of pair production of charged scalar particles by a strong
+external electric field.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 20:52:21 GMT""},{""version"":""v2"",""created"":""Thu, 17 Feb 1994 22:47:52 GMT""}]","2009-10-22"
+"cond-mat/9309014","Alexander V. Balatsky","A. V. Balatsky, Elihu Abrahams, D.J. Scalapino, J.R. Schrieffer","Properties of Odd Gap Superconductors","9 pages + 2 fig, LA-UR-93-2992",,"10.1016/0921-4526(94)91839-2",,"cond-mat",,"  A new class of superconductors with the gap function {\it odd} under time
+reversal is considered. Some of the physical properties of these
+superconductors such as the Meissner effect, composite condensate, gapless
+spectrum and transition from the {\it odd} gap superconductor to the BCS state
+at lower temperatures are discussed.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 18:06:53 GMT""}]","2009-10-22"
+"cond-mat/9309015","Jordi Boronat","J. Boronat and J. Casulleras","Monte Carlo Analysis of a New Interatomic Potential for He","36 pages, LaTex, 11 PostScript figures included",,"10.1103/PhysRevB.49.8920",,"cond-mat",,"  By means of a Quadratic Diffusion Monte Carlo method we have performed a
+comparative analysis between the Aziz potential and a revised version of it.
+The results demonstrate that the new potential produces a better description of
+the equation of state for liquid $^4$He. In spite of the improvement in the
+description of derivative magnitudes of the energy, as the pressure or the
+compressibility, the energy per particle which comes from this new potential is
+lower than the experimental one. The inclusion of three-body interactions,
+which give a repulsive contribution to the potential energy, makes it feasible
+that the calculated energy comes close to the experimental result.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 10:39:00 GMT""}]","2009-10-22"
+"cond-mat/9309016","Terry Hwa","Terence Hwa and Daniel S. Fisher (Harvard University)","Anomalous Fluctuations of Directed Polymers in Random Media","59 pages including 8 figures ( REVTEX 3.0 )E-mail:
+  hwa@cmt.harvard.edu",,"10.1103/PhysRevB.49.3136",,"cond-mat",,"  A systematic analysis of large scale fluctuations in the low temperature
+pinned phase of a directed polymer in a random potential is described. These
+fluctuations come from rare regions with nearly degenerate ``ground states''.
+The probability distribution of their sizes is found to have a power law tail.
+The rare regions in the tail dominate much of the physics. The analysis
+presented here takes advantage of the mapping to the noisy-Burgers' equation.
+It complements a phenomenological description of glassy phases based on a
+scaling picture of droplet excitations and a recent variational approach with
+``broken replica symmetry''. It is argued that the power law distribution of
+large thermally active excitations is a consequence of the continuous
+statistical ``tilt'' symmetry of the directed polymer, the breaking of which
+gives rise to the large active excitations in a manner analogous to the
+appearance of Goldstone modes in pure systems with a broken continuous
+symmetry.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 11:39:25 GMT""}]","2016-08-31"
+"cond-mat/9309018","S. Yahikozawa","M. Hatsuda, S. Yahikozawa, P. Ao and D. J. Thouless","Topological Landau-Ginzburg Theory for Vortices in Superfluid $^4$He","LATEX, 9 pages","Phys.Rev. B49 (1994) 15870","10.1103/PhysRevB.49.15870","KUNS-1220, HE(TH)93/10","cond-mat",,"  We propose a new Landau-Ginzburg theory for arbitrarily shaped vortex strings
+in superfluid $^4$He. The theory contains a topological term and directly
+describes vortex dynamics. We introduce gauge fields in order to remove
+singularities from the Landau-Ginzburg order parameter of the superfluid, so
+that two kinds of gauge symmetries appear, making the continuity equation and
+conservation of the total vorticity manifest. The topological term gives rise
+to the Berry phase term in the vortex mechanical actions.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 13:02:05 GMT""}]","2009-10-22"
+"gr-qc/9309008",,"Pedro F. Gonzalez-Diaz","Quantum State and Spontaneous Symmetry Breaking in Gravity","4p","Int.J.Mod.Phys.D3:191-194,1994","10.1142/S0218271894000265","IMAFF-RC-05-93","gr-qc",,"  A spontaneous symmetry breaking mechanism is used in quantum gravity to
+obtain a convergent positive definite density-matrix as the most general
+quantum state of Euclidean wormholes
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 17:12:54 GMT""}]","2011-04-20"
+"gr-qc/9309009",,"P.F. Gonz\'alez-D\'iaz","Blackbody Distribution for Wormholes","8p, IMAFF-RC-06-93#","Class.Quant.Grav.10:2505-2510,1993","10.1088/0264-9381/10/12/009",,"gr-qc",,"  By assuming that only (i) bilocal vertex operators which are diagonal with
+respect to the basis for local field operators, and (ii) the convergent
+elements with nonzero positive energy of the density matrix representing the
+quantum state of multiply-connected wormholes, contribute the path integral
+that describes the effects of wormholes on ordinary matter fields at low
+energy, it is obtained that the probability measure for multiply connected
+wormholes with nondegenerate energy spectrum is given in terms of a Planckian
+probability distribution for the momenta of a quantum field $\frac{1}{2}\alpha^
+{2}$, where the $\alpha$'s are the Coleman parameters, rather than a classical
+gaussian distribution law, and that an observable classical universe can exist
+if, and only if, such multiply connected wormholes are allowed to occur.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 17:24:55 GMT""}]","2016-08-14"
+"gr-qc/9309010","Jeff Greensite","J. Greensite","The Dispersion of Newton's Constant: A Transfer Matrix Formulation of
+  Quantum Gravity","24 pages, plain LaTeX, NBI-HE-93-54","Phys.Rev. D49 (1994) 930-940","10.1103/PhysRevD.49.930",,"gr-qc hep-th",,"  A transfer matrix formalism applicable to certain reparametrization invariant
+theories, including quantum gravity, is proposed. In this formulation it is
+found that every stationary state in quantum gravity satisfies a Wheeler-DeWitt
+equation, but each with a different value of the Planck mass; the value
+$m_{Planck}^4$ turns out to be proportional to the eigenvalue of the evolution
+operator. As a consequence, the fact that the Universe is non-stationary
+implies that it is not in an eigenstate of Newton's constant.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 19:04:26 GMT""}]","2009-10-22"
+"gr-qc/9309011","Centro De Estudios Cientificos De Santia","Maximo Banados","Black Holes in Einstein-Lovelock Gravity","7 pages, RevTex (3.0)",,,,"gr-qc hep-th",,"  Static, spherically symmetric solutions of the field equations for a
+particular dimensional continuation of general relativity with negative
+cosmological constant are found. In even dimensions the solution has many
+similarities with the \Sch\ metric. In odd dimensions, the equations of motion
+are explicitly anti de-Sitter invariant, and the solution is alike in many ways
+to the 2+1 black hole.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 23:18:52 GMT""},{""version"":""v2"",""created"":""Tue, 21 Sep 1993 02:53:31 GMT""}]","2008-02-03"
+"gr-qc/9309012","James Hartle","James B. Hartle","Unitarity and Causality in Generalized Quantum Mechanics for Non-Chronal
+  Spacetimes","40pages, UCSBTH92-04","Phys.Rev. D49 (1994) 6543-6555","10.1103/PhysRevD.49.6543",,"gr-qc hep-th",,"  Spacetime must be foliable by spacelike surfaces for the quantum mechanics of
+matter fields to be formulated in terms of a unitarily evolving state vector
+defined on spacelike surfaces. When a spacetime cannot be foliated by spacelike
+surfaces, as in the case of spacetimes with closed timelike curves, a more
+general formulation of quantum mechanics is required. In such generalizations
+the transition matrix between alternatives in regions of spacetime where states
+{\it can} be defined may be non-unitary. This paper describes a generalized
+quantum mechanics whose probabilities consistently obey the rules of
+probability theory even in the presence of such non-unitarity. The usual notion
+of state on a spacelike surface is lost in this generalization and familiar
+notions of causality are modified. There is no signaling outside the light
+cone, no non-conservation of energy, no ``Everett phones'', and probabilities
+of present events do not depend on particular alternatives of the future.
+However, the generalization is acausal in the sense that the existence of
+non-chronal regions of spacetime in the future can affect the probabilities of
+alternatives today. The detectability of non-unitary evolution and violations
+of causality in measurement situations are briefly considered. The evolution of
+information in non-chronal spacetimes is described.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 22:08:57 GMT""}]","2009-10-22"
+"gr-qc/9309013","Jesus Ibanez Medrano","J.M. Aguirregabiria, A. Feinstein and J. Ibanez","Exponential-Potential Scalar Field Universes I: The Bianchi I Models","16 pages, Plain LaTeX, 1 Figure to be sent on request, to appear in
+  Phys. Rev. D","Phys.Rev.D48:4662-4668,1993","10.1103/PhysRevD.48.4662",,"gr-qc",,"  We obtain a general exact solution of the Einstein field equations for the
+anisotropic Bianchi type I universes filled with an exponential-potential
+scalar field and study their dynamics. It is shown, in agreement with previous
+studies, that for a wide range of initial conditions the late-time behaviour of
+the models is that of a power-law inflating FRW universe. This property, does
+not hold, in contrast, when some degree of inhomogeneity is introduced, as
+discussed in our following paper II.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 15:17:44 GMT""}]","2010-11-01"
+"hep-lat/9309006","T. Poeschel","T. Poeschel and V. Buchholtz","Static Friction Phenomena in Granular Materials: Coulomb Law vs.
+  Particle Geometry","11 pages, Revtex, HLRZ-33/93","Phys.Rev.Lett. 71 (1993) 3963","10.1103/PhysRevLett.71.3963",,"hep-lat adap-org cond-mat nlin.AO",,"  The static as well as the dynamic behaviour of granular material are
+determined by dynamic {\it and} static friction. There are well known methods
+to include static friction in molecular dynamics simulations using scarcely
+understood forces. We propose an Ansatz based on the geometrical shape of
+nonspherical particles which does not involve an explicit expression for static
+friction. It is shown that the simulations based on this model are close to
+experimental results.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 01:18:13 GMT""}]","2009-10-22"
+"hep-ph/9309258",,"Joseph D. Lykken and Scott Willenbrock","Planck-Scale Unification and Dynamical Symmetry Breaking","LaTeX, 12 pages, FERMILAB-PUB-93/262-T","Phys. Rev. D 49, 4902 (1994)","10.1103/PhysRevD.49.4902",,"hep-ph",,"  We explore the possibility of unification of gauge couplings near the Planck
+scale in models of extended technicolor. We observe that models of the form G X
+SU(3)_c X SU(2)_L X U(1)_Y cannot be realized, due to the presence of massless
+neutral Goldstone bosons (axions) and light charged pseudo-Goldstone bosons;
+thus, unification of the known forces near the Planck scale cannot be achieved.
+The next simplest possibility, G X SU(4)_{PS} X SU(2)_L X U(1)_{T_{3R}}, cannot
+lead to unification of the Pati-Salam and weak gauge groups near the Planck
+scale. However, superstring theory provides relations between couplings at the
+Planck scale without the need for an underlying grand-unified gauge group,
+which allows unification of the SU(4)$_{PS}$ and SU(2)$_L$ couplings.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 21:16:51 GMT""}]","2013-11-13"
+"hep-ph/9309259",,"D.A. Morris and A. Ringwald","Phenomenology of Multi-W Processes in Cosmic Rays","(Invited talk presented by A. Ringwald at 17th Johns Hopkins Workshop
+  on Current Problems in Particle Theory, Particles and the Universe, July
+  30-August 1, 1993, Budapest, Hungary), 16 pages (LaTeX) + 10 uuencoded
+  PostScript figures, CERN-TH.7005/93, UCLA/93/TEP/32",,,,"hep-ph",,"  We report on a study of the potential of various cosmic ray physics
+experiments to search for Standard Model processes involving the
+nonperturbative production of O(30) weak gauge bosons. Whereas present and
+near-future experiments are insensitive to proton-induced processes,
+neutrino-induced processes give rise to promising signatures and rates in
+AMANDA, DUMAND, MACRO and NESTOR provided that a cosmic neutrino flux exists at
+levels suggested by recent models of active galactic nuclei. The Fly's Eye
+currently constrains the largest region of parameter space characterizing
+multi-W phenomena.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 02:34:00 GMT""}]","2007-05-23"
+"hep-ph/9309260",,"C. A. Dominguez","Leptonic Decay Constants of Charm and Beauty Mesons in QCD: An Update","Invited talk at the Third Workshop on the Tau-Charm Factory,
+  Marbella, Spain. Report No. SISSA Ref. 139/93/EP. LATEX",,,,"hep-ph",,"  An update is given of the determination of leptonic decay constants of charm
+and beauty mesons in the framework of relativistic Hilbert moments and Laplace
+transform QCD sum rules.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 12:23:39 GMT""}]","2007-05-23"
+"hep-ph/9309261","Leandros Perivolaropoulos","Leandros Perivolaropoulos (Harvard-Smithsonian CfA)","Existence of Double Vortex Solutions","10 pages plus 2 figures, use latex. To appear in Phys. Lett. B.
+  Preprint No. CfA-3702","Phys.Lett. B316 (1993) 528-533","10.1016/0370-2693(93)91039-P",,"hep-ph astro-ph",,"  We show analytically and numerically the existence of double vortex solutions
+in two-Higgs systems. These solutions are generalizations of the \no vortices
+and exist for all values of the parameters in the Lagrangians considered.
+  We derive analytically the asymptotic behavior of the solutions and confirm
+it numerically by solving the field equations.
+  Finally, we show that these solutions can be embedded in realistic theories
+like the two-doublet extension of the standard model.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 15:19:26 GMT""}]","2009-10-22"
+"hep-th/9309073",,"Kuo-Cheng Lee and Su-Long Nyeo","A Non-Principal Value Prescription for the Temporal Gauge","13 pages, NCKU-HEP/93-09","J.Math.Phys. 35 (1994) 2210-2217","10.1063/1.530884",,"hep-th",,"  A non-principal value prescription is used to define the spurious
+singularities of Yang-Mills theory in the temporal gauge. Typical one-loop
+dimensionally-regularized temporal-gauge integrals in the prescription are
+explicitly calculated, and a regularization for the spurious gauge divergences
+is introduced. The divergent part of the one-loop self-energy is shown to be
+local and has the same form as that in the spatial axial gauge with the
+principal-value prescription. The renormalization of the theory is also briefly
+mentioned.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 03:38:18 GMT""},{""version"":""v2"",""created"":""Wed, 22 Jun 1994 15:09:49 GMT""}]","2009-10-22"
+"hep-th/9309075","Jerome Gauntlett","Fay Dowker, Jerome P. Gauntlett, David A. Kastor and Jennie Traschen","Pair Creation of Dilaton Black Holes","22 pages, EFI-93-51, FERMILAB-Pub-93/272-A, UMHEP-393. (Asymptotics
+  of Ernst solutions clarified, typos repaired)","Phys.Rev.D49:2909-2917,1994","10.1103/PhysRevD.49.2909",,"hep-th gr-qc",,"  We consider dilaton gravity theories in four spacetime dimensions
+parametrised by a constant $a$, which controls the dilaton coupling, and
+construct new exact solutions. We first generalise the C-metric of
+Einstein-Maxwell theory ($a=0$) to solutions corresponding to oppositely
+charged dilaton black holes undergoing uniform acceleration for general $a$. We
+next develop a solution generating technique which allows us to ``embed"" the
+dilaton C-metrics in magnetic dilaton Melvin backgrounds, thus generalising the
+Ernst metric of Einstein-Maxwell theory. By adjusting the parameters
+appropriately, it is possible to eliminate the nodal singularities of the
+dilaton C-metrics. For $a<1$ (but not for $a\ge 1$), it is possible to further
+restrict the parameters so that the dilaton Ernst solutions have a smooth
+euclidean section with topology $S^2\times S^2-{\rm\{pt\}}$, corresponding to
+instantons describing the pair production of dilaton black holes in a magnetic
+field. A different restriction on the parameters leads to smooth instantons for
+all values of $a$ with topology $S^2\times \R^2$.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 00:46:54 GMT""},{""version"":""v2"",""created"":""Mon, 22 Nov 1993 18:33:51 GMT""}]","2014-11-18"
+"hep-th/9309076",,"Yi-Zhi Huang and James Lepowsky","A theory of tensor products for module categories for a vertex operator
+  algebra, I","65 pages. To appear in Selecta Mathematica. The introduction is
+  substantially expanded, references are updated, and a few misprints are
+  corrected",,,,"hep-th math.QA",,"  This is the first part in a series of papers developing a tensor product
+theory for modules for a vertex operator algebra. The goal of this theory is to
+construct a ``vertex tensor category'' structure on the category of modules for
+a suitable vertex operator algebra. The notion of vertex tensor category is
+essentially a ``complex analogue'' of the notion of symmetric tensor category,
+and in fact a vertex tensor category produces a braided tensor category in a
+natural way. The theory applies in particular to many familiar ``rational''
+vertex operator algebras, including those associated with WZNW models, minimal
+models and the moonshine module. In this paper (Part I), we introduce the
+notions of $P(z)$- and $Q(z)$-tensor product, where $P(z)$ and $Q(z)$ are two
+special elements of the moduli space of spheres with punctures and local
+coordinates, and we present the fundamental properties and constructions of
+$Q(z)$-tensor products.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 01:58:29 GMT""},{""version"":""v2"",""created"":""Wed, 17 May 1995 16:28:52 GMT""}]","2008-02-03"
+"hep-th/9309078","Dr. A. Toon","A. Toon","Background Fields in 2+1 Topological Gravity","10 pages, LaTeX, OUTP-93-03P","Phys.Rev. D48 (1993) 3720-3724","10.1103/PhysRevD.48.3720",,"hep-th",,"  The partition function of 2+1 Chern-Simons Witten topological gravity has an
+attractive interpretation in terms of the unbroken and broken phases of
+gravity. We make this physical interpretation manifest using the background
+field method.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 11:17:42 GMT""}]","2009-10-22"
+"hep-th/9309079","H. Dorn","H. Dorn and V. Preuss","Operator product expansion of the energy momentum tensor in 2D conformal
+  field theories on manifolds with boundary","8 pages, Latex, HU Berlin-IEP-93/4","Phys.Lett. B321 (1994) 355-360","10.1016/0370-2693(94)90256-9",,"hep-th",,"  Starting from the well-known expression for the trace anomaly we derive the
+$T\cdot T$ operator product expansion of the energy-momentum tensor in 2D
+conformal theories defined in the upper halfplane $without$ making use of the
+additional condition of no energy-momentum flux across the boundary. The OPE
+turns out to be the same as in the absence of the boundary. For this result it
+is crucial that the trace anomaly is proportional to the Gau\ss-Bonnet density.
+Some relations to the $\sigma$ - model approach for open strings are discussed.
+","[{""version"":""v1"",""created"":""Tue, 14 Sep 1993 13:32:57 GMT""}]","2009-10-22"
+"math/9309211","Stephen Montgomery-Smith","Victor H. de la Pe\~na, Stephen J. Montgomery-Smith","Decoupling Inequalities for the Tail Probabilities of Multivariate
+  U-statistics",,"Annals Prob. 23, (1995), 806-816",,,"math.FA",,"  In this paper the following result, which allows one to decouple U-Statistics
+in tail probability, is proved in full generality.
+  Theorem 1. Let $X_i$ be a sequence of independent random variables taking
+values in a measure space $S$, and let $f_{i_1...i_k}$ be measurable functions
+from $S^k$ to a Banach space $B$. Let $(X_i^{(j)})$ be independent copies of
+$(X_i)$. The following inequality holds for all $t \ge 0$ and all $n\ge 2$, $$
+P(||\sum_{1\le i_1 \ne ... \ne i_k \le n} f_{i_1 ... i_k}(X_{i_1},...,X_{i_k})
+|| \ge t) \qquad\qquad$$ $$ \qquad\qquad\le C_k P(C_k||\sum_{1\le i_1 \ne ...
+\ne i_k \le n} f_{i_1 ... i_k}(X_{i_1}^{(1)},...,X_{i_k}^{(k)}) || \ge t) .$$
+Furthermore, the reverse inequality also holds in the case that the functions
+$\{f_{i_1... i_k}\}$ satisfy the symmetry condition $$ f_{i_1 ...
+i_k}(X_{i_1},...,X_{i_k}) = f_{i_{\pi(1)} ...
+i_{\pi(k)}}(X_{i_{\pi(1)}},...,X_{i_{\pi(k)}}) $$ for all permutations $\pi$ of
+$\{1,...,k\}$. Note that the expression $i_1 \ne ... \ne i_k$ means that $i_r
+\ne i_s$ for $r\ne s$. Also, $C_k$ is a constant that depends only on $k$.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 16:56:47 GMT""},{""version"":""v2"",""created"":""Mon, 6 Dec 1999 14:53:53 GMT""}]","2008-02-03"
+"nucl-th/9309015","Elaine Remillard","K. Chase and A. Mekjian","Nuclear Fragmentation and Its Parallels","40 pages, REVTEX 3.0, 12 figs. (available in ps files upon request),
+  Preprint #RU9341","Phys.Rev.C49:2164-2176,1994","10.1103/PhysRevC.49.2164",,"nucl-th",,"  A model for the fragmentation of a nucleus is developed. Parallels of the
+description of this process with other areas are shown which include Feynman's
+theory of the $\lambda$ transition in liquid Helium, Bose condensation, and
+Markov process models used in stochastic networks and polymer physics. These
+parallels are used to generalize and further develop a previous exactly
+solvable model of nuclear fragmentation. An analysis of some experimental data
+is given.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 18:21:48 GMT""}]","2008-11-26"
+"patt-sol/9309001","Hank Warchall","Joseph Iaia (University of North Texas), and Henry Warchall
+  (University of North Texas)","Nonradial Solutions of a Semilinear Elliptic Equation in Two Dimensions","21 pages, ordinary TeX",,,"215-93","patt-sol nlin.PS",,"  : We establish existence of an infinite family of exponentially-decaying
+non-radial $C^2$ solutions to the equation $\Delta u + f(u) = 0$ on $R^2$ for a
+large class of nonlinearities $f$. These solutions have the form $u(r,\theta
+)=e^{i m\theta }w(r)$, where $r$ and $\theta$ are polar coordinates, $m$ is an
+integer, and $w:[0,\infty ) \to R$ is exponentially decreasing far from the
+origin. We prove there is a solution with each prescribed number of nodes.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 22:17:08 GMT""}]","2008-02-03"

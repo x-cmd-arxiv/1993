@@ -1,0 +1,110 @@
+"astro-ph/9309016","Albert Zijlstra","Albert A. Zijlstra and Ralf Siebenmorgen","The Past and Present Infrared Spectrum of BD+30 3639","(LaTeX, figures on request to azijlstr@eso.org) To be published in
+  Acta Astronomica (Proc. Workshop on Planetary Nebula Nuclei, Bachotek,
+  September 1993) ESO-AAZ-1",,,,"astro-ph",,"  We present a radiative-transfer calculation which reproduces the infrared
+spectrum of the planetary nebula BD+30$^{\circ}$3639, fitting both the spectral
+energy distribution and the spatial extent at infrared wavelengths. We obtain
+an acceptable fit to most of the spectrum, including the infrared bands. The
+fit requires a distance of $\ge 2 \kpc$, which implies that BD+30$^\circ$3639
+has evolved from a massive progenitor of several solar masses. Two surprising
+results are (1) a very low dust-to-gas ratio, (2) an absence of the smallest
+PAH molecules. Extrapolating back in time, we calculate the previous infrared
+evolution of BD+30$^\circ$3639.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 09:42:24 GMT""}]","2007-05-23"
+"astro-ph/9309017","Hannu Kurki-Suonio","Hannu Kurki-Suonio and Grant Mathews","Constraints on Chaotic Inflation from the COBE DMR results","18 pages, 7 figures (available in hardcopy only), plain TeX,
+  HU-TFT-93-45",,,,"astro-ph hep-ph",,"  We explore constraints on various forms for the effective potential during
+inflation based upon a statistical comparison between inflation-generated
+fluctuations in the cosmic microwave background temperature and the COBE DMR
+results. Fits to the COBE 53A+B x 90A+B angular correlation function are
+obtained using simple analytic forms for the effective potential in chaotic
+inflation models. Not surprisingly, these fits are optimized for a nearly
+scale-free fluctuation power spectrum. However, from the chi^2 distribution for
+the fits we can set upper limits of n le 1.2 and n le 7 at the 1 sigma and 2
+sigma confidence levels, respectively, for a V(phi) = lambda phi^n effective
+potential. Similarly, new limits on parameters for polynomial effective
+potentials can be determined at the 1 sigma and 2 sigma confidence levels. The
+most stringent constraint, however, is on the overall magnitude of the
+effective potential.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 10:23:33 GMT""}]","2007-05-23"
+"cond-mat/9309011","Fath Gabor","G. Fath and J. Solyom","Solitonic excitations in the Haldane phase of a S=1 chain","RevTex 3.0, 24 pages, 2 figures on request by fax or mail",,"10.1088/0953-8984/5/48/009",,"cond-mat",,"  We study low-lying excitations in the 1D $S=1$ antiferromagnetic
+valence-bond-solid (VBS) model. In a numerical calculation on finite systems
+the lowest excitations are found to form a discrete triplet branch, separated
+from the higher-lying continuum. The dispersion of these triplet excitations
+can be satisfactorily reproduced by assuming approximate wave functions. These
+wave functions are shown to correspond to moving hidden domain walls, i.e. to
+one-soliton excitations.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 10:01:39 GMT""}]","2009-10-22"
+"cond-mat/9309012","Satoshi Fujimoto","Satoshi Fujimoto and Norio Kawakami","Persistent Currents in Mesoscopic Hubbard Rings with Spin-Orbit
+  Interaction","19 pages, REVTEX 3.0",,"10.1103/PhysRevB.48.17406",,"cond-mat",,"  The effect of spin-orbit interaction on persistent currents in mesoscopic
+Hubbard rings threaded by an Aharonov-Bohm flux is investigated putting stress
+on the orbital magnetism. The non-perturbative treatment of the spin-orbit
+interaction developed by Meir {\em et al.} is combined with the Bethe ansatz
+solution to deal with this problem exactly. We find that the interplay of
+spin-orbit interaction and electron-electron interaction plays a crucial role,
+bringing about some new effects on the orbital magnetism.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 11:18:28 GMT""}]","2009-10-22"
+"cond-mat/9309013",,"M.Marsili","Pair Description of the FQHE with Application to Edge Waves","24 pages + two figures avalable upon request, revtex, SISSA
+  ref.195/92/CM/MB",,,,"cond-mat",,"  Pairs of particles of definite total and relative angular momentum provide a
+natural description for a two dimensional electron gas in a strong magnetic
+field. Two body operators take a simple form when expressed in terms of pair
+creation and destruction operators. The pair formalism is applied to the study
+of edge waves excitations. For $\nu=1$ the operators which create edge
+excitations are identified and the role the interaction potential plays in the
+long wavelength limit is clarified. This picture is claimed to describe also
+edge excitations on the $\nu=1/m$ Laughlin states.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 13:14:26 GMT""}]","2007-05-23"
+"hep-lat/9309005","Ulli Wolff","Martin Luescher, Rainer Sommer, Peter Weisz and Ulli Wolff","A Precise Determination of the Running Coupling in the SU(3) Yang-Mills
+  Theory","pages 0-27, ps-file 255491 bytes, preprint DESY 93-114 (CERN-TH
+  6996/93)","Nucl.Phys. B413 (1994) 481-502","10.1016/0550-3213(94)90629-7",,"hep-lat",,"  A non-perturbative finite-size scaling technique is used to study the
+evolution of the running coupling (in a certain adapted scheme) in the SU(3)
+Yang-Mills theory. At low energies contact is made with the fundamental
+dynamical scales, such as the string tension K, while at larger energies the
+coupling is shown to evolve according to perturbation theory. In that regime
+the coupling in the MS-bar scheme of dimensional regularization is obtained
+with an estimated total error of a few percent.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 12:15:54 GMT""}]","2009-10-22"
+"hep-ph/9309257","Nikolaos Tetradis","N. Tetradis and C. Wetterich","High Temperature Phase Transitions without Infrared Divergences","DESY 93-128 and HD-THEP-93-36, 30 pages, 10 figures available by fax","Int.J.Mod.Phys.A9:4029-4062,1994","10.1142/S0217751X94001631",,"hep-ph",,"  Resubmitted due to LATEXing problems
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 15:16:10 GMT""},{""version"":""v2"",""created"":""Wed, 15 Sep 1993 12:10:52 GMT""}]","2011-04-15"
+"hep-th/9309069","Tatsuo Kobayashi","H. Kawabe, T. Kobayashi and N. Ohtsubo","Study of Minimal String Unification in $Z_8$ Orbifold Models","11 pages, KANAZAWA-93-08, LaTeX file","Phys. Lett. B322 (1994) 331-339","10.1016/0370-2693(94)91161-4",,"hep-th",,"  We study the construction of the minimal supersymmetric standard model from
+the $Z_8$ orbifold models. We use a target-space duality anomaly cancellation
+and a unification of gauge couplings as constraints. It is shown that some
+models obtained through a systematical search realize the unification of SU(3)
+and SU(2) coupling constants.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 05:36:58 GMT""}]","2009-10-22"
+"hep-th/9309070","Wen-Jui Huang","Wen-Jui Huang","On Diff(S^1) Covariantization Of Pseudodifferential Operator","20 pages",,"10.1063/1.530626",,"hep-th math.QA",,"  A study of diff($S^1$) covariant properties of pseudodifferential operator of
+integer degree is presented. First, it is shown that the action of diff($S^1$)
+defines a hamiltonian flow defined by the second Gelfand-Dickey bracket if and
+only if the pseudodifferential operator transforms covariantly. Secondly, the
+covariant form of a pseudodifferential operator of degree n not equal to 0, 1,
+-1 is constructed by exploiting the inverse of covariant derivative. This, in
+particular, implies the existence of primary basis for W_{KP}^{(n)} (n not
+equal to 0, 1, -1).
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 08:58:37 GMT""}]","2009-10-22"
+"hep-th/9309071","Michael Lashkevich","M. Yu. Lashkevich","New Conformal Models with $c<2/5$","LANDAU-93-TMP-6, 7 pages, plain TEX, misprints corrected","Mod.Phys.Lett. A9 (1994) 2273-2280","10.1142/S0217732394002136",,"hep-th",,"  The zoo of two-dimensional conformal models has been supplemented by a series
+of nonunitary conformal models obtained by cosetting minimal models. Some of
+them coincide with minimal models, some do not have even Kac spectrum of
+conformal dimensions.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 09:40:37 GMT""},{""version"":""v2"",""created"":""Tue, 12 Oct 1993 15:55:38 GMT""}]","2009-10-22"
+"hep-th/9309072",,"Demosthenes Ellinas","On Coherent States and q-Deformed Algebras","Presented at the 'International Symposium on Coherent States' June
+  1993, USA 14 pages, plain LATEX, FTUV/93-37, IFIC/93-20",,"10.1142/9789814503839_0010",,"hep-th",,"  We review some aspects of the relation between ordinary coherent states and
+q-deformed generalized coherent states with some of the simplest cases of
+quantum Lie algebras. In particular, new properties of (q-)coherent states are
+utilized to provide a path integral formalism allowing to study a modified form
+of q-classical mechanics, to probe some geometrical consequences of the
+q-deformation and finally to construct Bargmann complex analytic realizations
+for some quantum algebras.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 13:23:00 GMT""}]","2016-11-03"
+"hep-th/9309074","Anne Taormina","Anne Taormina","New Identities between Unitary Minimal Virasoro Characters","16 pages, LaTex, DTP-93-47","Commun.Math.Phys.165:69-82,1994","10.1007/BF02099738",,"hep-th",,"  Two sets of identities between unitary minimal Virasoro characters at levels
+$m=3,4,5$ are presented and proven. The first identity suggests a connection
+between the Ising and tricritical Ising models since the $m=3$ Virasoro
+characters are obtained as bilinears of $m=4$ Virasoro characters. The second
+identity gives the tricritical Ising model characters as bilinears in the Ising
+model characters and the six combinations of $m=5$ Virasoro characters which do
+not appear in the spectrum of the three state Potts model. The implication of
+these identities on the study of the branching rules of $N=4$ superconformal
+characters into $\widehat{SU(2)} \times \widehat{SU(2)}$ characters is
+discussed.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 14:40:40 GMT""}]","2011-07-19"
+"math/9309210","Stephen Montgomery-Smith","Victor H. de la Pe\~na, Stephen J. Montgomery-Smith","Bounds on the tail probability of U-statistics and quadratic forms","5 pages. Abstract added in migration.","Bull. Amer. Math. Soc. (N.S.) 31 (1994) 223-227",,"Banach Archive 9/13/93; Bulletin migration 11/99","math.FA math.PR",,"  The authors announce a general tail estimate, called a decoupling inequality,
+for a symmetrized sum of non-linear $k$-correlations of $n>k$ independent
+random variables.
+","[{""version"":""v1"",""created"":""Mon, 13 Sep 1993 00:00:00 GMT""}]","2016-09-06"

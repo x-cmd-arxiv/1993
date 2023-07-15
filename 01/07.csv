@@ -1,0 +1,93 @@
+"cond-mat/9301005","Didier Poilblanc","Didier Poilblanc, Timothy Ziman, Jean Bellissard, Frederic Mila and
+  Gilles Montambaux","Poisson versus GOE statistics in integrable and non-integrable quantum
+  hamiltonian","Latex file (8 pages), figures available on request",,"10.1209/0295-5075/22/7/010",,"cond-mat",,"  We calculate the level statistics by finding the eigenvalue spectrum for a
+variety of one-dimensional many-body models, namely the Heisenberg chain, the
+t-J model and the Hubbard model. In each case the generic behaviour is GOE,
+however at points corresponding to models known to be exactly integrable
+Poisson statistics are found, in agreement with an argument we outline.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 11:24:09 GMT""}]","2009-10-22"
+"hep-lat/9301001",,"A.Duncan, E.Eichten, and H.Thacker","Heavy-Light Wavefunctions in Lattice QCD","Latex file inputs psfig.tex, and espcrc2.sty, 3 figures in uuencoded
+  file","Nucl.Phys.Proc.Suppl. 30 (1993) 441-444","10.1016/0920-5632(93)90245-2",,"hep-lat",,"  Using a multistate smearing method, Coulomb gauge wave functions of
+heavy-light mesons are studied in lattice QCD. Wave functions for the ground
+state, the first radially excited S-wave state, and the lowest P-wave states of
+a heavy-light meson are calculated in quenched approximation. The results are
+found to be in remarkably good agreement with the predictions of a simple
+relativistic quark model.
+","[{""version"":""v1"",""created"":""Wed, 6 Jan 1993 19:08:32 GMT""}]","2009-10-22"
+"hep-ph/9301211",,"E.Kh. Akhmedov, S.T. Petcov, A. Yu. Smirnov","Neutrinos with Mixing in Twisting Magnetic Fields","LaTeX, 35 pages, 4 figures (not included but available upon request).
+  In memoriam of Ya.A. Smorodinsky. SISSA-170/92/EP","Phys.Rev.D48:2167-2181,1993","10.1103/PhysRevD.48.2167",,"hep-ph astro-ph",,"  Transitions in a system of neutrinos with vacuum mixing and magnetic moments,
+propagating in matter and transverse magnetic field, are considered. It is
+shown that in the realistic case of magnetic field direction varying along the
+neutrino path qualitatively new phenomena become possible: permutation of
+neutrino conversion resonances, appearance of resonances in the
+neutrino-antineutrino ($\nu_{lL}\leftrightarrow\bar{\nu}_{lR}$) transition
+channels, neutrino-antineutrino resonant conversion, large amplitude
+$\nu_{lL}\leftrightarrow\bar{\nu}_{lR}$ oscillations, merging of different
+resonances (triple resonances). Possible phenomenological implications of these
+effects are briefly discussed.
+","[{""version"":""v1"",""created"":""Wed, 6 Jan 1993 18:14:47 GMT""}]","2008-11-26"
+"hep-ph/9301212","Thorsten Ohl","Thorsten Ohl, Giulia Ricciardi, and Elizabeth H. Simmons","D\bar{D}$ Mixing in Heavy Quark Effective Field Theory: The Sequel","19 (landscape) Pages, LaTeX (Figures included as PostScript or
+  METAFONT), HUTP-92/A053","Nucl.Phys.B403:605-632,1993","10.1016/0550-3213(93)90364-U",,"hep-ph",,"  We perform a quantitative analysis of $D\bar{D}$ mixing in Heavy Quark
+Effective Field Theory (HqEFT) including leading order QCD corrections. We find
+an enhancement of the short-distance contribution by a factor of two or three.
+","[{""version"":""v1"",""created"":""Wed, 6 Jan 1993 20:38:37 GMT""}]","2010-11-01"
+"hep-ph/9301213",,"K.S. Babu, I.Z. Rothstein and D. Seckel","Planck Scale Symmetry Breaking and Majoron Physics","30 pages, UM-TH-92-31","Nucl.Phys.B403:725-748,1993","10.1016/0550-3213(93)90368-Y",,"hep-ph",,"  Majoron models provide neutrino masses via the spontaneous breaking of a
+global $U(1)$ symmetry. However, it may be argued that all global symmetries
+will be explicitly violated by gravitational effects. We show that it is
+possible to preserve most of the usual features of majoron models by invoking
+$U(1)_{B-L}$ to be a gauge symmetry and adding a second singlet scalar field.
+The majoron gets a small model dependent mass. The couplings of majorons to
+neutrinos may be of ordinary strength or may be made arbitrarily weak. We
+discuss the cosmological and astrophysical consequences of majoron models in
+the context of a model dependent majoron mass and neutrino coupling. For an
+appropriate choice of parameters majorons can play the role of dark matter.
+","[{""version"":""v1"",""created"":""Wed, 6 Jan 1993 19:14:25 GMT""}]","2011-05-12"
+"hep-th/9301017",,"K. Becker and M. Becker","Nonperturbative Solution of the Super-Virasoro Constraints","12 pages, CERN-TH.6761/92","Mod.Phys.Lett. A8 (1993) 1205-1214","10.1142/S0217732393002695",,"hep-th",,"  We present the solution of the discrete super-Virasoro constraints to all
+orders of the genus expansion. Integrating over the fermionic variables we get
+a representation of the partition function in terms of the one-matrix model. We
+also obtain the nonperturbative solution of the super-Virasoro constraints in
+the double scaling limit but do not find agreement between our flows and the
+known supersymmetric extensions of KdV.
+","[{""version"":""v1"",""created"":""Wed, 6 Jan 1993 19:06:12 GMT""}]","2015-06-26"
+"hep-th/9301018","Tomoki Nakanisi","A.Kuniba, T.Nakanishi and J.Suzuki","Characters in Conformal Field Theories from Thermodynamic Bethe Ansatz","12 pages, harvmac, 1 postscript figure file, (some confusion on PF
+  Hilbert space was modified) HUTP-92/A069","Mod. Phys. Lett. A8 (1993) 1649-1660","10.1142/S0217732393001392",,"hep-th",,"  We propose a new $q$-series formula for a character of parafermion conformal
+field theories associated to arbitrary non-twisted affine Lie algebra
+$\widehat{g}$. We show its natural origin from a thermodynamic Bethe ansatz
+analysis including chemical potentials.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 05:00:12 GMT""},{""version"":""v2"",""created"":""Wed, 27 Jan 1993 15:10:31 GMT""}]","2009-10-22"
+"hep-th/9301019","Euro Spallucci","A.Aurilia, A.Smailagic, E.Spallucci","Gauge Theory of the String Geodesic Field","38 pages, PHYZZX, UTS-DFT-92-29","Phys.Rev. D47 (1993) 2536-2548","10.1103/PhysRevD.47.2536",,"hep-th",,"  A relativistic string is usually represented by the Nambu-Goto action in
+terms of the extremal area of a 2-dimensional timelike submanifold of Minkowski
+space. Alternatively, a family of classical solutions of the string equation of
+motion can be globally described in terms of the associated geodesic field. In
+this paper we propose a new gauge theory for the geodesic field of closed and
+open strings. Our approach solves the technical and conceptual problems
+affecting previous attempts to describe strings in terms of local field
+variables. The connection between the geodesic field, the string current and
+the Kalb-Ramond gauge potential is discussed and clarified. A non-abelian
+generalization and the generally covariant form of the model are also
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 10:52:00 GMT""}]","2009-10-22"
+"hep-th/9301020","S. Uehara","Tsukasa TADA and Shozo UEHARA","On the Mass of Two Dimensional Quantum Black Hole","8 pages and 1 figure, YITP/U-92-37","Phys.Lett.B305:23-26,1993","10.1016/0370-2693(93)91100-2",,"hep-th",,"  For the two dimensional dilaton-coupled quantum gravity model, we give the
+local black hole mass, which is an analogue of what was first introduced by
+Fischler, Morgan and Polchinski in the four dimensional gravitational systems.
+We analyze the original CGHS model with this local mass and find that the local
+mass is decreasing in the future direction on the matter shock-wave line, while
+it stays constant at past null infinity.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 10:38:41 GMT""}]","2011-04-20"
+"nucl-th/9301005",,"M.Baldo, A.Causa and A.Rapisarda","Revealing Intermittency in Nuclear Multifragmentation with 4$\PI$
+  Detectors","12 pages, 3 postscript figures included at the end of the manuscript.
+  Plain TeX (version 3.0). Catania University Preprint N.93/01","Phys.Rev.C48:2520-2523,1993","10.1103/PhysRevC.48.2520",,"nucl-th",,"  The distortion on the intermittency signal, due to detection efficiency and
+to the presence of pre--equilibrium emitted particles, is studied in a
+schematic model of nuclear multi- fragmentation. The source of the
+intermittency signal is modeled with a percolating system. The efficiency is
+schematized by a simple function of the fragment size, and the presence of
+pre--equilibrium particles is simulated by an additional non--critical fragment
+source. No selection on the events is considered, and therefore all events are
+used to calculate the moments. It is found that, despite the absence of event
+selection, the intermittency signal is quite resistant to the distortion due to
+the apparatus efficiency, while the inclusion of pre--equilibrium particles in
+the moment calculation can substantially reduce the strength of the signal.
+Pre--equilibrium particles should be therefore carefully separated from the
+rest of the detected fragments, before the intermittency analysis on
+experimental charge or mass distributions is carried out.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 15:42:00 GMT""}]","2008-11-26"

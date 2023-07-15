@@ -1,0 +1,106 @@
+"chao-dyn/9302003",,"N. I. Chernov, G. L. Eyink, J. L. Lebowitz and Ya. G. Sinai","Steady-State Electrical Conduction in the Periodic Lorentz Gas","CYCLER Paper 93feb004",,"10.1007/BF02102109",,"chao-dyn nlin.CD",,"  We study nonequilibrium steady states in the Lorentz gas of periodic
+scatterers when an external field is applied and the particle kinetic energy is
+held fixed by a ``thermostat'' constructed according to Gauss' principle of
+least constraint (a model problem previously studied numerically by Moran and
+Hoover). The resulting dynamics is reversible and deterministic, but does not
+preserve Liouville measure. For a sufficiently small field, we prove the
+following results: (1) existence of a unique stationary, ergodic measure
+obtained by forward evolution of initial absolutely continuous distributions,
+for which the Pesin entropy formula and Young's expression for the fractal
+dimension are valid; (2) exact identity of the steady-state thermodyamic
+entropy production, the asymptotic decay of the Gibbs entropy for the
+time-evolved distribution, and minus the sum of the Lyapunov exponents; (3) an
+explicit expression for the full nonlinear current response (Kawasaki formula);
+and (4) validity of linear response theory and Ohm's transport law, including
+the Einstein relation between conductivity and diffusion matrices. Results (2)
+and (4) yield also a direct relation between Lyapunov exponents and zero-field
+transport (=diffusion) coefficients. Although we restrict ourselves here to
+dimension $d=2,$ the results carry over to higher dimensions and to some other
+physical situations: e.g. with additional external magnetic fields. The proofs
+use a well-developed theory of small perturbations of hyperbolic dynamical
+systems and the method of Markov sieves, an approximation of Markov partitions.
+In our context we discuss also the van Kampen objection to linear response
+theory, which, we point out, overlooks the ``structural stability'' of strongly
+hyperbolic flows.
+","[{""version"":""v1"",""created"":""Mon, 8 Feb 1993 00:00:00 GMT""}]","2009-10-22"
+"cond-mat/9302012","Barbara A. Sanborn","B.A. Sanborn, Ben Yu-Kuang Hu, S. Das Sarma","Enhancement of the decay rate of nonequilibrium carrier distributions
+  due to scattering-in processes","4 pages, figure available on request, RevTex 2.0. (NIST-BAS-93-01)",,"10.1103/PhysRevB.49.7767",,"cond-mat",,"  We show that, for some semiconductor devices and physical experiments,
+processes which scatter electrons {\em into} a state $|{\bf k}\rangle$ can
+contribute strongly to the decay of a nonequilibrium electron occupation of
+$|{\bf k}\rangle$. For electrons, the decay rate $\gamma({\bf k})$ is given by
+the sum of the total scattering-out {\em and scattering-in} rates of state
+$|{\bf k}\rangle$. The scattering-in term, which is often neglected in
+calculations, increases $\gamma({\bf k})$ of low energy electrons injected into
+semidegenerate systems, which includes many doped semiconductor structures at
+nonzero temperatures, particularly those of reduced dimensions.
+","[{""version"":""v1"",""created"":""Mon, 8 Feb 1993 13:58:00 GMT""}]","2009-10-22"
+"hep-ph/9302230",,"Xiao-Gang He, J.P. Ma and Bruce McKellar","CP violation in Higgs decays","9 pages, Revtex, UM-P-93/11, OZ-93/5","Mod.Phys.Lett.A9:205-210,1994","10.1142/S0217732394000228",,"hep-ph",,"  We study CP violation in fermion pair decays of Higgs boson. We idenfy some
+CP odd observables related to the tree level decay amplitude. We find that a
+few thousand Higgs boson decay events can already provide important information
+about CP violation. If the Higgs boson is produced, such an analysis could be
+carried out at the SSC, LHC and NLC.
+","[{""version"":""v1"",""created"":""Mon, 8 Feb 1993 05:18:14 GMT""}]","2010-11-01"
+"hep-ph/9302231","Claudio Coriano","Claudio Coriano' and Hsiang-nan Li","QCD Sum Rule and Perturbative QCD Approaches to Pion Compton Scattering","13 pages 4 figures not included availiable upon request (send email
+  to: claudio@max.physics.sunysb.edu), IP-ASTP-18-92","Phys.Lett.B309:409-415,1993","10.1016/0370-2693(93)90954-G",,"hep-ph",,"  We compare two approaches to the description of pion Compton scattering at
+moderate momentum transfer, one being based on local duality QCD sum rules for
+the invariant amplitudes of the process, which have been derived recently, and
+the other on the modified factorization formula with Sudakov effects included.
+We find that perturbative QCD predictions are dominant over those from QCD sum
+rules only for the scattering angle greater than 90$^o$.
+","[{""version"":""v1"",""created"":""Mon, 8 Feb 1993 13:14:30 GMT""}]","2010-11-01"
+"hep-ph/9302232","Evan Reidell","M. Burkardt and R. L. Jaffe","Polarized $q\to\Lambda$ Fragmentation Functions from
+  $e^+e^-\to\Lambda+X^*$","10 pages, MIT PREPRINT CTP#2186","Phys.Rev.Lett. 70 (1993) 2537-2540","10.1103/PhysRevLett.70.2537",,"hep-ph",,"  Measurement of the helicity asymmetric cross section for semi-inclusive
+production of $\Lambda$-hyperons in $e^+e^-$ annihilation near the $Z^0$
+resonance allows a complete determination of the spin-dependent fragmentation
+functions for the different quark flavors into the $\Lambda$. The parity
+violating, self analyzing, decay of the final state $\Lambda$ makes the
+experimental analysis of the helicity asymmetry possible. This experiment
+should be practical with present day technology at the LEP collider at CERN or
+at SLC at SLAC.
+","[{""version"":""v1"",""created"":""Mon, 8 Feb 1993 14:07:44 GMT""}]","2009-10-22"
+"hep-th/9302023","Christian Preitschopf","L. Brink, T.H. Hansson, S. Konstein and M.A. Vasiliev","The Calogero Model - Anyonic Representation, Fermionic Extension and
+  Supersymmetry","24 pages, Latex, USITP-92-14, G{\""o}teborg ITP-92-53","Nucl.Phys. B401 (1993) 591-612","10.1016/0550-3213(93)90315-G",,"hep-th",,"  We discuss several applications and extensions of our previous operator
+solution of the $N$-body Calogero problem, \ie N particles in 1 dimension
+subject to a two-body interaction of the form $\half \sum_{i,j}[ (x_i - x_j)^2
++ g/ {(x_i - x_j)^2}]$. Using a complex representation of the deformed
+Heisenberg algebra underlying the Calogero model, we explicitly establish the
+equivalence between this system and anyons in the lowest Landau level. A
+construction based on supersymmetry is used to extend our operator method to
+include fermions, and we obtain an explicit solution of the supersymmetric
+Calogero model constructed by Freedman and Mende. We also show how the
+dynamical $OSp(2;2)$ supersymmetry is realized by bilinears of modified
+creation and annihilation operators, and how to construct a supersymmetic
+extension of the deformed Heisenberg algebra.
+","[{""version"":""v1"",""created"":""Sun, 7 Feb 1993 17:41:28 GMT""}]","2009-10-22"
+"hep-th/9302024",,"Shin'ichi Nojiri and Ichiro Oda","Black Hole from Black Hole in Two Dimensions","NDA-FP-10/93, OCHA-PP-33 pp13 LATEX",,,,"hep-th",,"  We present a new class of quantum two dimensional dilaton gravity model,
+which is described by $SL(2,R)/U(1)$ gauged Wess-Zumino-Witten model deformed
+by $(1,1)$-operator. We analyze the model by ${1 \over k}$ expansion ($k$ is
+the level of $SL(2,R)$ Wess-Zumino-Witten model) and we find that the curvature
+singularity does not appear when $k$ is large and the Bondi mass is bounded
+from below. Furthermore, the rate of the Hawking radiation in the quantum black
+hole created by shock wave goes to zero asymptotically and the radiation stops
+when the Bondi mass vanishes.
+","[{""version"":""v1"",""created"":""Mon, 8 Feb 1993 00:03:49 GMT""}]","2007-05-23"
+"hep-th/9302025","Christian Muenkel","Christian M\""unkel and Dieter W. Heermann","The Crumpling Transition of Dynamically Triangulated Random Surfaces","11pages (PostScript figures are not included. Request author
+  directly.), LaTeX, TPHD-930205",,"10.1051/jp1:1993184",,"hep-th cond-mat hep-lat",,"  We present the crumpling transition in three-dimensional Euclidian space of
+dynamically triangulated random surfaces with edge extrinsic curvature and
+fixed topology of a sphere as well as simulations of a dynamically triangulated
+torus. We used longer runs than previous simulations and give new and more
+accurate estimates of critical exponents. Our data indicate a cusp singularity
+in the specific heat. The transition temperature, as well as the exponents are
+topology dependent.
+","[{""version"":""v1"",""created"":""Mon, 8 Feb 1993 10:33:02 GMT""}]","2009-10-22"
+"hep-th/9302026","Daniel Cangemi, Mit","Daniel Cangemi and Roman Jackiw","Poincar\'e Gauge Theory for Gravitational Forces in (1+1) Dimensions","43 p., CTP#2165","Annals Phys. 225 (1993) 229-263","10.1006/aphy.1993.1058",,"hep-th gr-qc",,"  We discuss in detail how string-inspired lineal gravity can be formulated as
+a gauge theory based on the centrally extended Poincar\'e group in $(1+1)$
+dimensions. Matter couplings are constructed in a gauge invariant fashion, both
+for point particles and Fermi fields. A covariant tensor notation is developed
+in which gauge invariance of the formalism is manifest.
+","[{""version"":""v1"",""created"":""Mon, 8 Feb 1993 13:06:32 GMT""}]","2009-10-22"
+"hep-th/9302027","Cobi Sonnenschein","O. Aharony, O. Ganor, J. Sonnenschein and S. Yankielowicz","c=1 String Theory as a Topological G/G Model","19p","Phys.Lett.B305:35-42,1993","10.1016/0370-2693(93)91102-S",,"hep-th",,"  The physical states on the free field Fock space of the ${SL(2,R)\over
+SL(2,R)$ model at any level are computed. Using a similarity transformation on
+$Q_{BRST}$, the cohomology of the latter is mapped into a direct sum of simpler
+cohomologies. We show a one to one correspondence between the states of the
+$k=-1$ model and those of the $c=1$ string model. A full equivalence between
+the ${SL(2,R)\over SL(2,R)$ and ${SL(2,R)\over U(1)$ models at the level of
+their Fock space cohomologies is found.
+","[{""version"":""v1"",""created"":""Mon, 8 Feb 1993 13:27:29 GMT""}]","2019-08-15"

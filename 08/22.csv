@@ -1,0 +1,32 @@
+"chao-dyn/9308006",,"Giovannni Gallavotti (Dipartimento di Fisica, Universita' di Roma, P.
+  Moro 2, 00185, Roma)","Rotation Axis Variation Due To Spin Orbit Resonance","3 pages; e-mail gallavotti%40221.hepnet@lbl.gov",,,"93-2 FISROM","chao-dyn nlin.CD",,"  Rotation axis variation due to spin orbit resonance: conference report;
+keywords: planetary precession, rigid body, chaos, KAM, Arnold diffusion,
+averaging, celestial mechanics, classical mechanics, large deviations
+","[{""version"":""v1"",""created"":""Sun, 22 Aug 1993 14:31:00 GMT""}]","2008-02-03"
+"gr-qc/9308023","Stephen Parrott","Stephen Parrott","Energy Radiation of Charged Particles in Conformally Flat Spacetimes","21 pages, LaTeX, 3 figures, also LaTeX. The body of the paper,
+  originally posted in 1993, is unchanged. A 6-page appendix was added in 2000.
+  It discusses implications to the original arguments of subsequent work of
+  Sonego (J. Math. Phys. 40(1999), 3381-3394, and of Quinn and Wald (Phys. Rev.
+  D 60(1999). This latest revision involves only minor corrections and
+  stylistic changes",,,,"gr-qc",,"  Original abstract: Consider the worldline of a charged particle in a static
+spacetime. Contraction of the time-translation Killing field with the retarded
+electromagnetic energy-momentum tensor gives a conserved electromagnetic energy
+vector which can be used to define the radiated electromagnetic energy. This
+note points out that for a conformally flat spacetime, the radiated energy is
+the same as for a flat spacetime (i.e. Minkowski space). This appears to be
+inconsistent with an equation of motion for such particles derived by DeWitt
+and Brehme and later corrected by Hobbs [End of original abstract]
+  New abstract: Same as old abstract with last sentence deleted. The body of
+the paper is the same as previously. A new Appendix 2 has been added discussing
+implications to the previous arguments of recent work of Sonego (J. Math. Phys.
+40 (1999), 3381-3394) and of Quinn and Wald (Phys. Rev. D 60 (1999),
+gr-qc/9610053).
+","[{""version"":""v1"",""created"":""Sun, 22 Aug 1993 07:47:22 GMT""},{""version"":""v2"",""created"":""Thu, 20 Jul 2000 21:24:34 GMT""},{""version"":""v3"",""created"":""Sun, 20 Apr 2003 23:05:53 GMT""}]","2008-02-03"
+"hep-ph/9308316","Steve Riemersma","S. Riemersma and R. Meng","B-Quark Production at Hadron Colliders","LaTeX 9 pages with 6 uuencoded figures at the end, SMU HEP 93-08,
+  AL-HEP-CP-93-66",,,,"hep-ph",,"  Results for b-quark production at hadron colliders, both current and
+proposed, are presented. Distributions in $p_t$ are presented for the TeVatron
+and SSC. Confirmation of agreement between the ${\cal O}(\alpha_S^3)$
+calculations and UA1 data is presented, and the discrepancy between the ${\cal
+O}(\alpha_S^3)$ calculations and the CDF results is updated with the most
+recent data.
+","[{""version"":""v1"",""created"":""Sat, 21 Aug 1993 22:38:55 GMT""}]","2007-05-23"

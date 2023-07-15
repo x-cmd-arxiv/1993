@@ -1,0 +1,145 @@
+"alg-geom/9302001",,"Marco Andreatta, Jaros{\l}aw A. Wi\'sniewski","A note on non-vanishing and applications","17 pages, Plain Tex",,,,"alg-geom math.AG",,"  Let $X$ be a normal variety over the field of complex numbers with log
+terminal singularities and the canonical divisor $K_X$ being ${\bf
+Q}$-Gorenstein. Assume that $L$ is an ample line bundle over $X$ and $\phi:
+X\to Y$ is a morphism supported by $K_X+rL$ for some positive rational number
+$r$. In the present paper we study the evaluation $\phi^*\phi_*(L)\to L$ and
+the locus of points where it is not surjective which we call relative base
+point locus of $L$. In particular, we prove that, if the dimension of a fiber
+of $\phi$ is small with respect to $r$ then the relative base point locus does
+not meet the fiber. Consequently, in this case, we discuss the structure of the
+map $\phi$ for a smooth $X$.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 13:48:52 GMT""}]","2008-02-03"
+"cond-mat/9302001","James Sauls","Ross H. McKenzie and J. A. Sauls","Comment on the Coupling of Zero Sound to the $J=1^-$ Modes of $^3$He-B","6 pages (Tex with jnl.tex)","J. Low Temp. Phys. 90 (1993) 337","10.1007/BF00681885",,"cond-mat",,"  Features in the zero sound attenuation near the pair-breaking edge in
+superfluid $^3$He-B have been observed in large magnetic fields. Schopohl and
+Tewordt [{\sl J. Low Temp. Phys.} {\bf 57}, 601 (1984)] claim that the $J=1^-,
+M=\pm 1$ order-parameter collective modes couple to zero sound as a result of
+the distortion of the equilibrium order parameter by a magnetic field; they
+identify the new features with these modes. However, we show that, when the
+effect of gap distortion on the collective modes is properly taken into
+account, the collective mode equations of Schopohl and Tewordt yield no direct
+coupling of zero sound to the $J=1^-$ modes. Thus, the identification of the
+absorption features reported by Ling, Saunders and Dobbs [{\sl Phys. Rev.
+Lett.} {\bf 59}, 461 (1987)] near the pair-breaking edge with the $J=1^-$ modes
+is not clearly established.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 09:18:00 GMT""}]","2009-10-22"
+"gr-qc/9301024",,"J. Audretsch, A. Economou and C.O. Lousto","Topological Defects in Gravitational Theories with Non Linear
+  Lagrangians","LaTeX (uses revrex macros), 13 pages","Phys.Rev. D47 (1993) 3303-3311","10.1103/PhysRevD.47.3303",,"gr-qc astro-ph hep-th",,"  The gravitational field of monopoles, cosmic strings and domain walls is
+studied in the quadratic gravitational theory $R+\alpha R^2$ with $\alpha
+|R|\ll 1$, and is compared with the result in Einstein's theory. The metric
+aquires modifications which correspond to a short range `Newtonian' potential
+for gauge cosmic strings, gauge monopoles and domain walls and to a long range
+one for global monopoles and global cosmic strings. In this theory the
+corrections turn out to be attractive for all the defects. We explain, however,
+that the sign of these corrections in general depends on the particular higher
+order derivative theory and topological defect under consideration. The
+possible relevance of our results to the study of the evolution of topological
+defects in the early universe is pointed out.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 15:38:31 GMT""}]","2016-08-31"
+"gr-qc/9302001","Dadhich","L. K. Patel and N. Dadhich","Singularity Free Inhomogeneous Cosmological Stiff Fluid Models","Plain TeX, 6 Pages, IUCAA preprint IUCAA- 1/93",,,,"gr-qc",,"  We present a singularity free class of inhomogeneous cylindrical universes
+filled with stiff perfect fluid $(\rho = p)$. Its matter free $ (\rho = 0)$
+limit yield two distinct vacuum spacetimes which can be considered as analogues
+of Kasner solution for inhomogeneous singularity free spacetime.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 14:40:16 GMT""}]","2007-05-23"
+"hep-lat/9301022",,"Apoorva Patel","Recent Developments in Lattice QCD","35 pages, 4 figures (Figures are excerpted from others' work and are
+  not included) Uses harvmac.tex","Pramana 41:S139-S165,1993","10.1007/BF02908081",,"hep-lat hep-ph",,"  I review the current status of lattice QCD results. I concentrate on new
+analytical developments and on numerical results relevant to phenomenology.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 04:58:58 GMT""}]","2015-06-25"
+"hep-ph/9301294","Kevin Eric Cahill","Kevin Cahill","A More-Effective Potential","32 pages and 3 figures (The present revision generalizes the original
+  treatment to the case of an arbitrary quartic potential $V(\phi)$.), LaTeX,
+  postscript","Phys.Rev. D52 (1995) 4704-4717","10.1103/PhysRevD.52.4704",,"hep-ph",,"  In theories with spontaneous symmetry breaking, the loop expansion of the
+effective potential is awkward. In such theories, the exact effective potential
+$V(\phi_c,T)$ is real and convex (as a function of the classical field
+$\phi_c$), but its perturbative series can be complex with a real part that is
+concave. These flaws limit the utility of the effective potential, particularly
+in studies of the early universe. A generalization of the effective potential
+is available that is real, that has no obvious convexity problems, and that can
+be computed in perturbation theory. For the theory with classical potential
+$V(\phi) = (\lambda/4)(\phi^2 - \sigma^2)^2$, this more-effective potential
+closely tracks the usual effective potential where the latter is real $|\phi_c|
+\geq \sigma/\sqrt{3}$ and naturally extends it to $\phi_c = 0$, revealing that
+the critical temperature at the one-loop level runs from $T_C \approx 1.81
+\sigma$ for $\lambda = 0.1$ to $T_C \approx 1.74 \sigma$ for $\lambda = 1$.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 06:15:11 GMT""},{""version"":""v2"",""created"":""Tue, 7 Sep 1993 22:24:35 GMT""},{""version"":""v3"",""created"":""Fri, 20 May 1994 06:23:00 GMT""}]","2009-10-22"
+"hep-ph/9301295","Mannque Rho","Tae-Sun Park, Dong-Pil Min and Mannque Rho","Chiral Dynamics and Heavy-Fermion Formalism in Nuclei: I. Exchange Axial
+  Currents","LATEX, 55 pages (11 figures not included, supplied upon
+  request);SNUTP 92-97","Phys.Rept.233:341-395,1993","10.1016/0370-1573(93)90099-Y",,"hep-ph nucl-th",,"  Chiral perturbation theory in heavy-fermion formalism is developed for
+meson-exchange currents in nuclei and applied to nuclear axial- charge
+transitions. Calculation is performed to the next-to-leading order in chiral
+expansion which involves graphs up to one loop. The result turns out to be very
+simple. The previously conjectured notion of ""chiral filter mechanism"" in the
+time component of the nuclear axial current and the space component of the
+nuclear electromagnetic current is verified to that order. As a consequence,
+the phenomenologically observed soft-pion dominance in the nuclear process is
+given a simple interpretation in terms of chiral symmetry in nuclei. In this
+paper, we focus on the axial current, relegating the EM current which can be
+treated in a similar way to a separate paper. We discuss the implication of our
+result on the enhanced axial-charge transitions observed in heavy nuclei and
+clarify the relationship between the phenomenological meson-exchange
+description and the chiral Lagrangian description.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 14:31:51 GMT""}]","2010-04-06"
+"hep-ph/9301296",,"X. Artru","Probes of parton transversity","4 pages, Tex, 3 figures (gathered in one and appended as Postscript
+  file), LYCEN/9301",,,,"hep-ph",,"  An inventory is made of the experiments which can measure the transversely
+polarized quark distributions and fragmentation functions at leading twist.
+(Contribution to the 10th International Symposium on High Energy Spin Physics,
+Nagoya, Japan, Nov. 9-14, 1992)
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 15:04:24 GMT""},{""version"":""v2"",""created"":""Tue, 2 Feb 1993 11:10:55 GMT""}]","2008-02-03"
+"hep-th/9301131",,"D. Depireux and P. Mathieu","Integrable Supersymmetry Breaking Perturbations of N=1,2 Superconformal
+  Minimal Models","10 pages (harvmac), LAVAL PHY-20-93","Phys.Lett. B308 (1993) 272-278","10.1016/0370-2693(93)91284-T",,"hep-th",,"  We display a new integrable perturbation for both N=1 and N=2 superconformal
+minimal models. These perturbations break supersymmetry explicitly. Their
+existence was expected on the basis of the classification of integrable
+perturbations of conformal field theories in terms of distinct classical KdV
+type hierarchies sharing a common second Hamiltonian structure.
+","[{""version"":""v1"",""created"":""Sun, 31 Jan 1993 19:57:47 GMT""}]","2009-10-22"
+"hep-th/9301132","El Gradechi Mohamed Amine","Amine M. El Gradechi","On the Supersymplectic Homogeneous Superspace Underlying the OSp(1/2)
+  Coherent States","19 pgs, PlainTeX, Preprint CRM-1850","J.Math.Phys. 34 (1993) 5951-5963","10.1063/1.530242",,"hep-th",,"  In this work we extend Onofri and Perelomov's coherent states methods to the
+recently introduced $OSp(1/2)$ coherent states. These latter are shown to be
+parametrized by points of a supersymplectic supermanifold, namely the
+homogeneous superspace $OSp(1/2)/U(1)$, which is clearly identified with a
+supercoadjoint orbit of $OSp(1/2)$ by exhibiting the corresponding equivariant
+supermoment map. Moreover, this supermanifold is shown to be a nontrivial
+example of Rothstein's supersymplectic supermanifolds. More precisely, we show
+that its supersymplectic structure is completely determined in terms of
+$SU(1,1)$-invariant (but unrelated) K\""ahler $2$-form and K\""ahler metric on
+the unit disc. This result allows us to define the notions of a superK\""ahler
+supermanifold and a superK\""ahler superpotential, the geometric structure of
+the former being encoded into the latter.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 01:42:56 GMT""}]","2009-10-22"
+"hep-th/9302001","Cesar Gomez","A.Berkovich, C.Gomez, G.Sierra","Spin-Anisotropy Commensurable Chains: Quantum Group Symmetries and N=2
+  SUSY","IMAFF 1/93, latex, 54 pages, 4 figures","Nucl.Phys. B415 (1994) 681-733","10.1016/0550-3213(94)90307-7",,"hep-th",,"  In this paper we consider a class of the 2D integrable models. These models
+are higher spin XXZ chains with an extra condition of the commensurability
+between spin and anisotropy. The mathematics underlying this commensurability
+is provided by the quantum groups with deformation parameter being an Nth root
+of unity. Our discussion covers a range of topics including new integrable
+deformations, thermodynamics, conformal behaviour, S-matrices and
+magnetization. The emerging picture strongly depends on the N-parity. For the N
+even case at the commensurable point, S-matrices factorize into N=2
+supersymmetric Sine-Gordon matrix and an RSOS piece. The physics of the N odd
+case is rather different. Here, the supersymmetry does not manifest itself and
+the bootstrap hypothesis fails. Away from the commensurable point, we find an
+unusual behaviour. The magnetization of our chains depends on the sign of the
+external magnetic field.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 14:57:02 GMT""}]","2009-10-22"
+"nucl-th/9301021",,"S.J. Lee and A.Z.Mekjian","Self-Similarity and Scaling Behavior in Nuclear Collision","51 pages in LATEX, 14 figures (available form the authors), RU-92-07,
+  to appear in Phys. Rev. C","Phys.Rev.C47:2266-2287,1993","10.1103/PhysRevC.47.2266",,"nucl-th",,"  A simple model is used to explore issues related to self-similarity,
+intermittency and scaling behavior in nuclear collisions. Both scaled factorial
+moments and power moments are considered in the investigation of these
+features. The product mass yields are used to construct probability
+distributions and generalized Renyi entropies. The scaling properties of the
+resulting Renyi entropies are studied. Both exponential and power law behavior
+are found. A discussion of dimensions associated with these scaling properties
+is also given. An analysis of some experimental data is presented.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 13:42:00 GMT""}]","2008-11-26"
+"nucl-th/9301022",,"A.Z. Mekjian and S.J. Lee","Geometry, Scaling and Universality in the Mass Distributions in Heavy
+  Ion Collisions","29 pages in REVTEX, 9 figures (available from the authors), RU-92-07","Phys.Rev.C48:2999-3010,1993","10.1103/PhysRevC.48.2999",,"nucl-th",,"  Various features of the mass yields in heavy ion collisions are studied. The
+mass yields are discussed in terms of iterative one dimensional discrete maps.
+These maps are shown to produce orbits for a monomer or for a nucleus which
+generate the mass yields and the distribution of cluster sizes. Simple
+Malthusian dynamics and non-linear Verhulst dynamics are used to illustrate the
+approach. Nuclear cobwebbing, attractors of the dynamics, and Lyapanov
+exponents are discussed for the mass distribution. The self-similar property of
+the Malthusian orbit offers a new variable for the study of scale invariance
+using power moments of the mass distribution. Correlation lengths, exponents
+and dimensions associated with scaling relations are developed. Fourier
+transforms of the mass distribution are used to obtain power spectra which are
+investigated for a $1/f^{\beta}$ behavior.
+","[{""version"":""v1"",""created"":""Mon, 1 Feb 1993 14:16:00 GMT""}]","2008-11-26"

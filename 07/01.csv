@@ -1,0 +1,265 @@
+"astro-ph/9306030",,"Andrew M Laycock and Andrew R Liddle","Extended Inflation with a Curvature-Coupled Inflaton","24 pages, LaTeX (no figures), to appear, Physical Review D,
+  mishandling of the solar system constraint on extended gravity theories
+  corrected, SUSSEX-AST 93/6-1","Phys.Rev. D49 (1994) 1827-1839","10.1103/PhysRevD.49.1827",,"astro-ph gr-qc",,"  We examine extended inflation models enhanced by the addition of a coupling
+between the inflaton field and the space-time curvature. We examine two types
+of model, where the underlying inflaton potential takes on second-order and
+first-order form respectively. One aim is to provide models which satisfy the
+solar system constraints on the Brans--Dicke parameter $\omega$. This
+constraint has proven very problematic in previous extended inflation models,
+and we find circumstances where it can be successfully evaded, though the
+constraint must be carefully assessed in our model and can be much stronger
+than the usual $\omega > 500$. In the simplest versions of the model, one may
+avoid the need to introduce a mass for the Brans--Dicke field in order to
+ensure that it takes on the correct value at the present epoch, as seems to be
+required in hyperextended inflation. We also briefly discuss aspects of the
+formation of topological defects in the inflaton field itself.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 16:22:00 GMT""},{""version"":""v2"",""created"":""Fri, 23 Jul 1993 08:07:00 GMT""},{""version"":""v3"",""created"":""Mon, 20 Dec 1993 15:55:00 GMT""}]","2009-10-22"
+"astro-ph/9307001","Michael Strauss","Karl B. Fisher, Marc Davis, Michael A. Strauss, Amos Yahil, and John
+  Huchra","Clustering in the 1.2 Jy IRAS Galaxy Redshift Survey I: The Redshift and
+  Real Space Correlation Functions","23 pages. uuencoded compressed postscript; 12 figures included. 460
+  kbytes","Mon.Not.Roy.Astron.Soc. 266 (1994) 50","10.1093/mnras/266.1.50",,"astro-ph",,"  We present analyses of the two-point correlation function derived from an
+all-sky redshift survey of 5313 galaxies extracted from the Infrared
+Astronomical Satellite (IRAS) database. The redshift space correlation function
+\xi(s) is well described by a power law, $\xi(s) = (s/4.53h^{-1}{\rm
+Mpc})^{-1.28}$, on scales \simlt 20\mpc; on larger scales \xi(s) drops below
+the extension of this power law. We examine the effect of redshift space
+distortions on the correlation function and compute the full two dimensional
+correlation function \xi(r_p,\pi). From this, we derive the real space
+correlation function, which is well described by $\xi(r) = (r/3.76h^{-1}{\rm
+Mpc})^{-1.66}$ on scales \simlt 20\mpc. The derived correlation functions are
+found to be consistent with previous determinations in the literature, and seem
+to show more power on large scales than predicted by the standard Cold Dark
+Matter (CDM) model. Comparison of the derived \xi(r) with the correlation
+function of optical galaxies implies an optical to IRAS bias ratio of $b_O/b_I
+= 1.38\pm 0.12$ on a scale of $\sim 8$\mpc . The variances in cubical cells
+inferred from \xi(s) appear discrepant with the previously reported results of
+Efstathiou et al. (1990).
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 14:48:58 GMT""}]","2015-06-24"
+"gr-qc/9307001","Rainer Mueller","R. Mueller and Carlos O. Lousto","Recovery of information from black hole radiation by considering
+  stimulated emission","Latex, 9 pages, 2 figures appended as postscript files","Phys.Rev. D49 (1994) 1922-1928","10.1103/PhysRevD.49.1922",,"gr-qc hep-th",,"  We deal with the black hole information loss paradox by showing that the
+stimulated emission component of the black hole radiation contains information
+about the initial state of the system. The nonlocal behaviour that allows the
+recovery of information about the matter that falls behind the horizon appears
+in a natural way. We calculate the expectation value and probability
+distribution of particles at ${\cal J}^+$ for a non-vacuum initial state. The
+entropy of the final state is compared to that of a thermal state with the same
+energy per mode. We find that the information recovered about the initial state
+increases with the number $r$ of the initially incoming particles, reaching for
+example over 30\% for $r = 1000$. We point out that recovering information
+about the initial state, nevertheless, does not automatically imply the purity
+of the final state.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 14:45:03 GMT""},{""version"":""v2"",""created"":""Thu, 21 Oct 1993 09:46:54 GMT""}]","2009-10-22"
+"hep-ph/9306335",,"Stuart Raby","Deducing L_{fermion} at M_{GUT} using Low Energy Data or Towards a
+  Theory of Fermion Masses","14 pages, Talk presented at the HARC Workshop on Recent Advances in
+  the Superworld, Houston, Texas, April 14-16, 1993, OHSTPY-HEP-T-93007",,,,"hep-ph",,"  In the last 20 years we have accumulated an enormous amount of data on
+elementary particles and their interactions. This data serves two purposes: to
+fix the phenomenological parameters of the Standard Model [SM] and to verify
+that the SM is an excellent description of nature. It is our goal to understand
+the origin of these many arbitrary parameters. In this talk we consider a
+supersymmetric [SUSY] SO(10) grand unified theory [GUT]. We present a
+straightforward procedure, incorporating a general operator analysis, which
+allows us to use low energy data to determine the fermionic sector of the
+theory at the GUT scale.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 22:00:00 GMT""}]","2007-05-23"
+"hep-ph/9306336",,"H. Lew and A. Riotto","Baryogenesis through Collapsing String Loops in Gauged Baryon and Lepton
+  Models","21 pages, LaTeX, PURD-TH-93-09, SISSA 87/93/A","Phys.Rev.D49:3837-3843,1994","10.1103/PhysRevD.49.3837",,"hep-ph",,"  A scenario for the generation of the baryon asymmetry in the early Universe
+is proposed in which cosmic string loops, predicted by theories where the
+baryon and/or lepton numbers are gauged symmetries, collapse during the
+friction dominated period of string evolution. This provides a mechanism for
+the departure from thermal equilibrium necessary to have a nonvanishing baryon
+asymmetry. Examples of models are given where this idea can be implemented. In
+particular, the model with the gauge symmetry $SU(3)_{c}\otimes
+SU(2)_{L}\otimes U(1)_{Y}\otimes U(1)_{B} \otimes U(1)_{L}$ has the interesting
+feature where sphaleron processes do not violate the baryon and lepton numbers
+so that no wash out of any initial baryon asymmetry occurs at the electroweak
+scale.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 22:09:52 GMT""}]","2009-12-30"
+"hep-ph/9306337","Giovanni","S. Frixione, M. Mangano, P. Nason and G. Ridolfi","Heavy Quark Correlations in Photon-Hadron Collisions","34 pages (LaTex) + 15 figures (topdrawer, included at the end)
+  CERN-TH 6921/93, GEF-TH-15/1993","Nucl.Phys.B412:225-259,1994","10.1016/0550-3213(94)90501-0",,"hep-ph",,"  We describe a next-to-leading-order calculation of the fully exclusive parton
+cross section for the photoproduction of heavy quarks. We use our result to
+compute quantities of interest for current fixed-target experiments. We discuss
+heavy-quark total cross sections, distributions and correlations.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 06:18:50 GMT""}]","2011-01-25"
+"hep-ph/9307201",,"Howard E. Haber and Ralf Hempfling","The Renormalization-Group Improved Higgs Sector of the Minimal
+  Supersymmetric Model","51 pages, SCIPP-91/33 (July, 1992; revised June, 1993), PHYZZX
+  macropackage","Phys.Rev. D48 (1993) 4280-4309","10.1103/PhysRevD.48.4280",,"hep-ph",,"  In the minimal supersymmetric model (MSSM) all Higgs self-coupling parameters
+are related to gauge couplings at tree-level. Leading-logarithmic radiative
+corrections to these quantities can be summed using renormalization group
+techniques. By this procedure we obtain complete leading-log radiative
+corrections to the Higgs masses, the CP-even Higgs mixing angle, and trilinear
+Higgs couplings. Additional corrections due to squark mixing can be explicitly
+incorporated into this formalism. These results incorporate nearly all
+potentially large corrections. Mass shifts to the neutral CP-even Higgs bosons
+grow with the fourth power of the top-quark mass and can be significant. The
+phenomenological consequences of these results are examined.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 08:44:00 GMT""}]","2009-10-22"
+"hep-ph/9307202","Wolfgang Moedritsch","W.Kummer and W. M\""odritsch","Toponium as Nonabelian Positronium ?","34 pages, LaTex (Feynman packages needed), TUW-93-13",,,,"hep-ph",,"  The expected large mass $m_t$ of the top quark provides for the first time a
+chance to discuss the bound-states of the corresponding quantum system as the
+nonabelian generalization of positronium, using the full power of relativistic
+quantum field theoretic methods which are available for weakly bound systems.
+Thus our approach differs in principle from the one used in the vast
+phenomenological literature on quarkonium potentials. We emphasize especially
+the corrections of energy levels which are of order $\a^4 m_t$ or numerically
+comparable to that order, and which have no counterpart in the 'relativistic'
+corrections of QED. In contrast to previous computations we give analytic
+expressions for all contributions considered in our present work, hopefully
+preparing the ground for further similar calculations.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 13:59:33 GMT""}]","2007-05-23"
+"hep-ph/9307203","Mark Hindmarsh","Mark Hindmarsh, Robert Brandenberger, and Anne-Christine Davies","Formation of Topological Defects at First Order Phase Transitions","(PP 18, 2 Figures appended in postscript format, needs phyzzx.tex)
+  DAMTP-93-13, BROWN-HET-902","Phys.Rev.D49:1944-1950,1994","10.1103/PhysRevD.49.1944",,"hep-ph",,"  We analyze the evolution of scalar and gauge fields during first order phase
+transitions and show how the Kibble mechanism for the formation of topological
+defects emerges from the underlying dynamics, paying particular attention to
+problems posed by gauge invariance when a local symmetry is spontaneously
+broken. We discuss also the application of the mechanism to semilocal defects
+and electroweak strings.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 13:34:00 GMT""}]","2011-07-19"
+"hep-ph/9307205","Mark Hindmarsh","Mark Hindmarsh and Margaret James","The Origin of the Sphaleron Dipole Moment","13pp Plain TeX, 2 ps figures in 2 files, self-unpacking uuencoded.
+  (Tidied up, discussion of 't Hooft definition of electromagnetic charge, and
+  2 nice new figures showing charge and current distributions inside the
+  sphaleron.)","Phys.Rev. D49 (1994) 6109-6114","10.1103/PhysRevD.49.6109",,"hep-ph",,"  By providing a suitable definition of the electromagnetic field off the Higgs
+vacuum, we show that within the sphaleron there is a monopole-antimonopole pair
+with quantized charges, and a loop of electromagnetic current. On integration
+of the relevant charges and currents over the interior in the limit of small
+$\Theta_W$, we recover the standard formula for the sphaleron dipole moment.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 14:15:00 GMT""},{""version"":""v2"",""created"":""Wed, 9 Feb 1994 15:15:36 GMT""}]","2009-10-22"
+"hep-th/9306162","Juergen Fuchs","J. Fuchs","Fusion rules in conformal field theory","68 pages, LaTeX. changed contents of footnote no. 9","Fortsch.Phys. 42 (1994) 1-48","10.1002/prop.2190420102",,"hep-th",,"  Several aspects of fusion rings and fusion rule algebras, and of their
+manifestations in twodimensional (conformal) field theory, are described:
+diagonalization and the connection with modular invariance; the presentation in
+terms of quotients of polynomial rings; fusion graphs; various strategies that
+allow for a partial classification; and the role of the fusion rules in the
+conformal bootstrap programme.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 16:28:02 GMT""},{""version"":""v2"",""created"":""Fri, 9 Jul 1993 15:56:20 GMT""}]","2009-10-22"
+"hep-th/9306163",,"Ch. Devchand and V. Ogievetsky","The matreoshka of supersymmetric self-dual theories","19 pages, Bonn-HE-93-23","Nucl.Phys. B414 (1994) 763-782","10.1016/0550-3213(94)90260-7",,"hep-th",,"  Extended super self-dual systems have a structure reminiscent of a
+``matreoshka''. For instance, solutions for N=0 are embedded in solutions for
+N=1, which are in turn embedded in solutions for N=2, and so on. Consequences
+of this phenomenon are explored. In particular, we present an explicit
+construction of local solutions of the higher-N super self-duality equations
+starting from any N=0 self-dual solution. Our construction uses N=0 solution
+data to produce N=1 solution data, which in turn yields N=2 solution data, and
+so on; each stage introducing a dependence of the solution on sufficiently many
+additional arbitrary functions to yield the most general supersymmetric
+solution having the initial N=0 solution as the helicity +1 component. The
+problem of finding the general local solution of the $N>0$ super self-duality
+equations therefore reduces to finding the general solution of the usual (N=0)
+self-duality equations. Another consequence of the matreoshka phenomenon is the
+vanishing of many conserved currents, including the supercurrents, for super
+self-dual systems.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 16:29:41 GMT""}]","2009-10-22"
+"hep-th/9306164","Jos\'e M. Figueroa-O'Farrill","Jos\'e M. Figueroa-O'Farrill","Affine Algebras, $N{=}2$ Superconformal Algebras, and Gauged WZNW Models","13 pages, Plain TeX, BONN-HE-93-20. (A note added and a minor change
+  at the end of section 3; v4: solved legacy compilation problems)","Phys.Lett. B316 (1993) 496-502","10.1016/0370-2693(93)91034-K",,"hep-th","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We find a canonical $N{=}2$ superconformal algebra (SCA) in the BRST complex
+associated to any affine Lie algebra $\hat{\mathbf{h}}$ with $\mathbf{h}$
+semisimple. In contrast with the similar known results for the Virasoro,
+$N{=}1$ supervirasoro, and $W_3$ algebras, this SCA does not depend on the
+particular ""matter"" representation chosen. Therefore it follows that every
+gauged WZNW model with data $(\mathbf{g}\supset\mathbf{h}, k)$ has an $N{=}2$
+SCA with central charge $c=3\dim\mathbf{g}$ independent of the level $k$. In
+particular, this associates to every embedding $sl(2) \subset \mathbf{g}$ a
+one-parameter family of $c{=}9$ $N{=}2$ supervirasoro algebras. As a by-product
+of the construction, one can deduce a new set of ""master equations"" for
+generalized $N{=}2$ supervirasoro constructions which is simpler than the one
+considered thus far.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 18:17:20 GMT""},{""version"":""v2"",""created"":""Thu, 1 Jul 1993 19:58:07 GMT""},{""version"":""v3"",""created"":""Sun, 4 Jul 1993 20:33:45 GMT""},{""version"":""v4"",""created"":""Fri, 16 Oct 2020 12:36:06 GMT""}]","2020-10-19"
+"hep-th/9307001","Bern","Z. Bern, D.C. Dunbar, and T. Shimada","String-Based Methods in Perturbative Gravity","14 pages (including figure), IASSNS-HEP-93-31","Phys.Lett.B312:277-284,1993","10.1016/0370-2693(93)91081-W",,"hep-th hep-ph",,"  String theory implies a relatively modest growth in computational complexity
+for perturbative gravity calculations as compared to gauge theory calculations,
+contrary to field theory expectations. An explicit string-based calculation,
+which would be extremely difficult using conventional techniques, is presented
+to illustrate this.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 06:33:38 GMT""}]","2011-09-29"
+"hep-th/9307002","Ignatios Antoniadis","I. Antoniadis","Review of free-fermionic 4d string models","12 pages, CPTH-C256.0693 (Based on talks presented at the SUSY-93
+  International Workshop, Boston, March 29 - April 1, 1993, and at the XVI
+  Kazimierz Meeting on Elementary Particle Physics, Kazimierz, Poland, 24-28
+  May 1993)",,,,"hep-th hep-ph",,"  I review the main properties of four-dimensional strings constructed with
+free-fermions on the world-sheet. In particular I discuss possible model
+independent low energy predictions related to the existence of states with
+fractional electric charges, the computation of the string unification scale,
+the string model building, and the perturbative approach to supersymmetry
+breaking which makes the spectacular prediction of a new large dimension at the
+TeV scale.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 12:16:39 GMT""}]","2007-05-23"
+"hep-th/9307003","Carlos Aragone","C. Aragone & P.J. Arias & A. Khoudeir","Massive Vector Chern-Simons Gravity","7, SB/F/192-92","NuovoCim.B109:303-310,1994","10.1007/BF02727291",,"hep-th",,"  We present a second order gravity action which consists of ordinary Einstein
+action augmented by a first-order, vector like, Chern-Simons quasi topological
+term.This theory is ghost-free and propagates a pure spin-2 mode. It is
+diffeomorphism invariant, although its local Lorentz invariance has been
+spontaneously broken.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 22:19:59 GMT""}]","2008-11-26"
+"hep-th/9307004","Carlos Aragone","C. Aragone & A. Khoudeir","Self-Dual Spin-3 And 4 Theories","10, IC/91-204",,,,"hep-th",,"  We present self-dual spin-3 and 4 actions using relevant dreibein fields.
+since these actions start with a Chern-Simons like kinetic term (and therefore
+cannot be obtained through dimensional reduction) one might wonder whether they
+need the presence of auxiliary ghost-killings fields. It turns out that they
+must contain, also in this three dimensional case, auxiliary fields. They do
+not break self-duality: their free actions do not contain kinetic second order
+terms.
+","[{""version"":""v1"",""created"":""Wed, 30 Jun 1993 22:38:37 GMT""}]","2007-05-23"
+"math/9307225",,"Raymond C. Heitmann","A counterexample to the rigidity conjecture for rings","4 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 94-97",,"Bulletin migration 11/99","math.AC",,"  An example is constructed of a local ring and a module of finite type and
+finite projective dimension over that ring such that the module is not rigid.
+This shows that the rigidity conjecture is false.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9307226",,"David A. Hoffman","Adding handles to the helicoid","8 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 77-84",,"Bulletin migration 11/99","math.DG",,"  There exist two new embedded minimal surfaces, asymptotic to the helicoid.
+One is periodic, with quotient (by orientation-preserving translations) of
+genus one. The other is nonperiodic of genus one.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9307227","Frank Quinn","Arthur Jaffe, Frank Quinn","``Theoretical mathematics'': Toward a cultural synthesis of mathematics
+  and theoretical physics","13 pages","Bull.Am.Math.Soc. 29 (1993) 1-13",,"Bulletin migration 11/99","math.HO",,"  Is speculative mathematics dangerous? Recent interactions between physics and
+mathematics pose the question with some force: traditional mathematical norms
+discourage speculation, but it is the fabric of theoretical physics. In
+practice there can be benefits, but there can also be unpleasant and
+destructive consequences. Serious caution is required, and the issue should be
+considered before, rather than after, obvious damage occurs. With the hazards
+carefully in mind, we propose a framework that should allow a healthy and
+positive role for speculation.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9307228","Stephen Yau","Tan Jiang, Stephen S.-T. Yau","Topological invariance of intersection lattices of arrangements in CP^2","6 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 88-93",,"Bulletin migration 11/99","math.GT math.AG",,"  Let $\scr A^*=\{l_1,l_2,\cdots,l_n\}$ be a line arrangement in $\Bbb{CP}^2$,
+i.e., a collection of distinct lines in $\Bbb{CP}^2$. Let $L(\scr A^*)$ be the
+set of all intersections of elements of $A^*$ partially ordered by $X\leq
+Y\Leftrightarrow Y\subseteq X$. Let $M(\scr A^*)$ be $\Bbb{CP}^2-\bigcup\scr
+A^*$ where $\bigcup\scr A^*= \bigcup\{l_i\colon\ 1\leq i\leq n\}$. The central
+problem of the theory of arrangement of lines in $\Bbb{CP}^2$ is the
+relationship between $M(\scr A^*)$ and $L(\scr A^*)$.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9307229",,"Jeff Kahn, Gil Kalai","A counterexample to Borsuk's conjecture","3 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 60-62",,"Bulletin migration 11/99","math.MG math.CO",,"  Let $f(d)$ be the smallest number so that every set in $R^d$ of diameter 1
+can be partitioned into $f(d)$ sets of diameter smaller than 1. Borsuk's
+conjecture was that $f(d)\! =\!d\!+\!1$. We prove that $f(d)\! \ge\!
+(1.2)^{\sqrt d}$ for large~$d$.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9307230","Peter Kronheimer","Peter B. Kronheimer","The genus-minimizing property of algebraic curves","7 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 63-69",,"Bulletin migration 11/99","math.GT math.DG",,"  A viable and still unproved conjecture states that, if $X$ is a smooth
+algebraic surface and $C$ is a smooth algebraic curve in $X$, then $C$ realizes
+the smallest possible genus amongst all smoothly embedded $2$-manifolds in its
+homology class. A proof is announced here for this conjecture, for a large
+class of surfaces $X$, under the assumption that the normal bundle of $C$ has
+positive degree.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9307231","Barry Mazur","Barry Mazur","On the passage from local to global in number theory","37 pages. Abstract added in migration.","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 14-50",,"Bulletin migration 11/99","math.NT math.AG",,"  The author surveys the problem of piecing together integral or rational
+solutions to Diophantine equations (global structure) from solutions modulo
+congruences and real solutions (local structure).
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9307232",,"Norbert Riedel","Absence of Cantor spectrum for a class of Schr\""odinger operators","3 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 85-87",,"Bulletin migration 11/99","math.SP math.CV",,"  It is shown that the complete localization of eigenvectors for the almost
+Mathieu operator entails the absence of Cantor spectrum for this operator.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9307233","Lee Rudolph","Lee Rudolph","Quasipositivity as an obstruction to sliceness","9 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 51-59",,"Bulletin migration 11/99","math.GT",,"  For an oriented link $L \subset S^3 = \Bd\!D^4$, let $\chi_s(L)$ be the
+greatest Euler characteristic $\chi(F)$ of an oriented 2-manifold $F$ (without
+closed components) smoothly embedded in $D^4$ with boundary $L$. A knot $K$ is
+{\it slice} if $\chi_s(K)=1$. Realize $D^4$ in $\C^2$ as
+$\{(z,w):|z|^2+|w|^2\le1\}$. It has been conjectured that, if $V$ is a
+nonsingular complex plane curve transverse to $S^3$, then $\chi_s(V\cap
+S^3)=\chi(V\cap D^4)$. Kronheimer and Mrowka have proved this conjecture in the
+case that $V\cap D^4$ is the Milnor fiber of a singularity. I explain how this
+seemingly special case implies both the general case and the ``slice-Bennequin
+inequality'' for braids. As applications, I show that various knots are not
+slice (e.g., pretzel knots like $\Pscr(-3,5,7)$; all knots obtained from a
+positive trefoil $O\{2,3\}$ by iterated untwisted positive doubling). As a
+sidelight, I give an optimal counterexample to the ``topologically locally-flat
+Thom conjecture''.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 00:00:00 GMT""},{""version"":""v2"",""created"":""Fri, 24 Mar 2000 23:37:51 GMT""}]","2008-02-03"
+"math/9307234",,"Henryk Wo\'zniakowski","Average case complexity of linear multivariate problems","7 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 70-76",,"Bulletin migration 11/99","math.NA math.CA",,"  We study the average case complexity of a linear multivariate problem
+$(\lmp)$ defined on functions of $d$ variables. We consider two classes of
+information. The first $\lstd$ consists of function values and the second
+$\lall$ of all continuous linear functionals. Tractability of $\lmp$ means that
+the average case complexity is $O((1/\e)^p)$ with $p$ independent of $d$. We
+prove that tractability of an $\lmp$ in $\lstd$ is equivalent to tractability
+in $\lall$, although the proof is {\it not} constructive. We provide a simple
+condition to check tractability in $\lall$. We also address the optimal design
+problem for an $\lmp$ by using a relation to the worst case setting. We find
+the order of the average case complexity and optimal sample points for
+multivariate function approximation. The theoretical results are illustrated
+for the folded Wiener sheet measure.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 00:00:00 GMT""}]","2016-09-06"

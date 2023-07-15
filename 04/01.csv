@@ -1,0 +1,227 @@
+"adap-org/9303003","Melanie Mitchell","Melanie Mitchell and Peter Hraber (Santa Fe Institute) and James P.
+  Crutchfield (University of California, Berkeley)","Revisiting the Edge of Chaos: Evolving Cellular Automata to Perform
+  Computations","38 pages, compressed .ps files (780Kb) available ONLY thru anonymous
+  ftp. (Instructions available via `get 9303003' .)",,,"SFI Working Paper 93-03-014","adap-org nlin.AO",,"  We present results from an experiment similar to one performed by Packard
+(1988), in which a genetic algorithm is used to evolve cellular automata (CA)
+to perform a particular computational task. Packard examined the frequency of
+evolved CA rules as a function of Langton's lambda parameter (Langton, 1990),
+and interpreted the results of his experiment as giving evidence for the
+following two hypotheses: (1) CA rules able to perform complex computations are
+most likely to be found near ``critical'' lambda values, which have been
+claimed to correlate with a phase transition between ordered and chaotic
+behavioral regimes for CA; (2) When CA rules are evolved to perform a complex
+computation, evolution will tend to select rules with lambda values close to
+the critical values. Our experiment produced very different results, and we
+suggest that the interpretation of the original results is not correct. We also
+review and discuss issues related to lambda, dynamical-behavior classes, and
+computation in CA. The main constructive results of our study are identifying
+the emergence and competition of computational strategies and analyzing the
+central role of symmetries in an evolutionary system. In particular, we
+demonstrate how symmetry breaking can impede the evolution toward higher
+computational capability.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 21:55:17 GMT""}]","2008-02-03"
+"astro-ph/9303020","Ted Pyne","Ted Pyne and Mark Birkinshaw","Null Geodesics in Perturbed Spacetimes","24 pages",,"10.1086/173178",,"astro-ph gr-qc",,"  We present a generalization and refinement of the Sachs-Wolfe technique which
+unifies many of the approaches taken to date and clarifies both the physical
+and the mathematical character of the method. We illustrate the formalism with
+a calculation of the behavior of light passing a moving lens on a Minkowski
+background.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 18:45:30 GMT""}]","2009-10-22"
+"cond-mat/9304001","Anatoly Ovchinnikov","A.A.OVCHINNIKOV (Institute for Nuclear Research RAS, Moscow)","Two-dimensional Bose gas at low density","16 pages, LaTex, report INR P-805/93 1993",,"10.1142/S0217984993001028",,"cond-mat",,"  We propose a new method to describe the interacting bose gas at zero
+temperature. We use the decomposition of the logarithm of the wave function
+into the irreducible $n$-point functions. We argue that in the low density
+limit this expansion corresponds to the expansion of the ground-state energy in
+powers of the small parameter. For three-dimensional system the correction to
+the ground-state energy in density is reproduced. For two-dimensional dilute
+bose gas the ground- state energy in the leading order in the parameter
+$|\ln\a^2\rho|^{-1}$ where $\a$ is a scattering length is obtained.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 10:19:41 GMT""}]","2015-06-25"
+"gr-qc/9303038",,"L.H. Ford and Thomas A. Roman","Motion of Inertial Observers Through Negative Energy","18pp + 1 figure(not included, available on request), in LATEX,
+  TUPT-93-2","Phys.Rev. D48 (1993) 776-782","10.1103/PhysRevD.48.776",,"gr-qc",,"  Recent research has indicated that negative energy fluxes due to quantum
+coherence effects obey uncertainty principle-type inequalities of the form
+$|\Delta E|\,{\Delta \tau} \lprox 1\,$. Here $|\Delta E|$ is the magnitude of
+the negative energy which is transmitted on a timescale $\Delta \tau$. Our main
+focus in this paper is on negative energy fluxes which are produced by the
+motion of observers through static negative energy regions. We find that
+although a quantum inequality appears to be satisfied for radially moving
+geodesic observers in two and four-dimensional black hole spacetimes, an
+observer orbiting close to a black hole will see a constant negative energy
+flux. In addition, we show that inertial observers moving slowly through the
+Casimir vacuum can achieve arbitrarily large violations of the inequality. It
+seems likely that, in general, these types of negative energy fluxes are not
+constrained by inequalities on the magnitude and duration of the flux. We
+construct a model of a non-gravitational stress-energy detector, which is
+rapidly switched on and off, and discuss the strengths and weaknesses of such a
+detector.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 21:47:00 GMT""}]","2009-10-22"
+"hep-ph/9303320",,"P. Ramond, R.G. Roberts, G.G. Ross","Stitching the Yukawa Quilt","30 pages, RAL-93-010 UFIFT-93-06","Nucl.Phys.B406:19-42,1993","10.1016/0550-3213(93)90159-M",,"hep-ph",,"  We develop a systematic analysis of quark mass matrices which, starting with
+the measured values of quark masses and mixing angles, allows for a model
+independent search for all possible (symmetric or hermitian) mass matrices
+having texture zeroes at the unification scale. A survey of all six and five
+texture zero structures yields a total of five possible solutions which may be
+distinguished by improved measurements of the CKM matrix elements and which may
+readily be extended to include lepton masses with the Georgi-Jarlskog texture.
+The solutions naturally suggest a parameterisation for the mass matrices based
+on a perturbative expansion and we present some speculations concerning the
+origin of such structure.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 16:26:00 GMT""}]","2010-11-01"
+"hep-ph/9303321","Papadopoulos","E.N. Argyres, Ronald H.P. Kleiss and Costas G. Papadopoulos","Multiscalar amplitudes to all orders in perturbation theory","7 pages, Latex, CERN-TH.6852/93","Phys.Lett. B308 (1993) 292-296; Addendum-ibid. B319 (1993) 544","10.1016/0370-2693(93)91287-W",,"hep-ph",,"  A method for calculating loop amplitudes at the multiboson threshold is
+presented, based on Feynman-diagram techniques. We explicitly calculate the
+one-loop amplitudes in both $\phi^4$-symmetric and broken symmetry cases, using
+dimensional regularization. We argue that, to all orders in the perturbation
+expansion, the unitarity-violating behaviour of the tree-order amplitudes
+persists.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 19:48:36 GMT""},{""version"":""v2"",""created"":""Thu, 1 Apr 1993 12:07:50 GMT""}]","2009-10-22"
+"hep-ph/9303322","Papadopoulos","E.N. Argyres, R. Kleiss and C.G. Papadopoulos","Nullification of multi-Higgs threshold amplitudes in the Standard Model","CERN-TH.6853/93, 9 pages, Latex","Phys.Lett. B308 (1993) 315-321; Addendum-ibid. B319 (1993) 544","10.1016/0370-2693(93)91291-T",,"hep-ph",,"  We show that nullification of all tree-order threshold amplitudes involving
+Higgs particles in the Standard Model occurs, provided that certain equations
+relating the masses of all existing elementary particles to the mass of the
+Higgs scalar are satisfied. The possible role of these relations in restoring
+the high-multiplicity unitarity and their phenomenological relevance are
+briefly discussed.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 19:52:30 GMT""},{""version"":""v2"",""created"":""Thu, 1 Apr 1993 13:44:42 GMT""},{""version"":""v3"",""created"":""Sun, 4 Apr 1993 11:43:17 GMT""}]","2009-10-22"
+"hep-ph/9303323","Martin B. Einhorn","Martin B. Einhorn (U. of Michigan)","Beyond the Standard Model with Effective Lagrangians","(to be published in Proceedings of the Coral Gables Conference, Jan.\
+  25--27, 1993,) 15 pages, PHYZZM, UM-TH-93-12. (PHYZZM has been submitted to
+  this BBS for inclusion in macros.) (This is version 2, hopefully revised to
+  correct line feeds corrupted by e-mail.)",,,,"hep-ph",,"  An Effective Lagrangian description is useful for describing potential
+physics beyond the Standard Model. The method is illustrated by reference to
+interactions among the electroweak bosons ($W^\pm$ \& $Z^0$). The resulting
+estimates of the magnitude of these corrections suggest that they would be at
+best marginally detectable at high energy $e^-e^+$ colliders or hadron
+colliders. In loop calculations, contrary to lore, such deviations from
+Standard Model self-couplings never give observable corrections that grow as a
+power of the scale $\Lambda$ at which new physics enters, so there are never
+effects proportional to powers of $\Lambda/M_W$.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 23:31:12 GMT""},{""version"":""v2"",""created"":""Fri, 2 Apr 1993 17:54:58 GMT""}]","2008-02-03"
+"hep-ph/9303324","D. P. Roy","D.P. Roy","R-Parity Violating SUSY Model","(LATEX, 19 pages, 6 figures available on request) TIFR/TH/93-14","Pramana 41 (1993) S333-S346","10.1007/BF02908093",,"hep-ph",,"  This is a phenomenological review of $R$ parity violating SUSY models, with
+particular emphasis on explicit $R$ parity violation.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 09:28:11 GMT""}]","2009-10-22"
+"hep-ph/9303325","Girish Ogale","Probir Roy","Radiative Electroweak Parameters","(LATEX, 12 pages, 6 figures not included, available on request) TIFR
+  preprint TIFR/TH/93-10",,"10.1007/BF02908077",,"hep-ph",,"  The status of the present precision measurements of electroweak observables
+is reviewed with specific reference to the radiative parameters $S,T,U$ or
+equivalently $\epsilon_1,\epsilon_2,\epsilon_3$. The significance of the
+obliqueness hypothesis is underlined and the importance of the ``local fit''
+method of extracting these parameters from the data is emphasized. Possible new
+physics implications are briefly touched upon.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 09:51:21 GMT""}]","2015-06-25"
+"hep-th/9303175","Dieter L\""ust","Dieter Luest","Cosmological String Backgrounds","19 pages + 1 figure, CERN-TH.6850/93",,,,"hep-th gr-qc",,"  Talk given at the ``4th Hellenic School on Elementary Particle Physics"",
+Corfu, 2-20 September 1992: The propagation of strings in cosmological
+space-time backgrounds is reviewed. We show the relation of a special class of
+cosmological backgrounds to exact conformal field theory. Particular emphasis
+is put on the singularity structure of the cosmological space-time and on the
+discrete duality symmetries of the string background.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 17:05:30 GMT""}]","2007-05-23"
+"hep-th/9303178",,"T.H. Hansson (Stockholm) and I. Zahed (Stony Brook)","Two-Dimensional QCD at Infinite N and Finite T","Latex 5p (4 figs. on request), USITP-93-5","Phys.Lett. B309 (1993) 385-388","10.1016/0370-2693(93)90949-I",,"hep-th",,"  We analyze two-dimensional large $N_c$ QCD at finite temperature and show
+explicitly that the free energy has the correct $N_c$ dependence.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 18:09:00 GMT""}]","2009-10-22"
+"hep-th/9303179",,"T.H. Hansson (Stockholm) and I. Zahed (Stony Brook)","String Tension in QED from Coulomb Gauge Correlators","Latex 3p, USITP-93-6",,,,"hep-th",,"  We discuss the new Coulomb gauge method for testing confinement and measuring
+the string tension in the context of the Schwinger model and compact QED in 3
+dimensions.
+","[{""version"":""v1"",""created"":""Wed, 31 Mar 1993 19:02:00 GMT""}]","2007-05-23"
+"hep-th/9304001","Ferdinando Gliozzi","M. Caselle, F. Gliozzi and S. Vinti","Condensation of handles in the interface of 3D Ising model","11 pages (Latex) with 2 postscript figures included, DFTT-12/93",,,,"hep-th hep-lat",,"  We analyze the microscopic, topological structure of the interface between
+domains of opposite magnetization in 3D Ising model near the critical point.
+This interface exhibits a fractal behaviour with a high density of handles. The
+mean area is an almost linear function of the genus. The entropy exponent is
+affected by strong finite-size effects.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 14:24:45 GMT""}]","2009-09-25"
+"hep-th/9304002","Hector DE Vega","H.J. de Vega, J. Ram\'irez Mittelbrun, M. Ram\'on Medrano and N.
+  S\'anchez","The Two-Dimensional Stringy Black-Hole: A New Approach and a Pathology","32 pages, uses phyzzx","Int.J.Mod.Phys. A11 (1996) 1463-1488","10.1142/S0217751X96000675","LPTHE 93/14","hep-th gr-qc",,"  The string propagation in the two-dimensional stringy black-hole is
+investigated from a new approach. We completely solve the classical and quantum
+string dynamics in the lorentzian and euclidean regimes. In the lorentzian case
+all the physics reduces to a massless scalar particle described by a
+Klein-Gordon type equation with a singular effective potential. The scattering
+matrix is found and it reproduces the results obtained by coset CFT techniques.
+It factorizes into two pieces : an elastic coulombian amplitude and an
+absorption part. In both parts, an infinite sequence of imaginary poles in the
+energy appear. The generic features of string propagation in curved
+D-dimensional backgrounds (string stretching, fall into spacetime
+singularities) are analyzed in the present case. A new physical phenomenon
+specific to the present black-hole is found : the quantum renormalization of
+the speed of light. We find $c_{quantum} = \sqrt{{k\o{k-2}}}~c_{classical}$,
+where $k$ is the integer in front of the WZW action. This feature is, however,
+a pathology. Only for $ k \to \infty$ the pathology disappears (although the
+conformal anomaly is present). We analyze all the classical euclidean string
+solutions and exactly compute the quantum partition function. No critical
+Hagedorn temperature appears here.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 15:27:30 GMT""},{""version"":""v2"",""created"":""Fri, 2 Apr 1993 10:02:00 GMT""},{""version"":""v3"",""created"":""Tue, 6 Apr 1993 13:28:26 GMT""},{""version"":""v4"",""created"":""Sat, 17 Apr 1993 14:14:55 GMT""}]","2009-10-22"
+"math/9304208",,"Howard Becker, Alexander S. Kechris","Borel actions of Polish groups","8 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 334-341",,"Bulletin migration 11/99","math.LO math.FA",,"  We show that a {\it Borel} action of a Polish group on a standard Borel space
+is Borel isomorphic to a {\it continuous} action of the group on a Polish
+space, and we apply this result to three aspects of the theory of Borel actions
+of Polish groups: universal actions, invariant probability measures, and the
+Topological Vaught Conjecture. We establish the existence of universal actions
+for any given Polish group, extending a result of Mackey and Varadarajan for
+the locally compact case. We prove an analog of Tarski's theorem on paradoxical
+decompositions by showing that the existence of an invariant Borel probability
+measure is equivalent to the nonexistence of paradoxical decompositions with
+countably many Borel pieces. We show that various natural versions of the
+Topological Vaught Conjecture are equivalent with each other and, in the case
+of the group of permutations of $\Bbb N$, with the model-theoretic Vaught
+Conjecture for infinitary logic; this depends on our identification of the
+universal action for that group.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9304209",,"Joan S. Birman","New points of view in knot theory","35 pages. Abstract added in migration.","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 253-287",,"Bulletin migration 11/99","math.GT",,"  In this article we shall give an account of certain developments in knot
+theory which followed upon the discovery of the Jones polynomial in 1984. The
+focus of our account will be recent glimmerings of understanding of the
+topological meaning of the new invariants. A second theme will be the central
+role that braid theory has played in the subject. A third will be the unifying
+principles provided by representations of simple Lie algebras and their
+universal enveloping algebras. These choices in emphasis are our own. They
+represent, at best, particular aspects of the far-reaching ramifications that
+followed the discovery of the Jones polynomial.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9304210",,"John L. Bryant, Steven C. Ferry, Washington Mio, Shmuel Weinberger","Topology of homology manifolds","5 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 324-328",,"Bulletin migration 11/99","math.GT",,"  We construct examples of nonresolvable generalized $n$-manifolds, $n\geq 6$,
+with arbitrary resolution obstruction, homotopy equivalent to any simply
+connected, closed $n$-manifold. We further investigate the structure of
+generalized manifolds and present a program for understanding their topology.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9304211",,"Jerrold R. Griggs","On the distribution of sums of residues","5 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 329-333",,"Bulletin migration 11/99","math.NT math.CO",,"  We generalize and solve the $\roman{mod}\,q$ analogue of a problem of
+Littlewood and Offord, raised by Vaughan and Wooley, concerning the
+distribution of the $2^n$ sums of the form $\sum_{i=1}^n\varepsilon_ia_i$,
+where each $\varepsilon_i$ is $0$ or $1$. For all $q$, $n$, $k$ we determine
+the maximum, over all reduced residues $a_i$ and all sets $P$ consisting of $k$
+arbitrary residues, of the number of these sums that belong to $P$.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9304212","Ehud Hrushovski","Ehud Hrushovski, Boris Zilber","Zariski Geometries","9 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 315-323",,"Bulletin migration 11/99","math.AG",,"  We characterize the Zariski topologies over an algebraically closed field in
+terms of general dimension-theoretic properties. Some applications are given to
+complex manifold and to strongly minimal sets.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9304213",,"Brian R. Hunt, Tim Sauer, James A. Yorke","Prevalence: an addendum","2 pages. Abstract added in migration.","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 306-307",,"Bulletin migration 11/99","math.FA math.DS",,"  The authors mention work of Christensen, Mycielski, Tsujii, and others which
+is closely related to a survey article by the first author [math.FA/9210220].
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9304214",,"Gilbert Strang","Wavelet transforms versus Fourier transforms","18 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 288-305",,"Bulletin migration 11/99","math.NA math.CA",,"  This note is a very basic introduction to wavelets. It starts with an
+orthogonal basis of piecewise constant functions, constructed by dilation and
+translation. The ``wavelet transform'' maps each $f(x)$ to its coefficients
+with respect to this basis. The mathematics is simple and the transform is fast
+(faster than the Fast Fourier Transform, which we briefly explain), but
+approximation by piecewise constants is poor. To improve this first wavelet, we
+are led to dilation equations and their unusual solutions. Higher-order
+wavelets are constructed, and it is surprisingly quick to compute with them ---
+always indirectly and recursively. We comment informally on the contest between
+these transforms in signal processing, especially for video and image
+compression (including high-definition television). So far the Fourier
+Transform --- or its 8 by 8 windowed version, the Discrete Cosine Transform ---
+is often chosen. But wavelets are already competitive, and they are ahead for
+fingerprints. We present a sample of this developing theory.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9304215",,"Marko Tadic","An external approach to unitary representations","38 pages. Abstract added in migration.","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 215-252",,"Bulletin migration 11/99","math.RT",,"  The main aim of this paper is to present the ideas which lead first to the
+solution of the unitarizability problem for $\GL(n)$ over nonarchimedean local
+fields and to the recognition that the same result holds over archimedean local
+fields, a result which was proved by Vogan using an internal approach. Let us
+say that the approach that we are going to present may be characterized as
+external. At no point do we go into the internal structure of representations.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9304216","Grzegorz W. Wasilkowski","Grzegorz W. Wasilkowski","Integration and approximation of multivariate functions: average case
+  complexity with isotropic Wiener measure","7 pages","Bull. Amer. Math. Soc. (N.S.) 28 (1993) 308-314",,"Bulletin migration 11/99","math.NA math.CA",,"  We study the average case complexity of multivariate integration and $L_2$
+function approximation for the class $F=C([0,1]^d)$ of continuous functions of
+$d$ variables. The class $F$ is endowed with the isotropic Wiener measure
+(Brownian motion in Levy's sense). Furthermore, for both problems, only
+function values are used as data.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9304001","Herbert Muether","P. Domitrovich, D. B\""uckers, H. M\""uther","Nambu-Jona-Lasinio Models Beyond the Mean Field Approximation","17 pages","Phys.Rev.C48:413-422,1993","10.1103/PhysRevC.48.413",,"nucl-th",,"  Inspired by the model of Nambu and Jona-Lasinio, various Lagrangians are
+considered for a system of interacting quarks. Employing standard techniques of
+many-body theory, the scalar part of the quark self-energy is calculated
+including terms up to second-order in the interaction. Results obtained for the
+single-particle Green's function are compared with those which only account for
+the mean-field or Hartree-Fock term in the self-energy. Depending on the
+explicit form of the Lagrangian, the second-order contributions range between 4
+and 90 percent of the leading Hartree-Fock term. This leads to a considerable
+momentum dependence of the self-energy and the effective mass of the quarks.
+","[{""version"":""v1"",""created"":""Thu, 1 Apr 1993 15:10:18 GMT""}]","2008-11-26"

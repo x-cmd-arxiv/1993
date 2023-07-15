@@ -1,0 +1,242 @@
+"astro-ph/9310022","Thomas Buchert","T. Buchert, A. G. Weiss","Third-Order Lagrangian Perturbation Theory - Realization at High-Spatial
+  Resolution","uuencoded compressed postscript file to appear in: Proc of IAP
+  Colloq. 9, ``Cosmological velocity fields'', ed. F.Bouchet, M.Lachieze-Rey
+  Dummy report number MPA-000-000-93","Proc. IAP Colloq. 9 (1993), pp.517-519",,,"astro-ph",,"  The Lagrangian theory of gravitational instability of homogeneous-isotropic
+Friedman-Lemaitre cosmogonies investigated and solved in the series of papers
+by Buchert (1989), (1992), Buchert & Ehlers (1993), Buchert (1993a,b), Ehlers &
+Buchert (1993), is illustrated. The third-order solution of this theory for
+generic initial conditions is presented and realized in a special case by
+employing methods of high-spatial resolution of the density field.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 11:08:26 GMT""}]","2007-05-23"
+"cond-mat/9310022",,"Yong Baek Kim and Xiao-Gang Wen","Large N renormalization group study of the commensurate dirty boson
+  problem","21 pages (Figures (8) are available upon request), pain Tex,
+  MIT-CMT-YBK02",,"10.1103/PhysRevB.49.4043",,"cond-mat",,"  (Short Description) We use a large N renormalization group method to study a
+model of interacting boson system with a quenched random potential.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 19:13:08 GMT""}]","2009-10-22"
+"cond-mat/9310023",,"Q. F. Zhong, S. Sorella and A. Parola","Hole dynamics in a quantum antiferromagnet beyond the retraceable path
+  approximation","RevTeX 3.0, SISSA preprint 156/93/CM/MB, 10 pages + postscript file
+  appended, contains more accurate calculations in Fig.4",,"10.1103/PhysRevB.49.6408",,"cond-mat",,"  The one-hole spectral weight for two chains and two dimensional lattices is
+studied numerically using a new method of analysis of the spectral function
+within the Lanczos iteration scheme: the Lanczos spectra decoding method. This
+technique is applied to the $t-J_z$ model for $J_z \to 0$, directly in the
+infinite size lattice. By a careful investigation of the first 13 Lanczos steps
+and the first 26 ones for the two dimensional and the two chain cases
+respectively, we get several new features of the one-hole spectral weight. A
+sharp incoherent peak with a clear momentum dispersion is identified, together
+with a second broad peak at higher energy. The spectral weight is finite up to
+the Nagaoka energy where it vanishes in a non-analytic way. Thus the lowest
+energy of one hole in a quantum antiferromagnet is degenerate with the Nagaoka
+energy in the thermodynamic limit.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 11:48:15 GMT""},{""version"":""v2"",""created"":""Wed, 8 Dec 1993 11:39:31 GMT""}]","2009-10-22"
+"cond-mat/9310024",,"Thomas Blum and Yonathan Shapir","Lattice Magnetic Walks","31 pages, Plain TeX, 2 figures (available upon request),
+  UR-CM-93-10-13",,"10.1088/0305-4470/27/2/015",,"cond-mat hep-lat hep-th",,"  Sums of walks for charged particles (e.g. Hofstadter electrons) on a square
+lattice in the presence of a magnetic field are evaluated. Returning loops are
+systematically added to directed paths to obtain the unrestricted propagators.
+Expressions are obtained for special values of the magnetic flux-per-plaquette
+commensurate with the flux quantum. For commensurate and incommensurate values
+of the flux, the addition of small returning loops does not affect the general
+features found earlier for directed paths. Lattice Green's functions are also
+obtained for staggered flux configurations encountered in models of high-Tc
+superconductors.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 14:31:00 GMT""}]","2009-10-22"
+"gr-qc/9310020","Joe Parry","J. Parry D. S. Salopek and J. M. Stewart","Solving the Hamilton-Jacobi Equation for General Relativity","13 pages, RevTeX, DAMTP-R93/22","Phys.Rev.D49:2872-2881,1994","10.1103/PhysRevD.49.2872",,"gr-qc",,"  We demonstrate a systematic method for solving the Hamilton-Jacobi equation
+for general relativity with the inclusion of matter fields. The generating
+functional is expanded in a series of spatial gradients. Each term is
+manifestly invariant under reparameterizations of the spatial coordinates
+(``gauge-invariant''). At each order we solve the Hamiltonian constraint using
+a conformal transformation of the 3-metric as well as a line integral in
+superspace. This gives a recursion relation for the generating functional which
+then may be solved to arbitrary order simply by functionally differentiating
+previous orders. At fourth order in spatial gradients, we demonstrate solutions
+for irrotational dust as well as for a scalar field. We explicitly evolve the
+3-metric to the same order. This method can be used to derive the Zel'dovich
+approximation for general relativity.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 16:43:12 GMT""}]","2010-11-01"
+"hep-ph/9310270","Markus Finkemeier","Roger Decker, Markus Finkemeier and Erwin Mirkes","Pseudoscalar Mass Effects in Decays of Taus with Three Pseudoscalar
+  Mesons","14 pages, 7 figures (not included, available as *.PS files on
+  request), Latex, Universitaet Karlsruhe preprint TTP93-28","Phys.Rev. D50 (1994) 6863-6871","10.1103/PhysRevD.50.6863",,"hep-ph",,"  We study the effects of non-vanishing pseudoscalar masses in $\tau$ decays
+into three mesons. The hadronic matrix elements are obtained by using the
+generalized structure of the chiral currents with nonvanishing pseudoscalar
+masses and implementing the low-lying resonances in the different channels. We
+demonstrate that suitable angular distributions are sensitive to the mass
+effects in the chiral Langrangian. Numerical results for the rele\-% vant
+structure functions are given for the decay modes $\tau\rightarrow
+\nu\pi^-\pi^-\pi^+$, $\nu K^-\pi^-\pi^+$ and $\nu K^-\pi^-K^+$.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 16:08:46 GMT""}]","2009-10-22"
+"hep-ph/9310271","Makoto Oka","Makoto Oka (Dept. of Phys., Tokyo Institute of Technology, Oh-Okayama,
+  Tokyo)","Hyperon-Nucleon Interaction in a Quark Model","(10 pages, no figure) JAPAN e-mail: oka@phys.titech.ac.jp or
+  oka@titvs0.hepnet fax: 81-3-3728-0496",,,,"hep-ph nucl-th",,"  A lecture given at the International School Seminar on {\sl Hadrons and
+Nuclei from QCD}, Tsuruga-Vladivostok-Sapporo, August-September, 1993.
+  A realistic hyperon ($Y$)-nucleon ($N$) interaction based on the quark model
+and the one-boson-exchange potential is constructed. The Nijmegen potential
+model D with the SU(3) flavor symmetry is modified with a quark exchange
+interaction at the short-distance, which replaces the short-range repulsive
+core in the original model. The flavor-spin dependences of the short-range
+repulsion are qualitatively different from the original hard-core potential. We
+also study a two-body weak decay, $\Lambda N \to NN$, in the quark model. An
+effective weak interaction, where one-loop QCD corrections are explicitly taken
+into account, is employed. Differences from the conventional meson-exchange
+processes are discussed.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 02:46:37 GMT""}]","2007-05-23"
+"hep-ph/9310272","Marek Karliner","John Ellis and Marek Karliner","Spin Structure Functions","18 pages (LateX) + 6 postscript figures encoded through uufiles;
+  CERN-TH-7022/93, TAUP-2094-93; Plenary talk at the PANIC '93 (corrected eq.
+  (3) )",,,,"hep-ph",,"  We review the theory and phenomenology of deep inelastic polarized
+lepton-nucleon scattering in the light of recent data with a deuteron target
+from the SMC at CERN and a Helium 3 target from the E142 experiment at SLAC.
+After including higher-order perturbative QCD corrections, mass corrections and
+updated estimates of higher-twist effects, we find good agreement with the
+basic Bjorken sum rule, and extract a consistent set of values for the quark
+contributions to the proton spin: $$\Delta\Sigma \equiv \Delta u + \Delta d +
+\Delta s = 0.27 \pm 0.11 $$ $$\Delta u = 0.82 \pm 0.04, \Delta d = -0.44 \pm
+0.04,\Delta s = -0.11 \pm 0.04 $$ which are consistent with chiral soliton
+models and indications from lattice estimates. We also mention the prospects
+for future experiments on the spin structure of the nucleon.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 16:06:00 GMT""},{""version"":""v2"",""created"":""Wed, 13 Oct 1993 10:56:00 GMT""},{""version"":""v3"",""created"":""Wed, 13 Oct 1993 15:20:00 GMT""}]","2008-02-03"
+"hep-ph/9310273",,"R.N. Mohapatra, S. Nussinov and X. Zhang","Effects of $e^- e^+ \nu_e$ Decays of Tau Neutrinos Near A Supernova","29 Pages, Tex file, UMDHEP 94-42","Phys.Rev. D49 (1994) 3434-3440","10.1103/PhysRevD.49.3434",,"hep-ph",,"  We revisit the constraints implied by SN 1987 A observations on the decay
+rate of a multi-MeV $\nu_\tau$ decaying into the visible channel $\nu_\tau
+\rightarrow e^+ e^- \nu_e$, if its lifetime is more than 10 {\it sec.}. We
+discuss its implication for the minimal left-right symmetric model with see-saw
+mechanism for neutrino masses. We also speculate on the possible formation of a
+``giant Capacitor"" in intergalactic space due to the decay of ""neutronization""
+$\nu_\tau$'s and spin allignment possibility in the supernova.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 17:34:38 GMT""}]","2009-10-22"
+"hep-ph/9310274",,"Yue-Liang Wu","Spontaneous CP Violation and Natural Flavor Conservation In the
+  $SU(2)_{L}\times U(1)_{Y}$ Gauge Theory with Two Higgs Doublets","10 pages (revtex), CMU-HEP93-19",,,,"hep-ph",,"  The two principles of spontaneous CP violation and natural flavor
+conservation can be realized in the $SU(2)_{L}\times U(1)_{Y}$ model with two
+Higgs doublets. In particular, this model provides a consistent application to
+the CP violating parameters $\epsilon$ and $\epsilon'/\epsilon$ in kaon decay
+and the neutron electric dipole moment. The masses of the exotic scalars are
+unconstrained in this model and probing these exotic scalars must be valuable
+at the present energy scales. Large CP violations may also occur in the heavy
+quark and lepton sectors.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 20:52:07 GMT""}]","2007-05-23"
+"hep-ph/9310275","Poul Olesen","P. Olesen","A W--dressed Electroweak String","8 pages, LaTeX, NBI-HE-93-58",,,,"hep-ph",,"  We give plausibility arguments for the existence of a $W$--dressed
+electroweak string for the \ws ~model with $\th_W = 0$. This string is a
+$Z$--string which in the core has a finite energy contribution from
+$W$--condensation induced by the anomalous magnetic moment in the \ym field.
+The solution which has minimum energy at $r=0$ interpolates between the
+unbroken $(r=0)$ and the broken $(r \ra \infty) \ SU(2) \times U_y(1)$ phase.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 09:47:11 GMT""}]","2007-05-23"
+"hep-ph/9310276","""V. A."" Khoze","Torbj\""orn Sj\""ostrand, Valery A. Khoze","Does the W Mass Reconstruction Survive QCD Effects?","6 pages, CERN Preprint CERN-TH.9043/93, Durham preprint DTP/93/84","Phys.Rev.Lett.72:28-31,1994","10.1103/PhysRevLett.72.28",,"hep-ph",,"  In the hadronic decay mode of a pair of W bosons, $\text{e}~+\text{e}~- \to
+\text{W}~+ \text{W}~- \to \text{q}_1 \overline{\text{q}}_2 \text{q}_3
+\overline{\text{q}}_4$, QCD interference effects can mix up the two colour
+singlets $\text{q}_1 \overline{\text{q}}_2$ and $\text{q}_3
+\overline{\text{q}}_4$, i.e. produce hadrons that cannot be uniquely assigned
+to either of W$~+$ and W$~-$. We show that interference is negligible for
+energetic perturbative gluon emission, and develop models to help us to
+estimate the non-perturbative effects. The total contribution to the systematic
+error on the W mass reconstruction may be as large as 40 MeV.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 09:58:00 GMT""}]","2011-02-15"
+"hep-ph/9310277","Frank Cuypers","Frank Cuypers, Geert Jan van Oldenborgh, Reinhold R\""uckl","Discovering Supersymmetry with Electron and Photon Beams","11 pages of text, contribution to the Proceedings of the Workshop on
+  Physics with $e^+e^-$ Linear Colliders, Annecy, February 15-16, 1993, the
+  figures and the .ps file can be obtained via anonymous ftp from 129.187.198.1
+  in preprints/mpi9370.ps , MPI-Ph/93-70",,,,"hep-ph",,"  Linear collider designs are optimized for \ep\ collisions. However, from the
+physics point of view, \lc s may also be advantageously operated in an \ee,
+\eg\ or \pp\ mode. These options, which have not been available up to now, will
+provide unique tests of the \sm\ and of physics beyond it. As an example, we
+review the prospects for discovering and studying \susy\ at linear colliders in
+\ee, \eg\ and \pp\ collisions. In particular, we argue that \ee\ scattering is
+much better suited than \ep\ annihilation for discovering \sel s or \co s.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 09:59:20 GMT""}]","2007-05-23"
+"hep-ph/9310278",,"Abdellatif Abada","Effective Lagrangian with vector mesons : Linear response theory","8 pages of plain Latex and 2 figures (available from the author),
+  preprint LPN 93-12 and IPNO/TH 93-47","Phys. Lett. B322 (1994) 103-108","10.1016/0370-2693(94)90497-9",,"hep-ph",,"  The soliton breathing mode is investigated in the framework of linear
+response theory within a Skyrme model vector meson stabilized. The effective
+Lagrangian considered includes the $\rho$ (introduced following the standard
+prescription of nonlinear chiral symmetry) and the $\omega$ mesons. The
+monopole response function is found to have a pronounced peak which is
+identified to the $P11$ (Roper) resonance. The results are compared to those
+obtained within the local approximation.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 15:02:35 GMT""}]","2009-10-22"
+"hep-ph/9310280",,"Ernest Ma","The Tau Neutrino as the Lightest Supersymmetric Particle","6 pages, UCRHEP-T117 and MAD/PH/799, to appear in Proc. of the Second
+  Talinn Neutrino Symposium, Lohusalu, Estonia, Oct 1993","Proc. of 2nd Talinn Neutrino Symposium, p.162",,,"hep-ph",,"  Given the conservation of baryon number as well as electron and muon numbers,
+all present data can be explained without the need of a conserved quantum
+number for the tau lepton and its neutrino. A supersymmetric extension of the
+standard model naturally allows for such a scenario. One consequence is that
+the tau neutrino becomes the lightest supersymmetric particle.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 15:39:48 GMT""}]","2007-05-23"
+"hep-th/9310066",,"Marco Matone","Liouville Equation And Schottky Problem","12 pages, LaTex file. Expanded version and misprints corrected","Lett.Math.Phys. 33 (1995) 75-86","10.1007/BF00750813","DFPD/92/TH/46, IC-MATH/9-92","hep-th alg-geom math.AG",,"  An Ansatz for the Poincar\'e metric on compact Riemann surfaces is proposed.
+This implies that the Liouville equation reduces to an equation resembling a
+non chiral analogous of the higher genus relationships (KP equation) arising in
+the framework of Schottky's problem solution. This approach connects
+uniformization (Fuchsian groups) and moduli space theories with KP hierarchy.
+Besides its mathematical interest, the Ansatz has some applications in the
+framework of quantum Riemann surfaces arising in 2D gravity.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 17:05:27 GMT""},{""version"":""v2"",""created"":""Wed, 13 Oct 1993 16:02:51 GMT""}]","2009-10-22"
+"hep-th/9310067",,"B. de Wit and A. Van Proeyen","Hidden symmetries, special geometry and quaternionic manifolds","18 pages","Int.J.Mod.Phys.D3:31-48,1994","10.1142/S0218271894000058","THE-93/24, KUL-TF-93/43","hep-th math.DG",,"  The moduli space of the Calabi-Yau three-folds, which play a role as
+superstring ground states, exhibits the same {\em special geometry} that is
+known from nonlinear sigma models in $N=2$ supergravity theories. We discuss
+the symmetry structure of special real, complex and quaternionic spaces. Maps
+between these spaces are implemented via dimensional reduction. We analyze the
+emergence of {\em extra} and {\em hidden} symmetries. This analysis is then
+applied to homogeneous special spaces and the implications for the
+classification of homogeneous quaternionic spaces are discussed.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 10:57:30 GMT""}]","2010-11-01"
+"hep-th/9310068","Gerry Ahluwalia","K. S. Ahluwalia","Fundamentals of Poisson Lie Groups with Application to the Classical
+  Double","30 pages. Principal content unaltered, some misprints corrected some
+  statements reworded, three references added, format expanded (reversible)",,,"DAMTP 93-53","hep-th math.QA",,"  We give a constructive account of the fundamental ingredients of Poisson Lie
+theory as the basis for a description of the classical double group $D$. The
+double of a group $G$ has a pointwise decomposition $D\sim G\times G^*$, where
+$G$ and $G^*$ are Lie subgroups generated by dual Lie algebras which form a Lie
+bialgebra. The double is an example of a factorisable Poisson Lie group, in the
+sense of Reshetikhin and Semenov-Tian-Shansky [1], and usually the study of its
+Poisson structures is developed only in the case when the subgroup $G$ is
+itself factorisable. We give an explicit description of the Poisson Lie
+structure of the double without invoking this assumption. This is achieved by a
+direct calculation, in infinitesimal form, of the dressing actions of the
+subgroups on each other, and provides a new and general derivation of the
+Poisson Lie structure on the group $G^*$. For the example of the double of
+SU(2), the symplectic leaves of the Poisson Lie structures on SU(2) and
+SU(2$)^*$ are displayed.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 11:26:37 GMT""},{""version"":""v2"",""created"":""Thu, 14 Oct 1993 13:27:53 GMT""},{""version"":""v3"",""created"":""Sat, 12 Mar 1994 13:55:46 GMT""}]","2008-02-03"
+"hep-th/9310069","Cumrun Vafa","Cumrun Vafa","Strings and Singularities","12 pages, 3 figures",,,,"hep-th",,"  We review aspects of spacetime singularities from the view point of string
+theory. Examples considered include cosmological, cosmic string and black-hole
+singularities. We also discuss the consistency of viewing black-holes as
+excited states of fundamental strings (based on talk presented at Salamfest,
+March 1993, Trieste).
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 14:39:14 GMT""}]","2007-05-23"
+"hep-th/9310070",,"L. D. Faddeev, R. M. Kashaev","Quantum Dilogarithm","9 pages","Mod.Phys.Lett. A9 (1994) 427-434","10.1142/S0217732394000447","HU-TFT-93-56","hep-th math.QA",,"  A quantum generalization of Rogers' five term, or ``pentagon'' dilogarithm
+identity is suggested. It is shown that the classical limit gives usual Rogers'
+identity. The case where the quantum identity is realized in finite dimensional
+space is also considered and the quantum dilogarithm is constructed as a
+function on Fermat curve, while the identity itself is equivalent to the
+restricted star-triangle relation introduced by Bazhanov and Baxter.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 15:49:39 GMT""}]","2009-10-22"
+"hep-th/9310071","Chand Devchand","Ch. Devchand and V. Ogievetsky","Integrability of N = 3 super Yang-Mills equations","9 pages, Bonn-HE-93-32, Dubna-E2-93-361",,,,"hep-th nlin.SI solv-int",,"  We describe the harmonic superspace formulation of the Witten-Manin
+supertwistor correspondence for N=3 extended super Yang-Mills theories. The
+essence is that on being sufficiently supersymmetrised (up to the N=3
+extension), the Yang-Mills equations of motion can be recast in the form of
+Cauchy-Riemann-like holomorphicity conditions for a pair of prepotentials in
+the appropriate harmonic superspace. This formulation makes the explicit
+construction of solutions a rather more tractable proposition than previous
+attempts.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 10:06:54 GMT""}]","2008-02-03"
+"hep-th/9310072","Chand Devchand","Ch. Devchand and V. Ogievetsky","The super self-dual matreoshka","12 pages, Bonn-HE-93-33, Dubna-E2-93-360",,,,"hep-th",,"  In this talk we review the harmonic space formulation of the twistor
+transform for the supersymmetric self-dual Yang-Mills equations. The recently
+established harmonic-twistor correspondence for the N-extended supersymmetric
+gauge theories is described. It affords an explicit construction of solutions
+to these equations which displays a remarkable matreoshka-like structure
+determined by the N=0 core.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 10:08:39 GMT""}]","2007-05-23"
+"nucl-th/9310011","Herbert Muether","H. M\""uther and L.D. Skouras","Long-Range Correlations in Closed Shell Nuclei","23 pages 4 figures not included, Report Tu-93-0810","Nucl.Phys. A581 (1995) 247-266","10.1016/0375-9474(94)00438-S",,"nucl-th",,"  The effects of correlations on the bulk properties of nuclei are investigated
+in large model spaces including up to 21 single-particle orbits. The evaluation
+of the single-particle Green function is made feasible by means of the BAGEL
+approximation. The spectral function for single-nucleon pick-up and removal is
+investigated for the nuclei $^{16}O$ and $^{40}Ca$ . Special attention is paid
+to the effects produced by correlations on the calculated ground state
+properties of closed shell nuclei. It is observed that correlations beyond the
+Brueckner Hartree Fock approximation tend to improve the results obtained using
+realistic nucleon nucleon interactions.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 07:48:32 GMT""}]","2009-10-22"
+"nucl-th/9310012",,"A. Bianconi, S. Boffi and D.E. Kharzeev","Asymmetry of the Missing Momentum Distribution in (e,e$'$p) Reactions
+  and Color Trnasparency","8 pages and 3 figures (available from the authors), FNT/T-93-19,
+  University of Pavia",,,,"nucl-th",,"  We suggest the measurement of the integrated asymmetry of teh missing
+momentum distribution in (e,e$'$p)reactions to check color transparency effects
+at intermediate momentum transfers.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 09:42:22 GMT""}]","2009-09-25"
+"nucl-th/9310013",,"Ellis, Engeland, Hjorth-Jensen, Holt and Osnes","Convergence properties of the effective interaction","10 pages in revtex ver. 3.0. 3 figs can be obtained upon request.
+  Univerisity of Oslo report UiO/PHYS/93-23","Nucl.Phys. A573 (1994) 216-230","10.1016/0375-9474(94)90168-6",,"nucl-th",,"  The convergence properties of two perturbative schemes to sum the so-called
+folded diagrams are critically reviewed, with an emphasis on the intruder state
+problem. The methods we study are the approaches of Kuo and co-workers and Lee
+and Suzuki. The suitability of the two schemes for shell-model calculations are
+discussed.
+","[{""version"":""v1"",""created"":""Wed, 13 Oct 1993 14:54:14 GMT""}]","2009-10-22"

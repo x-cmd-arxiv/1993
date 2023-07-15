@@ -1,0 +1,301 @@
+"cond-mat/9304012","Eric Yang","Eric Yang and A. H. MacDonald","Coulomb Gaps in a Strong Magnetic Field, S.-R","10 pages of revtex, 3 figures available upon request, report
+  no:IUCM93-006",,,,"cond-mat",,"  We report on a study of interaction effects in the tunneling
+density-of-states of a disordered two-dimensional electron gas in the strong
+magnetic field limit where only the lowest Landau level is occupied.
+Interactions in the presence of disorder are accounted for by performing
+finite-size self-consistent Hartree-Fock calculations. We find evidence for the
+formation of a pseudo-gap with a tunneling density-of-states which vanishes at
+the Fermi energy.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 16:22:52 GMT""}]","2007-05-23"
+"cond-mat/9304013","Alan Middleton","A. Alan Middleton and Ned S. Wingreen","Collective Transport in Arrays of Quantum Dots","12 pages, 3 postscript files included, REVTEX v2, (also available by
+  anonymous FTP from external.nj.nec.com, in directory /pub/alan/dotarrays [as
+  separate files]) [replacement: FIX OF WRONG VERSION, BAD SHAR] March 17,
+  1993, NECI",,"10.1103/PhysRevLett.71.3198",,"cond-mat",,"  (WORDS: QUANTUM DOTS, COLLECTIVE TRANSPORT, PHYSICAL EXAMPLE OF KPZ)
+Collective charge transport is studied in one- and two-dimensional arrays of
+small normal-metal dots separated by tunnel barriers. At temperatures well
+below the charging energy of a dot, disorder leads to a threshold for
+conduction which grows linearly with the size of the array. For short-ranged
+interactions, one of the correlation length exponents near threshold is found
+from a novel argument based on interface growth. The dynamical exponent for the
+current above threshold is also predicted analytically, and the requirements
+for its experimental observation are described.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 16:24:08 GMT""},{""version"":""v2"",""created"":""Fri, 9 Apr 1993 13:40:46 GMT""}]","2009-10-22"
+"cond-mat/9304014",,"A.H.Castro Neto and Eduardo Fradkin","Bosonization of the Low Energy Excitations of Fermi Liquids","10 pages, RevteX, P-93-03-027 (UIUC)",,"10.1103/PhysRevLett.72.1393",,"cond-mat",,"  We bosonize the low energy excitations of Fermi Liquids in any number of
+dimensions in the limit of long wavelengths. The bosons are coherent
+superposition of electron-hole pairs and are related with the displacement of
+the Fermi Surface in some arbitrary direction. A coherent-state path integral
+for the bosonized theory is derived and it is shown to represent histories of
+the shape of the Fermi Surface. The Landau equation for the sound waves is
+shown to be exact in the semiclassical approximation for the bosons.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 18:05:00 GMT""}]","2009-10-22"
+"cond-mat/9304015","Elliott Lieb","E.H. Lieb, M. Loss, R.J. McCann","Uniform Density Theorem for the Hubbard Model","15 pages, plaintex, EHLMLRJM-22/Feb/93","J. Math. Phys., 34 (1993) 891-898","10.1063/1.530199",,"cond-mat",,"  A general class of hopping models on a finite bipartite lattice is
+considered, including the Hubbard model and the Falicov-Kimball model. For the
+half-filled band, the single-particle density matrix $\uprho (x,y)$ in the
+ground state and in the canonical and grand canonical ensembles is shown to be
+constant on the diagonal $x=y$, and to vanish if $x \not=y$ and if $x$ and $y$
+are on the same sublattice. For free electron hopping models, it is shown in
+addition that there are no correlations between sites of the same sublattice in
+any higher order density matrix. Physical implications are discussed.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 18:20:43 GMT""}]","2009-10-22"
+"cond-mat/9304016","Lizeng Zhang","Lizeng Zhang","Disordered Boson Systems: A Perturbative Study","27 pages, revtex",,"10.1103/PhysRevB.47.14364",,"cond-mat",,"  A hard-core disordered boson system is mapped onto a quantum spin 1/2
+XY-model with transverse random fields. It is then generalized to a system of
+spins with an arbitrary magnitude S and studied through a 1/S expansion. The
+first order 1/S expansion corresponds to a spin-wave theory. The effect of weak
+disorder is studied perturbatively within such a first order 1/S scheme. We
+compute the reduction of the speed of sound and the life time of the Bloch
+phonons in the regime of weak disorder. Generalizations of the present study to
+the strong disordered regime are discussed.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 22:03:28 GMT""}]","2009-10-22"
+"cond-mat/9304017","Lizeng Zhang","Lizeng Zhang and Xiao-Qian Wang","Critical Exponents for Three-Dimensional Superfluid--Bose-Glass Phase
+  Transition","11 pages, REVTEX",,"10.1103/PhysRevB.47.11518",,"cond-mat",,"  The critical phenomenon of the zero temperature superfluid--Bose-glass phase
+transition for hard-core bosons on a three-dimensional disordered lattice is
+studied using a quantum real-space renormalization-group method. The
+correlation-length exponent $\nu$ and the dynamic exponent z are computed. The
+critical exponent z is found to be 2.5 for compressible states and 1.3 for
+incompressible states. The exponent $\nu$ is shown to be insensitive to z as
+that in the two-dimensional case, and has value roughly equal to 1.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 22:13:57 GMT""}]","2009-10-22"
+"cond-mat/9304018","werner Krauth","Antoine Georges, Gabriel Kotliar, Werner Krauth","Superconductivity in the Two-Band Hubbard Model in Infinite Dimensions","12 pages (14 figures not included, available upon request), Latex,
+  LPTENS Preprint 93/10",,"10.1007/BF01308748",,"cond-mat",,"  We study a two-band Hubbard model in the limit of infinite dimensions, using
+a combination of analytical methods and Monte-Carlo techniques. The normal
+state is found to display various metal to insulators transitions as a function
+of doping and interaction strength. We derive self-consistent equations for the
+local Green's functions in the presence of superconducting long-range order,
+and extend previous algorithms to this case. We present direct numerical
+evidence that in a specific range of parameter space, the normal state is
+unstable against a superconducting state characterized by a strongly frequency
+dependent order-parameter.
+","[{""version"":""v1"",""created"":""Fri, 9 Apr 1993 08:17:23 GMT""}]","2009-10-22"
+"cond-mat/9304019","Lidp","Dingping Li","Intrinsic quasiparticle's spin and fractional quantum Hall effect on
+  Riemann surfaces","11 papes, REVTeX 3.0","Mod.Phys.Lett. B7 (1993) 1103","10.1142/S0217984993001090","April, SISSA/ISAS/53/EP, Trieste","cond-mat hep-th",,"  We derive the braid relations of the charged anyons interacting with a
+magnetic field on Riemann surfaces. The braid relations are used to calculate
+the quasiparticle's spin in the fractional quantum Hall states on Riemann
+surfaces. The quasiparticle's spin is found to be topological independent and
+satisfies physical restrictions.
+","[{""version"":""v1"",""created"":""Fri, 9 Apr 1993 12:20:03 GMT""}]","2015-06-25"
+"gr-qc/9304012","Karel Kuchar","Karel Kuchar","Canonical Quantum Gravity","Latex, 35 pages. arXiv admin note: figures missing",,,"UU-REL-92/12/10","gr-qc",,"  This is a review of the aspirations and disappointments of the canonical
+quantization of geometry. I compare the two chief ways of looking at canonical
+gravity, geometrodynamics and connection dynamics. I capture as much of the
+classical theory as I can by pictorial visualization. Algebraic aspects
+dominate my description of the quantization program. I address the problem of
+observables. The reader is encouraged to follow the broad outlines and not
+worry about the technical details.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 22:00:56 GMT""}]","2007-05-23"
+"hep-ph/9304234","Marcelo Gleiser","M. Gleiser, G. C. Marques, and R. O. Ramos","On the Evaluation of Thermal Corrections to False Vacuum Decay Rates","31 pages, 4 Figures appended as encapsulated PostScript at the end of
+  file (line 2136), used RevTeX Macros, DART-HEP-93/02","Phys.Rev. D48 (1993) 1571-1584","10.1103/PhysRevD.48.1571",,"hep-ph",,"  We examine the computation of the nucleation barrier used in the expression
+for false vacuum decay rates in finite temperature field theory. By a detailed
+analysis of the determinantal prefactor, we show that the correct bounce
+solution used in the computation of the nucleation barrier should not include
+loop corrections coming from the scalar field undergoing decay. Temperature
+corrections to the bounce appear from loop contributions from other fields
+coupled to the scalar field. We compute the nucleation barrier for a model of
+scalar fields coupled to fermions, and compare our results to the expression
+commonly used in the literature. We find that, for large enough self-couplings,
+the inclusion of scalar loops in the expression of the nucleation barrier leads
+to an underestimate of the decay rate in the neighborhood of the critical
+temperature.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 20:14:19 GMT""}]","2009-10-22"
+"hep-ph/9304235","My Account","J. Lopez, D. Nanopoulos, X. Wang, and A. Zichichi","SUSY signals at HERA in the no-scale flipped SU(5) supergravity model","11 pages, 8 figures (available upon request as uuencoded file or
+  separate ps files), tex (harvmac) CTP-TAMU-15/93, CERN/LAA/93-19","Phys.Rev.D48:4029-4036,1993","10.1103/PhysRevD.48.4029",,"hep-ph",,"  Sparticle production and detection at HERA are studied within the recently
+proposed no-scale flipped $SU(5)$ supergravity model. Among the various
+reaction channels that could lead to sparticle production at HERA, only the
+following are within its limit of sensitivity in this model: $e^-p\to \tilde
+e^-_{L,R}\chi^0_i+X, \tilde \nu_e\chi^-_1+X$, where $\chi^0_i(i=1,2)$ are the
+two lightest neutralinos and $\chi^-_1$ is the lightest chargino. We study the
+elastic and deep-inelastic contributions to the cross sections using the
+Weizs\""acker-Williams approximation. We find that the most promising
+supersymmetric production channel is right-handed selectron ($\tilde e_{R}$)
+plus first neutralino ($\chi^0_1$), with one hard electron and missing energy
+signature. The $\tilde\nu_e\chi^-_1$ channel leads to comparable rates but also
+allows jet final states. A right-handedly polarized electron beam at HERA would
+shut off the latter channel and allow preferentially the former one. With an
+integrated luminosity of ${\cal L}=100\ipb$, HERA can extend the present LEPI
+lower bounds on $m_{\tilde e_R}, m_{\tilde\nu_e},m_{\chi^0_1}$ by
+$\approx25\GeV$, while ${\cal L}=1000\ipb$ will make HERA competitive with
+LEPII. We also show that the Leading Proton Spectrometer (LPS) at HERA is an
+excellent supersymmetry detector which can provide indirect information about
+the sparticle masses by measuring the leading proton longitudinal momentum
+distribution.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 18:47:27 GMT""}]","2009-08-25"
+"hep-ph/9304236",,"Thomas M. Gould and I.Z. Rothstein","Decoupling in Non-Perturbative Background Fields: the Thermal Sphaleron","31 pages (2 figures available upon request), UM-93-02, JHU-TIPAC
+  930001","Phys.Rev.D48:5917-5929,1993","10.1103/PhysRevD.48.5917",,"hep-ph hep-th",,"  Standard decoupling of heavy fermions may fail when there are
+non-perturbative variations in a scalar field which gives masses to the
+fermions. One situation of phenomenological relevance is the case of sphalerons
+in the presence of fermions at finite temperatures. The free energy of a simple
+model is determined using a non-perturbative technique to study the effect of
+fermions on the scalar field. The effects of quantum and thermal fermionic
+fluctuations on the free energy of the thermal sphaleron are calculated,
+including contributions from the gradients of the scalar field to all orders.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 16:31:18 GMT""}]","2010-11-01"
+"hep-ph/9304237","Tom Weiler","Thomas J. Weiler and K. Ghafoori--Tabrizi","Measuring Charm and Bottom Quark Masses","3 pages, LaTex, no figures, VAND--TH--93--3",,,,"hep-ph",,"  The meaning and the extraction of heavy quark masses are discussed. A simple
+production model is presented which incorporates the running of the heavy quark
+mass into perturbative calculations. The model offers the possibilities of (i)
+understanding the differing charmed mass values extracted from different
+experiments, (ii) determining the short--distance mass relevent to quark mass
+matrix and mixing angle studies, and (iii) determining the long--distance charm
+mass, which determines the charm quark threshold and sensitively affects the
+extraction of $\sin^2\theta_w $. Threshold and forward angle production offer
+the best possibilities to test the model and extract meaningful charm/bottom
+masses.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 19:13:50 GMT""}]","2007-05-23"
+"hep-ph/9304238","Haim Goldberg","Haim Goldberg and Rogerio Rosenfeld","Large Multiplicity Gluon Production in QCD","13 pages, LaTex, NUB-3061/93-TH","Phys. Lett. B333 (1994) 178-183","10.1016/0370-2693(94)91026-X",,"hep-ph",,"  We compute the approximate cross section $\sigma_n^{(0)}$ for producing $n-2$
+{\it resolved} gluons in a gluon-gluon collision, using the Parke-Taylor
+formula regularized in a Lorentz invariant manner. We find, in double leading
+logarithm approximation, that \[ \sigma_{n}^{(0)} \approx \frac{1}{s} \left(
+\frac{N_c\alpha_s}{2 \pi \sqrt{12}}
+  \ \ln^{2} (s/s_{cut})\right)^{n-2}\ \ , \] where $\sqrt{s_{cut}}$ is the
+minimum invariant mass for a resolved gluon pair. There is no factor of
+$1/(n-2)!$ multiplying the expression. We present additional numerical results,
+and comment on their implications for perturbative calculations of $n$-jet
+cross sections at colliders.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 20:23:00 GMT""}]","2009-10-22"
+"hep-ph/9304239",,"U. Baur, S. Errede, and J. Ohnemus","Ratios of $W^\pm\gamma$ and $Z\gamma$ Cross Sections: New Tools in
+  Probing the Weak Boson Sector at the Tevatron","TeX, 39 pages, FSU-HEP-930322, UIUC-HEP-93-01, DTP/93/14, 15 Figures
+  (uuencoded tar file, postscript) appended","Phys.Rev. D48 (1993) 4103-4120","10.1103/PhysRevD.48.4103",,"hep-ph",,"  The ratios ${\cal R}_{\gamma ,\ell}=B(Z\to\ell^+\ell^-)\cdot\sigma(Z\gamma)
+/\allowbreak B(W\to\ell\nu)\cdot\sigma(W^\pm\gamma)$, ${\cal R}_{\gamma , \nu}=
+B(Z\to\bar\nu\nu)\cdot\sigma(Z\gamma)/\allowbreak B(W\to\ell\nu)\cdot\sigma(W^
+\pm\gamma)$, ${\cal R}_{W\gamma}=\sigma(W^\pm\gamma)/\allowbreak\sigma(W^\pm)$,
+and ${\cal R}_{Z\gamma}=\sigma(Z\gamma)/\allowbreak\sigma(Z)$ are studied as
+tools to probe the electroweak boson self-interactions. As a function of the
+minimum photon transverse momentum, ${\cal R}_{\gamma ,\ell}$ and ${\cal R}_{
+\gamma ,\nu}$ are found to directly reflect the radiation zero present in $W^
+\pm\gamma$ production in the Standard Model. All four ratios are sensitive to
+anomalous $WW\gamma$ and/or $ZZ\gamma/Z\gamma\gamma$ couplings. The sensitivity
+of the cross section ratios to the cuts imposed on the final state particles,
+as well as the systematic uncertainties resulting from different
+parametrizations of parton distribution functions, the choice of the
+factorization scale $Q^2$, and from higher order QCD corrections are explored.
+Taking into account these uncertainties, sensitivity limits for anomalous three
+gauge boson couplings, based on a measurement of the cross section ratios with
+an integrated luminosity of 25~pb$^{-1}$ at the Tevatron, are estimated.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 20:57:31 GMT""}]","2009-10-22"
+"hep-ph/9304240",,"T. Appelquist and G. Wu","The Electroweak Chiral Lagrangian and New Precision Measurements","21 pages, LaTex, 2 figures (not included), YCTP-P7-93","Phys.Rev. D48 (1993) 3235-3241","10.1103/PhysRevD.48.3235",,"hep-ph",,"  A revised and complete list of the electroweak chiral lagrangian operators up
+to dimension-four is provided. The connection of these operators to the $S$,
+$T$ and $U$ parameters and the parameters describing the triple gauge boson
+vertices $WW\gamma$ and $WWZ$ is made, and the size of these parameters from
+new heavy physics is estimated using a one flavor-doublet model of heavy
+fermions. The coefficients of the chiral lagrangian operators are also computed
+in this model.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 22:33:11 GMT""}]","2009-10-22"
+"hep-ph/9304241","JiangLiu","Jiang Liu and Gino Segre","Re-Examination of Generation of Baryon and Lepton Number Asymmetries by
+  Heavy Particle Decay","12 pages, 2 Feynman graphs (not included), UPR-0559","Phys.Rev.D48:4609-4612,1993","10.1103/PhysRevD.48.4609",,"hep-ph",,"  It is shown that wave function renormalization can introduce an important
+contribution to the generation of baryon and lepton number asymmetries by heavy
+particle decay. These terms, omitted in previous analyses, are of the same
+order of magnitude as the standard terms. A complete cancellation of leading
+terms can result in some interesting cases.
+","[{""version"":""v1"",""created"":""Fri, 9 Apr 1993 13:21:16 GMT""}]","2008-11-26"
+"hep-th/9304032",,"A.P.Balachandran, G.Bimonte, K.S.Gupta, G.Marmo, P.Salomonson,
+  A.Simoni, A.Stern","Current Algebra and Conformal Field Theory on a Figure Eight","39 pages; Latex with 1 figure included in encapsulated postscript
+  format. psbox.tex required","Int. J. Mod. Phys. A8 (1993) 5641","10.1142/S0217751X9300223X","SU-4240-528","hep-th",,"  We examine the dynamics of a free massless scalar field on a figure eight
+network. Upon requiring the scalar field to have a well defined value at the
+junction of the network, it is seen that the conserved currents of the theory
+satisfy Kirchhoff's law, that is that the current flowing into the junction
+equals the current flowing out. We obtain the corresponding current algebra and
+show that, unlike on a circle, the left- and right-moving currents on the
+figure eight do not in general commute in quantum theory. Since a free scalar
+field theory on a one dimensional spatial manifold exhibits conformal symmetry,
+it is natural to ask whether an analogous symmetry can be defined for the
+figure eight. We find that, unlike in the case of a manifold, the action plus
+boundary conditions for the network are not invariant under separate conformal
+transformations associated with left- and right-movers. Instead, the system is,
+at best, invariant under only a single set of transformations. Its conserved
+current is also found to satisfy Kirchhoff's law at the junction. We obtain the
+associated conserved charges, and show that they generate a Virasoro algebra.
+Its conformal anomaly (central charge) is computed for special values of the
+parameters characterizing the network.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 19:38:00 GMT""}]","2015-06-26"
+"hep-th/9304033","Rashmi Ray","Rashmi Ray & B. Sakita","The Electromagnetic Interactions of Electrons in the Lowest Landau Level","17 pages, Plain tex, CCNY-HEP-93/1","Annals Phys. 230 (1994) 131-144","10.1006/aphy.1994.1020",,"hep-th cond-mat",,"  Starting from a system of planar electrons in a strong magnetic field normal
+to the plane, interacting with perturbing electromagnetic fields, an effective
+Lagrangian for the fermions in the lowest Landau level (L.L.L.) has been
+derived. By choosing a suitable background electrostatic potential, an
+incompressible droplet of these electrons is constructed. The gauge invariant
+effective Lagrangian for the electrons in the L.L.L. is shown to split
+naturally into a $1+1$ dimensional Lagrangian for the electrons on the surface
+of the droplet and into a $2+1$ dimensional gauge-field Lagrangian representing
+the contribution of the interior of the droplet. Upon bosonization, the former
+represents the surface vibrations of the droplet. Individually neither of these
+two actions is gauge invariant, but it is shown that the gauge dependence from
+the two pieces cancels out. This demonstrates that the edge degrees of freedom
+are essential for maintaining gauge invariance.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 18:43:44 GMT""}]","2009-10-22"
+"hep-th/9304034",,"A. Klemm and S. Theisen","Mirror Maps and Instanton Sums for Complete Intersections in Weighted
+  Projective Space","10 pages","Mod.Phys.Lett.A9:1807-1818,1994","10.1142/S0217732394001660","LMU-TP 93-08","hep-th math.AG",,"  We consider a class of Calabi-Yau compactifications which are constructed as
+a complete intersection in weighted projective space. For manifolds with one
+K\""ahler modulus we construct the mirror manifolds and calculate the instanton
+sum.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 18:51:30 GMT""}]","2010-11-01"
+"hep-th/9304035",,"J. A. Dixon and R. Minasian","BRS Cohomology of the Supertranslations in D=4","14 pages, CTP-TAMU-13/93","Commun.Math.Phys.172:1-12,1995","10.1007/BF02104508",,"hep-th",,"  Supersymmetry transformations are a kind of square root of spacetime
+translations. The corresponding Lie superalgebra always contains the
+supertranslation operator $ \delta = c^{\alpha} \sigma^{\mu}_{\alpha \dot
+\beta} {\overline c}^{\dot \beta} (\epsilon^{\mu})^{\dag} $. We find that the
+cohomology of this operator depends on a spin-orbit coupling in an SU(2) group
+and has a quite complicated structure. This spin-orbit type coupling will turn
+out to be basic in the cohomology of supersymmetric field theories in general.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 19:24:36 GMT""}]","2008-11-26"
+"hep-th/9304036","Michael Martin Nieto","Michael Martin Nieto","Quantum Phase and Quantum Phase Operators: Some Physics and Some History","19 pages, 2 Figs. taken from published articles, LaTeX, to be
+  published in Physica Scripta, Los Alamos preprint LA-UR-92-3522","Phys.Scripta T48:5,1993","10.1088/0031-8949/1993/T48/001",,"hep-th",,"  After reviewing the role of phase in quantum mechanics, I discuss, with the
+aid of a number of unpublished documents, the development of quantum phase
+operators in the 1960's. Interwoven in the discussion are the critical physics
+questions of the field: Are there (unique) quantum phase operators and are
+there quantum systems which can determine their nature? I conclude with a
+critique of recent proposals which have shed new light on the problem.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 20:48:45 GMT""}]","2011-07-19"
+"hep-th/9304037","Emil Martinec","Emil Martinec","The Light Cone in String Theory","9 pages; some minor errors corrected; discussion section expanded","Class.Quant.Grav.10:L187-L192,1993","10.1088/0264-9381/10/10/002","EFI-91-23","hep-th",,"  The causal boundary of string propagation -- defined as the hypersurface in
+loop space bordering the timelike(spacelike) domains in which two successive
+measurements of the string field do(do not) interfere with one another -- is
+argued to be $0=\int d\sigma\bigl(\delta X(\sigma)\bigr)^2 =
+  \sum_{\ell=-\infty}^\infty \delta x^\mu_{-\ell}\delta x_{\mu \ell}.$ Some
+possible consequences are discussed.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 22:34:38 GMT""},{""version"":""v2"",""created"":""Mon, 12 Apr 1993 16:25:26 GMT""}]","2010-04-06"
+"hep-th/9304038","Changhyun Ahn","Changhyun Ahn","Free Superfield Realization of N=2 Quantum Super W_{3} Algebra","10 pages, ITP-SB-93-18","Mod.Phys.Lett. A9 (1994) 271-278","10.1142/S0217732394000289",,"hep-th",,"  We rewrite $ N=2$ quantum super $W_{3}$ algebra, a nonlinear extended $N=2$
+super Virasoro algebra, containing one additional primary superfield of
+dimension $2$ which has no $U(1)$ charge, besides the super stress energy
+tensor of dimension $1$ in $N=2$ superspace. The free superfield realization of
+this algebra is obtained by two $N=2$ chiral fermionic superfields of dimension
+$1/2$ satisfying $N=2$ complex $ U(1)$ Kac-Moody algebras.
+","[{""version"":""v1"",""created"":""Fri, 9 Apr 1993 08:01:42 GMT""}]","2015-06-26"
+"hep-th/9304039","Hiroshi Ishikawa","H.Ishikawa and M.Kato","c=1 String as a Topological Model","23 pages + 3 figures in PostScript, LaTeX, UT-Komaba/93-7.
+  Description of the $c=1$ physical spectrum in terms of topological model is
+  improved. Some references and new figures added. (figures are available upon
+  request.)","Int.J.Mod.Phys. A9 (1994) 5769-5790","10.1142/S0217751X94002387",,"hep-th",,"  The discrete states in the $c=1$ string are shown to be the physical states
+of a certain topological sigma model. We define a set of new fields directly
+from $c=1$ variables, in terms of which the BRST charge and energy-momentum
+tensor are rewritten as those of the topological sigma model. Remarkably,
+ground ring generator $x$ turns out to be a coordinate of the sigma model. All
+of the discrete states realize a graded ring which contains ground ring as a
+subset.
+","[{""version"":""v1"",""created"":""Fri, 9 Apr 1993 10:39:55 GMT""},{""version"":""v2"",""created"":""Tue, 28 Dec 1993 10:31:09 GMT""},{""version"":""v3"",""created"":""Thu, 30 Dec 1993 08:43:03 GMT""}]","2009-10-22"
+"hep-th/9304041",,"I.V.Volovich","Affine Strings","9 pages, SMI-2-93","Mod.Phys.Lett. A8 (1993) 1827-1834","10.1142/S0217732393001550",,"hep-th",,"  A new model of bosonic strings is considered. An action of the model is the
+sum of the standard string action and a term describing an interaction of a
+metric with a linear (affine) connection. The Lagrangian of this interaction is
+an arbitrary analytic function $f(R)$ of the scalar curvature. This is a
+classically integrable model. The space of classical solutions of the theory
+consists from sectors with constant curvature. In each sector the equations of
+motion reduce to the standard string equations and to an additional constant
+curvature equation for the linear connection. A bifurcation in the space of all
+Lagrangians takes place. Quantization of the model is briefly discussed. In a
+quasiclassical approximation one gets the standard string model with a
+fluctuating cosmological constant. The Lagrangian $f(R)$, like Morse function,
+governs transitions between manifolds with different topologies.
+","[{""version"":""v1"",""created"":""Fri, 9 Apr 1993 11:21:00 GMT""}]","2019-06-05"
+"nucl-th/9304007","Mcneil James A.","J. A. McNeil and C. E. Price","Chiral Baryon with Quantized Pions","15 pages, typeset in RevTeX, 2 postscript Figure files available upon
+  request. CSM#002",,,,"nucl-th",,"  We study a hybrid chiral model for the nucleon based on the linear sigma
+model with explicit quarks. We solve the model using a Fock-space configuration
+consisting of three quarks plus three quarks and a pion as the ground state
+ansatz in place of the ``hedgehog'' ansatz. We minimize the expectation value
+of the chiral hamiltonian in this ground state configuration and solve the
+resulting equations for nucleon quantum numbers. We calculate the canonical set
+of nucleon observables and compare with previous work.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 16:34:02 GMT""}]","2007-05-23"
+"nucl-th/9304008",,"D. Klakow, G. Welke, and W. Bauer","Nuclear Flow Excitation Function","11 pages (LaTeX), 7 figures (not included), MSUCL-884, WSU-NP-93-1","Phys.Rev.C48:1982-1987,1993","10.1103/PhysRevC.48.1982",,"nucl-th",,"  We consider the dependence of collective flow on the nuclear surface
+thickness in a Boltzmann--Uehling--Uhlenbeck transport model of heavy ion
+collisions. Well defined surfaces are introduced by giving test particles a
+Gaussian density profile of constant width. Zeros of the flow excitation
+function are as much influenced by the surface thickness as the nuclear
+equation of state, and the dependence of this effect is understood in terms of
+a simple potential scattering model. Realistic calculations must also take into
+account medium effects for the nucleon--nucleon cross section, and impact
+parameter averaging. We find that balance energy scales with the mass number as
+$A^{-y}$, where $y$ has a numerical value between 0.35 and 0.5, depending on
+the assumptions about the in-medium nucleon-nucleon cross section.
+","[{""version"":""v1"",""created"":""Thu, 8 Apr 1993 22:19:48 GMT""}]","2008-11-26"

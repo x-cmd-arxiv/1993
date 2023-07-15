@@ -1,0 +1,263 @@
+"astro-ph/9304027","Maggie Best","D. Lai, F. A. Rasio, and S. L. Shapiro","Hydrodynamic Instability and Coalescence of Binary Neutron Stars","Latex with aaspp style (AAS latex macros v. 3.0). Figures and tables:
+  latex tables and postscript figures in a separate file. IASSNS number
+  AST93/22","Astrophys.J. 420 (1994) 811-829","10.1086/173606",,"astro-ph",,"  We study the importance of hydrodynamic effects on the evolution of
+coalescing binary neutron stars. Using an approximate energy functional
+constructed from equilibrium solutions for polytropic binary configurations, we
+incorporate hydrodynamic effects into the calculation of the orbital decay
+driven by gravitational wave emission. In particular, we follow the transition
+between the quasi-static, secular decay of the orbit at large separation and
+the rapid dynamical evolution of configurations approaching contact. We show
+that a purely Newtonian hydrodynamic instability can significantly accelerate
+the coalescence at small separation. Such an instability occurs in all close
+binary configurations containing sufficiently incompressible stars.
+Calculations are performed for various neutron star masses, radii, spins, and
+effective polytropic indices. Typically, we find that the radial infall
+velocity just prior to contact is about 10\% of the tangential orbital
+velocity. Post-Newtonian effects can move the stability limit to a larger
+binary separation, and may induce an even larger radial velocity. We also
+consider the possibility of mass transfer from one neutron star to the other.
+We show that stable mass transfer is impossible except when the mass of one of
+the components is very small (less than about 0.4 solar mass) and the viscosity
+is high enough to maintain corotation.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 18:28:35 GMT""}]","2009-10-22"
+"astro-ph/9304028",,"P. Barge and R. Pellat","Mass Spectrum and Velocity Dispersions During Planetesimals Accumulation
+  - II - Fragmentation","30 pp - plain TEX - Accepted to Icarus",,"10.1006/icar.1993.1084",,"astro-ph",,"  Fragmentation of the planetesimals is found to play a role whose importance
+is greater than previously believed and depends on the average characteristic
+size of the primordial planetesimals but not on their mass distribution. In the
+small size range the mass spectrum is strongly modified with the formation of a
+small bodies tail but, on the other hand, the growth of the most massive
+objects is significantly slowed down. The formation of planetary embryos much
+more massive than the rest of the swarm is delayed; nevertheless the time-scale
+problem for the growth of the outer planets is not revived.
+","[{""version"":""v1"",""created"":""Thu, 29 Apr 1993 11:23:00 GMT""}]","2009-10-22"
+"chao-dyn/9304011","Robert I. McLachlan","Robert I. McLachlan (Program in Applied Math, University of Colorado
+  at Boulder)","Explicit Lie-Poisson integration and the Euler equations","7 pages, compile with AMSTEX; 2 figures available from author",,"10.1103/PhysRevLett.71.3043",,"chao-dyn comp-gas nlin.CD nlin.CG",,"  We give a wide class of Lie-Poisson systems for which explicit, Lie-Poisson
+integrators, preserving all Casimirs, can be constructed. The integrators are
+extremely simple. Examples are the rigid body, a moment truncation, and a new,
+fast algorithm for the sine-bracket truncation of the 2D Euler equations.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 19:52:59 GMT""}]","2009-10-22"
+"chao-dyn/9304012",,"Giovanni Gallavotti","Twistless KAM tori, quasi flat homoclinic intersections, and other
+  cancellations in the perturbation series of certain completely integrable
+  hamiltonian systems. A review","46 pages, Plain Tex, generates four figures named f1.ps,f2.ps,
+  f3.ps,f4.ps. This paper replaces a preceding version which contained an error
+  at the last paragraph of section 6, invalidating section 7 (but not the rest
+  of the paper). The error is corrected here. If you already printed the
+  previous paper only p.1,3, p.29 and section 7 with the appendices 3,4 need to
+  be reprinted (ie: p. 30,31,32 and 41","Reviews on Mathematical Physics, 6, 343--411, 1994","10.1142/S0129055X9400016X",,"chao-dyn nlin.CD",,"  Rotators interacting with a pendulum via small, velocity independent,
+potentials are considered. If the interaction potential does not depend on the
+pendulum position then the pendulum and the rotators are decoupled and we study
+the invariant tori of the rotators system at fixed rotation numbers: we exhibit
+cancellations, to all orders of perturbation theory, that allow proving the
+stability and analyticity of the dipohantine tori. We find in this way a proof
+of the KAM theorem by direct bounds of the $k$--th order coefficient of the
+perturbation expansion of the parametric equations of the tori in terms of
+their average anomalies: this extends Siegel's approach, from the linearization
+of analytic maps to the KAM theory; the convergence radius does not depend, in
+this case, on the twist strength, which could even vanish ({\it ""twistless KAM
+tori""}). The same ideas apply to the case in which the potential couples the
+pendulum and the rotators: in this case the invariant tori with diophantine
+rotation numbers are unstable and have stable and unstable manifolds ({\it
+""whiskers""}): instead of studying the perturbation theory of the invariant tori
+we look for the cancellations that must be present because the homoclinic
+intersections of the whiskers are {\it ""quasi flat""}, if the rotation velocity
+of the quasi periodic motion on the tori is large. We rederive in this way the
+result that, under suitable conditions, the homoclinic splitting is smaller
+than any power in the period of the forcing and find the exact asymptotics in
+the two dimensional cases ({\it e.g.} in the case of a periodically forced
+pendulum). The technique can be applied to study other quantities: we mention,
+as another example, the {\it homoclinic scattering phase shifts}.}
+","[{""version"":""v1"",""created"":""Thu, 29 Apr 1993 13:57:25 GMT""},{""version"":""v2"",""created"":""Fri, 4 Jun 1993 17:44:03 GMT""},{""version"":""v3"",""created"":""Sun, 6 Jun 1993 10:45:25 GMT""}]","2009-10-22"
+"comp-gas/9304005","Shiyi Chen","F. J. Alexander, S. Chen and D. W. Grunau (LANL)","Hydrodynamic Spinodal Decomposition: Growth Kinetics and Scaling
+  Functions","12 pages, latex, Physical Review B Rapid Communication (in press)",,"10.1103/PhysRevB.48.634","LA-UR-92-4378","comp-gas nlin.CG",,"  We examine the effects of hydrodynamics on the late stage kinetics in
+spinodal decomposition. From computer simulations of a lattice Boltzmann scheme
+we observe, for critical quenches, that single phase domains grow
+asymptotically like $t^{\alpha}$, with $\alpha \approx .66$ in two dimensions
+and $\alpha \approx 1.0$ in three dimensions, both in excellent agreement with
+theoretical predictions.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 16:23:11 GMT""}]","2009-10-22"
+"comp-gas/9304006","Francis Alexander","F. J. Alexander (LANL), S. Chen (LANL) and J. D. Sterling (LANL and
+  Advanced Projects Research Incorporated)","Lattice Boltzmann Thermohydrodynamics","11 pages, Physical Review E: Rapid Communications, in press",,"10.1103/PhysRevE.47.R2249","LA-UR-92-2534","comp-gas nlin.CG",,"  We introduce a lattice Boltzmann computational scheme capable of modeling
+thermohydrodynamic flows of monatomic gases. The parallel nature of this
+approach provides a numerically efficient alternative to traditional methods of
+computational fluid dynamics. The scheme uses a small number of discrete
+velocity states and a linear, single-time-relaxation collision operator.
+Numerical simulations in two dimensions agree well with exact solutions for
+adiabatic sound propagation and Couette flow with heat transfer.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 17:12:18 GMT""}]","2009-10-22"
+"comp-gas/9304007","James Theiler","James Theiler (CNLS and T-division, LANL; and Santa Fe Institute),
+  Stephen Eubank (CNLS and T-division, LANL; Santa Fe Institute, and Prediction
+  Company)","Don't bleach chaotic data","12 dense pages (82K) of ordinary LaTeX; uses macro psfig.tex for
+  inclusion of figures in text; figures are uufile'd into a single file of size
+  306K; the final dvips'd postscript file is about 1.3mb Replaced 9/30/93 to
+  incorporate final changes in the proofs and to make the LaTeX more portable;
+  the paper will appear in CHAOS 4 (Dec, 1993)",,"10.1063/1.165936","LA-UR-92-1575","comp-gas nlin.CG",,"  A common first step in time series signal analysis involves digitally
+filtering the data to remove linear correlations. The residual data is
+spectrally white (it is ``bleached''), but in principle retains the nonlinear
+structure of the original time series. It is well known that simple linear
+autocorrelation can give rise to spurious results in algorithms for estimating
+nonlinear invariants, such as fractal dimension and Lyapunov exponents. In
+theory, bleached data avoids these pitfalls. But in practice, bleaching
+obscures the underlying deterministic structure of a low-dimensional chaotic
+process. This appears to be a property of the chaos itself, since nonchaotic
+data are not similarly affected. The adverse effects of bleaching are
+demonstrated in a series of numerical experiments on known chaotic data. Some
+theoretical aspects are also discussed.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 22:01:06 GMT""},{""version"":""v2"",""created"":""Thu, 30 Sep 1993 22:22:15 GMT""}]","2009-10-22"
+"cond-mat/9304050",,"A.A. Aligia and M. Balina","Impurity systems fluctuating between two magnetic configurations:
+  candidates for non Fermi-liquid behavior","12 pages,REVTEX,no figures,CNEA-CAB-3027",,,,"cond-mat",,"  The appropriate generalization of the isotropic impurity Anderson model for
+valence fluctuations between two magnetic multiplets $l^n$ and $l^{n+1}$ is
+solved in the strong-coupling limit of Wilson's renormalization group for
+$l\leq$ 3. Except in the extreme case of $j-j$ coupling, the ground state is
+degenerate, the impurity magnetic moment is very small and is overscreened by
+the conduction electrons. The strong-coupling fixed point turns out to be
+unstable. Thus, at low enough temperatures the physics of the systems should be
+governed by an intermediate coupling fixed point and non Fermi-liquid behavior
+is expected.
+","[{""version"":""v1"",""created"":""Thu, 29 Apr 1993 09:33:00 GMT""}]","2007-05-23"
+"gr-qc/9304040","Bizon Piotr","Piotr Bizon","Saddle points of stringy action","10 pages, 6 figures available on request, Latex file, ESI-1993-18","Acta Phys.Polon. B24 (1993) 1209-1220",,,"gr-qc",,"  It is shown that Einstein-Yang-Mills-dilaton theory has a countable family of
+static globally regular solutions which are purely magnetic but uncharged. The
+discrete spectrum of masses of these solutions is bounded from above by the
+mass of extremal Gibbons-Maeda solution. As follows from linear stability
+analysis all solutions are unstable.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 17:27:50 GMT""}]","2007-05-23"
+"gr-qc/9304041",,"Nenad Manojlovic and Guillermo A. Mena Marugan","Non-Perturbative Canonical Quantization of Minisuperspace Models:
+  Bianchi Types I and II","38 pages, plain TeX, SU-GP-93/4-4","Phys.Rev.D48:3704-3719,1993","10.1103/PhysRevD.48.3704",,"gr-qc",,"  We carry out the quantization of the full type I and II Bianchi models
+following the non-perturbative canonical quantization program. These
+homogeneous minisuperspaces are completely soluble, i.e., it is possible to
+obtain the general solution to their classical equations of motion in an
+explicit form. We determine the sectors of solutions that correspond to
+different spacetime geometries, and prove that the parameters employed to
+describe the different physical solutions define a good set of coordinates in
+the phase space of these models. Performing a transformation from the Ashtekar
+variables to this set of phase space coordinates, we endow the reduced phase
+space of each of these systems with a symplectic structure. The symplectic
+forms obtained for the type I and II Bianchi models are then identified as
+those of the cotangent bundles over ${\cal L}^+_{(+,+)}\times S^2\times S^1$
+and ${\cal L}^+_{(+,+)}\times S^1$, respectively. We construct a closed
+*-algebra of Dirac observables in each of these reduced phase spaces, and
+complete the quantization program by finding unitary irreducible
+representations of these algebras. The real Dirac observables are represented
+in this way by self-adjoint operators, and the spaces of quantum physical
+states are provided with a Hilbert structure.
+","[{""version"":""v1"",""created"":""Thu, 29 Apr 1993 00:29:00 GMT""}]","2010-11-01"
+"gr-qc/9304042","Sean Hayward","Sean A. Hayward","On the Definition of Averagely Trapped Surfaces","4 pages","Class.Quant.Grav.10:L137-L140,1993","10.1088/0264-9381/10/9/005",,"gr-qc",,"  Previously suggested definitions of averagely trapped surfaces are not
+well-defined properties of 2-surfaces, and can include surfaces in flat
+space-time. A natural definition of averagely trapped surfaces is that the
+product of the null expansions be positive on average. A surface is averagely
+trapped in the latter sense if and only if its area $A$ and Hawking mass $M$
+satisfy the isoperimetric inequality $16\pi M^2 > A$, with similar inequalities
+existing for other definitions of quasi-local energy.
+","[{""version"":""v1"",""created"":""Thu, 29 Apr 1993 11:55:18 GMT""}]","2010-04-06"
+"hep-ph/9304313",,"D.T. Barclay, R. Dutt, A. Gangopadhyaya, Avinash Khare, A. Pagnamenta
+  and U. Sukhatme","New Eaxactly Solvable Hamiltonians: Shape Invariance and Self-Similarity","26 pages, plain tex, request figures by e-mail","Phys.Rev. A48 (1993) 2786-2797","10.1103/PhysRevA.48.2786","UIC HEP_TH/93-4","hep-ph",,"  We discuss in some detail the self-similar potentials of Shabat and
+Spiridonov which are reflectionless and have an infinite number of bound
+states. We demonstrate that these self-similar potentials are in fact shape
+invariant potentials within the formalism of supersymmetric quantum mechanics.
+In particular, using a scaling ansatz for the change of parameters, we obtain a
+large class of new, reflectionless, shape invariant potentials of which the
+Shabat-Spiridonov ones are a special case. These new potentials can be viewed
+as q-deformations of the single soliton solution corresponding to the
+Rosen-Morse potential. Explicit expressions for the energy eigenvalues,
+eigenfunctions and transmission coefficients for these potentials are obtained.
+We show that these potentials can also be obtained numerically. Included as an
+intriguing case is a shape invariant double well potential whose supersymmetric
+partner potential is only a single well. Our class of exactly solvable
+Hamiltonians is further enlarged by examining two new directions: (i) changes
+of parameters which are different from the previously studied cases of
+translation and scaling; (ii) extending the usual concept of shape invariance
+in one step to a multi-step situation. These extensions can be viewed as
+q-deformations of the harmonic oscillator or multi-soliton solutions
+corresponding to the Rosen-Morse potential.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 16:09:13 GMT""}]","2009-10-22"
+"hep-ph/9304314","Herbert Weigel","H. Weigel, H. Reinhardt and R. Alkofer","Strange and Non-Strange Meson Fluctuations off the Nambu--Jona-Lasinio
+  Soliton","15 pages (four figures, not included available upon request),
+  UNITU-THEP-3/1993","Phys.Lett.B313:377-388,1993","10.1016/0370-2693(93)90007-5",,"hep-ph",,"  Mesonic fluctuations off the chiral soliton of the Nambu--Jona-Lasinio model
+are investigated. The hedgehog configuration is proven to represent a local
+extremum of the action. The method is applied to flavor SU(3) and the energy
+eigenvalue of the kaon bound state in the soliton background is evaluated which
+is the key ingredient for the Callan-Klebanov approach to hyperons. The energy
+eigenvalue of the corresponding strange-valence-quark is found to be 183MeV
+higher than the energy eigenvalue of the up-valence-quark when 400MeV is
+assumed for the up-quark constituent mass.
+","[{""version"":""v1"",""created"":""Thu, 29 Apr 1993 08:07:29 GMT""}]","2009-09-25"
+"hep-ph/9304315","Craig Roberts","Craig D. Roberts, Reginald T. Cahill, Martin E. Sevior and Nicolangelo
+  Iannella","pi-pi scattering in a QCD based model field theory","23 Pages, 4 figures in PostScript format, PHY-7512-TH-93, REVTEX
+  Available via anonymous ftp in /pub: login anonymou get pipi93.tex Fig1.ps
+  Fig2.ps Fig3.ps Fig4.ps","Phys.Rev.D49:125-137,1994","10.1103/PhysRevD.49.125",,"hep-ph",,"  A model field theory, in which the interaction between quarks is mediated by
+dressed vector boson exchange, is used to analyse the pionic sector of QCD. It
+is shown that this model, which incorporates dynamical chiral symmetry
+breaking, asymptotic freedom and quark confinement, allows one to calculate
+$f_\pi$, $m_\pi$, $r_\pi$ and the partial wave amplitudes in $\pi$-$\pi$
+scattering and obtain good agreement with the experimental data, with the
+latter being well described up to energies \mbox{$E\simeq 700$ MeV}.
+","[{""version"":""v1"",""created"":""Thu, 29 Apr 1993 08:28:43 GMT""}]","2010-03-04"
+"hep-th/9304143","Yao-Zhong Zhang","Mark D. Gould and Yao-Zhong Zhang","Quantized Affine Lie Algebras and Diagonalization of Braid Generators","11 pages (minor error corrected)","Lett.Math.Phys. 30 (1994) 267","10.1007/BF00751063","UQMATH-93-03","hep-th math.QA",,"  Let $U_q(\hat{\cal G})$ be a quantized affine Lie algebra. It is proven that
+the universal R-matrix $R$ of $U_q(\hat{\cal G})$ satisfies the celebrated
+conjugation relation $R^\dagger=TR$ with $T$ the usual twist map. As
+applications, braid generators are shown to be diagonalizable on arbitrary
+tensor product modules of integrable irreducible highest weight $U_q(\hat{\cal
+G})$-module and a spectral decomposition formula for the braid generators is
+obtained which is the generalization of Reshetikhin's and Gould's forms to the
+present affine case. Casimir invariants are constructed and their eigenvalues
+computed by means of the spectral decomposition formula. As a by-product, an
+interesting identity is found.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 22:27:44 GMT""},{""version"":""v2"",""created"":""Thu, 20 May 1993 17:16:50 GMT""},{""version"":""v3"",""created"":""Fri, 2 Jul 1993 17:53:11 GMT""}]","2009-10-22"
+"hep-th/9304144","Yao-Zhong Zhang","M.D.Gould and Y.-Z.Zhang","Casimir Invariants for Quantized Affine Lie Algebras","8 pages, LaTex file, UQMATH-93-04 (minor changes are made)","Lett.Math.Phys. 31 (1994) 77-83","10.1007/BF00751173",,"hep-th",,"  Casimir invariants for quantized affine Lie algebras are constructed and
+their eigenvalues computed in any irreducible highest weight representation.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 22:28:50 GMT""},{""version"":""v2"",""created"":""Thu, 20 May 1993 17:18:06 GMT""}]","2009-10-22"
+"hep-th/9304147","Lev Vaidman","Yakir Aharonov and Lev Vaidman","Measurement of the Schrodinger wave of a single particle","12, TAUP 2019-93#","Phys.Lett. A178 (1993) 38","10.1016/0375-9601(93)90724-E",,"hep-th gr-qc",,"  We show that it is possible to measure Schrodinger wave of a single quantum
+system. This provides a strong argument for associating physical reality with
+the quantum state of a single system, and challenges the usual assumption that
+the quantum state has physical meaning only for an ensemble of identical
+systems.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 18:02:00 GMT""}]","2009-10-22"
+"hep-th/9304148","Andrew Strominger","Tsvi Piran and Andrew Strominger","Numerical Analysis of Black Hole Evaporation","10 pages, 9 figures in separate uuencoded file","Phys.Rev.D48:4729-4734,1993","10.1103/PhysRevD.48.4729","NSF-ITP-93-36","hep-th gr-qc",,"  Black hole formation/evaporation in two-dimensional dilaton gravity can be
+described, in the limit where the number $N$ of matter fields becomes large, by
+a set of second-order partial differential equations. In this paper we solve
+these equations numerically. It is shown that, contrary to some previous
+suggestions, black holes evaporate completely a finite time after formation. A
+boundary condition is required to evolve the system beyond the naked
+singularity at the evaporation endpoint. It is argued that this may be
+naturally chosen so as to restore the system to the vacuum. The analysis also
+applies to the low-energy scattering of $S$-wave fermions by four-dimensional
+extremal, magnetic, dilatonic black holes.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 17:33:26 GMT""}]","2009-09-17"
+"hep-th/9304149","Patrick Dorey","Patrick Dorey","A remark on the coupling-dependence in affine Toda field theories","12 pages (harvmac), CERN-TH.6873/93","Phys.Lett. B312 (1993) 291-298","10.1016/0370-2693(93)91083-Y",,"hep-th",,"  The affine Toda field theories based on the non simply-laced Lie algebras are
+discussed. By rewriting the S-matrix formulae found by Delius et al, a
+universal form for the coupling-constant dependence of these models is
+obtained, and related to various general properties of the classical couplings.
+This is illustrated via the S-matrix associated with the dual pair of algebras
+$f_4^{(1)}$ and $e_6^{(2)}$.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 21:47:21 GMT""}]","2009-10-22"
+"hep-th/9304150","Rinat Kedem","S. Dasmahapatra, R. Kedem, B.M. McCoy and E. Melzer","Virasoro Characters from Bethe Equations for the Critical Ferromagnetic
+  Three-State Potts Model","36 pages in LaTeX, ITP-SB-93-17","J.Statist.Phys. 74 (1994) 239","10.1007/BF02186814",,"hep-th",,"  We obtain new fermionic sum representations for the Virasoro characters of
+the confromal field theory describing the ferromagnetic three-state Potts spin
+chain. These arise from the fermionic quasi-particle excitations derived from
+the Bethe equations for the eigenvalues of the hamiltonian. In the conformal
+scaling limit, the Bethe equations provide a description of the spectrum in
+terms of one genuine quasi-particle, and two ``ghost'' excitations with a
+limited microscopic momentum range. This description is reflected in the
+structure of the character formulas, and suggests a connection with the
+integrable perturbation of dimensions (2/3,2/3)$^+$ which breaks the $S_3$
+symmetry of the conformal field theory down to $Z_2$.
+","[{""version"":""v1"",""created"":""Thu, 29 Apr 1993 00:35:08 GMT""}]","2009-10-22"
+"hep-th/9304153","Juan Perez-Mercader","J. Perez-Mercader","Quantum Fluctuations and Irreversibility","LaTeX, 14 pages plus 4 Figures (available from the author upon
+  request), LAEFF--93/003",,,,"hep-th gr-qc hep-ph",,"  We study how the effects of quantum corrections lead to notions of
+irreversibility and clustering in quantum field theory. In particular, we
+consider the virtual ``charge"" distribution generated by quantum corrections
+and adopt for it a statistical interpretation. Then, this virtual charge is
+shown to ($a$) describe a system where the equilibrium state is at its
+classical limit ($\hbar \rightarrow 0$), ($b$) give rise to spatial diffusion
+of the virtual cloud that decays as the classical limit is approached and ($c$)
+lead to a scenario where clustering takes place due to quantum dynamics, and a
+natural transition from a ``fractal"" to a homogeneous regime occurs as
+distances increase.
+","[{""version"":""v1"",""created"":""Thu, 29 Apr 1993 15:52:13 GMT""}]","2007-05-23"
+"solv-int/9304003","Robert I. McLachlan","Robert I. McLachlan (Program in Applied Mathematics, University of
+  Colorado at Boulder)","Integrable four-dimensional symplectic maps of standard type","5 pages, compile with plain TEX. No figures. To appear in Physics
+  Letters A",,"10.1016/0375-9601(93)90027-W",,"solv-int nlin.SI",,"  We search for rational, four-dimensional maps of standard type (x_{n+1} -
+2x_n + x_{n-1} = eps f(x,eps)) possessing one or two polynomial integrals.
+There are no non-trivial maps corresponding to cubic oscillators, but we find a
+four-parameter family of such maps corresponding to quartic oscillators. This
+seems to be the only such example.
+","[{""version"":""v1"",""created"":""Wed, 28 Apr 1993 19:58:33 GMT""}]","2009-10-22"

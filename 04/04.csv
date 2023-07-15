@@ -1,0 +1,47 @@
+"hep-lat/9304002","Alan Sokal","Mona Lubin and Alan D. Sokal","Comment on ``Antiferromagnetic Potts Models''","3 pages, 10774 bytes Latex, NYU-TH-93/04/01","Phys.Rev.Lett.71:1778,1993","10.1103/PhysRevLett.71.1778",,"hep-lat",,"  We show that the Wang-Swendsen-Koteck\'y algorithm for antiferromagnetic
+$q$-state Potts models is nonergodic at zero temperature for $q=3$ on periodic
+$3m \times 3n$ lattices where $m,n$ are relatively prime. For $q \ge 4$ and/or
+other lattice sizes or boundary conditions, the ergodicity at zero temperature
+is an open question.
+","[{""version"":""v1"",""created"":""Sat, 3 Apr 1993 19:35:51 GMT""}]","2009-01-23"
+"hep-ph/9304207","guey-lin Lin","G.-L. Lin, H. Steger and Y.-P. Yao","Heavy Top Quark Effects in Vertices with Light External Fermions","PHYZZX, 56 pages, IP-ASTP-09-93. Part C of Section 4 has been revised","Phys.Rev. D49 (1994) 2414-2434","10.1103/PhysRevD.49.2414",,"hep-ph",,"  We extend our previous work on non-linear realization of the top quark field,
+which is a consequence of its being much heavier than any other scales. One
+loop effective Lagrangian to account for virtual top effects is constructed in
+this article, for processes where there are two external fermions, as well as
+any number of bosons. Particularly, we focus on those terms which have power
+dependence on the top mass $m_t$.
+","[{""version"":""v1"",""created"":""Sun, 4 Apr 1993 00:00:53 GMT""},{""version"":""v2"",""created"":""Thu, 14 Oct 1993 22:52:54 GMT""}]","2009-10-22"
+"hep-ph/9304208","Hans Eggers","H.C. Eggers, P. Lipa, P. Carruthers and B. Buschbeck","Integral correlation measures for multiparticle physics","23 pages, 6 tar-compressed uuencoded PostScript figures appended,
+  preprint TPR-92-47","Phys.Rev. D48 (1993) 2040-2053","10.1103/PhysRevD.48.2040",,"hep-ph",,"  We report on a considerable improvement in the technique of measuring
+multiparticle correlations via integrals over correlation functions. A
+modification of measures used in the characterization of chaotic dynamical
+sytems permits fast and flexible calculation of factorial moments and cumulants
+as well as their differential versions. Higher order correlation integral
+measurements even of large multiplicity events such as encountered in heavy ion
+collisons are now feasible. The change from ``ordinary'' to ``factorial''
+powers may have important consequences in other fields such as the study of
+galaxy correlations and Bose-Einstein interferometry.
+","[{""version"":""v1"",""created"":""Sat, 3 Apr 1993 17:15:02 GMT""}]","2009-10-22"
+"hep-ph/9304209","Kingman Cheung","Kingman Cheung","Search for the intermediate Mass Higgs Signal at TeV $e\gamma$ colliders","Latex(Revtex), 30 pages, 8 figures in postscript format (uuencoded),
+  NUHEP-TH-93-3","Phys.Rev. D48 (1993) 1035-1047","10.1103/PhysRevD.48.1035",,"hep-ph",,"  The intermediate mass Higgs (IMH) can be abundantly produced through the
+process $e^-\gamma \rightarrow W^-H\nu$ at TeV $e^-\gamma$ colliders, which are
+realized by the laser back-scattering method. We search for the signature of
+$W^-H \rightarrow (jj)(b\bar b)$ plus missing transverse momentum, with and
+without considering the $b$-tagging. We also analyse all the potential
+backgrounds from $e^-\gamma \rightarrow W^-Z\nu,\,W^-W^+e^-,\,ZZe^-,\, \bar t
+b\nu$ and $t\bar t e^-$. With our selective acceptance cuts these backgrounds
+are reduced to a manageable level. We find that for the entire intermediate
+mass range 60 -- 150~GeV the Higgs discovery should be viable. We also present
+detail formulas for the helicity amplitudes of these processes.
+","[{""version"":""v1"",""created"":""Sat, 3 Apr 1993 20:23:12 GMT""}]","2009-10-22"
+"hep-th/9304007",,"S.P. Sorella and M. Werneck de Oliveira","Algebraic Characterization of the Lorentz and Diffeomorphism Anomalies","23 pages, LateX, REF.SISSA 24/93/EP","Int. J. Mod. Phys. A9 (1994) 2979-2996","10.1142/S0217751X94001175",,"hep-th",,"  The Wess-Zumino consistency conditions for Lorentz and diffeomorphism
+anomalies are discussed by introducing an operator 'delta' which allows to
+decompose the exterior derivative as a BRS commutator.
+","[{""version"":""v1"",""created"":""Sat, 3 Apr 1993 16:55:00 GMT""}]","2015-06-26"
+"patt-sol/9404001","R. A. Sharipov","A.Yu.Boldin and R.A.Sharipov (Department of Mathematics, Bashkir State
+  University, Frunze str. 32, 450074 Ufa, Russia)","Multidimensional Dynamical Systems Accepting the Normal Shift","AMS-TeX, ver. 2.1, IBM AT-386, size 16K (ASCII), short version","Dokladi Akademii Nauk. 334(1994), No. 2, P. 165-167","10.1007/BF01016762",,"patt-sol alg-geom astro-ph math.AG nlin.PS",,"  The dynamical systems of the form $\ddot\bold r=\bold F (\bold r,\dot\bold
+r)$ in $\Bbb R^n$ accepting the normal shift are considered. The concept of
+weak normality for them is introduced. The partial differential equations for
+the force field $\bold F(\bold r,\dot\bold r)$ of the dynamical systems with
+weak and complete normality are derived.
+","[{""version"":""v1"",""created"":""Sun, 4 Apr 1993 02:39:33 GMT""}]","2009-10-28"

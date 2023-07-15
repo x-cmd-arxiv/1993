@@ -1,0 +1,116 @@
+"cond-mat/9307067","Anatoly Ovchinnikov","A.A.Ovchinnikov","Variational bound for the energy of two-dimensional quantum
+  antiferromagnet","7 pages, LaTex, JETP Letters (Pisma v ZhETF) 57 (1993) 796-800","Pisma Zh.Eksp.Teor.Fiz. 57 (1993) 796-800",,,"cond-mat",,"  We obtain the variational upper bound for the ground- state energy of
+two-dimensional antiferromagnetic Heisenberg model on a square lattice at
+arbitrary value of the anisotropy parameter using the two-dimensional
+generalization of Jordan-Wigner transformation. Our result can be considered as
+an upper bound for the perturbation theory series about the Ising limit.
+","[{""version"":""v1"",""created"":""Sun, 1 Aug 1993 16:56:58 GMT""}]","2007-05-23"
+"cond-mat/9308001",,"Sandro Sorella","Numerical Evidence of Luttinger and Fermi Liquid Behaviour in the 2D
+  Hubbard Model","10 pages + 4 pictures, RevTex, SISSA 121/93/CM/MB",,"10.1103/PhysRevB.49.12373",,"cond-mat",,"  The two dimensional Hubbard model with a single spin-up electron interacting
+with a finite density of spin-down electrons is studied using the quantum
+  Monte Carlotechnique, a new conjugate gradient method for the evaluation of
+the Edwards wavefunction ansatz, and the standard second order perturbation
+theory. We performed simulations up to 242 sites at $U/t=4$ reaching the zero
+temperature properties with no ``fermion sign problem'' and found a
+surprisingly good accuracy of the Edwards wavefunction ansatz at low density or
+low doping. The conjugate gradient method was then applied to system up to 1922
+sites and infinite $U$ for the Edwards state. Fermi liquid theory seems to
+remain stable in 2D for all cases studied with the exception of the half
+filling case where a ``Luttinger like behavior'' survives in the Hubbard model
+, yielding a vanishing quasiparticle weight in the thermodynamic limit.
+","[{""version"":""v1"",""created"":""Mon, 2 Aug 1993 07:08:21 GMT""}]","2009-10-22"
+"hep-ph/9307377","Lee jungil","C. S. Kim, Jungil Lee, and H. S. Song","Anomalous Gauge-Boson Couplings in High Energy ep Collisions","17pages YUMS 93-14,SNUTP 93-43,KEK-TH-366","Z.Phys.C63:673-680,1994","10.1007/BF01557634",,"hep-ph",,"  We investigate the sensitivity of total cross sections of $e+p \rightarrow
+W,Z$ to CP-conserving non-standard $WW\gamma$ couplings. We include all the
+important production mechanisms and study the dependence of the total $W$ cross
+sections on the anomalous $WW\gamma$ couplings, $\kappa$ and $\lambda$. We
+argue that the ratio of $W$ and $Z$ production cross sections is particularly
+well suited, being relatively insensitive to uncertainties in the theoretical
+and experimental parameters.
+","[{""version"":""v1"",""created"":""Mon, 2 Aug 1993 03:16:45 GMT""}]","2011-07-19"
+"hep-ph/9308201","Carsten Grosse-Knetter","Carsten Grosse-Knetter (Universitaet Bielefeld)","Equivalence of Hamiltonian and Lagrangian Path Integral Quantization:
+  Effective Gauge Theories","14 pages LaTeX, BI-TP 93/40, August 1993","Phys.Rev. D49 (1994) 1988-1995","10.1103/PhysRevD.49.1988",,"hep-ph hep-th",,"  The equivalence of correct Hamiltonian and naive Lagrangian (Faddeev--Popov)
+path integral quantization (Matthews's theorem) is proven for gauge theories
+with arbitrary effective interaction terms. Effective gauge-boson
+self-interactions and effective interactions with scalar and fermion fields are
+considered. This result becomes extended to effective gauge theories with
+higher derivatives of the fields.
+","[{""version"":""v1"",""created"":""Mon, 2 Aug 1993 08:19:35 GMT""}]","2009-10-22"
+"hep-ph/9308202","Probir Roy","Probir Roy","Neutrinos at high energy accelerators","LaTex; No. of pages 32, no. of figures 20 - not included, available
+  on request (e-mail: probir@tifrvax)",,,,"hep-ph",,"  PREAMBLE, BRIEF HISTORY AND PRELIMINARIES, QUICK REVIEW OF BASIC NEUTRINO
+PROPERTIES, CHARGED CURRENT NEUTRINO PROCESSES, NEUTRAL CURRENT NEUTRINO
+PROCESSES, VERY HEAVY NEUTRINOS, CONCLUDING SUMMARY
+","[{""version"":""v1"",""created"":""Mon, 2 Aug 1993 13:47:46 GMT""}]","2007-05-23"
+"hep-ph/9308203","Alexandre Rozanov","V.A. Novikov, L.B. Okun and M.I. Vysotsky","Do Present LEP Data Provide Evidence for Electroweak Corrections?","12 pages, preprint CERN-TH.6943/93","Mod.Phys.Lett. A8 (1993) 2529-2538; Erratum-ibid. A8 (1993) 3301","10.1142/S0217732393002889",,"hep-ph",,"  The Born approximation, based on $\bar\alpha \equiv\alpha (m_Z)$ instead of
+$\alpha$, reproduces all electroweak precision measurements within their
+$(1\sigma)$ accuracy. The low upper limits for the genuinely electroweak
+corrections constitute one of the major achievements of LEP. The astonishing
+smallness of these corrections results from the cancellation of a large
+positive contribution from the heavy top quark and large negative contributions
+from all other virtual particles. It is precisely the non-observation of
+electroweak radiative corrections that places stringent upper and lower limits
+on the top mass.
+","[{""version"":""v1"",""created"":""Mon, 2 Aug 1993 14:34:06 GMT""}]","2015-06-25"
+"hep-ph/9408213","Mannel Thomas","A. Ali, G.F. Giudice and T. Mannel","Towards a Model-Independent Analysis of Rare $B$ Decays","LaTeX, 36 pages, 11 figures appended after \end{document} as
+  uu-encoded and compressed .eps files, uses epsf, CERN-TH.7346/94","Z.Phys. C67 (1995) 417-432","10.1007/BF01624585",,"hep-ph",,"  Motivated by the experimental accessibility of rare $B$ decays in the ongoing
+and planned experiments, we propose to undertake a model-independent analysis
+of the inclusive decay rates and distributions in the processes \bgamaxs~ and
+\Bsell ~($B=B^\pm$ or $B^0_d$). We show how measurements of the decay rates and
+distributions in these processes would allow us to extract the magnitude and
+sign of the dominant Wilson coefficients of the magnetic moment operator $\mb
+\bar{s}_L \sigma_{\mu \nu} b_R F^{\mu \nu }$ and the four-fermion operators
+$(\bar{s}_L \gamma_\mu b_L)(\bar{\ell} \gamma^{\mu} \ell)$ and $(\bar{s}_L
+\gamma_\mu b_L)(\bar{\ell} \gamma^{\mu}\gamma^5 \ell)$. Non-standard-model
+effects could thus manifest themselves at low energy in rare $B$ decays through
+the Wilson coefficient having values distinctly different from their
+standard-model counterparts. We illustrate this possibility using the examples
+of the two-doublet Higgs models and the minimal supersymmetric models. The
+dilepton invariant mass spectrum and the forward-backward asymmetry of $\ell^+$
+in the centre-of-mass system of the dilepton pair in the decay \Bsell ~are also
+worked out for the standard model and some representative solutions for the
+other two models.
+","[{""version"":""v1"",""created"":""Mon, 2 Aug 1993 13:54:32 GMT""}]","2015-06-25"
+"hep-th/9308001","H. Hata","H. Hata","``Theory of Theories'' Approach to String Theory","20 pages, LaTeX, KUNS-1212","Phys.Rev. D50 (1994) 4079-4087","10.1103/PhysRevD.50.4079",,"hep-th",,"  We propose a new formulation of gauge theories as a quantum theory which has
+the gauge theory action $S$ as its dynamical variable. This system is described
+by a simple actional $I(S)$ (that is, an action for the action $S$) whose
+equation of motion gives the Batalin-Vilkovisky (BV) master equation for $S$.
+Upon quantization we find that our new formulation is reduced to something like
+a topological field theory having a BRST exact gauge-fixed actional. Therefore
+the present formulation can reproduce ordinary gauge theories since the
+path-integral over $S$ is dominated by the classical configuration which
+satisfies the BV master equation. This ``theory of theories'' formulation is
+intended to be applied to closed string field theory.
+","[{""version"":""v1"",""created"":""Mon, 2 Aug 1993 07:28:41 GMT""}]","2009-10-22"
+"hep-th/9308002","Sylvie Zaffanella","Sergey V. Shabanov","Phase space structure and the path integral for gauge theories on a
+  cylinder","Saclay-T93/078","Phys.Lett. B318 (1993) 323-330","10.1016/0370-2693(93)90135-5",,"hep-th",,"  The physical phase space of gauge field theories on a cylindrical spacetime
+with an arbitrary compact simple gauge group is shown to be the quotient $ {\bf
+R}^{2r}/W_A, $ $ r $ a rank of the gauge group, $ W_A $ the affine Weyl group.
+The PI formula resulting from Dirac's operator method contains a symmetrization
+with respect to $ W_A $ rather than the integration domain reduction. It gives
+a natural solution to Gribov's problem. Some features of fermion quantum
+dynamics caused by the nontrivial phase space geometry are briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 2 Aug 1993 04:27:34 GMT""}]","2009-10-22"
+"hep-th/9308003","Martin Land","M. C. Land, N. Shnerb, and L. P. Horwitz","On Feynman's Approach to the Foundations of Gauge Theory","This is a complete re-write of our paper, using new techniques, with
+  a new section on non-Abelian gauge fields. (36 pages, latex, no figures)",,,"TAUP-2076-93","hep-th",,"  In 1948, Feynman showed Dyson how the Lorentz force and Maxwell equations
+could be derived from commutation relations coordinates and velocities. Several
+authors noted that the derived equations are not Lorentz covariant and so are
+not the standard Maxwell theory. In particular, Hojman and Shepley proved that
+the existence of commutation relations is a strong assumption, sufficient to
+determine the corresponding action, which for Feynman's derivation is of
+Newtonian form. Tanimura generalized Feynman's derivation to a Lorentz
+covariant form, however, this derivation does not lead to the standard Maxwell
+theory either. Tanimura's force equation depends on a fifth ({\it scalar})
+electromagnetic potential, and the invariant evolution parameter cannot be
+consistently identified with the proper time of the particle motion. Moreover,
+the derivation cannot be made reparameterization invariant; the scalar
+potential causes violations of the mass-shell constraint which this invariance
+should guarantee. In this paper, we examine Tanimura's derivation in the
+framework of the proper time method in relativistic mechanics, and use the
+technique of Hojman and Shepley to study the unconstrained commutation
+relations. We show that Tanimura's result then corresponds to the
+five-dimensional electromagnetic theory previously derived from a
+Stueckelberg-type quantum theory in which one gauges the invariant parameter in
+the proper time method. This theory provides the final step in Feynman's
+program of deriving the Maxwell theory from commutation relations; the Maxwell
+theory emerges as the ``correlation limit'' of a more general gauge theory, in
+which it is properly contained.
+","[{""version"":""v1"",""created"":""Mon, 2 Aug 1993 11:40:22 GMT""},{""version"":""v2"",""created"":""Mon, 16 Jan 1995 07:00:19 GMT""}]","2008-02-03"

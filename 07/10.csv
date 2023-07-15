@@ -1,0 +1,116 @@
+"chao-dyn/9307002","Detlef Lohse","Siegfried Grossmann and Detlef Lohse (Fachbereich Physik,
+  Philipps-Universit""at, Renthof 6, 35032 Marburg, Germany)","Scale resolved intermittency in turbulence","12 pages, Latex, 2 tables, 7 figures",,"10.1063/1.868357","Preprint Marburg 1993","chao-dyn nlin.CD",,"  The deviations $\delta\zeta_m$ (""intermittency corrections"") from classical
+(""K41"") scaling $\zeta_m=m/3$ of the $m^{th}$ moments of the velocity
+differences in high Reynolds number turbulence are calculated, extending a
+method to approximately solve the Navier-Stokes equation described earlier. We
+suggest to introduce the notion of scale resolved intermittency corrections
+$\delta\zeta_m(p)$, because we find that these $\delta\zeta_m(p)$ are large in
+the viscous subrange, moderate in the nonuniversal stirring subrange but,
+surprisingly, extremely small if not zero in the inertial subrange. If ISR
+intermittency corrections persisted in experiment up to the large Reynolds
+number limit, our calculation would show, that this could be due to the opening
+of phase space for larger wave vectors. In the higher order velocity moment
+$\langle|u(p)|^m\rangle$ the crossover between inertial and viscous subrange is
+$(10\eta m/2)^{-1}$, thus the inertial subrange is {\it smaller} for higher
+moments.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 17:29:50 GMT""},{""version"":""v2"",""created"":""Wed, 25 Aug 1993 09:41:57 GMT""}]","2009-10-22"
+"cond-mat/9307016",,"Jens U. Noeckel, A. Douglas Stone and Harold U. Baranger","On adiabatic turn-on and the asymptotic limit in linear response theory
+  for open systems","5 pages (REVTEX), NSB-1",,,,"cond-mat",,"  Linear response theory for open (infinite) systems leads to an expression for
+the current response which contains surface terms in addition to the usual bulk
+Kubo term. We show that this surface term vanishes identically if the correct
+order of limits is maintained in the derivation: the system size, L, must be
+taken to infinity before the adiabatic turn-on rate $\delta$ of the
+perturbation is taken to zero. In contrast to recent claims this shows that
+linear response theory for open systems is gauge-invariant without modification
+of the continuity equation. We show that a simpler derivation of the
+Landauer-B\""uttiker equations may be obtained consistently from the bulk Kubo
+term, noting that surface terms arising here are non-vanishing because they
+involve the opposite order of limits, $\delta \to 0$, then $L \to \infty$.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 22:09:45 GMT""}]","2007-05-23"
+"gr-qc/9307008",,"C.Barrabes, B.Boisseau and M.Sakellariadou","Gravitational Effects on Domain Walls with Curvature Correction",,"Phys.Rev. D49 (1994) 2734-2739","10.1103/PhysRevD.49.2734",,"gr-qc",,"  We derive the effective action for a domain wall with small thickness in
+curved spacetime and show that, apart from the Nambu term, it includes a
+contribution proportional to the induced curvature. We then use this action to
+study the dynamics of a spherical thick bubble of false vacuum (de Sitter)
+surrounded by an infinite region of true vacuum (Schwarzschild).
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 19:27:31 GMT""}]","2009-10-22"
+"hep-lat/9307010",,"V.G. Bornyakov, V.K. Mitrjushkin, M. M\""uller-Preussker and F. Pahl","Dirac sheets and gauge fixing in $U(1)$ lattice gauge theory","11 pages preprint HU Berlin--IEP--93/2, June 1993","Phys.Lett. B317 (1993) 596-603","10.1016/0370-2693(93)91378-Z",,"hep-lat",,"  Photon correlators in $~U(1)~$ pure gauge theory for different lattice
+actions are considered under the Lorentz gauge condition. They are shown to
+depend strongly on the gauge fixing ambiguity and on the corresponding
+existence of Dirac sheets. For the Coulomb phase a gauge fixing algorithm is
+proposed which avoids Dirac sheets and allows to find the global extremum of
+the non-local gauge condition. Sorry, figures are not included and can be sent
+by ordinary mail.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 20:30:40 GMT""}]","2009-10-22"
+"hep-th/9307066",,"G. Papadopoulos and P.K. Townsend","Massive sigma models with (p,q) supersymmetry","18pp","Class.Quant.Grav.11:515-532,1994","10.1088/0264-9381/11/3/007",,"hep-th",,"  We determine the general scalar potential consistent with (p,q) supersymmetry
+in two-dimensional non-linear sigma models with torsion, generalizing previous
+results for special cases. We thereby find many new supersymmetric sigma models
+with potentials, including new (2,2) and (4,4) models.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 18:56:07 GMT""}]","2010-04-06"
+"hep-th/9307072","Robert Mann","R.B. Mann","Quantum Evaporation of Liouville Black Holes","LaTeX file, 6 pgs",,,,"hep-th",,"  The classical field equations of a Liouville field coupled to gravity in two
+spacetime dimensions are shown to have black hole solutions. Exact solutions
+are also obtained when quantum corrections due to back reaction effects are
+included, modifying both the ADM mass and the black hole entropy. The
+thermodynamic limit breaks down before evaporation of the black hole is
+complete, indicating that higher-loop effects must be included for a full
+description of the process. A scenario for the final state of the black hole
+spacetime is suggested.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 19:59:04 GMT""}]","2007-05-23"
+"hep-th/9307073","Cobi Sonnenschein","Y.Lavi and J.Sonnenschein","Do we need the $W^{(n>3)}$ constraints to solve the $(1,q)$ models
+  coupled to 2D gravity?","26 pages","Nucl.Phys. B414 (1994) 329-347","10.1016/0550-3213(94)90433-2",,"hep-th",,"  We prove that all the correlation functions in the $(1,q)$ models are
+calculable using only the Virasoro and the $W^{(3)}$ constraints. This result
+is based on the invariance of correlators with respect to an interchange of the
+order of the operators they contain.
+  In terms of the topological recursion relations, it means that only two and
+three contacts and the corresponding degenerations of the underlying surfaces
+are relevant. An algorithm to compute correlators for any $q$ and at any genus
+is presented and demonstrated through some examples. On route to these results,
+some interesting polynomial identities, which are generalizations of Abel's
+identity, were discovered. }
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 21:21:04 GMT""}]","2009-10-22"
+"hep-th/9307074",,"Thomas T. Burwick","All-Order Quantum Gravity in Two Dimensions","22 pages (phyzzx.tex, figures available by mail upon request),
+  SLAC-PUB 6274 T","Nucl.Phys. B418 (1994) 257-277","10.1016/0550-3213(94)90247-X",,"hep-th",,"  We derive curvature counterterms in two-dimensional gravity coupled to
+conformal matter up to infinite order. By construction the higher-order action
+is equivalent to a finite first-order theory with auxiliary scalar. Due to this
+equivalence it shares the following remarkable properties: There is no need for
+gravitational dressing of the cosmological constant, quantization is consistent
+for any conformal anomaly $c$ of the coupled matter system, and if the coupled
+matter system is a $c=d~$-dimensional string theory in a Euclidean background
+then the effective string theory is $D=d+2~$-dimensional with Minkowski
+signature $(1,D-1)$. The resulting quantum theory favours flat geometries and
+suppresses both parabolic and hyperbolic singularities.
+","[{""version"":""v1"",""created"":""Sat, 10 Jul 1993 04:39:00 GMT""}]","2009-10-22"
+"hep-th/9307075","Ryuji Kemmoku 0426-77-1111x3377","Ryuji Kemmoku and Satoru Saito","Discretization of Virasoro Algebra","12 pages, Latex, TMUP-HEL-9302","Phys.Lett. B319 (1993) 471-477","10.1016/0370-2693(93)91753-A",,"hep-th",,"  A $q$-discretization of \vi\ algebra is studied which reduces to the ordinary
+\vi\ algebra in the limit of $q \ra 1$. This is derived starting from the Moyal
+bracket algebra, hence is a kind of quantum deformation different from the
+quantum groups. Representation of this new algebra by using $q$-parametrized
+free fields is also given.
+","[{""version"":""v1"",""created"":""Sat, 10 Jul 1993 08:52:32 GMT""}]","2009-10-22"
+"hep-th/9307076","Paul Montague","P. Montague","Ternary Codes and $Z_3$-Orbifold Constructions of Conformal Field
+  Theories","21 pages",,,,"hep-th",,"  We describe a pair of constructions of Eisenstein lattices from ternary
+codes, and a corresponding pair of constructions of conformal field theories
+from lattices which turn out to have a string theoretic interpretation. These
+are found to interconnect in a similar way to results for binary codes, which
+led to a generalisation of the triality structure relevant in the construction
+of the Monster module. We therefore make some comments regarding a series of
+constructions of $V^\natural$. In addition, we present a complete construction
+of the Niemeier lattices from ternary codes, which in view of the above
+analogies should prove to be of great importance in the problem of the
+classification of self-dual $c=24$ conformal field theories. Other progress
+towards this problem is summarised, and some comments arise from this
+discussion regarding the uniqueness of the Monster conformal field theory.
+(Talk presented at the ""Monster Bash"", Ohio State University, May 1993.)
+","[{""version"":""v1"",""created"":""Sat, 10 Jul 1993 12:38:18 GMT""}]","2007-05-23"
+"math/9307235","Alfredo Poirier","Alfredo Poirier","On postcritically finite polynomials, part 2: Hubbard trees",,,,"Stony Brook IMS 1993/7","math.DS",,"  We provide an effective classification of postcritically finite polynomials
+as dynamical systems by means of Hubbard Trees. This can be viewed as an
+application of the results developed in part 1 (Stony Brook IMS 1993/5).
+","[{""version"":""v1"",""created"":""Sat, 10 Jul 1993 00:00:00 GMT""}]","2009-09-25"
+"nucl-th/9307010","J. J. de Swart","J.L. Friar, G.L. Payne, V.G.J. Stoks, and J.J. de Swart","Triton calculations with the new Nijmegen potentials","11 pages RevTex and 1 fig in PS, THEF-NYM-93-04",,"10.1016/0370-2693(93)90523-K",,"nucl-th",,"  Triton properties are calculated using new nucleon-nucleon potentials, which
+were fit to the world nucleon-nucleon data. All potentials are charge dependent
+and explicitly incorporate the mass difference between the charged and neutral
+pions. Three of these models have a nearly optimal chi**2 per degree of freedom
+and can therefore be considered as alternative partial wave analyses, which in
+quality can almost compete with the Nijmegen partial-wave analysis. The triton
+binding energy obtained with three local models (Nijm II, Reid93, AV18) can be
+summarized as 7.62 +_ 0.01 MeV, which is nearly 900 keV lower than experiment.
+The non-local model Nijm I binds by 7.72 MeV.
+","[{""version"":""v1"",""created"":""Fri, 9 Jul 1993 23:26:41 GMT""}]","2009-10-22"

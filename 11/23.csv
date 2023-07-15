@@ -1,0 +1,368 @@
+"astro-ph/9311056","Dipak Munshi","D. Munshi and A. A. Starobinsky","Non-Linear Approximations to Gravitational Instability: A Comparison in
+  Second-Order Perturbation Theory","Latex file, pages 20 , Two figures (available at 144.16.31.6 through
+  anonymous ftp), IUCAA 31/93",,"10.1086/174255",,"astro-ph",,"  Nonlinear approximation methods such as the Zeldovich approximation, and more
+recently the frozen flow and linear potential approximations, are sometimes
+used to simulate nonlinear gravitational instability in the expanding Universe.
+We investigate the relative accuracy of these approximations by comparing them
+with the exact solution using second order perturbation theory. We evaluate the
+density and velocity fields in these approximations to second order, and also
+determine the skewness parameter $S_3 = \langle \delta^3 \rangle / \langle
+(\delta^{(1)})^2\rangle ^2$ for each of the approximations again in second
+order. We find that $S_3 = 4, ~3, ~3.4$ for the Zeldovich approximation, the
+frozen flow and the linear potential approximations respectively as compared to
+$S_3 = {34/7}$ for the exact solution. Our results show that, of all the
+approximations considered, the Zeldovich approximation is the most accurate in
+describing the weakly nonlinear effects of gravity. Moreover, the Zeldovich
+approximation is much closer to the exact results for matter and velocity
+distributions than the other approximations if the slope of the power spectrum
+of density perturbations is $-3< n \le -1$.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 13:33:12 GMT""}]","2009-10-22"
+"astro-ph/9311057",,"J.A. Peacock & S.J. Dodds","Reconstructing the linear power spectrum of cosmological mass
+  fluctuations","Edinburgh Astronomy Preprint 26/93. Accepted for publication in
+  Monthly Notices of the RAS. 13 pages of LaTeX, plus 10 PostScript figures.
+  You will need the mn.sty style file (from babbage: get mn.sty). The figure
+  .ps files are in the usual self-unpacking unix script","Mon.Not.Roy.Astron.Soc. 267 (1994) 1020-1034","10.1093/mnras/267.4.1020",,"astro-ph",,"  We describe an attempt to reconstruct the initial conditions for the
+formation of cosmological large-scale structure. The power spectrum of the
+primordial fluctuations is affected by bias, nonlinear evolution and
+redshift-space distortions, but we show how these effects can be corrected for
+analytically. Using eight independent datasets, we obtain excellent agreement
+in the estimated linear power spectra given the following conditions. First,
+the relative bias factors for Abell clusters, radio galaxies, optical galaxies
+and IRAS galaxies must be in the ratios 4.5:1.9:1.3:1. Second, the data require
+redshift-space distortion: $\Omega^{0.6}/b_{\ss I}
+  = 1.0 \pm 0.2$. Third, low values of $\Omega$ and bias are disfavoured. The
+shape of the spectrum is extremely well described by a CDM transfer function
+with an apparent value of the fitting parameter $\Omega h =0.25$. Tilted models
+predict too little power at 100 Mpc wavelengths.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 13:40:00 GMT""}]","2015-06-24"
+"astro-ph/9311058","Vesteinn Thorsson","C. J. Pethick and Vesteinn Thorsson","Neutrino Pair Bremsstrahlung in Neutron Star Crusts: a Reappraisal","11 plain LaTeX pages, 3 figures available on request, NORDITA-93/72
+  A/S/N","Phys.Rev.Lett. 72 (1994) 1964-1967","10.1103/PhysRevLett.72.1964",,"astro-ph",,"  We demonstrate that band-structure effects suppress bremsstrahlung of
+neutrino pairs by electrons in the crusts of neutron stars at temperatures of
+the order of $5\times 10^9 \,{\rm K}$ and below. Taking this into account,
+together with the fact that recent work indicates that the masses of neutron
+star crusts are considerably smaller than previously estimated, we find
+neutrino pair bremsstrahlung to be much less important for the thermal
+evolution of neutron stars than earlier calculations suggested.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 15:26:55 GMT""}]","2009-10-22"
+"cond-mat/9311052","Sungkit Yip","S. K. Yip (Northwestern University, U.S.A.)","Thin Films of 3He -- Implications on the Identification of 3 He -A","3 pages, no figures latex- revtex aps accepted by J. of Low
+  Temperature Physics",,"10.1007/BF00755414",,"cond-mat",,"  Recently the identification of 3He-A with the axial state has been
+questioned. It is suggested that the A-phase can actually be in the axiplanar
+state. We point out in the present paper that experiments in a film geometry
+may be useful to distinguish the above two possibilities. In particular a
+second order phase transition between an axial and an axiplanar state would
+occur as a function of thickness or temperature.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 23:10:34 GMT""}]","2009-10-22"
+"gr-qc/9311031",,"Vu B Ho","Coordinate transformations in Schwarzschild singularity problem","6 pages, Latex. Submitted to Physics Letters A. (I replace
+  gr-qc/9311031 because I forgot the date that may have caused problem when
+  latexing it. Acknowledgements to those whose have pointed out this to me.)",,,,"gr-qc",,"  A systematic approach to the coordinate transformations in the Schwarzschild
+singularity problem is considered. It is shown that both singularities at r=0
+and r=2m can be eliminated by suitable coordinate transformations.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 01:43:49 GMT""},{""version"":""v2"",""created"":""Thu, 25 Nov 1993 04:44:14 GMT""}]","2008-02-03"
+"hep-lat/9311031","Christoph Best","C. Best and A. Schaefer","Wavelets as a variational basis of the XY model","3 pages, postscript. Contribution to the Lattice 93 workshop (Dallas,
+  Texas, October 1993)","Nucl.Phys.Proc.Suppl. 34 (1994) 780-782","10.1016/0920-5632(94)90512-6",,"hep-lat",,"  We use Daubechies' orthonormal compact wavelets as a variational basis for
+the $XY$ model in two and three dimensions. Assuming that the fluctuations of
+the wavelet coefficients are Gaussian and uncorrelated, minimization of the
+free energy yields the fluctuation strength of wavelet coefficients at
+different scales, from which observables can be computed. This model is able to
+describe the low-temperature phase and makes a prediction about the phase
+transition temperature.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 16:55:27 GMT""}]","2009-10-22"
+"hep-lat/9311032","Margarita Garcia","Antonio Gonzalez-Arroyo, Jeroen Snippe and Pierre van Baal","On the top of the energy barrier. Margarita Garcia Perez","6p, ps-file (uuencoded), preprint INLO-PUB 14/93, FTUAM-93/39.
+  Contribution to Lattice'93 Conference (Dallas, 1993)","Nucl.Phys.Proc.Suppl.34:222-227,1994","10.1016/0920-5632(94)90351-4",,"hep-lat hep-th",,"  We present results related to the search of SU(2) instantons on a geometry
+$[0,L]^3\times [0,T]$ obtained using over-improved cooling with fixed boundary
+conditions. We also introduce a criterion for finding a sphaleron at the top of
+the energy barrier of the instanton path.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 11:16:09 GMT""}]","2008-11-26"
+"hep-lat/9311033","Ulli Wolff","Ulli Wolff (CERN)","Running Coupling in SU(3) Yang-Mills Theory","3 pages, ps-file 81828 bytes",,"10.1016/0920-5632(94)90357-3",,"hep-lat",,"  We report about our ongoing computation of running coupling constants in
+asymptotically free theories using the recursive finite size scaling technique.
+The latest results for the SU(3) Yang-Mills theory are presented.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 12:32:05 GMT""}]","2009-10-22"
+"hep-lat/9311034","Colin Morningstar","Colin J. Morningstar","The Improvement Program in Nonrelativistic Lattice QCD","3 pages in uuencoded-compressed-PostScript format, to appear in the
+  Proceedings of LATTICE 93, Dallas, USA, October 1993; Edinburgh Preprint
+  93/533","Nucl.Phys.Proc.Suppl.34:425-427,1994","10.1016/0920-5632(94)90407-3",,"hep-lat",,"  Progress in the improvement program in nonrelativistic lattice QCD is
+outlined. The leading radiative corrections to the heavy-quark mass
+renormalization, energy shift, and two important kinetic coupling coefficients
+are presented. The reliability of tadpole-improved perturbation theory in
+determining the energy shift and mass renormalization is demonstrated.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 15:39:50 GMT""}]","2010-11-01"
+"hep-ph/9311330","Hokan Snellman","Johan Linde and H{\aa}kan Snellman","Flavor symmetry breaking in quark magnetic moments","11 pages, REVTeX, TRITA-TFY-93-08 1 figure has been added (available
+  via conventional mail), some parts has been rewritten","Z.Phys.C54:73-77,1994","10.1007/BF01557236",,"hep-ph",,"  We discuss the magnetic moments of the baryons allowing for flavor symmetry
+breaking in the quark magnetic moments. We show that there is a correlation
+between isospin symmetry breaking and data for the nucleon spin structure
+obtained from deep inelastic scattering. For small values of the isospin
+symmetry breaking, of the order of $5\%$, the magnetic moments and weak
+axial-vector form factors alone indicate a value of the spin polarization
+$\Delta\Sigma \leq 0.20$. Larger values of the spin polarization are compatible
+only with large isospin symmetry breaking. We also calculate weak axial-vector
+form factors, which are independent of the symmetry breakings, from magnetic
+moment data and find good agreement with experiment.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 21:26:02 GMT""},{""version"":""v2"",""created"":""Wed, 15 Jun 1994 16:52:59 GMT""}]","2011-02-01"
+"hep-ph/9311331",,"Boris Blok and Michael Shifman","Lifetimes of Charmed Hadrons Revisited. Facts and fancy","Talk at the Third Workshop on the Tau-Charm Factory, June 1993,
+  Marbella, Spain; 36 pages. Preprint Technion-PH-93-41; TPI-MINN-93/55-T",,,,"hep-ph",,"  The problem of the hierarchy of lifetimes of charmed hadrons is reviewed. The
+QCD-based theory of preasymptotic effects in inclusive weak decays dating back
+to the beginning of the eighties is now entering its mature phase. Combining
+recent and old results we argue that the observed hierarchy reflects most
+intimate features of the hadronic structure. The problem of a wide spread of
+lifetimes of charmed hadrons is addressed.
+  We speculate on what is to be expected from QCD to provide the observed
+pattern. A number of predictions is given for the hierarchy of lifetimes in the
+family of the beautiful hadrons.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 16:24:57 GMT""}]","2007-05-23"
+"hep-ph/9311332","Michael M. Tung","J.G. K""orner, A. Pilaftsis and M.M. Tung","One-Loop QCD Mass Effects in the Production of Polarized Bottom and Top
+  Quarks","17 p. (5 figs available upon request), LaTeX, MZ-TH/93-30, RAL/93-81,
+  FTUV/93-46","Z.Phys. C63 (1994) 575-579","10.1007/BF01557623",,"hep-ph",,"  The analytic expressions for the production cross sections of polarized
+bottom and top quarks in $e^+e^-$ annihilation are explicitly derived at the
+one-loop order of strong interactions. Chirality-violating mass effects will
+reduce the longitudinal spin polarization for the light quark pairs by an
+amount of $3\%$, when one properly considers the massless limit for the final
+quarks. Numerical estimates of longitudinal spin polarization effects in the
+processes $e^+e^-\to b\bar{b}(g)$ and $e^+e^- \to t\bar{t}(g)$ are presented.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 16:44:05 GMT""}]","2015-06-25"
+"hep-ph/9311333","Giovanni Amelino-Camelia","G. Amelino-Camelia and So-Young Pi","Finite Temperature Effective Potential in the Hartree-Fock Approximation","LaTex + epsf, 10 pages, 3 figures included, to appear in the
+  Proceedings of the III Workshop on Thermal Field Theories and Their
+  Applications, Banff, Canada, August 15-27, 1993, MIT-CTP-2255, BU-HEP-93-26",,,,"hep-ph",,"  In order to investigate the nature of the phase transition, we study the
+finite temperature effective potential for the $\lambda \Phi^4$ theory in the
+Hartree-Fock approximation, which sums up all the daisy and superdaisy
+diagrams.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 16:55:25 GMT""}]","2007-05-23"
+"hep-ph/9311334","Giovanni Amelino-Camelia","G. Amelino-Camelia","On the Nature of the Abelian Higgs Model Phase Transition","LaTex + epsf, 6 pages, 1 figure included, to appear in the
+  Proceedings of the III Workshop on Thermal Field Theories and Their
+  Applications, Banff, Canada, August 15-27, 1993, MIT-CTP-2256",,,,"hep-ph",,"  The nature of the Abelian Higgs Model phase transition is investigated. A
+variational approximation is used in the evaluation of the relevant finite
+temperature effective potential. Some of the results presented are valid not
+only in the Abelian Higgs Model, but also in more complex theories.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 00:30:11 GMT""}]","2007-05-23"
+"hep-ph/9311335","Mohammad","Mohammad R. Ahmady and Dongsheng Liu","Non-Leptonic B Decays into K-Resonances","9 pages, latex","Phys.Lett.B324:231-235,1994","10.1016/0370-2693(94)90412-X",,"hep-ph",,"  We estimate the non-leptonic B decays $B \rightarrow (\psi ,\psi^\prime ,
+\chi_{1c})+K^i$, where $K^i$ are various K-meson resonances. We use the model
+of Isgur, Wise, Scora and Grinstein in the context of heavy quark effective
+theory, to calculate the hadronic matrix elements. Our estimates show that a
+substantial fraction of $B \rightarrow X_s \psi$ results in higher resonances
+of K-meson and besides $B \rightarrow K(K^*) \psi$, a considerable fraction of
+$B \rightarrow X_s (c\bar c)$ goes to $B \rightarrow (K,K^*)+(
+\psi^{\prime},\chi_{1c})$.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 17:21:51 GMT""}]","2010-11-01"
+"hep-ph/9311336",,"Michael S. Chanowitz and William Kilgore","Complementarity of Resonant and Nonresonant Strong $WW$ Scattering at
+  the LHC","13 pages, LateX with uuencoded postcript figures (figures available
+  by mail to the technologically challenged), LBL-34849","Phys.Lett. B322 (1994) 147-153","10.1016/0370-2693(94)90503-7",,"hep-ph",,"  We exhibit a complementary relationship between resonant $WZ$ and nonresonant
+$W^+W^+$ scattering in a chiral Lagrangian model of the electroweak symmetry
+breaking sector with a dominant ``$\rho$'' meson. We use the model to estimate
+the minimum luminosity for the LHC to ensure a ``no-lose'' capability to
+observe the symmetry breaking sector.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 19:50:19 GMT""}]","2009-10-22"
+"hep-ph/9311337",,"I.I.Bigi, N.G.Uraltsev","Anathematizing the Guralnik and Manohar Inequality for \bar{\Lambda}","7 pages Preprint UND-HEP-93-BIG07, CERN-TH.7091/93","Phys.Lett.B321:412-416,1994","10.1016/0370-2693(94)90268-2",,"hep-ph",,"  There is a recent claim by Guralnik and Manohar \cite{GM} to have established
+a rigorous lower bound on $\bar \Lambda$, the asymptotic difference between the
+mass of a heavy flavour {\em hadron} and that of the heavy flavour {\em quark}.
+We point out the flaw in their reasoning and discuss the underlying physical
+problem. An explicit counterexample to the GM bound is given; one can therefore
+not count on a refined proof to re-establish this bound. *********** Uses LaTeX
+No figures No macros file used.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 22:46:21 GMT""}]","2010-11-01"
+"hep-ph/9311338","Pankaj Jain","P. Jain and D. W. McKay","Dynamical Generation of Fermion Mass Hierarchy","27 pages, 2 postscript figures appended at the end of the file,
+  report# OKHEP-93-15",,,,"hep-ph",,"  We describe a simple mechanism to break electroweak symmetry dynamically as
+well as to generate a large fermion mass hierarchy. The mechanism is displayed
+within the framework of a simple left-right symmetric model.
+  The model has exact horizontal symmetry which is broken dynamically giving
+rise to the mixing angles as well as to the fermion masses. The light fermions
+acquire masses by exchange of the charged gauge bosons, which is possible in
+the case of a left-right symmetric gauge group. We display a simple mechanism
+to break the left-right symmetry. The stability of the horizontal symmetry
+breaking solution is also discussed. We argue that if the gauge bosons are
+massive then for a certain range of the gauge couplings the horizontal symmetry
+breaking solution may be locally stable. We discuss some phenomenological
+difficulties, in particular the question of unobserved Goldstone bosons, that
+arise within the present model.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 23:25:50 GMT""},{""version"":""v2"",""created"":""Tue, 23 Nov 1993 21:00:33 GMT""}]","2009-09-25"
+"hep-ph/9311339",,"I.Bigi, B.Blok, M.Shifman, A.Vainshtein","The Baffling Semileptonic Branching Ratio of $B$ Mesons","16 Latex pages; 4 figures to be obtained from I.Bigi; preprint
+  CERN-TH.7082/93; some misprints in the original version have been corrected
+  and some references added","Phys.Lett. B323 (1994) 408-416","10.1016/0370-2693(94)91239-4",,"hep-ph",,"  The apparent gap between the measured and the expected value for the
+semileptonic branching ratio of $B$ mesons has become more serious over the
+last year. This is due to the improved quality of the data and to the
+increasing maturity of the theoretical treatment of non-perturbative
+corrections. We discuss various theoretical options to reduce the semileptonic
+$B$ branching ratio; among the more spectacular resolutions of the apparent
+puzzle is the possibility of an unorthodox enhancement in non-perturbative
+corrections or even of an intervention by `New Physics'. Phenomenological
+implications of such scenarios are pointed out.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 00:29:01 GMT""},{""version"":""v2"",""created"":""Mon, 6 Dec 1993 08:46:36 GMT""}]","2009-10-22"
+"hep-ph/9311340",,"Stephen P. Martin and Michael T. Vaughn","Two-Loop Renormalization Group Equations for Soft Supersymmetry-Breaking
+  Couplings","26 pages. [v4: Signs of equations (4.2) and (4.3) are fixed.]","Phys.Rev.D50:2282,1994; Erratum-ibid.D78:039903,2008","10.1103/PhysRevD.50.2282 10.1103/PhysRevD.78.039903",,"hep-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We compute the two-loop renormalization group equations for all soft
+supersymmetry-breaking couplings in a general softly broken N=1 supersymmetric
+model. We also specialize these results to the Minimal Supersymmetric Standard
+Model.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 00:48:11 GMT""},{""version"":""v2"",""created"":""Mon, 7 Feb 1994 23:22:22 GMT""},{""version"":""v3"",""created"":""Wed, 22 Jun 1994 02:09:26 GMT""},{""version"":""v4"",""created"":""Thu, 24 Jul 2008 15:10:17 GMT""}]","2014-11-17"
+"hep-ph/9311341",,"G.A. Ladinsky and C.--P. Yuan","The Nonperturbative Regime in QCD Resummation for Gauge Boson Production
+  at Hadron Colliders","6 pages, using PHYZZX, 4 PostScript files appended (title changed)","Phys.Rev.D50:4239,1994","10.1103/PhysRevD.50.R4239","MSUHEP--93/20","hep-ph",,"  We study the nonperturbative functions in the Collins--Soper--Sterman
+resummation formalism by examing Drell--Yan data in both fixed target and
+collider experiments and then predict the transverse momentum distributions of
+the $W^\pm$ and $Z^0$ bosons at the Tevatron. Our results differ from that in
+the literature and agree better with published CDF data. Using statistical
+arguments, we find a $1\,$fb${}^{-1}$ luminosity at the Fermilab Tevatron
+should be able to provide useful constraints on the nonperturbative functions.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 02:33:33 GMT""},{""version"":""v2"",""created"":""Fri, 13 May 1994 16:23:16 GMT""},{""version"":""v3"",""created"":""Wed, 30 Nov 1994 23:38:40 GMT""}]","2010-01-06"
+"hep-ph/9311342",,"G.A. Ladinsky","On Top Quark Polarization and Proposed Techniques for Measuring $m_t$ at
+  Hadron Colliders","5 pages in TeXsis (including one Encapsulated PostScript figure at
+  end of TeXsis tex file; epsf.tex and WorldScientific format used),
+  MSUTH-93/11",,,,"hep-ph",,"  Measuring the top quark mass in its semileptonic decay mode, $t ->be^+\nu$
+($b -> \mu^- + X$), through the mass distribution of the $e^+$--$\mu^-$ pair
+has been shown to provide a good measurement of the top quark mass with an
+uncertainty of $1.6\%$ for $m_t=150,250\,$GeV at the SSC. Here it is
+demonstrated that an uncertainty in the polarization of the top quark can add
+an additional uncertainty of about $3%$ in the mass. [Talk presented at the
+Workshop on Physics at Current Accelerators and the Supercollider held at the
+Argonne National Laboratory, Argonne, Illinois, 2-5 June 1993.]
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 02:34:08 GMT""}]","2007-05-23"
+"hep-ph/9311343","Rudolf Baier","R. Baier","Perturbative Hot Gauge Theories - Recent Results","11 pages, typeset using LATEX, BI-TP 93/62",,,,"hep-ph",,"  Current results in high temperature gauge theories obtained in the context of
+the perturbative method of resumming hard thermal loops are reviewed. Beyond
+leading order properties of the gluon excitation, and the recent
+(controversial) calculations of the damping rates are discussed. QCD
+predictions on plasma signatures are exemplified by the thermal production
+rates of energetic as well as soft photons. [Talk given at the 3rd Workshop on
+Thermal Field Theories and their Applications, August 15--27, 1993, Banff,
+Alberta, Canada]
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 10:43:58 GMT""}]","2007-05-23"
+"hep-ph/9311344","Simonov","A.Yu.Dubin, A.B.Kaidalov and Yu.A.Simonov","The QCD String with Quarks. I.Spinless Quarks","36 pages, preprint ITEP 17-93","Phys.Atom.Nucl.56:1745-1759,1993; Yad.Fiz.56:213-238,1993",,,"hep-ph",,"  Starting from the QCD Lagrangian we derive the effective action for massive
+quark and antiquark at large distances, corresponding to the minimal area low
+of the Wilson loop. The path integral method is used to quantize the system and
+the spectrum is obtained with asymptotically linear Regge trajectories. Two
+dynamical regimes distinguished by the string energy--momentum distribution are
+found: at large orbital excitations ($l\gg 1$) the system behaves as a string
+and yields the Regge slope of $\frac{1}{2 \pi \sigma}$, while at small $l$ one
+obtains a potential-like regime for relativistic or nonrelativistic system .
+The problem of relative time is clarified. It is shown that in the valence
+quark approximation one can reduce the initial four-dimensional dynamics to the
+three-dimensional one. The limiting case of a pure string (without quark
+kinetic terms) is studied and the spectrum of the straight-line string is
+obtained.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 14:52:00 GMT""},{""version"":""v2"",""created"":""Tue, 30 Nov 1993 16:53:00 GMT""},{""version"":""v3"",""created"":""Mon, 6 Dec 1993 21:30:00 GMT""},{""version"":""v4"",""created"":""Wed, 19 Jan 1994 18:36:00 GMT""}]","2009-07-28"
+"hep-th/9311129","Emil Martinec","E. Martinec","Strings and Causality","8 pages, EFI 93-65",,,,"hep-th",,"  Notes of the author's talk at Cargese, May 19,1993. The calculation of the
+string field commutator is simplified by relating it to the short proper time,
+semiclassical string path integral.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 16:50:08 GMT""}]","2007-05-23"
+"hep-th/9311130","Michael Douglas","Michael R. Douglas","Conformal Field Theory Techniques in Large N Yang-Mills Theory","18 pp. (LaTeX)",,,,"hep-th",,"  Following some motivating comments on large N two-dimensional Yang-Mills
+theory, we discuss techniques for large N group representation theory, using
+quantum mechanics on the group manifold U(N), its equivalence to a
+quasirelativistic two-dimensional free fermion theory, and bosonization. As
+applications, we compute the free energy for two-dimensional Yang-Mills theory
+on the torus to O(1/N^2), and an interesting approximation to the leading
+answer for the sphere. We discuss the question of whether the free energy for
+the torus has R -> 1/R invariance. A substantially revised version of
+hep-th/9303159 with many new results.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 17:03:45 GMT""}]","2007-05-23"
+"hep-th/9311131","Philip Argyres","Philip C. Argyres and S.-H. Henry Tye","Tree scattering amplitudes of the spin-4/3 fractional superstring II:
+  the twisted sectors","28 pages, 2 figures, Revtex 3.0, IASSNS-HEP-93/58, CLNS-93/1251","Phys.Rev. D49 (1994) 5349-5363","10.1103/PhysRevD.49.5349",,"hep-th",,"  The spin-4/3 fractional superstring is characterized by a world-sheet chiral
+algebra involving spin-4/3 currents. The discussion of the tree-level
+scattering amplitudes of this theory presented in hepth/9310131 is expanded to
+include amplitudes containing two twisted-sector states. These amplitudes are
+shown to satisfy spurious state decoupling. The restriction to only two
+external twisted-sector states is due to the absence of an appropriate
+dimension-one vertex describing the emission of a single twisted-sector state.
+This is analogous to the ``old covariant'' formalism of ordinary superstring
+amplitudes in which an appropriate dimension-one vertex for the emission of a
+Ramond-sector state is lacking. Examples of tree scattering amplitudes are
+calculated in a c=5 model of the spin-4/3 chiral algebra realized in terms of
+free bosons on the string world-sheet. The target space of this model is
+three-dimensional flat Minkowski space-time and the twisted-sector physical
+states are fermions in space-time. Since the critical central charge of the
+spin-4/3 fractional superstring theory is 10, this c=5 model is not consistent
+at the string loop level.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 17:23:39 GMT""}]","2009-10-22"
+"hep-th/9311132","Pavel Etingof","Pavel Etingof","Quantum integrable systems and representations of Lie algebras","17 pages, no figures","J.Math.Phys. 36 (1995) 2636-2651","10.1063/1.531056",,"hep-th math.QA",,"  In this paper the quantum integrals of the Hamiltonian of the quantum
+many-body problem with the interaction potential K/sinh^2(x) (Sutherland
+operator) are constructed as images of higher Casimirs of the Lie algebra gl(N)
+under a certain homomorphism from the center of U(gl(N)) to the algebra of
+differential operators in N variables. A similar construction applied to the
+affine gl(N) at the critical level k=-N defines a correspondence between higher
+Sugawara operators and quantum integrals of the Hamiltonian of the quantum
+many-body problem with the potential equal to constant times the Weierstrass
+function. This allows one to give a new proof of the Olshanetsky-Perelomov
+theorem stating that this Hamiltonian defines a completely integrable quantum
+system. We also give a new expression for eigenfunctions of the quantum
+integrals of the Sutherland operator as traces of intertwining operators
+between certain representations of gl(N).
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 17:39:12 GMT""}]","2009-10-22"
+"hep-th/9311133","Cenalo Vaz","Cenalo Vaz and Louis Witten","Formation and Evaporation of a Naked Singularity in 2D Gravity","10 pages, PHYZZX, preprint UATP-93/04","Phys.Lett. B325 (1994) 27-32","10.1016/0370-2693(94)90066-3",,"hep-th gr-qc",,"  We describe a classical configuration of conformal matter forming a naked
+singularity and discuss its subsequent Hawking evaporation within the context
+of two dimensional dilaton gravity. The one loop analysis is credible for a
+large mass naked singularity and suggests the existence of a weak cosmological
+censorship that would cause it to explode into radiation upon forming.
+(Hardcopies of figures available on request)
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 19:23:45 GMT""}]","2009-10-22"
+"hep-th/9311134","Balinsky Alexander","A. A. Balinsky, A. I. Balinsky","On the algebraic structures connected with the linear Poisson brackets
+  of hydrodynamics type",,,"10.1088/0305-4470/26/7/002",,"hep-th math.QA",,"  The generalized form of the Kac formula for Verma modules associated with
+linear brackets of hydrodynamics type is proposed. Second cohomology groups of
+the generalized Virasoro algebras are calculated. Connection of the central
+extensions with the problem of quntization of hydrodynamics brackets is
+demonstrated.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 19:15:01 GMT""}]","2016-09-06"
+"hep-th/9311135","Balinsky Alexander","A. A. Balinsky","Generalized quantization scheme for central extensions of Lie algebras",,,"10.1088/0305-4470/27/3/005",,"hep-th math.QA",,"  We present the method for finding of the nonlinear Poisson-Lie groups
+structures on the vector spaces and for their quantization. For arbitrary
+central extension of Lie algebra explicit formulas of quantization are
+proposed.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 19:17:06 GMT""}]","2009-10-22"
+"hep-th/9311136","Stefan Mashkevich","S.V.Mashkevich and G.M.Zinovjev","Particles with distance dependent statistics at low temperatures","5 pages, LATEX, Bielefeld University preprint BI-TP 93/59, November
+  1993",,,,"hep-th",,"  We consider a simplified model of particles with effectively distance
+dependent statistics, that is particles coupled to a gauge field the Lagrangian
+of which contains the Chern-Simons term. We analyze the low-lying states of the
+two-particle system and show that under certain conditions they can exhibit
+negative compressibility, hinting on a possible \`a la van der Vaals picture.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 18:45:05 GMT""}]","2007-05-23"
+"hep-th/9311137","Peter Bouwknegt","P. Bouwknegt, J. Mccarthy and K. Pilch","On the W-gravity spectrum and its G-structure","14 pages, Typeset in LaTeX (with amssym.def input), query removed
+  such that ps-file can be automatically generated","Published in the proceedings of the workshop ``Strings, Conformal
+  Models and Topological Field Theory,'' eds. L. Baulieu et al., Cargese, May
+  '93, (Plenum Press, New York, 1995), pp. 59-70",,"USC-93/27, ADP-93-226/M21","hep-th",,"  We present results for the BRST cohomology of $\cW[\bfg]$ minimal models
+coupled to $\cW[\bfg]$ gravity, as well as scalar fields coupled to $\cW[\bfg]$
+gravity. In the latter case we explore an intricate relation to the (twisted)
+$\bfg$ cohomology of a product of two twisted Fock modules.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 04:27:05 GMT""},{""version"":""v2"",""created"":""Thu, 7 Dec 1995 01:40:47 GMT""}]","2008-02-03"
+"hep-th/9311138","Nicholas Philip Warner","H. Saleur and N.P. Warner","Lattice models and $N=2$ supersymmetry","49 pages, 12 figures, Latex, USC preprint 93/026",,,,"hep-th cond-mat",,"  We review the construction of exactly solvable lattice models whose continuum
+limits are $N=2$ supersymmetric models. Both critical and off-critical models
+are discussed. The approach we take is to first find lattice models with
+natural topological sectors, and then identify the continuum limits of these
+sectors with topologically twisted $N=2$ supersymmetric field theories. From
+this, we then describe how to recover the complete lattice versions of the
+$N=2$ supersymmetric field theories. We discuss a number of simple physical
+examples and we describe how to construct a broad class of models. We also give
+a brief review of the scattering matrices for the excitations of these models.
+(Contribution to the procedings of the Cargese meeting on ``String Theory,
+Conformal Models and Topological Field Theories'', May 12-21, 1993.)
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 01:11:25 GMT""}]","2007-05-23"
+"hep-th/9311139","Hiroshi Ishikawa","H.Ishikawa and M.Kato","Note on N=0 string as N=1 string","4 pages, latex, UT-Komaba/93-23","Mod.Phys.Lett. A9 (1994) 725-728","10.1142/S0217732394000538",,"hep-th",,"  A similarity transformation, which brings a particular class of the $N=1$
+string to the $N=0$ one, is explicitly constructed. It enables us to give a
+simple proof for the argument recently proposed by Berkovits and Vafa. The
+$N=1$ BRST operator is turned into the direct sum of the corresponding $N=0$
+BRST operator and that for an additional topological sector. As a result, the
+physical spectrum of these $N=1$ vacua is shown to be isomorphic to the tensor
+product of the $N=0$ spectrum and the topological sector which consists of only
+the vacuum. This transformation manifestly keeps the operator algebra.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 04:25:45 GMT""}]","2009-10-22"
+"hep-th/9311140","Sylvie Zaffanella","Sergey V. Shabanov","A transition amplitude on the gauge orbit space","Saclay-T93/129 Email: shabanov@amoco.saclay.cea.fr",,,,"hep-th",,"  A general procedure for deriving the path integral representation of a
+transition amplitude on the gauge orbit space having a non-trivial topology is
+proposed. The path integral formula appears to be modified by including
+trajectories reflected from the physical configuration space boundary into the
+sum over paths. A solution of the Gribov problem of gauge fixing ambiguities is
+given in the framework of the path integral modified. Email contact:
+shabanov@amoco.saclay.cea.fr
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 09:43:00 GMT""}]","2007-05-23"
+"nucl-th/9311020","Bin Shao","R. D. Amado, F. Cannata, J. -P. Dedonder, M. P. Locher and Bin Shao","Coherent Pion Radiation From Nucleon Antinucleon Annihilation","LaTex, 8 text pages, 1 PostScript figure, PSI-PR-93-21","Phys.Rev.Lett. 72 (1994) 970-972","10.1103/PhysRevLett.72.970",,"nucl-th",,"  A unified picture of nucleon antinucleon annihilation into pions emerges from
+a classical description of the pion wave produced in annihilation and the
+subsequent quantization of that wave as a coherent state. When the constraints
+of energy-momentum and iso-spin conservation are imposed on the coherent state,
+the pion number distribution and charge ratios are found to be in excellent
+agreement with experiment.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 04:00:53 GMT""}]","2009-10-22"
+"nucl-th/9311021","Yang Lu","M.P. Locher, Y. Lu and B.S. Zou","Rates for the reactions antiproton-proton --> pi phi and gamma phi","12 pages, plain latex, 2 postscript figures available upon request,
+  PSI-PR-93-20","Z.Phys. A347 (1994) 281-284","10.1007/BF01289796",,"nucl-th",,"  We study antiproton-proton annihilation at rest into $\pi\phi$ and
+$\gamma\phi$. Rescattering by $\overline{K^*}K+K^*\overline{K}$ and
+$\rho^{+}\rho^{-}$ for $\overline{p}p\rightarrow\pi\phi$ states is sizable, of
+order $(0.90\, {\rm to}\,2.6)\times 10^{-4}$ in the branching ratio, but
+smaller than experiment. For $\overline{p}p\rightarrow\gamma\phi$ the
+rescattering contributions are negligible, but the $\gamma\phi$ channel is well
+explained by a $\rho\phi$ intermediate state combined with vector meson
+dominance.
+","[{""version"":""v1"",""created"":""Tue, 23 Nov 1993 08:49:50 GMT""}]","2015-06-26"
+"patt-sol/9311006","Harvey Shepard","Fred Cooper (LANL and UNH), Harvey Shepard (UNH)","Solitons in the Camassa-Holm Shallow Water Equation","8 pages, LaTex, no figures",,"10.1016/0375-9601(94)91246-7",,"patt-sol nlin.PS",,"  We study the class of shallow water equations of Camassa and Holm derived
+from the Lagrangian: $ L= \int \left( \frac{1}{2} (\varphi_{xxx}-\varphi_{x}
+)\varphi_{t} - {1 \over 2} {(\varphi_{x})^{3}} - {1 \over
+2}\varphi_{x}(\varphi_{xx})^{2} - {1 \over 2} \kappa \varphi_{x}^{2} \right)
+dx, $
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 20:01:22 GMT""}]","2015-06-26"

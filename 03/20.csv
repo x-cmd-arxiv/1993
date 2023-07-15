@@ -1,0 +1,181 @@
+"alg-geom/9303002","Emilia Mezzetti","Emilia Mezzetti","Projective varieties with many degenerate subvarieties","19 pages, AMS-TeX 2.1",,,,"alg-geom math.AG",,"  We study the problem of classifying the irreducible projective varieties $X$
+of dimension $n\ge 2$ in $\Bbb P^N$ which contain an algebraic family $\Cal F$
+of dimension $h+1$ ($h<n$) of subvarieties $Y$ of dimension $n-h$, each one
+contained in a $\Bbb P^{N-h-1}$. We prove that one of the following happens:
+(i) there exists an integer $r$, $r<N-n$ such that $X$ is contained in a
+variety $V_r$ of dimension at most $N-r$ containing a family of dimension $h+1$
+of subvarieties of dimension $N-h-r$, each one contained in a linear space of
+dimension $N-h-1$; (ii) The degree of $Y$ is bounded by a function of $h$ and
+$N-n$ (in this case $X$ is called of isolated type). Successively we study some
+special cases; in particular we give a complete classification of surfaces in
+$\Bbb P^5$ containing a family of dimension $2$ of curves of $\Bbb P^3$.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1993 11:51:00 GMT""}]","2008-02-03"
+"astro-ph/9303009","Martin White","Martin White, Lawrence M. Krauss and Joseph Silk","Cosmic Variance in CMB Anisotropies: From $1^{\circ}$ to COBE","LaTeX, 18 pages, 6 figures (PostScript). CfPA-TH-93-01, YCTP-P44-92.
+  (Final version with updated references, to appear in ApJ, Dec.~1, 1993)","Astrophys.J.418:535,1993","10.1086/173415",,"astro-ph hep-ph",,"  Cosmic Microwave Background (CMB) anisotropies that result from quantum
+fluctuations during inflation are explored and the impact of their ``cosmic
+variance'' on the ability to use existing data to probe inflationary models is
+studied. We calculate the rms temperature fluctuation, and its cosmic variance,
+for a number of experiments and for models with primordial power spectra which
+range from $n={1\over 2}$ to $1$. We find: (1) cosmic variance obscures the
+information which can be extracted, so a comparison of the rms temperature
+fluctuation on small scales with the COBE result can fix $n$ to only
+$\approx\pm 0.2$ at best; (2) measurements of the rms fluctuation on
+$1^{\circ}$ scales may not allow one to unambiguously infer the tensor
+contribution to the COBE anisotropy; (3) comparison of this contribution with
+the predictions of inflation are ambiguous if the quadrupole anisotropy alone
+is utilized. We discuss means for minimizing the uncertainty due to cosmic
+variance in comparisons between experiments.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 18:09:02 GMT""},{""version"":""v2"",""created"":""Fri, 3 Sep 1993 18:34:37 GMT""}]","2016-08-30"
+"astro-ph/9303010","Douglas Heggie","D.C. Heggie & N. Ramamani","Approximate Self-Consistent Models for Tidally Truncated Star Clusters","22 pages",,,,"astro-ph",,"  This paper generalises King's models for tidally truncated star clusters by
+including approximately the non-spherical symmetry of the tidal field and the
+resulting non-spherical distortion of the cluster.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 16:46:21 GMT""}]","2007-05-23"
+"cond-mat/9303033","Michael Martin","D. Mandrus, Michael C. Martin, C. Kendziora, D. Koller, L. Forro, and
+  L. Mihaly (SUNY at Stony Brook)","No Far-Infrared-Spectroscopic Gap in Clean and Dirty High-T$_C$
+  Superconductors","4 pages and 3 postscript figures attached. REVTEX v3.0. Accepted for
+  publication in Phys. Rev. Lett. IRDIRTY","Phys. Rev. Lett. 70, 2629 (1993)","10.1103/PhysRevLett.70.2629",,"cond-mat",,"  We report far infrared transmission measurements on single crystal samples
+derived from Bi$_{2}$Sr$_{2}$CaCu$_{2}$O$_{8}$. The impurity scattering rate of
+the samples was varied by electron-beam irradiation, 50MeV $^{16}$O$^{+6}$ ion
+irradiation, heat treatment in vacuum, and Y doping. Although substantial
+changes in the infrared spectra were produced, in no case was a feature
+observed that could be associated with the superconducting energy gap. These
+results all but rule out ``clean limit'' explanations for the absence of the
+spectroscopic gap in this material, and provide evidence that the
+superconductivity in Bi$_{2}$Sr$_{2}$CaCu$_{2}$O$_{8}$ is gapless.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 18:25:42 GMT""}]","2009-10-22"
+"cond-mat/9303034","Charles A. Stafford","C. A. Stafford","Unusual low-temperature thermopower in the one-dimensional Hubbard model","11 pages, REVTEX 3.0","Phys. Rev. B 48, 8430 (1993)","10.1103/PhysRevB.48.8430",,"cond-mat",,"  The low-temperature thermoelectric power of the repulsive-interaction
+one-dimensional Hubbard model is calculated using an asymptotic Bethe ansatz
+for holons and spinons. The competition between the entropy carried by the
+holons and that carried by the backflow of the spinons gives rise to an unusual
+temperature and doping dependence of the thermopower which is qualitatively
+similar to that observed in the normal state of high-$T_{c}$ superconductors.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 19:39:34 GMT""}]","2007-05-23"
+"cond-mat/9303035","John Cardy","John L. Cardy and Anthony J. Guttmann","Universal Amplitude Combinations for Self-Avoiding Walks, Polygons and
+  Trails","20 pages, NI 92016, OUTP 92-54S, UCSBTH-92-50","J. Phys. A, 26, 2485 (1993)","10.1088/0305-4470/26/11/003",,"cond-mat hep-th",,"  We give exact relations for a number of amplitude combinations that occur in
+the study of self-avoiding walks, polygons and lattice trails. In particular,
+we elucidate the lattice-dependent factors which occur in those combinations
+which are otherwise universal, show how these are modified for oriented
+lattices, and give new results for amplitude ratios involving even moments of
+the area of polygons. We also survey numerical results for a wide range of
+amplitudes on a number of oriented and regular lattices, and provide some new
+ones.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 21:48:59 GMT""}]","2009-10-22"
+"cond-mat/9303036","Leticia Cugliandolo","L. F. Cugliandolo and J. Kurchan","Analytical Solution of the Off-Equilibrium Dynamics of a Long Range
+  Spin-Glass Model","8 pages, Roma preprint","Phys. Rev. Lett. {\bf 71} 173 (1993)","10.1103/PhysRevLett.71.173",,"cond-mat",,"  We study the non-equilibrium relaxation of the spherical spin-glass model
+with p-spin interactions in the $N \rightarrow \infty$ limit. We analytically
+solve the asymptotics of the magnetization and the correlation and response
+functions for long but finite times. Even in the thermodynamic limit the system
+exhibits `weak' (as well as `true') ergodicity breaking and aging effects. We
+determine a functional Parisi-like order parameter $P_d(q)$ which plays a
+similar role for the dynamics to that played by the usual function for the
+statics.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1993 14:57:21 GMT""}]","2009-10-22"
+"gr-qc/9303022","Jason Twamley","J. Twamley","Inconsistency between alternative approaches to Quantum Decoherence in
+  special systems","10 pages",,,,"gr-qc",,"  We study the decoherence properties of a certain class of Markovian quantum
+open systems from both the Decohering Histories and Environment Induced
+Superselection paradigms. The class studied includes many familiar quantum
+optical cases. For this class, we show that there always exists a basis which
+leads to {\em exactly} consistent histories for any coarse graining {\em
+irrespective} of the initial conditions. The magnitude of the off--diagonal
+elements of the reduced density matrix $\rho$ in this basis however, depends on
+the initial conditions. Necessary requirements for classicality as advanced by
+the two paradigms are thus in direct conflict in these systems.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 19:54:48 GMT""}]","2007-05-23"
+"gr-qc/9303024",,"Frederick J. Ernst and Isidore Hauser","Generalized Symmetries of the Einstein Equations","22 pages, LaTeX document, report FJE-93-002",,"10.1063/1.530302",,"gr-qc",,"  We reformulate the symmetries of Gurses [Phys. Rev. Lett. 70, 367 (1993)] in
+a more abstract, more geometrical manner. The type (b) transformation of
+\gurses\ is related to a diffeomorphism of the differentiable manifold onto
+itself. The type (c) symmetry is replaced by a more general type (c-bar)
+symmetry that has the nice property that the commutator of a type (c-bar)
+generator with a type (a) generator is itself of type (c-bar). We identify a
+differential constraint that transformations of type (c) and (c-bar) must
+satisfy, and which, in our opinion, may severely limit the usefulness of these
+transformations.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1993 00:34:59 GMT""}]","2009-10-22"
+"gr-qc/9303025","Stephen Parrott","Stephen Parrott","Radiation from a Uniformly Accelerated Charge and the Equivalence
+  Principle","LaTeX, 31 pages, 2 figures (also in LaTeX). Appendix 4, discussing
+  subsequent work of others, has been rewritten. To appear in Foundations of
+  Physics","Found.Phys. 32 (2002) 407-440",,,"gr-qc astro-ph hep-ph hep-th",,"  We argue that purely local experiments can distinguish a stationary charged
+particle in a static gravitational field from an accelerated particle in
+(gravity-free) Minkowski space. Some common arguments to the contrary are
+analyzed and found to rest on a misidentification of ``energy''.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1993 10:35:59 GMT""},{""version"":""v2"",""created"":""Sun, 17 Jul 1994 19:24:56 GMT""},{""version"":""v3"",""created"":""Tue, 19 Jul 1994 21:37:56 GMT""},{""version"":""v4"",""created"":""Wed, 24 Jan 1996 03:08:45 GMT""},{""version"":""v5"",""created"":""Fri, 7 Nov 1997 05:55:20 GMT""},{""version"":""v6"",""created"":""Wed, 4 Feb 1998 03:22:55 GMT""},{""version"":""v7"",""created"":""Sat, 16 Jun 2001 07:18:27 GMT""},{""version"":""v8"",""created"":""Fri, 5 Oct 2001 03:24:24 GMT""}]","2008-02-03"
+"hep-lat/9303010","W. Franzki","A.K.De, E.Focht, W.Franzki, J.Jersak and M.A.Stephanov","Study of the Asymptotic Freedom of 2D Yukawa Models on the Lattice","LaTeX, 11 pages (including 4 postscript figures); OUTP-93-01P (HLRZ
+  93-15)","Phys.Lett. B308 (1993) 327-333","10.1016/0370-2693(93)91293-V",,"hep-lat",,"  We investigate on the lattice the Yukawa models in 2 dimensions with Z(2) and
+U(1) symmetries. These models reduce to the usual and chiral Gross-Neveu
+models, respectively, when the kinetic and the selfcoupling terms of the scalar
+field are turned off. The numerical data and mean field arguments suggest that,
+at least for some range of the scalar field hopping parameter, fermion mass is
+dynamically generated for arbitrarily weak Yukawa coupling. The models are
+asymptotically free in this coupling, like the Gross-Neveu models, even when
+the scalar quartic selfcoupling is strong.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 16:58:33 GMT""}]","2009-10-22"
+"hep-th/9303112","Jan Willem v. Holten","G.W. Gibbons, R.H. Rietdijk and J.W. van Holten","SUSY in the sky","28, NIKHEF-H/93-04 and DAMTP R92/43","Nucl.Phys.B404:42-64,1993","10.1016/0550-3213(93)90472-2",,"hep-th",,"  Spinning particles in curved space-time can have fermionic symmetries
+generated by the square root of bosonic constants of motion other than the
+Hamiltonian. We present a general analysis of the conditions under which such
+new supersymmetries appear, and discuss the Poisson-Dirac algebra of the
+resulting set of charges, including the conditions of closure of the new
+algebra. An example of a new non-trivial supersymmetry is found in black-hole
+solutions of the Kerr-Newman type and corresponds to the Killing-Yano tensor,
+which plays an important role in solving the Dirac equation in these black-hole
+metrics.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 16:06:04 GMT""}]","2009-10-07"
+"hep-th/9303113","Stefano Forte","Stefano Forte (INFN Torino, Italy)","Anomaly-Induced Magnetic Screening in 2+1 dimensional QED at Finite
+  Density","8 pages, DFTT-93-10 [ Eq.(15) and (16) were scrambled in previous
+  version ]","Phys.Rev.Lett. 71 (1993) 1303-1306","10.1103/PhysRevLett.71.1303",,"hep-th",,"  We show that in 2+1 dimensional Quantum Electrodynamics an external magnetic
+field applied to a finite density of massless fermions is screened, due to a
+$2+1$-dimensional realization of the underlying $2$-dimensional axial anomaly
+of the space components of the electric current. This is shown to imply
+screening of the magnetic field, i.e., the Meissner effect. We discuss the
+physical implications of this result.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 18:07:15 GMT""},{""version"":""v2"",""created"":""Thu, 20 May 1993 13:31:21 GMT""}]","2009-10-22"
+"hep-th/9303114","Gil N. Gat","G. Gat and B. Rosenstein","Amplitude Zeroes in Collinear Processes or What Is Left from a
+  Factorizable 2d Model in Higher Dimensions","latex , 8 pp., 2 fig. not included","Phys.Lett. B312 (1993) 129-132","10.1016/0370-2693(93)90499-8",,"hep-th",,"  We show that for collinear processes, i.e. processes where the incoming and
+outgoing momenta are aligned along the same line, the S-matrix of the tree
+level 2+1 dimensional Thirring model factorizes: any S - matrix element is a
+product of $2\rightarrow 2$ elements. In particular this means nullification of
+all collinear $2 \rightarrow n$ amplitudes for $n > 2$.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 17:31:22 GMT""}]","2009-10-22"
+"hep-th/9303115","Dobrev Vladimir","L. Dabrowski, V.K. Dobrev, R. Floreanini and V. Husain","Positive energy representations of the conformal quantum algebra","10 pages, plain-TEX, preprint IC/92/187, SISSA 137/92/FM,
+  UTS-DFT-22-92, (July 1992), Phys. Lett. 302B (1993) 215","Phys.Lett. B302 (1993) 215-222","10.1016/0370-2693(93)90387-W",,"hep-th",,"  The positive-energy unitary irreducible representations of the $q$-deformed
+conformal algebra ${\cal C}_q = {\cal U}_q(su(2,2))$ are obtained by
+appropriate deformation of the classical ones. When the deformation parameter
+$q$ is $N$-th root of unity, all these unitary representations become
+finite-dimensional. For this case we discuss in some detail the massless
+representations, which are also irreducible representations of the $q$-deformed
+Poincar\'e subalgebra of ${\cal C}_q$. Generically, their dimensions are
+smaller than the corresponding finite-dimensional non-unitary representation of
+$su(2,2)$, except when $N=2$, $h=0$ and $N = 2 \vert h\vert +1$, where $h$ is
+the helicity of the representations. The latter cases include the fundamental
+representations with $h = \pm 1/2$.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 17:47:00 GMT""}]","2009-10-22"
+"hep-th/9303116","Sumit Das","Sumit R. Das","Matrix Models and Nonperturbative String Propagation in Two-Dimensional
+  Black Hole Backgrounds","14 pages, phyzzx, EFI-93-16","Mod.Phys.Lett.A8:1331-1342,1993","10.1142/S0217732393001069",,"hep-th",,"  We identify a quantity in the $c=1$ matrix model which describes the
+wavefunction for physical scattering of a tachyon from a black hole of the two
+dimensional critical string theory. At the semiclassical level this quantity
+corresponds to the usual picture of a wave coming in from infinity, part of
+which enters the black hole becoming singular at the singularity, while the
+rest is scattered back to infinity, with nothing emerging from the whitehole.
+We find, however, that the exact nonperturbative wavefunction is nonsingular at
+the singularity and appears to end up in the asymptotic region ``behind'' the
+singularity.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 18:04:15 GMT""}]","2014-11-18"
+"hep-th/9303117",,"Franco Ferrari","On the Quantization of the Chern-Simons Fields Theory on Curved
+  Space-Times: the Coulomb Gauge Approach","15 pp., Preprint LMU-TPW 93-5, (Plain TeX + Harvmac)","Phys.Rev. D50 (1994) 7578-7583","10.1103/PhysRevD.50.7578",,"hep-th",,"  We consider here the Chern-Simons field theory with gauge group SU(N) in the
+presence of a gravitational background that describes a two-dimensional
+expanding ``universe"". Two special cases are treated here in detail: the
+spatially flat {\it Robertson-Walker} space-time and the conformally static
+space-times having a general closed and orientable Riemann surface as spatial
+section. The propagator and the vertices are explicitely computed at the lowest
+order in perturbation theory imposing the Coulomb gauge fixing.
+","[{""version"":""v1"",""created"":""Fri, 19 Mar 1993 20:45:33 GMT""}]","2009-10-22"
+"math/9303209","Feliks Przytycki","Feliks Przytycki","Accessability of typical points for invariant measures of positive
+  Lyapunov exponents for iterations of holomorphic maps",,,,"Stony Brook IMS 1993/3","math.DS",,"  We prove that if A is the basin of immediate attraction to a periodic
+attracting or parabolic point for a rational map f on the Riemann sphere, if
+$A$ is completely invariant (i.e. $f^{-1}(A)=A$), and if $\mu$ is an arbitrary
+$f$-invariant measure with positive Lyapunov exponents on the boundary of $A$,
+then $\mu$-almost every point $q$ in the boundary of $A$ is accessible along a
+curve from $A$. In fact we prove the accessability of every ""good"" $q$ i.e.
+such $q$ for which ""small neighbourhoods arrive at large scale"" under iteration
+of $f$. This generalizes Douady-Eremenko-Levin-Petersen theorem on the
+accessability of periodic sources.
+","[{""version"":""v1"",""created"":""Sat, 20 Mar 1993 00:00:00 GMT""}]","2016-09-06"

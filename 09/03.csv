@@ -1,0 +1,186 @@
+"cond-mat/9309003","Dick van der Marel","D.van der Marel","Weak coupling model for s*- and d-wave superconductivity","20 pages, (Critical remarks removed), revtex, th-92-08-01",,,,"cond-mat",,"  The phase diagram of the unconstrained $t-J$ model is calculated using the
+random phase approximation. It is found that the extended $s$ and the
+$d_{x^2-y^2}$-channels are {\em not} degenerate near half filling. Extended
+$s$-pairing with a low $T_c$ occurs only for a band containing less then 0.4
+electrons or holes per unit cell, whereas in a large region around half-filling
+$d$-wave pairing is the only stable superconducting solution. At half filling
+superconductivity is suppressed due to the formation of the anti-ferromagnetic
+Mott-Hubbard insulating state. By extending the analysis to the unconstrained
+$t-t'-J$ model, it is proven that, if a Fermi surface is assumed similar to the
+one that is known to exist in cuprous oxide superconductors, the highest
+superconducting $T_c$ is reached for about $0.7$ electron per site, whereas the
+anti-ferromagnetic solution still occurs for $1$ electron per site. It is
+shown, that the maximum $d$-wave superconducting mean field transition
+temperature is half the maximum value that the Ne\`el temperature can have in
+the Mott-insulating state.
+","[{""version"":""v1"",""created"":""Thu, 2 Sep 1993 17:10:12 GMT""},{""version"":""v2"",""created"":""Fri, 3 Sep 1993 09:37:19 GMT""},{""version"":""v3"",""created"":""Wed, 15 Sep 1993 08:25:52 GMT""}]","2008-02-03"
+"cond-mat/9309004","Piers Coleman","P. Coleman, E. Miranda and A. Tsvelik","Instabilities of the Abrikosov-Suhl resonance","tex. cond-mat/yymmnnn",,"10.1016/0921-4526(94)91781-7",,"cond-mat",,"  We consider the possibility that instabilities of the Abrikosov-Suhl
+resonance lead to new fixed point behavior of the Kondo effect in a lattice
+environment. In one scenario, a pairing component to the resonant scattering
+develops in the Kondo lattice, leading to an odd frequency superconductor. We
+discuss experiments that can discriminate between this picture and d-wave
+pairing, and its relationship to the non Fermi liquid fixed point of the
+overscreened Kondo model.
+","[{""version"":""v1"",""created"":""Thu, 2 Sep 1993 20:34:15 GMT""}]","2019-08-15"
+"hep-ph/9309216","J. Gunion","J.F. Gunion","Detecting an Invisibly Decaying Higgs Boson at a Hadron Supercollider","7 pages, requires phyzzx.tex and tables.tex, revised to convert
+  results from SSC to LHC and include additional top quark mass cases, full
+  postscript file including embedded figure available via anonymous ftp at
+  ucdhep.ucdavis.edu as [anonymous.gunion]hinvisible_revised.ps, preprint
+  UCD-93-28","Phys.Rev.Lett. 72 (1994) 199-202","10.1103/PhysRevLett.72.199",,"hep-ph",,"  We demonstrate that an invisibly decaying Higgs boson with Standard Model
+coupling strength to top--anti-top can be detected at the LHC for masses up to
+about 250 GeV.
+","[{""version"":""v1"",""created"":""Thu, 2 Sep 1993 18:38:00 GMT""},{""version"":""v2"",""created"":""Thu, 2 Dec 1993 21:55:00 GMT""}]","2009-10-22"
+"hep-ph/9309217","Vladimir Braun","I.I. Balitsky, M. Beneke and V.M. Braun","Instanton contributions to the $\tau$ decay widths","LATEX, 13 pages, 3 figures available upon request, MPI-Ph/93-62","Phys.Lett. B318 (1993) 371-381","10.1016/0370-2693(93)90142-5",,"hep-ph",,"  Contrary to some previous claims, we find a sizable instanton contribution to
+the finite energy sum rule used to extract the value of the strong coupling
+from the measured $\tau$ decay widths. It is of the same order of magnitude as
+standard nonperturbative corrections induced by vacuum quark and gluon
+condensates. Our result indicates that there might be no hierarchy of power
+corrections in finite energy sum rules at the scale of $\tau$ mass. Therefore,
+the standard nonperturbative corrections do not necessarily improve the
+accuracy of the theoretical predicition, but can rather be used to estimate an
+intrinsic accuracy of the pure perturbative calculation, which turns out to be
+rather high on this evidence, of order one percent.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 11:46:18 GMT""}]","2009-10-22"
+"hep-ph/9309218","Giulio Mignola","A. Bottino, V. de Alfaro, N. Fornengo, G. Mignola, M. Pignone","On the Neutralino as Dark Matter Candidate - I. Relic Abundance","(10 pages plain TeX, 8 figures not included, available from the
+  authors) DFTT-37/93","Astropart.Phys.2:67-76,1994","10.1016/0927-6505(94)90018-3",,"hep-ph",,"  The neutralino relic abundance is evaluated for a wide range of the
+neutralino mass, ${\rm 20\ GeV} \leq m_\chi \leq {\rm 1\ TeV}$, by taking into
+account the full set of final states in the neutralino-neutralino annihilation.
+The analysis is performed in the Minimal SuSy Standard Model; it is not
+restricted by stringent GUT assumptions but only constrained by present
+experimental bounds. We also discuss phenomenological aspects which are
+employed in the companion paper (II. Direct Detection) where the chances for a
+successful search for dark matter neutralino are investigated.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 10:38:24 GMT""}]","2011-05-23"
+"hep-ph/9309219","Giulio Mignola","A. Bottino, V. de Alfaro, N. Fornengo, G. Mignola, S. Scopel","On the Neutralino as Dark Matter Candidate - II. Direct Detection","(18 pages plain TeX, 24 figures not included, available from the
+  authors) DFTT-38/93","Astropart.Phys.2:77-90,1994","10.1016/0927-6505(94)90019-1",,"hep-ph",,"  Evaluations of the event rates relevant to direct search for dark matter
+neutralino are presented for a wide range of neutralino masses and for various
+detector materials of preeminent interest. Differential and total rates are
+appropriately weighted over the local neutralino density expected on
+theoretical grounds.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 10:38:48 GMT""}]","2011-05-23"
+"hep-ph/9309220","Svjetlana Fajfer","S.Fajfer","Vector and Scalar Meson Resonances in $K\rightarrow\pi\pi\pi$ Decays","15pages, Latex-file, TUM-T31-41/93","Z.Phys. C61 (1994) 645-650","10.1007/BF01552630",,"hep-ph",,"  Corrections to $K\rightarrow\pi\pi\pi$ induced by vector and scalar meson
+exchange are investigated within chiral perturbation theory.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 14:22:50 GMT""}]","2009-10-22"
+"hep-ph/9309221","Antonio Lopez Maroto","A. Dobado and A. Lopez ( Departamento de Fisica Teorica Universidad
+  Complutense de Madrid 28040 Madrid, Spain )","Some consequences of the effective low-energy lagrangian for gravity","13 pages","Phys.Lett.B316:250-256,1993; ERRATUM-ibid.B321:435,1994","10.1016/0370-2693(93)90322-9",,"hep-ph",,"  We consider the minimal low-energy action for gravity up to six derivatives
+which is renormalizable at the two-loop level modulo higher derivative
+corrections. Then we study the classical solutions corresponding to the
+Schwarzschild and the Robertson-Walker metrics. In the first case we find a
+singularity close to the gravitational radius and in the second case we find
+inflationary de Sitter solutions in absence of any matter or cosmological
+constant.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 14:52:52 GMT""}]","2008-11-26"
+"hep-th/9308158","Ivan Kostov","Ivan K. Kostov","U(N) Gauge Theory and Lattice Strings","26 pages, 8 figures not included, available by mail upon request,
+  T93-079 (talk at the Workshop on string theory, gauge theory and quantum
+  gravity, 28-29 April 1993, Trieste, Italy)","Nucl.Phys. B415 (1994) 29-70","10.1016/0550-3213(94)90066-3",,"hep-th",,"  We explain, in a slightly modified form, an old construction allowing to
+reformulate the U(N) gauge theory defined on a D-dimensional lattice as a
+theory of lattice strings (a statistical model of random surfaces). The world
+surface of the lattice string is allowed to have pointlike singularities
+(branch points) located not only at the sites of the lattice, but also on its
+links and plaquettes. The strings become noninteracting when $N\to\infty$. In
+this limit the statistical weight a world surface is given by exp[ $-$ area]
+times a product of local factors associated with the branch points. In $D=4$
+dimensions the gauge theory has a nondeconfining first order phase transition
+dividing the weak and strong coupling phase. From the point of view of the
+string theory the weak coupling phase is expected to be characterized by
+spontaneous creation of ``windows'' on the world sheet of the string.
+","[{""version"":""v1"",""created"":""Thu, 2 Sep 1993 17:07:30 GMT""}]","2009-10-22"
+"hep-th/9309014","Zoltan Bajnok","Z. Bajnok","Null vectors of the $WBC_2$ algebra","8 pages, LaTeX, ITP Budapest 503","Phys. Lett. B320 (1994) 36-42","10.1016/0370-2693(94)90820-6",,"hep-th",,"  Using the fusion principle of Bauer et al. we give explicit expressions for
+some null vectors in the highest weight representations of the \bc algebra in
+two different forms. These null vectors are the generalization of the Virasoro
+ones described by Benoit and Saint-Aubin and analogues of the $W_3$ ones
+constructed by Bowcock and Watts. We find connection between quantum Toda
+models and the fusion method.
+","[{""version"":""v1"",""created"":""Thu, 2 Sep 1993 16:34:20 GMT""}]","2009-10-22"
+"hep-th/9309016","Hector DE Vega","H.J. de Vega and I.L. Egusquiza","Strings in Cosmological and Black Hole Backgrounds: Ring Solutions","Paris preprint PAR-LPTHE-93/43. Uses phyzzx. Includes figures. Text
+  and figures compressed using uufiles","Phys.Rev. D49 (1994) 763-778","10.1103/PhysRevD.49.763",,"hep-th astro-ph gr-qc",,"  The string equations of motion and constraints are solved for a ring shaped
+Ansatz in cosmological and black hole spacetimes. In FRW universes with
+arbitrary power behavior [$R(X^0) = a\;|X^0|^{\a}\, $], the asymptotic form of
+the solution is found for both $X^0 \to 0$ and $X^0 \to \infty$ and we plot the
+numerical solution for all times. Right after the big bang ($X^0 = 0$), the
+string energy decreasess as $ R(X^0)^{-1} $ and the string size grows as $
+R(X^0) $ for $ 0 < \a < 1 $ and as $ X^0 $ for $ \a < 0 $ and $ \a > 1 $. Very
+soon [ $ X^0 \sim 1 $] , the ring reaches its oscillatory regime with frequency
+equal to the winding and constant size and energy. This picture holds for all
+values of $ \a $ including string vacua (for which, asymptotically, $ \a = 1$).
+In addition, an exact non-oscillatory ring solution is found. For black hole
+spacetimes (Schwarzschild, Reissner-Nordstr\oo m and stringy), we solve for
+ring strings moving towards the center. Depending on their initial conditions
+(essentially the oscillation phase), they are are absorbed or not by
+Schwarzschild black holes. The phenomenon of particle transmutation is
+explicitly observed (for rings not swallowed by the hole). An effective horizon
+is noticed for the rings. Exact and explicit ring solutions inside the
+horizon(s) are found. They may be interpreted as strings propagating between
+the different universes described by the full black hole manifold.
+","[{""version"":""v1"",""created"":""Thu, 2 Sep 1993 16:42:13 GMT""}]","2009-10-22"
+"hep-th/9309017","Craig Tracy","John Palmer, Morris Beatty, Craig A. Tracy","Tau functions for the Dirac operator on the Poincare' disk","92 pages","Commun.Math.Phys. 165 (1994) 97-174","10.1007/BF02099740",,"hep-th math-ph math.MP nlin.SI solv-int",,"  Correlation functions for holonomic fields on the Poincare' disk are
+analyzed. The two point functions are shown to be expressible in terms of
+Painleve' functions of type VI.
+","[{""version"":""v1"",""created"":""Thu, 2 Sep 1993 21:19:15 GMT""}]","2009-07-11"
+"hep-th/9309018","Nick Dorey","Nicholas Dorey, James Hughes and Michael P. Mattis","Soliton quantization and internal symmetry","23 pages, LA-UR-93-2994","Phys.Rev.D49:3598-3611,1994","10.1103/PhysRevD.49.3598",,"hep-th hep-ph",,"  We apply the method of collective coordinate quantization to a model of
+solitons in two spacetime dimensions with a global $U(1)$ symmetry. In
+particular we consider the dynamics of the charged states associated with
+rotational excitations of the soliton in the internal space and their
+interactions with the quanta of the background field (mesons). By solving a
+system of coupled saddle-point equations we effectively sum all tree-graphs
+contributing to the one-point Green's function of the meson field in the
+background of a rotating soliton. We find that the resulting one-point function
+evaluated between soliton states of definite $U(1)$ charge exhibits a pole on
+the meson mass shell and we extract the corresponding S-matrix element for the
+decay of an excited state via the emission of a single meson using the standard
+LSZ reduction formula. This S-matrix element has a natural interpretation in
+terms of an effective Lagrangian for the charged soliton states with an
+explicit Yukawa coupling to the meson field. We calculate the leading-order
+semi-classical decay width of the excited soliton states discuss the
+consequences of these results for the hadronic decay of the $\Delta$ resonance
+in the Skyrme model.
+","[{""version"":""v1"",""created"":""Thu, 2 Sep 1993 23:32:40 GMT""}]","2010-11-01"
+"hep-th/9309019","Nemanja Kaloper","Nemanja Kaloper","Three Dimensional Black Holes and Four Dimensional Black Strings as
+  Nonlinear Sigma Models","8 pages plain TeX, Alberta preprint Alberta-Thy-25-93",,,,"hep-th",,"  Two solutions of stringy gravity in three and four dimensions which admit
+interpretation as a black hole and a black string, respectively, are discussed.
+It is demonstrated that they are exact WZWN nonlinear sigma models to all
+orders in the inverse string tension, and hence represent exact conformal field
+theories on the world-sheet. Furthermore, since the dilaton for these two
+solutions is constant, they also solve the equations of motion of standard GR
+with a minimally coupled three form field strength. (Based on a talk presented
+at the Conference on Quantum Aspects of Black Holes, U. of California, Santa
+Barbara CA June 21-27 '93, and a poster presented at 5th Canadian Conference on
+General Relativity and Relativistic Astrophysics, Waterloo, Ont., May 13-15,
+1993.)
+","[{""version"":""v1"",""created"":""Thu, 2 Sep 1993 23:29:45 GMT""}]","2007-05-23"
+"hep-th/9309020",,"Gerald Kelnhofer","Universal bundle for gravity, local index theorem, and covariant
+  gravitational anomalies","32 pages, LMU-TPW 93-16, typeset by amstex","J.Math.Phys. 35 (1994) 5945-5968","10.1063/1.530721",,"hep-th",,"  Consistent and covariant Lorentz and diffeomorphism anomalies are
+investigated in terms of the geometry of the universal bundle for gravity. This
+bundle is explicitly constructed and its geometrical structure will be studied.
+By means of the local index theorem for families of Bismut and Freed the
+consistent gravitational anomalies are calculated. Covariant gravitational
+anomalies are shown to be related with secondary characteristic classes of the
+universal bundle and a new set of descent equations which also contains the
+covariant Schwinger terms is derived. The relation between consistent and
+covariant anomalies is studied. Finally a geometrical realization of the
+gravitational BRS, anti-BRS transformations is presented which enables the
+formulation of a kind of covariance condition for covariant gravitational
+anomalies.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 11:57:00 GMT""}]","2009-10-22"
+"hep-th/9309021",,"V.V. Nesterenko","On squaring the primary constraints in a generalized Hamiltonian
+  dynamics","10 pages, LATEX, JINR preprint E2-93-328","Phys.Lett. B327 (1994) 50-55","10.1016/0370-2693(94)91527-X",,"hep-th",,"  Consideration of the model of the relativistic particle with curvature and
+torsion in the three-dimensional space-time shows that the squaring of the
+primary constraints entails a wrong result. The complete set of the Hamiltonian
+constraints arising here correspond to another model with an action similar but
+not identical with the initial action.
+","[{""version"":""v1"",""created"":""Thu, 2 Sep 1993 17:25:43 GMT""}]","2016-09-06"
+"hep-th/9309022","Hector DE Vega","H. J. de Vega and A. Gonz\'alez--Ruiz","Exact solution of the $SU_{q}(n)$ invariant quantum spin chains","29 pages","Nucl.Phys. B417 (1994) 553-578","10.1016/0550-3213(94)90484-7","LPTHE 93-38","hep-th math.QA",,"  The Nested Bethe Ansatz is generalized to open boundary conditions. This is
+used to find the exact eigenvectors and eigenvalues of the $A_{n-1}$ vertex
+model with fixed open boundary conditions and the corresponding $SU_{q}(n)$
+invariant hamiltonian.
+  The Bethe Ansatz equations obtained are solved in the thermodynamic limit
+giving the vertex model free energy and the hamiltonian ground state energy
+including the corresponding boundary contributions.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 14:39:36 GMT""}]","2009-10-22"
+"nucl-th/9309001","Gianni Salme' -Sanita'","C. Ciofi degli Atti, E. Pace and G. Salm\'e","Theory of Inclusive Scattering of Polarized Electrons by Polarized
+  $^{3}$He and the Neutron Form Factors","14 pages, 7 figures (to be requested), LateX, INFN-ISS 93/3",,,,"nucl-th",,"  The theory of inclusive lepton scattering of polarized leptons by polarized J
+= 1/2 hadrons is presented and the origin of different expressions for the
+polarized nuclear response function appearing in the literature is explained.
+The sensitivity of the longitudinal asymmetry upon the neutron form factors is
+investigated.
+","[{""version"":""v1"",""created"":""Fri, 3 Sep 1993 14:33:05 GMT""}]","2007-05-23"

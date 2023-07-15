@@ -1,0 +1,148 @@
+"cond-mat/9302016",,"M.C.Diamantini E.Langmann G.W.Semenoff P.Sodano","SU(N) Antiferromagnets and Strongly Coupled QED: Effective Field Theory
+  for Josephson Junctions Arrays","33 pages,latex,Proceedings of ""Common Trends in Condensed Matter and
+  High Energy Physics"",DFUPG 1/93","Nucl.Phys.Proc.Suppl. 33C (1993) 192-208","10.1016/0920-5632(93)90380-O",,"cond-mat hep-lat",,"  We review our analysis of the strong coupling of compact QED on a lattice
+with staggered Fermions. We show that, for infinite coupling, compact QED is
+exactly mapped in a quantum antiferromagnet. We discuss some aspects of this
+correspondence relevant for effective field theories of Josephson junctions
+arrays.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 07:03:00 GMT""}]","2009-10-22"
+"cond-mat/9302017",,"H. Castella, X. Zotos","Exact calculation of spectral properties of a particle interacting with
+  a one dimensional fermionic system","22 pages + 1 postscript figure, REVTEX","Phys.Rev. B47 (1993) 16186","10.1103/PhysRevB.47.16186",,"cond-mat",,"  Using the Bethe ansatz analysis as was reformulated by Edwards, we calculate
+the spectral properties of a particle interacting with a bath of fermions in
+one dimension for the case of equal particle-fermion masses. These are directly
+related to singularities apparent in optical experiments in one dimensional
+systems. The orthogonality catastrophe for the case of an infinite particle
+mass survives in the limit of equal masses. We find that the exponent $\beta$
+of the quasiparticle weight, $Z\simeq N^{-\beta}$ is different for the two
+cases, and proportional to their respective phaseshifts at the Fermi surface;
+we present a simple physical argument for this difference. We also show that
+these exponents describe the low energy behavior of the spectral function, for
+repulsive as well as attractive interaction.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 08:56:00 GMT""}]","2009-10-22"
+"gr-qc/9302015","Jason Twamley","J. Twamley","The quantum behavior of general time dependent quadratic systems
+  linearly coupled to a bath","20 pages, revtex v.3.0, ADP-93-199/M14 (Revison: lines correctly set
+  to lengths < 80 )","Phys.Rev.A48:2627-2633,1993","10.1103/PhysRevA.48.2627",,"gr-qc",,"  In this paper we solve for the quantum propagator of a general time dependent
+system quadratic in both position and momentum, linearly coupled to an infinite
+bath of harmonic oscillators. We work in the regime where the quantum optical
+master equation is valid. We map this master equation to a Schroedinger
+equation on Super-Hilbert space and utilize Lie Algebraic techniques to solve
+for the dynamics in this space. We then map back to the original Hilbert space
+to obtain the solution of the quantum dynamics. The Lie Algebraic techniques
+used are preferable to the standard Wei-Norman methods in that only coupled
+systems of first order ordinary differential equations and purely algebraic
+equations need only be solved. We look at two examples.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 23:53:10 GMT""},{""version"":""v2"",""created"":""Fri, 12 Feb 1993 18:59:01 GMT""}]","2008-11-26"
+"gr-qc/9302016",,"Alexander Vilenkin","Quantum Cosmology","10 pages, TUTP-92-13",,"10.1111/j.1749-6632.1993.tb43903.x",,"gr-qc",,"  An elementary review of quantum cosmology. (Talk given at Texas/Pascos 1992
+at Berkeley)
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 17:17:00 GMT""}]","2009-10-22"
+"hep-lat/9302003","Alan Sokal","Takashi Hara, Gordon Slade and Alan D. Sokal","New Lower Bounds on the Self-Avoiding-Walk Connective Constant","35 pages, 388480 bytes Postscript, NYU-TH-93/02/01","J.Statist.Phys. 72 (1993) 479-517; Erratum-ibid. 78 (1995)
+  1187-1188","10.1007/BF01048021",,"hep-lat",,"  We give an elementary new method for obtaining rigorous lower bounds on the
+connective constant for self-avoiding walks on the hypercubic lattice $Z^d$.
+The method is based on loop erasure and restoration, and does not require exact
+enumeration data. Our bounds are best for high $d$, and in fact agree with the
+first four terms of the $1/d$ expansion for the connective constant. The bounds
+are the best to date for dimensions $d \geq 3$, but do not produce good results
+in two dimensions. For $d=3,4,5,6$, respectively, our lower bound is within
+2.4\%, 0.43\%, 0.12\%, 0.044\% of the value estimated by series extrapolation.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 16:59:06 GMT""}]","2009-10-22"
+"hep-ph/9302250","Lynne Orr","Yu.L. Dokshitzer, V.A. Khoze, L.H. Orr, and W.J. Stirling","Properties of Soft Radiation Near $\tt$ and $W^+W^-$ Threshold","LaTeX, 33 pages + 10 figures not included but gladly provided by
+  orr@ucdhep.ucdavis.edu; DTP/92/88, UCD-92-29, LU-TP-92-33","Nucl.Phys. B403 (1993) 65-100","10.1016/0550-3213(93)90029-O",,"hep-ph",,"  We discuss the characteristic interference features of soft radiation in the
+threshold production of heavy unstable particles: soft gluon radiation in $\ee
+\to \tt$ and soft photon radiation in $\ee \to \ww$. We show that the heavy
+particle decay width controls the interference between the emission off the
+final state particles. As a result, the radiation pattern may provide a way of
+measuring the decay width of the heavy particles.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 18:28:00 GMT""}]","2009-10-22"
+"hep-ph/9302251",,"K. L. Sterner, et al. ( The AMY Collaboration )","Search for Anomalous $\gamma\gamma$ Production at TRISTAN","18 pages (3 figures), VPI-IHEP-93/2","Phys.Lett.B303:385-390,1993","10.1016/0370-2693(93)91449-W",,"hep-ph",,"  We report on measurements of the total cross section for e+e- --> 2-Gamma for
+center-of-mass energies between 57.4 and 59.5 GeV, using the AMY detector at
+the TRISTAN collider. We set new limits on the production of a possible new
+s-channel resonance decaying into photon pairs.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 19:25:00 GMT""}]","2008-11-26"
+"hep-ph/9302252","Gye Park","T.K. Kuo, Gye T. Park, and M. Zralek","Boson Pair Productions In $e^+$ $e^-$ Annihilation","10 pages, LaTeX, 3 figs not included, CTP-TAMU-08/93, PURD-TH-93-1","NuovoCim.A107:757-764,1994","10.1007/BF02732083",,"hep-ph",,"  We examine the processes $e^+ e^-\longrightarrow W^+ W^-$ and $Z^0 Z^0$ in
+the context of the $SP(6)_L\otimes U(1)_Y$ model. We find that there are
+significant deviations in the total cross sections $\sigma (s)$ from the
+standard model results due to the presence of additional gauge bosons
+$Z^\prime$ and $W^\prime$ in the model. These deviations could be detected at
+LEP.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 19:37:46 GMT""}]","2008-11-26"
+"hep-ph/9302254","Robert Brandenberger","R. H. Brandenberger, A. T. Sornborger and M. Trodden (Brown
+  University)","Gamma Ray Bursts from Ordinary Cosmic Strings","7 pages, uses Latex, Brown preprint BROWN-HET-896","Phys.Rev. D48 (1993) 940-942","10.1103/PhysRevD.48.940",,"hep-ph astro-ph",,"  We give an upper estimate for the number of gamma ray bursts from ordinary
+(non-superconducting) cosmic strings expected to be observed at terrestrial
+detectors. Assuming that cusp annihilation is the mechanism responsible for the
+bursts we consider strings arising at a GUT phase transition and compare our
+estimate with the recent BATSE results. Further we give a lower limit for the
+effective area of future detectors designed to detect the cosmic string induced
+flux of gamma ray bursts.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 02:19:27 GMT""}]","2016-09-01"
+"hep-ph/9302255","Carl Im","C. Im, G. Kane, P. Malde","Could Large CP Violation Be Detected at Colliders?","11pp, LaTeX, UM--TH--92--27(massaged to make TeX output cleaner), no
+  pictures","Phys.Lett.B317:454-461,1993","10.1016/0370-2693(93)91024-H",,"hep-ph",,"  We argue that CP--violation effects below a few tenths of a percent are
+probably undetectable at hadron and electron colliders. Thus only operators
+whose contributions interfere with tree--level Standard Model amplitudes are
+detectable. We list these operators for Standard Model external particles and
+some two and three body final state reactions that could show detectable
+effects. These could test electroweak baryogenesis scenarios.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 08:13:16 GMT""},{""version"":""v2"",""created"":""Thu, 18 Feb 1993 18:56:13 GMT""}]","2010-11-01"
+"hep-th/9302041","Thomas Strobl","Thomas Strobl","Comment on Gravity and the Poincare Group","6 pages, LaTex, TUW9301","Phys.Rev. D48 (1993) 5029-5031","10.1103/PhysRevD.48.5029",,"hep-th",,"  Following the approach of Grignani and Nardelli [1], we show how to cast the
+two-dimensional model $L \sim curv^2 + torsion^2 + cosm.const$ -- and in fact
+any theory of gravity -- into the form of a Poincare gauge theory. By means of
+the above example we then clarify the limitations of this approach: The
+diffeomorphism invariance of the action still leads to a nasty constraint
+algebra. Moreover, by simple changes of variables (e.g. in a path integral) one
+can reabsorb all the modifications of the original theory.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 18:00:16 GMT""}]","2009-10-22"
+"hep-th/9302042","Alexei Vladimirov","A. A. Vladimirov","A method for obtaining quantum doubles from the Yang-Baxter R-matrices","8 pages","Mod.Phys.Lett. A8 (1993) 1315-1322","10.1142/S0217732393001045","JINR preprint E2-92-506","hep-th math.QA",,"  We develop the approach of Faddeev, Reshetikhin, Takhtajan [1] and of Majid
+[2] that enables one to associate a quasitriangular Hopf algebra to every
+regular invertible constant solution of the quantum Yang-Baxter equations. We
+show that such a Hopf algebra is actually a quantum double.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 17:07:48 GMT""}]","2009-10-22"
+"hep-th/9302043","Alexei Vladimirov","A. A. Vladimirov","On the Hopf algebras generated by the Yang-Baxter R-matrices","10 pages","Z.Phys. C58 (1993) 659-663","10.1007/BF01553027","JINR preprint E2-93-34","hep-th math.QA",,"  We reformulate the method recently proposed for constructing quasitriangular
+Hopf algebras of the quantum-double type from the R-matrices obeying the
+Yang-Baxter equations. Underlying algebraic structures of the method are
+elucidated and an illustration of its facilities is given. The latter produces
+an example of a new quasitriangular Hopf algebra. The corresponding universal
+R-matrix is presented as a formal power series.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 17:09:02 GMT""}]","2009-10-22"
+"hep-th/9302044","Corinne A. Manogue","Corinne A. Manogue and J\""org Schray","Finite Lorentz Transformations, Automorphisms, and Division Algebras","24 pages, Plain TeX, 2 figures on 1 page submitted separately as
+  uuencoded compressed tar file","J.Math.Phys. 34 (1993) 3746-3767","10.1063/1.530056",,"hep-th gr-qc",,"  We give an explicit algebraic description of finite Lorentz transformations
+of vectors in 10-dimensional Minkowski space by means of a parameterization in
+terms of the octonions. The possible utility of these results for superstring
+theory is mentioned. Along the way we describe automorphisms of the two highest
+dimensional normed division algebras, namely the quaternions and the octonions,
+in terms of conjugation maps. We use similar techniques to define $SO(3)$ and
+$SO(7)$ via conjugation, $SO(4)$ via symmetric multiplication, and $SO(8)$ via
+both symmetric multiplication and one-sided multiplication. The
+non-commutativity and non-associativity of these division algebras plays a
+crucial role in our constructions.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 00:17:44 GMT""},{""version"":""v2"",""created"":""Fri, 12 Feb 1993 17:08:07 GMT""}]","2009-10-22"
+"hep-th/9302048","Sung-Kil Yang","T. Eguchi, H. Kanno, Y. Yamada and S.-K. Yang","Topological Strings, Flat Coordinates and Gravitational Descendants","11 pages, phyzzx, UT-630","Phys.Lett. B305 (1993) 235-241","10.1016/0370-2693(93)90113-V",,"hep-th",,"  We discuss physical spectra and correlation functions of topological minimal
+models coupled to topological gravity. We first study the BRST formalism of
+these theories and show that their BRST operator $Q=Q_s+Q_v$ can be brought to
+$Q_s$ by a certain homotopy operator $U$, $UQU^{-1}=Q_s$ ($Q_s$ and $Q_v$ are
+the $N=2$ and diffeomorphism BRST operators, respectively). The
+reparametrization (anti)-ghost $b$ mixes with the supercharge operator $G$
+under this transformation. Existence of this transformation enables us to use
+matter fields to represent cohomology classes of the operator $Q$. We
+explicitly construct gravitational descendants and show that they generate the
+higher-order KdV flows. We also evaluate genus-zero correlation functions and
+rederive basic recursion relations of two-dimensional topological gravity.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 10:13:40 GMT""}]","2009-10-22"
+"hep-th/9302050","Poul H. Damgaard","P.H. Damgaard and F. De Jonghe","Master Equations for Extended Lagrangian BRST Symmetries","12 pages, LaTeX, KUL-TF-93/04 and CERN-TH-6800/93","Phys.Lett. B305 (1993) 59-66","10.1016/0370-2693(93)91105-V",,"hep-th",,"  Starting from the requirement that a Lagrangian field theory be invariant
+under both Schwinger-Dyson BRST and Schwinger-Dyson anti-BRST symmetry, we
+derive the BRST--anti-BRST analogue of the Batalin-Vilkovisky formalism. This
+is done through standard Lagrangian gauge fixing respecting the extended BRST
+symmetry. The solutions of the resulting Master Equation and the gauge-fixing
+procedure for the quantum action can be brought into forms that coincide with
+those obtained earlier on algebraic grounds by Batalin, Lavrov and Tyutin.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 12:57:24 GMT""}]","2009-10-22"
+"math/9302213",,"N. Tenney Peck","A factorization constant for $l^n_p",,,,"Banach Archive 2/11/93","math.FA",,"  We prove that if PT is a factorization of the identity operator on \ell_p^n
+through \ell_{\infty}^k, then ||P|| ||T|| \geq Cn^{1/p-1/2}(log n)^{-1/2}. This
+is a corollary of a more general result on factoring the identity operator on a
+quasi-normed space through \ell_{\infty}^k.
+","[{""version"":""v1"",""created"":""Thu, 11 Feb 1993 18:51:47 GMT""}]","2016-09-06"
+"nucl-th/9302006","Gabriel Martinez","G. Martinez-Pinedo and A. Poves","The Beta Decay of 44V","8 pages, REVTEX 3.0 with epsf.sty, 4 figures Postscrip included and
+  compressed using uufiles, FTUAM-92/07","Phys.Rev.C48:937-939,1993","10.1103/PhysRevC.48.937",,"nucl-th",,"  We have calculated the $\beta^+$ decay of the proton rich nuclei $^{44}$V in
+a full fp-shell valence space. We obtain a theoretical half-life of 71~ms
+compared with the experimental value t$_{1/2}$ = 90 $\pm$ 25 ms. Besides, we
+make predictions for the Gamow-Teller strength functions corresponding to the
+decays of the 2$^+$ ground state and 6$^+$ isomer state.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 12:30:30 GMT""},{""version"":""v2"",""created"":""Mon, 15 Feb 1993 15:50:52 GMT""}]","2008-11-26"

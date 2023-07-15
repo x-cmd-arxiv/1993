@@ -1,0 +1,327 @@
+"adap-org/9312001","Ga'bor Vattay","Imre M. J\'anosi (Department of Atomic Physics, E\""otv\""os University
+  Budapest) and G\'abor Vattay (Department of Solid State Physics, E\""otv\""os
+  University Budapest)","Soft Turbulence in the Atmospheric Boundary Layer","4 pages, latex, revtex, Ask for figures from vattay@nbivax.nbi.dk","Phys. Rev. A 46, 6368 (1992)","10.1063/1.44611","9","adap-org nlin.AO",,"  In this work we compare the spectral properties of the daily medium
+temperature fluctuations with the experimental results of the Chicago Group, in
+which the local temperature fluctuations were measured in a helium cell. The
+results suggest that the dynamics of the daily temperature fluctuations is
+determined by the oft turbulent state of the atmospheric boundary layer, which
+state is significantly different from low dimensional chaos.
+","[{""version"":""v1"",""created"":""Wed, 8 Dec 1993 19:31:18 GMT""}]","2019-08-15"
+"alg-geom/9312004","Alexander Polischuk","A. Polishchuk","On Koszul property of the homogeneous coordinate ring of a curve","17 pages, Latex",,,,"alg-geom math.AG",,"  The following corollary has been added: for general tetragonal curve $C$ of
+genus $g\ge 9$ the homogeneous coordinate ring of $C$ defined by the line
+bundle $K(-T)$, where $K$ is the canonical class, $T$ is the tetragonal series,
+is Koszul. Also some misprints are corrected.
+","[{""version"":""v1"",""created"":""Wed, 8 Dec 1993 23:25:56 GMT""},{""version"":""v2"",""created"":""Fri, 4 Nov 1994 18:27:46 GMT""}]","2008-02-03"
+"astro-ph/9312017","Marc Kamionkowski","Marc Kamionkowski and David N. Spergel","Large-Angle Cosmic Microwave Background Anisotropies in an Open Universe","30 pages in a self-unpacking uuencoded PostScript file","Astrophys.J.432:7,1994","10.1086/174543","IASSNS-HEP-93/73, POP-545","astro-ph hep-ph",,"  If the Universe is open, scales larger than the curvature scale may be probed
+by large-angle fluctuations in the cosmic microwave background (CMB). We
+consider primordial adiabatic perturbations and discuss power spectra that are
+power laws in volume, wavelength, and eigenvalue of the Laplace operator. The
+resulting large-angle anisotropies of the CMB are computed. The amplitude
+generally increases as $\Omega$ is decreased, but decreases as $h$ is
+increased. Interestingly enough, for all three ansatzes, anisotropies on
+angular scales larger than the curvature scale are suppressed relative to the
+anisotropies on scales smaller than the curvature scale. Models with
+$0.2<\Omega h<0.3$ appear compatible with CMB fluctuations detected by COBE and
+Tenerife and with the amplitude and spectrum of fluctuations of galaxy counts
+in galaxy surveys. COBE normalization for these models yields $\sigma_8\simeq
+0.5-0.7$. Models with smaller values of $\Omega h$ when normalized to COBE
+require bias factors in excess of 2 to be compatible with the observed galaxy
+counts on the $8/h$ Mpc scale. Requiring that the age of the universe exceed 10
+Gyr implies that $\Omega>0.25$, while requiring that the age exceed 13 Gyr
+implies that $\Omega>0.35$. Unlike in the flat-Universe case where the
+anisotropy comes only from the last-scattering term in the Sachs-Wolfe formula,
+large-angle anisotropies come primarily from the decay of potential
+fluctuations at $z<1/\Omega$. Thus, if the Universe is open, COBE has been
+detecting fluctuations produced at moderate redshift rather than at $z\sim
+1300$.
+","[{""version"":""v1"",""created"":""Wed, 8 Dec 1993 20:24:35 GMT""}]","2008-11-26"
+"cond-mat/9312035","Oliver Schoenborn","Oliver Sch\""onborn, Sanjay Puri and Rashmi C. Desai","A Singular Perturbation Analysis for \\Unstable Systems with Convective
+  Nonlinearity","5 pages, PostScript format",,"10.1103/PhysRevE.49.3480",,"cond-mat",,"  We use a singular perturbation method to study the interface dynamics of a
+non-conserved order parameter (NCOP) system, of the reaction-diffusion type,
+for the case where an external bias field or convection is present. We find
+that this method, developed by Kawasaki, Yalabik and Gunton for the
+time-dependant Ginzburg-Landau equation and used successfully on other NCOP
+systems, breaks down for our system when the strength of bias/convection gets
+large enough.
+","[{""version"":""v1"",""created"":""Wed, 8 Dec 1993 19:47:54 GMT""}]","2009-10-22"
+"cond-mat/9312036","Raimundo dos Santos","Beatriz Boechat, Raimundo R. dos Santos, and M. A. Continentino","Ising Spin Glass in a Transverse Magnetic Field","7 pages, RevTeX3, Nota Cientifica PUC-Rio 23/91",,"10.1103/PhysRevB.49.6404",,"cond-mat",,"  We study the three-dimensional quantum Ising spin glass in a transverse
+magnetic field following the evolution of the bond probability distribution
+under Renormalisation Group transformations. The phase diagram (critical
+temperature $T_c$ {\em vs} transverse field $\Gamma$) we obtain shows a finite
+slope near $T=0$, in contrast with the infinite slope for the pure case. Our
+results compare very well with the experimental data recently obtained for the
+dipolar Ising spin glass LiHo$_{0.167}$Y$_{0.833}$F$_4$, in a transverse field.
+This indicates that this system is more apropriately described by a model with
+short range interactions than by an equivalent Sherrington-Kirkpatrick model in
+a transverse field.
+","[{""version"":""v1"",""created"":""Wed, 8 Dec 1993 22:08:26 GMT""}]","2009-10-22"
+"cond-mat/9312037","Franco Nori","Franco Nori and Yeong-Lieh Lin","Analytical solution for the Fermi-sea energy of two-dimensional
+  electrons in a magnetic field: lattice path-integral approach and quantum
+  interference","5 pages, RevTex","Phys. Rev. B 49 (1994) 4131-4135","10.1103/PhysRevB.49.4131",,"cond-mat.mes-hall cond-mat.supr-con",,"  We derive an exact solution for the total kinetic energy of noninteracting
+spinless electrons at half-filling in two-dimensional bipartite lattices. We
+employ a conceptually novel approach that maps this problem exactly into a
+Feynman-Vdovichenko lattice walker. The problem is then reduced to the analytic
+study of the sum of magnetic phase factors on closed paths. We compare our
+results with the ones obtained through numerical calculations.
+","[{""version"":""v1"",""created"":""Wed, 8 Dec 1993 20:20:04 GMT""}]","2009-10-22"
+"cond-mat/9312038",,"Michael Teitelman","Spin-Wave-Spin-Wave Interaction and the Thermodynamics of the Heisenberg
+  Spin Chain","6 pages, REVTEX",,,,"cond-mat hep-lat hep-th",,"  The low-temperature free energy of the spin S quantum Heisenberg
+ferromagnetic chain in a strong magnetic field is obtained in a two-particle
+approximation by using exact solution of two-spin-wave problem. The result is
+beyond the perturbation theory because it incorporates the both bound and
+scattering state contributions, and the scattering effect is essential as well
+as the bound state one. In particular the main temperature renormalization of
+an exchange constant is found to be linear in temperature instead $T^{3/2}$
+corresponded to the perturbation theory result.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 07:27:21 GMT""}]","2007-05-23"
+"cond-mat/9312039",,"Denis Ullmo, Klaus Richter, and Rodolfo A. Jalabert","Orbital Magnetism in Ensembles of Ballistic Billiards","7 pages, 2 figures, LATEX",,,"IPNO/TH 93-60","cond-mat",,"  We calculate the magnetic response of ensembles of small two-dimensional
+structures at finite temperatures. Using semiclassical methods and numerical
+calculation we demonstrate that only short classical trajectories are relevant.
+The magnetic susceptibility is enhanced in regular systems, where these
+trajectories appear in families. For ensembles of squares we obtain a large
+paramagnetic susceptibility, in good agreement with recent measurements in the
+ballistic regime.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 12:13:34 GMT""}]","2007-05-23"
+"cond-mat/9312040","Franco Nori","Yeong-Lieh Lin and Franco Nori","Electronic Structure of Single- and Multiple-shell Carbon Fullerenes","5 pages, RevTex, 2 figures upon request (to be published in Physical
+  Review B, Feb. 1994)","Phys. Rev. B 49 (1994) 5020-5023","10.1103/PhysRevB.49.5020","UM-CM-23","cond-mat.mtrl-sci",,"  We study the electronic states of giant single-shell and the recently
+discovered nested multi-shell carbon fullerenes within the tight-binding
+approximation. We use two different approaches, one based on iterations and the
+other on symmetry, to obtain the $\pi$-state energy spectra of large fullerene
+cages: $C_{240}$, $C_{540}$, $C_{960}$, $C_{1500}$, $C_{2160}$ and $C_{2940}$.
+Our iteration technique reduces the dimensionality of the problem by more than
+one order of magnitude (factors of $\sim 12$ and $20$), while the
+symmetry-based approach reduces it by a factor of $10$. We also find formulae
+for the highest occupied and lowest unoccupied molecular orbital (HOMO and
+LUMO) energies of $C_{60{\cdot}n^{2}}$ fullerenes as a function of $n$,
+demonstrating a tendency towards metallic regime for increasing $n$. For
+multi-shell fullerenes, we analytically obtain the eigenvalues of the
+intershell interaction.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 15:02:54 GMT""}]","2009-10-22"
+"cond-mat/9312041","Franco Nori","Yeong-Lieh Lin and Franco Nori","Recursion and Path-Integral Approaches to the Analytic Study of the
+  Electronic Properties of $C_{60}$","19 pages, RevTex, 6 figures upon request","Phys. Rev. B 53 (1996) 1641-1655","10.1103/PhysRevB.53.1641","UM-CM-009","cond-mat.mtrl-sci",,"  The recursion and path-integral methods are applied to analytically study the
+electronic structure of a neutral $C_{60}$ molecule. We employ a tight-binding
+Hamiltonian which considers both the $s$ and $p$ valence electrons of carbon.
+From the recursion method, we obtain closed-form {\it analytic} expressions for
+the $\pi$ and $\sigma$ eigenvalues and eigenfunctions, including the highest
+occupied molecular orbital (HOMO) and the lowest unoccupied molecular orbital
+(LUMO) states, and the Green's functions. We also present the local densities
+of states around several ring clusters, which can be probed experimentally by
+using, for instance, a scanning tunneling microscope. {}From a path-integral
+method, identical results for the energy spectrum are also derived. In
+addition, the local density of states on one carbon atom is obtained; from this
+we can derive the degree of degeneracy of the energy levels.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 15:24:35 GMT""}]","2009-10-22"
+"gr-qc/9312015",,"C. Kiefer","The semiclassical approximation to quantum gravity","LATEX, 47 pages, report Freiburg THEP-93/27, to appear in ``Canonical
+  gravity -- from classical to quantum"", edited by J. Ehlers and H. Friedrich
+  (Springer, Berlin, 1994)",,"10.1007/3-540-58339-4_19",,"gr-qc astro-ph hep-th",,"  A detailed review is given of the semiclassical approximation to quantum
+gravity in the canonical framework. This includes in particular the derivation
+of the functional Schr\""odinger equation and a discussion of semiclassical time
+as well as the derivation of quantum gravitational correction terms to the
+Schr\""odinger equation. These terms are used to calculate energy shifts for
+fields in De~Sitter space and non-unitary contributions in black hole
+evaporation. Emphasis is also put on the relevance of decoherence and
+correlations in semiclassical gravity. The back reaction of non-gravitational
+quantum fields onto the semiclassical background and the emergence of a Berry
+connection on superspace is also discussed in this framework.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 09:18:51 GMT""}]","2009-10-22"
+"gr-qc/9312016","Steve Detweiler","Steven Detweiler","Periodic Solutions of the Einstein Equations for Binary Systems","18 pages, RevTeX 3.0, UF-RAP-93-12","Phys.Rev.D50:4929-4943,1994","10.1103/PhysRevD.50.4929",,"gr-qc",,"  This revision includes clarified exposition and simplified analysis.
+Solutions of the Einstein equations which are periodic and have standing
+gravitational waves are valuable approximations to more physically realistic
+solutions with outgoing waves. A variational principle is found which has the
+power to provide an accurate estimate of the relationship between the mass and
+angular momentum of the system, the masses and angular momenta of the
+components, the rotational frequency of the frame of reference in which the
+system is periodic, the frequency of the periodicity of the system, and the
+amplitude and phase of each multipole component of gravitational radiation.
+Examination of the boundary terms of the variational principle leads to
+definitions of the effective mass and effective angular momentum of a periodic
+geometry which capture the concepts of mass and angular momentum of the source
+alone with no contribution from the gravitational radiation. These effective
+quantities are surface integrals in the weak-field zone which are independent
+of the surface over which they are evaluated, through second order in the
+deviations of the metric from flat space.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 15:41:31 GMT""},{""version"":""v2"",""created"":""Wed, 6 Jul 1994 15:20:08 GMT""}]","2010-05-12"
+"hep-lat/9312038","Yue Shen","Claude W. Bernard, Yue Shen and Amarjit Soni","Isgur-Wise Function on the Lattice","3 pages, 1 postscript figure attached. Preprint BUHEP-93-27, Wash. U.
+  HEP/93-36","Nucl.Phys.Proc.Suppl.34:483-485,1994","10.1016/0920-5632(94)90424-3",,"hep-lat hep-ph",,"  We review our method and numerical results for calculation of the Isgur-Wise
+function on the lattice. We present a discussion of the systematic errors.
+Using recent experimental results, we find $V_{cb} = 0.044\pm 0.005\pm .007$.
+Contribution to Lattice '93 proceedings. Needs espcrc2.sty file (included after
+\end{document}). Search Figure1.ps for postscript files.
+","[{""version"":""v1"",""created"":""Wed, 8 Dec 1993 17:02:42 GMT""}]","2010-11-01"
+"hep-lat/9312039","Istvan Montvay","Istvan Montvay","Minimal U(1) Gauge Fields in Two Dimensions","8 pages, 2 figures, DESY-93-184","Phys.Lett. B323 (1994) 378-384","10.1016/0370-2693(94)91235-1",,"hep-lat",,"  Gribov copies of the vacuum in two dimensional compact U(1) lattice gauge
+models are constructed. On the basis of this a gauge fixing algorithm is
+developped, wich finds the minimum of the sum of link field squares. Numerical
+experience in a two dimensional Higgs model with fixed length scalar field is
+reported and the extension to three and four dimensional U(1) and four
+dimensional SU(2) gauge theories is briefly discussed.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 11:08:50 GMT""}]","2009-10-22"
+"hep-lat/9312041","Hermann Dilger","H. Dilger and H. Joos","How well do lattice simulations reproduce the different aspects of the
+  geometric Schwinger model","3 pages, DESY 93-144, talk presented by H. Dilger at Lattice 93","Nucl.Phys.Proc.Suppl. 34 (1994) 195-197","10.1016/0920-5632(94)90342-5",,"hep-lat",,"  We compare continuum and lattice formulation of the geometric Schwinger Model
+on the torus. The lattice reproduces the $U(1)_A$ anomaly, related to
+non-trivial topological gauge configurations and zero modes.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 13:32:43 GMT""}]","2009-10-22"
+"hep-ph/9312245","Edward Shuryak","J. I. Kapusta and E. V. Shuryak","Weinberg-Type Sum Rules at Zero and Finite Temperature",,"Phys.Rev. D49 (1994) 4694-4704","10.1103/PhysRevD.49.4694",,"hep-ph",,"  We consider sum rules of the Weinberg type at zero and nonzero temperatures.
+On the basis of the operator product expansion at zero temperature we obtain a
+new sum rule which involves the average of a four-quark operator on one side
+and experimentally measured spectral densities on the other. We further
+generalize the sum rules to finite temperature. These involve transverse and
+longitudinal spectral densities at each value of the momentum. Various
+scenarios for the relation between chiral symmetry restoration and these finite
+temperature sum rules are discussed.
+","[{""version"":""v1"",""created"":""Wed, 8 Dec 1993 17:45:00 GMT""}]","2009-10-22"
+"hep-ph/9312246","van der Bij","J. J. van der Bij","The Hill Theorem","6 pages, Freiburg-THEP 93/28",,,,"hep-ph",,"  It is studied how strong interactions in the Higgs sector can lead to
+deviations in vector boson selfcouplings. Normally such effects are small due
+to Veltman's screening theorem. It is shown that strong interactions are
+possible, if there is a hierarchy of strong interactions in the Higgs sector.
+This is called Hill's theorem.
+","[{""version"":""v1"",""created"":""Wed, 8 Dec 1993 19:44:41 GMT""}]","2007-05-23"
+"hep-ph/9312247","Gunter Sigl","Xiangdong Shi and Guenter Sigl","A Type II Supernovae Constraint on $\nu_e$-$\nu_s$","plain Tex 11 pages, 3 figures available upon request from the
+  authors. (shi6@oddjob.uchicago.edu, sigl@oddjob)","Phys.Lett.B323:360-366,1994; ERRATUM-ibid.B324:516,1994","10.1016/0370-2693(94)91232-7",,"hep-ph astro-ph",,"  The role of a resonant $\nu_e$-$\nu_s$ oscillation is discussed in the event
+of a supernova explosion. It is concluded that a significant $\nu_e$-$\nu_s$
+mixing may hinder the ability of the supernova to explode. It may also cool the
+proto-neutron star too quickly with respect to the observed cooling time of
+several seconds. The constraints on the $\nu_e$-$\nu_s$ mixing parameters based
+on the above arguments are calculated.
+","[{""version"":""v1"",""created"":""Wed, 8 Dec 1993 22:19:21 GMT""}]","2011-06-10"
+"hep-ph/9312248","Damien Pierce","Damien Pierce and Aris Papadopoulos","Radiative Corrections to Neutralino and Chargino Masses in the Minimal
+  Supersymmetric Model","11 pages, JHU-TIPAC-930030, PURD-TH-93-13, uses epsf.sty, 6 uuencoded
+  postscript figures, added one sentence and a reference","Phys.Rev.D50:565-570,1994","10.1103/PhysRevD.50.565",,"hep-ph",,"  We determine the neutralino and chargino masses in the MSSM at one-loop. We
+perform a Feynman diagram calculation in the on-shell renormalization scheme,
+including quark/squark and lepton/slepton loops. We find generically the
+corrections are of order 6%. For a 20 GeV neutralino the corrections can be
+larger than 20%. The corrections change the region of $\mu,\ M_2,\ \tan\beta$
+parameter space which is ruled out by LEP data. We demonstrate that, e.g., for
+a given $\mu$ and $\tan\beta$ the lower limit on the parameter $M_2$ can shift
+by 20 GeV.
+","[{""version"":""v1"",""created"":""Wed, 8 Dec 1993 22:16:35 GMT""},{""version"":""v2"",""created"":""Thu, 9 Dec 1993 16:19:44 GMT""}]","2009-08-12"
+"hep-ph/9312249","Marek Jezabek","A. Czarnecki, M. Je\.zabek, J.G. K\""orner and J.H. K\""uhn","QCD corrections to decays of polarised charm and bottom quarks","Karlsruhe Univ. preprint TTP 93-32, Mainz preprint MZ-TH/93-35, 6
+  pages, Latex 3 figures included in postscript file figures.ps after tex file","Phys.Rev.Lett.73:384-387,1994","10.1103/PhysRevLett.73.384",,"hep-ph",,"  Distributions of charged leptons in semileptonic $\Lambda_c$ and $\Lambda_b$
+decays can be used as spin analysers for the corresponding charm and bottom
+quarks. QCD corrections to the energy spectra of charged leptons have been
+given in the literature as well as the corrections to the angular dependence
+for polarised up-type quarks. The analogous formulae are derived also for
+polarised down-type quarks. These results are applied to the decays of
+polarised charm and bottom quarks. The corrections to the asymmetries are found
+to be small for charm decays. For bottom decays they exhibit a non-trivial
+dependence on the energy of the charged lepton.
+","[{""version"":""v1"",""created"":""Wed, 8 Dec 1993 23:59:00 GMT""}]","2011-01-25"
+"hep-ph/9312251","N. Tracas","A.B. Lahanas, K. Tamvakis and N.D. Tracas","One loop corrections to the Neutralino sector and Radiative Electroweak
+  Breaking in the MSSM","15 pages + 1 fig. in PS at the end of the paper. CERN TH.7089/93, IOA
+  297, NTUA 42/93","Phys.Lett.B324:387-396,1994","10.1016/0370-2693(94)90211-9",,"hep-ph",,"  We compute one loop radiative corrections to the physical neutralino masses
+in the MSSM considering the dominant top-stop contributions. We present a
+numerical renormalization group analysis of the feasibility of the radiative
+gauge symmetry breaking parametrized by the standard soft supersymmetry
+breaking terms. Although the above computed effects can be in principle large
+for extreme values of the Yukawa couplings, they do not in general exceed a few
+per cent for most of the parameter space. Therefore tree level constraints
+imposed on the gluino mass $m_{\tilde{g}}$ and on the superpotential parameter
+$\mu$ by LEP1 and CDF experiments, are not upset by the heavy top-stop sector.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 14:23:50 GMT""}]","2011-07-19"
+"hep-ph/9312252","Thomas Gasenzer","D. Metzger, H. Meyer--Ortmanns, H.--J. Pirner","Chiral Symmetry Restoration at Finite Temperature in the Linear
+  Sigma--Model","17 pages, HD--TVP--93--15. (3 figures - available on request)","Phys.Lett.B321:66-74,1994; ERRATUM-ibid.B328:547,1994","10.1016/0370-2693(94)90328-X",,"hep-ph",,"  The temperature behaviour of meson condensates $<\sigma_0>$ and $<\sigma_8>$
+is calculated in the $SU(3)\times SU(3)$-linear sigma model. The couplings of
+the Lagrangian are fitted to the physical $\pi,K,\eta,\eta'$ masses, the pion
+decay constant and a $O^+(I=0)$ scalar mass of $m_\sigma=1.5$ GeV. The quartic
+terms of the mesonic interaction are converted to a quadratic term with the
+help of a Hubbard-Stratonovich transformation. Effective mass terms are
+generated this way, which are treated self-consistently to leading order of a
+$1/N$-expansion. We calculate the light $<\bar q q>$ and strange $<\bar s
+s>$-quark condensates using PCAC relations between the meson masses and
+condensates. For a cut-off value of 1.5 GeV we find a first-order chiral
+transition at a critical temperature $T_c\sim 161$ MeV. At this temperature the
+spontaneously broken subgroup $SU(2)\times SU(2)$ is restored. Entropy density,
+energy density and pressure are calculated for temperatures up to and slightly
+above the critical temperature. To our surprise we find some indications for a
+reduced contribution from strange mesons for $T\geq T_c$.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 13:49:15 GMT""},{""version"":""v2"",""created"":""Fri, 10 Dec 1993 14:26:19 GMT""}]","2010-11-01"
+"hep-th/9312063",,"Silvio J. Rabello, Arvind N. Vaidya and Luiz Claudio M. de Albuquerque","The Negative Dimensional Oscillator at Finite Temperature","8 pages, IF/UFRJ/93/07","Phys.Lett. B324 (1994) 32-35","10.1016/0370-2693(94)00104-9",,"hep-th",,"  We study the thermal behavior of the negative dimensional harmonic oscillator
+of Dunne and Halliday that at zero temperature, due to a hidden BRST symmetry
+of the classical harmonic oscillator, is shown to be equivalent to the
+Grassmann oscillator of Finkelstein and Villasante. At finite temperature we
+verify that although being described by Grassmann numbers the thermal behavior
+of the negative dimensional oscillator is quite different from a Fermi system.
+","[{""version"":""v1"",""created"":""Wed, 8 Dec 1993 16:16:30 GMT""}]","2009-10-22"
+"hep-th/9312064","Prem Prakash Srivastava","Prem P. Srivastava","Light-Front Quantized Field Theory (Spontaneous symmetry breaking. Phase
+  transition in scalar field theory.)","31 pages, Plain Tex, Lectures at XIV Encontro Nacional de Particulas
+  e Campos, Caxambu, MG, Brazil","1993 Particles and Fields, Soc. Bras. Fis., Brazil",,"CBPF-NF-075/93","hep-th",,"  The field theory quantized on the {\it light-front} is compared with the
+conventional equal-time quantized theory. The arguments based on the {\it
+microcausality} principle imply that the light-front field theory may become
+nonlocal with respect to the longitudinal coordinate even though the
+corresponding equal-time formulation is local. This is found to be the case for
+the scalar theory which is quantized by following the Dirac procedure. In spite
+of the different mechanisms of the spontaneous symmetry breaking in the two
+forms of dynamics they result in the same physical content. The phase
+transition in {$(\phi^{4})_{2}$} theory is also discussed. The symmetric vacuum
+state for vanishingly small couplings is found to turn into an unstable
+symmetric one when the coupling is increased and may result in a phase
+transition of the {\it second order} in contrast to the first order transition
+concluded from the usual variational methods.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 03:35:20 GMT""}]","2007-05-23"
+"hep-th/9312065",,"Victor G. Kac and Weiqiang Wang","Vertex Operator Superalgebras and Their Representations","50 pages, to appear in Contemporary Mathematics",,,,"hep-th math.QA",,"  After giving some definitions for vertex operator SUPERalgebras and their
+modules, we construct an associative algebra corresponding to any vertex
+operator superalgebra, such that the representations of the vertex operator
+algebra are in one-to-one correspondence with those of the corresponding
+associative algebra. A way is presented to decribe the fusion rules for the
+vertex operator superalgebras via modules of the associative algebra. The above
+are generalizations of Zhu's constructions for vertex operator algebras. Then
+we deal in detail with vertex operator superalgebras corresponding to
+Neveu-Schwarz algebras, super affine Kac-Moody algebras, and free fermions. We
+use the machinery established above to find the rationality conditions,
+classify the representations and compute the fusion rules. In the appendix, we
+present explicit formulas for singular vectors and defining relations for the
+integrable representations of super affine algebras. These formulas are not
+only crucial for the theory of the corresponding vertex operator superalgebras
+and their representations, but also of independent interest.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 03:21:46 GMT""}]","2008-02-03"
+"hep-th/9312066",,"Toshihiro Sasada","Fermion Currents on Asymmetric Orbifolds","13 pages, LaTeX, KOBE-TH-93-11","Phys.Lett. B343 (1995) 128-132","10.1016/0370-2693(94)01462-L",,"hep-th",,"  We study whether orbifold models are equivalently rewritten into torus models
+in the case of fermionic string theories. It is pointed out that symmetric
+orbifold models cannot be rewritten into torus models in the case of fermionic
+string theories because of the absence of twist-untwist intertwining currents
+on the orbifold models. We present a list of current algebras on asymmetric
+$Z_N$-orbifold models of type II superstring theories with inner automorphisms
+of Lie algebra lattices of the $A_n$ series. It turns out that whether an
+asymmetric orbifold model is rewritten into a torus model depends on the
+specific choice of a momentum lattice and an inner automorphism of the lattice.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 04:47:09 GMT""}]","2009-10-22"
+"hep-th/9312067","Samar Abbas","Abbas Ali and Avinash Khare","Comment on 'Anyon in External Elecromagnetic Field: Hamiltonian and
+  Lagrangian Formulation'","Phys.Rev.Lett71(1993)3405. 3pages, LaTeX, IP/BBSR/93-82",,,,"hep-th",,"  We point out that in a recent paper by Chaichian et al. (Phys.
+Rev.Lett71(1993)3405) Dirac quantization procedure is not properly followed as
+a result of which the resulting quantum theory is different from what one will
+get by a straightforward application of Dirac's formulation. For example at
+quantum level the model in I has noncommutative geometry, i.e., $[x_\mu, x_\nu]
+\neq 0$ while a correct treatment would give $[x_\mu, x_\nu] = 0$. Moreover,
+their assertion about $\alpha$ being an arbitrary constant in $S_\mu = -\alpha
+p_\mu /{\sqrt{p^2}} $ is not correct and consequently one can not say whether
+the model describes anyons.
+","[{""version"":""v1"",""created"":""Wed, 8 Dec 1993 17:09:13 GMT""}]","2007-05-23"
+"hep-th/9312068","Jerzy Lukierski","Jerzy Lukierski, Henri Ruegg and Valerij N. Tolstoy (Dept. de Physique
+  Theorique, Universit\'e de Geneve), Anatol Nowicki (Physikalisches Inst.,
+  Universit\""at Bonn, Nussallee 12, 53115 Bonn, Germany)","Twisted Classical Poincar\'{e} Algebras","\Large \bf 19 pages, Bonn University preprint, November 1993","J.Phys.A27:2389-2400,1994","10.1088/0305-4470/27/7/018",,"hep-th",,"  We consider the twisting of Hopf structure for classical enveloping algebra
+$U(\hat{g})$, where $\hat{g}$ is the inhomogenous rotations algebra, with
+explicite formulae given for $D=4$ Poincar\'{e} algebra $(\hat{g}={\cal P}_4).$
+The comultiplications of twisted $U^F({\cal P}_4)$ are obtained by conjugating
+primitive classical coproducts by $F\in U(\hat{c})\otimes U(\hat{c}),$ where
+$\hat{c}$ denotes any Abelian subalgebra of ${\cal P}_4$, and the universal
+$R-$matrices for $U^F({\cal P}_4)$ are triangular. As an example we show that
+the quantum deformation of Poincar\'{e} algebra recently proposed by Chaichian
+and Demiczev is a twisted classical Poincar\'{e} algebra. The interpretation of
+twisted Poincar\'{e} algebra as describing relativistic symmetries with
+clustered 2-particle states is proposed.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 10:46:04 GMT""}]","2016-08-14"
+"hep-th/9312069",,"M.V. Cougo-Pinto, C. Farina and Antonio J. Segui-Santonja","A modified Schwinger's formula for the Casimir effect","6 pages, DFTUZ/93/14 (a short version will appear in the Letters in
+  Math. Phys.)","Lett.Math.Phys. 30 (1994) 169-171","10.1007/BF00939704",,"hep-th",,"  After briefly reviewing how the (proper-time) Schwinger's formula works for
+computing the Casimir energy in the case of ""scalar electrodynamics"" where the
+boundary conditions are dictated by two perfectly conducting parallel plates
+with separation ""a"" in the Z-axis, we propose a slightly modification in the
+previous approach based on an analytical continuation method. As we will see,
+for the case at hand our formula does not need the use of Poisson summation to
+get a (renormalized) finite result.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 13:50:00 GMT""}]","2015-06-26"
+"hep-th/9312070",,"J.C. Brunelli and Ashok Das","Davey-Stewartson Equation from a Zero Curvature and a Self-Duality
+  Condition","9 pages, UR-1332, ER-40685-782","Mod.Phys.Lett. A9 (1994) 1267-1272","10.1142/S0217732394001088",,"hep-th",,"  We derive the two equations of Davey-Stewartson type from a zero curvature
+condition associated with SL(2,{\bf R}) in $2+1$ dimensions. We show in general
+how a $2+1$ dimensional zero curvature condition can be obtained from the
+self-duality condition in $3+3$ dimensions and show in particular how the
+Davey-Stewartson equations can be obtained from the self-duality condition
+associated with SL(2,{\bf R}) in $3+3$ dimensions.
+","[{""version"":""v1"",""created"":""Thu, 9 Dec 1993 14:38:02 GMT""}]","2015-06-26"

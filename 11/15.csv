@@ -1,0 +1,187 @@
+"alg-geom/9311004",,"J. Winkelmann","On discrete Zariski-dense subgroups of algebraic groups","17 pages, plain TeX",,,,"alg-geom math.AG",,"  We investigate for which linear-algebraic groups (over the complex numbers or
+any local field) there exists subgroups which are dense in the Zariski
+topology, but discrete in the Hausdorff topology. For instance, such subgroups
+exist for every non-solvable complex group.
+","[{""version"":""v1"",""created"":""Sun, 14 Nov 1993 21:03:55 GMT""},{""version"":""v2"",""created"":""Mon, 15 Nov 1993 14:37:34 GMT""}]","2008-02-03"
+"astro-ph/9311031",,"M. Milgrom","Modified-dynamics predictions agree with ovservations of the HI
+  kinematics in faint dwarf galaxies contrary to the conclusions of Lo Sargent
+  and Young","10 pages, TEX",,"10.1086/174341","Observatoire de Paris preprint No. 93040","astro-ph",,"  Lo, Sargent, and Young (1993) have recently concluded that the masses of some
+dwarf galaxies, as deduced by the modified dynamics (MOND) from the observed
+velocity dispersions, are systematically smaller than the observed masses, by a
+factor of ten or more. We show here that the MOND mass estimator used by Lo et
+al. is smaller than the proper expression, by a factor of about twenty. We
+derive the proper mass estimator as an exact virial-like relation between the
+3-D rms velocity, Vs, and the total mass, M, of an arbitrary, self-gravitating
+system, made of light constituents, that is everywhere in the
+very-low-acceleration regime of MOND. This reads M=(9/4)Vs^2/G a0. (For a
+system that is not stationary, Vs involves also an average over time.) We
+further generalize this relation to cases with constituent masses that are not
+small compared with that of the whole system. We discuss various applications
+of the M-V relation. With the correct estimator the predictions of MOND are, by
+and large, in good agreement with the total observed masses (the observed gas
+mass plus a stellar mass corresponding to an M/L of order one solar unit).
+","[{""version"":""v1"",""created"":""Mon, 15 Nov 1993 13:33:46 GMT""}]","2009-10-22"
+"cond-mat/9311034","Feo","Hiroki Nakano and Minoru Takahashi","Quantum Heisenberg Chain with Long-Range Ferromagnetic Interactions at
+  Low Temperature","17 pages(LaTeX REVTeX), 1 figure appended (PostScript), Technical
+  Report of ISSP A-2745",,"10.1103/PhysRevB.50.10331",,"cond-mat",,"  A modified spin-wave theory is applied to the one-dimensional quantum
+Heisenberg model with long-range ferromagnetic interactions. Low-temperature
+properties of this model are investigated. The susceptibility and the specific
+heat are calculated; the relation between their behaviors and strength of the
+long-range interactions is obtained. This model includes both the
+Haldane-Shastry model and the nearest-neighbor Heisenberg model; the
+corresponding results in this paper are in agreement with the solutions of both
+the models. It is shown that there exists an ordering transition in the region
+where the model has longer-range interactions than the HS model. The critical
+temperature is estimated.
+","[{""version"":""v1"",""created"":""Mon, 15 Nov 1993 08:31:34 GMT""}]","2009-10-22"
+"cond-mat/9311035",,"A. J. Millis and H. Monien","Spin Gaps and Bilayer Coupling in YBa$_2$Cu$_3$O$_{7-\delta}$ and
+  YBa$_2$Cu$_4$O$_8$","RevTex 3.0",,"10.1103/PhysRevB.50.16606",,"cond-mat",,"  We investigate the relevance to the physics of underdoped
+YBa$_2$Cu$_3$O$_{\rm 6+x}$ and YBa$_2$Cu$_4$O$_8$ of the quantum critical point
+which occurs in a model of two antiferromagnetically coupled planes of
+antiferromagnetically correlated spins. We use a Schwinger boson mean field
+theory and a scaling analysis to obtain the phase diagram of the model and the
+temperature and frequency dependence of various susceptibilities and relaxation
+rates. We distinguish between a low $\omega ,T$ coupled-planes regime in which
+the optic spin excitations are frozen out and a high $\omega ,T$
+decoupled-planes regime in which the two planes fluctuate independently. In the
+coupled-planes regime the yttrium nuclear relaxation rate at low temperatures
+is larger relative to the copper and oxygen rates than would be naively
+expected in a model of uncorrelated planes. Available data suggest that in
+YBa$_2$Cu$_4$O$_8$ the crossover from the coupled to the decoupled planes
+regime occurs at $T 700K$ or $T \sim 200K$. The predicted correlation length is
+of order 6 lattice constants at $T=200K$. Experimental data related to the
+antiferromagnetic susceptibility of YBa$_2$Cu$_4$O$_8$ may be made consistent
+with the theory, but available data for the uniform susceptibility are
+inconsistent with the theory.
+","[{""version"":""v1"",""created"":""Mon, 15 Nov 1993 12:36:00 GMT""}]","2009-10-22"
+"gr-qc/9311024","Sakai","Nobuyuki Sakai and Kei-ichi Maeda","Junction Conditions of Friedmann-Robertson-Walker Space-Times","7 pages, LaTeX, figures are not included (available on request by
+  regular mail), WU-AP/31/93","Phys.Rev.D50:5425-5428,1994","10.1103/PhysRevD.50.5425",,"gr-qc",,"  We complete a classification of junctions of two Friedmann-Robertson-Walker
+space-times bounded by a spherical thin wall. Our analysis covers super-horizon
+bubbles and thus complements the previous work of Berezin, Kuzumin and Tkachev.
+Contrary to sub-horizon bubbles, various topology types for super-horizon
+bubbles are possible, regardless of the sign of the extrinsic curvature. We
+also derive a formula for the peculiar velocity of a domain wall for all types
+of junction.
+","[{""version"":""v1"",""created"":""Mon, 15 Nov 1993 10:41:52 GMT""},{""version"":""v2"",""created"":""Thu, 4 Aug 1994 14:23:03 GMT""}]","2010-11-01"
+"hep-lat/9311013","R. Horsley","R.Altmeyer, M.Goeckeler, R.Horsley, E.Laermann and G.Schierholz","The ``Spin'' Structure of the Nucleon - a lattice investigation","Latex article. 3 pages. Contribution to the Second IMACS Conference
+  on Computational Physics, Cahokia, U.S.A. October 1993. HLRZ preprint 93-71","Int.J.Mod.Phys.C5:331-333,1994","10.1142/S0129183194000428",,"hep-lat",,"  We will discuss here an indirect lattice evaluation of the baryon axial
+singlet current matrix element. This quantity may be related to the fraction of
+nucleon spin carried by the quarks. The appropriate structure function has
+recently been measured (EMC experiment). As in this experiment, we find that
+the quarks do not appear to carry a large component of the nucleon spin.
+","[{""version"":""v1"",""created"":""Mon, 15 Nov 1993 13:07:58 GMT""}]","2011-04-15"
+"hep-ph/9311290",,"Vittorio Del Duca and Carl R. Schmidt","Dijet Production at Large Rapidity Intervals","12 pages, preprint DESY 93-139, SCIPP 93/35","Phys.Rev.D49:4510-4516,1994","10.1103/PhysRevD.49.4510",,"hep-ph",,"  We examine dijet production at large rapidity intervals at Tevatron energies,
+by using the theory of Lipatov and collaborators which resums the leading
+powers of the rapidity interval. We analyze the growth of the Mueller-Navelet
+$K$-factor in this context and find it to be negligible. However, we do find a
+considerable enhancement of jet production at large transverse momenta. In
+addition, we show that the correlation in transverse momentum and azimuthal
+angle of the tagging jets fades away as the rapidity interval is increased.
+","[{""version"":""v1"",""created"":""Sun, 14 Nov 1993 19:36:47 GMT""}]","2011-05-05"
+"hep-ph/9311291","Tom Gould","Thomas M. Gould and Stephen D.H. Hsu","Spacetime Symmetries and Semiclassical Amplitudes","12 pgs. LaTeX (with style file included), JHU-TIPAC-930028,
+  HUTP-93-A035","Mod.Phys.Lett.A9:1589-1602,1994","10.1142/S0217732394001428",,"hep-ph",,"  We examine the spacetime symmetries of forward $2 \rightarrow 2$ scattering.
+These symmetries have non-trivial consequences for any class of configurations
+which might dominate the amplitude in the semiclassical approximation. We
+derive some dynamical results regarding the stability of configurations which
+arise solely from reflection symmetry and positivity of the (Euclidean) path
+integral action. We show that in the case of on-shell scattering, any
+semiclassical configuration must have $O(3)$ symmetric asymptotic behavior. We
+argue that non--$O(3)$ symmetric configurations are irrelevant to the
+semiclassical exponent.
+","[{""version"":""v1"",""created"":""Mon, 15 Nov 1993 02:10:33 GMT""}]","2010-11-01"
+"hep-ph/9311292","Fernando Steffens","F. M. Steffens and V.E. Herscovitz","Vibrational Aspects of the SU(2) Skyrmion","15 pages, ADP-93-206/T126","Mod.Phys.Lett.A8:3603-3612,1993","10.1142/S0217732393002348",,"hep-ph",,"  We treat the Skyrme model with the breathing mode in a situation involving
+two quartic terms. It is seen that there is a new limit for large $e$ due to
+the breathing mode not found in the usual rotating hedgehog.
+","[{""version"":""v1"",""created"":""Mon, 15 Nov 1993 11:20:10 GMT""}]","2014-11-17"
+"hep-ph/9311293","Francesco Vissani","S. Bertolini and F. Vissani","On soft breaking and CP phases in the supersymmetric standard model","12 pages + 1 figure (postscript file available on request), LATEX,
+  SISSA 173/93/EP","Phys.Lett.B324:164-172,1994","10.1016/0370-2693(94)90403-0",,"hep-ph",,"  We consider a class of N=1 supersymmetric extensions of the Standard Model in
+which the soft breaking sector is CP conserving at the GUT scale. We study the
+question of whether the presence of explicit CP violation in the Yukawa sector
+of the theory induces through renormalization effects CP violating phases in
+the soft terms, which could lead to observable effects. A clear pattern appears
+in the structure of phases in the soft sector. In particular, the inclusion of
+intergenerational mixing induces large phases in the flavour mixing entries of
+the trilinear soft breaking terms, whereas the diagonal entries remain real. A
+mechanism is proposed for generating through chargino exchange a contribution
+to the neutron electric dipole moment which can be a few orders of magnitude
+larger that that of the Standard Model, although still out of reach of
+experimental tests. We comment on the possible relevance of these phases for
+baryogenesis at the weak scale in minimal supersymetric scenarios, recently
+considered in the literature.
+","[{""version"":""v1"",""created"":""Mon, 15 Nov 1993 15:40:20 GMT""}]","2010-11-01"
+"hep-th/9311078",,"Giovanni Modanese (Center for theoretical physics, M.I.T.)","On the absence of localized curvature in the weak-coupling phase of
+  quantum gravity","7 pages, LaTex, report CTP #2253, November 1993","Phys.Lett. B325 (1994) 354-358","10.1016/0370-2693(94)90024-8",,"hep-th",,"  In the weak field expansion of euclidean quantum gravity, an analysis of the
+Wilson loops in terms of the gauge group, $SO(4)$, shows that the correspondent
+statistical system does not develope any configuration with localized curvature
+at low temperature. Such a ``non-local'' behavior contrasts strongly with that
+of usual gauge fields. We point out a possible relation between this result and
+those of the numerical simulations of quantum Regge Calculus. We also give a
+general quantum formula for the static potential energy of the gravitational
+interaction of two masses, which is compatible with the mentioned vacuum
+structure.
+","[{""version"":""v1"",""created"":""Mon, 15 Nov 1993 11:16:02 GMT""}]","2009-10-22"
+"hep-th/9311079",,"E. Elizalde, S. Naftulin and S.D. Odintsov","One-Loop Renormalization of Higher-Derivative 2D Dilaton Gravity","12 pages, LaTeX file","Phys.Lett.B323:124-132,1994","10.1016/0370-2693(94)90280-1",,"hep-th",,"  A theory of higher-derivative 2D dilaton gravity which has its roots in the
+massive higher-spin mode dynamics of string theory is suggested. The
+divergences of the effective action to one-loop are calculated, both in the
+covariant and in the conformal gauge. Some technical problems which appear in
+the calculations are discussed. An interpretation of the theory as a particular
+D=2 higher-derivative $\sigma$-model is given. For a specific case of
+higher-derivative 2D dilaton gravity, which is one loop multiplicatively
+renormalizable, static configurations corresponding to black holes are shown to
+exist.
+","[{""version"":""v1"",""created"":""Mon, 15 Nov 1993 14:30:40 GMT""}]","2009-09-17"
+"math/9311205",,"Daniel Talayco","Applications of cohomology to questions in set theory i: hausdorff gaps",,,,"Logic E-prints November 15, 1993","math.LO",,"  We explore an application of homological algebra to set theoretic objects by
+developing a cohomology theory for Hausdorff gaps. The cohomology theory is
+introduced with enough generality to be applicable to other questions in set
+theory. For gaps, this leads to a natural equivalence notion about which we
+answer questions by constructing many simultaneous gaps.
+  The first result is proved by constructing countably many gaps such that the
+union of any combination corresponding to a subset of $\omega$ is again a gap.
+This is done in ZFC. New combinatorial hypotheses related to club ($\clubsuit$)
+are introduced to prove the second result which increases the number of gaps to
+$\aleph_1$. The presentation of these results does not depend on the
+development of the cohomology theory.
+  Additionally, the notion of an incollapsible gap is introduced and the
+existence of such a gap is shown to be independent of ZFC.
+","[{""version"":""v1"",""created"":""Mon, 15 Nov 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9311206","James E. Baumgartner","James E. Baumgartner","Ultrafilters on omega",,,,"Logic E-prints November 15, 1993","math.LO",,"  A variety of classes of naturally arising ultrafilters on omega is discussed,
+and the question is raised whether it is consistent that the classes are empty.
+Since all the classes contain the P-point ultrafilters, a negative answer would
+greatly extend the famous theorem of Shelah.
+","[{""version"":""v1"",""created"":""Mon, 15 Nov 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9311211","Shelah Office","Bradd Hart, Claude Laflamme, Saharon Shelah","Models with second order properties, V: A General principle",,"Ann. Pure Appl. Logic 64 (1993), 169--194",,"Shelah [HLSh:162]","math.LO",,"  We present a general framework for carrying out some constructions. The
+unifying factor is a combinatorial principle which we present in terms of a
+game in which the first player challenges the second player to carry out
+constructions which would be much easier in a generic extension of the
+universe, and the second player cheats with the aid of Diamond. Section 1
+contains an axiomatic framework suitable for the description of a number of
+related constructions, and the statement of the main theorem in terms of this
+framework. In section 2 we illustrate the use of our combinatorial principle.
+The proof of the main result is then carried out in sections 3-5.
+","[{""version"":""v1"",""created"":""Mon, 15 Nov 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9311212","Shelah Office","Martin Goldstern, Miroslav Repicky, Saharon Shelah, Otmar Spinas","On tree ideals",,"Proc. Amer. Math. Soc. 123 (1995), 1573--1581",,"Shelah [GRShS:487]","math.LO",,"  Let l^0 and m^0 be the ideals associated with Laver and Miller forcing,
+respectively. We show that add (l^0) < cov(l^0) and add (m^0) < cov(m^0) are
+consistent. We also show that both Laver and Miller forcing collapse the
+continuum to a cardinal <= h .
+","[{""version"":""v1"",""created"":""Mon, 15 Nov 1993 00:00:00 GMT""}]","2008-02-03"
+"patt-sol/9311004","John D. Crawford","John David Crawford (Department of Physics and Astronomy, University
+  of Pittsburgh, Pittsburgh, PA)","$D_4\dot{+} T^2$ Mode Interactions and Hidden Rotational Symmetry","77 pages (Latex), 3 figures available in hard copy from the author
+  (jdc@minerva.phyast.pitt.edu); paper accepted for publication in Nonlinearity","Nonlinearity 7, 697 (1994)","10.1088/0951-7715/7/3/002",,"patt-sol nlin.PS",,"  Bifurcation problems in which periodic boundary conditions or Neumann
+boundary conditions are imposed often involve partial differential equations
+that have Euclidean symmetry. As a result the normal form equations for the
+bifurcation may be constrained by the ``hidden'' Euclidean symmetry of the
+equations, even though this symmetry is broken by the boundary conditions. The
+effects of such hidden rotation symmetry on $D_4\dot{+} T^2$ mode interactions
+are studied by analyzing when a $D_4\dot{+} T^2$ symmetric normal form
+$\tilde{F}$ can be extended to a vector field ${\rm \cal F}$ with Euclidean
+symmetry. The fundamental case of binary mode interactions between two
+irreducible representations of $D_4\dot{+} T^2$ is treated in detail. Necessary
+and sufficient conditions are given that permit $\tilde{F}$ to be extended when
+the Euclidean group ${\rm \cal E}(2)$ acts irreducibly. When the Euclidean
+action is reducible, the rotations do not impose any constraints on the normal
+form of the binary mode interaction. In applications, this dependence on the
+representation of ${\rm \cal E}(2)$ implies that the effects of hidden
+rotations are not present if the critical eigenvalues are imaginary.
+Generalization of these results to more complicated mode interactions is
+discussed.
+","[{""version"":""v1"",""created"":""Sun, 14 Nov 1993 21:25:02 GMT""}]","2009-10-22"

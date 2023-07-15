@@ -1,0 +1,161 @@
+"funct-an/9306002","Jan Felipe v. Diejen","J. F. van Diejen","Commuting difference operators with polynomial eigenfunctions","24 pp. (printing format: landscape), Latex (+ amssymbols.sty)","Comp. Math. 95 (1995) 183-233",,"UvA nr. 93-10","funct-an hep-th math.OA nlin.SI solv-int",,"  We present explicit generators of an algebra of commuting difference
+operators with trigonometric coefficients. The operators are simultaneously
+diagonalized by recently discovered q-polynomials (viz. Koornwinder's
+multivariable generalization of the Askey-Wilson polynomials). From the
+viewpoint of physics the algebra can be interpreted as consisting of the
+quantum integrals of a novel difference-type integrable sytem. This system
+generalizes the Calogero-Moser systems associated with non-exceptional root
+systems.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 15:21:15 GMT""}]","2008-02-03"
+"gr-qc/9306009","Dominik Schwarz","Dominik J. Schwarz","Analytic Solutions for Cosmological Perturbations in Multi-Dimensional
+  Space-Time","6 pages (incl. 3 figures), LaTeX (epsf), TUW-93-07, two misprints
+  corrected (one formula, one reference)","Int.J.Mod.Phys.D3:265-268,1994","10.1142/S0218271894000423",,"gr-qc astro-ph",,"  We obtain analytic solutions for the density contrast and the anisotropic
+pressure in a multi-dimensional FRW cosmology with collisionless, massless
+matter. These are compared with perturbations of a perfect fluid universe. To
+describe the metric perturbations we use manifest gauge invariant metric
+potentials. The matter perturbations are calculated by means of (automatically
+gauge invariant) finite temperature field theory, instead of kinetic theory.
+(Talk given at the Journ\'ees Relativistes '93, 5 -- 7 April, Brussels,
+Belgium)
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 13:55:38 GMT""},{""version"":""v2"",""created"":""Mon, 8 Nov 1993 15:19:17 GMT""}]","2011-04-15"
+"gr-qc/9306010","Dmitry Dolgov","D.S.Dolgov","Superluminal Black Holes","FIAN/TD/8-93 7 pages",,,,"gr-qc",,"  The new solution of the Einstein equations in empty space is presented. The
+solution is constructed using Schwarzschild solution but essentially differs
+from it. The basic properties of the solution are: the existence of a horizon
+which is a hyperboloid of one sheet moving along its axis with superluminal
+velocity, right signature of the metric outside the horizon and
+Minkovsky-flatness of it at infinity outside the horizon. There is also a
+discussion in the last chapter, including comparing with recent astronomical
+observations.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 11:24:25 GMT""}]","2007-05-23"
+"hep-ph/9306230",,"N.N.Nikolaev (L.D.Landau Institute, Moscow and KFA, Juelich),
+  B.G.Zakharov (L.D.Landau Institute, Moscow)","The triple-pomeron regime and the structure function of the pomeron in
+  the diffractive deep inelastic scattering at very small x","KFA-IKP(Th)-1993-17, Landau-16/93, 46 pages, 14 figures upon request
+  from N.Nikolaev, kph154@zam001.zam.kfa-juelich.de","Z.Phys.C64:631-652,1994","10.1007/BF01957772",,"hep-ph",,"  Misprints and numerical coefficients corrected, a bit of phenomenology and
+one figure added. The case for the linear evolution of the unitarized structure
+functions made stronger.
+","[{""version"":""v1"",""created"":""Sun, 6 Jun 1993 17:21:20 GMT""},{""version"":""v2"",""created"":""Thu, 9 Dec 1993 17:55:48 GMT""}]","2014-11-17"
+"hep-ph/9306234","Danielle Stretch","J C Taylor","Scattering of very light charged particles","4 pages, plain TeX, DAMTP-93-24","Phys.Rev.D54:2975-2977,1996","10.1103/PhysRevD.54.2975",,"hep-ph",,"  I advance arguments against the view that the Lee-Nauenberg-Kinoshita theorem
+is relevant in practice to the scattering of charged particles as their mass
+tends to zero. I also discuss the case of massive coloured particle scattering.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 11:14:00 GMT""}]","2010-11-01"
+"hep-ph/9306235","Faraggi Alon","Alon E. Faraggi and Edi Halyo","Cabibbo--Kobayashi--Maskawa Mixing in Superstring Derived Standard--like
+  Models","WIS--93/35/APR--PH, 29 pages","Nucl.Phys.B416:63-86,1994","10.1016/0550-3213(94)90578-9",,"hep-ph",,"  We examine the problem of three generation quark flavor mixing in realistic,
+superstring derived standard--like models, constructed in the free fermionic
+formulation. We study the sources of family mixing in these models and discuss
+the necessary conditions to obtain a realistic Cabibbo--Kobayashi--Maskawa
+(CKM) mixing matrix. In a specific model, we estimate the mixing angles and
+discuss the weak CP violating phase. We argue that the superstring
+standard--like models can produce a realistic CKM mixing matrix. We discuss the
+possible textures of quark mass matrices that may be obtained in these models.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 14:27:13 GMT""}]","2010-11-01"
+"hep-ph/9306236","S. F. King","Stephen F. King","Low Scale Technicolour at LEP","12 pages+1 figure (available by post), Latex, SHEP92/93-22","Phys.Lett. B314 (1993) 364-370","10.1016/0370-2693(93)91250-Q",,"hep-ph",,"  We discuss the phenomenology of an $SU(2)_{TC}$ technicolour model with a low
+technicolour confinement scale ${\Lambda}_{TC} \sim 50-100 GeV$. Such a low
+technicolour scale may give rise to the first hints of technicolour being seen
+at LEPI and spectacular technicolour signals at LEPII.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 11:48:57 GMT""}]","2009-10-22"
+"hep-ph/9306237","Masaharu Tanabashi","Masaharu Tanabashi","Chiral Perturbation to One Loop Including the $\rho$ Meson","14pages, KEK-TH-349/KEK preprint 92-169","Phys.Lett. B316 (1993) 534-541","10.1016/0370-2693(93)91040-T",,"hep-ph",,"  We formulate the chiral perturbation theory at the one loop level in the
+effective lagrangian including the $\rho$ meson as a dynamical gauge boson of a
+hidden local symmetry(HLS). The size of radiative correction to the
+phenomenological parameter $a$ of HLS is estimated to be about $10$\%. The
+complete list of ${\cal O}(E^4)$ terms is given and the one loop counter terms
+are determined explicitly in the $N$ flavor model. We also obtain matching
+conditions to the conventional chiral perturbation of Gasser and Leutwyler in
+the chiral limit in a renormalization scale independent manner. We find that
+Gasser--Leutwyler's estimates for $L_{9,10}$ are saturated by $\rho$ and its
+one loop contributions without introducing non-minimal couplings of
+$\pi$-$\rho$ system, suggesting the absence of the tree level $a_1$ meson
+contributions.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 13:18:39 GMT""}]","2009-10-22"
+"hep-ph/9306238","Daniel Boyanovsky","D. Boyanovsky and C. A. de Carvalho","Real Time Analysis of Thermal Activation via Sphaleron Transitions","26 pages 6 figures (available upon request), PITT-93-06, LATEX","Phys.Rev. D48 (1993) 5850-5862","10.1103/PhysRevD.48.5850",,"hep-ph hep-th",,"  We study the process of thermal activation mediated by sphaleron transitions
+by analyzing the real-time dynamics of the decay out of equilibrium in a $1+1$
+dimensional field theory with a metastable state. The situation considered is
+that of a rapid supercooling in which the system is trapped in a metastable
+state at a temperature larger than the mass of the quanta, but smaller than the
+energy to create a critical droplet. The initial density matrix is evolved in
+time and the nucleation rate (probability current at the saddle point) is
+computed. The nucleation rate is {\it time dependent}, vanishing at early
+times, reaching a maximum at a time $t \approx 1/m$ with $m$ the mass of quanta
+in the metastable state, and decreasing at long times as a consequence of
+unitarity. An estimate for the average number of particles of ``true vacuum''
+produced as a function of time during the nucleation process is obtained.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 15:09:00 GMT""}]","2009-10-22"
+"hep-ph/9306239","Robert Peschanski","B.G.Giraud and R.Peschanski","Eigenmoments for Multifragmentation","11 pages (TeX), figures not included (available on request), Saclay
+  Preprint T93/056","Phys.Lett.B315:452-458,1993","10.1016/0370-2693(93)91640-9",,"hep-ph nucl-th",,"  Linear rate equations are used to describe the cascading decay of an initial
+heavy cluster into fragments. Using a procedure inspired by the similar, but
+continuous case of jet fragmentation in QCD, this discretized process may be
+analyzed into eigenmodes, corresponding to moments of the distribution of
+multiplicities. The orders of these moments are usually noninteger numbers. The
+resulting analysis can be made time independent and is applicable to various
+phenomenological multifragmentation processes, in which case it leads to new
+approximate finite-size scaling relations for the spectrum of fragments.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 15:32:34 GMT""}]","2008-11-26"
+"hep-ph/9306240","Zvi Bern","Z. Bern, L. Dixon, and D. A. Kosower","Dimensionally Regulated Pentagon Integrals","56 pages (including figures), signs corrected in eq. (4.65)","Nucl.Phys.B412:751-816,1994","10.1016/0550-3213(94)90398-0","SLAC-PUB-5947","hep-ph",,"  We present methods for evaluating the Feynman parameter integrals associated
+with the pentagon diagram in 4-2 epsilon dimensions, along with explicit
+results for the integrals with all masses vanishing or with one non-vanishing
+external mass. The scalar pentagon integral can be expressed as a linear
+combination of box integrals, up to O(epsilon) corrections, a result which is
+the dimensionally-regulated version of a D=4 result of Melrose, and of van
+Neerven and Vermaseren. We obtain and solve differential equations for various
+dimensionally-regulated box integrals with massless internal lines, which
+appear in one-loop n-point calculations in QCD. We give a procedure for
+constructing the tensor pentagon integrals needed in gauge theory, again
+through O(epsilon^0).
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 15:38:26 GMT""},{""version"":""v2"",""created"":""Mon, 18 May 1998 05:25:20 GMT""}]","2010-11-15"
+"hep-th/9306037","Gordon Semenoff","M.I. Dobroliubov, Yu. Makeenko and G.W. Semenoff","Correlators of the Kazakov-Migdal Model","14 pages, ITEP-YM-3-93","Mod. Phys. Lett. A8 (1993) 2387-2402","10.1142/S0217732393003688",,"hep-th",,"  We derive loop equations for the one-link correlators of gauge and scalar
+fields in the Kazakov-Migdal model. These equations determine the solution of
+the model in the large N limit and are similar to analogous equations for the
+Hermitean two-matrix model. We give an explicit solution of the equations for
+the case of a Gaussian, quadratic potential. We also show how similar
+calculations in a non-Gaussian case reduce to purely algebraic equations.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 06:25:00 GMT""}]","2015-06-26"
+"hep-th/9306038",,"Katsuyuki Sugiyama","BRST analysis of N=2 superconformal minimal unitary models in Coulomb
+  gas formalism","34 pages, 2 eps figures","Int.J.Mod.Phys.A9:5821-5850,1994","10.1142/S0217751X94002417","UT-646","hep-th",,"  We perform a BRST analysis of the N=2 superconformal minimal unitary models.
+A bosonic as well as fermionic BRST operators are used to construct irreducible
+representations of the N=2 superconformal algebra on the Fock space as BRST
+cohomology classes of the BRST operators. Also a character formula is rederived
+by using the BRST analysis.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 08:50:20 GMT""}]","2010-11-01"
+"hep-th/9306039",,"Alain DASNI\`ERES de VEIGY and St\a'ephane OUVRY (Division de Physique
+  Th\'eorique, IPN Orsay Fr-91406)","Equation of State of an Anyon Gas in a Strong Magnetic Field","14 pages, PACS numbers: 03.65.-w, 05.30.-d, 05.70.Ce, IPNO/TH 93-16
+  (MAY 1993), e-mail: OUVRY@FRCPN11","Phys.Rev.Lett. 72 (1994) 600-603","10.1103/PhysRevLett.72.600",,"hep-th",,"  The statistical mechanics of an anyon gas in a magnetic field is addressed.
+An harmonic regulator is used to define a proper thermodynamic limit. When the
+magnetic field is sufficiently strong, only exact $N$-anyon groundstates, where
+anyons occupy the lowest Landau level, contribute to the equation of state.
+Particular attention is paid to the interval of definition of the statistical
+parameter $\alpha\in[-1,0]$ where a gap exists. Interestingly enough, one finds
+that at the critical filling $\nu=-{1/\alpha}$ where the pressure diverges, the
+external magnetic field is entirely screened by the flux tubes carried by the
+anyons.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 15:23:45 GMT""}]","2009-10-22"
+"nucl-th/9306005","Heinz Oberhummer","P. Mohr, H. Abele, R. Zwiebel, G. Staudt, H. Krauss, H. Oberhummer, A.
+  Denker, J.W. Hammer, G. Wolf","Alpha scattering and capture reactions in the A = 7 system at low
+  energies","submitted to Phys.Rev.C, 34 pages, figures available from one of the
+  authors, LaTeX with RevTeX, IK-TUW-Preprint 9305402","Phys.Rev.C48:1420-1427,1993","10.1103/PhysRevC.48.1420",,"nucl-th",,"  Differential cross sections for $^3$He-$\alpha$ scattering were measured in
+the energy range up to 3 MeV. These data together with other available
+experimental results for $^3$He $+ \alpha$ and $^3$H $+ \alpha$ scattering were
+analyzed in the framework of the optical model using double-folded potentials.
+The optical potentials obtained were used to calculate the astrophysical
+S-factors of the capture reactions $^3$He$(\alpha,\gamma)^7$Be and
+$^3$H$(\alpha,\gamma)^7$Li, and the branching ratios for the transitions into
+the two final $^7$Be and $^7$Li bound states, respectively. For
+$^3$He$(\alpha,\gamma)^7$Be excellent agreement between calculated and
+experimental data is obtained. For $^3$H$(\alpha,\gamma)^7$Li a $S(0)$ value
+has been found which is a factor of about 1.5 larger than the adopted value.
+For both capture reactions a similar branching ratio of $R =
+\sigma(\gamma_1)/\sigma(\gamma_0) \approx 0.43$ has been obtained.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 07:49:37 GMT""}]","2008-11-26"
+"nucl-th/9306006","Joachim Reinhardt","Iwo Bialynicki-Birula","Simple relativistic model of a finite-size particle","10pages + 3 postscript figures included in the file, uses RevTeX","Phys.Lett.A182:346-352,1993","10.1016/0375-9601(93)90406-P",,"nucl-th",,"  Soluble model of a relativistic particle describing a bag of matter with
+fixed radius held together in perfect balance by a self-consistent combination
+of three forces generated by electromagnetic and massive scalar and vector
+fields is presented. For realistic values of parameters the bag radius becomes
+that of a proton.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 11:37:42 GMT""}]","2011-07-19"
+"nucl-th/9306007",,"N.N.Nikolaev, A.Szczurek, J.Speth, J.Wambach, B.G.Zakharov, V.R.Zoller","Correlation Effects in the Final-State Interaction for Quasielastic
+  $(e,e'p)$ Scattering","(kph147@zam001.zam.kfa-juelich.de), 8 pages, 2 figures on the request
+  from the authors",,"10.1016/0370-2693(93)90996-U",,"nucl-th",,"  Color transparency predicts that, in $(e,e'p)$ reactions at large $Q^2$, the
+final-state interaction becomes weaker than the reference value predicted from
+the free-nucleon cross section. This reference value is usually evaluated in
+the dilute-gas approximation to Glauber's multiple-scattering theory. We derive
+the leading-order correction taking into account two-body correlations. Large
+cancellations are found so that the overall correlation effect is small.
+","[{""version"":""v1"",""created"":""Mon, 7 Jun 1993 11:27:05 GMT""}]","2009-10-22"

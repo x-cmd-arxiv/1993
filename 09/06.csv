@@ -1,0 +1,60 @@
+"hep-ph/9309228",,"Xiao-Gang He and B. McKellar","Constraints on the anomalous $WW\gamma$ couplings from $b\rightarrow
+  s\gamma$","11 pages, Revtex, UM-P-93/52, OZ-93/14}","Phys.Lett.B320:165-169,1994","10.1016/0370-2693(94)90841-9",,"hep-ph",,"  We study contributions to $b \rightarrow s \gamma$ from anomalous $WW\gamma$
+interactions. Although these anomalous interactions are not renormalizable, the
+contributions are cut-off independent. Using recent results from the CLEO
+collaboration on inclusive radiative B decays, we obtain bounds for the
+anomalous CP conserving and CP violating couplings. The constraints on the CP
+conserving couplings are comparable with or better than constraints from other
+experiments.
+","[{""version"":""v1"",""created"":""Mon, 6 Sep 1993 04:05:28 GMT""}]","2010-11-01"
+"hep-ph/9309229","Schwesinger","B. Schwesinger and H. Walliser","The Low-Energy Theorem of Pion Photoproduction in Soliton Models of the
+  Nucleon","17 pages, LATEX, SI-93-TP3S2","Nucl.Phys. A574 (1994) 836-850","10.1016/0375-9474(94)90961-X",,"hep-ph",,"  We derive an analytic expression for the Kroll-Ruderman amplitude up to the
+order 1/N_C for general Skyrme-type models of the nucleon. Due to the
+degeneracy of intermediate N- and Delta-states we find deviations from the
+standard low-energy theorem for the photoproduction of neutral pions.
+","[{""version"":""v1"",""created"":""Mon, 6 Sep 1993 15:04:07 GMT""}]","2009-10-22"
+"hep-th/9309029","Tetsuo Deguchi","Tetsuo Deguchi","Multivariable Invariants of Colored Links Generalizing the Alexander
+  Polynomial","19 pages",,,,"hep-th math.QA",,"  We discuss multivariable invariants of colored links associated with the
+$N$-dimensional root of unity representation of the quantum group. The
+invariants for $N>2$ are generalizations of the multi-variable Alexander
+polynomial. The invariants vanish for disconnected links. We review the
+definition of the invariants through (1,1)-tangles. When $(N,3)=1$ and $N$ is
+odd, the invariant does not vanish for the parallel link (cable) of the knot
+$3_1$, while the Alexander polynomial vanishes for the cable link.
+","[{""version"":""v1"",""created"":""Mon, 6 Sep 1993 07:12:56 GMT""}]","2008-02-03"
+"hep-th/9309030","Martin Cederwall","Martin Cederwall and Christian R. Preitschopf","The Seven-sphere and its Kac-Moody Algebra","22 pages. Macropackages used: phyzzx, epsf. Three epsf figure files
+  appended","Commun.Math.Phys. 167 (1995) 373-394","10.1007/BF02100591","Goeteborg-ITP-93-34, August 1993","hep-th alg-geom math.QA",,"  We investigate the seven-sphere as a group-like manifold and its extension to
+a Kac-Moody-like algebra. Covariance properties and tensorial composition of
+spinors under $S^7$ are defined. The relation to Malcev algebras is
+established. The consequences for octonionic projective spaces are examined.
+Current algebras are formulated and their anomalies are derived, and shown to
+be unique (even regarding numerical coefficients) up to redefinitions of the
+currents. Nilpotency of the BRST operator is consistent with one particular
+expression in the class of (field-dependent) anomalies. A Sugawara construction
+is given.
+","[{""version"":""v1"",""created"":""Mon, 6 Sep 1993 10:43:17 GMT""}]","2009-10-22"
+"hep-th/9309031",,"Demosthenes Ellinas","Star products and deformed oscillators","15 pages",,,"FTUV/93-11","hep-th math.QA",,"  A star-product formalism describing deformations of the standard quantum
+mechanical harmonic oscillator is introduced. A number of existing generalized
+oscillators occur as particular choises of star-products between the elements
+of the ordinary oscillator algebra. Star dynamics and coherent states are
+introduced and studied.
+","[{""version"":""v1"",""created"":""Mon, 6 Sep 1993 13:35:00 GMT""}]","2008-02-03"
+"hep-th/9309032",,"Demosthenes Ellinas and Vassilios Kovanis","Motion of Wavefunction Zeros in Spin-Boson Systems","19 pages plus 3 figures available upon request, plain LATEX,
+  FTUV/93-13",,,,"hep-th chao-dyn cond-mat nlin.CD",,"  In the analytic-Bargmann representation associated with the harmonic
+oscillator and spin coherent states, the wavefunction as entire complex
+functions can be factorized in terms of their zeros in a unique way. The
+Schr\""odinger equation of motion for the wavefunction is turned to a system of
+equations for its zeros. The motion of these zeros as a non-linear flow of
+points is studied and interpreted for linear and non-linear bosonic and spin
+Hamiltonians. Attention is given to the study of the zeros of the
+Jaynes-Cummings model and to its finite analoque. Numerical solutions are
+derived and discussed.
+","[{""version"":""v1"",""created"":""Mon, 6 Sep 1993 15:57:00 GMT""}]","2008-02-03"
+"hep-th/9309033","Harry Braden","H. W. Braden and Takashi Suzuki","$R$-matrices for Elliptic Calogero-Moser Models","11 pages. Updated to agree with published version","Lett.Math.Phys.30:147-158,1994","10.1007/BF00939702",,"hep-th nlin.SI solv-int",,"  The classical $R$-matrix structure for the $n$-particle Calogero-Moser models
+with (type IV) elliptic potentials is investigated. We show there is no
+momentum independent $R$-matrix (without spectral parameter) when $n\ge4$. The
+assumption of momentum independence is sufficient to reproduce the dynamical
+$R$-matrices of Avan and Talon for the type I,II,III degenerations of the
+elliptic potential. The inclusion of a spectral parameter enables us to find
+$R$-matrices for the general elliptic potential.
+","[{""version"":""v1"",""created"":""Mon, 6 Sep 1993 15:39:10 GMT""},{""version"":""v2"",""created"":""Tue, 7 Sep 1993 08:50:41 GMT""},{""version"":""v3"",""created"":""Fri, 3 Dec 1993 15:41:35 GMT""}]","2011-07-19"

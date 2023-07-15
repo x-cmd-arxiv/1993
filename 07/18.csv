@@ -1,0 +1,82 @@
+"astro-ph/9307028","Karen Strom","J. Kepner, P. Hartigan, C. Yang and S. Strom","Hubble Space Telescope Images of the Subarcsecond Jet in DG Tau","6 pages, 3 figures included. All in postscript, please read
+  instructions at the beginning of the file. Accepted by the Ap.J. Letters",,"10.1086/187047",,"astro-ph",,"  We have applied a new restoration technique to archival [O~I], H$\alpha$, and
+continuum HST images of DG~Tau. The restored [O~I] and H$\alpha$ images show
+that DG~Tau has a jet with a projected length of 25~AU and width $\leq$10~AU,
+and is already collimated at a projected distance of $\sim$~40~AU (0\farcs25)
+from the star. Such a narrow width and short collimation distance for a stellar
+jet places important constraints on theoretical models of jet formation.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1993 17:44:03 GMT""}]","2009-10-22"
+"cond-mat/9307033",,"R. Marto\v{n}\'ak and E. Tosatti","Ultraviolet and soft X--ray photon--photon elastic scattering in an
+  electron gas","33 pages, TeX, Version 3.1, S.I.S.S.A. preprint 35/93/CM",,"10.1007/BF01320503",,"cond-mat",,"  We have considered the processes which lead to elastic scattering between two
+far ultraviolet or X--ray photons while they propagate inside a solid, modeled
+as a simple electron gas. The new ingredient, with respect to the standard
+theory of photon--photon scattering in vacuum, is the presence of low--energy,
+nonrelativistic electron--hole excitations. Owing to the existence of
+two--photon vertices, the scattering processes in the metal are predominantly
+of second order, as opposed to fourth order for the vacuum case. The main
+processes in second order are dominated by exchange of virtual plasmons between
+the two photons. For two photons of similar energy $\hbar \Omega$, this gives
+rise to a cross section rising like $\Omega^2$ up to maximum of around
+$10^{-32}$~cm$^2$, and then decreasing like $\Omega^{-6}$. The maximal cross
+section is found for the photon wavevector $k \sim k_{F}$, the Fermi surface
+size, which typically means a photon energy $\hbar \Omega$ in the keV range.
+Possible experiments aimed at checking the existence of these rare but
+seemingly measurable elastic photon--photon scattering processes are discussed,
+using in particular intense synchrotron sources.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1993 17:02:18 GMT""}]","2016-08-14"
+"cond-mat/9307034",,"R. Marto\v{n}\'ak and E. Tosatti","Path Integral Monte Carlo Study of a Model 2D Quantum Paraelectric","47 pages, TeX, Version 3.1, S.I.S.S.A. preprint 109/93/CM/MB",,"10.1103/PhysRevB.49.12596",,"cond-mat",,"  We have begun a study of quantum ferroelectrics and paraelectrics. Simple 2D
+short-range lattice model hamiltonians are constructed, keeping in mind the
+phenomenology of real perovskite systems, like $SrTiO_{3}$ and $KTaO_{3}$.
+Pertinent quantum tunneling phenomena, and the presence of an ice-like
+constraint are demonstrated. The two simplest models, namely a plain quantum
+four-state clock model, and a constrained one, are then studied in some detail.
+We show the equivalence of the former, but not of the latter, to a quantum
+Ising model. For the latter, we describe a very good analytical wavefunction
+valid in the special case of zero coupling ($J = 0$). In order to study the
+full quantum statistical mechanics of both models, a Path Integral Monte Carlo
+calculation is set up, and implemented with a technique, which even in the
+constrained case permits a good convergence for increasing time slice number
+$m$. The method is applied first to the unconstrained model, which serves as a
+check, and successively to the constrained quantum four-state clock model. It
+is found that in both cases, a quantum phase transition still takes place at
+finite coupling J, between a ferroelectric and a quantum paraelectric state,
+even when the constraint hinders disordering of the ferroelectric state. This
+model paraelectric state has a finite excitation gap, and no broken symmetry.
+The possible role of additional (""oxygen hopping"") kinetic terms in making
+closer contact with the known phenomenology of $SrTiO_{3}$ is discussed.
+","[{""version"":""v1"",""created"":""Sat, 17 Jul 1993 17:37:18 GMT""}]","2016-08-14"
+"hep-ph/9307291",,"P. Ball, V.M. Braun","Next--to--Leading Order Corrections to Meson Masses in the Heavy Quark
+  Effective Theory","33 ps., PS figures included, requires REVTEX.3 and psfig,
+  TUM-T31-42/93/R (additional contribution to kinetic energy taken into
+  account, marginal changes in the results)","Phys.Rev.D49:2472-2489,1994","10.1103/PhysRevD.49.2472",,"hep-ph",,"  We use the QCD sum rule approach to calculate the splitting between vector
+and pseudoscalar mesons containing one light and one heavy quark, and the
+kinetic energy of the heavy quark. Our result for the splitting induced by the
+chromomagnetic interaction agrees to the experimental data on charm and beauty
+mesons. For the matrix element of the kinetic energy operator, we obtain the
+value $K=-(0.60\pm 0.10)\, {\rm GeV}^2$.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1993 14:52:37 GMT""},{""version"":""v2"",""created"":""Thu, 2 Sep 1993 21:56:04 GMT""}]","2011-01-25"
+"patt-sol/9307001","Henry Greenside","P. V. Bayly, E. E. Johnson, P. D. Wolf, H. S. Greenside, W. M. Smith,
+  and R. E. Ideker (Duke University)","A quantitative measurement of spatial order in ventricular fibrillation","20 pages with 13 Postscript figures. To appear in the J.
+  Cardiovascular Electrophysiology, 1993",,,,"patt-sol nlin.PS q-bio",,"  As an objective measurement of spatial order in ventricular fibrillation
+(VF), spatial correlation functions and their characteristic lengths were
+estimated from epicardial electrograms of pigs in VF. The correlation length of
+the VF in pigs was found to be approximately 4-10 mm, varying as fibrillation
+progressed. The degree of correlation decreased in the first 4 seconds after
+fibrillation then increased over the next minute. The correlation length is
+much smaller than the scale of the heart, suggesting that many independent
+regions of activity exist on the epicardium at any one time. On the other hand,
+the correlation length is 4 to 10 times the interelectrode spacing, indicating
+that some coherence is present. These results imply that the heart behaves
+during VF as a high-dimensional, but not random, system involving many spatial
+degrees of freedom, which may explain the lack of convergence of fractal
+dimension estimates reported in the literature. Changes in the correlation
+length also suggest that VF reorganizes slightly in the first minute after an
+initial breakdown in structure.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1993 05:39:20 GMT""}]","2008-02-03"
+"solv-int/9407003","R. A. Sharipov","M.V. Pavlov (Landau Institute for Theor. Physics., Moscow, Russia),
+  R.A. Sharipov (Dep. of Math., Bashkir State Univ., Ufa, Russia) and S.I.
+  Svinolupov (Inst. of Math., Ufa, Russia)","Invariant Integrability Criterion for the Equations of Hydrodynamical
+  Type","pavlov@cpd.landau.free.net, root@bgua.bashkiria.su",,,,"solv-int nlin.SI",,"  Invariant integrability criterion for the equations of hydrodynamical type is
+found. This criterion is written in the form of vanishing for some tensor which
+is derived from the velocities matrix of hydrodynamical equations.
+","[{""version"":""v1"",""created"":""Sun, 18 Jul 1993 02:37:03 GMT""}]","2008-02-03"

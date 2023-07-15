@@ -1,0 +1,204 @@
+"astro-ph/9305019","Tsvi Piran","T. Piran, M. Lecar, D. S. Goldwirth, L. Nicolaci da Costa, and G. R.
+  Blumenthal","Limits on the Primordial Fluctuation Spectrum Void Sizes and CMBR
+  Anisotropy","23 pages, tex, 1 figure can be obtaine from tsvi@cfata4.harvard.edu
+  CFA-3640",,,,"astro-ph",,"  We suggest to use the common appearance of voids with a scale of $5000 \kms$
+in the galaxy distribution to estimate the power spectrum on this scale. We use
+a simple model for a gravitational formation of voids and we compare the
+results with the matter fluctuations as constrained by the CMBR observations of
+COBE. We find that a power spectrum $P(k)\propto k^n$ with $n \approx 1.25$ is
+compatible both with COBE and with gravitational growth of large voids in an
+$\Omega=1$ universe. A Harrison-Zel'dovich spectrum, $n=1$, normalized to
+produce the observed CMBR fluctuations, does not have enough power for
+gravitational growth of voids with a diameter of $5000 \kms$ in an $\Omega=1$
+Universe. Such a spectrum would be compatible if (i) void diameters are smaller
+($3500 \kms$), the voids are shallower or if the voids are rare (we assume that
+the universe is void filled); (ii) $\Omega < 1$ i.e. the Universe is open;
+(iii) galaxies do not trace matter on very large scale or if (iv) the voids do
+not grow gravitationally.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 18:18:45 GMT""},{""version"":""v2"",""created"":""Mon, 17 May 1993 17:38:39 GMT""}]","2008-02-03"
+"chao-dyn/9305006","Pete Skordos","P.A. Skordos (LANL B258, Los Alamos, NM 87545, and MIT, 545 Technology
+  Square, NE43-432, Cambridge, MA 02139)","The cost of compressible dynamics, time-reversibility, Maxwell's demon,
+  and the second law","Postscript file, and 7 postcript figures",,"10.1103/PhysRevE.48.777",,"chao-dyn nlin.CD",,"  A tantalizing version of Maxwell's demon is presented which appears to
+operate reversibly. A container of hard core disks is separated into two
+chambers of equal volume by a membrane that selects which disk can penetrate
+depending on the disk's angle of incidence. It is shown that the second law of
+thermodynamics requires the incompressibility of microscopic dynamics or an
+appropriate energy cost for compressible microscopic dynamics.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 17:00:59 GMT""}]","2009-10-22"
+"cond-mat/9305014","Phil Nelson","P. Nelson, T. Powers","Renormalization of Chiral Couplings in Tilted Bilayer Membranes","UPR--549T",,,,"cond-mat hep-th",,"  We study the effects of chiral constituent molecules on the macroscopic
+shapes attained by lipid bilayer membranes. Such fluid membranes are beautiful
+examples of statistical ensembles of random shapes, sometimes coupled to
+in-plane order. We analyze them with methods of continuum elasticity theory,
+generalizing the well-known Canham-Helfrich model, and in particular
+incorporate the effects of thermal fluctuations. The condition that coordinate
+choice be immaterial greatly constrains the possible forms of the statistical
+weights in these systems, leading to very few independent couplings and hence
+physically simple models. Thermal fluctuations effectively reduce the chirality
+of a membrane at long scales, leading to an anomalous scaling relation for the
+radius of bilayer tubules and helices as a function of chirality. En route to
+this conclusion we develop a perturbative calculation scheme, paying particular
+attention to the functional measure needed to describe fluctuations
+covariantly. %% [In the new version some TeX problems are fixed. This file was
+prepared with uufiles. To print it, clip out everything after the line of #'s
+below and put it in an executable file. If your mailer puts a spurious blank
+line at the end of part one, be sure to kill it. Then execute it to create a
+TeX file and four .eps files. The latter will be automatically included using
+epsf.tex. If this doesn't work, please contact the authors.]
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 21:51:53 GMT""},{""version"":""v2"",""created"":""Tue, 18 May 1993 16:54:32 GMT""}]","2008-02-03"
+"hep-lat/9305013","Dr. Dick Haymaker","Yingcai Peng and Richard W. Haymaker","SU(2) finite temperature phase transition and Michael sum rules","37 pages, LSUHE No. 142-1993",,,,"hep-lat",,"  We studied the finite temperature phase transition of SU(2) gauge theory on
+four-dimensional Euclidean lattices by Monte Carlo simulations, and measured
+the flux distributions of a $q\bar q$ pair in both confined and unconfined
+phases. We reviewed and generalized Michael sum rules to include finite
+temperature effects. To compare our flux data with predictions of Michael sum
+rules, we studied the behavior of string tension with temperature. Our data
+agree well with the generalized sum rules.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 17:27:07 GMT""}]","2009-09-25"
+"hep-ph/9305269","Vladimir Braun","I.I. Balitsky and V.M. Braun","Instanton-induced contributions to structure functions of deep inelastic
+  scattering","MPI-Ph/92-89 , LATEX, 15 pages, 3 figures incl. as uu-encoded file","Phys.Lett. B314 (1993) 237-245","10.1016/0370-2693(93)90455-Q",,"hep-ph",,"  We identify and calculate the instanton-induced contributions to deep
+inelastic scattering which correspond to nonperturbative exponential
+corrections to the coefficient functions in front of parton distributions of
+the leading twist.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 17:02:51 GMT""}]","2009-10-22"
+"hep-ph/9305270",,"C. Kao, G.A. Ladinsky and C.-P. Yuan","Leading Electroweak Corrections to the Production of Heavy Top Quarks at
+  Hadron Colliders","22 pages, FSU-HEP-930508 and MSUHEP-93/04 (PHYZZX, additional 15
+  pages of uuencode figures; Fig. 1 available by request)",,,,"hep-ph",,"  We calculate the electroweak corrections of the order $O({m_t^2\over v^2})$
+to the QCD production of $t\bar{t}$ pairs via $q+qbar->t+tbar$ at hadron
+colliders and show that these corrections to the total production rate are
+small. This correction can be characterized as increasing the cross section
+most near the threshold region, where top quark signals are important, while
+the corrections become negative at higher $t\bar{t}$ energies where the top
+quark is a background for heavy Higgs boson searches or investigations
+involving the strongly interacting longitudinal $W$ system. The polarization of
+the $t\bar t$ pair is also discussed, including the effect that this has on
+proposed techniques for measuring the the top quark mass.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 17:19:50 GMT""}]","2009-09-25"
+"hep-ph/9305271",,"A.A.Anselm and A.A.Johansen","Can Electro-Weak $\h$-Term be Observable ?","21 pages, Preprint TPI-MINN-93/24-T","Nucl.Phys.B412:553-573,1994","10.1016/0550-3213(94)90392-1",,"hep-ph",,"  We rederive and discuss the result of the previous paper that in the standard
+model $\theta$-term related to $W$-boson field can not be induced by weak
+instantons. This follows from the existence of the fermion zero mode in the
+instanton field even when Yukawa couplings are switched on and there are no
+massless particles. We consider the new index theorem connecting the
+topological charge of the weak gauge field with the number of fermion zero
+modes of a certain differential operator which depends not only on gauge but
+also on Higgs fields. The possible generalizations of the standard model are
+discussed which lead to nonvanishing weak $\theta$-term. In $SU(2)_L \times
+SU(2)_R$ model the $\theta$ dependence of the vacuum energy is computed.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 19:57:24 GMT""}]","2010-11-01"
+"hep-ph/9305272",,"Alex Pomarol and Roberto Vega","Constraints on CP violation in the Higgs sector from the $\rho$
+  parameter","19 pages, 2 figures (not included), SLAC-PUB-6196","Nucl.Phys.B413:3-15,1994","10.1016/0550-3213(94)90611-4",,"hep-ph",,"  We discuss the relation between the CP symmetry and the custodial $SU(2)$
+symmetry in the Higgs sector. In particular, we show that CP violation in the
+Higgs-gauge sector is allowed only if the custodial $SU(2)$ symmetry is broken.
+We exploit these facts to constrain CP violation using the experimental bounds
+on $\rho-1$. CP nonconservation in the Higgs-fermion interactions can also be
+constrained in a similar way although a possible exception is pointed out.
+","[{""version"":""v1"",""created"":""Sat, 15 May 1993 03:28:00 GMT""}]","2010-11-01"
+"hep-th/9305066","Jeff Harvey","J.P. Gauntlett, J. A. Harvey, M. M. Robinson, and D. Waldram","Scattering of Macroscopic Heterotic Strings","14 pp (harvmac l)","Nucl.Phys. B411 (1994) 461-472","10.1016/0550-3213(94)90458-8","EFI-93-29","hep-th",,"  We show that macroscopic heterotic strings, formulated as strings which wind
+around a compact direction of finite but macroscopic extent, exhibit
+non-trivial scattering at low energies. This occurs at order velocity squared
+and may thus be described as geodesic motion on a moduli space with a
+non-trivial metric which we construct. Our result is in agreement with a direct
+calculation of the string scattering amplitude.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 18:27:07 GMT""}]","2009-10-22"
+"hep-th/9305067",,"S. Vokos and C. Zachos","Thermodynamic q-Distributions That Aren't","7 pages, UW/PT-93-05, ANL-HEP-CP-93-39, Latex-Revtex [ Augmented list
+  of references, sound and not. ]","Mod.Phys.Lett.A9:1-10,1994","10.1142/S0217732394000022",,"hep-th",,"  Bosonic q-oscillators commute with themselves and so their free distribution
+is Planckian. In a cavity, their emission and absorption rates may grow or
+shrink---and even diverge---but they nevertheless balance to yield the Planck
+distribution via Einstein's equilibrium method, (a careless application of
+which might produce spurious q-dependent distribution functions). This drives
+home the point that the black-body energy distribution is not a handle for
+distinguishing q-excitations from plain oscillators. A maximum cavity size is
+suggested by the inverse critical frequency of such emission/absorption rates
+at a given temperature, or a maximum temperature at a given frequency. To
+remedy fragmentation of opinion on the subject, we provide some discussion,
+context, and references.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 21:06:58 GMT""},{""version"":""v2"",""created"":""Wed, 26 May 1993 14:57:04 GMT""},{""version"":""v3"",""created"":""Sun, 28 Nov 1993 16:22:37 GMT""}]","2009-10-02"
+"hep-th/9305068","Jerome Gauntlett","Jerome P. Gauntlett","Low Energy Dynamics of N=2 Supersymmetric Monopoles","20 pages, EFI-93-09","Nucl.Phys. B411 (1994) 443-460","10.1016/0550-3213(94)90457-X",,"hep-th",,"  It is argued that the low-energy dynamics of $k$ monopoles in N=2
+supersymmetric Yang-Mills theory are determined by an N=4 supersymmetric
+quantum mechanics based on the moduli space of $k$ static monople solutions.
+This generalises Manton's ``geodesic approximation"" for studying the low-energy
+dynamics of (bosonic) BPS monopoles. We discuss some aspects of the
+quantisation and in particular argue that dolbeault cohomology classes of the
+moduli space are related to bound states of the full quantum field theory.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 21:32:20 GMT""}]","2009-10-22"
+"hep-th/9305069","Pierre Binetruy","P. Binetruy","Dilaton, moduli and string/five-brane duality as seen from four
+  dimensions","14 pages, Latex, NSF-ITP-93-60","Phys.Lett. B315 (1993) 80-87","10.1016/0370-2693(93)90161-A",,"hep-th",,"  A naive dimensional reduction of the $N=1, D=10$ supergravity theory that
+naturally arises in five-brane models is used to determine the r\^ole of two
+fields which are basic ingredients of string models: the dilaton and, among the
+moduli, the breathing mode. It is shown that, under the duality transformation
+that relates five-branes and strings, these two fields exchange the r\^oles of
+10-dimensional dilaton and radius of the compact manifold. A description of
+this phenomenon in terms of the linear multiplets of the 4-dimensional
+supergravity is also presented.
+","[{""version"":""v1"",""created"":""Sat, 15 May 1993 01:32:00 GMT""}]","2009-10-22"
+"hep-th/9305070",,"E.Ivanov, S.Krivonos and R.P.Malik","N=2 Super - $W_{3}$ Algebra and N=2 Super Boussinesq Equations","LaTeX, 30 p","Int.J.Mod.Phys. A10 (1995) 253-288","10.1142/S0217751X95000127",,"hep-th",,"  We study classical $N=2$ super-$W_3$ algebra and its interplay with $N=2$
+supersymmetric extensions of the Boussinesq equation in the framework of the
+nonlinear realization method and the inverse Higgs - covariant reduction
+approach. These techniques have been previously applied by us in the bosonic
+$W_3$ case to give a new geometric interpretation of the Boussinesq hierarchy.
+Here we deduce the most general $N=2$ super Boussinesq equation and two kinds
+of the modified $N=2$ super Boussinesq equations, as well as the super Miura
+maps relating these systems to each other, by applying the covariant reduction
+to certain coset manifolds of linear $N=2$ super-$W_3^{\infty}$ symmetry
+associated with $N=2$ super-$W_3$. We discuss the integrability properties of
+the equations obtained and their correspondence with the formulation based on
+the notion of the second hamiltonian structure.
+","[{""version"":""v1"",""created"":""Sat, 15 May 1993 10:08:13 GMT""},{""version"":""v2"",""created"":""Tue, 18 May 1993 15:38:07 GMT""}]","2009-10-22"
+"math/9305204","Shelah Office","Alan H. Mekler, Saharon Shelah, Jouko V\""a\""an\""anen","The Ehrenfeucht-Fraisse-game of length omega_1",,"Trans. Amer. Math. Soc. 339 (1993), 567--580",,"Shelah [MShV:416]","math.LO",,"  Let (A) and (B) be two first order structures of the same vocabulary. We
+shall consider the Ehrenfeucht-Fra{i}sse-game of length omega_1 of A and B
+which we denote by G_{omega_1}(A,B). This game is like the ordinary
+Ehrenfeucht-Fraisse-game of L_{omega omega} except that there are omega_1
+moves. It is clear that G_{omega_1}(A,B) is determined if A and B are of
+cardinality <= aleph_1. We prove the following results:
+  Theorem A: If V=L, then there are models A and B of cardinality aleph_2 such
+that the game G_{omega_1}(A,B) is non-determined.
+  Theorem B: If it is consistent that there is a measurable cardinal, then it
+is consistent that G_{omega_1}(A,B) is determined for all A and B of
+cardinality <= aleph_2.
+  Theorem C: For any kappa >= aleph_3 there are A and B of cardinality kappa
+such that the game G_{omega_1}(A,B) is non-determined.
+","[{""version"":""v1"",""created"":""Sat, 15 May 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9305205","Shelah Office","Alan H. Mekler, Saharon Shelah","Every coseparable group may be free",,"Israel J. Math. 81 (1993), 161--178",,"Shelah [MkSh:418]","math.LO math.RA",,"  We show that if 2^{aleph_0} Cohen reals are added to the universe, then for
+every reduced non-free torsion-free abelian group A of cardinality less than
+the continuum, there is a prime p so that Ext_p(A, Z) not= 0. In particular if
+it is consistent that there is a supercompact cardinal, then it is consistent
+(even with weak CH) that every coseparable group is free. The use of some large
+cardinal hypothesis is needed.
+","[{""version"":""v1"",""created"":""Sat, 15 May 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9305206","Shelah Office","W. Wistar Comfort, Akio Kato, Saharon Shelah","Topological partition relations to the form omega^*-> (Y)^1_2",,"Ann. New York Acad. Sci. 704 (1993), 70--80","10.1111/j.1749-6632.1993.tb52510.x","Shelah [CKSh:440]","math.LO math.GN",,"  Theorem: The topological partition relation omega^{*}-> (Y)^{1}_{2}
+  (a) fails for every space Y with |Y| >= 2^c ;
+  (b) holds for Y discrete if and only if |Y| <= c;
+  (c) holds for certain non-discrete P-spaces Y ;
+  (d) fails for Y= omega cup {p} with p in omega^{*} ;
+  (e) fails for Y infinite and countably compact.
+","[{""version"":""v1"",""created"":""Sat, 15 May 1993 00:00:00 GMT""}]","2015-06-26"
+"math/9305207","Alfredo Poirier","Alfredo Poirier","On postcritically finite polynomials, part 1: critical portraits",,,,"Stony Brook IMS 1993/5","math.DS",,"  We extend the work of Bielefeld, Fisher and Hubbard on Critical Portraits to
+the case of arbitrary postcritically finite polynomials. This determines an
+effective classification of postcritically finite polynomials as dynamical
+systems. This paper is the first in a series of two based on the author's
+thesis, which deals with the classification of postcritically finite
+polynomials. In this first part we conclude the study of critical portraits
+initiated by Fisher and continued by Bielefeld, Fisher and Hubbard.
+","[{""version"":""v1"",""created"":""Sat, 15 May 1993 00:00:00 GMT""}]","2009-09-25"
+"nucl-th/9305009","Stacey Scoville","G. H. Lang, C. W. Johnson, S. E. Koonin, and W. E. Ormand","Monte Carlo evaluation of path integrals for the nuclear shell model","38 pages, RevTeX v3.0, figures available upon request; Caltech
+  Preprint #MAP-159","Phys.Rev.C48:1518-1545,1993","10.1103/PhysRevC.48.1518",,"nucl-th",,"  We present in detail a formulation of the shell model as a path integral and
+Monte Carlo techniques for its evaluation. The formulation, which linearizes
+the two-body interaction by an auxiliary field, is quite general, both in the
+form of the effective `one-body' Hamiltonian and in the choice of ensemble. In
+particular, we derive formulas for the use of general (beyond monopole) pairing
+operators, as well as a novel extraction of the canonical (fixed-particle
+number) ensemble via an activity expansion. We discuss the advantages and
+disadvantages of the various formulations and ensembles and give several
+illustrative examples. We also discuss and illustrate calculation of the
+imaginary-time response function and the extraction, by maximum entropy
+methods, of the corresponding strength function. Finally, we discuss the
+""sign-problem"" generic to fermion Monte Carlo calculations, and prove that a
+wide class of interactions are free of this limitation.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 20:38:53 GMT""}]","2008-11-26"
+"patt-sol/9305004","Jorge Vinals","Hao-wen Xi, J.D. Gunton, Jorge Vinals","Spiral defect chaos in a model of Rayleigh-Benard convection","LaTeX. 4 PostScript figures. Appended","Phys. Rev. Lett. 71, 2030 (1993)","10.1103/PhysRevLett.71.2030","FSU-SCRI-93-61","patt-sol nlin.PS",,"  A numerical solution of a generalized Swift-Hohenberg equation in two
+dimensions reveals the existence of a spatio-temporal chaotic state comprised
+of a large number of rotating spirals. This state is observed for a reduced
+Rayleigh number $\epsilon=0.25$. The power spectrum of the state is isotropic,
+and the spatial correlation function decays exponentially, with an estimated
+decay length $\xi \approx 2.5 \lambda_{c}$, where $\lambda_{c}$ is the critical
+wavelength near the onset of convection. Our study suggests that this spiral
+defect state occurs for low Prandtl numbers and large aspect ratios.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 22:04:58 GMT""},{""version"":""v2"",""created"":""Mon, 17 May 1993 15:59:21 GMT""}]","2009-10-22"

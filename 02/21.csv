@@ -1,0 +1,66 @@
+"cond-mat/9302033","V. Privman","P. Nielaba, V. Privman, J.-S. Wang","Irreversible Multilayer Adsorption","5 pages (plain LaTeX)","Computer Simulation Studies in Condensed-Matter Physics VI, edited
+  by D. P. Landau, K. K. Mon, and H.-B. Schuettler, Springer Proceedings in
+  Physics, Vol. 76, Pages 143-147 (Springer, Berlin, 1993)","10.1007/978-3-642-78448-4_13","VP-118","cond-mat",,"  Random sequential adsorption (RSA) models have been studied due to their
+relevance to deposition processes on surfaces. The depositing particles are
+represented by hard-core extended objects; they are not allowed to overlap.
+Numerical Monte Carlo studies and analytical considerations are reported for 1D
+and 2D models of multilayer adsorption processes. Deposition without screening
+is investigated, in certain models the density may actually increase away from
+the substrate. Analytical studies of the late stage coverage behavior show the
+crossover from exponential time dependence for the lattice case to the power
+law behavior in the continuum deposition. 2D lattice and continuum simulations
+rule out some ""exact"" conjectures for the jamming coverage. For the deposition
+of dimers on a 1D lattice with diffusional relaxation we find that the limiting
+coverage (100%) is approached according to the ~1/t**0.5 power-law preceded,
+for fast diffusion, by the mean-field crossover regime with the intermediate
+~1/t behavior. In case of k-mer deposition (k>3) with diffusion the void
+fraction decreases according to the power-law t**[-1/(k-1)]. In the case of RSA
+of lattice hard squares in 2D with diffusional relaxation the approach to the
+full coverage is ~t**(-0.5).
+","[{""version"":""v1"",""created"":""Sat, 20 Feb 1993 23:02:54 GMT""}]","2016-07-12"
+"gr-qc/9302026","Ranjeet S. Tate","Abhay Ashtekar, Ranjeet S. Tate and Claes Uggla","Minisuperspaces: Symmetries and Quantization","14 pages",,,"Syracuse University preprint SU-GP-92/2-5","gr-qc",,"  In several of the class A Bianchi models, minisuperspaces admit symmetries.
+It is pointed out that they can be used effectively to complete the Dirac
+quantization program. The resulting quantum theory provides a useful platform
+to investigate a number of conceptual and technical problems of quantum
+gravity.
+","[{""version"":""v1"",""created"":""Sun, 21 Feb 1993 07:47:14 GMT""}]","2007-05-23"
+"gr-qc/9302027","Ranjeet S. Tate","Abhay Ashtekar, Ranjeet S. Tate and Claes Uggla","Minisuperspaces: Observables and Quantization","34 pages","Int.J.Mod.Phys.D2:15-50,1993","10.1142/S0218271893000039","Syracuse University preprint SU-GP-92/2-6","gr-qc",,"  A canonical transformation is performed on the phase space of a number of
+homogeneous cosmologies to simplify the form of the scalar (or, Hamiltonian)
+constraint. Using the new canonical coordinates, it is then easy to obtain
+explicit expressions of Dirac observables, i.e.\ phase space functions which
+commute weakly with the constraint. This, in turn, enables us to carry out a
+general quantization program to completion. We are also able to address the
+issue of time through ``deparametrization'' and discuss physical questions such
+as the fate of initial singularities in the quantum theory. We find that they
+persist in the quantum theory {\it inspite of the fact that the evolution is
+implemented by a 1-parameter family of unitary transformations}. Finally,
+certain of these models admit conditional symmetries which are explicit already
+prior to the canonical transformation. These can be used to pass to quantum
+theory following an independent avenue. The two quantum theories --based,
+respectively, on Dirac observables in the new canonical variables and
+conditional symmetries in the original ADM variables-- are compared and shown
+to be equivalent.
+","[{""version"":""v1"",""created"":""Sun, 21 Feb 1993 07:47:45 GMT""}]","2009-07-10"
+"hep-ph/9302283",,"M.C. Gonzalez-Garcia, F. Halzen, R.A. Vazquez, and E Zas","Empirical Determination of the Very High Energy Heavy Quark Cross
+  Section from Non-Accelerator Data","(8 pages, latex file, 3 figures available upon request) MAD/PH/740","Phys.Rev. D49 (1994) 2310-2315","10.1103/PhysRevD.49.2310",,"hep-ph",,"  To cosmic rays incident near the horizon the Earth's atmosphere represents a
+beam dump with a slant depth reaching 36000~g~cm$^{-2}$ at $90^\circ$. The
+prompt decay of a heavy quark produced by very high energy cosmic ray showers
+will leave an unmistakable signature in this dump. We translate the failure of
+experiments to detect such a signal into an upper limit on the heavy quark
+hadroproduction cross section in the energy region beyond existing
+accelerators. Our results disfavor any rapid growth of the cross section or the
+gluon structure function beyond very conservative estimates based on
+perturbative QCD.
+","[{""version"":""v1"",""created"":""Sat, 20 Feb 1993 20:59:00 GMT""}]","2009-10-22"
+"hep-ph/9302284",,"O.J.P. Eboli, M.C. Gonzalez-Garcia, F. Halzen and D. Zeppenfeld","Measuring the Gamma-Gamma Coupling of the Higgs at Linear Colliders","(Latex file, 5 pages, 3 figures avalaible upon request) MAD/PH/743","Phys.Rev. D48 (1993) 1430-1432","10.1103/PhysRevD.48.1430",,"hep-ph",,"  Observing the production of the Higgs particle in the $\gamma$-$\gamma$ mode
+of a linear $e^+e^-$ collider allows for the measurement of the $H\gamma\gamma$
+coupling. We point out that for the intermediate Higgs mass range this
+measurement is considerably more challenging than previously believed. The $b
+\bar b$ signature receives a large background from the production of heavy
+quark pairs by resolved photons. We quantify the experimental requirements
+needed to make a meaningful measurement in the presence of this background.
+","[{""version"":""v1"",""created"":""Sat, 20 Feb 1993 20:59:00 GMT""}]","2009-10-22"
+"hep-th/9302098","Oleg Mokhov","Oleg Mokhov","On the Squeezed Vacuum States Corresponding to the General Two-Mode
+  Bogolubov Transformation","8 pages, Preprint, Bilkent University",,,,"hep-th cond-mat funct-an math.FA",,"  In this paper the explicit form of the operator of transformation of the
+vacuum states for the general two-mode Bogolubov transformation is found
+","[{""version"":""v1"",""created"":""Sun, 21 Feb 1993 09:47:21 GMT""}]","2008-02-03"

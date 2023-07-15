@@ -1,0 +1,301 @@
+"chao-dyn/9303011","Ronnie Mainieri","Ronnie Mainieri and Robert E. Ecke (Center for Nonlinear Studies, Los
+  Alamos National Laboratory)","Phase shift in experimental trajectory scaling functions","CYCLER Paper 93mar008. LaTeX, LAUR-92-3053. Replaced with a version
+  with all figures",,"10.1016/0375-9601(93)90927-R",,"chao-dyn nlin.CD",,"  For one dimensional maps the trajectory scaling functions is invariant under
+coordinate transformations and can be used to compute any ergodic average. It
+is the most stringent test between theory and experiment, but so far it has
+proven difficult to extract from experimental data. It is shown that the main
+difficulty is a dephasing of the experimental orbit which can be corrected by
+reconstructing the dynamics from several time series. From the reconstructed
+dynamics the scaling function can be accurately extracted.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 00:00:00 GMT""},{""version"":""v2"",""created"":""Wed, 28 Apr 1993 15:30:11 GMT""}]","2009-10-22"
+"comp-gas/9303002","Peter Lomdahl","D. M. Beazley (Center for Nonlinear Studies, LANL) and P. S. Lomdahl
+  (Theoretical Division, LANL)","Message-Passing Multi-Cell Molecular Dynamics on the Connection Machine
+  5","17 pages, Uuencoded compressed PostScript file",,,"LA-UR-92-3158","comp-gas nlin.CG",,"  We present a new scalable algorithm for short-range molecular dynamics
+simulations on distributed memory MIMD multicomputer based on a message-passing
+multi-cell approach. We have implemented the algorithm on the Connection
+Machine 5 (CM-5) and demonstrate that meso-scale molecular dynamics with more
+than $10^8$ particles is now possible on massively parallel MIMD computers.
+Typical runs show single particle update-times of $0.15 \mu s$ in 2 dimensions
+(2D) and approximately $1 \mu s$ in 3 dimensions (3D) on a 1024 node CM-5
+without vector units, corresponding to more than 1.8 GFlops overall
+performance. We also present a scaling equation which agrees well with actually
+observed timings.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 18:43:56 GMT""}]","2008-02-03"
+"cond-mat/9303016","Michael Martin","Michael C. Martin, Daniel Koller and L. Mihaly (Department of Physics,
+  SUNY, Stony Brook)","In-Situ Infrared Transmission Study of Rb- and K-Doped Fullerenes","3 pages, Figure 1 included, 3 more figures available by request.
+  REVTEX v3.0 IRC60DOP","Phys. Rev. B 47, 14607 (1993)","10.1103/PhysRevB.47.14607",,"cond-mat",,"  We have measured the four IR active $C_{60}$ molecular vibrations in
+$M_{x}C_{60}$ $(M = K, Rb)$ as a function of doping $x$. We observe
+discontinuous changes in the vibrational spectra showing four distinct phases
+(presumably $x = 0, 3, 4$, and 6). The $1427cm^{-1}$ and $576cm^{-1}$ modes
+show the largest changes shifting downward in frequency in four steps as the
+doping increases. Several new very weak modes are visible in the $x=6$ phase
+and are possibly Raman modes becoming weakly optically active. We present
+quantitative fits of the data and calculate the electron-phonon coupling of the
+$1427cm^{-1}$ IR mode.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 19:52:50 GMT""}]","2009-10-22"
+"cond-mat/9303017","Martin Plumer","A. Mailhot, M.L. Plumer, and A. Caill\'e","Histogram Monte Carlo study of multicritical behavior in the hexagonal
+  easy-axis Heisenberg antiferromagnet","7 pages (RevTex 3.0), 1 figure available upon request, CRPS-93-12",,"10.1103/PhysRevB.48.15835",,"cond-mat",,"  The results of a detailed histogram Monte-Carlo study of critical-fluctuation
+effects on the magnetic-field temperature phase diagram associated with the
+hexagonal Heisenberg antiferromagnet with weak axial anisotropy are reported.
+The multiphase point where three lines of continuous transitions merge at the
+spin-flop boundary exhibits a structure consistent with scaling theory but
+without the usual umbilicus as found in the case of a bicritical point.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 21:03:11 GMT""}]","2009-10-22"
+"cond-mat/9303018","Fong Liu","Fong Liu and H. Metiu","Dynamics of Phase Separation of Crystal Surfaces","26 pages in Tex, 7 figures (not included), NSF-ITP-93-28",,"10.1103/PhysRevB.48.5808",,"cond-mat",,"  We investigate the dynamical evolution of a thermodynamically unstable
+crystal surface into a hill-and-valley structure. We demonstrate that, for
+quasi one-dimensional ordering, the equation of motion maps exactly to the
+modified Cahn-Hilliard equation describing spinodal decomposition. Orderings in
+two dimensions follow the dynamics of continuum clock models. Our analysis
+emphasizes the importance of crystalline anisotropy and the interaction between
+phase boundaries in controlling the long time dynamics. We establish that the
+hill-and-valley pattern coarsens logarithmically in time for quasi
+one-dimensional orderings. For two-dimensional orderings, a power-law growth
+$L(t)\sim t^n$ of the typical pattern size is attained with exponent $n\approx
+0.23$ and $n\approx 0.13$, for the two ordering mechanisms dominated by
+evaporation-condensation and by surface-diffusion respectively.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 23:15:56 GMT""}]","2009-10-22"
+"cond-mat/9303019","Kim Doochul","Kyung-Hoon Kwon and Doochul Kim","Honeycomb lattice solvable models","25 pages, SNUTP-93-09",,,,"cond-mat hep-th",,"  We construct solvable models on the honeycomb lattice by combining three
+faces of the square lattice solvable models into a hexagon face. These models
+contain two independent, anisotropy controlling, spectral parameters and their
+transfer matrices with different spectral parameters commute with each other.
+At the critical point, the finite-size scaling of the transfer matrix spectrum
+for the honeycomb lattice models is written in terms of the quantities obtained
+from the finite-size scaling of the square lattice solvable models. We study in
+detail the phase transition properties of two models based on the interacting
+hard square model and the magnetic hard square model, respectively. The models,
+in general, can be extended to the IRF version of the Z-invariant models of
+Baxter.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 04:24:38 GMT""}]","2007-05-23"
+"gr-qc/9303013",,"Jean-paul Berthias and Bahman Shahid-Saless","Torsion and Nonmetricity in Scalar-Tensor Theories of Gravity","10 pages","Class.Quant.Grav.10:1039-1044,1993","10.1088/0264-9381/10/5/020",,"gr-qc",,"  We show that the gravitational field equations derived from an action
+composed of i) an arbitrary function of the scalar curvature and other scalar
+fields plus ii) connection-independent kinetic and source terms, are identical
+whether one chooses nonmetricity to vanish and have non-zero torsion or vice
+versa.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 18:27:17 GMT""}]","2010-04-06"
+"gr-qc/9303014",,"Istvan Racz","Maxwell Fields in Spacetimes Admitting Non-Null Killing Vectors","7 pages,PACS numbers: 04.20.Cv, 04.20.Me, 04.40.+c","Class.Quant.Grav.10:L167-L172,1993","10.1088/0264-9381/10/9/010",,"gr-qc",,"  We consider source-free electromagnetic fields in spacetimes possessing a
+non-null Killing vector field, $\xi^a$. We assume further that the
+electromagnetic field tensor, $F_{ab}$, is invariant under the action of the
+isometry group induced by $\xi^a$. It is proved that whenever the two
+potentials associated with the electromagnetic field are functionally
+independent the entire content of Maxwell's equations is equivalent to the
+relation $\n^aT_{ab}=0$. Since this relation is implied by Einstein's equation
+we argue that it is enough to solve merely Einstein's equation for these
+electrovac spacetimes because the relevant equations of motion will be
+satisfied automatically. It is also shown that for the exceptional case of
+functionally related potentials $\n^aT_{ab}=0$ implies along with one of the
+relevant equations of motion that the complementary equation concerning the
+electromagnetic field is satisfied.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 15:24:01 GMT""}]","2010-04-06"
+"hep-lat/9303005",,"Yigal Shamir","Chiral Fermions from Lattice Boundaries","19 pages, LATEX, WIS-93/20/FEB-PH","Nucl.Phys. B406 (1993) 90-106","10.1016/0550-3213(93)90162-I",,"hep-lat hep-ph",,"  We construct a model in which four dimensional chiral fermions arise on the
+boundaries of a five dimensional lattice with free boundary conditions in the
+fifth direction. The physical content is similar to Kaplan's model of domain
+wall fermions, yet the present construction has several technical advantages.
+We discuss some aspects of perturbation theory, as well as possible
+applications of the model both for lattice QCD and for the on-going attempts to
+construct a lattice chiral gauge theory.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 10:47:07 GMT""}]","2009-10-22"
+"hep-ph/9303235","Kurt Langfeld","K. Langfeld, L.v. Smekal, H. Reinhardt","The Non-Trivial Phase of $\PHI ^4$-Theory in a Renormalisation Group
+  Invariant Approach","11 LaTex pages (2 figures available on request), UNITUE-THEP-2-1993","Phys.Lett. B308 (1993) 279-285","10.1016/0370-2693(93)91285-U",,"hep-ph",,"  Massless $\phi^{4}$-theory is investigated in zero and four space-time
+dimensions. Path-integral linearisation of the $\phi ^{4}$-interaction defines
+an effective theory, which is investigated in a loop-expansion around the mean
+field. In zero dimensions this expansion converges rapidly to the exact
+potential obtained numerically. In four dimensions its lowest order (mean-field
+approximation) produces a real and convex effective potential. Two phases are
+found. In one the renormalisation group improved one-loop effective potential
+is recovered as the leading contribution near the classical minimum. This
+phase, however, is unstable. The second (precarious) phase is found to have
+lower vacuum energy density. In this phase a dynamical mass is generated. The
+results are renormalisation group invariant.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 16:11:42 GMT""}]","2009-10-22"
+"hep-ph/9303236","Geert Jan van Oldenborgh","Andre Aeppli, Frank Cuypers and Geert Jan van Oldenborgh","$\order(\Gamma)$ Corrections to $W$ pair production in $e^+e^-$ and
+  $\gamma\gamma$ collisions","9 pages plus 6 with figures (.uu at end, also available with
+  anonymous ftp from pss058.psi.ch [129.129.40.58]), LaTeX, LMU-21/92,
+  PSI-PR-93-05, TTP92-36","Phys.Lett. B314 (1993) 413-420","10.1016/0370-2693(93)91259-P",,"hep-ph",,"  Several schemes to introduce finite width effects to reactions involving
+unstable elementary particles are given and the differences between them are
+investigated. The effects of the different schemes is investigated numerically
+for $W$ pair production. In $e^+e^-\to W^+W^-$ we find that the effect of the
+non-resonant graphs cannot be neglected for $\sqrt{s}\geq400\GeV$. There is no
+difference between the various schemes to add these to the resonant graphs away
+from threshold, although some violate gauge invariance. On the other hand, in
+the reaction $\gamma\gamma\to W^+W^-$ the effect of the non-resonant graphs is
+large everywhere, due to the $t$-channel pole. However, even requiring that the
+outgoing lepton is observable ($p_\perp > .02\sqrt{s}$) reduces the
+contribution to about 1\%. Again, the scheme dependence is negligible here.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 22:27:42 GMT""},{""version"":""v2"",""created"":""Wed, 10 Mar 1993 07:38:30 GMT""}]","2009-10-22"
+"hep-ph/9303237",,"Vittorio Del Duca, Michael E. Peskin and Wai-Keung Tang","Computation of Mini-Jet Inclusive Cross Sections","13 pages","Phys.Lett. B306 (1993) 151-157","10.1016/0370-2693(93)91153-E",,"hep-ph",,"  We apply the theory of parton-parton total cross sections at large ``s"", due
+to Lipatov and collaborators, to compute the inclusive cross section for jets
+which accompany a large ``s"" parton scattering process.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 22:56:00 GMT""}]","2009-10-22"
+"hep-ph/9303238","David London","Helene Nadeau and David London","Leptoquarks at $e\gamma$ Colliders","11 pages, 6 figures available by request to DL, to be published in
+  Phys. Rev. D, Plain TeX, UdeM-LPN-TH-132","Phys.Rev. D47 (1993) 3742-3749","10.1103/PhysRevD.47.3742",,"hep-ph",,"  We consider single production of leptoquarks (LQ's) at $e\gamma$ colliders,
+for two values of the centre-of-mass energy, $\sqrt{s}=500$ GeV and 1 TeV. LQ's
+with masses essentially up to the kinematic limit can be seen, even for
+couplings as weak as $O(10^{-3})$-$O(10^{-2})\alpha_{em}$. It is possible to
+detect LQ's of mass greater than $\sqrt{s}$ by looking for signals of virtual
+LQ production in $e\gamma\to e q{\overline q}$.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 15:34:27 GMT""}]","2009-10-22"
+"hep-th/9303052","Hector DE Vega","C. Destri and H. J. de Vega","Yang--Baxter symmetry in integrable models: new light from the Bethe
+  Ansatz solution","30 pages","Nucl.Phys.B406:566-594,1993","10.1016/0550-3213(93)90002-7","LPTHE-PAR 93/07","hep-th nlin.SI solv-int",,"  We show how any integrable 2D QFT enjoys the existence of infinitely many
+non--abelian {\it conserved} charges satisfying a Yang--Baxter symmetry
+algebra. These charges are generated by quantum monodromy operators and provide
+a representation of $q-$deformed affine Lie algebras. We review and generalize
+the work of de Vega, Eichenherr and Maillet on the bootstrap construction of
+the quantum monodromy operators to the sine--Gordon (or massive Thirring)
+model, where such operators do not possess a classical analogue. Within the
+light--cone approach to the mT model, we explicitly compute the eigenvalues of
+the six--vertex alternating transfer matrix $\tau(\l)$ on a generic physical
+state, through algebraic Bethe ansatz. In the thermodynamic limit $\tau(\l)$
+turns out to be a two--valued periodic function. One determination generates
+the local abelian charges, including energy and momentum, while the other
+yields the abelian subalgebra of the (non--local) YB algebra. In particular,
+the bootstrap results coincide with the ratio between the two determinations of
+the lattice transfer matrix.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 16:15:19 GMT""}]","2011-07-19"
+"hep-th/9303054","Arkady Tseytlin","A.A. Tseytlin","Two-dimensional conformal sigma models and exact string solutions","20 pages, harvmac, CERN-TH.6820/93","in: From superstrings to supergravity, Proc. of26th Eloisatron
+  Workshop From superstrings to supergravity, Erice 5-12 Dec.1992, ed. by M.
+  Duff, S. Ferrara and R. Khuri, World Scientific, 1994, p.3",,,"hep-th",,"  We discuss two classes of exact (in $\a'$) string solutions described by
+conformal sigma models. They can be viewed as two possibilities of constructing
+a conformal model out of the non-conformal one based on the metric of a
+$D$-dimensional homogeneous $G/H$ space. The first possibility is to introduce
+two extra dimensions (one space-like and one time-like) and to impose the null
+Killing symmetry condition on the resulting $2+D$ dimensional metric. In the
+case when the ``transverse"" model is $n=2$ supersymmetric and the $G/H$ space
+is K\""ahler-Einstein the resulting metric-dilaton background can be found
+explicitly. The second possibility - which is realised in the sigma models
+corresponding to $G/H$ conformal theories - is to deform the metric,
+introducing at the same time a non-trivial dilaton and antisymmetric tensor
+backgrounds. The expressions for the metric and dilaton in this case are
+derived using the operator approach in which one identifies the equations for
+marginal operators of conformal theory with the linearised (near a background)
+expressions for the `$\b$-functions'. Equivalent results are then reproduced in
+the direct field-theoretical approach based on computing first the effective
+action of the $G/H$ gauged WZW model and then solving for the $2d$ gauge field.
+Both the bosonic and the supersymmetric cases are discussed. ( To be published
+in the Proceedings of the 26 Workshop ``From Superstrings to Supergravity"",
+Erice, 5-12 December,1992.)
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 22:19:37 GMT""}]","2007-05-23"
+"hep-th/9303055","Rajamani Narayanan","Joe Kiskis, Rajamani Narayanan, Pavlos Vranas","The Hausdorff dimension of random walks and the correlation length
+  critical exponent in Euclidean field theory","11 pages (plain TeX)",,"10.1007/BF01054349","UCD-93-06, RU-93-09, FSU-SCRI-93-37","hep-th",,"  We study the random walk representation of the two-point function in
+statistical mechanics models near the critical point. Using standard scaling
+arguments we show that the critical exponent $\nu$ describing the vanishing of
+the physical mass at the critical point is equal to $\nu_\theta/ d_w$. $d_w$ is
+the Hausdorff dimension of the walk. $\nu_\theta$ is the exponent describing
+the vanishing of the energy per unit length of the walk at the critical point.
+For the case of O(N) models, we show that $\nu_\theta=\varphi$, where $\varphi$
+is the crossover exponent known in the context of field theory. This implies
+that the Hausdorff dimension of the walk is $\varphi/\nu$ for O(N) models.
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 22:05:01 GMT""}]","2009-10-22"
+"hep-th/9303056",,"Gordon W. Semenoff and Nathan Weiss","Symmetry and Observables in Induced QCD","20 pages, UBC-TP93-004",,,,"hep-th hep-lat",,"  We review some of the basic features of the Kazakov-Migdal model of induced
+QCD. We emphasize the role of $Z_N$ symmetry in determining the observable
+properties of the model and also argue that it can be broken explicitly without
+ruining the solvability of induced QCD in the infinite $N$ limit. We outline
+the sort of critical behavior which the master field must have in order that
+the model is still solvable. We also review some aspects of the $D=1$ version
+of the model where the partition function can be obtained analytically. To be
+published in the Proceedings of ""Mathematical Physics, String Theory and
+Quantum Gravity"", Rhakov, Ukraine. October, 1992
+","[{""version"":""v1"",""created"":""Tue, 9 Mar 1993 23:15:00 GMT""}]","2007-05-23"
+"hep-th/9303057","Ashoke Sen","Ashoke Sen","Magnetic Monopoles, Bogomol'nyi Bound and SL(2,Z) Invariance in String
+  Theory","16 pages, phyzzx.tex, NSF-ITP-93-29 (Minor additions have been made
+  in the set of eqs.(4).)","Mod.Phys.Lett.A8:2023-2036,1993","10.1142/S0217732393001732",,"hep-th",,"  We show that in heterotic string theory compactified on a six dimensional
+torus, the lower bound (Bogomol'nyi bound) on the dyon mass is invariant under
+the SL(2,Z) transformation that interchanges strong and weak coupling limits of
+the theory. Elementary string excitations are also shown to satisfy this lower
+bound. Finally, we identify specific monopole solutions that are related via
+the strong-weak coupling duality transformation to some of the elementary
+particles saturating the Bogomol'nyi bound, and these monopoles are shown to
+have the same mass and degeneracy of states as the corresponding elementary
+particles.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 00:37:04 GMT""},{""version"":""v2"",""created"":""Wed, 31 Mar 1993 21:52:42 GMT""}]","2009-09-15"
+"hep-th/9303058","Alexander Sevrin","A. Sevrin and P. van Nieuwenhuizen","Quantum gauging from classical gauging of nonlinear algebras","16 pages, LaTeX, ITP-SB-92-67, LBL-33339, UCB-PTH-92/43","Phys.Rev.D48:1768-1773,1993","10.1103/PhysRevD.48.1768",,"hep-th",,"  We extend the theory of the gauging of classical quadratically nonlinear
+algebras without a central charge but with a coset structure, to the quantum
+level. Inserting the minimal anomalies into the classical transformation rules
+of the currents introduces further quantum corrections to the classical
+transformation rules of the gauge fields and currents which additively
+renormalize the structure constants. The corresponding Ward identities are the
+c -> infinity limit of the full quantum Ward identities, and reveal that the c
+-> infinity limit of the quantum gauge algebra closes on fields and currents.
+Two examples are given.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 01:22:49 GMT""}]","2011-07-19"
+"hep-th/9303059","Nemanja Kaloper","Nemanja Kaloper","Exact Primordial Black Strings in Four Dimensions","11 pages plain TeX, Univ. of Alberta preprint Alberta-THY-14-1993","Phys.Rev. D48 (1993) 4658-4661","10.1103/PhysRevD.48.4658",,"hep-th gr-qc",,"  A solution of effective string theory in four dimensions is presented which
+admits interpretation of a rotating black cosmic string. It is constructed by
+tensoring the three dimensional black hole, extended with the Kalb-Ramond
+axion, with a flat direction. The physical interpretation of the solution is
+discussed, with special attention on the axion, which is found to play a role
+very similar to a Higgs field. Finally, it is pointed out that the solution
+represents an exact WZWN $\sigma$ model on the string world sheet, to all
+orders in the inverse string tension $\alpha'$.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 06:54:49 GMT""}]","2009-10-22"
+"hep-th/9303060","Faraggi Alon","Alon E. Faraggi and Edi Halyo","Neutrino Masses in Superstring Derived Standard--like Models","SSCL--Preprint--193","Phys.Lett.B307:311-317,1993","10.1016/0370-2693(93)90226-8",,"hep-th",,"  We propose a new scenario in a class of superstring derived standard--like
+models that explains the suppression of the left--handed neutrino masses. Due
+to nonrenormalizable terms and the breaking of the $U(1)_{Z^\prime}$ symmetry a
+generalized see--saw mechanism takes place. Contrary to the traditional
+see--saw mechanism in GUTs, the see--saw scale and the right--handed neutrino
+mass scale are suppressed relative to the $U(1)_{Z^\prime}$ breaking scale.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 10:07:30 GMT""}]","2011-02-09"
+"hep-th/9303061",,"Andrei Bytsenko, Klaus Kirsten, Sergei Odintsov","Self-interacting scalar fields on spacetime with compact hyperbolic
+  spatial part","11 pages, LaTex, UTF 287","Mod.Phys.Lett.A8:2011-2022,1993","10.1142/S0217732393001720",,"hep-th",,"  We calculate the one-loop effective potential of a self-interacting scalar
+field on the spacetime of the form $\reals^2\times H^2/\Gamma$. The Selberg
+trace formula associated with a co-compact discrete group $\Gamma$ in
+$PSL(2,\reals )$ (hyperbolic and elliptic elements only) is used. The closed
+form for the one-loop unrenormalized and renormalized effective potentials is
+given. The influence of non-trivial topology on curvature induced phase
+transitions is also discussed.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 12:52:11 GMT""}]","2009-09-17"
+"hep-th/9303062",,"Parentani Renaud","The Energy-Momentum Tensor in Fulling-Rindler Vacuum","9 pages, ULB-TH-15/92","Class.Quant.Grav.10:1409-1416,1993","10.1088/0264-9381/10/7/016",,"hep-th",,"  The energy density in Fulling-Rindler vacuum, which is known to be negative
+""everywhere"" is shown to be positive and singular on the horizons in such a
+fashion as to guarantee the positivity of the total energy. The mechanism of
+compensation is displayed in detail.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 12:14:00 GMT""}]","2010-04-06"
+"hep-th/9303063","Constantin Bachas","C.Bachas","Schwinger Effect in String Theory","3p. LATEX , Talk at Rome Workshop on Quantum Gravity, String Theory
+  and Grand Unification, Ecole Polytechnique preprint A232.0393 (Previous
+  submission corrupted by mailer)",,,,"hep-th",,"  I discuss the quantum instability of an electric field in a theory of open
+strings.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 13:07:49 GMT""},{""version"":""v2"",""created"":""Tue, 16 Mar 1993 11:23:42 GMT""}]","2008-02-03"
+"hep-th/9303064",,"E.Aldrovandi and L.Bonora","Liouville and Toda field theories on Riemann surfaces","41 pages, LaTeX, SISSA-ISAS 27/93/EP","J. Geom. Phys. 14 (1994) 65-109","10.1016/0393-0440(94)90054-X",,"hep-th",,"  We study the Liouville theory on a Riemann surface of genus g by means of
+their associated Drinfeld--Sokolov linear systems. We discuss the cohomological
+properties of the monodromies of these systems. We identify the space of
+solutions of the equations of motion which are single--valued and local and
+explicitly represent them in terms of Krichever--Novikov oscillators. Then we
+discuss the operator structure of the quantum theory, in particular we
+determine the quantum exchange algebras and find the quantum conditions for
+univalence and locality. We show that we can extend the above discussion to
+$sl_n$ Toda theories.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 13:47:36 GMT""}]","2009-10-22"
+"hep-th/9303065","Alvarez","E. Alvarez, J.Cespedes and E. Verdaguer","Quantum properties of the polytopic action in some simple geometries","14pp,FTUAM 92/42;UABFT 303","Phys.Lett. B304 (1993) 225-234","10.1016/0370-2693(93)90287-R",,"hep-th",,"  The partition function corresponding to the ""polytopic"" action, a new action
+for the gravitational interaction which we have proposed recently, is computed
+in the simplest two-dimensional geometries of genus zero and one. The
+functional integral over the Liouville field is approximated by an ordinary
+integral over the constant zero mode. We study the dependence on both the
+coupling constant and the cosmological constant, and compare with recent
+scaling results in standard 2D quantum gravity.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 13:59:43 GMT""}]","2019-08-17"
+"hep-th/9303066","Pavel Etingof","Pavel Etingof","Quantum Knizhnik-Zamolodchikov equations and holomorphic vector bundles","23 pages, no figures",,,,"hep-th math.QA",,"  The paper introduces a new geometric interpretation of the quantum
+Knizhnik-Zamolodchikov equations introduced in 1991 by I.Frenkel and
+N.Reshetikhin. It turns out that these equations can be linked to certain
+holomorphic vector bundles on the N-th Cartesian power of an elliptic curve.
+These bundles are naturally constructed by a gluing procedure from a system of
+trigonometric quantum affine $R$-matrices. Meromorphic solutions of the quantum
+KZ equations are interpreted as sections of such a bundle. This interpretation
+is an analogue of the interpretation of solutions of the classical KZ equations
+as sections of a flat vector bundle. Matrix elements of intertwiners between
+representations of the quantum affine algebra correspond to regular
+(holomorphic) sections. The vector bundle obtained from the quantum KZ system
+is topologically nontrivial. Its topology can be completely described in terms
+of crystal bases, using the crystal limit ``q goes to 0''. In the case N=2,
+this bundle is is essentially a bundle on an elliptic curve which is shown to
+be semistable (for the case of quantum sl(2)) if the parameters take generic
+values. The proof makes use of the crystal limit ``q goes to 0''. Finally, we
+give a vector bundle interpretation of the generalized quantum KZ equations for
+arbitrary affine root systems defined recently by Cherednik.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 14:50:26 GMT""}]","2008-02-03"
+"hep-th/9303067",,"Keke Li and Edward Witten","Role of Short Distance Behavior in Off-Shell Open-String Field Theory","16 pages","Phys.Rev.D48:853-860,1993","10.1103/PhysRevD.48.853","IASSNS-HEP-93/7","hep-th",,"  A recent proposal for a background independent open string field theory is
+studied in detail for a class of backgrounds that correspond to general
+quadratic boundary interactions on the world-sheet. A short-distance cut-off is
+introduced to formulate the theory with a finite number of local and
+potentially unrenormalizable boundary couplings. It is shown that
+renormalization of the boundary couplings makes both the world-sheet partition
+function and the string field action finite and cut-off independent, although
+the resulting string field action has an unpalatable dependence on the leading
+unrenormalizable coupling.
+","[{""version"":""v1"",""created"":""Wed, 10 Mar 1993 15:30:00 GMT""}]","2010-04-07"

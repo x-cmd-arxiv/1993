@@ -1,0 +1,274 @@
+"chao-dyn/9307011","Ga'bor Vattay","N.J. BALMFORTH (Astronomy Department,Columbia University),
+  P.CVITANOVIC (Niels Bohr Institute), G.R. IERLEY (Scripps Institute of
+  Oceanography, UCSD), E.A. SPIEGEL (Astronomy Department, Columbia) G.VATTAY
+  (Niels Bohr Institute)","Advection of vector fields by chaotic flows","12 pages, Latex. Ask for figures from vattay@nbivax.nbi.dk","Annals of New York Academy of Sciences 706, 148 (1993)","10.1111/j.1749-6632.1993.tb24687.x",,"chao-dyn cond-mat nlin.CD",,"  We have introduced a new transfer operator for chaotic flows whose leading
+eigenvalue yields the dynamo rate of the fast kinematic dynamo and applied
+cycle expansion of the Fredholm determinant of the new operator to evaluation
+of its spectrum. The theory hs been tested on a normal form model of the vector
+advecting dynamical flow. If the model is a simple map with constant time
+between two iterations, the dynamo rate is the same as the escape rate of
+scalar quantties. However, a spread in Poincar\'e section return times lifts
+the degeneracy of the vector and scalar advection rates, and leads to dynamo
+rates that dominate over the scalar advection rates. For sufficiently large
+time spreads we have even found repellers for which the magnetic field grows
+exponentially, even though the scalar densities are decaying exponentially.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 22:26:54 GMT""}]","2009-10-22"
+"chao-dyn/9307012","Ga'bor Vattay","Predrag Cvitanovi\'c and G\'abor Vattay (Niels Bohr Institute)","Entire Fredholm determinants for Evaluation of Semi-classical and
+  Thermodynamical Spectra","4 pages, Revtex + one PS figure attached to the end of the text cut
+  before you run revtex!","Phys. Rev. Lett. 71, 4138 (1993)","10.1103/PhysRevLett.71.4138",,"chao-dyn nlin.CD",,"  Proofs that Fredholm determinants of transfer operators for hyperbolic flows
+are entire can be extended to a large new class of multiplicative evolution
+operators. We construct such operators both for the Gutzwiller semi-classical
+quantum mechanics and for classical thermodynamic formalism, and introduce a
+new functional determinant which is expected to be entire for Axiom A flows,
+and whose zeros coincide with the zeros of the Gutzwiler-Voros zeta function.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 22:38:17 GMT""}]","2009-10-22"
+"chao-dyn/9307013","Ga'bor Vattay","A. Csord\'as (Research Institute for Solid State Physics) R. Graham
+  (Universitat Essen) P. Sz\'epfalusy (Institute of Solid State Physics, Eotvos
+  University, and Research Institute for Solid State Physics) and G. Vattay
+  (Institute of Solid State Physics, Eotvos University)","Transition from Poissonian to GOE level statistics in a modified Artin's
+  billiard",,"Phys. Rev. E 48, 325 (1994)","10.1103/PhysRevE.49.325",,"chao-dyn cond-mat nlin.CD",,"  One wall of Artin's billiard on the Poincar\'e half plane is replaced by a
+one-parameter ($c_p$) family of nongeodetic walls. A brief description of the
+classical phase space of this system is given. In the quantum domain, the
+continuousand gradual transition from the Poisson like to GOE level statistics
+due to the small perturbations breaking the symmetry responsible for the
+'arithmetic chaos' at $c_p=1$ is studied. Another GOE $\rightrrow$ Poisson
+transition due to the mixed phase space for large perturbations is also
+investigated. A satisfactory description of the intermediate level statistics
+by the Brody distribution was found in boh cases. The study supports the
+existence of a scaling region around $c_p=1$. A finite size scaling relation
+for the Brody-parameter as a function of $1-c_p$ and the number of levels
+considered can be established.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 23:05:19 GMT""},{""version"":""v2"",""created"":""Wed, 5 Nov 1997 13:21:57 GMT""}]","2009-10-22"
+"chao-dyn/9307014","Ga'bor Vattay","Predrag Cvitanovi\'c, Per E. Rosenqvist, G\'abor Vattay (Niels Bohr
+  Institute, Copenhagen, Denmark) and Hans Henrik Rugh (Unit\'e de
+  Math\'ematiques Pures et Appliqu\'ees, Ecole Normale Sup\'erieure de Lyon,
+  France)","A Fredholm Determinant for Semi-classical Quantization","Revtex, Ask for figures from vattay@nbivax.nbi.dk","CHAOS 3 (4), 619 (1993)","10.1063/1.165992",,"chao-dyn nlin.CD",,"  We investigate a new type of approximation to quantum determinants, the
+``\qFd"", and test numerically the conjecture that for Axiom A hyperbolic flows
+such determinants have a larger domain of analyticity and better convergence
+than the \qS s derived from the \Gt. The conjecture is supported by numerical
+investigations of the 3-disk repeller, a normal-form model of a flow, and a
+model 2-$d$ map.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 23:19:23 GMT""}]","2009-10-22"
+"hep-lat/9307018","Jesus Salas","O. Diego, J. Gonzalez and J. Salas","""The Ising model on spherical lattices: dimer versus Monte Carlo
+  approach""","25 pages + 6 figures not included. Latex file. FTUAM 93-27","J.Phys. A27 (1994) 2965-2983","10.1088/0305-4470/27/9/013",,"hep-lat hep-th",,"  We study, using dimer and Monte Carlo approaches, the critical properties and
+finite size effects of the Ising model on honeycomb lattices folded on the
+tetrahedron. We show that the main critical exponents are not affected by the
+presence of conical singularities. The finite size scaling of the position of
+the maxima of the specific heat does not match, however, with the scaling of
+the correlation length, and the thermodynamic limit is attained faster on the
+spherical surface than in corresponding lattices on the torus.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 10:34:54 GMT""}]","2009-10-22"
+"hep-lat/9307019","Kenton Yee","Ken Yee, Lsu","Towards an Abelian Formulation of Lattice QCD Confinement","1+11 pages, fixed minor postscript error","Phys.Rev. D49 (1994) 2574-2577","10.1103/PhysRevD.49.2574","LSUHEP-444-93","hep-lat hep-ph",,"  We probe for operators occurring in the APQCD(``abelian-projected QCD'')
+action by evaluating abelian-projected $1$-plaquette spectral densities in pure
+gauge $SU(3)$ fixed to maximal abelian gauge. Couplings $B_{APQCD}(q,L)$ are
+extracted from the spectral densities for each representation $q$, $L\times L$
+plaquette. While APQCD is dominated by a $q=L=1$ resonance, we also find
+evidence for weakly coupled $L=2$ plaquettes. Moreover, since $B_{APQCD}(1,1) >
+B_{QED}(1,1)$ even if $\beta_{QED} > \beta_c$, $L>1$ plaquettes must be
+significant since APQCD is confining.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 12:03:51 GMT""},{""version"":""v2"",""created"":""Wed, 28 Jul 1993 11:10:45 GMT""}]","2009-10-22"
+"hep-ph/9307334","Jukka Sirkka","J. Sirkka and I. Vilja","Unitarity of the Standard Model at the Higgs' Resonance","6 pages, LaTeX, figures available upon request, TURKU-FL-P9","Phys.Lett. B316 (1993) 355-359","10.1016/0370-2693(93)90337-H",,"hep-ph",,"  We compute a unitarity bound for higgs mass using one--loop corrected s--wave
+partial amplitude for $Z_L Z_L \rightarrow Z_L Z_L$ scattering. We use the
+equivalence theorem and show that the higgs mass has to be less than $\approx
+600$ GeV in order to save the (perturbative) unitarity in the higgs' resonance
+region. We also discuss about the validity of perturbation expansion in the
+symmetry breaking sector.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 16:45:00 GMT""}]","2009-10-22"
+"hep-ph/9307335",,"T.S.Evans","Thermal Bubble Diagrams Near Zero Energy","13 pages, LaTeX (3 PS figures appended), Imperial/TP/92-93/45",,,,"hep-ph",,"  The zero four-momentum and equal mass limits are taken for the bubble diagram
+of scalar fields. It is seen that RTF and ITF are in complete agreement.
+However contributions from this diagram to both retarded and time-ordered
+functions do depend on the order of the limits and can be infinite in some
+cases. This shows explicitly that the relation between the free energy and a
+derivative expansion of a thermal effective action is generally much more
+complicated that is the case at zero temperature.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 16:08:55 GMT""}]","2007-05-23"
+"hep-ph/9307336","Chengqian Gong","C. Greiner, C. Gong and B. M\""uller","Some remarks on pion condensation in relativistic heavy ion collisions","9pp, DUKE-TH-93-53","Phys.Lett.B316:226-230,1993","10.1016/0370-2693(93)90317-B",,"hep-ph",,"  Recently it was pointed out that coherent or condensated states of pions may
+account for the explanation of the Centauro events observed in cosmic ray
+showers. We argue that an occurrence of condensed pions requires that the
+system evolves far out of thermal equilibrium. Besides an unusual charge ratio
+distribution we show that such a produced state also would lead to strong
+isospin correlations.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 17:21:30 GMT""},{""version"":""v2"",""created"":""Wed, 28 Jul 1993 16:49:31 GMT""}]","2008-11-26"
+"hep-ph/9307337",,"C.P.Burgess, S.Godfrey, H.Konig, D.London, I.Maksymyk","A Global Fit to Extended Oblique Parameters","Plain TeX, 11 pages, one figure (ps file enclosed), (replaced version
+  corrects minor TeX problem, text unchanged) UdeM-LPN-TH-93-166, McGill-93/24,
+  OCIP/C-93-9","Phys. Lett. B326 (1994) 276-281","10.1016/0370-2693(94)91322-6",,"hep-ph",,"  The STU formalism of Peskin and Takeuchi is an elegant method for encoding
+the measurable effects of new physics which couples to light fermions
+dominantly through its effects on electroweak boson propagation. However, this
+formalism cannot handle the case where the scale of new physics is not much
+larger than the weak scale. In this case three new parameters (V, W and X) are
+required. We perform a global fit to precision electroweak data for these six
+parameters. Our results differ from what is found for just STU. In particular
+we find that the preference for S < 0 is not maintained.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 18:22:56 GMT""},{""version"":""v2"",""created"":""Tue, 27 Jul 1993 16:56:10 GMT""}]","2019-08-17"
+"hep-ph/9307338","Lynne Orr","L.H. Orr, Yu.L. Dokshitzer, V.A. Khoze, and W.J. Stirling","Gluon Radiation and Top Width Effects","UCD-93-23. Numbering of references corrected",,,,"hep-ph",,"  The large width of the top quark influences the way gluons are radiated in
+top events, giving rise to interesting interference effects in top production
+and decay. We discuss top width effects in soft guon radiation in $\ee \to \tt$
+at high energies and near $\tt$ threshold.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 20:09:00 GMT""},{""version"":""v2"",""created"":""Tue, 27 Jul 1993 22:04:00 GMT""}]","2008-02-03"
+"hep-ph/9307339",,"A.Kobushkin and A.Syamtomov","High-$Q^2$ Elastic $ed$-scattering and QCD predictions","6 pages + 2 ps figures not included, LaTeX, ITP-93-33E","Phys.Rev. D49 (1994) 1637-1638","10.1103/PhysRevD.49.1637",,"hep-ph",,"  In the framework of pertubative QCD it is argued that in the elastic
+$ed$-scattering at $Q^{2}\sim$ few $(GeV/c)^{2}$ the light-cone-frame
+helicity-flip amplitudes could not be omitted. The obtained $\frac{B}{A}$ ratio
+of Rosenbluth structure functions is shown to be in a good agreement with
+experimental data. The high $Q^2$ behavior of tensor analysing power $T_{20}$
+is discussed.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 00:56:36 GMT""},{""version"":""v2"",""created"":""Fri, 23 Sep 1994 00:40:08 GMT""}]","2009-10-22"
+"hep-ph/9307340",,"A.C.Bawa, K.Charchula and W.J.Stirling","Photoproduction of large-mass lepton pairs at HERA as a probe of the
+  small $x$ structure of the proton","Latex, 7 pages + 5 figures (not included), DTP/93/44 and
+  UDWPHYS-93-02 preprint","Phys.Lett.B313:461-468,1993","10.1016/0370-2693(93)90020-I",,"hep-ph",,"  The photoproduction of Drell-Yan lepton pairs at HERA is studied. We show
+that in the backward rapidity region the cross section is strongly sensitive to
+the small-$x$ behaviour of the quark distributions in the proton, and that with
+sufficient luminosity it should be possible to distinguish singular $xq \sim
+x^{-1/2}$ behaviour from standard Regge $xq \sim x^0$ behaviour. The effect on
+the event rate of experimental acceptance cuts is studied with the help of a
+Monte Carlo event generator.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 11:32:36 GMT""}]","2011-07-19"
+"hep-ph/9307341","Gideon Lana","Gideon Lana","Bubble-Bubble Interaction in the Quark-Gluon Plasma","18 pages, 4 figures appended as a ps file. Latex file. TAUP 2059-93",,,,"hep-ph",,"  We calculate the two-body interaction of spherical hadronic bubbles immersed
+in a gluon plasma at temperatures above the phase transition. Modeling the
+bubbles with the MIT bag we find that the two body potential is repulsive for
+all bubble-bubble distances considered. This implies that a static
+configuration of spherical hadronic bubbles in a gluon background is consistent
+with the bag model of QCD.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 12:47:28 GMT""}]","2007-05-23"
+"hep-ph/9307342",,"Marc Sher","Precise Vacuum Stability Bound in the Standard Model","9 pages, WM-93-108, in Plain Tex, phyzzx macropackage added at the
+  beginning","Phys.Lett. B317 (1993) 159-163; Addendum-ibid. B331 (1994) 448","10.1016/0370-2693(93)91586-C",,"hep-ph",,"  In the standard model, a lower bound to the Higgs mass (for a given top quark
+mass) exists if one requires that the standard model vacuum be stable. This
+bound is calculated as precisely as possible, including the most recent values
+of the gauge couplings, corrected two-loop beta functions and radiative
+corrections to the Higgs and top masses. In addition to being somewhat more
+precise, this work differs from previous calculations in that the bounds are
+given in terms of the poles of the Higgs and top quark propagators, rather than
+''the MS-bar top quark mass''. This difference can be as large as 6-10 GeV for
+the top mass, which corresponds to as much as 15 GeV for the Higgs mass lower
+bound. Concentrating on the top quark mass region from 130 to 150 GeV, I find
+that for $\alpha_s=0.117$, $$ m_H > 75 {\rm GeV} + 1.64 (m_t - 140 {\rm GeV}).
+$$ This result increases (decreases) by 3 GeV if the strong coupling decreases
+(increases) by 0.007, and is accurate to 2 GeV. If one allows for the standard
+model vacuum to be unstable, then weaker bounds can be obtained.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 12:44:33 GMT""}]","2009-10-22"
+"hep-th/9307155","Coussaert Olivier","G. Barnich, M. Henneaux and R. Tatar","Consistent Interactions between Gauge Fields and Local BRST Cohomology :
+  The Example of Yang-Mills Models","6 pages in LaTeX, ULB-PMIF/9304","Int.J.Mod.Phys.D3:139-144,1994","10.1142/S0218271894000149",,"hep-th",,"  Recent results on the cohomological reformulation of the problem of
+consistent interactions between gauge fields are illustrated in the case of the
+Yang-Mills models. By evaluating the local BRST cohomology through descent
+equation techniques, it is shown (i) that there is a unique local, Poincar\'e
+invariant cubic vertex for free gauge vector fields which preserves the number
+of gauge symmetries to first order in the coupling constant; and (ii) that
+consistency to second order in the coupling constant requires the structure
+constants appearing in the cubic vertex to fulfill the Jacobi identity. The
+known uniqueness of the Yang-Mills coupling is therefore rederived through
+cohomological arguments.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 19:06:23 GMT""}]","2011-04-15"
+"hep-th/9307158","Tomasz Taylor","I. Antoniadis, E. Gava, K.S. Narain and T.R. Taylor","Topological Amplitudes in String Theory","31 pages (LATEX) + 2 figures (available upon request as PS file or
+  hardcopy), NUB-3071 - IC/93/202 - CPTH-A258.0793","Nucl.Phys. B413 (1994) 162-184","10.1016/0550-3213(94)90617-3",,"hep-th",,"  We show that certain type II string amplitudes at genus $g$ are given by the
+topological partition function $F_g$ discussed recently by Bershadsky, Cecotti,
+Ooguri and Vafa. These amplitudes give rise to a term in the four-dimensional
+effective action of the form $\sum_g F_g W^{2g}$, where $W$ is the chiral
+superfield of $N=2$ supergravitational multiplet. The holomorphic anomaly of
+$F_g$ is related to non-localities of the effective action due to the
+propagation of massless states. This result generalizes the holomorphic anomaly
+of the one loop case which is known to lead to non-harmonic gravitational
+couplings.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 16:00:00 GMT""}]","2009-10-22"
+"hep-th/9307159","George Lavrelashvili","George Lavrelashvili and Dieter Maison","Dilatonic Sphalerons and Non-Abelian Black Holes","11 pages, LaTex, MPI-Ph/93-55",,,,"hep-th",,"  We discuss properties and interpretation of recently found globally regular
+and black hole solutions of a Einstein-Yang-Mills-dilaton theory. Talk given at
+the 15th annual MRST meeting on High Energy Physics, Syracuse University, NY,
+May 14-15, 1993.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 19:59:55 GMT""}]","2007-05-23"
+"hep-th/9307160",,"Daniel Cangemi and Martin Leblanc","Two Dimensional Gauge Theoretic Supergravities","17 pages, CTP#2224, UdeM-LPN-TH-93-167, CRM#1897","Nucl.Phys. B420 (1994) 363-378","10.1016/0550-3213(94)90386-7",,"hep-th gr-qc",,"  We investigate two dimensional supergravity theories, which can be built from
+a topological and gauge invariant action defined on an ordinary surface. We
+concentrate on four models. The first model is the $N=1$ supersymmetric
+extension of Jackiw-Teiltelboim model presented by Chamseddine in a superspace
+formalism. We complement the proof of Montano, Aoaki, and Sonnenschein that
+this extension is topological and gauge invariant, based on the graded de
+Sitter algebra. Not only do the equation of motions correspond to the
+supergravity ones and gauge transformations encompass local supersymmetries,
+but also we identify the $\int \langle \eta, F\rangle$-theory with the
+superfield formalism action written by Chamseddine. Next, we show that the
+$N=1$ supersymmetric extension of string inspired two dimensional dilaton
+gravity put forward by Park and Strominger is a theory that satisfies a
+non-vanishing curvature condition and cannot be written as a $\int\langle
+\eta,F\rangle$-theory. As an alternative, we propose two examples of
+topological and gauge invariant theories that are based on graded extension of
+the extended Poincar\'e algebra and satisfy a vanishing curvature condition.
+Both models are interpreted as supersymmetric extensions of the string inspired
+dilaton gravity.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 19:14:11 GMT""}]","2009-10-22"
+"hep-th/9307162",,"Z.Lalak, J.Pawelczyk, S.Pokorski","Phase Transitions in NJL and super-NJL models","LATEX, 1 figure available upon request, 11 pages, TUM-TH-157/93,
+  MPI-Ph/93-42, UW-IFT-10/93",,,,"hep-th hep-ph",,"  An elementary method of determination of the character of the hot phase
+transition in 4d four-fermion NJL-type models is applied to non-supersymmetric
+and supersymmetric versions of simple NJL model. We find that in the non-susy
+case the transition is usually of the second order. It is weakly first order
+only in the region of parameters which correspond to fermion masses comparable
+to the cut-off. In the supersymmetric case both kinds of phase transitions are
+possible. For sufficiently strong coupling and sufficiently large susy-breaking
+scale the transition is always of the first order.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 11:44:27 GMT""}]","2007-05-23"
+"hep-th/9307163",,"O. A. Soloviev","Conformal non-Abelian Thirring models","31 pages, LaTex. QMW 93-19 (some minor changes in sect. 6)",,,,"hep-th",,"  The Lie-Poisson structure of non-Abelian Thirring models is discussed and the
+Hamiltonian quantization of these theories is carried out. The consistency of
+the Hamiltonian quantization with the path integral method is established. It
+is shown that the space of non-Abelian Thirring models contains the
+nonperturbative conformal points which are in one-to-one correspondence with
+general solutions of the Virasoro master equation. A BRST nature of the mastert
+equation is clarified.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 12:43:08 GMT""},{""version"":""v2"",""created"":""Mon, 22 Nov 1993 15:55:09 GMT""},{""version"":""v3"",""created"":""Wed, 24 Nov 1993 12:58:16 GMT""}]","2008-02-03"
+"hep-th/9307164","Wolfram Boenkost","Reinhard H\""aring","Quantum Symmetry","23 pages Institut f\""ur angewandte Mathematik, c/o Lersnerstr. 19,
+  60322 Frankfurt",,,,"hep-th",,"  The representations of the observable algebra of a low dimensional quantum
+field theory form the objects of a braided tensor category. The search for
+gauge symmetry in the theory amounts to finding an algebra which has the same
+representation category. In this paper we try to establish that every quantum
+field theory satisfying some basic axioms posseses a weak quasi Hopf algebra as
+gauge symmetry. The first step is to construct a functor from the
+representation category to the category of finite dimensional vector spaces.
+Given such a functor we can use a generalized reconstruction theorem to find
+the symmetry algebra. It is shown how this symmetry algebra is used to build a
+gauge covariant field algebra and we investigate the question why this
+generality is necessary.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 12:44:38 GMT""},{""version"":""v2"",""created"":""Tue, 12 Oct 1993 09:13:10 GMT""}]","2008-02-03"
+"hep-th/9307165","Paul A. Shah","P.A.Shah and N.S.Manton","Thermodynamics of Vortices in the Plane","17 pages, DAMTP 93-30","J.Math.Phys. 35 (1994) 1171-1184","10.1063/1.530633",,"hep-th",,"  The thermodynamics of vortices in the critically coupled abelian Higgs model,
+defined on the plane, are investigated by placing $N$ vortices in a region of
+the plane with periodic boundary conditions: a torus. It is noted that the
+moduli space for $N$ vortices, which is the same as that of $N$
+indistinguishable points on a torus, fibrates into a $CP_{N-1}$ bundle over the
+Jacobi manifold of the torus. The volume of the moduli space is a product of
+the area of the base of this bundle and the volume of the fibre. These two
+values are determined by considering two 2-surfaces in the bundle corresponding
+to a rigid motion of a vortex configuration, and a motion around a fixed centre
+of mass. The partition function for the vortices is proportional to the volume
+of the moduli space, and the equation of state for the vortices is $P(A-4\pi
+N)=NT$ in the thermodynamic limit, where $P$ is the pressure, $A$ the area of
+the region of the plane occupied by the vortices, and $T$ the temperature.
+There is no phase transition.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 13:27:00 GMT""}]","2009-10-22"
+"hep-th/9307166","Paul Fendley","Paul Fendley and Ken Intriligator","Exact N=2 Landau-Ginzburg Flows","24 pages, BUHEP-93-17, RU-93-29","Nucl.Phys. B413 (1994) 653-674","10.1016/0550-3213(94)90006-X",,"hep-th",,"  We find exactly solvable N=2-supersymmetric flows whose infrared fixed points
+are the N=2 minimal models. The exact S-matrices and the Casimir energy (a
+c-function) are determined along the entire renormalization group trajectory.
+The c-function runs from c=3 (asymptotically) in the UV to the N=2 minimal
+model values of the central charge in the IR, leading us to interpret these
+theories as the Landau-Ginzburg models with superpotential $X^{k+2}$.
+Consideration of the elliptic genus gives further support for this
+interpretation. We also find an integrable model in this hierarchy which has
+spontaneously-broken supersymmetry and superpotential $X$, and a series of
+integrable models with (0,2) supersymmetry. The flows exhibit interesting
+behavior in the UV, including a relation to the N=2 super sine-Gordon model. We
+speculate about the relation between the kinetic term and the cigar
+target-space metric.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 14:50:17 GMT""}]","2009-10-22"
+"hep-th/9307168","Leonard Susskind","L. Susskind","String Theory and the Principle of Black Hole Complementarity","7 pages, SU-ITP-93-18","Phys.Rev.Lett.71:2367-2368,1993","10.1103/PhysRevLett.71.2367",,"hep-th",,"  String theory provides an example of the kind of apparent inconsistency that
+the {\it Principle of Black Hole Complementarity\/} deals with. To a freely
+infalling observer a string falling through a black hole horizon appears to be
+a Planck size object. To an outside observer the string and all the information
+it carries begin to spread as the string approaches the horizon. In a time of
+order the ``information retention time'' it fills the entire area of the
+horizon.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 13:40:01 GMT""}]","2009-10-07"
+"nucl-th/9307025","Kari Eskola","K.J. Eskola, Jianwei Qiu and Xin-Nian Wang","Perturbative Gluon Shadowing in Heavy Nuclei","9 pages in LATEX with 2 postscript figures in a separate uuencoded
+  file, LBL-34156","Phys.Rev.Lett.72:36-39,1994","10.1103/PhysRevLett.72.36",,"nucl-th hep-ph",,"  We study how much gluon shadowing can be perturbatively generated through the
+modified QCD evolution in heavy nuclei. The evolution of small-$x$ gluons is
+investigated within the semiclassical approximation. The method of
+characteristics is used to evaluate the shadowed distributions in low-$Q$ and
+small-$x$ region. In solving the modified evolution equation, we model in
+simultaneously fusions from independent constituents and from the same
+constituent, both in a proton and in a large loosely bound nucleus of $A\sim
+200$. In addition to the actual distributions at small $x$, we study the ratios
+of the distributions at an initial scale $Q_0 = 2$ GeV, and show that a strong
+nuclear shadowing can follow from the modified QCD evolution.
+","[{""version"":""v1"",""created"":""Mon, 26 Jul 1993 21:18:42 GMT""}]","2010-11-01"

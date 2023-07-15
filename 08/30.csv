@@ -1,0 +1,108 @@
+"comp-gas/9308001",,"O. Behrend (Dept. of Physics, The Univ. of Edinburgh, UK), R. Harris
+  (Dept. of Physics, The Univ. of Edinburgh, UK and Dept. of Physics and Centre
+  for the Physics of Materials, McGill Univ., Montreal, Canada), and P. Warren
+  (Unilever Research, Port Sunlight Laboratory, UK)","Hydrodynamic behaviour of Lattice Boltzmann and Lattice BGK models","LaTex File, 9 pages, uuencoded figures added",,"10.1103/PhysRevE.50.4586",,"comp-gas nlin.CG",,"  We present a numerical analysis of the validity of classical and generalized
+hydrodynamics for Lattice Boltzmann Equation (LBE) and Lattice BGK methods in
+two and three dimensions, as a function of the collision parameters of these
+models. Our analysis is based on the wave-number dependence of the evolution
+operator. Good ranges of validity are found for BGK models as long as the
+relaxation time is chosen smaller than or equal to unity. The additional
+freedom in the choice of collision parameters for LBE models does not seem to
+give significant improvement.
+","[{""version"":""v1"",""created"":""Mon, 30 Aug 1993 11:32:17 GMT""}]","2009-10-22"
+"hep-ph/9308358",,"D.A. Morris and A. Ringwald","Multiple Muons From Neutrino-Initiated Multi-W(Z) Production","(presented at 23rd Int. Cosmic Ray Conf., July 21-30 1993, Calgary,
+  Canada), 5 pages (LaTeX) + 2 uuencoded PostScript figures, UCLA/93/TEP/32",,,,"hep-ph",,"  Current underground detectors can search for multiple muons from multi-W(Z)
+production initiated by ultrahigh energy neutrinos from active galactic nuclei.
+O($\mu$b) cross sections give rise to downward going muon bundles whose
+features differ from those of atmospheric muon bundles.
+","[{""version"":""v1"",""created"":""Sun, 29 Aug 1993 22:52:00 GMT""}]","2007-05-23"
+"hep-ph/9308359","Ohnemus ""j.""","V. A. Khoze, J. Ohnemus, and W. J. Stirling","Soft Gluon Radiation in Hadronic $t\bar t$ Production","21 pages (12 figures available upon request), Revtex version 3,
+  DTP/93/52","Phys.Rev. D49 (1994) 1237-1245","10.1103/PhysRevD.49.1237",,"hep-ph",,"  We investigate soft gluon radiation in hadronic $t\bar t$ production. By
+taking the top quark decay properly into account, we are able to study the
+interplay of radiation both before and after the decay of the top quarks. The
+production--decay and decay--decay radiative interferences depend sensitively
+on the relative size of the gluon energy and the decay width. Radiation
+patterns for various production mechanisms are compared.
+","[{""version"":""v1"",""created"":""Sun, 29 Aug 1993 22:57:36 GMT""}]","2009-10-22"
+"hep-ph/9308360","Stefan Dittmaier","A. Denner, S. Dittmaier","Gauge-Boson Production in Electron-Photon Collisions","7 pages + 5 figures appended as ps-files (uuencoded), latex, CERN-TH.
+  6980/93",,,,"hep-ph",,"  We summarize results for the processes $e^-\gamma \to \nu W^-, e^-Z,
+e^-\gamma$ within the electroweak Standard Model. We discuss the essential
+features of the corresponding lowest-order cross-sections and present numerical
+results for the unpolarized cross-sections including the complete $O(\alpha)$
+virtual, soft-photonic, and hard-photonic corrections. While at low energies
+the weak corrections are dominated by the leading universal corrections, at
+high energies we find large, non-universal corrections, which arise from vertex
+and box diagrams involving non-Abelian gauge couplings.
+","[{""version"":""v1"",""created"":""Mon, 30 Aug 1993 12:17:52 GMT""},{""version"":""v2"",""created"":""Wed, 1 Sep 1993 11:12:05 GMT""}]","2008-02-03"
+"hep-ph/9308361","Ralph Boenisch","Ralf B\""onisch","Large N Relations Between Mass Matrix And Gauge Group In Electroweak
+  Gauge Extensions With Strong Coupling",,,,,"hep-ph",,"  The Large N expansion in gauge models with an NJL mechanism is discussed in
+view of the resulting fermionic mass matrix. A hidden symmetry model is
+introduced.
+","[{""version"":""v1"",""created"":""Mon, 30 Aug 1993 12:30:58 GMT""},{""version"":""v2"",""created"":""Fri, 3 Sep 1993 13:12:32 GMT""}]","2008-02-03"
+"hep-ph/9308362",,"Suzhou Huang (University of Washington) and John Tjon (University of
+  Utrecht)","Nucleon Solution of the Faddeev Equation in the Nambu-Jona-Lasinio Model","18 pages","Phys.Rev.C49:1702-1708,1994","10.1103/PhysRevC.49.1702",,"hep-ph nucl-th",,"  Given the phenomenological success of the Nambu-Jona-Lasinio model in
+describing the meson physics in the low energy limit, it is tempting to find
+the fully relativistically structured nucleon solution in the same model under
+the similar approximation employed in the mesonic sector. To achieve this goal
+we need to solve a relativistic Faddeev equation. The factorizability of the
+two-body T-matrix reduces the three-body Faddeev equation to a tractable
+two-body Bethe-Salpeter equation. The reduced equation is then solved
+numerically. Our result indicates that the nucleon consists of three loosely
+bound constituent quarks.
+","[{""version"":""v1"",""created"":""Mon, 30 Aug 1993 13:34:56 GMT""}]","2008-11-26"
+"hep-th/9308142",,"S. De Leo and P. Rotelli","Representations of U(1,q) and Constructive Quaternion Tensor Products","28 pages, Latex, Dipartimento di Fisica, Universita di Lecce
+  INFN-Sezione di Lecce","NuovoCim.B110:33-52,1995","10.1007/BF02741288",,"hep-th",,"  The representation theory of the group U(1,q) is discussed in detail because
+of its possible application in a quaternion version of the Salam-Weinberg
+theory.
+  As a consequence, from purely group theoretical arguments we demonstrate that
+the eigenvalues must be right-eigenvalues and that the only consistent scalar
+products are the complex ones. We also define an explicit quaternion tensor
+product which leads to a set of additional group representations for integer
+``spin''.
+","[{""version"":""v1"",""created"":""Mon, 30 Aug 1993 08:18:41 GMT""}]","2008-11-26"
+"hep-th/9308143","Vadim Kuznetsov","J.C.Eilbeck, V.Z.Enol'skii, V.B.Kuznetsov, and D.V.Leykin","Linear $r$-Matrix Algebra for Systems Separable\\ in Parabolic
+  Coordinates","10 pages, LaTeX. Submitted to Phys.Lett.A","Phys.Lett. A 180 (1993) 208","10.1016/0375-9601(93)90697-X",,"hep-th",,"  We consider a hierarchy of many particle systems on the line with polynomial
+potentials separable in parabolic coordinates. Using the Lax representation,
+written in terms of $2\times 2$ matrices for the whole hierarchy, we construct
+the associated linear $r$-matrix algebra with the $r$-matrix dependent on the
+dynamical variables. A dynamical Yang-Baxter equation is discussed.
+","[{""version"":""v1"",""created"":""Mon, 30 Aug 1993 09:53:42 GMT""}]","2009-10-22"
+"hep-th/9308144","Annette Holtkamp","K.-H. Rehren","News from the Virasoro algebra","4 pages, Latex, DESY 93-115","Lett.Math.Phys. 30 (1994) 125-130","10.1007/BF00939700",,"hep-th",,"  It is shown that the local quantum field theory of the chiral energy-
+momentum tensor with central charge $c=1$ coincides with the gauge invariant
+subtheory of the chiral $SU(2)$ current algebra at level 1, where the gauge
+group is the global $SU(2)$ symmetry. At higher level, the same scheme gives
+rise to $W$-algebra extensions of the Virasoro algebra.
+","[{""version"":""v1"",""created"":""Mon, 30 Aug 1993 11:36:06 GMT""}]","2009-10-22"
+"hep-th/9308145","Annette Holtkamp","K.-H. Rehren","Subfactors and coset models","Latex, 18 pages, DESY 93-116","Generalized Sym. in Phys., W. Sci. 1994, p.338-356",,,"hep-th",,"  Some facts about von Neumann algebras and finite index inclusions of factors
+are viewed in the context of local quantum field theory. The possibility of
+local fields intertwining superselection sectors with braid group statistics is
+explored. Conformal embeddings and coset models serve as examples. The
+associated symmetry concept is pointed out.
+","[{""version"":""v1"",""created"":""Mon, 30 Aug 1993 11:37:10 GMT""}]","2007-05-23"
+"hep-th/9308146","Tjark Tjin","T.Tjin","Finite and Infinite W Algebras and their Applications","172 pages, latex, (Ph.D. Thesis)",,,,"hep-th",,"  In this paper we present a systematic study of $W$ algebras from the
+Hamiltonian reduction point of view. The Drinfeld-Sokolov (DS) reduction scheme
+is generalized to arbitrary $sl_2$ embeddings thus showing that a large class
+of W algebras can be viewed as reductions of affine Lie algebras. The
+hierarchies of integrable evolution equations associated to these classical W
+algebras are constructed as well as the generalized Toda field theories which
+have them as Noether symmetry algebras. The problem of quantising the DS
+reductions is solved for arbitrary $sl_2$ embeddings and it is shown that any W
+algebra can be embedded into an affine Lie algebra. This also provides us with
+an algorithmic method to write down free field realizations for arbitrary W
+algebras. Just like affine Lie algebras W algebras have finite underlying
+structures called `finite W algebras'. We study the classical and quantum
+theory of these algebras, which play an important role in the theory of
+ordinary W algebras, in detail as well as some aspects of their representation
+theory. The symplectic leaves (or W-coadjoint orbits) associated to arbitrary
+finite W algebras are determined as well as their realization in terms of
+bosoic oscillators. Apart from these technical aspects we also review the
+potential applications of W symmetry to string theory, 2-dimensional critical
+phenomena, the quantum Hall effect and solitary wave phenomena. This work is
+based on the Ph.D. thesis of the author.
+","[{""version"":""v1"",""created"":""Mon, 30 Aug 1993 12:32:20 GMT""}]","2007-05-23"
+"hep-th/9308147","Timothy Hollowood","T.J. Hollowood","From A_m Trigonometric S-Matrices to the Thermodynamic Bethe Ansatz","10 pages, (macro included)","Phys.Lett. B320 (1994) 43-51","10.1016/0370-2693(94)90821-4","CERN-TH.6949/93, SWAT/92-93/11","hep-th",,"  The thermodynamic Bethe Ansatz equations that have been proposed to describe
+massive integrable deformations of the coset conformal field theories
+$g_k\times g_l/g_{k+l}$ are shown to result directly by applying the usual
+thermodynamic Bethe Ansatz arguments to the trigonometric $S$-matrices for the
+algebras $g=a_{m-1}$.
+","[{""version"":""v1"",""created"":""Mon, 30 Aug 1993 12:54:00 GMT""}]","2009-10-22"

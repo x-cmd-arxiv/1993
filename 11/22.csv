@@ -1,0 +1,125 @@
+"astro-ph/9311055","T. P. Singh","F. Bernardeau, T. P. Singh, B. Banerjee, S. M. Chitre","The Quasi-Linear Evolution of the Density Field in Models of
+  Gravitational Instability","12 pages; Plain Tex","Mon.Not.Roy.Astron.Soc.269:947,1994","10.1093/mnras/269.4.947",,"astro-ph hep-ph",,"  Two quasi-linear approximations, the frozen flow approximation (FFA) and the
+frozen potential approximation (FPA), have been proposed recently for studying
+the evolution of a collisionless self-gravitating fluid. In the FFA it is
+assumed that the velocity field remains unchanged from its value obtained from
+the linear theory whereas in FPA the same approximation is made for the
+gravitational potential. In this paper we compare these and the older
+Zel'dovich approximation by calculating the evolution of the density in
+perturbation theory. In particular we compute the skewness, including the
+smoothing effects, and the kurtosis for the FFA, FPA and Zel'dovich
+approximation and compare their relative accuracy.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 13:34:00 GMT""}]","2015-06-24"
+"cond-mat/9311051","Christoph Bruder","Gerd Sch\""on and A.D. Zaikin","Parity Effects on Electron Tunneling through Small Superconducting
+  Islands","8 pages, 1 figure available on request, report KA-TFP-93-2",,"10.1209/0295-5075/26/9/010",,"cond-mat",,"  Single electron tunneling into small superconducting islands is sensitive to
+the gap energy of the excitations created in the process and, hence, depends on
+the electron number parity. At low temperature the properties of the system are
+2e-periodic in the applied gate voltage, turning e-periodic at higher
+temperature. We evaluate the tunneling rates and determine the probabilities
+for the even and odd state as well as the cross-over condition from the balance
+between different processes. Our analysis includes excitations in the leads.
+They are essential if the leads are superconducting. The influence of parity
+effects on single electron tunneling, Cooper pair tunneling, and the Andreev
+reflection in superconducting transistors yields rich structures in the I-V
+characteristic, which explains recent experimental findings.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 07:47:58 GMT""}]","2009-10-22"
+"hep-lat/9311030","Christian B. Lang","C.B. Lang and T. Neuhaus","The First Order Signal in Pure U(1) Gauge Theory May be Fake","3 pages (1 figure), POSTSCRIPT-file (207 KB), Contribution to Lattice
+  93, preprint UNIGRAZ-UTP 22-11-93","Nucl.Phys.Proc.Suppl. 34 (1994) 543-545","10.1016/0920-5632(94)90441-3",,"hep-lat",,"  We study the deconfinement phase transition of compact $U(1)$ pure lattice
+gauge theory with the Wilson action on {\em closed topology} lattices. In
+contrast to studies of compact QED on {\em hypercubic lattices with periodic
+boundary conditions}, we find no metastability signal at the phase transition
+on the lattices with the topology of a sphere. Thus the determination of the
+order of this phase transition has to be reconsidered. We argue that different
+properties of closed monopole loops on these topological inequivalent lattices
+might be responsible for the effect.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 15:17:04 GMT""}]","2009-10-22"
+"hep-ph/9311325",,"Matthias Neubert","QCD-Based Interpretation of the Lepton Spectrum in Inclusive $\bar B\to
+  X_u\,\ell\,\bar\nu$ Decays","17 pages LaTeX, 3 post- script figures available upon request,
+  CERN-TH.7087/93","Phys.Rev.D49:3392-3398,1994","10.1103/PhysRevD.49.3392",,"hep-ph",,"  We present a QCD-based approach to the endpoint region of the lepton spectrum
+in $\bar B\to X_u\,\ell\,\bar\nu$ decays. We introduce a genuinely
+nonperturbative form factor, the shape function, which describes the fall-off
+of the spectrum close to the endpoint. The moments of this function are related
+to forward scattering matrix elements of local, higher-dimension operators. We
+find that nonperturbative effects are dominant over a finite region in the
+lepton energy spectrum, the width of which is related to the kinetic energy of
+the $b$-quark inside the $B$ meson. Applications of our method to the
+extraction of fundamental standard model parameters, among them $V_{ub}$, are
+discussed in detail.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1993 18:55:37 GMT""}]","2010-11-01"
+"hep-ph/9311326","Hitoshi Murayama","Hitoshi Murayama (LBL), Hiroshi Suzuki (Genova), T. Yanagida (Tohoku),
+  and Jun'ichi Yokoyama (YITP, Kyoto)","Chaotic Inflation and Baryogenesis in Supergravity","YITP/U-93-29, LBL-34887 10 pages, LaTeX file, requires REVTEX 3.0.
+  Two PostScript figures attached in tar+compress+uuencode format after
+  \end{document}","Phys.Rev.D50:2356-2360,1994","10.1103/PhysRevD.50.R2356",,"hep-ph",,"  We propose a K\""ahler potential in supergravity which successfully
+accommodates chaotic inflation. This model can have a large gravitino mass
+without giving a large mass to squarks and sleptons, and thus is free from both
+the gravitino problem and entropy crisis. In this model baryogenesis takes
+place naturally, identifying the inflaton with a right-handed sneutrino with
+its mass $M \simeq 10^{13}$GeV, which is consistent with the COBE data and the
+Mikheyev--Smirnov--Wolfenstein solution to the solar neutrino problem. The
+model can also accommodate the matter content appropriate for the mixed dark
+matter scenario.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1993 21:24:09 GMT""}]","2009-09-29"
+"hep-ph/9311327","Mannel Thomas","Guey-Lin Lin and Thomas Mannel","Subleading Corrections to Semileptonic Lambda_c Decays","13 pages, no figures, LaTeX, CERN-TH.7086/93, IP-ASTP-30-93","Phys.Lett. B321 (1994) 417-424","10.1016/0370-2693(94)90269-0",,"hep-ph",,"  The semileptonic decay $\Lambda_c \to \Lambda \ell \nu$ is considered in the
+framework of heavy quark effective theory beyond the leading order in the
+$1/m_c$ expansion. According to our estimate the polarization variable will
+receive only very small corrections such that $\alpha_{\Lambda_c} \le -0.95$.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 09:20:04 GMT""}]","2009-10-22"
+"hep-ph/9311328","Juan Perez Mercader","J. Perez-Mercader","Quark Flavors as Entropy Ordered States of QCD","uses ReVTeX, 11 pages + 2 figures (available by request to the
+  author), LAEFF-93/015",,,,"hep-ph cond-mat hep-th",,"  We discuss a natural notion of entropy in quantum field theory and apply it
+to asymptotically free theories in their perturbative regimes. We then
+specialize to QCD and find that quark flavor states can be described as
+entropy--ordered states of QCD, and that the masses for the $s\bar{s}$--state,
+charm, $c\bar{c}$--state, bottom and $b\bar{b}$--state can all be fitted by
+requiring that the entropy of each of these states be the same. The resulting
+Pearson correlation coefficient between theory and experiment is better than
+0.99, and the known quark masses can be accounted for with less than an 8\%
+error.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 11:27:07 GMT""}]","2007-05-23"
+"hep-ph/9311329","Rudolf Baier","R. Baier, S. Peign\'e and D. Schiff","Soft Photon Production Rate in Resummed Perturbation Theory of High
+  Temperature QCD","13 pages (2 figures not included), PLAINTEX, LPTHE-Orsay 93/46, BI-TP
+  93/55","Z.Phys. C62 (1994) 337-342","10.1007/BF01560248",,"hep-ph",,"  We calculate the production rate of soft real photons from a hot quark --
+gluon plasma using Braaten -- Pisarski's perturbative resummation method. To
+leading order in the QCD coupling constant $g$ we find a logarithmically
+divergent result for photon energies of order $gT$, where $T$ is the plasma
+temperature. This divergent behaviour is due to unscreened mass singularities
+in the effective hard thermal loop vertices in the case of a massless external
+photon.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 14:48:28 GMT""}]","2009-10-22"
+"hep-th/9311122","David Gershon","David Gershon","Semiclassical vs. Exact Solutions of Charged Black Hole in Four
+  Dimensions and Exact O(d,d) Duality","42 pages, (typographical errors in pages 33 and 35)","Nucl.Phys.B421:80-110,1994","10.1016/0550-3213(94)90225-9",,"hep-th",,"  We derive a charged black hole solution in four dimensions described by
+$SL(2,R)\times SU(2)\times U(1)/U(1)^2$ WZW coset model. Using the algebraic
+Hamiltonian method we calculate the corresponding solution that is exact to all
+orders in ${1\over k}$. It is shown that unlike the 2D black hole, the
+singularity remains also in the exact solution, and moreover, in some range of
+the gauge parameter the space-time does not fulfil the cosmic censor
+conjecture, $i.e.$ we find a naked singularity outside the black hole. Exact
+dual models are derived as well, one of them describes a 4D space-time with a
+naked singularity. Using the algebraic Hamiltonian approach we also find the
+exact to all orders $O(d,d)$ transformation of the metric and the dilaton field
+for general WZW coset models and show the correction with respect to the
+transformations in one loop order.
+","[{""version"":""v1"",""created"":""Sun, 21 Nov 1993 19:38:14 GMT""},{""version"":""v2"",""created"":""Tue, 14 Dec 1993 14:04:23 GMT""}]","2010-11-01"
+"hep-th/9311126","Watson visiteur","Jay Watson","Solution of the SU(2) Mandelstam Constraints","13 pages Latex, preprint CPT-93/P.2963","Phys.Lett. B323 (1994) 385-392","10.1016/0370-2693(94)91236-X",,"hep-th hep-lat",,"  It is shown how the Mandelstam constraints for an $SU(2)$ pure lattice gauge
+theory with $3{\cal N}$ physical degrees of freedom may be solved completely in
+terms of $3{\cal N}$ Wilson and Polyakov loop variables and ${\cal N}-1$ gauge
+invariant discrete +/-1 variables, thus enabling a manifestly gauge invariant
+formulation of the theory.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 10:29:13 GMT""}]","2009-10-22"
+"hep-th/9311127",,"Hitoshi Sato","On the Poincare polynomials for Landau-Ginzburg Orbifolds","10pages,Latex","Mod.Phys.Lett.A9:885-894,1994","10.1142/S0217732394000708","KOBE-TH-93-10","hep-th",,"  We construct the Poincare polynomials for Landau-Ginzburg orbifolds with
+projection operators.Using them we show that special types of dualities
+including Poincare duality are realized under certain conditions. When
+Calabi-Yau interpretation exists, two simple formulae for Hodge numbers
+$h^{2,1}$ and $h^{1,1}$ are obtained.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 11:29:55 GMT""}]","2010-11-01"
+"hep-th/9311128","Shimon Yankielowicz","O. Aharony, S. Yankielowicz and A. N. Schellekens","Charge sum rules in N=2 theories","25 pages","Nucl.Phys.B418:157-172,1994","10.1016/0550-3213(94)90242-9",,"hep-th",,"  Some errors in section 4 are corrected. No change in the results.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 13:47:15 GMT""},{""version"":""v2"",""created"":""Sun, 12 Dec 1993 08:05:19 GMT""}]","2009-09-29"
+"nucl-th/9311019",,"V. Hnizdo and C. R. Gould (TUNL)","Optical-Model Description of Time-Reversal Violation","11 pages (Revtex)","Phys.Rev.C49:612-615,1994","10.1103/PhysRevC.49.R612",,"nucl-th",,"  A time-reversal-violating spin-correlation coefficient in the total cross
+section for polarized neutrons incident on a tensor rank-2 polarized target is
+calculated by assuming a time-reversal-noninvariant, parity-conserving
+``five-fold"" interaction in the neutron-nucleus optical potential. Results are
+presented for the system $n + {^{165}{\rm Ho}}$ for neutron incident energies
+covering the range 1--20 MeV. From existing experimental bounds, a strength of
+$2 \pm 10$ keV is deduced for the real and imaginary parts of the five-fold
+term, which implies an upper bound of order $10^{-4}$ on the relative $T$-odd
+strength when compared to the central real optical potential.
+","[{""version"":""v1"",""created"":""Mon, 22 Nov 1993 14:54:36 GMT""}]","2009-09-25"

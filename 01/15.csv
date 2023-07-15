@@ -1,0 +1,268 @@
+"astro-ph/9301007","Pablo Laguna","P. M\'esz\'aros, P. Laguna and M.J. Rees","Gasdynamics of Relativistically Expanding Gamma-Ray Burst Sources:
+  Kinematics, Energetics, Magnetic Fields and Efficiency","18 pages","Astrophys.J. 415 (1993) 181-190","10.1086/173154",,"astro-ph",,"  We calculate both analytically and numerically the evolution of a highly
+relativistic fireball through the stages of free expansion and coasting, and
+determine the dependence of the thermodynamic and radiation variables in the
+comoving and laboratory frames. Magnetic fields may have been important in the
+original impulsive event. We discuss their effect on the fireball dynamics, and
+consider also their effects on the radiation emitted when the fireball runs
+into an external medium and is decelerated. The inverse synchro-Compton
+mechanism can then yield high radiative efficiency in the reverse shock,
+producing a burst of non-thermal radiation mainly in the MeV to GeV range whose
+total energy and duration agree with those of typical cosmic gamma ray bursts.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 16:51:59 GMT""}]","2009-10-22"
+"astro-ph/9301008","Peter Biermann","Peter L. Biermann (Max Planck Institut fuer Radioastronomie, Bonn,
+  Germany)","Cosmic Rays I.: The cosmic ray spectrum between 10 TeV and 3 EeV","accepted by Astronomy & Astrophysics January 8, 1993. 12 pages, Plain
+  TeX, no figures",,,,"astro-ph",,"  I develop a theory to account for the cosmic ray spectrum. The essential
+assumption is that, due to fast convective motions, the free mean path
+perpendicular to the magnetic field is independent of energy and has the scale
+of the thickness of the shocked layer. I use the basic concept, that the
+energetic Cosmic Ray particles are accelerated in a Supernova shock that
+travels down a stellar wind. Discussion gives a knee energy expression, which
+leads to a suggestion on the physical origin of the mechanical energy of
+Supernova explosions, the gravitational potential energy mediated by the
+angular momentum and the magnetic field. The spectrum below the knee is
+$E^{-8/3}$. At the knee the particles segregate with particle energy according
+to their charge. The spectrum beyond the knee is very close to $E^{-3}$. The
+theory has been checked successfully against air shower data in two subsequent
+papers (Stanev, Biermann, Gaisser, 1992 preprint; Rachen, Stanev, Biermann,
+1992 preprint).
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 15:37:30 GMT""}]","2007-05-23"
+"cond-mat/9301020","Solid State Preprint","G. Date and M.V.N. Murthy","Classical Dynamics of Anyons and the Quantum Spectrum","19 pages, ReVTeX, IMSc/93/01",,"10.1103/PhysRevA.48.105",,"cond-mat",,"  In this paper we show that (a) all the known exact solutions of the problem
+of N-anyons in oscillator potential precisely arise from the collective degrees
+of freedom, (b) the system is pseudo-integrable ala Richens and Berry. We
+conclude that the exact solutions are trivial thermodynamically as well as
+dynamically.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 12:54:26 GMT""}]","2009-10-22"
+"cond-mat/9301021","Solid State Preprint","G.Date, M.Krishna and M.V.N.Murthy","Asymptotic analysis and spectrum of three anyons","28 pages, LaTeX, 2 Figures","Int.J.Mod.Phys.A9:2545-2562,1994","10.1142/S0217751X94001011",,"cond-mat",,"  The spectrum of anyons confined in harmonic oscillator potential shows both
+linear and nonlinear dependence on the statistical parameter. While the
+existence of exact linear solutions have been shown analytically, the nonlinear
+dependence has been arrived at by numerical and/or perturbative methods. We
+develop a method which shows the possibility of nonlinearly interpolating
+spectrum. To be specific we analyse the eigenvalue equation in various
+asymptotic regions for the three anyon problem.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 13:18:21 GMT""}]","2008-11-26"
+"gr-qc/9301015",,"R.Penrose, R.D. Sorkin, and E. Woolgar","A Positive Mass Theorem Based on the Focusing and Retardation of Null
+  Geodesics","(replaced version corrects an errant TEX offset command -- those who
+  successfully TEXed the first version have no need to re-TEX)",,,,"gr-qc hep-th",,"  A positive mass theorem for General Relativity Theory is proved. The proof is
+4-dimensional in nature, and relies completely on arguments pertaining to
+causal structure, the basic idea being that positive energy-density focuses
+null geodesics, and correspondingly retards them, whereas a negative total mass
+would advance them. Because it is not concerned with what lies behind horizons,
+this new theorem applies in some situations not covered by previous positivity
+theorems. Also, because geodesic focusing is a global condition, the proof
+might allow a generalisation to semi-classical gravity, even though quantum
+violations of local energy conditions can occur there.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 20:00:57 GMT""},{""version"":""v2"",""created"":""Fri, 15 Jan 1993 21:00:19 GMT""}]","2008-02-03"
+"gr-qc/9301016",,"Lee Smolin","Time, measurement and information loss in quantum cosmology","Latex, no figures, 57 pages, SU-GP-92/12-4",,,,"gr-qc hep-th",,"  An error in the gauge fixed quantization of section 3 is corrected. The
+result is a much simpler treatment of the clock field, leading to a
+simplification of the gauge fixed quantum theory and the treatment of the
+semiclassical limit.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 14:00:00 GMT""},{""version"":""v2"",""created"":""Mon, 8 Feb 1993 12:28:00 GMT""}]","2008-02-03"
+"gr-qc/9401012",,"J.H. Yoon","A Proposal of Positive-Definite Local Gravitational Energy Density in
+  General Relativity","39p, SNUTP 93-78, RevTex 3.0",,,,"gr-qc",,"  We propose a 4-dimensional Kaluza-Klein approach to general relativity in the
+(2,2)-splitting of space-time using the double null gauge. The associated
+Lagrangian is equivalent to the Einstein-Hilbert Lagrangian, since it yields
+the same field equations as the E-H Lagrangian does. It is describable as a
+(1+1)-dimensional Yang-Mills type gauge theory coupled to (1+1)-dimensional
+matter fields, where the minimal coupling associated with the diffeomorphism
+group of the 2-dimensional spacelike fibre space automatically appears. Written
+in the first-order formalism, our Lagrangian density directly yields a non-zero
+local Hamiltonian density, where the associated time function is the retarded
+time. From this Hamiltonian density, we obtain a positive-definite local
+gravitational energy density. In the asymptotically flat space-times, the
+volume integrals of the proposed local gravitational energy density over
+suitable 3-dimensional hypersurfaces correctly reproduce the Bondi and the ADM
+surface integral, at null and spatial infinity, respectively, supporting our
+proposal. We also obtain the Bondi mass-loss formula as a negative-definite
+flux integral of a bilinear in the gravitational currents at null infinity.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 13:49:52 GMT""}]","2007-05-23"
+"hep-lat/9301005",,"Colin J. Morningstar","The Heavy Quark Self-Energy in Nonrelativistic Lattice QCD","28 pages, SLAC-PUB-5981","Phys.Rev.D48:2265-2278,1993","10.1103/PhysRevD.48.2265",,"hep-lat nucl-th",,"  The heavy quark self-energy in nonrelativistic lattice QCD is calculated to
+$O(\alpha_s)$ in perturbation theory. An action which includes all
+spin-independent relativistic corrections to order $v^2$, where $v$ is the
+typical heavy quark velocity, and all spin-dependent corrections to order $v^4$
+is used. The standard Wilson action and an improved multi-plaquette action are
+used for the gluons. Results for the mass renormalization, wavefunction
+renormalization, and energy shift are given; tadpole contributions are found to
+be large. A tadpole improvement scheme in which all link variables are rescaled
+by a mean-field factor is also studied. The effectiveness of this scheme in
+offsetting the large tadpole contributions to the heavy quark renormalization
+parameters is demonstrated.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 00:24:31 GMT""}]","2010-11-01"
+"hep-lat/9301006",,"A.M.Green, C.Michael, J.E.Paton and M.E.Sainio","Multi-Quark Energies in SU(2) Lattice Gauge Theory","(Latex 36 pages, bib-sty included, 8 figures not included - sent on
+  request)","Int.J.Mod.Phys.E2:479-506,1993","10.1142/S0218301393000194",,"hep-lat",,"  Energies of four-quark systems have been extracted in a quenched SU(2)
+lattice Monte Carlo calculation for two different geometries, rectangular and
+colinear, with $\beta=2.4$ and lattice size $16^3\times 32$. Also, by going to
+a lattice $24^3\times 32$ and to $\beta=2.5$, the effect of the finite lattice
+size and scaling are checked. An attempt is made to understand these results in
+terms of a model based on interquark two-body potentials but modified very
+significantly by a phenomenological gluon-field overlap factor.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 09:16:45 GMT""}]","2008-11-26"
+"hep-lat/9301007",,"J.F.Wheater and P.W.Stephenson","On the Crumpling Transition in Crystalline Random Surfaces","9 pages latex plus 5 postscript figures, OUTP 92/40P","Phys.Lett. B302 (1993) 447-452","10.1016/0370-2693(93)90425-H",,"hep-lat",,"  We investigate the crumpling transition on crystalline random surfaces with
+extrinsic curvature on lattices up to $64^2$. Our data are consistent with a
+second order phase transition and we find correlation length critical exponent
+$\nu=0.89\pm 0.07$. The specific heat exponent, $\alpha=0.2\pm 0.15$, is in
+much better agreement with hyperscaling than hitherto. The long distance
+behaviour of tangent-tangent correlation functions confirms that the so-called
+Hausdorff dimension is $d_H=\infty$ throughout the crumpled phase.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 12:00:38 GMT""}]","2009-10-22"
+"hep-ph/9301240","Rai Balram","Balram Rai and Goran Senjanovic","Gravity and Domain Wall Problem","10 pages, Latex, IC-92-414","Phys.Rev.D49:2729-2733,1994","10.1103/PhysRevD.49.2729",,"hep-ph",,"  It is well known that the spontaneous breaking of discrete symmetries may
+lead to conflict with big-bang cosmology. This is due to formation of domain
+walls which give unacceptable contribution to the energy density of the
+universe. On the other hand it is expected that gravity breaks global
+symmetries explicitly. In this work we propose that this could provide a
+natural solution to the domain-wall problem.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 02:41:50 GMT""}]","2009-12-30"
+"hep-ph/9301241",,"P.Colangelo, F.De Fazio and G.Nardulli","Study of the Reactions $B \to D^* \pi \pi$ and $B \to D^* \rho \pi$","9 pages, LaTex, BARI-TH/92-131","Phys.Lett. B303 (1993) 152-156","10.1016/0370-2693(93)90060-U",,"hep-ph",,"  We evaluate the non leptonic decays $B \to D^* \pi \pi$ and $B \to D^* \rho
+\pi$ in the limit of infinitely heavy quarks, assuming the dominance of
+intermediate positive parity charmed resonances. We find that the branching
+ratios are of the order $10^(-3)$.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 12:38:00 GMT""}]","2009-10-22"
+"hep-ph/9301242","Mannque Rho","H.K. Lee, M.A. Nowak, Mannque Rho and I. Zahed","Nonabelian Berry Phases in Baryons","Latex 35 pages (2 figures not added, will be faxed if requested),
+  NTG-92-20","Annals Phys. 227 (1993) 175-205","10.1006/aphy.1993.1079",,"hep-ph nucl-th",,"  We show how generic nonabelian gauge fields can be induced in baryons when a
+hierarchy of fast degrees of freedom is integrated out. We identify them with
+nonabelian Berry potentials and discuss their role in transmuting quantum
+numbers in bag and soliton models of baryons. The resulting baryonic spectra
+for both light and heavy quark systems are generic and resemble closely the
+excitation spectrum of diatomic molecules. The symmetry restoration in the
+system, i.e., the electronic rotational invariance in diatomic molecules, the
+heavy-quark symmetry in heavy baryons etc. is interpreted in terms of the
+vanishing of nonabelian Berry potentials that otherwise govern the hyperfine
+splitting.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 12:31:01 GMT""}]","2009-10-22"
+"hep-th/9301057","Miguel Martin-Delgado","J.Gonzalez and M.A.Martin-Delgado","Exact Finite Size Results on the Ising Model in 2D Curved Space","18 pages (uses LaTeX and epsf), 6 figures included (4 in postscript
+  files encoded through uufiles), PUPT-1367",,,,"hep-th",,"  We propose an approach to statistical systems on lattices with sphere-like
+topology. Focusing on the Ising model, we consider the thermodynamic limit
+along a sequence of lattices which preserve the {\em fixed} large scale
+geometry. The hypothesis of scaling appears to hold at criticality, pointing at
+a sensible definition of the continuum limit of the model in the curved space.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 20:02:44 GMT""}]","2007-05-23"
+"hep-th/9301058","Jacob Bekenstein","Jacob D. Bekenstein","How Fast Does Information Leak out from a Black Hole?","8 pages, plain TeX, UCSBTH-93-02","Phys.Rev.Lett. 70 (1993) 3680-3683","10.1103/PhysRevLett.70.3680",,"hep-th gr-qc",,"  Hawking's radiance, even as computed without account of backreaction, departs
+from blackbody form due to the mode dependence of the barrier penetration
+factor. Thus the radiation is not the maximal entropy radiation for given
+energy. By comparing estimates of the actual entropy emission rate with the
+maximal entropy rate for the given power, and using standard ideas from
+communication theory, we set an upper bound on the permitted information
+outflow rate. This is several times the rates of black hole entropy decrease or
+radiation entropy production. Thus, if subtle quantum effects not heretofore
+accounted for code information in the radiance, the information that was
+thought to be irreparably lost down the black hole may gradually leak back out
+from the black hole environs over the full duration of the hole's evaporation.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 01:05:27 GMT""}]","2009-10-22"
+"hep-th/9301063","John C. Baez","John C. Baez","Link Invariants, Holonomy Algebras and Functional Integration","22 pages","J.Funct.Anal. 127 (1995) 108-131",,,"hep-th math.QA",,"  Given a principal G-bundle over a smooth manifold M, with G a compact Lie
+group, and given a finite-dimensional unitary representation of G, one may
+define an algebra of functions on the space of connections modulo gauge
+transformations, the ``holonomy Banach algebra'' H_b, by completing an algebra
+generated by regularized Wilson loops. Elements of the dual H_b* may be
+regarded as a substitute for measures on the space of connections modulo gauge
+transformations. There is a natural linear map from diffeomorphism- invariant
+elements of H_b* to the space of complex-valued ambient isotopy invariants of
+framed oriented links in M. Moreover, this map is one-to-one. Similar results
+hold for a C*-algebraic analog, the ``holonomy C*-algebra.'' These results
+clarify the relation between diffeomorphism-invariant gauge theories and link
+invariants, and the framing dependence of the expectation values of products of
+Wilson loops.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 15:18:46 GMT""}]","2008-02-03"
+"hep-th/9301074",,"C.M. Hull","Geometry and W-Gravity","31 pages",,,"QMW-92-21","hep-th",,"  The higher-spin geometries of $W_\infty$-gravity and $W_N$-gravity are
+analysed and used to derive the complete non-linear structure of the coupling
+to matter and its symmetries. The symmetry group is a subgroup of the
+symplectic diffeomorphisms of the cotangent bundle of the world-sheet, and the
+$W_N$ geometry is obtained from a non-linear truncation of the $W_\infty$
+geometry. Quantum W-gravity is briefly discussed. (Talk given at {\it Pathways
+to Fundamental Interactions}, the 16th John Hopkins Workshop on Current
+Problems in Particle Theory, Gothenborg, 1992.)
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 14:05:53 GMT""}]","2016-09-06"
+"math/9301203","Shelah Office","Alan H. Mekler, Evelyn Nelson, Saharon Shelah","A variety with solvable, but not uniformly solvable, word problem",,"Proc. London Math. Soc. 66 (1993), 225-256",,"Shelah [MNSh:291]","math.LO math.RA",,"  In the literature two notions of the word problem for a variety occur. A
+variety has a decidable word problem if every finitely presented algebra in the
+variety has a decidable word problem. It has a uniformly decidable word problem
+if there is an algorithm which given a finite presentation produces an
+algorithm for solving the word problem of the algebra so presented. A variety
+is given with finitely many axioms having a decidable, but not uniformly
+decidable, word problem. Other related examples are given as well.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9301204","Shelah Office","Alan H. Mekler, Saharon Shelah","Some compact logics --- results in ZFC",,"Ann. of Math. 137 (1993), 221-248",,"Shelah [MkSh:375]","math.LO",,"  We show that if we enrich first order logic by allowing quantification over
+isomorphisms between definable ordered fields the resulting logic, L(Q_{Of}),
+is fully compact. In this logic, we can give standard compactness proofs of
+various results. Next, we attempt to get compactness results for some other
+logics without recourse to diamond, i.e., all our results are in ZFC. We get
+the full result for the language where we quantify over automorphisms
+(isomorphisms) of ordered fields in Theorem 6.4. Unfortunately we are not able
+to show that the language with quantification over automorphisms of Boolean
+algebras is compact, but will have to settle for a close relative of that
+logic. This is theorem 5.1. In section 4 we prove we can construct models in
+which all relevant automorphism are somewhat definable: 4.1, 4.8 for BA, 4.13
+for ordered fields. We also give a new proof of the compactness of another
+logic -- the one which is obtained when a quantifier Q_{Brch} is added to first
+order logic which says that a level tree (definitions will be given later) has
+an infinite branch. This logic was previously shown to be compact, but our
+proof yields a somewhat stronger result and provides a nice illustration of one
+of our methods.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9301205","Shelah Office","Saharon Shelah, Heikki Tuuri, Jouko V\""a\""an\""anen","On the number of automorphism of uncontable models",,"J. Symbolic Logic 58 (1993), 1402--1418",,"Shelah [ShTV:377]","math.LO",,"  Let s(A) denote the number of automorphisms of a model A of power omega_1. We
+derive a necessary and sufficient condition in terms of trees for the existence
+of an A with omega_1 < s(A) < 2^{omega_1}. We study the sufficiency of some
+conditions for s(A)=2^{omega_1}. These conditions are analogous to conditions
+studied by D.Kueker in connection with countable models.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9301206","Shelah Office","Tomek Bartoszy\'nski, Martin Goldstern, Haim Judah, Saharon Shelah","All meager filters may be null",,"Proc. Amer. Math. Soc. 117 (1993), 515--521",,"Shelah [BGJSh:434]","math.LO",,"  We show that it is consistent with ZFC that all filters which have the Baire
+property are Lebesgue measurable. We also show that the existence of a
+Sierpinski set implies that there exists a nonmeasurable filter which has the
+Baire property.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9301207","Shelah Office","Paul C. Eklof, Saharon Shelah","Explicitly nonstandard uniserial modules",,"J. Pure Appl. Algebra 86 (1993), 35--50",,"Shelah [EkSh:461]","math.LO math.RA",,"  A new construction is given of non-standard uniserial modules over certain
+valuation domains; the construction resembles that of a special Aronszajn tree
+in set theory. A consequence is the proof of a sufficient condition for the
+existence of non-standard uniserial modules; this is a theorem of ZFC which
+complements an earlier independence result.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9301208","Shelah Office","John T. Baldwin, Michael C. Laskowski, Saharon Shelah","Forcing isomorphism",,"J. Symbolic Logic 58 (1993), 1291--1301",,"Shelah [BLSh:464]","math.LO",,"  A forcing extension may create new isomorphisms between two models of a first
+order theory. Certain model theoretic constraints on the theory and other
+constraints on the forcing can prevent this pathology. A countable first order
+theory is classifiable if it is superstable and does not have either the
+dimensional order property or the omitting types order property. Shelah [Sh:c]
+showed that if a theory T is classifiable then each model of cardinality lambda
+is described by a sentence of L_{infty, lambda}. In fact this sentence can be
+chosen in the L^*_{lambda}. (L^*_{lambda} is the result of enriching the
+language L_{infty, beth^+} by adding for each mu < lambda a quantifier saying
+the dimension of a dependence structure is greater than mu .) The truth of such
+sentences will be preserved by any forcing that does not collapse cardinals <=
+lambda and that adds no new countable subsets of lambda. Hence, if two models
+of a classifiable theory of power lambda are non-isomorphic, they are
+non-isomorphic after a lambda-complete forcing. Here we show that the
+hypothesis of the forcing adding no new countable subsets of lambda cannot be
+eliminated. In particular, we show that non-isomorphism of models of a
+classifiable theory need not be preserved by ccc forcings.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9301209","Shelah Office","Alain Louveau, Boban Veli\v{c}kovi\'c, Saharon Shelah","Borel partitions of infinite subtrees of a perfect tree",,"Ann. Pure Appl. Logic 63 (1993), 271--281",,"Shelah [LVSh:483]","math.LO",,"  A theorem of Galvin asserts that if the unordered pairs of reals are
+partitioned into finitely many Borel classes then there is a perfect set P such
+that all pairs from P lie in the same class. The generalization to n-tuples for
+n >= 3 is false. Let us identify the reals with 2^omega ordered by the
+lexicographical ordering and define for distinct x,y in 2^omega, D(x,y) to be
+the least n such that x(n) not= y(n). Let the type of an increasing n-tuple
+{x_0, ... x_{n-1}}_< be the ordering <^* on {0, ...,n-2} defined by i<^*j iff
+D(x_i,x_{i+1})< D(x_j,x_{j+1}). Galvin proved that for any Borel coloring of
+triples of reals there is a perfect set P such that the color of any triple
+from P depends only on its type. Blass proved an analogous result is true for
+any n. As a corollary it follows that if the unordered n-tuples of reals are
+colored into finitely many Borel classes there is a perfect set P such that the
+n-tuples from P meet at most (n-1)! classes. We consider extensions of this
+result to partitions of infinite increasing sequences of reals. We show, that
+for any Borel or even analytic partition of all increasing sequences of reals
+there is a perfect set P such that all strongly increasing sequences from P lie
+in the same class.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9301210","Shelah Office","Michael C. Laskowski, Saharon Shelah","On the existence of atomic models",,"J. Symbolic Logic 58 (1993), 1189--1194",,"Shelah [LwSh:489]","math.LO",,"  We give an example of a countable theory T such that for every cardinal
+lambda >= aleph_2 there is a fully indiscernible set A of power lambda such
+that the principal types are dense over A, yet there is no atomic model of T
+over A. In particular, T(A) is a theory of size lambda where the principal
+types are dense, yet T(A) has no atomic model.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9301010","David Seibert","David Seibert (Theory Division, CERN, CH-1211 Geneva 23, Switzerland)","Analysis techniques for high-multiplicity collisions","5 pages (latex), preprint CERN-TH.6771/93. Proceedings of the XXIst
+  International Workshop on Gross Properties of Nuclei and Nuclear Excitations,
+  Hirschegg, Kleinwalsertal, Austria, January 1993 (GSI, Darmstadt, 1993; H.
+  Feldmeier, ed.)",,,,"nucl-th",,"  I discuss methods for identifying and quantifying phase transitions in
+particle collisions, concentrating on two techniques for use in
+ultra-relativistic nuclear collisions. The first technique is to use rapidity
+correlation measurements to determine the correlation length, while the second
+is to use the transverse mass distribution of dileptons in the rho-omega peak
+to determine the transition temperature.
+","[{""version"":""v1"",""created"":""Fri, 15 Jan 1993 12:30:46 GMT""}]","2007-05-23"

@@ -1,0 +1,60 @@
+"alg-geom/9304003",,"Dave Bayer and David Mumford","What can be computed in algebraic geometry?","56 pages, Latex",,,,"alg-geom math.AG",,"  This paper is a survey of computational issues in algebraic geometry, with
+particular attention to the theory of Grobner bases and the regularity of an
+algebraic variety.
+  1. A geometric introduction to Grobner bases.
+  2. An algebraic introduction to Grobner bases.
+  3. Bounds in algebraic geometry, and regularity and complexity questions.
+  4. Applications.
+","[{""version"":""v1"",""created"":""Sun, 11 Apr 1993 19:42:23 GMT""}]","2015-06-30"
+"chao-dyn/9304003","Predrag Cvitanovic'","Predrag Cvitanovi\'c and Per E. Rosenqvist (Niels Bohr Institute,
+  Blegdamsvej 17, DK-2100 Copenhagen)","A New Determinant for Quantum Chaos","Contribution to the proceedings of the International School for
+  Advanced Studies workshop ``From Classical to Quantum Chaos"", Trieste, July
+  1992; {\em Nuovo Cimento}, to appear",,,,"chao-dyn nlin.CD",,"  We propose a new type of approximation to quantum determinants, ``quantum
+Fredholm determinant"", and conjecture that, compared to the quantum Selberg
+zeta functions derived from Gutzwiller semiclassical trace formulas, such
+determinants have a larger domain of analyticity for Axiom A hyperbolic
+systems. The conjecture is supported by a numerical investigation of the 3-disk
+repeller.
+","[{""version"":""v1"",""created"":""Mon, 12 Apr 1993 11:23:20 GMT""}]","2008-02-03"
+"gr-qc/9304014","Kevin Eric Cahill","Kevin Cahill","The Fourth Root of Gravity","5 pages, UNM-frg",,,,"gr-qc",,"  By attaching basis vectors to the components of matter fields, one may render
+free action densities fully covariant. Both the connection and the tetrads are
+quadratic forms in these basis vectors. The metric of spacetime, which is
+quadratic in the tetrads, is then quartic in the basis vectors.
+","[{""version"":""v1"",""created"":""Mon, 12 Apr 1993 04:14:18 GMT""}]","2007-05-23"
+"hep-lat/9304005","G. Subramoniam","N.D. Hari Dass and G.Subramoniam (Institute of Mathematical Sciences,
+  C.I.T Campus, Madras 600 113, India)","Analytic Variational Investigation of Euclidean SU(3) Gauge Theory","4-pages in 2-column format, typsetted for LaTeX with document style
+  espcrc2.sty (available on request), IMSc/93-25","Nucl.Phys.Proc.Suppl. 30 (1993) 928-931","10.1016/0920-5632(93)90359-E",,"hep-lat",,"  Analytic variational techniques for lattice gauge theories based on the
+Rayleigh-Ritz(RR) method were previously developed for euclidean SU(2) gauge
+theories in 3 and 4 dimensions. Their extensions to SU(3) gauge theory
+including applications to correlation functions and mass gaps are presented
+here.
+","[{""version"":""v1"",""created"":""Mon, 12 Apr 1993 15:01:28 GMT""}]","2019-08-15"
+"hep-ph/9304244",,"G.L. Kane","Is the World Supersymmetric? Do We Already Know?","12, UM-TH-93-10",,,,"hep-ph",,"  In addition to the very good theoretical motivations for supersymmetry, there
+are now at least nine phenomenological indications that nature is
+supersymmetric. All are indirect, so more is better. They are enumerated here.
+Some discussion is also given of models, of when and where superpartners might
+be directly detected, and of why the scale of supersymmetry cannot be pushed up
+if superpartners and SUSY Higgs bosons are not directly detected.
+","[{""version"":""v1"",""created"":""Mon, 12 Apr 1993 15:44:06 GMT""}]","2007-05-23"
+"hep-th/9304045","Edward G. Derrick","P. Candelas, E. Derrick and L. Parkes","Generalized Calabi-Yau Manifolds and the Mirror of a Rigid Manifold","39 pages, plain TeX","Nucl.Phys. B407 (1993) 115-154","10.1016/0550-3213(93)90276-U","CERN-TH.6831/93, UTTG-24-92","hep-th alg-geom math.AG",,"  We describe the mirror of the Z orbifold as a representation of a class of
+generalized Calabi-Yau manifolds that can be realized as manifolds of dimension
+five and seven. Despite their dimension these correspond to superconformal
+theories with $c=9$ and so are perfectly good for compactifying the heterotic
+string to the four dimensions of space-time. As a check of mirror symmetry we
+compute the structure of the space of complex structures of the mirror and
+check that this reproduces the known results for the Yukawa couplings and
+metric appropriate to the Kahler class parameters on the Z orbifold together
+with their instanton corrections.
+","[{""version"":""v1"",""created"":""Sun, 11 Apr 1993 17:29:30 GMT""}]","2009-10-22"
+"math/9304201","Garvin Melles","Garvin Melles and Saharon Shelah","The automorphism group of a saturated model has a large dense free
+  subgroup",,,,"Logic E-prints April 12, 1993; Shelah [MeSh:452]","math.LO",,"  We prove that for a stable theory $T,$ if $M$ is a saturated model of $T$ of
+cardinality $\lambda$ where $\lambda > \big|T\big|,$ then $Aut(M)$ has a dense
+free subgroup on $2^{\lambda}$ generators. This affirms a conjecture of Hodges.
+","[{""version"":""v1"",""created"":""Mon, 12 Apr 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9304202","Garvin Melles","Garvin Melles","Natural Internal Forcing Schemata Extending ZFC",,,,"Logic E-prints April 12, 1993","math.LO",,"  Let V be the universe of sets and V_{\alpha} the sets of rank \leq\alpha. We
+develop some axiom schemata for set theory based on the following three
+assumptions:
+  1. V \models ZFC
+  2. V is large with respect to the class of ordinals
+  3. V is large with respect to each of the V_{\alpha}
+","[{""version"":""v1"",""created"":""Mon, 12 Apr 1993 00:00:00 GMT""}]","2016-09-06"

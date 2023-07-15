@@ -1,0 +1,149 @@
+"alg-geom/9302004","Alan Durfee","Alan H. Durfee","Intersection homology Betti numbers","6 pages, Latex",,,,"alg-geom math.AG",,"  A generalization of the formula of Fine and Rao for the ranks of the
+intersection homology groups of a complex algebraic variety is given. The proof
+uses geometric properties of intersection homology and mixed Hodge theory.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 16:10:28 GMT""}]","2008-02-03"
+"cond-mat/9302018","Eduardo Miranda","P. Coleman, E. Miranda and A. Tsvelik","Possible Realization of Odd Frequency Pairing in Heavy Fermion Compounds","14 pages",,"10.1103/PhysRevLett.70.2960",,"cond-mat",,"  Using Majorana Fermions to represent spins we re-examine the Kondo Lattice
+model for heavy fermions. The simplest decoupling procedure provides a
+realization of odd frequency superconductivity, with resonant pairing and
+surfaces of gap zeros. Spin and charge coherence factors vanish linearly with
+the energy on the Fermi surface, predicting a linear specific heat, but a $T^3$
+NMR relaxation rate. Possible application to heavy fermions is suggested.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 16:46:55 GMT""}]","2009-10-22"
+"cond-mat/9511107","Stefano Cozzini","Stefano Cozzini and Marco Ronchetti (University of Trento)","Structure of binary clusters: are icosahedra relevant ?","27 pages, revTeX file ,22 figures in postscript format uuencoded with
+  uufiles available on request to cozzini@likix2.us.es (Stefano Cozzini)",,,"preprint UTF-365","cond-mat",,"  We investigate the structure of 13-particle clusters in binary alloys for
+various size ratios and different concentrations via MD simulation. Our goal is
+to predict which systems are likely to form local icosahedral structures when
+rapidly supercooled from the melt. We calculate the energy spectrum of the
+minimal energy structures, and characterize all detected minima from both their
+relative probability and from a structural point of view. We identify regions
+in our parameter space where the icosahedral structure is dominant (like in the
+corresponding monoatomic case), regions where the icosahedral structure
+disappears and other where icosahedral structures are present but not dominant.
+Finally, we compare our results with simulations reported in literature and
+performed on extended binary systems with various size ratios and at different
+concentration
+","[{""version"":""v1"",""created"":""Sat, 13 Feb 1993 01:03:03 GMT""}]","2007-05-23"
+"hep-ph/9302256","Rohini Godbole","Manuel Drees and Rohini M. Godbole","Resolved Photon Processes","50 pages, latex 23 figures (not included) , available by normal mail,
+  needs equation.sty. added at the end here, BU-TH-92/5, TIFR/TH/92-70","Pramana 41:83-123,1993","10.1007/BF02847582",,"hep-ph",,"  We review high--energy scattering processes that are sensitive to the
+hadronic structure of the photon, describing theoretical predictions as well as
+recent experimental results. These processes include deep--inelastic
+electron--photon scattering at \eplem\ colliders; and the production of jets,
+heavy quarks and isolated photons in the collision of real photons at \eplem\
+colliders, as well as in photon--proton collisions at $ep$ colliders. We also
+comment on ``minijet'' based calculations of total $\gamma p$ and
+  \gamgam\ cross--sections, and discuss the possibility that future linear
+  \eplem\ colliders might produce very large photon fluxes due to the
+  ``beamstrahlung'' phenomenon; in the most extreme cases, we predict more than
+one hadronic \gamgam\ event to occur at every bunch crossing.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 22:10:51 GMT""}]","2010-11-01"
+"hep-ph/9302257",,"Edmond L. Berger and Ruibin Meng","Longitudinal Structure Function at Intermediate x and the Gluon Density","7 pages, LaTeX, 2 figs available upon request, ANL-HEP-PR-93-7 &
+  CERN-TH 6785/93","Phys.Lett.B304:318-322,1993","10.1016/0370-2693(93)90302-X",,"hep-ph",,"  Calculations are presented of the longitudinal structure function $F_L(x,
+Q^2)$. We use next-to-leading order expressions in QCD
+$({\cal{O}}(\alpha_s^2))$ plus parton densities determined previously from
+global fits to data on deep inelastic lepton scattering, prompt photon
+production, and bottom quark production. Anticipated data from the DESY ep
+collider HERA should provide discriminating information on the gluon density,
+particularly for values of $x < 0.05$.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 21:12:35 GMT""}]","2014-11-17"
+"hep-ph/9302258","Peter Arnold","Peter Arnold","One-loop fluctuation-dissipation formula for bubble-wall velocity","15 pages with 4 PostScript figures, UW/PT-93-2","Phys.Rev.D48:1539-1545,1993","10.1103/PhysRevD.48.1539",,"hep-ph",,"  The limiting bubble wall velocity during a first-order electroweak phase
+transition is of interest in scenarios for electroweak baryogenesis. Khlebnikov
+has recently proposed an interesting method for computing this velocity based
+on the fluctuation-dissipation theorem. I demonstrate that at one-loop order
+this method is identical to simple, earlier techniques for computing the wall
+velocity based on computing the friction from particles reflecting off or
+transmitting through the wall in the ideal gas limit.
+","[{""version"":""v1"",""created"":""Sat, 13 Feb 1993 00:01:49 GMT""}]","2010-02-16"
+"hep-th/9302047",,"S. Deser and A. Schwimmer","Geometric Classification of Conformal Anomalies in Arbitrary Dimensions","Brandeis BRX--343, SISSA 14/93/EP","Phys.Lett.B309:279-284,1993","10.1016/0370-2693(93)90934-A",,"hep-th",,"  We give a complete geometric description of conformal anomalies in arbitrary,
+(necessarily even) dimension. They fall into two distinct classes: the first,
+based on Weyl invariants that vanish at integer dimensions, arises from finite
+-- and hence scale-free -- contributions to the effective gravitational action
+through a mechanism analogous to that of the (gauge field) chiral anomaly. Like
+the latter, it is unique and proportional to a topological term, the Euler
+density of the dimension, thereby preserving scale invariance. The
+contributions of the second class, requiring introduction of a scale through
+regularization, are correlated to all local conformal scalar polynomials
+involving powers of the Weyl tensor and its derivatives; their number increases
+rapidly with dimension. Explicit illustrations in dimensions 2, 4 and 6 are
+provided.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 19:08:00 GMT""}]","2008-11-26"
+"hep-th/9302049","Martin Rocek","Amit Giveon and Martin Rocek","On the BRST Operator Structure of the N=2 String","22 pages, Latex, NSF-ITP-93-17, ITP-SB-93-09, RIP-148-93","Nucl.Phys. B400 (1993) 145-160","10.1016/0550-3213(93)90401-A",,"hep-th",,"  The BRST operator cohomology of $N=2$ $2d$ supergravity coupled to matter is
+presented. Descent equations for primary superfields of the matter sector are
+derived. We find one copy of the cohomology at ghost number one, two
+independent copies at ghost number two, and conjecture that there is a copy at
+ghost number three. The $N=2$ string has a twisted $N=4$ superconformal
+symmetry generated by the $N=2$ superstress tensor, the BRST supercurrent, the
+antighost superfield, and the ghost number supercurrent.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 21:04:09 GMT""}]","2009-10-22"
+"hep-th/9302051","Guido Cognola","Guido Cognola, Klaus Kirsten and Sergio Zerbini","One-loop effective potential on hyperbolic manifolds","28 pages, LaTex","Phys.Rev.D48:790-799,1993","10.1103/PhysRevD.48.790","UTF 284","hep-th",,"  The one-loop effective potential for a scalar field defined on an ultrastatic
+space-time whose spatial part is a compact hyperbolic manifold, is studied
+using zeta-function regularization for the one-loop effective action. Other
+possible regularizations are discussed in detail. The renormalization group
+equations are derived and their connection with the conformal anomaly is
+pointed out. The symmetry breaking and the topological mass generation are also
+discussed.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 16:31:43 GMT""}]","2011-05-12"
+"hep-th/9302052","Hector DE Vega","H. J. de Vega","Strings in Curved Spacetimes","42 pages,uses phyzzx, LPTHE-PAR 92/50 (ERICE lectures)",,,,"hep-th astro-ph gr-qc",,"  Progress on the physics of strings in curved spacetime are comprehensively
+reviewed.We start by showing through renormalization group arguments that a
+meaningful quantum theory of gravity must be finite and must include all
+particle physics.Then, we review classical and quantum string propagation in
+curved spacetimes.We start by the general expansion method proposed by de Vega
+and S\'anchez in 1987. The particle transmutation phenomena in asymptotically
+flat spacetimes are detailed including fermion-boson transitions in
+supergravity backgrounds.The next chapters review the exactly solvable cases of
+string propagation: shock waves, singular plane waves, conical spacetimes and
+de Sitter cosmological spacetime. The calculation of various physical
+quantities like the string mass and the energy-momentum tensor shows that
+classical and quantum string propagation in shock-waves and singular plane
+waves is physically meaningful and full of interesting new phenomena.The
+important phenomenom of {\bf string stretching} that takes place when strings
+fall into spacetime singularities and in expanding universes is analyzed.We
+conclude by reporting on strings in de Sitter spacetime, where the string
+equations are integrable and reduce to the sinh-Gordon equation and to
+integrable generalizations of it. Lectures delivered at the ERICE SCHOOL
+``STRING QUANTUM
+  GRAVITY AND PHYSICS AT THE PLANCK ENERGY SCALE'', 21-28 June 1992 , to appear
+in the Proceedings edited by N. S\'anchez, World Scientific.
+","[{""version"":""v1"",""created"":""Fri, 12 Feb 1993 18:03:18 GMT""},{""version"":""v2"",""created"":""Mon, 15 Feb 1993 14:36:32 GMT""}]","2008-02-03"
+"hep-th/9302053",,"Christian Grosche and Frank Steiner","Classification of Solvable Feynman Path Integrals","13 pages, amstex, preprint DESY 92--189, and SISSA/1/93/FM",,,,"hep-th",,"  A systematic classification of Feynman path integrals in quantum mechanics is
+presented and a table of solvable path integrals is given which reflects the
+progress made during the last ten years or so, including, of course, the main
+contributions since the invention of the path integral by Feynman in 1942. An
+outline of the general theory is given. Explicit formul\ae\ for the so-called
+basic path integrals are presented on which our general scheme to classify and
+calculate path integrals in quantum mechanics is based.
+","[{""version"":""v1"",""created"":""Sat, 13 Feb 1993 13:02:49 GMT""}]","2007-05-23"
+"hep-th/9302054",,"Christian Grosche","Path Integral Solution of a Class of Explicitly Time-Dependent
+  Potentials","13 pages, amstex, SISSA/2/93/FM (In the revised version some
+  improvements and corrections have been made.)",,"10.1016/0375-9601(93)90048-5",,"hep-th",,"  A specific class of explicitly time-dependent potentials is studied by means
+of path integrals. For this purpose a general formalism to treat explicitly
+time-dependent space-time transformations in path integrals is sketched. An
+explicit time-dependent model under consideration is of the form
+$V(q,t)=V[q/\zeta(t)]/\zeta^2(t)$, where $V$ is a usual potential, and
+$\zeta(t)=(at^2+2bt+c)^{1/2}$. A recent result of Dodonov et al.\ for
+calculating corresponding propagators is incorporated into the path integral
+formalism by performing a space-time transformation. Some examples illustrate
+the formalism.
+","[{""version"":""v1"",""created"":""Sat, 13 Feb 1993 13:03:08 GMT""},{""version"":""v2"",""created"":""Sat, 11 Sep 1993 09:58:58 GMT""}]","2009-10-22"
+"hep-th/9302055",,"Christian Grosche","$\delta$-Function Perturbations and Boundary Problems by Path
+  Integration","35 pages, amstex, preprint SISSA/18/93/FM","Annalen Phys. 2 (1993) 557-589","10.1002/andp.19935050606",,"hep-th",,"  A wide class of boundary problems in quantum mechanics is discussed by using
+path integrals. This includes motion in half-spaces, radial boxes, rings, and
+moving boundaries. As a preparation the formalism for the incorporation of
+$\delta$-function perturbations is outlined, which includes the discussion of
+multiple $\delta$-function perturbations, $\delta$-function perturbations along
+perpendicular lines and planes, and moving $\delta$-function perturbations. The
+limiting process, where the strength of the $\delta$-function perturbations
+gets infinite repulsive, has the effect of producing impenetrable walls at the
+locations of the $\delta$-function perturbations, i.e.\ a consistent
+description for boundary problems with Dirichlet boundary-condition emerges.
+Several examples illustrate the formalism.
+","[{""version"":""v1"",""created"":""Sat, 13 Feb 1993 13:03:26 GMT""}]","2016-09-06"
+"hep-th/9302056",,"Christian Grosche","Selberg Supertrace Formula for Super Riemann Surfaces III: Bordered
+  Super Riemann Surfaces","43 pages, amstex","Commun. Math. Phys. 162 (1994) 591-632","10.1007/BF02101748","SISSA/180/92/FM","hep-th",,"  This paper is the third in a sequel to develop a super-analogue of the
+classical Selberg trace formula, the Selberg supertrace formula. It deals with
+bordered super Riemann surfaces. The theory of bordered super Riemann surfaces
+is outlined, and the corresponding Selberg supertrace formula is developed. The
+analytic properties of the Selberg super zeta-functions on bordered super
+Riemann surfaces are discussed, and super-determinants of Dirac-Laplace
+operators on bordered super Riemann surfaces are calculated in terms of Selberg
+super zeta-functions.
+","[{""version"":""v1"",""created"":""Sat, 13 Feb 1993 13:18:37 GMT""}]","2009-10-22"

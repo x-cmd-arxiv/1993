@@ -1,0 +1,256 @@
+"astro-ph/9305018","Michael Strauss","Francois R. Bouchet, et al","Moments of the Counts Distribution in the 1.2 Jy IRAS Redshift Survey","38 pages, postscript file (1.3 Megabytes) . IAS preprint number AST
+  93/26","Astrophys.J. 417 (1993) 36","10.1086/173289",,"astro-ph",,"  We derive the volume-averaged 2, 3, 4, and 5-point correlation functions from
+the moments of the Count probability distribution function of a redshift survey
+of IRAS galaxies, and find them all to be reasonably well-described by power
+laws. Weak systematic effects with the sample size provide evidence for
+stronger clustering of galaxies of higher luminosity on small scales.
+Nevertheless, remarkably tight relationships hold between the correlation
+functions of different order. In particular, the ``normalized"" skewness defined
+by the ratio $S_3\equiv \bar{\xi_3} / \bar{\xi_2}^2$ varies at most weakly with
+scale in the range $0.1 < \bar{\xi_2} < 10$. That is, $S_3$ is close to
+constant ($=1.5\pm 0.5$) from weakly to strongly non-linear scales.
+Furthermore, we find that the void probability function obeys a scaling
+relation with density to great precision, in accord with the scale-invariance
+hypothesis ($\bar{\xi_N}\propto\bar{\xi_2}^{N-1}$).
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 14:58:53 GMT""}]","2009-10-22"
+"chao-dyn/9305005","Jens Bolte","Jens Bolte (Hamburg University)","Some Studies on Arithmetical Chaos in Classical and Quantum Mechanics","update compatible with current LaTeX versions","Int. J. Mod. Phys. B7 (1993) 4451-4553","10.1142/S0217979293003759","DESY 93-044","chao-dyn nlin.CD","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Several aspects of classical and quantum mechanics applied to a class of
+strongly chaotic systems are studied. These consist of single particles moving
+without external forces on surfaces of constant negative Gaussian curvature
+whose corresponding fundamental groups are supplied with an arithmetic
+structure. It is shown that the arithmetic features of the considered systems
+lead to exceptional properties of the corresponding spectra of lengths of
+periodic orbits. The most significant one is an exponential growth of
+degeneracies in these length spectra. Furthermore, the arithmetical systems are
+distinguished by a structure that appears as a generalization of geometric
+symmetries. These pseudosymmetries occur in the quantization of the classical
+arithmetic systems as Hecke operators, which form an infinite algebra of
+self-adjoint operators commuting with the Hamiltonian. The statistical
+properties of quantum energies in the arithmetical have previously been
+identified as exceptional. They do not fit into the general scheme of random
+matrix theory. It is shown with the help of a simplified model for the spectral
+form factor how the spectral statistics in arithmetic quantum chaos can be
+understood by the properties of the corresponding classical length spectra. A
+decisive is played by the exponentially increasing multiplicities of lengths.
+The model developed for the level spacings distribution and for the number
+variance is compared to the corresponding quantities obtained from quantum
+energies for a specific arithmetical system.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 14:50:14 GMT""},{""version"":""v2"",""created"":""Fri, 21 May 1993 14:59:39 GMT""},{""version"":""v3"",""created"":""Fri, 3 Jul 2009 10:49:37 GMT""}]","2009-10-22"
+"comp-gas/9305001","Robert M. Farber","Robert M. Farber and Alan S. Lapedes (Theoretical Division, LANL), and
+  Ramiro Rico-Mart\'inez and Ioannis G. Kevrekidis (Department of Chemical
+  Engineering, Princeton University)","Identification of Continuous-Time Dynamical Systems: Neural Network
+  Based Algorithms and Parallel Implementation","Postscript file",,,,"comp-gas adap-org nlin.AO nlin.CG",,"  Time-delay mappings constructed using neural networks have proven successful
+in performing nonlinear system identification; however, because of their
+discrete nature, their use in bifurcation analysis of continuous-time systems
+is limited. This shortcoming can be avoided by embedding the neural networks in
+a training algorithm that mimics a numerical integrator. Both explicit and
+implicit integrators can be used. The former case is based on repeated
+evaluations of the network in a feedforward implementation; the latter relies
+on a recurrent network implementation. Here the algorithms and their
+implementation on parallel machines (SIMD and MIMD architectures) are
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 13 May 1993 22:26:11 GMT""}]","2016-08-14"
+"cond-mat/9305011","Jun Hu","Jun Hu and A.H. MacDonald","Two-Dimensional Vortex Lattice Melting","10 pages (4 figures available on request), RevTex 3.0, IUCM93-009",,"10.1103/PhysRevLett.71.432",,"cond-mat",,"  We report on a Monte-Carlo study of two-dimensional Ginzburg-Landau
+superconductors in a magnetic field which finds clear evidence for a
+first-order phase transition characterized by broken translational symmetry of
+the superfluid density. A key aspect of our study is the introduction of a
+quantity proportional to the Fourier transform of the superfluid density which
+can be sampled efficiently in Landau gauge Monte-Carlo simulations and which
+satisfies a useful sum rule. We estimate the latent heat per vortex of the
+melting transition to be $\sim 0.38 k_B T_M$ where $T_M$ is the melting
+temperature.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 04:34:11 GMT""}]","2009-10-22"
+"cond-mat/9305012","Shin-ichi Tadaki","Shin-ichi Tadaki","Orbits in one-dimensional finite linear cellular automata","16 pages, 5 figures(uuencoded)",,"10.1103/PhysRevE.49.1168",,"cond-mat",,"  Periodicity and relaxation are investigated for the trajectories of the
+states in one-dimensional finite cellular automata with rule-90 and 150. The
+time evolutions are described with matrices. Eigenvalue analysis is applied to
+clarify the maximum value of period and relaxation.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 05:35:56 GMT""}]","2009-10-22"
+"cond-mat/9305013","Kikuo Harigaya Harry-chan","Kikuo Harigaya and G. A. Gehring (Department of Physics, University of
+  Sheffield, Sheffield, United Kingdom)","Elastic anomaly of heavy fermion systems in a crystalline field","submitted to J. Phys.: Condens. Matter, please request figure copies
+  to K.Harigaya@shef.ac.uk","J. Phys.: Condens. Matter 5 (1993) 5277-5282","10.1088/0953-8984/5/30/007",,"cond-mat",,"  An elastic anomaly, observed in the heavy fermi liquid state of Ce alloys
+(for example, CeCu$_6$ and CeTe), is analyzed by using the infinite-$U$
+Anderson lattice model. The four atomic energy levels are assumed for
+f-electrons. Two of them are mutually degenerate. A small crystalline splitting
+$2\Delta$ is assumed between two energy levels. The fourfold degenerate
+conduction bands are also considered in the model. We solve the model using the
+mean field approximation to slave bosons, changing the Fermi energy in order to
+keep the total electron number constant. The nonzero value of the mean field of
+the slave bosons persists over the temperatures much higher than the Kondo
+temperature. This is the effect of the constant electron number. Next, the
+linear susceptibility with respect to $\Delta$ is calculated in order to obtain
+the renomalized elastic constant. The resulting temperature dependence of the
+constant shows the downward dip. We point out the relation of our finding with
+the experimental data.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 11:11:12 GMT""}]","2007-05-23"
+"gr-qc/9305012","Ulf Danielsson","Ulf H. Danielsson and Marcelo Schiffer","Quantum Mechanics, Common Sense and the Black Hole Information Paradox","15 pages, Latex, CERN-TH.6889/93","Phys.Rev. D48 (1993) 4779-4784","10.1103/PhysRevD.48.4779",,"gr-qc hep-th",,"  The purpose of this paper is to analyse, in the light of information theory
+and with the arsenal of (elementary) quantum mechanics (EPR correlations,
+copying machines, teleportation, mixing produced in sub-systems owing to a
+trace operation, etc.) the scenarios available on the market to resolve the
+so-called black-hole information paradox. We shall conclude that the only
+plausible ones are those where either the unitary evolution of quantum
+mechanics is given up, in which information leaks continuously in the course of
+black-hole evaporation through non-local processes, or those in which the world
+is polluted by an infinite number of meta-stable remnants.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 14:02:00 GMT""}]","2009-10-22"
+"hep-ph/9305261","Neil Turok","David Coulson, Ue-Li Pen and Neil Turok","Degree Scale Microwave Anisotropies in NonGaussian Theories of Cosmic
+  Structure Formation","13 pages, TeX, figure 2 appended as a postscript file, figures 1a-e
+  available by anonymous ftp (color postscript files), PUP-TH-93/1393",,,,"hep-ph astro-ph",,"  The COBE satellite's maps of the cosmic microwave background (CMB) anisotropy
+do not have the resolution to discriminate between theories of cosmic structure
+formation based on inflation, and those based on field ordering following a
+symmetry breaking phase transition. For this purpose it is critical to resolve
+the CMB anisotropy on degree scales. In this paper we report on detailed
+calculations of the degree scale anisotropies predicted in the global string,
+monopole, texture and nontopological texture scenarios of structure formation,
+emphasising their distinct character from those predicted by inflation, and
+commenting on the prospects of their detection in the near future.
+","[{""version"":""v1"",""created"":""Thu, 13 May 1993 23:00:44 GMT""}]","2009-09-25"
+"hep-ph/9305262","Jan Louis","R. Barbieri, J. Louis, M. Moretti","Phenomenological Implications of Supersymmetry Breaking by the Dilaton","14 pages, (4 figures not included, available upon request),
+  CERN-TH.6856/93 (In the previous version of this article the gaugino masses
+  were given incorrectly. As a consequences the quantitative analysis of the
+  low energy spectrum changes.)","Phys.Lett.B312:451-460,1993; ERRATUM-ibid.B316:632,1993","10.1016/0370-2693(93)90981-M",,"hep-ph hep-th",,"  We investigate the low energy properties of string vacua with spontaneously
+broken $N=1$ supersymmetry by a dilaton $F$-term. As a consequence of the
+universal couplings of the dilaton, the supersymmetric mass spectrum is
+determined in terms of only three independent parameters and more constrained
+than in the minimal supersymmetric Standard Model. For a $\mu$-term induced by
+the \K\ potential the parameter space becomes two-dimensional; in the allowed
+regions of this parameter space we find that most supersymmetric particles are
+determined solely by the gluino mass. The Higgs is rather light and the
+top-quark mass always lower than 180 GeV.
+","[{""version"":""v1"",""created"":""Thu, 13 May 1993 20:49:56 GMT""},{""version"":""v2"",""created"":""Tue, 6 Jul 1993 17:46:43 GMT""}]","2011-07-19"
+"hep-ph/9305263","Tom Gould","Thomas M. Gould and Erich R. Poppitz","Semiclassical Scattering in Yang-Mills Theory","JHU-TIPAC-930012, 34 pgs., (LaTeX, one uuencoded figure)","Nucl.Phys.B418:131-156,1994","10.1016/0550-3213(94)90241-0",,"hep-ph hep-th",,"  A classical solution to the Yang-Mills theory is given a new semiclassical
+interpretation. The boundary value problem on a complex time contour which
+arises from the semiclassical approximation to multiparticle scattering
+amplitudes is reviewed and applied to the case of Yang- Mills theory. The
+solution describes a classically for- bidden transition between states with a
+large average number of particles in the limit $g\rightarrow 0$. It dominates a
+transition probability with a semiclassical suppression factor equal to twice
+the action of the well- known BPST instanton. Hence, it is relevant to the pro-
+blem of high energy tunnelling. It describes transitions of unit topological
+charge for an appropriate time contour. Therefore, it may have a direct
+interpretation in terms of fermion number violating processes in electroweak
+theory. The solution describes a transition between an initial state with
+parametrically fewer particles than the final state. Thus, it may be relevant
+to the study of semiclassical initial state corrections in the limit of a small
+number of initial particles. The implications of these results for
+multiparticle production in electroweak theory are also discussed.
+","[{""version"":""v1"",""created"":""Thu, 13 May 1993 20:20:51 GMT""}]","2010-11-01"
+"hep-ph/9305264",,"Pierre Sikivie, D.B. Tanner, and Yun Wang","Axion detection in the milli-eV mass range","LaTex, 9 pages, 4 figures (sent upon request), UFIFT-HEP-93--2","Phys.Rev.D50:4744-4748,1994","10.1103/PhysRevD.50.4744",,"hep-ph astro-ph",,"  We propose an experimental scheme to search for galactic halo axions with
+mass $m_a \sim 10^{-3}$eV, which is above the range accessible with cavity
+techniques. The detector consists of a large number of parallel superconducting
+wires embedded in a material transparent to microwave radiation. The wires
+carry a current configuration which produces a static, inhomogeneous magnetic
+field $\vec{B}_0(\vec{x})$ within the detector volume. Axions which enter this
+volume may convert to photons. We discuss the feasibility of the detector and
+its sensitivity.
+","[{""version"":""v1"",""created"":""Thu, 13 May 1993 20:25:16 GMT""}]","2009-12-30"
+"hep-ph/9305265","Lawrence M. Krauss","Lawrence M. Krauss, John Terning, and Thomas Appelquist","Neutrino Cosmology and Limits on Extended Technicolor","12 pages plus one figure (not included, available as ps file from
+  Krauss), YCTP-P8-93","Phys.Rev.Lett. 71 (1993) 823-826","10.1103/PhysRevLett.71.823",,"hep-ph astro-ph",,"  Using Big Bang Nucleosynthesis limits on the number of light neutrinos we
+derive a cosmological lower bound of $\approx 2$ TeV on the scale of extended
+technicolor interactions (or any other new interactions) for the third family
+in models where heavy gauge bosons couple to both left and right-handed
+neutrinos.
+","[{""version"":""v1"",""created"":""Thu, 13 May 1993 20:26:37 GMT""}]","2009-10-22"
+"hep-ph/9305266","Davison Soper","Stephen D. Ellis and Davision E. Soper","Successive Combination Jet Algorithm For Hadron Collisions","18 pages plus four uuencoded postscript figures, REVTEX 3.0,
+  CERN-TH.6860/93","Phys.Rev.D48:3160-3166,1993","10.1103/PhysRevD.48.3160",,"hep-ph",,"  Jet finding algorithms, as they are used in $e^+ e^-$ and hadron collisions,
+are reviewed and compared. It is suggested that a successive combination style
+algorithm, similar to that used in $e^+ e^-$ physics, might be useful also in
+hadron collisions, where cone style algorithms have been used previously.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 01:40:29 GMT""}]","2010-02-18"
+"hep-ph/9305267",,"Patricia Ball","The Semileptonic Decays $D\to \pi(\rho) e \nu$ and $B\to \pi (\rho) e
+  \nu$ from QCD Sum Rules","23 pages, 12 figures included as uu-encoded file, needs REVTEX,
+  TUM--T31--39/93","Phys.Rev.D48:3190-3203,1993","10.1103/PhysRevD.48.3190",,"hep-ph",,"  We investigate the semileptonic decays of B and D mesons into $\pi$ and
+$\rho$ mesons, respectively, by means of QCD sum rules. We find that for the
+vector formfactors involved the pole dominance hypothesis is valid to good
+accuracy with pole masses in the expected range. Pole dominance, however, does
+not apply to the axial formfactors which results in specific predictions for
+the predominant polarization of the $\rho$ meson and the shape of the lepton
+spectrum. For the total decay rates we find $\Gamma (\bar B^0 \to \pi^+ e^-
+\bar\nu) = (5.1\pm 1.1)\,|V_{ub}|^2\, 10^{12}\,{\rm s^{-1}}$, $\Gamma ( D^0 \to
+\pi^- e^+ \nu) = (8.0\pm 1.7)\,|V_{cd}|^2\, 10^{10}\,{\rm s^{-1}}$, $\Gamma
+(\bar B^0 \to \rho^+ e^- \bar\nu) = (1.2\pm 0.4\,)\,|V_{ub}|^2\, 10^{13}\,{\rm
+s^{-1}}$ and $\Gamma (D^0 \to \rho^- e^+\nu) = (2.4\pm 0.7)\,|V_{cd}|^2\,
+10^{9}\,{\rm s^{-1}}$.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 07:28:19 GMT""}]","2010-11-01"
+"hep-ph/9305268","Giorgos Leontaris","G.K. Leontaris","A Fermion Mass Matrix Ansatz for the Fipped SU(5) Model","10 pages,(No figures),IOA-292/93",,,,"hep-ph",,"  A fermion mass matrix ansatz is proposed in the context of Grand Unified
+Supersymmetric Theories (GUTs). The fermion mass matrices are evolved down to
+the electroweak scale by solving the renormalization group equations for the
+gauge and Yukawa couplings. Eight inputs are introduced at the GUT scale to
+predict the 13 arbitrary parameters of the Standard model. The constraints
+imposed by the charged fermion data are used to make predictions in the
+neutrino sector. In particular, the neutrino mass matrix is worked out in the
+case of the flipped SU(5) model and it is found that the
+  {\it generalized } see-saw mechanism which occurs naturally in this model can
+provide a solution to the solar neutrino puzzle and give a sufficiently large
+$\nu_{\tau}$ mass to contribute as a hot dark matter component as indicated by
+the recent COBE data.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 13:27:52 GMT""},{""version"":""v2"",""created"":""Tue, 18 May 1993 16:17:29 GMT""}]","2008-02-03"
+"hep-th/9305058",,"Masoud Alimohammadi","Some Correlators of $SU(3)_3$ WZW Models on Higher-Genus Riemann
+  Surfaces","19 pages","Mod. Phys. Lett. A9 (1994) 381","10.1142/S021773239400040X",,"hep-th",,"  Using the conformal embedding on the torus, we can express some characters of
+$SU(3)_3$ in terms of $SO(8)_1$ characters. Then with the help of crossing
+symmetry, modular transformation and factorization properties of Green
+functions, we will calculate a class of correlators of $SU(3)_3$ on arbitrary
+Riemann surfaces. This method can apply to all $k>1$ WZW models which can be
+conformally embedded in some $k=1$ WZW models.
+","[{""version"":""v1"",""created"":""Thu, 13 May 1993 19:46:17 GMT""}]","2015-06-26"
+"hep-th/9305060",,"Huazhong Zhang","Global Quantization of Vacuum Angle and Magnetic Monopoles as a New
+  Solution to the Strong CP Problem","JSUHEP921201, LaTeX 10 pages. To be published in ""Fundamental Aspects
+  of Quantum Theory"", (World Scientific, Singapore), Proceedings of the
+  International Symposium, Columbia, SC, USA., Dec. 1992)",,,,"hep-th",,"  The non-perturbative solution to the strong CP problem with magnetic
+monopoles as originally proposed by the author is described. It is shown that
+the gauge orbit space with gauge potentials and gauge tranformations restricted
+on the space boundary and the globally well-defined gauge subgroup in gauge
+theories with a $\theta$ term has a monopole structure if there is a magnetic
+monopole in the ordinary space. The Dirac's quantization condition then ensures
+that the vacuum angle $\theta$ in the gauge theories must be quantized to have
+a well-defined physical wave functional. The quantization rule for $\theta$ is
+derived as $\theta=0, 2\pi/n~(n\neq 0)$ with n being the topological charge of
+the magnetic monopole. Therefore, the strong CP problem is automatically solved
+with the existence of a magnetic monopole of charge $\pm 1$ with $\theta=\pm
+2\pi$. This is also true when the total magnetic charge of monopoles are very
+large ($|n|\geq 10^92\pi$). The fact that the strong CP violation can be only
+so small or vanishing may be a signal for the existence of magnetic monopoles
+and the universe is open.
+","[{""version"":""v1"",""created"":""Thu, 13 May 1993 16:03:08 GMT""}]","2007-05-23"
+"hep-th/9305061","Nobuyuki Ishibashi","Nobuyuki Ishibashi","2D String Theory Coupled to Quantum Gravity","12 pages, LaTex, KEK-TH-361","Phys.Lett. B312 (1993) 411-416","10.1016/0370-2693(93)90976-O",,"hep-th",,"  We consider self-avoiding Nambu-Goto open strings on a random surface. We
+have shown that the partition function of such a string theory can be
+calculated exactly. The string susceptibility for the disk is evaluated to be
+$-\frac{1}{2}$. We also consider modifications of the Nambu-Goto action which
+are exactly soluble on a random surface.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 08:05:03 GMT""},{""version"":""v2"",""created"":""Tue, 18 May 1993 05:38:50 GMT""}]","2009-10-22"
+"hep-th/9305062","Lev Vaidman","Lev Vaidman","Teleportation of Quantum States","5 pages",,"10.1103/PhysRevA.49.1473","TAUP 2051-93","hep-th",,"  Bennett et al. (PRL 70, 1859 (1993)) have shown how to transfer (""teleport"")
+an unknown spin quantum state by using prearranged correlated quantum systems
+and transmission of classical information. I will show how their results can be
+obtained in the framework of nonlocal measurements proposed by Aharonov and
+Albert I will generalize the latter to the teleportation of a quantum state of
+a system with continuous variables.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 09:59:20 GMT""}]","2009-10-22"
+"hep-th/9305063",,"Davide Franco and Cesare Reina (SISSA - Strada Costiera 11 -TRIESTE
+  (Italy))","\bf A Borel-Weil-Bott approach to representations of $\slq$","(5 pages - Plane TEX - SISSA-58/93/FM",,"10.1007/BF00761109",,"hep-th",,"  We use a quite concrete and simple realization of $\slq$ involving finite
+difference operators. We interpret them as derivations (in the non-commutative
+sense) on a suitable graded algebra, which gives rise to the double of the
+projective line as the non commutative version of the standard homogeneous
+space.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 11:00:24 GMT""}]","2009-10-22"
+"hep-th/9305064","Tomasz Taylor","Soo-Jong Rey and T.R. Taylor","Instanton Effects in Supergravity Theories","10 pages, NUB-3064--PUPT-1400--SNUTP-93-29","Phys.Rev.Lett. 71 (1993) 1132-1135","10.1103/PhysRevLett.71.1132",,"hep-th hep-ph",,"  Non-perturbative effects of instanton-like solutions are studied within the
+framework of supergravity theories with field-dependent gauge functions.
+Fermionic zero modes are constructed and some typical correlation functions are
+evaluated. The effects of instantons are very similar to those in globally
+supersymmetric theories: they preserve supersymmetry while breaking a chiral
+$U(1)$ symmetry. Non-perturbative amplitudes receive corrections which are
+suppressed at large distances.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 15:09:00 GMT""}]","2009-10-22"
+"hep-th/9305065","B. Harms","B. Harms and Y. Leblanc","Classical Stringy Black Holes Modify the Thermal Spectrum","8 pages, REVTEX",,,,"hep-th",,"  Non-local (alpha prime) corrections to Schwarzschild black holes are shown to
+invalidate the thermodynamical interpretation of black holes. In particular,
+the canonical and Bekenstein-Hawking temperatures are not equal. The particle
+number density of fields quantized in the (alpha prime modified) black hole
+background is no longer thermal. In the non-perturbative region (alpha prime
+going to infinity or mass going to zero), an analytic continuation to the
+number density is shown to vanish exponentially.
+","[{""version"":""v1"",""created"":""Fri, 14 May 1993 15:56:23 GMT""}]","2007-05-23"
+"patt-sol/9305002","Roberto Camassa","Roberto Camassa and Darryl D. Holm (Theoretical Division and Center
+  for Nonlinear Studies, LANL)","An integrable shallow water equation with peaked solitons","LaTeX file. Figure available from authors upon request",,"10.1103/PhysRevLett.71.1661",,"patt-sol nlin.PS",,"  We derive a new completely integrable dispersive shallow water equation that
+is biHamiltonian and thus possesses an infinite number of conservation laws in
+involution. The equation is obtained by using an asymptotic expansion directly
+in the Hamiltonian for Euler's equations in the shallow water regime. The
+soliton solution for this equation has a limiting form that has a discontinuity
+in the first derivative at its peak.
+","[{""version"":""v1"",""created"":""Thu, 13 May 1993 21:02:43 GMT""}]","2009-10-22"

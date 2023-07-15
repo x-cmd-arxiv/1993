@@ -1,0 +1,375 @@
+"alg-geom/9312010","Charles Walter","Charles H. Walter","On the Harder-Narasimhan Filtration for Coherent Sheaves on P2: I","14 pages, LATeX 2.09",,,,"alg-geom math.AG",,"  Let E be a torsion-free sheaf on P2. We give an effective method which uses
+the Hilbert function of E to construct a weak version of the Harder-Narasimhan
+filtration of a torsion-free sheaf on P2 subject only to the condition that E
+be sufficiently general among sheaves with that Hilbert function. This
+algorithm uses on a generalization of Davis' decomposition lemma to higher
+rank.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 15:00:43 GMT""}]","2008-02-03"
+"alg-geom/9312011","Charles Walter","Charles H. Walter","Components of the Stack of Torsion-Free Sheaves of Rank 2 on Ruled
+  Surfaces","16 pages, LATeX 2.09","Math. Ann. 301 (1995), 699-715",,,"alg-geom math.AG",,"  Let S be a ruled surface without sections of negative self-intersection. We
+classify the irreducible components of the moduli stack of torsion-free sheaves
+of rank 2 sheaves on S. We also classify the irreducible components of the
+Brill-Noether loci in Hilb^N(P1xP1) given by W_N^0(D)={[X] | h^1(I_X(D)) >= 1 }
+for D an effective divisor class. Our methods are also applicable to P2 giving
+new proofs of theorems of Stromme (slightly extended) and Coppo.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 15:03:46 GMT""}]","2008-02-03"
+"astro-ph/9312047",,"G.F. Giudice, S. Mollerach, and E. Roulet","Can EROS/MACHO be detecting the galactic spheroid instead of the
+  galactic halo?","12 pages, CERN-TH.7127/93","Phys.Rev.D50:2406-2413,1994","10.1103/PhysRevD.50.2406",,"astro-ph hep-ph",,"  Models of our galaxy based on dynamical observations predict a spheroid
+component much heavier than accounted for by direct measurements of star counts
+and high velocity stars. If, as first suggested by Caldwell and Ostriker, this
+discrepancy is due to a large population of faint low-mass stars or dark
+objects in the spheroid, the spheroid could be responsible for microlensing
+events for sources in the Large Magellanic Cloud (LMC). We show that, although
+the rate of events is lower than predicted by a galactic halo made of
+microlensing objects, it is still significant for EROS/MACHO observations.
+Because of the different matter distributions in the halo and spheroid
+components, a comparison between microlensing event rates in the LMC, future
+measurements of microlensing in the galactic bulge and, possibly, in M31 can
+provide information about the amounts of dark objects in the different galactic
+components. If the EROS/MACHO collaborations find a deficiency with respect to
+their halo expectation, when more statistics are available, their detected
+events could be interpreted as coming from spheroid microlenses, allowing for a
+galactic halo composed entirely of non-baryonic dark matter.
+","[{""version"":""v1"",""created"":""Sun, 19 Dec 1993 17:51:04 GMT""},{""version"":""v2"",""created"":""Fri, 27 May 1994 15:20:25 GMT""}]","2010-11-30"
+"astro-ph/9312048","Vladimir Usov","Vladimir V. Usov","Radiation from Vela-Like Pulsars Near the Death Line","12 pages of Tex, accepted for publication in ApJ, WIS/87/PH","Astrophys.J. 427 (1994) 394-399","10.1086/174149",,"astro-ph",,"  Radiation of both the outer gaps and the neutron star surface is considered
+for a Vela-like pulsar near the death line. It is shown that if such a pulsar
+is close enough to the death line, its optical, UV and X-ray emission has to
+increase. Using results of this consideration, it is argued that Geminga is not
+a close relative of Vela-like pulsars. The outer gap model of Geminga in which
+the main part of the outer gap volume operates as a Vela-like generator of
+$\gamma$-rays is ruled out. A Vela-like mechanism of $\gamma$-ray generation
+can operate only in a small region of the outer gap of Geminga. The length of
+this region along the magnetic field is an order of magnitude smaller than the
+outer gap dimensions. In the magnetosphere of Geminga the main mechanism of
+$\gamma$-ray generation at $\sim 10 - 10^4$ MeV is curvature radiation and not
+the synchrotron radiation as it was assumed for Vela-like pulsars.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 07:00:47 GMT""}]","2009-10-22"
+"cond-mat/9312072","Maria Vieira","Maria de Sousa Vieira","Chaos In A Homogeneous Model For Earthquakes","Plain TEX. 9 Pages. Figures available on request",,,"HLRZ-KFA-104/93","cond-mat",,"  We investigate the nonlinear properties of a system introduced by Burridge
+and Knopoff to model the dynamics of earthquakes. We find that a two-block
+system in a completely homogeneous configuration presents a complex behavior
+characterized by the presence of periodic, quasiperiodic and chaotic orbits. We
+have found routes to chaos via two types of intermittencies and period doubling
+bifurcations. The sensitivity of the evolution to different initial conditions
+is quantified by calculating the largest Liapunov exponent. The dynamics of the
+model is governed by nondifferentiable flows.
+","[{""version"":""v1"",""created"":""Sun, 19 Dec 1993 19:10:17 GMT""}]","2007-05-23"
+"cond-mat/9312073","Martin Plumer","M.L. Plumer, A. Mailhot, and A. Caill\'e (Universit\'e de Sherbrooke,
+  Sherbrooke, Qu\'ebec, Canada)","Magnetic Phase Diagram of the Ferromagnetically Stacked Triangular XY
+  Antiferromagnet: A Finite-Size Scaling Study","5 pages (RevTex 3.0), 6 figures available upon request, CRPS 93-4",,"10.1103/PhysRevB.49.15133",,"cond-mat",,"  Histogram Monte-Carlo simulation results are presented for the magnetic-field
+-- temperature phase diagram of the XY model on a stacked triangular lattice
+with antiferromagnetic intraplane and ferromagnetic interplane interactions.
+Finite-size scaling results at the various transition boundaries are consistent
+with expectations based on symmetry arguments. Although a molecular-field
+treatment of the Hamiltonian fails to reproduce the correct structure for the
+phase diagram, it is demonstrated that a phenomenological Landau-type
+free-energy model contains all the esstential features. These results serve to
+complement and extend our earlier work [Phys. Rev. B {\bf 48}, 3840 (1993)].
+","[{""version"":""v1"",""created"":""Sun, 19 Dec 1993 21:10:16 GMT""}]","2009-10-22"
+"cond-mat/9312074",,"Assa Auerbach, Nicola Manini and Erio Tosatti","Electron--Vibron Interactions and Berry Phases in Charged
+  Buckminsterfullerene: Part I","29 pages (+7 figures, 3 available upon request), LATEX,
+  report-number: BM5154","Phys. Rev. B 49, 12998 (1994)","10.1103/PhysRevB.49.12998",,"cond-mat",,"  A simple model for electron-vibron interactions on charged
+buckminsterfullerene C$_{60}^{n-}$, $n=1,\ldots 5$, is solved both at weak and
+strong couplings. We consider a single $H_g$ vibrational multiplet interacting
+with $t_{1u}$ electrons. At strong coupling the semiclassical dynamical
+Jahn-Teller theory is valid. The Jahn-Teller distortions are unimodal for
+$n$=1,2,4,5 electrons, and bimodal for 3 electrons. The distortions are
+quantized as rigid body pseudo--rotators which are subject to geometrical Berry
+phases. These impose ground state degeneracies and dramatically change zero
+point energies. Exact diagonalization shows that the semiclassical level
+degeneracies and ordering survive well into the weak coupling regime. At weak
+coupling, we discover an enhancement factor of $5/2$ for the pair binding
+energies over their classical values. This has potentially important
+implications for superconductivity in fullerides, and demonstrates the
+shortcoming of Migdal--Eliashberg theory for molecular crystals.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 10:20:50 GMT""},{""version"":""v2"",""created"":""Tue, 21 Dec 1993 09:34:52 GMT""},{""version"":""v3"",""created"":""Mon, 24 Jan 1994 09:50:01 GMT""}]","2009-10-22"
+"cond-mat/9312075","Alessandro Fortunelli","Alessandro Fortunelli and Anna Painelli","The orbital relaxation: a possible origin of t-J model with large J","7 pages, plain Tex version 2.93, 2 figures available upon request via
+  mail/fax (no local report #)",,"10.1016/0038-1098(94)90730-7",,"cond-mat",,"  Whereas the t-J model has gained wide popularity among physicists as a model
+for high-T_C superconductivity, its physical origin is not at all clear. In
+this communication we show that the Hubbard model with occupation-dependent
+hopping (t_1-t_2-t_3-U model), recently proposed to account for the relaxation
+of doubly-occupied orbitals, reduces, in a physically relevant parameter
+region, to an effective t-J-t' model with no upper bound on the J/t ratio.
+Results of exact diagonalization studies on finite size systems demonstrate the
+equivalence between the t_1-t_2-t_3-U model with intermediate/large U and the
+t-J-t' model even for very large J/t ratio (up to 16). On the contrary, t-U and
+t-J models turn out to be equivalent to t-J-t' model only for very small J
+values (J much smaller than t). Implications of the results on high-T_C
+superconductivity are briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 10:20:47 GMT""}]","2009-10-22"
+"cond-mat/9312076",,"Nicola Manini, Erio Tosatti and Assa Auerbach","Electron--Vibron Interactions in Charged Buckminsterfullerene: Pair
+  Energies and Spectra (Part II)","28 pages (+3 ps figures), LATEX, report-number: BM5155","Phys. Rev. B 49, 13008 (1994)","10.1103/PhysRevB.49.13008",,"cond-mat",,"  The ground state energy shifts and excitation spectra of charged
+buckminsterfullerene C$_{60}^{n-}$, $n=1,\ldots 5$ are calculated. The
+electron--vibron Hamiltonian of Part I is extended to include all $A_g$ and
+$H_g$ modes with experimentally determined frequencies and theoretically
+estimated coupling constants. Complex splitting patterns of $H_g$ vibrational
+levels are found. Our results are relevant to EPR measurements of spin
+splittings in C$_{60}^{2-}$ and C$_{60}^{3-}$ in solution. Spectroscopic
+gas-phase experiments will be of interest for further testing of this theory.
+As found in Part I, degeneracies in the electron and vibron Hamiltonians give
+rise to a dynamical Jahn Teller effect, and to a considerable enhancement of
+the electronic pairing interaction. This helps to overcome repulsive Coulomb
+interactions and has important implications for superconductivity in
+K$_3$C$_{60}$ and the insulating state in K$_4$C$_{60}$.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 10:21:28 GMT""},{""version"":""v2"",""created"":""Tue, 21 Dec 1993 09:36:30 GMT""},{""version"":""v3"",""created"":""Wed, 12 Jan 1994 11:38:31 GMT""}]","2009-10-22"
+"cond-mat/9312077","Loic Turban","F.Igl\'oi (1 and 2), I. Peschel (3) and L.Turban (4) ((1) Research
+  Institute for Solid State Physics, Budapest, (2) University of Szeged, (3) FU
+  Berlin, (4) Henri Poincare University, Nancy)","Inhomogeneous Systems with Unusual Critical Behaviour","78 pages, Plain TeX and epsf, 16 postscript-figures","Adv. Phys. 42 (1993) 683-740","10.1080/00018739300101544",,"cond-mat.stat-mech hep-th",,"  The phase transitions and critical properties of two types of inhomogeneous
+systems are reviewed. In one case, the local critical behaviour results from
+the particular shape of the system. Here scale-invariant forms like wedges or
+cones are considered as well as general parabolic shapes. In the other case the
+system contains defects, either narrow ones in the form of lines or stars, or
+extended ones where the couplings deviate from their bulk values according to
+power laws. In each case the perturbation may be irrelevant, marginal or
+relevant. In the marginal case one finds local exponents which depend on a
+parameter. In the relevant case unusual stretched exponential behaviour and/or
+local first order transitions appear. The discussion combines mean field
+theory, scaling considerations, conformal transformations and perturbation
+theory. A number of examples are Ising models for which exact results can be
+obtained. Some walks and polymer problems are considered, too.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 11:48:31 GMT""},{""version"":""v2"",""created"":""Mon, 8 Sep 1997 12:45:13 GMT""}]","2009-10-22"
+"cond-mat/9312078","V. Privman","Vladimir Privman","Dynamics of Nonequilibrium Processes: Surface Adsorption,
+  Reaction-Diffusion Kinetics, Ordering and Phase Separation, a short review
+  contributed to the book ""Trends in Statistical Physics,""","9 pages, TeX (plain)","Trends in Statistical Phys. 1, 89-95 (1994)",,,"cond-mat",,"  This short review covers a wide selection of topics from a multidisciplinary
+area of dynamics of nonequilibrium systems in physics, chemistry, biology.
+Theoretical models of colloid particle and protein deposition and adhesion at
+surfaces, accompanied by relaxation processes, of reaction kinetics with and
+without diffusion, of phase coarsening and nucleation, will be surveyed. The
+unifying feature of these systems is the importance of fluctuations and
+many-body, multiparticle collective effects, in determining the dynamical
+behavior which is typically nonclassical.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 12:26:57 GMT""}]","2007-05-23"
+"cond-mat/9312079",,"Yuval Gefen, Daniel Braun and Gilles Montambaux","Magnetic Response of Disordered Ballistic Quantum Dots","(revised version), 12 pages of plain LATEX",,"10.1103/PhysRevLett.73.154",,"cond-mat",,"  The weak field average magnetic susceptibility of square shaped mesoscopic
+conductors is studied within a semiclassical framework. Long semiclassical
+trajectories are strongly affected by static disorder and differ sharply from
+those of clean systems. They give rise to a large linear paramagnetic
+susceptibility which is disorder independent and in agreement with recent
+experiments. The crossover field to a nonlinear susceptibility is discussed.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 13:21:19 GMT""},{""version"":""v2"",""created"":""Fri, 14 Jan 1994 10:29:59 GMT""}]","2009-10-22"
+"cond-mat/9312081","F. J. Garcia-Vidal","A. Martin-Rodero, F.J. Garcia-Vidal and A. Levy-Yeyati","Microscopic Theory of Josephson Mesoscopic Constrictions","4 pages (RevTex 3.0), 3 postscript figures available upon request,
+  312456-CG",,"10.1103/PhysRevLett.72.554",,"cond-mat",,"  We present a microscopic theory for the d.c. Josephson effect in model
+mesoscopic constrictions. Our method is based on a non-equilibrium Green
+function formalism which allows for a self-consistent determination of the
+order parameter profile along the constriction. The various regimes defined by
+the different length scales (Fermi wavelength $\lambda_F$, coherence length
+$\xi_0$ and constriction length $L_C$) can be analyzed, including the case
+where all these lengths are comparable. For the case $\lambda_F \tilde{<}
+(L_C,\xi_0)$ phase oscillations with spatial period $\lambda_F/2$ can be
+observed. In the case of $L_C>\xi_0$ solutions with a phase-slip center inside
+the constriction can be found, in agreement with previous phenomenological
+theories.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 15:34:50 GMT""}]","2009-10-22"
+"cond-mat/9312088","Paul Wiegmann","P.B Wiegmann and A.V.Zabrodin","Quantum Group and Magnetic Translations. Bethe-Ansatz Solution for
+  Azbel-Hofstadter Problem","19 pages, Revtex","Nucl.Phys. B422 (1994) 495-514","10.1016/0550-3213(94)90443-X",,"cond-mat hep-th",,"  We present a new approach to the problem of Bloch electrons in magnetic (
+sometimes called Azbel-Hofstadter problem) field, by making explicit a natural
+relation between the group of magnetic translations and the quantum group
+$U_{q}(sl_2)$. The approach allows us to express the ""mid"" band spectrum of the
+model and the Bloch wave function as solutions of the Bethe-Ansatz equations
+typical for completely integrable quantum systems. The zero mode wave functions
+are found explicitly in terms of $q$-deformed classical orthogonal
+polynomials.In this paper we present solution for the isotropic problem. We
+also present a class of solvable quasiperiodic equations related to
+$U_{q}(sl_2)$.
+","[{""version"":""v1"",""created"":""Sun, 19 Dec 1993 16:53:54 GMT""}]","2009-10-22"
+"gr-qc/9312030","Jim McCarthy","T. Damour, S. Deser and J. McCarthy","Nonsymmetric Gravity has Unacceptable Global Asymptotics","10 pages, ADP-93-221/M20",,,,"gr-qc",,"  We analyze the radiative aspects of nonsymmetric gravity theory to show that,
+in contrast to General Relativity, its nonstationary solutions cannot
+simultaneously exhibit acceptable asymptotic behavior at both future and past
+null infinity: good behavior at future null infinity is only possible through
+the use of advanced potentials with concomitant unphysical behavior at past
+null infinity.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 04:42:55 GMT""}]","2007-05-23"
+"hep-lat/9312075","Rajan Gupta","Tanmoy Bhattacharya and Rajan Gupta","A pot-pourri of results in QCD from large lattice simulations on the CM5","(combined report based on talks given by Tanmoy Bhattacharya and
+  Rajan Gupta at LATTICE93). Major revisions. This PS file includes 4 tables
+  and 7 figures on 6 pages","Nucl.Phys.Proc.Suppl.34:341-346,1994","10.1016/0920-5632(94)90385-9","Los Alamos Preprint Number LAUR-93-4459","hep-lat",,"  We present a status report on simulations being done on $32^3 \times 64$
+lattices at $\beta = 6.0$ using quenched Wilson fermions. Results for the
+spectrum, decay constants, the kaon B-parameter $B_K$, and semi-leptonic form
+factors are given based on the current statistical sample of 28 configurations.
+These ``Grand Challenge'' calculations are being done on the CM5 at Los Alamos
+in collaboration with G. Kilcup, S. Sharpe and P. Tamayo. We end with a brief
+statement of code performance.
+","[{""version"":""v1"",""created"":""Sun, 19 Dec 1993 22:08:25 GMT""},{""version"":""v2"",""created"":""Tue, 11 Jan 1994 23:17:55 GMT""}]","2010-05-27"
+"hep-lat/9312076",,"J. Ambjorn and G. Thorleifsson","A Universal Fractal Structure of 2D Quantum Gravity for c > 1","12 pages. compressed postscript file. Uncompressed size 3 Mb. Latex
+  file without figures available by request. NBI-HE-93-64","Nucl.Phys.Proc.Suppl. 34 (1994) 742-744","10.1016/0920-5632(94)90500-2",,"hep-lat",,"  We investigate the fractal structure of $2d$ quantum gravity coupled to
+matter by measuring the distributions of so-called baby universes. We
+demonstrate that the method works well as long as $c \leq 1$. For $c >1$ it is
+not clear what distribution to expect. However, we observe strikingly similar
+distributions for various kinds of matter fields with the same $c$. This
+indicate that there might be some range of $c >1$ where the central charge of
+the matter fields alone determines the fractal structure of gravity coupled to
+matter. The hypothesis that the string susceptibility $\g = 1/3$ is found to be
+compatible with the data for $1 < c \leq 4$.
+","[{""version"":""v1"",""created"":""Sun, 19 Dec 1993 22:28:22 GMT""}]","2015-06-25"
+"hep-lat/9312077","Kevin Eric Cahill","Kevin Cahill","Gauge Invariance and Confinement in Noncompact Simulations of SU(2)","3 pages, requires PiCTeX, talk presented at Lattice '93, UNM-gicnss","Nucl.Phys.Proc.Suppl. 34 (1994) 231-233","10.1016/0920-5632(94)90353-0",,"hep-lat",,"  Wilson loops have been measured at strong coupling, $\beta=0.5$, on a $12^4$
+lattice in a noncompact simulation of pure SU(2) in which random compact gauge
+transformations impose a kind of lattice gauge invariance. The Wilson loops
+suggest a confining potential.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 06:36:30 GMT""}]","2009-10-22"
+"hep-lat/9312078","Klaus Pinn","M. Hasenbusch, K. Rummukainen and K. Pinn","Computing Masses and Surface Tension from Effective Transfer Matrices","contribution to the proceedings of LATTICE 93, 3 pages, PostScript
+  file, preprints CERN-TH.7117/93, IUHET-266","Nucl.Phys.Proc.Suppl. 34 (1994) 272-274","10.1016/0920-5632(94)90364-6",,"hep-lat",,"  We propose an effective transfer-matrix method that allows a measurement of
+tunnelling correlation lengths that are orders of magnitude larger than the
+lattice extension. Combining this method with a particularly efficient
+implementation of the multimagnetical algorithm we were able to determine the
+interface tension of the 3D Ising model close to criticality with a relative
+error of less than 1 per cent.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 12:12:01 GMT""}]","2009-10-22"
+"hep-ph/9312304","Hai-Yang Cheng","Hai-Yang Cheng, Chi-Yee Cheung, Guey-Lin Lin, Y.C. Lin, Tung-Mow Yan,
+  and Hoi-Lai Yu","Corrections to Chiral Dynamics of Heavy Hadrons: SU(3) Symmetry
+  Breaking, (with some minor corrections)","PHYZZX, 56 pages and 8 figures (available upon request), CLNS
+  93/1189, IP-ASTP-01-93","Phys.Rev.D49:5857-5881,1994; Erratum-ibid.D55:5851-5852,1997","10.1103/PhysRevD.49.5857 10.1103/PhysRevD.55.5851",,"hep-ph",,"  In previous publications we have analyzed the strong and electromagnetic
+decays of heavy mesons and heavy baryons in a formalism which incorporates
+heavy-quark and chiral symmetries. There are two possible symmetry-breaking
+effects on the chiral dynamics of heavy hadrons: the finite-mass effects from
+light quarks and the $1/ m_Q$ corrections from heavy quarks. In the present
+paper, chiral-symmetry-breaking effects are studied and applications to various
+strong and radiative decays of heavy hadrons are illustrated. SU(3) violations
+induced by chiral loops in the radiative decays of charmed mesons and charmed
+baryons are compared with those predicted by the constituent quark model. In
+particular, available data for $D^*$ decays favor values of the parameters in
+chiral perturbation theory which give predictions for $D^*$ decays close to the
+quark model results except for the $D^{*+}_s$. Implications are discussed.
+","[{""version"":""v1"",""created"":""Sun, 19 Dec 1993 21:42:00 GMT""},{""version"":""v2"",""created"":""Fri, 14 Jan 1994 20:56:00 GMT""}]","2014-11-17"
+"hep-ph/9312305","Oleg Selyugin","O.V.Selyugin","What Can be Learnt from the New Ua4/2 Data","{ \bf large \\10 pages, Latex, 2 fig. {files .ps in end this file} or
+  Table II, JINR preprint E2-93-454","Phys.Lett. B333 (1994) 245-249","10.1016/0370-2693(94)91038-3",,"hep-ph",,"  A careful analysis of the new data of the UA4/2 collaboration reveals that
+these data give an essentially large value of the $\rho = Re T(s,t)/Im(s,t)$
+that does not contradict the early UA4 experiment. There is the reason to think
+also that this experiment reveals for the first time a real possibility of the
+existence of the spin-flip amplitude at superhigh energies in the range of
+small transfer momenta.
+","[{""version"":""v1"",""created"":""Sun, 19 Dec 1993 19:24:41 GMT""}]","2009-10-22"
+"hep-ph/9312306","Adam Falk","Adam F. Falk, Elizabeth Jenkins, Aneesh V. Manohar and Mark B. Wise","QCD Corrections and the Endpoint of the Lepton Spectrum in Semileptonic
+  B Decays","18 pages, uses REVTeX, UCSD/PTH 93-38, CALT-68-1910, JHU-TIPAC-930029
+  (some changes to the discussion of subleading radiative corrections, and
+  minor typos fixed)","Phys.Rev.D49:4553-4559,1994","10.1103/PhysRevD.49.4553",,"hep-ph",,"  Recently, Neubert has suggested that a certain class of nonperturbative
+corrections dominates the shape of the electron spectrum in the endpoint region
+of semileptonic $B$ decay. Perturbative QCD corrections are important in the
+endpoint region. We study the effects of these corrections on Neubert's
+proposal. The connection between the endpoint of the electron spectrum in
+semileptonic $B$ decay and the photon spectrum in $b\rightarrow s\gamma$ is
+outlined.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 03:33:07 GMT""},{""version"":""v2"",""created"":""Thu, 27 Jan 1994 23:06:09 GMT""}]","2008-11-26"
+"hep-ph/9312307",,"V. Bernard, N. Kaiser and Ulf-G. Mei{\ss}ner","Low--Energy Theorems for Weak Pion Production","9 pp, TeX, 2 figures available as ps files, CRN 93-56","Phys.Lett.B331:137-142,1994","10.1016/0370-2693(94)90954-7",,"hep-ph nucl-th",,"  We derive novel low--energy theorems for single pion production off nucleons
+through the isovector axial current. We find that the $k^2$-dependence of the
+multipole $L_{0+}^{(+)}$ at threshold is given by the nucleon scalar form
+factor, namely $\sigma(k^2-M_\pi^2 ) /(3 \pi M_\pi F_\pi )$. The relation to
+PCAC results for soft pions including electroweak form factors is also
+clarified.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 08:34:04 GMT""}]","2011-07-19"
+"hep-ph/9312308","Debajyoti Choudhury","Debajyoti Choudhury and Frank Cuypers","Testing Anomalous $W$ Couplings in $e^- e^-$ Collisions","LaTex, 9 pages + 5 figures (not included) Full postscript version
+  available by anonymous ftp from HEP.PHYSIK.UNI-MUENCHEN.DE (or 129.187.198.1)
+  and is located in preprints/mpi9398.ps, preprint : MPI-Ph/93-98","Phys.Lett. B325 (1994) 500-504","10.1016/0370-2693(94)90046-9",,"hep-ph",,"  We analyze the influence of anomalous gauge couplings in the reaction $e^- \:
+e^- \longrightarrow e^- \: W^- \: \nu_e$ at a 500 GeV linear collider. The
+limits imposed by this process on deviations from the standard model of
+electro-weak interaction, are competitive with those inferred from other high
+energy experiments. Furthermore, the allowed domain in the parameter space is
+quite different, and hence such an experiment would more than complement the
+other direct searches.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 11:14:54 GMT""}]","2009-10-22"
+"hep-ph/9312309","Michel Talon","Michel Talon","Quantum theory for the Standard Model","Latex file 37 pages",,,,"hep-ph",,"  These lectures present some basic facts in field theory necessary to
+understand the quantum theory of the Standard Model of weak and electromagnetic
+interactions.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 15:34:53 GMT""}]","2007-05-23"
+"hep-ph/9312310","Kochelev","N.I.Kochelev","Hard diffraction and proton spin problem","Preprint FUB-HEP/93-99, 7 pages+5 figures (accessible by request)",,,,"hep-ph",,"  It is shown, that the hard component of quarks distribution functions induced
+by instantons gives the essential contribution to hard diffractive processes.
+We predict large polarization effects in these processes.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 15:59:08 GMT""}]","2009-09-25"
+"hep-th/9312157",,"J. Ambjorn and G. Thorleifsson","A Universal Fractal Structure of 2D Quantum Gravity for c > 1","12 pages. compressed postscript file. Uncompressed size 3 Mb. Latex
+  file without figures available by request. NBI-HE-93-64","Phys.Lett. B323 (1994) 7-12","10.1016/0370-2693(94)00055-7",,"hep-th hep-lat",,"  We investigate the fractal structure of $2d$ quantum gravity coupled to
+matter by measuring the distributions of so-called baby universes. We
+demonstrate that the method works well as long as $c \leq 1$. For $c >1$ it is
+not clear what distribution to expect. However, we observe strikingly similar
+distributions for various kinds of matter fields with the same $c$. This
+indicate that there might be some range of $c >1$ where the central charge of
+the matter fields alone determines the fractal structure of gravity coupled to
+matter. The hypothesis that the string susceptibility $\g = 1/3$ is found to be
+compatible with the data for $1 < c \leq 4$.
+","[{""version"":""v1"",""created"":""Sun, 19 Dec 1993 20:45:15 GMT""}]","2009-10-22"
+"hep-th/9312158","Ryuichi Nakayama","Ryuichi Nakayama","2D Quantum Gravity in the Proper-Time Gauge","12 pages, latex","Phys.Lett. B325 (1994) 347-353","10.1016/0370-2693(94)90023-X","EPHOU-93004","hep-th",,"  A two-loop (cylinder) amplitude of the 2d pure gravity theory is obtained in
+the proper-time gauge ($g_{00}=1$, $g_{01}=g_{10}=0$) in the continuum
+formulation. The constraint $T_{01}=0$ is solved and used to reduce the problem
+of field theory to that of quantum mechanics. This reduction can also be proved
+by using a conformal Ward identity. The amplitude depends on the lengths $l_1,
+l_2$ of the boundaries, the proper time $T$ and a non-negative integer $m$
+associated with winding modes around the boundaries.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 04:50:51 GMT""}]","2009-10-22"
+"hep-th/9312159","Katsuyuki Sugiyama","Masaru Nagura and Katsuyuki Sugiyama","Mirror Symmetry of K3 and Torus","21 pages, UT-663, LaTex file","Int.J.Mod.Phys. A10 (1995) 233-252","10.1142/S0217751X95000115",,"hep-th",,"  We discuss a K3 and torus from view point of ""mirror symmetry"". We calculate
+the periods of the K3 surface and obtain the mirror map, the two-point
+correlation function, and the prepotential. Then we find there is no instanton
+correction on K3 (also torus), which is expected from view point of Algebraic
+geometry.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 10:51:07 GMT""}]","2015-06-26"
+"hep-th/9312160","Serguei Shabanov","Sergey V.Shabanov","2D Yang-Mills Theories, Gauge Orbit Space and The Path Integral
+  Quantization","39 pages (LaTeX), report T93/139","Commun.Theor.Phys. 4 (1995) 1-38",,,"hep-th",,"  The role of a physical phase space structure in a classical and quantum
+dynamics of gauge theories is emphasized. In particular, the gauge orbit space
+of Yang-Mills theories on a cylindrical spacetime (space is compactified to a
+circle) is shown to be the Weyl cell for a semisimple compact gauge group,
+while the physical phase space coincides with the quotient $\R^{2r}/W_A$, $r$ a
+rank of a gauge group, $W_A$ the affine Weyl group. The transition amplitude
+between two points of the gauge orbit space (between two Wilson loops) is
+represented via a Hamiltonian path integral over the physical phase space and
+explicitly calculated. The path integral formula appears to be modified by
+including trajectories reflected from the boundary of the physical
+configuration space (of the Weyl cell) into the sum over pathes. The Gribov
+problem of gauge fixing ambiguities is considered and its solution is proposed
+in the framework of the path integral modified. Artifacts of gauge fixing are
+qualitatively analyzedwith a simple mechanical example. A relation between a
+gauge-invariant description and a gauge fixing procedure is established.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 11:02:39 GMT""}]","2007-05-23"
+"hep-th/9312161","Oh phillial","Taejin Lee and Phillial Oh","Non-Abelian Chern-Simons Quantum Mechanics and Non-Abelian Aharonov-Bohm
+  Effect","32 pages, Revtex 2.0, two figures available upon request, SNUTP-93/82","Annals Phys. 235 (1994) 413-434","10.1006/aphy.1994.1103",,"hep-th",,"  We construct a classical action for a system of $N$ point-like sources which
+carry SU(2) non-Abelian charges coupled to non-Abelian Chern-Simons gauge
+fields, and develop a quantum mechanics for them. Adopting the coherent state
+quantization and solving the Gauss' constraint in an appropriately chosen
+gauge, we obtain a quantum mechanical Hamiltonian given in terms of the
+Knizhnik-Zamolodchikov connection. Then we study the non-Abelian Aharonov-Bohm
+effect, employing the obtained Hamiltonian for two-particle sector. An explicit
+evaluation of the differential cross section for the non-Abelian Aharonov-Bohm
+scattering is given.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 11:32:20 GMT""}]","2009-10-22"
+"hep-th/9312162","Igor Kanatchikov","Igor V. Kanatchikov","On the Canonical Structure of the De Donder-Weyl Covariant Hamiltonian
+  Formulation of Field Theory I. Graded Poisson brackets and equations of
+  motion","LATEX, 30 pages, PITHA 93/41",,,,"hep-th",,"  The analogue of the Poisson bracket for the De Donder-Weyl (DW) Hamiltonian
+formulation of field theory is proposed. We start from the Hamilton-
+Poincar\'{e}-Cartan (HPC) form of the multidimensional variational calculus and
+define the bracket on the differential forms over the space-time (=horizontal
+forms). This bracket is related to the Schouten-Nijenhuis bracket of the
+multivector fields which are associated with the horizontal forms by means of
+the ""polysymplectic form"". The latter is given by the HPC form and generalizes
+the symplectic form to field theory. We point out that the algebra of forms
+with respect to our Poisson bracket and the exterior product has the structure
+of the Gerstenhaber graded algebra. It is shown that the Poisson bracket with
+the DW Hamiltonian function generates the exterior differential thus leading to
+the bracket representation of the DW Hamiltonian field equations. Few
+illustrative examples are also presented.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 15:17:53 GMT""}]","2007-05-23"
+"hep-th/9312164","Emili Elizalde","E. Elizalde, S. Leseduarte and S.D. Odintsov","Chiral Symmetry Breaking in the Nambu-Jona-Lasinio Model in Curved
+  Spacetime with Non-Trivial Topology","14 pages, LaTeX file, 3 figures (added as postscript files)","Phys.Rev.D49:5551-5558,1994","10.1103/PhysRevD.49.5551",,"hep-th",,"  We discuss the phase structure (in the $1/N$-expansion) of the
+Nambu-Jona-Lasinio model in curved spacetime with non-trivial topology ${\cal
+M}^3 \times {\rm S}^1$. The evaluation of the effective potential of the
+composite field $\bar{\psi} \psi$ is presented in the linear curvature
+approximation (topology is treated exactly) and in the leading order of the
+$1/N$-expansion. The combined influence of topology and curvature to the phase
+transitions is investigated. It is shown, in particular, that at zero curvature
+and for small radius of the torus there is a second order phase transition from
+the chiral symmetric to the chiral non-symmetric phase. When the curvature
+grows and (or) the radius of ${\rm S}^1$ decreases, then the phase transition
+is in general of first order. The dynamical fermionic mass is also calculated
+in a number of different situations.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 15:09:34 GMT""}]","2009-09-17"
+"nucl-th/9312013",,"J.Resag, D. Sch\""utte","RPA equations and the instantaneous Bethe-Salpeter equation","6 pages, RevTeX, Bonn TK-93-19",,,,"nucl-th hep-ph",,"  We give a derivation of the particle-hole RPA equations for an interacting
+multi-fermion system by applying the instantaneous approximation to the
+amputated two-fermion propagator of the system. In relativistic field theory
+the same approximation leads from the fermion-antifermion Bethe-Salpeter
+equation to the Salpeter equation. We show that RPA equations and Salpeter
+equation are indeed equivalent.
+","[{""version"":""v1"",""created"":""Mon, 20 Dec 1993 13:56:01 GMT""},{""version"":""v2"",""created"":""Tue, 21 Dec 1993 11:37:46 GMT""}]","2008-02-03"
+"nucl-th/9312014","B. K. Agrawala","B. K. Agrawal and A. Ansari","On the angular momentum dependence of nuclear level densities","19 Latex pages, 9 figures(available upon request)","Nucl.Phys. A576 (1994) 189-204","10.1016/0375-9474(94)90256-9","IP/BBSR/93-85","nucl-th",,"  Angular momentum dependence of nuclear level densities at finite temperatures
+are investigated in the static path approximation(SPA) to the partition
+function using a cranked quadrupole interaction Hamiltonian in the following
+three schemes: (i) cranking about x-axis, (ii) cranking about z-axis and (iii)
+cranking about z-axis but correcting for the orientation fluctuation of the
+axis. Performing numerical computations for an $sd$ and a $pf$ shell nucleus,
+we find that the x-axis cranking results are satisfactory for reasonably heavy
+nuclei and this offers a computationally faster method to include the angular
+momentum dependence at high temperatures in the SPA approach. It also appears
+that at high spins inclusion of orientation fluctuation correction would be
+important.
+","[{""version"":""v1"",""created"":""Sun, 19 Dec 1993 18:02:29 GMT""}]","2009-10-22"

@@ -1,0 +1,273 @@
+"astro-ph/9307037","Ferrara Andrea","Andrea Ferrara & George B. Field","On the Distance Determination and Ionization of the High Velocity Clouds","19 pages, Plain TeX, 7 figures, Space Telescope Preprint Series",,"10.1086/173845",,"astro-ph",,"  We present a study of the ionization and thermal structure of neutral
+hydrogen clouds located in the Galactic halo, immersed in the extragalactic
+background radiation field, and supposed to be in pressure equilibrium with the
+surrounding (presumably) hot medium. The problem is solved numerically, but an
+useful analytical approximation has been derived as well. We discuss the two
+main parameters of the problem, \ie the radiation field and the halo pressure,
+in the framework of the current models for the halo/disk interaction. We find a
+well defined relation between a critical column density at which the cloud
+starts to develop a cold central core with the cloud linear size. Making use of
+this relation, we suggest a straightforward method to derive the distance to
+the cloud. We discuss the possible sources of error in this determination and
+it is found that the method is particularly suitable for those clouds which are
+subsonic with respect to the surrounding medium, while for the supersonic ones,
+the method can only give a lower limit to the distance. The H$\alpha$ emission
+from the partially ionized edge of the cloud is calculated and compared with
+the available observations; this measure is a powerful indicator of the
+possible presence of a shock in the cloud.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 07:07:22 GMT""}]","2009-10-22"
+"chao-dyn/9307015","Natalie Glance","Natalie Glance (Xerox PARC, Palo Alto, CA), Bernardo Huberman (Xerox
+  PARC, Palo Alto, CA)","Organizational Fluidity and Sustainable Cooperation","17 pages. Also available through anonymous ftp from parcftp.xerox.com
+  in the directory /pub/dynamics",,,,"chao-dyn adap-org nlin.AO nlin.CD",,"  We show that fluid organizations display higher levels of cooperation than
+attainable by groups with either a fixed social structure or lacking one
+altogether. By moving within the organization, individuals cause restructurings
+that facilitate cooperation. Computer experiments simulating fluid
+organizations faced with a social dilemma reveal a myriad of complex
+cooperative behaviors that result from the interplay between individual
+strategies and structural changes. Significantly, fluid organizations can
+display long cycles of sustained cooperation interrupted by short bursts of
+defection.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 19:53:14 GMT""},{""version"":""v2"",""created"":""Thu, 29 Jul 1993 22:19:05 GMT""},{""version"":""v3"",""created"":""Thu, 12 Aug 1993 21:50:52 GMT""}]","2008-02-03"
+"chao-dyn/9307016","Natalie Glance","Bernardo Huberman (Xerox PARC, Palo Alto, CA), Natalie Glance (Xerox
+  PARC, Palo Alto, CA)","Diversity and Collective Action","24 pages. Also available through anonymous ftp from parcftp.xerox.com
+  in the directory /pub/transient as action.ps",,,,"chao-dyn adap-org nlin.AO nlin.CD",,"  We elucidate the dynamics of ongoing collective action among intentional
+agents with diverse beliefs and imperfect information. Their decisions on
+whether or not to contribute to the collective good depend not only on the past
+but also on their expectations as to how their actions will affect those of
+others. We show that in attempts at collective action the onset of overall
+cooperation can take place in a sudden and unexpected way. Likewise, defection
+can appear out of nowhere in very large, previously cooperating groups. These
+outbreaks mark the end of long transient states in which defection or
+cooperation persists in groups that cannot sustain it indefinitely. Diversity
+of beliefs among individuals acts as an additional source of uncertainty and
+instigates the outbreaks.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 21:49:29 GMT""},{""version"":""v2"",""created"":""Fri, 30 Jul 1993 19:25:42 GMT""},{""version"":""v3"",""created"":""Thu, 12 Aug 1993 21:53:16 GMT""}]","2009-09-25"
+"cond-mat/9307055","David Deaven","D.M. Deaven, D.S. Rokhsar, A. Barbieri (Physics Dept UCB, Berkeley,
+  CA)","Holons in Chiral Spin-Liquids: Statistics and Pairing","REVTeX 3.0 (13p); UUEncoded, compressed PostScript figures (11p)",,,,"cond-mat",,"  We study Gutzwiller-projected variational wavefunctions for charged, spinless
+holon excitations in chiral spin liquids. We find that these states describe
+anyons, with a statistical phase $\Phi_s$ that is continuously adjustable
+between $0$ and $\pi/2$, depending on a variational parameter. The statistical
+flux attached to each holon is localized to within a lattice constant. By
+diagonalizing the effective Hamiltonian for charge motion in our variational
+basis we obtain a two-holon pair state. This two-holon state has large overlap
+with a two-hole state whose relative wavefunction has $d$-wave symmetry and
+breaks time-reversal and parity.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 19:37:38 GMT""}]","2016-08-31"
+"cond-mat/9307056","Steve Teitel","Ying-Hong Li and S. Teitel","Phase Transitions and Vortex Line Entanglement in a Model High
+  Temperature Superconductor","20 pages, 15 figures, RevTex3.0, UR-93-ST02","Phys. Rev. B 49, 4136 (1994)","10.1103/PhysRevB.49.4136",,"cond-mat",,"  Monte Carlo simulations of the uniformly frustrated 3d XY model are used to
+model vortex line fluctuations in high temperature superconductors in an
+applied magnetic field. We find two distinct phase transitions. At a lower
+T_{c\perp}, the vortex lattice melts and coherence is lost in planes
+perpendicular to the magnetic field. At a higher T_{cz}, a vortex tangle
+percolates throughout the system, and coherence is lost parallel to the
+magnetic field. Cooling below T_{cz}, high energy barriers for vortex line
+cutting lead to an entangled glassy state. Figures available upon request to
+stte@buckwheat.pas.rochester.edu.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 19:43:15 GMT""}]","2009-10-22"
+"cond-mat/9307057",,"M. Kasner and W. Apel","A comparison of FQHE quasi-electron trial wave functions on the disk","9 pages, 1 figure, LATEX-file",,,,"cond-mat",,"  The various proposals for FQHE quasi-electron trial wave functions are
+reconsidered. In a short-range model for the electronic interaction, the energy
+expectation values of four different trial wave functions are calculated at
+filling factor $\frac{1}{3}$ for up to ten electrons in the disk geometry.
+Jain's trial wave function displays the lowest energy expectation value.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 10:37:20 GMT""}]","2007-05-23"
+"hep-lat/9307020","Sokal","Alan D. Sokal","Some Comments on Multigrid Methods for Computing Propagators","16 pages, LaTeX plus subeqnarray.sty (included at end),
+  NYU-TH-93/07/02","Phys.Lett.B317:399-408,1993","10.1016/0370-2693(93)91015-F",,"hep-lat",,"  I make three conceptual points regarding multigrid methods for computing
+propagators in lattice gauge theory: 1) The class of operators handled by the
+algorithm must be stable under coarsening. 2) Problems related by symmetry
+should have solution methods related by symmetry. 3) It is crucial to
+distinguish the vector space $V$ from its dual space $V^*$. All the existing
+algorithms violate one or more of these principles.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 03:55:33 GMT""}]","2010-11-01"
+"hep-ph/9307343","Ralph Boenisch","R. B\""onisch","Gauge created top quark condensate and heavy top",,,,,"hep-ph",,"  The scalar interaction term of the top mode standard model can be generated
+by a gauge theory. It is emphasized that in this approach generalization to
+family space directly yields a heavy top quark while leaving all other quarks
+massless. By generating the new interaction from gauge extension to custodial
+$SU(2)$, the standard model bound $m_{top} \stackrel{<}{\sim} 200 GeV$ is
+pushed to $m_{top} \stackrel{<}{\sim} 270 GeV$, thereby significantly reducing
+the amount of finetuning required to match this number.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 16:45:03 GMT""}]","2007-05-23"
+"hep-ph/9307344","Robert Shrock","Alexander Kusenko and Robert Shrock","A New Model for Fermion Masses in Supersymmetric Grand Unified Theories","Latex, 8 p., ITP-SB-93-37 (revised version contains minor changes in
+  some wording and citations; no changes in analytic or numerical results.)","Phys.Rev.D49:4962-4965,1994","10.1103/PhysRevD.49.4962",,"hep-ph",,"  We present a simple model for fermion mass matrices and quark mixing in the
+context of supersymmetric grand unified theories and show its agreement with
+experiment. Our model realizes the GUT mass relations $m_d=3m_e$, $m_s=
+m_\mu/3$, $m_b=m_\tau$ in a new way and is easily consistent with values of
+$m_t$ suggested by MSSM fits to LEP data.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 18:46:28 GMT""},{""version"":""v2"",""created"":""Sun, 1 Aug 1993 21:35:06 GMT""}]","2010-11-01"
+"hep-ph/9307345","Peter Cho","Peter Cho and Elizabeth Simmons","Looking for Gluon Substructure at the Tevatron","12 pages with 2 figures not included but available upon request,
+  CALT-68-1872, HUTP-93/A018","Phys.Lett. B323 (1994) 401-407","10.1016/0370-2693(94)91238-6",,"hep-ph",,"  The impact of nonrenormalizable gluon operators upon inclusive jet cross
+sections is studied. Such operators could arise in an effective strong
+interaction Lagrangian from gluon substructure and would induce observable
+cross section deviations from pure QCD at high transverse jet energies.
+Comparison of the theoretical predictions with recent CDF data yields a lower
+limit on the gluon compositeness scale $\Lambda$. We find $\Lambda > 2.03 \TeV$
+at $95\%$~CL.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 18:27:33 GMT""}]","2009-10-22"
+"hep-ph/9307346","Dan Garretson","W.D. Garretson and E.D. Carlson","Could There Be Something Rather Than Nothing?","9 pages, 1 ps figure (included), in TeX, using harvmac; HUTP-93/A020","Phys.Lett. B315 (1993) 232-238","10.1016/0370-2693(93)91606-N",,"hep-ph",,"  There is increasing evidence that the universe may have a small cosmological
+constant. We suggest a scheme for naturally generating a small cosmological
+constant. Our idea requires the presence of a discrete accidental symmetry
+which is spontaneously broken by vacuum expectation values of the fields, and
+explicitly broken by high dimensional operators in the Lagrangian.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 19:21:59 GMT""}]","2015-06-25"
+"hep-ph/9307347",,"Howard Baer, Chung Kao and Xerxes Tata","Aspects of Chargino-Neutralino Production at the Tevatron Collider","16 Pages in REVTEX, 5 Figures available upon request from
+  KAO@FSUHEP.PHYSICS.FSU.EDU, UH-511-771-93 and FSU-HEP-930722","Phys.Rev. D48 (1993) 5175-5180","10.1103/PhysRevD.48.5175",,"hep-ph",,"  We have used ISAJET 7.0/ISASUSY 1.0 to evaluate the rates and study
+distributions for trilepton events from the leptonic decays of charginos and
+neutralinos produced at the Fermilab Tevatron via the reaction, $p\bar
+p\rightarrow \tilde{W_1} \tilde{Z_2}$ + X for cuts inspired by the CDF and D0
+experiments. We find that about 60\% of these events do not contain any jets,
+and so should be easily identifiable over Standard Model backgrounds from
+$t\bar{t}$ and WZ production, provided that the decay
+$\tilde{Z_2}\rightarrow\tilde{Z_1}Z$ is kinematically inaccessible.
+  We further show that, with suitable cuts, these backgrounds can be reduced to
+less than 1-2 $fb$ even if $n_{jet} = 1$, effectively increasing the SUSY
+sample by 50\%. We confirm that the signal is only rate-limited, and that the
+Fermilab Tevatron after an accumulation of 100 $pb^{-1}$ of integrated
+luminosity will be able to explore parameters well beyond the range of LEP and,
+if sleptons are substantially lighter than squarks, close to the reach of LEP
+200.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 19:56:23 GMT""}]","2009-10-22"
+"hep-ph/9307348","Raju","Raju Venugopalan and Axel Vischer","Dynamical Growth Rate of a Diffuse Interface in First Order Phase
+  Transitions","LaTex, 9 pages, TPI-MINN-93-34/T, NUC-MINN-93-17/T","Phys.Rev. E49 (2004) 5849","10.1103/PhysRevE.49.5849",,"hep-ph cond-mat nucl-th",,"  We compute the dynamical prefactor in the nucleation rate of bubbles or
+droplets in first order phase transitions for the case where both viscous
+damping and thermal dissipation are significant. This result, which generalizes
+previous work on nucleation, may be applied to study the growth of bubbles or
+droplets in condensed matter systems as well as in heavy ion collisions and in
+the expansion of the early universe.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 19:57:06 GMT""}]","2009-10-22"
+"hep-ph/9307349",,"Huazhong Zhang","Topological Study of Global Quantization in Non-Abelian Gauge Theories","JSUHEP930701, LaTeX 17 pages","Int. J. Mod. Phys. A9 (1994) 5729-5741","10.1142/S0217751X94002351",,"hep-ph hep-th",,"  We study some topological aspects of non-abelian gauge theories intimately
+connected to the Lie algebras of the gauge groups and the homotopy theory in
+the generalized gauge orbit space. The physics connection to the
+non-perturbative solution to strong CP problem as originally proposed by the
+author is also discussed. Some relevant topological formulas are also given and
+discussed. A result from the physics application is that the usual gauge orbit
+space on the compactified space can contain at most a $Z_2$ monopole structure
+in the SP(2N) gauge theories. Some relevance to the open universe is also
+discussed. We expect that our results may also be useful to the other studies
+of non-abelian gauge theories in general.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 02:34:06 GMT""}]","2009-10-22"
+"hep-ph/9307350","Yoshiki Kizukuri","Yoshiki Kizukuri and Noriyuki Oshimo","CP Violation Induced by Supersymmetry in $e^+e^-$ Collisions","5 pages, Plain TeX (Talk given at the Workshop on Physics and
+  Experiments with Linear $e^+e^-$ Colliders)",,,"IFM 8/93, TKU-HEP 93/05","hep-ph",,"  We discuss the possibility of observing $CP$ violation predicted by the
+supersymmetric standard model.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 06:28:15 GMT""}]","2007-05-23"
+"hep-ph/9307351","Jean Cleymans","N. Bilic, J.Cleymans, K. Redlich and E. Suhonen","Transition from a quark-gluon plasma in the presence of a sharp front","10 pages, manuscript in TeX, 9 figures available as Postscript files,
+  CERN-TH 6923/93","Z.Phys.C63:525-530,1994","10.1007/BF01580333",,"hep-ph",,"  The effect of a sharp front separating the quark-gluon plasma phase from the
+hadronic phase is investigated. Energy-momentum conservation and baryon number
+conservation constrain the possible temperature jump across the front. If one
+assumes that the temperature in the hadronic phase is $T\simeq$ 200 MeV , as
+has been suggested by numerous results from relativistic ion collisions, one
+can determine the corresponding temperature in the quark phase with the help of
+continuity equations across the front. The calculations reveal that the quark
+phase must be in a strongly supercooled state. The stability of this solution
+with respect to minor modifications is investigated. In particular the effect
+of an admixture of hadronic matter in the quark phase (e.g. in the form of
+bubbles) is considered in detail. In the absence of admixture the transition
+proceeds via a detonation transition and is accompanied by a substantial
+super-cooling of the quark-gluon plasma phase. The detonation is accompanied by
+less supercooling if a small fraction of bubbles is allowed. By increasing the
+fraction of bubbles the supercooling becomes weaker and eventually the
+transition proceeds via a smoother deflagration wave.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 12:40:51 GMT""}]","2010-11-01"
+"hep-ph/9307352","Jean Cleymans","J. Cleymans, I. Dadic, J.Joubert","Structure Functions of the Nucleon in a Statistical Model","16 pages TeX, 11 figures available as Postscript files, University of
+  Bielefeld preprint BI-TP 93/35",,"10.1007/BF01557398",,"hep-ph",,"  Deep inelastic scattering is considered in a statistical model of the
+nucleon. This incorporates certain features which are absent in the standard
+parton model such as quantum statistical correlations which play a role in the
+propagation of particles when considering Feynman diagrams containing internal
+lines. The inclusion of the ${\cal O}(\alpha_{s})$ corrections in our numerical
+calculations allows a good fit to the data for $x\geq 0.25$. The fit
+corresponds to values of temperature and chemical potential of approximately
+$T=0.067$ GeV and $\mu=0.133$ GeV. The latter values of parameters, however,
+give rise, for all $x$, to a large value for $R=\sigma_{L}/\sigma_{T}$.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 12:48:17 GMT""}]","2009-10-22"
+"hep-ph/9307353","Jean Cleymans","J. Cleymans, S.V. Ilyun, S.A. Smolyansky and G.M. Zinovjev","Dissipative Processes in an Expanding Massive Gluon Gas","8 pages Latex, 5 figures available as Postscript files, University of
+  Bielefeld preprint 93/36","Z.Phys.C62:75-80,1994","10.1007/BF01559526",,"hep-ph",,"  The temperature dependence of the kinetic coefficients is obtained in the
+non-perturbative region with the help of Green-Kubo-type formulae in the model
+of massive gluon gas motivated by numerical results from simulations of lattice
+QCD. The entropy production rate is estimated using scaling hydrodynamics. It
+is shown that the increase in the viscosity coefficients leads to entropy
+generation in heavy ion collision processes which could be big, especially for
+temperatures close to the critical one.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 12:55:40 GMT""}]","2010-11-01"
+"hep-ph/9307354","S. F. King","Stephen F. King","Supersymmetric Higgs Bosons at the Limit","(based on a talk presented at the HARC SUSY Workshop, Texas, April
+  1993, and work done in collaboration with Terry Elliott and Peter White.) 15
+  pages, Latex, SHEP92/93-12",,,,"hep-ph",,"  Using a combination of renormalisation group and effective potential methods,
+we discuss the bound on the lightest CP-even Higgs boson mass $m_h$ in the
+next-to-minimal supersymmetric standard model. We find $m_h\leq 146,139,149 \
+GeV$ for $m_t=90,140,190 \ GeV$.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 13:22:08 GMT""}]","2007-05-23"
+"hep-th/9307161","Alexander V. Razumov","A. N. Leznov and A. V. Razumov","The Canonical Symmetry for Integrable Systems","17 pages, LaTeX, IHEP 92-146","J.Math.Phys. 35 (1994) 1738-1754","10.1063/1.530568",,"hep-th",,"  The properties of discrete nonlinear symmetries of integrable equations are
+investigated. These symmetries are shown to be canonical transformations. On
+the basis of the considered examples, it is concluded, that the densities of
+the conservation laws are changed under these transformations by spatial
+divergencies.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 17:27:10 GMT""}]","2009-10-22"
+"hep-th/9307167","C. Kobdaj","C.Kobdaj and S.Thomas","Towards a statistical mechanics of nonabelian vortices","40 pages in a4 LaTeX including 2 tables and 5 uuencoded Postscript
+  figures, QMW-93/15.( The 6th figure, due to its size, is available by
+  directly request from C.Kobdaj@qmw.ac.uk. Some typos are corrected and the
+  choice of choosing $\r_c$ has been argued.)","Nucl.Phys. B413 (1994) 689-722","10.1016/0550-3213(94)90008-6",,"hep-th cond-mat hep-ph",,"  A study is presented of classical field configurations describing nonabelian
+vortices in two spatial dimensions, when a global \( SO(3) \) symmetry is
+spontaneously broken to a discrete group \( \IK \) isomorphic to the group of
+integers mod 4. The vortices in this model are characterized by the nonabelian
+fundamental group \(\pi_1 (SO(3)/{\IK}) \), which is isomorphic to the group of
+quaternions. We present an ansatz describing isolated vortices and prove that
+it is stable to perturbations. Kinematic constraints are derived which imply
+that at a finite temperature, only two species of vortices are stable to decay,
+due to `dissociation'. The latter process is the nonabelian analogue of the
+instability of charge \(|q| >1 \) abelian vortices to dissociation into those
+with charge \(|q| = 1\). The energy of configurations containing at maximum two
+vortex-antivortex pairs, is then computed. When the pairs are all of the same
+type, we find the usual Coulombic interaction energy as in the abelian case.
+When they are different, one finds novel interactions which are a departure
+from Coulomb like behavior. Therefore one can compute the grand canonical
+partition function (GCPF) for thermal pair creation of nonabelian vortices, in
+the approximation where the fugacities for vortices of each type are small. It
+is found that the vortex fugacities depend on a real continuous parameter \(
+a\) which characterize the degeneracy of the vacuum. Depending on the relative
+sizes of these fugacities, the vortex gas will be dominated by one of either of
+the two types mentioned above. In these regimes, we expect the standard
+Kosterlitz-Thouless phase transitions to occur, as in systems of abelian
+vortices in 2-dimensions. Between these two regimes, the gas contains pairs of
+both types, so nonabelian effects will be important.
+","[{""version"":""v1"",""created"":""Tue, 27 Jul 1993 17:35:46 GMT""},{""version"":""v2"",""created"":""Wed, 4 Aug 1993 21:21:10 GMT""},{""version"":""v3"",""created"":""Fri, 6 Aug 1993 17:12:57 GMT""}]","2009-10-22"
+"hep-th/9307169",,"S. P. Sorella and L. Tataru","A Closed form for Consistent Anomalies in Gauge Theories","18 pages, report REF. TUW. 93-15","Phys. Lett. B324 (1994) 351-358","10.1016/0370-2693(94)90205-4",,"hep-th",,"  The new method for solving the descent equations for gauge theories proposed
+in \cite{s} is shown to be equivalent with that based on the {\em ""Russian
+formula""}. Moreover it allows to obtain in a closed form the expressions of the
+consistent anomalies in any space-time dimension.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 11:15:04 GMT""}]","2009-10-22"
+"hep-th/9307170","Klaus Hornfeck","K. Hornfeck","Classification of Structure Constants for W-algebras from Highest
+  Weights","18 pages (A4), LaTeX, DFTT-40/93","Nucl.Phys. B411 (1994) 307-320","10.1016/0550-3213(94)90061-2",,"hep-th",,"  We show that the structure constants of W-algebras can be grouped according
+to the lowest (bosonic) spin(s) of the algebra. The structure constants in each
+group are described by a unique formula, depending on a functional parameter
+h(c) that is characteristic for each algebra. As examples we give the structure
+constants C_{33}^4 and C_{44}^4 for the algebras of type W(2,3,4,...) (that
+include the WA_{n-1}-algebras) and the structure constant C_{44}^4 for the
+algebras of type W(2,4,...), especially for all the algebras WD_n, WB(0,n),
+WB_n and WC_n. It also includes the bosonic projection of the super-Virasoro
+algebra and a yet unexplained algebra of type W(2,4,6) found previously.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 10:20:14 GMT""}]","2016-09-06"
+"hep-th/9307171",,"P.Mayr, H.P. Nilles and S. Stieberger","String Unification and Threshold Corrections","10 pages, TUM--TH--158/93","Phys.Lett. B317 (1993) 53-59","10.1016/0370-2693(93)91569-9",,"hep-th",,"  The interpretation of the apparent unification of gauge couplings within
+supersymmetric theories depends on uncertainties induced through heavy particle
+thresholds. While in standard grand unified theories these effects can be
+estimated easily, the corresponding calculations are quite complicated in
+string unified theories and do exist only in models with unbroken $E_6$. We
+present results for heavy particle thresholds in more realistic models with
+gauge group $SU(3)\times SU(2)\times U(1)$. Effects of Wilson line background
+fields as well as the universal part of the (rather mild) threshold corrections
+indicate a strong model dependence. We discuss the consequences of our results
+for the idea of string unification without a grand unified gauge group.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 12:26:46 GMT""}]","2009-10-22"
+"hep-th/9307172","Qmw Theory Group","D. Bailin, A. Love and W.A. Sabra","Yukawa Couplings involving Excited Twisted Sector States for ${\bf Z}_N$
+  and ${\bf Z}_M\times {\bf Z}_N$ Orbifolds","SUSX--TH--93/12, 31 pages","Nucl.Phys.B416:539-562,1994","10.1016/0550-3213(94)90323-9",,"hep-th",,"  We study the Yukawa couplings among excited twist fields which might arise in
+the low-energy effective field theory obtained by compactifying the heterotic
+string on ${\bf Z}_N$ and ${\bf Z}_M\times {\bf Z}_N$ orbifolds.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 14:14:09 GMT""}]","2010-11-01"
+"hep-th/9307173",,"Stefano Panzeri","The C = 1 Matrix Model Formulation of Two Dimensional Yang-Mills
+  Theories","15 pages, plain latex, DFTT 36/93","Mod. Phys. Lett. A8 (1993) 3201-3214","10.1142/S0217732393002130",,"hep-th",,"  We find the exact matrix model description of two dimensional Yang-Mills
+theories on a cylinder or on a torus and with an arbitrary compact gauge group.
+This matrix model is the singlet sector of a $c =1$ matrix model where the
+matrix field is in the fundamental representation of the gauge group. We also
+prove that the basic constituents of the theory are Sutherland fermions in the
+zero coupling limit, and this leads to an interesting connection between two
+dimensional gauge theories and one dimensional integrable systems. In
+particular we derive for all the classical groups the exact grand canonical
+partition function of the free fermion system corresponding to a two
+dimensional gauge theory on a torus.
+","[{""version"":""v1"",""created"":""Wed, 28 Jul 1993 14:30:58 GMT""}]","2015-06-26"

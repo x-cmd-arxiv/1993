@@ -1,0 +1,200 @@
+"alg-geom/9305011","Rita Pardini","Rita Pardini, Francesca Tovena","On the fundamental group of an abelian cover","17 pages Latex Version 2.09",,,,"alg-geom math.AG",,"  We study the behaviour of the topological fundamental group under totally
+ramified abelian covers (a special case of abelian Galois covers) of complex
+projective varieties of dimension at least 2.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 17:36:21 GMT""}]","2008-02-03"
+"chao-dyn/9305008","Guenter Troll","G. Troll","Formal Languages in Dynamical Systems","23 pages, LaTeX",,,"preprint No. 47 of SFB 288 (Jan. 93), TU Berlin","chao-dyn adap-org nlin.AO nlin.CD",,"  We treat here the interrelation between formal languages and those dynamical
+systems that can be described by cellular automata (CA). There is a well-known
+injective map which identifies any CA-invariant subshift with a central formal
+language. However, in the special case of a symbolic dynamics, i.e. where the
+CA is just the shift map, one gets a stronger result: the identification map
+can be extended to a functor between the categories of symbolic dynamics and
+formal languages. This functor additionally maps topological conjugacies
+between subshifts to empty-string-limited generalized sequential machines
+between languages. If the periodic points form a dense set, a case which arises
+in a commonly used notion of chaotic dynamics, then an even more natural map to
+assign a formal language to a subshift is offered. This map extends to a
+functor, too. The Chomsky hierarchy measuring the complexity of formal
+languages can be transferred via either of these functors from formal languages
+to symbolic dynamics and proves to be a conjugacy invariant there. In this way
+it acquires a dynamical meaning. After reviewing some results of the complexity
+of CA-invariant subshifts, special attention is given to a new kind of
+invariant subshift: the trapped set, which originates from the theory of
+chaotic scattering and for which one can study complexity transitions.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 10:24:11 GMT""}]","2008-02-03"
+"cond-mat/9305024","Bertrand I. Halperin","Bertrand I. Halperin","Theories for v=1/2 in Single- and Double-Layer Systems","10 pages, plain TeX, Report # HU-CMT-93H01",,"10.1016/0039-6028(94)90850-8",,"cond-mat",,"  Recent experiments have shown that a quantized Hall plateau can occur in
+double layer systems at total filling factor v=1/2, though there is no plateau
+at v=1/2 in a normal single layer system. For the single layer system,
+considerable insight has been provided by a theory based on the fermion
+Chern-Simons picture, where the electrons are transformed into fermions that
+carry two flux quanta of a Chern-Simons gauge field. A similar picture can be
+used to characterize ground states which have been proposed for the two layer
+system.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 20:56:56 GMT""}]","2009-10-22"
+"funct-an/9305003",,"M. Chaichian, R. Gonzalez Felipe and P. Presnajder","q-Supersymmetric Generalization of von Neumann's Theorem","10 pages, Latex, HU-TFT-93-28",,"10.1088/0305-4470/26/18/005",,"funct-an hep-th math.OA",,"  Assuming that there exist operators which form an irreducible representation
+of the q-superoscillator algebra, it is proved that any two such
+representations are equivalent, related by a uniquely determined superunitary
+transformation. This provides with a q-supersymmetric generalization of the
+well-known uniqueness theorem of von Neumann for any finite number of degrees
+of freedom.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 11:58:16 GMT""}]","2009-10-22"
+"hep-ph/9305292","Jose Wudka","Jose Wudka (UC Riverside)","Effective Lagrangians and Triple Boson Couplings","(Presented at the conference ""Electroweak Interactions and Unified
+  Theories, Moriond 1993) Preprint UCRHEP-108. 11 pages. Requires phyzzx",,,,"hep-ph",,"  I review the use of effective lagrangians in describing the physics beyond
+the standard model, several theoretical and practical aspects are discussed. It
+is argued that the only situations where new physics can be observed
+corresponds to cases where the standard model cntributions are extremely
+suppressed and where high quality data is avaliable.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 16:20:50 GMT""}]","2007-05-23"
+"hep-ph/9305293","Felix Schlumpf","Felix Schlumpf","Magnetic Moments of the Baryon Decuplet in a Relativistic Quark Model","10 pages ReVTeX, SLAC-PUB-6218","Phys.Rev. D48 (1993) 4478-4480","10.1103/PhysRevD.48.4478",,"hep-ph",,"  The magnetic moments of the baryon decuplet are calculated in a relativistic
+constituent quark model using the light-front formalism. Of particular interest
+are the magnetic moments of the $\Omega^-$ and $\Delta^{++}$ for which new
+recent experimental measurements are available. Our calculation for the
+magnetic moment ratio $\mu(\Delta^{++})/\mu(p)$ is in excellent agreement with
+the experimental ratio, while our ratio $\mu(\Omega^-)/\mu(\Lambda^0)$ is
+slightly higher than the experimental ratio.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 20:18:37 GMT""}]","2009-10-22"
+"hep-ph/9305294",,"Xiao-Gang He","A Possible Way of Connecting the Grassmann Variables and the Number of
+  Generation","7 pages, Revtex, UM-P-93/40, OZ-93/10","Phys.Rev. D49 (1994) 567-568","10.1103/PhysRevD.49.567",,"hep-ph",,"  We construct a Left-Right symmetric model in which the number of generation
+is related to Grassmann variables. We introduce two sets of complex Grassmann
+variables ($\theta^1_q$,$\theta^2_q$), ($\theta^1_l$, $\theta ^2_l$) and
+associate each variable with left- and right-handed quark and lepton fields,
+respectively. Expanding quark and lepton fields in powers of the Grassmann
+variables, we find that there are exactly three generations of quarks and
+leptons. Integrating out the Grassmann variables, we obtain phenomenologically
+acceptable fermion mass matrices.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 02:37:14 GMT""}]","2009-10-22"
+"hep-ph/9305295","Valeri Dvoeglazov","V. V. Dvoeglazov","On ""Electromagnetic Potential Vectors and Spontaneous Symmetry Breaking""","4 pages, LaTeX file, no figures. This version is to be published in
+  ""Relativity, Gravitation, Cosmology: Beyond Foundations"" (Nova Science Pubs.,
+  Hauppauge, NY, USA, 2018). Ed. V. V. Dvoeglazov","""Relativity, Gravitation, Cosmology: Beyond Foundations"" (Nova
+  Sci. Pubs., NY, 2018), pp. 141-144",,,"hep-ph hep-th","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  The appearance of terms, which are analogous to ones required for symmetry
+breaking, in Lagrangian of Ref. [1] is shown to be caused by gauge invariance
+of quantum electrodynamics (QED) and by inaccuracy of the cited author in the
+choice of canonical variables. These terms do not have physical significance
+within modern quantum electrodynamics. PACS: 03.50.De, 04.20.Cv, 04.20.Fy,
+11.10.Ef.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 04:56:39 GMT""},{""version"":""v2"",""created"":""Tue, 9 Oct 2018 17:52:13 GMT""}]","2018-11-05"
+"hep-ph/9305296",,"Hung Jung Lu, Stanley J. Brodsky and Valery A. Khoze","QED-Induced Rapidity-Gap Events at the Z Peak","13 pages, plain TeX (needs the PHYZZX macros), 4 figures in
+  PostScript. SLAC-PUB-6116, DOE/ER/40762-009, U of Md. PP \#93-198","Phys.Lett.B312:215-219,1993","10.1016/0370-2693(93)90513-H",,"hep-ph",,"  We study rapidity-gap events in $e^+e^-$ annihilation at the Z boson peak
+initiated by the emission of a virtual photon. This mechanism is suppressed by
+the QED coupling constant, but it is enhanced due to a large propagator term
+from the virtual photon. For typical kinematics, we find a smaller event rate
+than analogous QCD type gap events. In the small jet-pair invariant mass limit,
+the QED type events follow a $1+\cos^2\theta$ distribution in the jet-pair
+scattering angle, instead of the $\sin^2\theta$ distribution of the QCD case.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 04:26:48 GMT""}]","2009-09-11"
+"hep-ph/9305297","Don Pedro","E. Bagan & P. Gosdzinsky","Renormalizabilty of TH Heavy Quark Effective Theory","LATEX/10 pages/ UAB-FT-314/ (References have been added.) figures
+  (PS) available on request. Unfortunately some mails asking for copies by
+  conventional mail were lost. Please resend requests","Phys.Lett. B320 (1994) 123-129","10.1016/0370-2693(94)90834-6",,"hep-ph",,"  We show that the Heavy Quark Effective Theory is renormalizable
+perturbatively. We also show that there exist renormalization schemes in which
+the infinite quark mass limit of any QCD Green function is exactly given by the
+corresponding Green function of the Heavy Quark Effective Theory. All this is
+accomplished while preserving BRS invariance.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 10:52:16 GMT""},{""version"":""v2"",""created"":""Fri, 2 Jul 1993 09:05:30 GMT""}]","2009-10-22"
+"hep-th/9305095","Jae-Suk Park","Jae-Suk Park","Holomorphic Yang-Mills Theory on Compact K\""{a}hler Manifolds","24pages, harvmac.tex with AMSfonts 2.1, ESENAT-93-02 and YUMS-93-11","Nucl.Phys. B423 (1994) 559-579","10.1016/0550-3213(94)90144-9",,"hep-th",,"  We propose $N=2$ holomorphic Yang-Mills theory on compact K\""{a}hler
+manifolds and show that there exists a simple mapping from the $N=2$
+topological Yang-Mills theory. It follows that intersection parings on the
+moduli space of Einstein-Hermitian connections can be determined by examining
+the small coupling behavior of the $N=2$ holomorphic Yang-Mills theory. This
+paper is a higher dimensional generalization of the Witten's work on physical
+Yang-Mills theory in two dimensions.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 18:07:00 GMT""},{""version"":""v2"",""created"":""Wed, 22 Sep 1993 21:21:00 GMT""},{""version"":""v3"",""created"":""Fri, 24 Sep 1993 08:07:00 GMT""},{""version"":""v4"",""created"":""Wed, 20 Oct 1993 15:36:00 GMT""},{""version"":""v5"",""created"":""Thu, 21 Oct 1993 13:31:00 GMT""},{""version"":""v6"",""created"":""Mon, 28 Mar 1994 14:41:00 GMT""}]","2009-10-22"
+"hep-th/9305096","Takashi Takebe","Alexander A. Belov and Karen D. Chaltikian","Lattice Analogue of W-infinity Algebra and Discrete KP-Hierarchy","10 pages, ILG-TMP-93-02","Phys.Lett. B317 (1993) 64-72","10.1016/0370-2693(93)91571-4",,"hep-th",,"  In development of the started activity on lattice analogues of $W$-algebras,
+we define the notion of lattice $W_{\infty}$-algebra, accociated with lattice
+integrable system with infinite set of fields. Various kinds of reduction to
+lattice $W_N$-algebras, related to discrete $N$-KdV hierarchies are described.
+We also discuss the connection of our results with those obtained in the papers
+of Xiong [13] and Bonora [14].
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 01:24:59 GMT""}]","2009-10-22"
+"hep-th/9305097",,"S.G. Naculich, H.A. Riggs, and H.J. Schnitzer","Two-dimensional Yang-Mills Theories Are String Theories","(two references added; one old, one recent) 14pages, Latex,
+  BRX-TH-346, JHU-TIPAC-930015","Mod.Phys.Lett.A8:2223-2236,1993","10.1142/S0217732393001951",,"hep-th hep-ph",,"  We show that two-dimensional SO(N) and Sp(N) Yang-Mills theories without
+fermions can be interpreted as closed string theories. The terms in the 1/N
+expansion of the partition function on an orientable or nonorientable manifold
+M can be associated with maps from a string worldsheet onto M. These maps are
+unbranched and branched covers of M with an arbitrary number of infinitesimal
+worldsheet cross-caps mapped to points in M. These string theories differ from
+SU(N) Yang-Mills string theory in that they involve odd powers of 1/N and
+require both orientable and nonorientable worldsheets.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 03:07:00 GMT""},{""version"":""v2"",""created"":""Tue, 25 May 1993 15:29:00 GMT""}]","2010-11-01"
+"hep-th/9305098","Chris M. Hull","C.M. Hull","New Realisations of Minimal Models and the Structure of W-Strings","28 pages, NSF-ITP-93-65, QMW-93-14","Nucl.Phys. B413 (1994) 413-432","10.1016/0550-3213(94)90626-2",,"hep-th",,"  The quantization of a free boson whose momentum satisfies a cubic constraint
+leads to a $c=\ha$ conformal field theory with a BRST symmetry. The theory also
+has a $W_\infty $ symmetry in which all the generators except the stress-tensor
+are BRST-exact and so topological. The BRST cohomology includes states of
+conformal dimensions $0,\si,\ha$, together with \lq copies' of these states
+obtained by acting with picture-changing and screening operators. The 3-point
+and 4-point correlation functions agree with those of the Ising model,
+suggesting that the theory is equivalent to the critical Ising model. At tree
+level, the $W_3$ string can be viewed as an ordinary $c=26$ string whose
+conformal matter sector includes this realisation of the Ising model. The
+two-boson $W_3$ string is equivalent to the Ising model coupled to
+two-dimensional quantum gravity. Similar results apply for other W-strings and
+minimal models.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 04:37:00 GMT""}]","2009-10-22"
+"hep-th/9305099","Masako Asano","Masako Asano, Masayuki Tanimoto and Noriaki Yoshino","Supersymmetric Bianchi class A models","9 pages, LaTeX, TIT/HEP-221/COSMO-30","Phys.Lett. B314 (1993) 303-307","10.1016/0370-2693(93)91240-N",,"hep-th",,"  The canonical theory of $N=1$ supergravity is applied to Bianchi class A
+spatially homogeneous cosmologies. The full set of quantum constraints are then
+solved with the possible ordering ambiguity taken into account by introducing a
+free parameter. The wave functions are explicitly given for all the Bianchi
+class A models in a unified way. Some comments are made on the Bianchi type IX
+cases.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 06:47:34 GMT""},{""version"":""v2"",""created"":""Wed, 17 Nov 1993 11:32:34 GMT""}]","2009-10-22"
+"hep-th/9305100","Omar Foda","Omar Foda, Michio Jimbo, Tetsuji Miwa, Kei Miki, and Atsushi
+  Nakayashiki","Vertex operators in solvable lattice models","41 pages","J.Math.Phys. 35 (1994) 13-46","10.1063/1.530783",,"hep-th nlin.SI solv-int",,"  We formulate the basic properties of q-vertex operators in the context of the
+Andrews-Baxter-Forrester (ABF) series, as an example of face-interaction
+models, derive the q-difference equations satisfied by their correlation
+functions, and establish their connection with representation theory. We also
+discuss the q-difference equations of the Kashiwara-Miwa (KM) series, as an
+example of edge-interaction models. Next, the Ising model--the simplest special
+case of both ABF and KM series--is studied in more detail using the
+Jordan-Wigner fermions. In particular, all matrix elements of vertex operators
+are calculated.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 08:51:24 GMT""}]","2009-10-22"
+"hep-th/9305101","Boguslaw Broda","Boguslaw Broda (U. Clausthal and U. Lodz)","A note on the four-dimensional Kirby calculus","5 pages",,,,"hep-th math.QA",,"  An explicit derivation of the elements of the representation ring of SU(2)
+needed to implement the four-dimensional Kirby calculus is sketched.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 10:57:00 GMT""}]","2008-02-03"
+"hep-th/9305102","Chris Fewster","C.J. Fewster","On the Energy Levels of the Hydrogen Atom","26pp, LaTeX. 1 figure available on request, DAMTP-R93/9",,,,"hep-th",,"  We re-examine the justification for the imposition of regular boundary
+conditions on the wavefunction at the Coulomb singularity in the treatment of
+the hydrogen atom in non-relativistic quantum mechanics. We show that the issue
+of the correct boundary conditions is not independent of the physical structure
+of the proton. Under the physically reasonable assumption that the finite size
+and structure of the proton can be represented as a positive correction to the
+Coulomb potential, we give a justification for the regular boundary condition,
+which, in contrast to the usual treatments, is physically motivated and
+mathematically rigorous. We also describe how irregular boundary conditions can
+be used to model non-positive corrections to the Coulomb potential.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 11:43:06 GMT""}]","2007-05-23"
+"hep-th/9305103","Abel.","S.A.Abel and C.M.A.Scheich","Classification of (2,2) Compactification in Fermionic Strings","13 Pages, Latex, RAL-93-033","Phys.Lett.B312:423-432,1993","10.1016/0370-2693(93)90978-Q",,"hep-th",,"  Replaced with revised (uncorrupted) version We present a general scheme for
+generating (2,2) symmetric fermionic string models and classify the models in
+D=8 and D=6 space time dimensions. We discuss the relationship to other
+compactification schemes.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 12:25:00 GMT""},{""version"":""v2"",""created"":""Tue, 22 Jun 1993 17:37:00 GMT""}]","2010-11-01"
+"hep-th/9305104","Gernot Muenster","G. Muenster","The role of mathematics in contemporary theoretical physics","6 pages, MS-TPI-93-02",,,,"hep-th",,"  Talk given at the 6th Philosophy-and-Physics-Workshop ``Epistemological
+Aspects of the Role of Mathematics in Physical Science'', FEST, Heidelberg,
+Feb. 1993
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 13:11:21 GMT""}]","2007-05-23"
+"hep-th/9305105","Jose Gaite","Jose Gaite and Ram Brustein","Batalin-Vilkoviski master equation and absence of anomalies in string
+  field theory","report UPR-561-TH/Salamanca FTUS-9307","Phys.Lett.B319:110-116,1993","10.1016/0370-2693(93)90789-K",,"hep-th",,"  We study the Batalin-Vilkovisky master equation for both open and closed
+string field theory with special attention to anomalies. Open string field
+theory is anomaly free once the minimal coupling to closed strings induced by
+loop amplitudes is considered. In closed string field theory the full-fledged
+master equation has to be solved order by order in perturbation theory. The
+existence of a solution implies the absence of anomaly. We briefly discuss the
+relation of the iterative process of solution to methods used in the first
+quantized formalism and comment on some possible non-perturbative corrections.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 12:39:47 GMT""}]","2008-11-26"
+"hep-th/9305106",,"Oleg A. Soloviev","Some Comments on Lie-Poisson Structure of Conformal Non-Abelian Thirring
+  Models","QMW-93-16, 10 pp",,"10.1142/S0217732394003713",,"hep-th",,"  The interconnection between self-duality, conformal invariance and
+Lie-Poisson structure of the two dimensional non-abelian Thirring model is
+investigated in the framework of the hamiltonian method.
+","[{""version"":""v1"",""created"":""Fri, 21 May 1993 14:20:19 GMT""},{""version"":""v2"",""created"":""Tue, 1 Jun 1993 15:28:27 GMT""}]","2009-10-22"
+"nucl-th/9305014",,"M. T. Pe\~na, P. U. Sauer, A. Stadler, and G. Kortemeyer","Three-Nucleon Force and the $\Delta$-Mechanism for Pion Production and
+  Pion Absorption","23 pages in Revtex 3.0, 9 figures (not included, available as
+  postscript files upon request), CEBAF-TH-93-08","Phys.Rev.C48:2208-2221,1993","10.1103/PhysRevC.48.2208",,"nucl-th",,"  The description of the three-nucleon system in terms of nucleon and $\Delta$
+degrees of freedom is extended to allow for explicit pion production
+(absorption) from single dynamic $\Delta$ de-excitation (excitation) processes.
+This mechanism yields an energy dependent effective three-body hamiltonean. The
+Faddeev equations for the trinucleon bound state are solved with a force model
+that has already been tested in the two-nucleon system above pion-production
+threshold. The binding energy and other bound state properties are calculated.
+The contribution to the effective three-nucleon force arising from the pionic
+degrees of freedom is evaluated. The validity of previous coupled-channel
+calculations with explicit but stable $\Delta$ isobar components in the
+wavefunction is studied.
+","[{""version"":""v1"",""created"":""Thu, 20 May 1993 17:33:12 GMT""}]","2008-11-26"

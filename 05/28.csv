@@ -1,0 +1,352 @@
+"astro-ph/9305036",,"Kevin Krisciunas","Strange Cases from the Files of Astronomical Sociology","7 pages, Latex",,,"IAS-93-001","astro-ph",,"  What astronomer could not use his own surname because his father was beheaded
+for sorcery? Who built the only observatory worth $5 billion in today's money?
+Who had worse luck than YOU travelling thousands of miles NOT to observe an
+astronomical event? Who had one of his books bound in human skin at the request
+of his most ardent fan? Is there an anti-correlation between scientific output
+and the number of children one has? Are astronomers known for having unusual
+honeymoons? Who wrote the most egotistical work in the history of astronomy?
+What famous astronomer was present for the opening of King Tutankhamen's tomb
+and later began having hallucinations of an elf, which advised him on the
+running of his observatory? What is the strangest abstract published in the
+Bulletin of the American Astronomical Society? What well-known bad tempered
+astronomer was born in 1898 (the year after Bram Stoker's {\em Dracula} was
+published) in Varna, Bulgaria, which all vampirologists recognize as the
+nearest port from which any self-respecting Transylvanian vampire would embark
+on a sea voyage to London? In this article we provide answers to these
+fascinating questions.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 00:28:45 GMT""}]","2007-05-23"
+"astro-ph/9305037","Luke Drury","L O'C Drury, F A Aharonian and H J Voelk","The gamma-ray visibility of supernova remnants: a test of cosmic ray
+  origin","13 pages, A&A tex, DIAS-CP-93-7","Astron.Astrophys. 287 (1994) 959-971",,,"astro-ph",,"  Gamma ray production in supernova remnants is discussed on the basis of
+current ideas about cosmic ray acceleration.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 14:30:52 GMT""}]","2007-05-23"
+"chao-dyn/9305009","Robert S. Maier","Robert S. Maier (University of Arizona)","Large Fluctuations in Stochastically Perturbed Nonlinear Systems:
+  Applications in Computing","LaTeX article style, with 3 accompanying PS figures",,,,"chao-dyn nlin.CD",,"  This is the transcript of a talk given at the 1992 Complex Systems Summer
+School. The theory of large fluctuations of stochastically perturbed
+continuous-time dynamical systems is reviewed, and the large fluctuations of
+two stochastic models arising in computer science are analysed. One is a
+stochastic model of a communications network, resembling an Ethernet, which
+experiences traffic fluctuations. The other is a simple model of two dynamic
+data structures in the same memory space. In both models `large fluctuations'
+are unlikely, undesirable events. The mean time between occurrences of such
+events is estimated.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 01:56:28 GMT""}]","2008-02-03"
+"chao-dyn/9305010","Robert S. Maier","Robert S. Maier and Daniel L. Stein (University of Arizona)","The Effect of Focusing and Caustics on Exit Phenomena in Systems Lacking
+  Detailed Balance","REVTEX macros (latest version). Two accompanying PS figures, one of
+  which is large (over 600K unpacked)","Phys. Rev. Lett. 71 (1993) 1783-1786","10.1103/PhysRevLett.71.1783",,"chao-dyn nlin.CD",,"  We study the trajectories followed by a particle subjected to weak noise when
+escaping from the domain of attraction of a stable fixed point. If detailed
+balance is absent, a _focus_ may occur along the most probable exit path,
+leading to a breakdown of symmetry (if present). The exit trajectory
+bifurcates, and the exit location distribution may become `skewed'
+(non-Gaussian). The weak-noise asymptotics of the mean escape time are strongly
+affected. Our methods extend to the study of skewed exit location distributions
+in stochastic models without symmetry.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 02:07:20 GMT""}]","2008-02-03"
+"chao-dyn/9305011",,"G. Filatrella (Phys. Inst., Univ. Tuebingen), B. A. Malomed (Dept.
+  Appl. Math., Tel Aviv Univ.), R. D. Parmentier (Dept. Phys., Univ. Salerno)","Threshold Analysis for the Inverse ac Josephson Effect","A uuencoded, Z-compressed, tar-archive (named INVERSE.TAZ) containing
+  3 files: TXT.TEX (7 pages of text in standard LaTeX); F1A.PS and F1B.PS (2
+  PostScript figures)",,"10.1016/0375-9601(93)91188-B",,"chao-dyn nlin.CD",,"  The inverse ac Josephson effect involves rf-induced (Shapiro) steps that
+cross over the zero-current axis; the phenomenon is of interest in voltage
+standard applications. The standard analysis of the step height in current,
+which yields the well-known Bessel-function dependence on an effective ac drive
+amplitude, is valid only when the drive frequency is large compared with the
+junction plasma frequency or when the drive amplitude is large compared with
+the zero-voltage Josephson current. Using a first-order Krylov-Bogoliubov
+power-balance approach we derive an expression for the threshold value of the
+drive amplitude for zero-crossing steps that is not limited to the large
+frequency or large amplitude region. Comparison with numerical solutions of the
+RSJ differential equation shows excellent agreement for both fundamental and
+subharmonic steps. The power-balance value for the threshold converges to the
+Bessel-function value in the high- frequency limit.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 12:37:00 GMT""}]","2009-10-22"
+"cond-mat/9305036","Alessandro Pelizzola","C. Buzano, A. Maritan and A. Pelizzola","Cluster Variation Approach to the Random-Anisotropy
+  Blume-Emery-Griffiths Model","14 pages (plain TeX) + 12 figures (PostScript, appended), Preprint
+  POLFIS-TH.02/93",,"10.1088/0953-8984/6/2/005",,"cond-mat",,"  The random--anisotropy Blume--Emery--Griffiths model, which has been proposed
+to describe the critical behavior of $^3$He--$^4$He mixtures in a porous
+medium, is studied in the pair approximation of the cluster variation method
+extended to disordered systems. Several new features, with respect to mean
+field theory, are found, including a rich ground state, a nonzero percolation
+threshold, a reentrant coexistence curve and a miscibility gap on the high
+$^3$He concentration side down to zero temperature. Furthermore, nearest
+neighbor correlations are introduced in the random distribution of the
+anisotropy, which are shown to be responsible for the raising of the critical
+temperature with respect to the pure and uncorrelated random cases and
+contribute to the detachment of the coexistence curve from the $\lambda$ line.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 15:38:19 GMT""}]","2009-10-22"
+"cond-mat/9305037","R. J. Radtke","R. J. Radtke, K. Levin, H.-B. Schuttler, and M. R. Norman","Predictions for Impurity-Induced Tc Suppression in the High-Temperature
+  Superconductors","13 pages, 4 figures upon request, revtex version 2",,"10.1103/PhysRevB.48.653",,"cond-mat",,"  We address the question of whether anisotropic superconductivity is
+compatible with the evidently weak sensitivity of the critical temperature Tc
+to sample quality in the high-Tc copper oxides. We examine this issue
+quantitatively by solving the strong-coupling Eliashberg equations numerically
+as well as analytically for s-wave impurity scattering within the second Born
+approximation. For pairing interactions with a characteristically low energy
+scale, we find an approximately universal dependence of the d-wave
+superconducting transition temperature on the planar residual resistivity which
+is independent of the details of the microscopic pairing. These results, in
+conjunction with future systematic experiments, should help elucidate the
+symmetry of the order parameter in the cuprates.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 14:31:22 GMT""}]","2009-10-22"
+"cond-mat/9305038","R. J. Radtke","R. J. Radtke, K. Levin, H.-B. Schuttler, and M. R. Norman","Role of Van Hove Singularities and Momentum Space Structure in
+  High-Temperature Superconductivity","23 pages, 6 figures upon request, revtex version 2, vHs-1",,"10.1103/PhysRevB.48.15957",,"cond-mat",,"  There is a great deal of interest in attributing the high critical
+temperatures of the cuprates to either the proximity of the Fermi level to a
+van Hove singularity or to structure of the superconducting pairing potential
+in momentum space far from the Fermi surface. We examine these ideas by
+calculating the critical temperature Tc for model Einstein-phonon- and
+spin-fluctuation-mediated superconductors within both the standard,
+Fermi-surface-restricted Eliashberg theory and the exact mean field theory,
+which accounts for the full momentum structure of the pairing potential and the
+energy dependence of the density of states. By using two models of
+spin-fluctuation-mediated pairing in the cuprates, we demonstrate that our
+results are independent of the details of the dynamical susceptibility, which
+is taken to be the pairing potential. We also compare these two models against
+available neutron scattering data, since these data provide the most direct
+constraints on the susceptibility. We conclude that the van Hove singularity
+does not drastically alter Tc from its value when the density of states is
+constant and that the effect of momentum structure is significant but secondary
+in importance to that of the energy dependence in the density of states.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 15:04:00 GMT""}]","2009-10-22"
+"hep-lat/9305023","Steven Gottlieb","C. Bernard, T. Blum, T. DeGrand, C. Detar, S. Gottlieb, A. Krasnitz,
+  R. Sugar, D. Toussaint (The MILC Collaboration)","Finite-size and quark mass effects on the QCD spectrum with two flavors","IUHET-232, 54 pages. Posted here is the PostScript file including 15
+  embedded figures","Phys.Rev.D48:4419-4434,1993","10.1103/PhysRevD.48.4419",,"hep-lat",,"  We have carried out spectrum calculations with two flavors of dynamical
+Kogut-Susskind quarks on four lattice sizes from $8^3\times 24$ to
+$16^3\times24$ at couplings that correspond to chiral symmetry restoration for
+a lattice with 6 time slices. We estimate that the linear spatial sizes of the
+lattices range from 1.8 to 3.6 fm. We find significant finite size effects for
+all particles between the smallest and largest volume with the larger quark
+mass that we study, $am_q=0.025$, where $a$ is the lattice spacing. The nucleon
+experiences the largest effect of about 6 percent. We also study a lighter
+quark mass, $am_q=0.0125$, on the two largest lattices. Effects of the
+dynamical and valence quark masses on the hadron spectrum are studied both
+directly, by comparing the two simulations, and by extracting mass derivatives
+from the correlation functions. We do not find much improvement in the nucleon
+to rho mass ratio as we decrease the quark mass at this lattice spacing.
+Finally, we report on an unsuccessful attempt to see effects of the $\rho
+\rightarrow 2\pi$ decay on the $\rho$ mass, and on studies of Wilson and
+Kogut-Susskind hadron masses with large valence quark masses. (The paper is
+also available via anonymous ftp in a compressed PostScript file:
+fuji.physics.indiana.edu:/pub/milc/paper.ps.Z .)
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 19:39:46 GMT""}]","2008-11-26"
+"hep-lat/9305024","Berndt Mueller","C. Gong, B. Mueller, and T.S. Biro","Variational Approach to Real-Time Evolution of Yang-Mills Gauge Fields
+  on a Lattice","LaTeX, 12 pages, 5 figures contained in a separate uuencoded file,
+  DUKE-TH-93-49","Nucl.Phys.A568:727-744,1994","10.1016/0375-9474(94)90357-3",,"hep-lat nucl-th",,"  Applying a variational method to a Gaussian wave ansatz, we have derived a
+set of semi-classical evolution equations for SU(2) lattice gauge fields, which
+take the classical form in the limit of a vanishing width of the Gaussian wave
+packet. These equations are used to study the quantum effects on the classical
+evolutions of the lattice gauge fields.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 20:31:48 GMT""}]","2009-09-25"
+"hep-lat/9305025","Keh-Fei Liu","K.F. Liu, S.J. Dong, T. Draper, J.M. Wu, and W. Wilcox","Nucleon Axial Form Factor from Lattice QCD","8 pages, 5 figures (included in part 2), UK/93-01","Phys.Rev.D49:4755-4761,1994","10.1103/PhysRevD.49.4755",,"hep-lat hep-ph",,"  Results for the isovector axial form factors of the proton from a lattice QCD
+calculation are presented for both point-split and local currents. They are
+obtained on a quenched $16^{3} \times 24$ lattice at $\beta= 6.0$ with Wilson
+fermions for a range of quark masses from strange to charm. We determine the
+finite lattice renormalization for both the local and point-split currents of
+heavy quarks. Results extrapolated to the chiral limit show that the $q^2$
+dependence of the axial form factor agrees reasonably well with experiment. The
+axial coupling constant $g_A$ calculated for the local and the point-split
+currents is about 6\% and 12\% smaller than the experimental value
+respectively.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 20:35:08 GMT""}]","2009-09-25"
+"hep-ph/9305336",,"J. Pappademos, U. Sukhatme, and A. Pagnamenta","Bound States in the Continuum from Supersymmetric Quantum Mechanics","15 pages, in latex, 10 figures will be sent by mail, upon request","Phys.Rev.A48:3525-3531,1993","10.1103/PhysRevA.48.3525","UICHEP-TH/92-9","hep-ph",,"  Starting from a potential with a continuum of energy eigenstates, we show how
+the methods of supersymmetric quantum mechanics can be used to generate
+families of potentials with bound states in the continuum [BICs]. We also find
+the corresponding wave functions. Our method preserves the spectrum of the
+original potential except it adds these discrete BICs at selected energies.
+Specifically, we compute and graph potentials which have bound states in the
+continuum starting from a null potential representing a free particle and from
+both the attractive and the repulsive Coulomb potentials.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 16:41:33 GMT""}]","2008-11-26"
+"hep-ph/9305337","Bob Holdom","B. Holdom","Metacolor","11 pages, LaTeX, UTPT-93-09. (The title has changed from ""Massless
+  Technicolor"" and more discussion of dynamics has been added.)","Phys.Lett. B314 (1993) 89-94","10.1016/0370-2693(93)91326-I",,"hep-ph",,"  A new mechanism is presented for the generation of quark and lepton masses,
+based on a heavy fourth family and a new sector of massless fermions. The
+massless fermions have only discrete chiral symmetries and they are confined by
+the metacolor force. The resulting electroweak corrections may be smaller than
+in technicolor theories.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 16:59:22 GMT""},{""version"":""v2"",""created"":""Wed, 7 Jul 1993 04:28:40 GMT""}]","2009-10-22"
+"hep-ph/9305338","Patrick O'Donnell","Patrick J. O'Donnell and Utpal Sarkar","Neutrinoless Double Beta Decay and CP Violation","9 pages, UTPT-93-12","Phys.Rev.D52:1720-1721,1995","10.1103/PhysRevD.52.1720",,"hep-ph",,"  We study the relation between the Majorana neutrino mass matrices and the
+neutrinoless double beta decay when CP is not conserved. We give an explicit
+form of the decay rate in terms of a rephasing invariant quantity and
+demonstrate that in the presence of CP violation it is impossible to have
+vanishing neutrinoless double beta decay in the case of two neutrino
+generations (or when the third generation leptons do not mix with other leptons
+and hence decouple).
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 19:34:06 GMT""}]","2010-11-01"
+"hep-ph/9305339","Ed Stoeffhaas","V. Barger and R.J.N. Phillips","Closing in on Supersymmetry","(Talk presented by V. Barger at the Symposium in Honor of Tetsuro
+  Kobayashi's 63rd Birthday, Tokyo, March 1993. Standard Latex. 17 pages
+  without figures. Full 23 page version with 24 in-text figures available by
+  regular mail. MAD/PH/762",,,,"hep-ph",,"  A survey is made of some recent ideas and progress in the phenomenological
+applications of Supersymmetry (SUSY). We describe the success of SUSY-GUT
+models, the expected experimental signatures and present limits on SUSY partner
+particles, and the phenomenology of Higgs bosons in the minimal SUSY model.}
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 19:39:59 GMT""}]","2007-05-23"
+"hep-ph/9305340",,"H-Y Cheng, C-Y Cheung, W. Dimm, G-L Lin, Y.C. Lin, T-M Yan, H-L Yu","Heavy Quark and Chiral Symmetry Predictions for Semileptonic Decays
+  B->D(D*),pi,l,nu","28 pages, 23 figs (FTP from author), LaTeX, Typos corrected in Eq.
+  4.9c (factor of 2), Eq. A.4, and Tables II & III. No change in content,
+  results, or figures. CLNS93/1204, IP-ASTP-15-93","Phys.Rev. D48 (1993) 3204-3220","10.1103/PhysRevD.48.3204",,"hep-ph",,"  We study in detail the prediction for the semileptonic decays $\bar{B} \to D
+(D^*) \pi \ell \bar{\nu}$ by heavy quark and chiral symmetry. The branching
+ratio for $\bar{B} \to D \pi \ell \bar{\nu}$ is quite significant, as big as
+$(0.5-1)\%$. The branching ratio for $\bar{B} \to D^* \pi \ell \bar{\nu}$ is
+only of order $10^{-4}-10^{-5}$. Numerical results for various single particle
+spectra and their dependence on the pion momentum cutoff schemes are presented
+in a series of figures, as are the model independent ratios for differential
+rates of $D$ and $D^*$. We also study the parity-violation effects on the decay
+rates for different polarization states of the $D^*$. Figures may be obtained
+by anonymous FTP from strange.tn.cornell.edu in the directory pub/CLNS931204,
+or by email from the author.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 21:41:13 GMT""},{""version"":""v2"",""created"":""Tue, 10 Aug 1993 02:10:30 GMT""}]","2009-10-22"
+"hep-ph/9305341","Eric Laenen","E.Laenen and E.Levin","A Note on `Hot Spot' Hunting in Deep-Inelastic Scattering","Latex 7 pages, 4 figures appended (postscript). Talk presented by
+  E.Levin at Durham '93 conference. FERMILAB-Conf-93/117-T","J.Phys.G19:1582-1586,1993","10.1088/0954-3899/19/10/014",,"hep-ph",,"  We consider the inclusive cross section for jet production with large
+transverse momentum in deep-inelastic scattering. This process has been
+proposed as a probe of small-x physics, particularly the measurement of `hot
+spots' inside the proton. We present a numerical calculation of this process,
+taking into account a larger phase space. The theoretical reliability as well
+as phenomenological uncertainties of the calculation are discussed.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 21:56:19 GMT""}]","2009-10-22"
+"hep-ph/9305342",,"H. Baer, F. Paige, S. Protopopescu and X. Tata","Simulating Supersymmetry with ISAJET 7.0/ ISASUSY 1.0","17 pages, FSU-HEP-930329 UH-511-764-93",,,,"hep-ph",,"  We review the physics assumptions and input used in ISAJET~7.0 /
+ISA\-SUSY~1.0 that are relevant for simulating fundamental processes within the
+framework of the Minimal Supersymmetric Standard Model (MSSM) at $p\bar p$ and
+$pp$ colliders. After a brief discussion of the underlying MSSM framework, we
+discuss event simulation and list the sparticle production processes and decay
+modes that have been incorporated into our calculations. We then describe how
+to set up and run an ISAJET / ISASUSY job and the user input and output
+formats. The ISAJET program is sufficiently flexible that some non-minimal
+supersymmetry scenarios may be simulated as well. Finally, plans for future
+upgrades which include the extension to $e^+ e^-$ collisions, are listed.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 01:36:57 GMT""}]","2007-05-23"
+"hep-ph/9305343","Lisa Randall","Lisa Randall and Eric Sather","The Rate for $B\bbar$ Production Accompanied by a Single Pion","7 pages, uses harvmac, MIT-CTP-2214",,,,"hep-ph",,"  We study the rate for the production of ${B B^\pm \pi^\mp}$, where the sign
+of the charged pion tags the flavor content of the neutral $B$ meson. We
+estimate this branching ratio, employing the heavy meson chiral effective
+theory. We find that at center of mass energy of approximately 12 GeV, a $B$
+meson pair should be produced as often with and without an accompanying charged
+pion. We also calculate two pion production at this center of mass energy, and
+find that it is negligible, as is the rate for rho production. We consider the
+implications for CP violation studies. (Invited Talk, 1993 Electroweak
+Rencontres de Moriond)
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 02:12:07 GMT""}]","2007-05-23"
+"hep-ph/9305344",,"N.K. Mondal and D.P. Roy","An Effective $p_T$ Cutoff for the Isolalated Lepton Background from
+  Bottom Decay --","TIFR/TH/93-23 (LATEX, 20 pages, 7 figures available on request)","Phys.Rev.D49:183-189,1994","10.1103/PhysRevD.49.183",,"hep-ph",,"  There is a strong correlation between the $p_T$ and isolation of the lepton
+coming from $B$ decay. Consequently the isolated lepton background from $B$
+decay goes down rapidly with increasing lepton $p_T$; and there is a $p_T$
+cutoff beyond which it effectively vanishes. For the isolation cut of $E^{AC}_T
+< 10$ GeV, appropriate for LHC, the lepton $p_T$ cutoff is 80 GeV. This can be
+exploited to effectively eliminate the $B$ background from the like sign
+dilepton channel apropriate for Majorana particle searches, as well as the
+unlike sign dilepton and the single lepton channels appropriate for the top
+quark search. We illustrate this with a detailed analysis of the $B$ background
+in these channels along with the signals at LHC energy using both parton level
+MC and ISAJET programs.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 09:38:00 GMT""}]","2011-01-13"
+"hep-ph/9305345","Keijo Kajantie","K. Kajantie, K. Rummukainen and M. Shaposhnikov","A Lattice Monte Carlo Study of the Hot Electroweak Phase Transition","15 pages, use latex+epsfig, includes 6 ps-figures, CERN-TH.6901/93","Nucl.Phys. B407 (1993) 356-372","10.1016/0550-3213(93)90062-T",,"hep-ph hep-lat",,"  We study the finite temperature electroweak phase transition with lattice
+perturbation theory and Monte Carlo techniques. Dimensional reduction is used
+to approximate the full four-dimensional SU(2) + a fundamental doublet Higgs
+theory by an effective three-dimensional SU(2) + adjoint Higgs + fundamental
+Higgs theory with coefficients depending on temperature via screening masses
+and mass counterterms. Fermions contribute to the effective theory only via the
+$N_F$ and $m_{\rm top}$ dependence of the coefficients. For sufficiently small
+lattices ($N^3 < 30^3$ for $m_H$ = 35 GeV) the study of the one-loop lattice
+effective potential shows the existence of the {\em second} order phase
+transition even for the small Higgs masses. At the same time, a clear signal of
+a {\em first order} phase transition is seen on the lattice simulations with a
+transition temperature close to but less than the value determined from the
+perturbative calculations. This indicates that the dynamics of the first order
+electroweak phase transition depends strongly on non-perturbative effects and
+is not exclusively related to the so-called $\phi^3$ term in the effective
+potential.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 15:25:46 GMT""}]","2009-10-22"
+"hep-th/9305155",,"Daniel Kabat and Miguel Ortiz","Canonical quantization and braid invariance of (2+1)-dimensional gravity
+  coupled to point particles","11 pages, CTP # 2210, Plain TeX","Phys.Rev.D49:1684-1688,1994","10.1103/PhysRevD.49.1684",,"hep-th gr-qc",,"  We investigate the canonical quantization of gravity coupled to pointlike
+matter in 2+1 dimensions. Starting from the usual point particle action in the
+first order formalism, we introduce auxiliary variables which make the action
+locally Poincar\'e invariant. A Hamiltonian analysis shows that the gauge group
+is actually larger than the Poincar\'e group -- certain additional gauge
+constraints are present which act on the matter degrees of freedom. These
+additional constraints are necessary to mimic the diffeomorphism invariance
+present if the theory is formulated with a spacetime metric. The additional
+gauge constraints are realized projectively in the quantum theory, with a phase
+in the composition law for finite gauge transformations. That phase is
+responsible for the braid invariance of physical observables (holonomies).
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 20:02:53 GMT""}]","2008-11-26"
+"hep-th/9305156","Luis F. Urrutia","D.E.Berenstein and L.F.Urrutia","The Relation between the Mandelstam and the Cayley-Hamilton Identities","latex file, 16 pages, preprint ICN-UNAM -93 -#17","J.Math.Phys. 35 (1994) 1922-1930","10.1063/1.530578",,"hep-th gr-qc",,"  Starting from the characteristic polynomial for ordinary matrices we give a
+combinatorial deduction of the Mandelstam identities and viceversa, thus
+showing that the two sets of relations are equivalent. We are able to extend
+this construction to supermatrices in such a way that we obtain the Mandelstam
+identities in this case, once the corresponding characteristic equation is
+known.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 17:34:52 GMT""}]","2009-10-22"
+"hep-th/9305157","Jean-Philippe Brunet","Carlos Castro (I.A.E.C 1407 Alegria Austin, Texas USA)","A New Spinning Membrane Lagrangian","submitted to the Journal of Group Theory in Physics 14 pages","Int.J.Groups Phys. 1 (1993) 215",,"IAEC-5-93","hep-th",,"  A new local world volume supersymmetric Lagrangian for the bosonic membrane
+is presented. The starting Lagrangian is the one constructed by Dolan and
+Tchrakian with vanishing cosmological constant, with quadratic and quartic
+derivative terms. Our Lagrangian differs from the one constructed by Lindstrom
+and Rocek in the fact that it is polynomial in the fields facilitating the
+quantization process. It is argued, rigorously, that if one wishes to construct
+polynomial actions without a curvature scalar term and, where supersymmetry is
+linearly realized in the space of physical fields, after the elimination of
+auxiliary fields, one must relinquish $S$ supersymmetry, altogether, and
+concentrate solely on the $Q$ supersymmetry associated with the superconformal
+algebra in three dimensions. A full $''Q+S''$ supersymmetry cannot be
+implemented in a linearly realized way satisfying all of the above-mentioned
+requirements, unless a non-polynomial action is chosen.
+  PACS:04.65.+e, 04.20.Fy.
+","[{""version"":""v1"",""created"":""Thu, 27 May 1993 20:40:40 GMT""}]","2007-05-23"
+"hep-th/9305158","Boris Spokoiny","Boris Spokoiny","Stochastic Approach to a non de Sitter Inflation","18p. Plain TeX,phyzzx. (We added a reference file which was
+  previously missed)",,,"KUNS-1192","hep-th gr-qc",,"  We develop a stochastic approach to a non de Sitter Universe in a
+gauge-invariant way and obtain a system of Langevin-type equations which may be
+considered to be renormalization group equations for the long wave parts of the
+scalar fields and metric. We investigate in detail the case of generalized
+power-law inflation that appears in the model of the deflationary exit from the
+inflationary stage. For this case the above system is simplified greatly, we
+derive a Fokker-Planck equation for the scalar field driving inflation, find
+its stationary solutions and solve the FP equation for a delta-function initial
+distribution of the field.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 07:34:22 GMT""},{""version"":""v2"",""created"":""Fri, 4 Jun 1993 11:29:21 GMT""},{""version"":""v3"",""created"":""Sat, 5 Jun 1993 07:16:22 GMT""}]","2008-02-03"
+"hep-th/9305159","Boris Spokoiny","Boris Spokoiny","Stochastic non de Sitter Inflation","8p., Plain Tex,phyzzx. (We added reference file which previously was
+  missed)",,"10.1016/0083-6656(93)90080-4","KUNS-1193","hep-th gr-qc",,"  We generalize the stochastic approach to quasi-power-law inflationary
+Universes,obtain the corresponding Langevin and Fokker-Planck equations for the
+scalar field driving inflation and find stationary solutions to the above FP
+equation.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 07:56:16 GMT""},{""version"":""v2"",""created"":""Fri, 4 Jun 1993 12:55:58 GMT""},{""version"":""v3"",""created"":""Sat, 5 Jun 1993 07:27:54 GMT""}]","2009-10-22"
+"hep-th/9305160",,"D.I. Olive, N. Turok and J.W.R. Underwood","Affine Toda Solitons and Vertex Operators","Imperial/TP/92-93/29 SWAT/92-93/5 PU-PH-93/1392, requires newmac","Nucl.Phys.B409:509-546,1993","10.1016/0550-3213(93)90541-V",,"hep-th",,"  Affine Toda theories with imaginary couplings associate with any simple Lie
+algebra ${\bf g}$ generalisations of Sine Gordon theory which are likewise
+integrable and possess soliton solutions. The solitons are \lq\lq created"" by
+exponentials of quantities $\hat F^i(z)$ which lie in the untwisted affine
+Kac-Moody algebra ${\bf\hat g}$ and ad-diagonalise the principal Heisenberg
+subalgebra. When ${\bf g}$ is simply-laced and highest weight irreducible
+representations at level one are considered, $\hat F^i(z)$ can be expressed as
+a vertex operator whose square vanishes. This nilpotency property is extended
+to all highest weight representations of all affine untwisted Kac-Moody
+algebras in the sense that the highest non vanishing power becomes proportional
+to the level. As a consequence, the exponential series mentioned terminates and
+the soliton solutions have a relatively simple algebraic expression whose
+properties can be studied in a general way. This means that various physical
+properties of the soliton solutions can be directly related to the algebraic
+structure. For example, a classical version of Dorey's fusing rule follows from
+the operator product expansion of two $\hat F$'s, at least when ${\bf g}$ is
+simply laced. This adds to the list of resemblances of the solitons with
+respect to the particles which are the quantum excitations of the fields.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 12:22:33 GMT""}]","2008-11-26"
+"hep-th/9305162","Lev Vaidman","Lev Vaidman","Lorentz-Invariant ""Elements of Reality"" and the Question of Joint
+  Measurability of Commuting Observables","15 pages",,"10.1103/PhysRevLett.70.3369","TAUP 2027-93","hep-th",,"  It is shown that the joint measurements of some physical variables
+corresponding to commuting operators performed on pre- and post-selected
+quantum systems invariably disturb each other. The significance of this result
+for recent proofs of the impossibility of realistic Lorentz invariant
+interpretation of quantum theory (without assumption of locality) is discussed.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 14:32:30 GMT""}]","2009-10-22"
+"hep-th/9305163",,"Michele Maggiore","Quantum Groups, Gravity, and the Generalized Uncertainty Principle","13 pages, IFUP-TH 19/93, May 1993 (revised Nov. 1993)","Phys. Rev. D 49, 5182 (1994)","10.1103/PhysRevD.49.5182",,"hep-th",,"  We investigate the relationship between the generalized uncertainty principle
+in quantum gravity and the quantum deformation of the Poincar\'e algebra. We
+find that a deformed Newton-Wigner position operator and the generators of
+spatial translations and rotations of the deformed Poincar\'e algebra obey a
+deformed Heisenberg algebra from which the generalized uncertainty principle
+follows. The result indicates that in the $\kappa$-deformed Poincar\'e algebra
+a minimal observable length emerges naturally.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 13:46:48 GMT""},{""version"":""v2"",""created"":""Wed, 3 Nov 1993 15:29:06 GMT""},{""version"":""v3"",""created"":""Thu, 4 Nov 1993 09:59:34 GMT""}]","2013-11-13"
+"hep-th/9305176","Irina Ya. Aref'eva","I. Ya. Aref'eva and G. E. Arutyunov","Uniqueness of $U_q(N)$ as a quantum gauge group and representations of
+  its differential algebra","14 pages (Changes in Introduction+changes in References+change in
+  title)","Proc.Steklov Inst.Math.203:181-189,1994",,"SMI-4-93","hep-th math.QA",,"  To construct a quantum group gauge theory one needs an algebra which is
+invariant under gauge transformations. The existence of this invariant algebra
+is closely related with the existence of a differential algebra $\delta _{{\cal
+H}} G_{q}$ compatible with the Hopf algebra structure. It is shown that $\delta
+_{{\cal H}} G_{q}$ exists only for the quantum group $U_{q}(N)$ and that the
+quantum group $SU_q(N)$ as a quantum gauge group is not allowed. The
+representations of the algebra $\delta _{{\cal H}} G_{q}$ are con- structed.
+The operators corresponding to the differentials are realized via derivations
+on the space of all irreducible *-representations of $U_q(2)$. With the help of
+this construction infinitesimal gauge transformations in two-dimensional
+classical space-time are described.
+","[{""version"":""v1"",""created"":""Fri, 28 May 1993 13:46:34 GMT""},{""version"":""v2"",""created"":""Tue, 22 Jun 1993 11:20:33 GMT""}]","2011-07-19"

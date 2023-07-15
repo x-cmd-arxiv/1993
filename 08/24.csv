@@ -1,0 +1,228 @@
+"alg-geom/9308004","Robert Friedman","Robert Friedman","Vector bundles and $SO(3)$ invariants for elliptic surfaces III: The
+  case of odd fiber degree","68 pages, AMS-TeX",,,,"alg-geom math.AG",,"  This paper, the last in a series of three, studies vector bundles on an
+elliptic surface whose determinant has odd intersection number with a general
+fiber and uses this study to calculate certain coefficients of Donaldson
+polynomials.
+","[{""version"":""v1"",""created"":""Mon, 23 Aug 1993 18:58:28 GMT""}]","2008-02-03"
+"astro-ph/9308029","Avishai Dekel","Avishai Dekel and Martin Rees","Omega from Velocities in Voids","9 pages, compressed and uuencoded PostScript",,"10.1086/187197",,"astro-ph",,"  We propose a method for deriving a dynamical lower bound on $\Omega$ from
+diverging flows in low-density regions, based on the fact that large outflows
+are not expected in a low-$\Omega$ universe. The velocities are assumed to be
+induced by gravity from small initial fluctuations, but no assumptions are made
+regarding their exact Gaussian nature, galaxy biasing, or $\Lambda$. The
+derivatives of a diverging velocity field infer a nonlinear approximation to
+the mass density, which is an overestimate when the true value of $\Omega$ is
+assumed. This inferred density can become ridiculously negative when the
+assumed $\Omega$ is too low, thus bounding $\Omega$. Observed radial peculiar
+velocities of galaxies allow the \pot\ procedure to recover the required
+velocity field, Gaussian smoothed at $1200\kms$. The density and the associated
+errors are then inferred for different values of $\Omega$, searching for a void
+which shows negative inferred density with high confidence. A preliminary
+application to data in a southern void indicates that $\Omega\leq 0.3$ can be
+ruled out at the $2.4$-sigma level. A detailed study of possible systematic
+errors is under way.
+","[{""version"":""v1"",""created"":""Mon, 23 Aug 1993 16:02:39 GMT""}]","2009-10-22"
+"astro-ph/9308030","Heino Falcke","Heino Falcke & Peter L. Biermann","The Galactic Center - an AGN on a starvation diet","6 pages and 2 figures (or complete harcopy) available on request,
+  plain-TeX, MPIfR 1786","p. 44-48 in: Mass-Transfer Induced Activity in Galaxies, Shlosman
+  I. (ed.), Cambridge Univ. Press",,,"astro-ph",,"  The Galactic Center shows evidence for the presence of three important AGN
+ingredients: a Black Hole ($M_\bullet\sim10^6M_\odot$), an accretion disk
+($10^{-8.5} - 10^{-7} M_\odot/{\rm yr}$) and a powerful jet (jet power $\ge$
+10\% disk luminosity). However, the degree of activity is very low and can
+barely account for the energetics of the whole central region. Neverthelss, in
+the very inner arsecond the central engine becomes dominant and provides an
+interesting laboratory for the physics of central engines (Black Holes) in
+galactic nuclei. We therefore give an overall picture of the central arcsecond
+where we link the radio emission and the heating of the ambient medium to a
+weakly accreting disk surrounding a massive Black Hole. <<<To appear in the
+conference proceedings ""Mass Transfer Induced Activity in Galaxies"", Lexington
+93, I. Shlosman (ed.)>>>
+","[{""version"":""v1"",""created"":""Tue, 24 Aug 1993 07:52:15 GMT""}]","2007-05-23"
+"astro-ph/9308031",,"Heino Falcke, Karl Mannheim, Peter L. Biermann","The Galactic Center radio jet","4 pages + 1 figure available on request, LaTeX (laa.sty), MPIfR 1690","Astron.Astrophys.278:L1,1993",,,"astro-ph",,"  Recent observations of the radio and NIR source Sgr A* reinforce the
+interpretation of the Galactic Center as a scaled down version of an AGN. The
+discovery of an elongated structure at 43 GHz and increasing evidence for the
+presence of an accretion disk surrounding a Black Hole lead us to assume that
+both, an accretion disk and a jet, are present in the Galactic Center and are
+physically linked. We model the radio emission of Sgr A* successfully with a
+Blandford & K""onigl type jet and analyze the energetics of the coupled jet-disk
+system in Sgr A* where jet and disk are parametrized in terms of the accretion
+power. With this method we are able to confirm independently the lower limit of
+the Sgr A* accretion rate \dot M >> 10^-8.5 M_sun found previously. Moreover,
+using the limits imposed by observational data, we show that within such a
+jet-disk model, the total jet power Q_jet is of comparable order as the
+radiated disk luminosity L_disk. A jet model together with the assumption of an
+10^6 M_sun Black Hole also qualitatively explains the submm excess and the lack
+of non-thermal IR radiation. The small size of the visible part of the jet (< 1
+mas) is due to the low accretion rate of Sgr A*. <<<A&A Letters, in press>>>
+","[{""version"":""v1"",""created"":""Tue, 24 Aug 1993 10:40:02 GMT""}]","2011-05-23"
+"astro-ph/9308032","Gary Mamon","Gary A. Mamon","Dynamical Theory of Groups and Clusters of Galaxies","17 pages, uuencoded, compressed PostScript, invited review to appear
+  in 'Gravitational Dynamics and the N-Body Problem', ed. F. Combes & E.
+  Athanassoula, mtg. held in Aussois, France, March 1993, POP-DAEC-93031",,,,"astro-ph",,"  The different dynamical processes (relaxation, dynamical friction, tides and
+mergers) operating in groups and clusters are reviewed. The small-scale
+substructure observed in clusters is argued to be the remnants of the cores of
+rich clusters that merged together, rather than large groups falling into the
+cluster. The {\sl ROSAT\/} X-ray observations of two groups of galaxies are
+discussed, and, contrary to a previous claim, the baryon fraction is high,
+relative to the constraints from baryonic nucleosynthesis. A general theory of
+the fundamental surface of groups is presented, allowing one to determine with
+reasonable confidence the precise cosmo-dynamical state of a given group of
+galaxies. The data from groups is then consistent with a universal true $M/L$
+of $440\,h$, roughly 4 times larger than previous estimates, the discrepancy
+occurring because most groups are still relatively near cosmological
+turnaround. This high $M/L$ and the young cosmo-dynamical state of groups
+suggests a density parameter $\Omega > 0.3$. Hickson's compact groups are
+explained as a mixture of virialized groups, loose groups near full collapse,
+and chance alignments from collapsing loose groups. Finally, the level of
+projection effects contaminating samples of binary galaxies within groups is
+shown to be important.
+","[{""version"":""v1"",""created"":""Tue, 24 Aug 1993 13:52:15 GMT""}]","2007-05-23"
+"gr-qc/9308026","Hugh Luckock","R. Graham and H. Luckock","Nicolai Maps for Quantum Cosmology","17 pages, Latex, Sydney University Maths Report 93-26","Phys.Rev. D49 (1994) 2786-2791","10.1103/PhysRevD.49.2786",,"gr-qc",,"  We construct Nicolai maps for $N=2$ supersymmetric extensions of
+minisuperspace models. It is shown that Nicolai maps exist for only a very
+restricted set of states. In the models considered these are the two states
+corresponding to the empty and the filled fermion sectors. The form of the
+Nicolai maps in these sectors is given explicitly, and it is shown that they
+have a natural stochastic interpretation. This result also suggests a
+probabilistic interpretation of the wave function.
+","[{""version"":""v1"",""created"":""Tue, 24 Aug 1993 04:29:12 GMT""}]","2009-10-22"
+"hep-lat/9308014","Gunnar Bali","K. Schilling, G.S. Bali","The Static Quark-Antiquark Potential: A ``Classical'' Experiment On The
+  Connection Machine CM-2","(Talk K. Schilling), 11 pages, postscript (\approx 250K)","Int.J.Mod.Phys.C4:1167-1177,1993","10.1142/S0129183193000926",,"hep-lat",,"  We describe the Wuppertal university pilot project in applied parallel
+computing. We report on a comprehensive high statistics determination of the
+static quark-antiquark potential and related quantities from quenched quantum
+chromodynamics. New data for the string tension and the plaquette action for
+the region 5.5 < beta < 6.8 is presented.
+","[{""version"":""v1"",""created"":""Tue, 24 Aug 1993 13:09:26 GMT""}]","2011-04-15"
+"hep-ph/9308319","Sourendu Gupta","Sourendu Gupta","Electromagnetic Signals and Backgrounds in Heavy-Ion Collisions:","9 pages (incl figures), preprint HLRZ 53/93","Nucl.Phys.A566:69c-76c,1994","10.1016/0375-9474(94)90610-6",,"hep-ph hep-lat nucl-th",,"  Aspects of the dilepton spectrum in heavy-ion collisions are discussed, with
+special emphasis on using lattice computations to guide the phenomenology of
+finite temperature hadronic matter. The background rates for continuum
+dileptons expected in forthcoming experiments are summarised. Properly
+augmented by data from ongoing measurements at HERA, these rates will serve as
+a calibrating background for QGP searches. Recent results on the temperature
+dependence of the hadronic spectrum obtained in lattice computations below the
+deconfinement transition are summarised. Light vector meson masses are strongly
+temperature dependent. Accurate measurements of a resolved $\rho$-peak in
+dimuon spectra in present experiments are thus of fundamental importance.
+[file-length=200k characters; instructions for processing given; some Latex
+versions give error messages: ignore them completely]
+","[{""version"":""v1"",""created"":""Mon, 23 Aug 1993 16:22:34 GMT""}]","2010-11-01"
+"hep-ph/9308320","Ronald Kleiss","Ronald Kleiss","The matrix element for radiative Bhabha scattering in the forward
+  direction","8 pages, preprint number NIKHEF-93-19 (August 1993)","Phys.Lett. B318 (1993) 217-220","10.1016/0370-2693(93)91809-2",,"hep-ph",,"  We present an approximation to the matrix element for the process e+e- -->
+e+e-gamma, appropriate to the situation where one or both of the fermions are
+scattered over very small angles. The leading terms in the situation where all
+scattering angles are small contains not only terms quadratic in the electron
+mass, but also quartic and even sextic terms must be included. Special
+attention is devoted to the numerical stability of the resultant expression.
+Its relation to several existing formulae is discussed.
+","[{""version"":""v1"",""created"":""Mon, 23 Aug 1993 16:58:55 GMT""}]","2009-10-22"
+"hep-ph/9308322","Stefano Forte","Richard Ball and Stefano Forte","Anomalous Evolution of the Gottfried Sum","plain TeX with the harvmac macropackage, 35 pages (harvmac b mode),
+  11 figures included in a separate uuencoded postscript file, OUTP-93-18P,
+  DFTT 9/93","Nucl.Phys.B425:516-552,1994","10.1016/0550-3213(94)90286-0",,"hep-ph",,"  We discuss nonperturbative QCD evolution of nonsinglet nucleon structure
+functions, with particular application to the Gottfried sum. We show that the
+coupling of the quark partons to bound state mesons leads to nonperturbative
+contributions to the Altarelli--Parisi equations which, due to the axial
+anomaly, result in a strong scale dependence of nonsinglet structure functions
+for values of $Q^2$ around the nucleon mass scale. We compute specifically the
+evolution of the first moment of the quark distribution, and find that it is
+sufficient to explain recent experimental data which indicate a violation of
+the Gottfried sum rule.
+","[{""version"":""v1"",""created"":""Mon, 23 Aug 1993 17:57:34 GMT""}]","2014-11-17"
+"hep-ph/9308323","My Account","J. Lopez","SUSY GUTs: A practical introduction","CTP-TAMU-42/93, 32 pages, 12 figures (not included), Latex. Complete
+  postscript file (uncompressed: 1.04MB, uuencoded:0.525MB) available from
+  me@cryptons.tamu.edu. (Lecture presented at the Erice 93 Summer School.)",,,,"hep-ph",,"  An introduction to the most important concepts in the subject of
+supersymmetric unified theories is presented. The emphasis is on the practical
+aspects leading to state-of-the-art calculations in this renascent subject. The
+topics covered include: generalities of supersymmetric unified theories, gauge
+and Yukawa coupling unification including the most up-to-date numerical
+analyses, soft supersymmetry breaking, and radiative electroweak symmetry
+breaking enforced using the tree-level and one-loop effective potentials. This
+class of supersymmetric models can be described in terms of five parameters:
+the top-quark mass ($m_t$), the ratio of Higgs vacuum expectation values
+($\tan\beta$), and three universal soft-supersymmetry-breaking parameters
+($m_{1/2},m_0,A$). Thus, highly correlated predictions can be expected for all
+conceivable experimental observables. In effect, these general models provide a
+basic framework upon which more constrained models can be built.
+","[{""version"":""v1"",""created"":""Mon, 23 Aug 1993 21:35:02 GMT""}]","2007-05-23"
+"hep-ph/9308324","Mark Srednicki","Toby Falk, Richard Madden, Keith A. Olive, and Mark Srednicki","Corrections to Bino Annihilation I: Sfermion Mixing","11 pages in LaTex plus 4 postscript figures (included),
+  CfPA--93--th--21, UMN--TH--1205/93","Phys.Lett.B318:354-359,1993","10.1016/0370-2693(93)90139-9",,"hep-ph",,"  We consider corrections to bino annihilation due to sfermion mixing.
+","[{""version"":""v1"",""created"":""Mon, 23 Aug 1993 23:26:48 GMT""}]","2009-09-25"
+"hep-ph/9308325","Quevedo","B. de Carlos, J.A. Casas, F. Quevedo and E. Roulet","Model Independent Properties and Cosmological Implications of the
+  Dilaton and Moduli Sectors of 4-d Strings","15 pages,CERN-TH.6958/93,NEIP-93-006, IEM-FT-75/93, Latex","Phys.Lett.B318:447-456,1993","10.1016/0370-2693(93)91538-X",,"hep-ph",,"  We show that if there is a realistic 4-d string, the dilaton and moduli
+supermultiplets will generically acquire a small mass O(m_{3/2}), providing the
+only vacuum-independent evidence of low-energy physics in string theory beyond
+the supersymmetric standard model. The only assumptions behind this result are
+(i) softly broken supersymmetry at low energies with zero cosmological
+constant, (ii) these particles interact with gravitational strength and the
+scalar components have a flat potential in perturbation theory, which are
+well-known properties of string theories. (iii) They acquire a $vev$ of the
+order of the Planck scale (as required for the correct value of the gauge
+coupling constants and the expected compactification scale) after supersymmetry
+gets broken. We explore the cosmological implications of these particles.
+Similar to the gravitino, the fermionic states may overclose the Universe if
+they are stable or destroy nucleosynthesis if they decay unless their masses
+belong to a certain range or inflation dilutes them. For the scalar states it
+is known that the problem cannot be entirely solved by inflation, since
+oscillations around the minimum of the potential can lead to a huge entropy
+generation at late times. We discus some possible ways to alleviate this
+entropy problem, that favour low-temperature baryogenesis, and also comment on
+the possible role of these particles as dark matter candidates or as sources of
+the baryon asymmetry through their decay.
+","[{""version"":""v1"",""created"":""Tue, 24 Aug 1993 00:05:07 GMT""}]","2009-10-29"
+"hep-ph/9308326",,"D.A. Morris","Prospects for Multiple Weak Gauge Boson Production at Supercollider
+  Energies","(Talk given at the Workshop on Physics at Current Accelerators and
+  the Supercollider, June 2-5, 1993, Argonne National Laboratory), 13 pages
+  (LaTeX) + 6 PostScript figures in accompanying file (uuencoded) which may
+  optionally be incorporated into the text using epsf.sty, UCLA 93/TEP/30",,,,"hep-ph",,"  We discuss the prospects for observing multiple weak gauge boson production
+at the SSC and LHC. We summarize conventional perturbative cross sections for
+processes involving 1-6 final state weak gauge bosons and compare them with
+more speculative scenarios including 1) a toy model of a strongly interacting
+Higgs sector patterned after hadronic multipion production and 2) the
+nonperturbative production of O(30) weak gauge bosons in a weakly coupled gauge
+sector.
+","[{""version"":""v1"",""created"":""Tue, 24 Aug 1993 00:10:00 GMT""}]","2007-05-23"
+"hep-ph/9308327","Herbert Weigel","R. Alkofer and H. Weigel","$1/N_C$ Corrections to $g_A$ in the Light of PCAC$","8 pages LaTeX, 1 figure , UNITU-THEP-9/1993","Phys.Lett.B319:1-6,1993","10.1016/0370-2693(93)90771-9",,"hep-ph",,"  We comment on recently discovered $1/N_C$ corrections to the ` nucleon axial
+current in the framework of the Nambu--Jona-Lasinio soliton. This kind of
+corrections arises only for a special treatment of ordering ambiguities of
+collective coordinates and operators in the semiclassical quantization. In
+addition to the missing derivation of this special quantization scheme from
+first principles its na\""\i ve application violates partial conservation of the
+axial current (PCAC). We show how within this scheme PCAC can be restored and
+determine the corresponding $1/N_C$ corrections to the equation of motion for
+the chiral soliton. The resulting self-consistent solution allows to evaluate
+the nucleon axial coupling constant $g_A$ directly as a matrix element of the
+axial current as well as indirectly from the pion profile function. Enhancement
+is found for those baryon properties which are sensitive to the long range
+behavior of the pion profile.
+","[{""version"":""v1"",""created"":""Tue, 24 Aug 1993 12:04:08 GMT""}]","2008-11-26"
+"hep-ph/9308328",,"Riazuddin, N. Paver and F. Simeoni","Vector Meson Exchanges and CP Asymmetry in
+  $K^{\pm}\rightarrow\pi^{\pm}\pi^0$","9 pages (plain-TEX), IC/93/186, UTS-DFT-93-18, (two figures not
+  included)","Phys.Lett.B316:397-402,1993","10.1016/0370-2693(93)90344-H",,"hep-ph",,"  Using a current algebra framework, we discuss the contribution of vector
+meson exchanges to the CP violating asymmetry in the decay
+$K^{\pm}\rightarrow\pi^{\pm}\pi^0$, resulting from the interference of the
+$K\rightarrow\pi\pi$ amplitude with the radiative correction
+$K\rightarrow\pi\pi\gamma$.
+","[{""version"":""v1"",""created"":""Tue, 24 Aug 1993 15:44:41 GMT""}]","2010-11-01"
+"hep-th/9308110",,"D. R. Grigore","Conformal Invariance in Classical Field Theory","18 pages, PLAIN-TEX","Mod.Phys.Lett. A9 (1994) 225-240","10.1142/S0217732394000241",,"hep-th",,"  A geometric generalization of first-order Lagrangian formalism is used to
+analyse a conformal field theory for an arbitrary primary field. We require
+that global conformal transformations are Noetherian symmetries and we prove
+that the action functional can be taken strictly invariant with respect to
+these transformations. In other words, there does not exists a ""Chern-Simons""
+type Lagrangian for a conformally invariant Lagrangian theory.
+","[{""version"":""v1"",""created"":""Tue, 24 Aug 1993 07:09:00 GMT""}]","2015-06-26"
+"math/9308203","Chris Leary","Christopher Leary","The structure of pleasant ideals",,,,"Logic E-prints August 24, 1993","math.LO",,"  Normal ideals on regular uncountable cardinals are familiar objects. We
+investigate ideals that are pleasant--while a normal ideal is closed under
+arbitrary diagonal unions, a pleasant ideal is closed only under diagonal
+unions indexed by sets that are elements of the ideal. We show any selective
+ideal extending the nonstationary ideal must be normal.
+","[{""version"":""v1"",""created"":""Tue, 24 Aug 1993 00:00:00 GMT""}]","2009-09-25"
+"nucl-th/9308018",,"Hitoshi Nakada, Takashi Sebe and Takaharu Otsuka","Microscopic description of nuclei in the middle of the pf-shell by a
+  shell model calculation with G-matrix interaction","63 pages (LaTeX, to be published in Nucl. Phys. A)","Nucl.Phys. A571 (1994) 467-517","10.1016/0375-9474(94)90222-4",,"nucl-th",,"  Energy levels and electromagnetic properties of with $N=28\sim 30$ nuclides
+are studied in terms of a large-scale shell model calculation, which contains
+no newly adjusted parameters. The Kuo-Brown $G$-matrix interaction is shown to
+reproduce energy levels of 205 low-lying states of these nuclei. We evaluate
+effective charges by incorporating the core-polarization effects caused by the
+coupling to GQR's. We then compute E2 moments and transition probabilities. The
+M1 moments and transition rates are calculated by quoting the effective
+$g$-factors of Towner, which are obtained by taking into account the
+meson-exchange and the core-polarization mechanisms. By this microscopic
+calculation most of the E2 properties and the magnetic moments are reproduced.
+Although there are agreements and disagreements in the M1 transition rates, the
+general tendency is reproduced. The $(e,e')$ and $(p,p')$ excitation from the
+ground state to some low-lying $2^+$ states is also discussed.
+","[{""version"":""v1"",""created"":""Mon, 23 Aug 1993 19:10:25 GMT""},{""version"":""v2"",""created"":""Wed, 13 Oct 1993 11:07:55 GMT""}]","2015-06-26"

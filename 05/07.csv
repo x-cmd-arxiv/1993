@@ -1,0 +1,245 @@
+"alg-geom/9305004","Takao Fujita","T. Fujita","Kodaira energies of polarized log varieties","10 pages, AMSTeX",,,,"alg-geom math.AG",,"  Let L be an ample line bundle on a log variety (V, D) having only log
+terminal singularities.The Kodaira energy of such a triple (V, D, L) is defined
+as follows: \kappa\epsilon=-Inf{t\in Q | K(V,D)+tL is big}. Here K(V,D)=K_V+D
+is the log canonical bundle of (V,D) and ""big"" means \kappa=dim V. We first
+show that the rationality of \kappa\epsilon, when it is negative, follows from
+log Flip theorems (thus it is proved for dim V\le 3 at present). Second we
+consider the case in which D=0, dim V=3 and V has only terminal singularities.
+Let S be the set of all the possible values of Kodaira energies of such
+polarized log threefolds. We prove that S has no negative limit point. This
+result is closely related to the boundedness of Fano 3-folds.
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 06:52:45 GMT""}]","2008-02-03"
+"astro-ph/9305004","Rino Bandiera","Rino Bandiera","Modelling Non-Axisymmetric Bow Shocks","14 pages, 3 figures, plain tex, ARCETRI-PR-93-15","Astron.Astrophys. 276 (1993) 648",,,"astro-ph",,"  I present an extension of the thin layer approximation to non-axisymmetric
+bow shocks. By choosing a suitable set of curvilinear coordinates that matches
+the geometry of a generally distorted bow shock surface, I derive the fluid
+equations for the flow. Analytical expansions are given for the matter flow
+near the bow shock stagnation point. Numerical solutions are also obtained, by
+using a revised Runge-Kutta method. This numerical method results to be
+computationally stable and fast. When two winds interact, axisymmetric bow
+shocks are expected to form only if both winds are spherically symmetric. But
+stellar winds often present strong anisotropies: for all these cases a
+non-axisymmetric model of bow shock is required.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 17:38:48 GMT""}]","2007-05-23"
+"astro-ph/9305007",,"Luca Amendola & Stefano Borgani","Large-Scale Clustering in Bubble Models","LaTeX, DFUPG 78/93","Mon.Not.Roy.Astron.Soc. 266 (1994) 191","10.1093/mnras/266.1.191",,"astro-ph",,"  We analyze the statistical properties of bubble models for the large-scale
+distribution of galaxies. To this aim, we realize static simulations, in which
+galaxies are mostly randomly arranged in the regions surrounding bubbles. As a
+first test, we realize simulations of the Lick map, by suitably projecting the
+three-dimensional simulations. In this way, we are able to safely compare the
+angular correlation function implied by a bubbly geometry to that of the APM
+sample. We find that several bubble models provide an adequate amount of
+large-scale correlation, which nicely fits that of APM galaxies. Further, we
+apply the statistics of the count-in-cell moments to the three-dimensional
+distribution and compare them with available observational data on variance,
+skewness and kurtosis. Based on our purely geometrical constructions, we find
+that a well defined hierarchical scaling of higher order moments up to scales
+$\sim 70\hm$. The overall emerging picture is that the bubbly geometry is well
+suited to reproduce several aspects of large-scale clustering.
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 09:37:10 GMT""}]","2015-06-24"
+"astro-ph/9305008","researcher Dch","Mirek Giersz and Douglas C. Heggie","Statistics of N-body Simulations I. Equal Masess Before Core Collapse","24 pages",,"10.1093/mnras/268.1.257",,"astro-ph",,"  We study the dynamical evolution of idealised stellar systems by averaging
+results from many $N$-body simulations, each having modest numbers of stars.
+For isolated systems with stars of uniform mass, we discuss aspects of
+evolution up to the point of core collapse: relaxation and its $N$-dependence,
+the evolution of the density profile, the development of the velocity
+dispersion and anisotropy, and the rate of stellar escape.
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 13:29:37 GMT""}]","2015-06-24"
+"chao-dyn/9305003","Daniel Provost","Daniel Provost and Michel Baranger","A Semiclassical Calculation of Scars for a Smooth Potential","7 pages, REVTEX 3.0, 8 figures compressed and uuencoded, but only
+  figures 1, 3, 5, 8 are included due to size restrictions. The others can be
+  obtained from the authors",,"10.1103/PhysRevLett.71.662",,"chao-dyn nlin.CD",,"  Bogomolny's formula for energy-smoothed scars is applied for the first time
+to a non-specific, non-scalable Hamiltonian, a 2-D anharmonic oscillator. The
+semiclassical theory reproduces well the exact quantal results over a large
+spatial and energy range.
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 14:55:23 GMT""}]","2009-10-22"
+"gr-qc/9305005",,"Nguyen Hong Chuong and Nguyen Van Hoang","Cosmological Constant and Gravitational Repulsion Effect: 1. Homogeneous
+  models with radiation","REVTEX, 11 pages, Syracuse University preprint SU-GP-93/5-1","Int.J.Mod.Phys. D2 (1993) 443-450","10.1142/S0218271893000313",,"gr-qc astro-ph",,"  Within the framework of the minimum quadratic Poincare gauge theory of
+gravity in the Riemann-Cartan spacetime we study the influence of gravitational
+vacuum energy density (a cosmological constant) on the dynamics of various
+gravitating systems. It is shown that the inclusion of the cosmological term
+can lead to gravitational repulsion. For some simple cases of spatially
+homogeneous cosmological models with radiation we obtain non-singular solutions
+in form of elementary functions and elliptic integrals.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 23:45:00 GMT""}]","2009-10-22"
+"gr-qc/9305006",,"P.F. Gonzalez-Diaz","The Quantum Sphaleron","8 pages, IMAFF-RC-01-93#","Phys.Lett. B307 (1993) 362-366","10.1016/0370-2693(93)90233-8",,"gr-qc",,"  A gravitational instanton is found that can tunnel into a new more stable
+vacuum phase where diffeomorphism invariance is broken and pitchfork
+bifurcations develop. This tunnelling process involves a double sphaleron-like
+transition which is associated with an extra level of quantization which is
+above that is contained in quantum field theory.
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 10:24:08 GMT""}]","2009-10-22"
+"hep-ph/9305216","Carlos Wagner","C.E.M. Wagner","Unification of Couplings and the Dynamical Breakdown of the Electroweak
+  Symmetry","20 pages, 1 figure (not included), Max Planck Institut preprint:
+  MPI-Ph/93-25",,,,"hep-ph",,"  I discuss the properties of the minimal supersymmetric extension of the
+standard model, in the case in which there is a dynamical breakdown of the
+electroweak symmetry induced by the formation of condensates of the third
+generation of quarks and their supersymmetric partners. The top quark and Higgs
+mass predictions derived within this scheme are essentially equivalent to those
+ones obtained from the requirement of bottom-tau Yukawa coupling unification in
+a supersymmetric grand unified scenario, if the compositeness scale is
+identified with the grand unification scale. I give an explanation of this
+interesting result, for which the relevance of the infrared quasi fixed point
+on the top quark Yukawa coupling is emphasized.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 16:04:21 GMT""}]","2007-05-23"
+"hep-ph/9305217","Reina Laura","L. Reina","NLO calculation of $\epsilon^{\prime}/\epsilon$ in QCD and QED within
+  the lattice QCD framework","8 pages, LaTeX, figures available on request, ULB-TH 93/04",,,,"hep-ph",,"  We present the results of our recent calculation of $\epsilon^{\prime}/
+\epsilon$ at the Next-to-Leading (NLO) order in QCD and QED, in the framework
+of $\DSone$ Effective Hamiltonians. The operator matrix elements are taken from
+lattice QCD, at a scale $\mu=2\,\,\mbox{GeV}$. NLO corrections seem to lower
+the value of $\epsilon^{\prime}/\epsilon$, favouring the experimental result of
+E731. Contributions from different operators are analyzed and dependence on
+$\mt$, $\mu$ and $\Lambda_{\sss QCD}$ discussed. (Talk given at the XXVIIIth
+Rencontres de Moriond, ``Electro-Weak Interactions and Unified Theories'',
+March 13-19 1993).
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 17:26:37 GMT""}]","2007-05-23"
+"hep-ph/9305219",,"A.S. Gorsky and M.B. Voloshin","Non-Perturbative Production of Multi-Boson States and Quantum Bubbles","20 pages in LaTeX + 3 figures (fugures not included, hardcopy
+  available on request), TPI-MINN-93/20-T","Phys.Rev. D48 (1993) 3843-3851","10.1103/PhysRevD.48.3843",,"hep-ph hep-th",,"  The amplitude of production of $n$ on-mass-shell scalar bosons by a highly
+virtual field $\phi$ is considered in a $\lambda \phi^4$ theory with weak
+coupling $\lambda$ and spontaneously broken symmetry. The amplitude of this
+process is known to have an $n!$ growth when the produced bosons are exactly at
+rest. Here it is shown that for $n \gg 1/\lambda$ the process goes through
+`quantum bubbles', i.e. quantized droplets of a different vacuum phase, which
+are non-perturbative resonant states of the field $\phi$. The bubbles provide a
+form factor for the production amplitude, which rapidly decreases above the
+threshold. As a result the probability of the process may be heavily suppressed
+and may decrease with energy $E$ as $\exp (-const \cdot E^a)$, where the power
+$a$ depends on the number of space dimensions. Also discussed are the quantized
+states of bubbles and the amplitudes of their formation and decay.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 21:44:40 GMT""}]","2009-10-22"
+"hep-ph/9305220","David A. Kosower","W. T. Giele, E. W. N. Glover, and David A. Kosower","Single Lepton Production at Large Transverse Momentum","5 pages (LaTeX) & 3 figures, Fermilab-Pub-93/086-T, CERN-TH.6868/93,
+  DTP/93/24","Phys.Lett.B309:205-209,1993","10.1016/0370-2693(93)91528-U",,"hep-ph",,"  We study the production of single isolated leptons at large transverse
+momentum, $p_T^\ell > M_W/2$. The dominant source of such leptons is production
+of an on-shell $W$ boson recoiling against a hard jet. Vetoing this jet forces
+the $W$ boson to be produced off resonance and significantly reduces the
+standard model cross section, thereby enhancing the discovery prospects for non
+standard model physics. A significant number of events have the topologically
+interesting signature of a large $p_T$ lepton balancing a jet with little
+measured missing transverse energy.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 23:59:13 GMT""},{""version"":""v2"",""created"":""Fri, 7 May 1993 15:32:28 GMT""}]","2009-09-25"
+"hep-ph/9305221",,"Ling-Lie Chau and Ding-Wei Huang","Salient Features of High-Energy Multiparticle Distributions Learned from
+  Exact Solutions of 1-d Ising Model","UCDPHYS-92-13 phyzzx 9 pages, 5 figures available upon request","Phys.Rev.Lett.70:3380-3383,1993","10.1103/PhysRevLett.70.3380",,"hep-ph cond-mat",,"  We have derived explicit expressions in the 1-d Ising model for multiplicity
+distributions $P_{\del\xi}(n)$ and factorial moments $F_q(\del\xi)$. We
+identify the salient features of $P_{\del\xi}(n)$ that lead to scaling,
+$F_q(\del\xi)=\F_q[F_2]$, and universality. These results compare well with the
+presently available high-energy data of $\bar{p}p$ and $e^+e^-$ reactions. We
+point out the important features that should be studied in future higher-energy
+experiments of multiparticle productions in $pp$, $\bar{p}p$, $ep$, $e^+e^-$,
+and $NN$. We also make comments on comparisons with KNO and negative-binomial
+distributions.
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 00:34:00 GMT""}]","2014-11-17"
+"hep-ph/9305222","Giovanni Amelino-Camelia","G. Amelino-Camelia","Self-consistently Improved Finite Temperature Effective Potential for
+  Gauge Theories","29 pages, 7 figures not included, Plain Tex, BUHEP-93-12, to appear
+  in Physical Review D49. (additional comments on renormalization and a more
+  quantitative comparison with previous results have been included, one more
+  figure, two new references, two references updated)","Phys.Rev.D49:2740-2751,1994","10.1103/PhysRevD.49.2740",,"hep-ph hep-th",,"  The finite temperature effective potential of the Abelian Higgs Model is
+studied using the self-consistent composite operator method, which sums up the
+contributions of daisy and superdaisy diagrams. The effect of the momentum
+dependence of the effective masses is estimated by using a Rayleigh-Ritz
+variational approximation.
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 00:31:18 GMT""},{""version"":""v2"",""created"":""Wed, 19 Jan 1994 23:24:22 GMT""}]","2011-07-19"
+"hep-ph/9305223","JoAnne Hewett","J.L. Hewett and T.G. Rizzo","Using $b \to s\gamma$ to Probe Top Quark Couplings","10 pages plus 6 figures (available by request), LaTex,
+  ANL-HEP-PR-93-37","Phys.Rev. D49 (1994) 319-322","10.1103/PhysRevD.49.319",,"hep-ph",,"  Possible anomalous couplings of the top-quark to on-shell photons and gluons
+are constrained by the recent results of the CLEO Collaboration on both
+inclusive and exclusive radiative $B$ decays. We find that the process \bsg\
+can lead to reasonable bounds on both the anomalous electric and magnetic
+dipole moments of the top-quark, while essentially no limits are obtained on
+the corresponding chromoelectric and chromomagnetic moments, which enter the
+expression for the decay rate only through operator mixing.
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 02:24:16 GMT""}]","2009-10-22"
+"hep-ph/9305224","Cyrus C. Taylor","Robert W. Brown, Jin Woo Jun, Shmaryu M. Shvartsman, and Cyrus C.
+  Taylor","The Role of Zero-Modes in the Canonical Quantization of Heavy-Fermion
+  QED in Light-Cone Coordinates","22 pages, CWRUTH-93-5 (Latex)","Phys.Rev. D48 (1993) 5873-5882","10.1103/PhysRevD.48.5873",,"hep-ph",,"  Four-dimensional heavy-fermion QED is studied in light-cone coordinates with
+(anti-)periodic field boundary conditions. We carry out a consistent light-cone
+canonical quantization of this model using the Dirac algorithm for a system
+with first- and second-class constraints. To examine the role of the zero
+modes, we consider the quantization procedure in {the }zero-mode {and the
+non-zero-mode} sectors separately. In both sectors we obtain the physical
+variables and their canonical commutation relations. The physical Hamiltonian
+is constructed via a step-by-step exclusion of the unphysical degrees of
+freedom. An example using this Hamiltonian in which the zero modes play a role
+is the verification of the correct Coulomb potential between two heavy
+fermions.
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 13:29:08 GMT""}]","2009-10-22"
+"hep-ph/9305225",,"B.Z.Kopeliovich, J.Nemchick, N.N.Nikolaev and B.G.Zakharov","Novel Color Transparency Effect: Scanning the Wave Function of Vector
+  Mesons","TRI-PP-93-5, LaTeX file, 11 pages + 3 figures (not included,
+  available by fax)","Phys.Lett. B309 (1993) 179-186","10.1016/0370-2693(93)91523-P",,"hep-ph",,"  We demonstrate how the virtual photoproduction of vector mesons on nuclei
+scans the wave function of vector mesons from the large non-perturbative
+transverse size $\rho \sim R_{V}$ down to the small perturbative size $\rho
+\sim 1/\sqrt{Q^{2}}$. Thee mechanism of scanning is based on color transparency
+and QCD predicted spatial wave function of quark-antiquark fluctuations of
+virtual photons. A rich, energy- and $Q^{2}$-dependent, pattern of the nuclear
+shadowing and antishadowing is predicted, which can be tested at the European
+Electron Facility and SLAC.
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 15:47:44 GMT""}]","2009-10-22"
+"hep-th/9305021","Fernando Ruiz","G. Giavarini, C.P. Martin and F. Ruiz Ruiz","Physically meaningful and not so meaningful symmetries in Chern-Simons
+  theory","phyzzx, 21 pages, 2 figures in one PS file","Phys.Rev.D47:5536-5545,1993","10.1103/PhysRevD.47.5536","NIKHEF-H 93-05","hep-th",,"  We explicitly show that the Landau gauge supersymmetry of Chern-Simons theory
+does not have any physical significance. In fact, the difference between an
+effective action both BRS invariant and Landau supersymmetric and an effective
+action only BRS invariant is a finite field redefinition. Having established
+this, we use a BRS invariant regulator that defines CS theory as the large mass
+limit of topologically massive Yang-Mills theory to discuss the shift $k \to
+k+\cv$ of the bare Chern-Simons parameter $k$ in conncection with the Landau
+supersymmetry. Finally, to convince ourselves that the shift above is not an
+accident of our regularization method, we comment on the fact that all BRS
+invariant regulators used as yet yield the same value for the shift.
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 18:46:45 GMT""}]","2011-07-19"
+"hep-th/9305022",,"Danny Birmingham and Mark Rakowski","Combinatorial Invariants from Four Dimensional Lattice Models: II","9 pages",,,"YCTP-P11-93","hep-th math.QA",,"  Revision contains rewording of selected text
+","[{""version"":""v1"",""created"":""Thu, 6 May 1993 23:33:40 GMT""},{""version"":""v2"",""created"":""Sun, 9 May 1993 18:05:17 GMT""}]","2008-02-03"
+"hep-th/9305023","Yoichi Kazama","Yoichi Kazama and Hermann Nicolai","On the Exact Operator Formalism of Two-Dimensional Liouville Quantum
+  Gravity in Minkowski Spacetime","47 pages. DESY 93-043, UT Komaba 93-6","Int. J. Mod. Phys. A9 (1994) 667-710","10.1142/S0217751X94000327",,"hep-th",,"  A detailed reexamination is made of the exact operator formalism of
+two-dimensional Liouville quantum gravity in Minkowski spacetime with the
+cosmological term fully taken into account.
+  Making use of the canonical mapping from the interacting Liouville field into
+a free field, we focus on the problem of how the Liouville exponential operator
+should be properly defined. In particular, the condition of mutual locality
+among the exponential operators is carefully analyzed, and a new solution,
+which is neither smoothly connected nor relatively local to the existing
+solution, is found. Our analysis indicates that, in Minkowski spacetime,
+coupling gravity to matter with central charge $d<1$ is problematical. For
+$d=1$, our new solution appears to be the appropriate one; for this value of
+$d$, we demonstrate that the operator equation of motion is satisfied to all
+orders in the cosmological constant with a certain regularization. As an
+application of the formalism, an attempt is made to study how the basic
+generators of the ground ring get modified due to the inclusion of the
+cosmological term. Our investigation, although incomplete, suggests that in
+terms of the canonically mapped free field the ground ring is not modified.
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 06:56:40 GMT""}]","2015-06-26"
+"hep-th/9305024","Blau Matthias","Srinandan Dasmahapatra","String Hypothesis and Characters of Coset CFTs","13 pages, harvmac, IC/93/91",,,,"hep-th",,"  We present an algorithm for the construction of the branching functions in
+the vacuum sector for affine Lie algebras based on the string hypothesis
+solution to a system of Bethe equations for generalized RSOS models. We also
+mention how the ground state structure and features of the excitation spectra
+like the Brillouin zone schemes of these models (and those in the same
+universality classes) can be extracted from combinatoric arguments and encoded
+in Lie algebraic terms.
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 13:25:20 GMT""},{""version"":""v2"",""created"":""Fri, 25 Jun 1993 16:10:23 GMT""}]","2008-02-03"
+"hep-th/9305025",,"I. Antoniadis, J. Rizos and K. Tamvakis","Singularity-free cosmological solutions of the superstring effective
+  action","20 pages, plain tex, 7 figures available in postscript files upon
+  request, CPTH-A239.0593","Nucl.Phys. B415 (1994) 497-514","10.1016/0550-3213(94)90120-1",,"hep-th gr-qc",,"  We study the cosmological solutions of the one loop corrected superstring
+effective action, in a Friedmann-Robertson-Walker background, and in the
+presence of the dilaton and modulus fields. A particularly interesting class of
+solutions is found which avoid the initial singularity and are consistent with
+the perturbative treatment of the effective action.
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 14:48:30 GMT""}]","2009-10-22"
+"hep-th/9305026",,"B. Zwiebach","Closed String Field Theory: An Introduction","31 pp. MIT-CTP-2206",,,,"hep-th",,"  In these introductory notes I explain some basic ideas in string field
+theory. These include: the concept of a string field, the issue of background
+independence, the reason why minimal area metrics solve the problem of
+generating all Riemann surfaces with vertices and propagators, and how
+Batalin-Vilkovisky structures arise from the state spaces of conformal field
+theories including ghosts. More advanced topics and recent developments are
+summarized. (To appear in the proceedings of the 1992 Summer School at Les
+Houches.)}
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 14:44:18 GMT""}]","2007-05-23"
+"hep-th/9305027","John P. Harnad","J. Harnad and M.-A. Wisse","Loop Algebra Moment Maps and Hamiltonian Models for the Painleve
+  Transcendants","14 pgs, preprint CRM-1878 (1993) (title corrected)","Fields Inst. Commun. 7, 155-169 (1996)",,,"hep-th nlin.SI solv-int",,"  The isomonodromic deformations underlying the Painlev\'e transcendants are
+interpreted as nonautonomous Hamiltonian systems in the dual $\gR^*$ of a loop
+algebra $\tilde\grg$ in the classical $R$-matrix framework. It is shown how
+canonical coordinates on symplectic vector spaces of dimensions four or six
+parametrize certain rational coadjoint orbits in $\gR^*$ via a moment map
+embedding. The Hamiltonians underlying the Painlev\'e transcendants are
+obtained by pulling back elements of the ring of spectral invariants. These are
+shown to determine simple Hamiltonian systems within the underlying symplectic
+vector space.
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 14:59:17 GMT""},{""version"":""v2"",""created"":""Tue, 11 May 1993 02:45:56 GMT""},{""version"":""v3"",""created"":""Wed, 12 May 1993 02:35:53 GMT""}]","2008-02-03"
+"hep-th/9305044",,"Dan Radu Grigore","Statistics in the Propositional Formulation of Quantum Mechanics","24 pages, PLAIN-TEX","Helv.Phys.Acta 66 (1993) 477-497",,,"hep-th",,"  We give a definition for the notion of statistics in the lattice-theoretical
+(or propositional) formulation of quantum mechanics of Birchoff, von Neumann
+and Piron. We show that this formalism is compatible only with two types of
+statistics: Bose-Einstein and Fermi-Dirac. Some comments are made about the
+connection between this result and the existence of exotic statistics
+(para-statistics, infinite statistics, braid statistics).
+","[{""version"":""v1"",""created"":""Fri, 7 May 1993 07:43:00 GMT""}]","2007-05-23"

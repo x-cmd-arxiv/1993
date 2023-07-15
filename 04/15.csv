@@ -1,0 +1,148 @@
+"alg-geom/9304006","Vassil Kanev","Vassil Kanev","Recovering of curves with involution by extended Prym data","31 p., LATEX 2.09",,,,"alg-geom math.AG",,"  With every smooth, projective algebraic curve $\tilde{C}$ with involution
+$\sigma :\tilde{C}\longrightarrow \tilde{C}$ without fixed points is associated
+the Prym data which consists of the Prym variety $P:=(1-\sigma )J(\tilde{C})$
+with principal polarization $\Xi$ such that $2\Xi$ is algebraically equivalent
+to the restriction on $P$ of the canonical polarization $\Theta $ of the
+Jacobian $J(\tilde{C})$. In contrast to the classical Torelli theorem the Prym
+data does not always determine uniquely the pair $(\tilde{C},\sigma )$ up to
+isomorphism. In this paper we introduce an extension of the Prym data as
+follows. We consider all symmetric theta divisors $\Theta $ of $J(\tilde{C})$
+which have even multiplicity at every point of order 2 of $P$. It turns out
+that they form three $P_2$ orbits. The restrictions on $P$ of the divisors of
+one of the orbits form the orbit $\{ 2\Xi \} $, where $\Xi $ are the symmetric
+theta divisors of $P$. The other restrictions form two $P_2$-orbits
+$O_1,O_2\subset \mid 2\Xi \mid $. The extended Prym data consists of $(P,\Xi )$
+together with $O_1,O_2$. We prove that it determines uniquely the pair
+$(\tilde{C} ,\sigma )$ up to isomorphism provided $g(\tilde{C})\geq 3$. The
+proof is analogous to Andreotti's proof of Torelli's theorem and uses the Gauss
+map for the divisors of $O_1,O_2$. The result is an analog in genus $>1$ of a
+classical theorem for elliptic curves.
+","[{""version"":""v1"",""created"":""Wed, 14 Apr 1993 16:56:56 GMT""}]","2008-02-03"
+"astro-ph/9304014","Dave Bennett","D. P. Bennett","The First Data from the MACHO Experiment","et. al., 7 pages, UCRL-JC-11113606",,"10.1111/j.1749-6632.1993.tb43945.x",,"astro-ph hep-ph",,"  MAssive Compact Halo Objects such as brown dwarfs, Jupiters, and black holes
+are prime candidates to comprise the dark halo of our galaxy. Paczynski noted
+that objects (dubbed MACHOs) with masses in the range $10^{-6}M_\odot < M
+\simlt 100 M_\odot$. can be detected via gravitational microlensing of stars in
+the Magellanic Clouds with the caveat that only about one in $10^6$ stars will
+be lensed at any given time. Our group has recently begun a search for
+microlensing using a refurbished 1.27 meter telescope at the Mount Stromlo
+Observatory in Australia. Since the summer of 1992, we have been imaging up to
+$10^7$ stars a night in the Large Magellanic Cloud using our large format
+two-color $3.4\times 10^7$ pixel CCD camera. Here I report on our first results
+based on an analysis of $\sim 10^6$ of these stars. Although this is not enough
+data to make definitive statements about the nature of the dark matter, we are
+able to conclude that the rate of variable star background events is not larger
+than the expected MACHO signal.
+","[{""version"":""v1"",""created"":""Thu, 15 Apr 1993 00:20:10 GMT""}]","2009-10-22"
+"chao-dyn/9304005","Jerry Marsden","Anthony Bloch (Department of Mathematics, Ohio State University)
+  P.S.Krishnaprasad (Department of Electrical Engineering and Institute for
+  Systems Research, University of Maryland) and Jerrold E. Marsden (Department
+  of Mathematics, University of California, Berkeley) Tudor S. Ratiu
+  (Department of Mathematics, University of California, Santa Cruz)","Dissipation Induced Instabilities","AMSTEX macros. Figures available upon request from authors",,,,"chao-dyn nlin.CD",,"  The main goal of this paper is to prove that if the energy-momentum (or
+energy-Casimir) method predicts formal instability of a relative equilibrium in
+a Hamiltonian system with symmetry, then with the addition of dissipation, the
+relative equilibrium becomes spectrally and hence linearly and nonlinearly
+unstable. The energy-momentum method assumes that one is in the context of a
+mechanical system with a given symmetry group. Our result assumes that the
+dissipation chosen does not destroy the conservation law associated with the
+given symmetry group---thus, we consider internal dissipation. This also
+includes the special case of systems with no symmetry and ordinary equilibria.
+The theorem is proved by combining the techniques of Chetaev, who proved
+instability theorems using a special Chetaev-Lyapunov function, with those of
+Hahn, which enable one to strengthen the Chetaev results from Lyapunov
+instability to spectral instability. The main achievement is to strengthen
+Chetaev's methods to the context of the block diagonalization version of the
+energy momentum method given by Lewis, Marsden, Posbergh, and Simo. However, we
+also give the eigenvalue movement formulae of Krein, MacKay and others both in
+general and adapted to the context of the normal form of the linearized
+equations given by the block diagonal form, as provided by the energy-momentum
+method. A number of specific examples, such as the rigid body with internal
+rotors, are provided to illustrate the results.
+","[{""version"":""v1"",""created"":""Wed, 14 Apr 1993 20:31:53 GMT""}]","2008-02-03"
+"cond-mat/9304023","Andrea Crisanti","A Crisanti, G Paladin, M Serva, A Vulpiani","Products of Random Matrices for Disordered Systems","9 pages + 3 figures TeX dialect (LaTeX + RevTeX 3.0)",,"10.1103/PhysRevE.49.R953","TNT 93-1","cond-mat",,"  Products of random transfer matrices are applied to low dimensional
+disordered systems to evaluate numerically extensive quantities such as entropy
+and overlap probability distribution. The main advantage is the possibility to
+avoid numerical differentiation. The method works for arbitrary disorder
+distributions at any temperature.
+","[{""version"":""v1"",""created"":""Thu, 15 Apr 1993 13:23:09 GMT""}]","2009-10-22"
+"gr-qc/9304018","P. Suntharothok-Priesmeyer","L. P. Grishchuk","Relic Gravitational Waves and Limits on Inflation","11 pages, WUGRAV-93-1","Phys.Rev. D48 (1993) 3513-3516","10.1103/PhysRevD.48.3513",,"gr-qc",,"  It is shown that only a narrow class of inflationary models can possibly
+agree with the available observational data on the anisotropy of the cosmic
+microwave background radiation (CMBR). These models may be governed by
+``matter'' with the effective equation of state $-1.2 <p/ \epsilon < -0.6$
+which includes the De-Sitter case $p/ \epsilon = -1$.
+","[{""version"":""v1"",""created"":""Wed, 14 Apr 1993 18:04:40 GMT""}]","2009-10-22"
+"hep-ph/9304252","Branko Guberina","Neven Bilic and Branko Guberina","Selected Topics on Rare Kaon Processes - in the Standard Model and
+  Supergravity -","52 pages (14 figures available upon request), LaTex, LMU-TP 7/89,
+  RBI-TP 4/89, final version July 1992, to be published in Fortschritte der
+  Physik","Fortschr.Phys.42:209-259,1994","10.1002/prop.2190420302",,"hep-ph",,"  Rare kaon processes appear to be particularly suitable to study the
+extensions of the standard model, especially if the possibility for eventual
+direct evidence becomes unlikely. In this review, we discuss processes that are
+important as a test of either the standard model or supergravity. Moreover,
+some of these are important even for both the standard model and for
+supergravity. Particular attention is paid to the reduction of uncertainties in
+the calculation, especially the ones coming from the confinement effects.
+Recent approaches, such as chiral perturbation theory, the large
+$N_c$-expansion, QCD sum rules and lattice QCD, are discussed. This is found to
+be the best strategy in view of the fact that supersymmetric effects are rather
+tiny.
+","[{""version"":""v1"",""created"":""Wed, 14 Apr 1993 16:39:07 GMT""}]","2010-11-01"
+"hep-ph/9304253",,"M.A. Shifman (TPI, University of Minnesota)","QCD Sum Rules: The Second Decade","17 pages, LATEX, 4 figures not included, TPI-MINN-93/13-T,
+  UMN-TH-1150/93",,,,"hep-ph",,"  Invited Talk at the Conference ""QCD -- 20 Years Later"", June 9 - 13, 1992,
+Aachen, Germany
+","[{""version"":""v1"",""created"":""Wed, 14 Apr 1993 18:43:16 GMT""}]","2007-05-23"
+"hep-ph/9304254","D. Brahm","C. Glenn Boyd, David E. Brahm, and Stephen D.H. Hsu","Resummation Methods at Finite Temperature: The Tadpole Way","18 pages, LaTeX, CALT-68-1858, HUTP-93-A011, EFI-93-22","Phys.Rev.D48:4963-4973,1993","10.1103/PhysRevD.48.4963",,"hep-ph",,"  We examine several resummation methods for computing higher order corrections
+to the finite temperature effective potential, in the context of a scalar
+$\phi^4$ theory. We show by explicit calculation to four loops that dressing
+the propagator, not the vertex, of the one-loop tadpole correctly counts
+``daisy'' and ``super-daisy'' diagrams.
+","[{""version"":""v1"",""created"":""Thu, 15 Apr 1993 00:17:19 GMT""}]","2011-07-19"
+"hep-ph/9304256","Jutta Kunz","Yves Brihaye and Jutta Kunz","Electroweak bubbles and sphalerons","14 pages, plain tex, 9 figures appended as postscript files at the
+  end of the paper. THU-93/09","Phys.Rev. D48 (1993) 3884-3890","10.1103/PhysRevD.48.3884",,"hep-ph",,"  We consider non-perturbative solutions of the Weinberg-Salam model at finite
+temperature. We employ an effective temperature-dependent potential yielding a
+first order phase transition. In the region of the phase transition, there
+exist two kinds of static, spherically symmetric solutions: sphalerons and
+bubbles. We analyze these solutions as functions of temperature. We consider
+the most general spherically symmetric fluctuations about the two solutions and
+construct the discrete modes in the region of the phase transition. Sphalerons
+and bubbles both possess a single unstable mode. We present simple
+approximation formulae for these levels.
+","[{""version"":""v1"",""created"":""Thu, 15 Apr 1993 14:23:32 GMT""}]","2009-10-22"
+"hep-th/9304058","Kenji Ikegami","K.Ikegami","Superfield Formalism of Stochastic Quantization Method with
+  Field-Dependent Kernels","11 papes(Plain TeX), CHIBA-EP-68",,,,"hep-th",,"  I consider a Langevin equation with field-dependent kernels and investigate
+supersymmetry of the stochastic generating functional constructed from the
+Langevin equation. Moreover I describe the stochastic generating functional in
+terms of a superfield. In the superfield formalism, it becomes clear that the
+stochastic quantization method with the field-dependent kernel is equivalent to
+the path-integral quantization method.
+","[{""version"":""v1"",""created"":""Thu, 15 Apr 1993 08:38:53 GMT""}]","2007-05-23"
+"hep-th/9304059",,"Joshua Feinberg","Dissipation of the String Embedding Dimension in the Singlet Sector of a
+  Matrix Model at Large $\alpha^\prime$","(PHR74JF@Technion.bitnet),TECHNION-PH-93-13,33 pages","Nucl.Phys.B405:389-406,1993","10.1016/0550-3213(93)90552-Z",,"hep-th",,"  The one dimensional Fermi gas of matrix eigenvalues of the Marinari-Parisi
+model at positive values of the cosmological constant is generalised.The number
+of matrix eigenvalues (i.e. gas particles) is varied while keeping the
+effective potential fixed. This model exhibits a transition from a phase whose
+continuum behaviour is that of $c=1$ conformal matter coupled to gravity to the
+well known pure gravity phase of the original model.The former phase is
+character- ised by an extremely large Regge slope $\alpha^\prime$ which scales
+as $\beta^{2/5}$ causing the scaling regions of the two phases to overlap. In
+this way a continuous flow from one phase to the other is made poss- ible. This
+phase transition occurs in the singlet sector of the matrix model. The density
+of states and the two puncture correlator at non zero momenta are calculated on
+the sphere and are found to behave very differ- ently in the two phases,a fact
+which demonstrates the phase transition. We comment on a possible relation
+between this transition and large \alpha^\prime$ semiclassical expansions in
+the continuum.
+","[{""version"":""v1"",""created"":""Thu, 15 Apr 1993 15:44:29 GMT""}]","2010-11-01"
+"math/9304203","Garvin Melles","Garvin Melles","The Consistency of $ZFC+CIFS$",,,,"Logic E-prints April 15, 1993","math.LO",,"  This paper is a technical continuation of ``Natural Axiom Schemata Extending
+ZFC. Truth in the Universe?'' In that paper we argue that $CIFS$ is a natural
+axiom schema for the universe of sets. In particular it is a natural closure
+condition on $V$ and a natural generalization of $IFS(L).$ Here we shall prove
+the consistency of $ZFC\ +\ CIFS$ relative to the existence of a transitive
+model of $ZFC$ using the compactness theorem together with a class forcing.
+","[{""version"":""v1"",""created"":""Thu, 15 Apr 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9304207","Shelah Office","Saharon Shelah","Viva la difference II. The Ax-Kochen isomorphism theorem",,"Israel J. Math. 85 (1994), 351--390",,"Shelah [Sh:405]","math.LO math.RA",,"  We show in section 1 that the Ax-Kochen isomorphism theorem requires the
+continuum hypothesis. Most of the applications of this theorem are insensitive
+to set theoretic considerations. (A probable exception is the work of Moloney.)
+In section 2 we give an unrelated result on cuts in models of Peano arithmetic
+which answers a question on the ideal structure of countable ultraproducts of
+Z. In section 1 we also answer a question of Keisler and Schmerl regarding
+Scott complete ultrapowers of R .
+","[{""version"":""v1"",""created"":""Thu, 15 Apr 1993 00:00:00 GMT""}]","2016-09-06"

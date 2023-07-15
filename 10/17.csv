@@ -1,0 +1,52 @@
+"hep-ph/9310295","Jukka Maalampi","Jukka Maalampi","Signatures of left-right symmetry at high energies","10 pages+ 2 figures available from the author, LaTeX, HU-TFT-93-51",,,,"hep-ph",,"  We discuss various experimental tests of the left-right symmetric model
+possible to perform in the next generation linear colliders. We consider
+processes which provide sensitive probes of the basic ingredients of the model:
+right-handed gauge bosons, right-handed Majorana neutrinos, lepton number
+violating interactions and triplet Higgs scalars. A supersymmetric version of
+the left-right model is also studied and some distinctive experimental tests
+for it is proposed. One of the main messages of this talk is to emphasize the
+usefulness of the collision modes $e^-e^-$, $e^-\gamma$ and $\gamma\gamma$ for
+the tests of the left-right symmetric model.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 1993 14:29:07 GMT""}]","2009-09-25"
+"hep-ph/9310296",,"J.L.Goity","Chemical Relaxation Times in a Hadron Gas at Finite Temperature","10 pgs. 2 tables. LaTex. CEBAF-TH-93","Phys.Lett.B319:401-406,1993","10.1016/0370-2693(93)91741-5",,"hep-ph",,"  The relaxation times of particle numbers in hot hadronic matter with
+vanishing baryon number are estimated using the ideal gas approximation and
+taking into account resonance decays and annihilation processes as the only
+sources of particle number fluctuations. Near the QCD critical temperature the
+longest relaxation times turn out to be of the order of 10 fm and grow roughly
+exponentially to become of the order of $10^{3}$ fm at temperatures around 100
+MeV. As a consequence of such long relaxation times, a clear departure from
+chemical equilibrium must be observed in the momentum distribution of secondary
+particles produced in high energy nuclear collisions.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 1993 15:22:13 GMT""}]","2014-11-17"
+"hep-th/9310102","F. Ferrari","F. Ferrari, J. Sobczyk, W. Urbanik","Operator Formalism on the $Z_n$ Symmetric Algebraic Curves","19 pages, TeX+Harvmac, Preprint LMU-TPW 93-20, ITP UWr 856/93","J.Math.Phys.36:3216-3231,1995","10.1063/1.531027",,"hep-th",,"  In this work, the following conjectures are proven in the case of a Riemann
+surface with abelian group of symmetry: a) The $b-c$ systems on a Riemann
+surface $M$ are equivalent to a multivalued field theory on the complex plane
+if $M$ is represented as an algebraic curve; b) the amplitudes of the $b-c$
+systems on a Riemann surface $M$ with discrete group of symmetry can be derived
+from the operator product expansions on the complex plane of an holonomic
+quantum field theory a la Sato, Jimbo and Miwa. To this purpose, the solutions
+of the Riemann-Hilbert problem on an algebraic curve with abelian monodromy
+group obtained by Zamolodchikov, Knizhnik and Bershadskii-Radul are used in
+order to expand the $b-c$ fields in a Fourier-like basis. The amplitudes of the
+$b-c$ systems on the Riemann surface are then recovered exploiting simple
+normal ordering rules on the complex plane.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 1993 16:58:30 GMT""}]","2011-07-19"
+"hep-th/9310105",,"Stephen G. Naculich, Harold A. Riggs, and Howard J. Schnitzer","Twist Points as Branch Points for the QCD$_2$ String","8 pages, BRX-TH-352, JHU-TIPAC-930024, BOW-PH-101","Phys.Lett. B319 (1993) 466-470","10.1016/0370-2693(93)91752-9",,"hep-th",,"  We show that the string representation of the QCD$_2$ partition function
+satisfies, by virtue of a Young-tableau-transposition symmetry, the topological
+constraint that any branched covering of an orientable or nonorientable surface
+without boundary must have an {\em even} branch point multiplicity. This
+statement holds for each chiral sector and requires multiple branch point
+behavior for the twist points, since cross-terms appear that couple twist
+points with odd powers of simple branch points. We obtain the same result for
+the complete partition function of $\son$ and $\spn$ Yang-Mills$_2$ theory.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 1993 22:04:00 GMT""}]","2009-10-22"
+"hep-th/9310106","A. Khare","J. Law, Avinash Khare, R.K. Bhaduri and Akira Suzuki","An improved calculation of the Third Virial Coefficient of a free anyon
+  Gas","pages 9 and 1 figure (available from authors on request)","Phys.Rev. E49 (1994) 1753-1755","10.1103/PhysRevE.49.1753","IP-BBSR/93-63","hep-th",,"  For three anyons confined in a harmonic oscillator, only the class of states
+that interpolate nonlinearly with the statistical parameter contributes to the
+third virial coefficient of a free anyon gas. Rather than evaluating the full
+three-body partition function as was done in an earlier publication (Phys. Rev.
+{\bf A46}, 4693 (1992)), here only the nonlinear contribution is calculated,
+thus avoiding delicate cancellations between the irrelevant linear part and the
+two-body partition function. Our numerical results are consistent with the
+simple analytical form suggested recently by Myrheim and Olaussen.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 1993 12:52:46 GMT""}]","2009-10-22"

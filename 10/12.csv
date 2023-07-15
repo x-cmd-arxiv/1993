@@ -1,0 +1,383 @@
+"alg-geom/9310007","Burt Totaro","David Eisenbud, Alyson Reeves, and Burt Totaro","Initial ideals, Veronese subrings, and rates of algebras","24 pages, latex file",,,,"alg-geom math.AC math.AG",,"  We show that high Veronese subrings of any commutative graded ring have a
+Grobner basis with all relations of degree 2. (The d-th Veronese subring of a
+ring A_0 + A_1 + A_2 + ... is the ring A_0 + A_d + A_{2d} + ...; ``high'' means
+we take d sufficiently large, say at least half the regularity of the ideal
+defining the original ring.) This gives another proof of Backelin's theorem
+that such Veronese subrings are Koszul algebras (= wonderful rings), i.e., that
+the minimal resolution of the residue field of such a ring is linear.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 22:38:14 GMT""}]","2008-02-03"
+"astro-ph/9310016","Rupert A. C. Croft","R. A. C. Croft and G. Efstathiou","Large-scale structure and motions from simulated galaxy clusters","uuencoded compressed postscript, submitted as a contribution to
+  UNAM-CRAY Workshop on Numerical Simulations in Astrophysics",,,,"astro-ph",,"  We use high resolution dissipationless N-body simulations to examine the
+spatial distribution of galaxy clusters on large scales. The Standard CDM model
+and two of its main competitors, Low density CDM and Mixed Dark Matter are
+compared.The two-point correlation function of simulated clusters is compared
+with an extended survey of APM clusters , and it is found that Standard CDM
+exhibits a lack of power on all scales, whereas the two alternative scenarios
+are able to match the spatial correlations well. Of the remaining two
+models,the velocities in the MDM universe have a higher amplitude and their
+distribution is much broader. We compare these peculiar velocities with
+observations and find that both models have difficulty in reproducing the
+observed numbers of very high peculiar velocity clusters. The reliable
+detection of several more clusters with velocities in excess of 1000 km/s would
+render the LCDM scenario in particular very unlikely.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 16:46:56 GMT""}]","2007-05-23"
+"astro-ph/9310017","Rupert A. C. Croft","R. A. C. Croft and G. Efstathiou","The Correlation Function of Rich Clusters of Galaxies in CDM-like Models","uuencoded compressed postscript ,MNRAS, in press, OUAST-93-17","Mon.Not.Roy.Astron.Soc. 267 (1994) 390","10.1093/mnras/267.2.390",,"astro-ph",,"  We use ensembles of high-resolution CDM simulations to investigate the shape
+and amplitude of the two point correlation function of rich clusters. The
+standard scale-invariant CDM model with $\Omega=1$ provides a poor description
+of the clustering measured from the APM rich cluster redshift survey, which is
+better fitted by models with more power at large scales. The amplitudes of the
+rich cluster correlation functions measured from our models depend weakly on
+cluster richness. Analytic calculations of the clustering of peaks in a
+Gaussian density field overestimate the amplitude of the N-body cluster
+correlation functions, but reproduce qualitatively the weak trend with cluster
+richness. Our results suggest that the high amplitude measured for the
+correlation function of richness class $R \geq 2$ Abell clusters is either an
+artefact arising from incompleteness in the Abell catalogue, or an indication
+that the density perturbations in the early universe were very non-Gaussian.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 16:39:53 GMT""}]","2015-06-24"
+"astro-ph/9310018",,"S. Matarrese, P. Catelan, F. Lucchin, L. Moscardini, O. Pantano and D.
+  Saez","Non--Linear Dynamics of Irrotational Dust: Eulerian and Lagrangian
+  Approaches","7 pages in Latex with conf_iap.sty (enclosed in this file), Proc. of
+  IX IAP Meeting on Cosmic Velocity Fields, DAPD-289",,,,"astro-ph",,"  Some recently proposed approximations to follow the non--linear evolution of
+collisionless matter perturbations in the universe are reviewed. The first one,
+called frozen--flow approximation, is an Eulerian method within Newtonian
+theory, and is based on neglecting the role of particle inertia compared to the
+damping implied by the Hubble drag. The second approach is General Relativistic
+and Lagrangian; it is based on following the evolution of fluid and geometric
+observables in the rest frame of each fluid element, under the only
+approximation of neglecting the back--reaction on the system of the
+gravitational radiation emitted during non--linear collapse.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 19:51:58 GMT""}]","2007-05-23"
+"astro-ph/9310019",,"Michael S. Turner (Fermilab/U. Chicago)","The Meaning of Eros/Macho","15 pages Latex + 3 Figs available on request, FNAL---Pub-93/298-A",,,,"astro-ph hep-ph",,"  Most of the mass density in the Universe---and in the halo of our own
+galaxy---exists in the form of dark matter. Overall, the contribution of
+luminous matter (in stars) to the mass density of the Universe is less than
+1\%; primordial nucleosynthesis indicates that baryons contribute between 1\%
+and 10\% of the critical density ($0.01h^{-2}\la \Omega_B\la 0.02h^{-2}$; $h=$
+the Hubble constant in units of $100\kms\Mpc^{-1}$); and other evidence
+indicates that the total mass density is at least 10\% of critical density, and
+likely much greater. If the universal density is as low as 10\% of the critical
+density there may be but one kind of dark matter. More likely, the universal
+density is greater than 10\%, and there are two kinds of dark matter, and thus
+two dark matter problems: In what form does the baryonic dark matter exist? and
+In what form does the nonbaryonic dark matter exist? The MACHO and EROS
+collaborations have presented evidence for the microlensing of stars in the LMC
+by $10^{-1\pm 1}M_\odot$ dark objects in the halo of our own galaxy and may
+well have solved {\it one} of the dark matter puzzles by identifying the form
+of the baryonic dark matter.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 03:12:02 GMT""}]","2009-09-25"
+"astro-ph/9310020",,"G. Giuricin, L. Tamburini, F. Mardirossian, M. Mezzetti, P. Monaco","The Nuclear Ten Micron Emission of Spiral Galaxies","20 pages, Latex, SISSA preprint, 8 figures and 4 tables available
+  upon request",,"10.1086/174133",,"astro-ph",,"  We examine the 10\m\ emission of the central regions of 281 spiral galaxies,
+after having compiled all ground-based, small-aperture ($\sim$5"") broad-band
+photometric observations at \l$\sim$10\m\ (N magnitudes) published in the
+literature. We evaluate the compactness of the $\sim$10\m\ emission of galaxy
+nuclei by comparing these small-beam measures with the large-beam IRAS 12\m\
+fluxes. In the analysis of different subsets of objects, we apply survival
+analysis techniques in order to exploit the information contained in
+``censored'' data (i.e., upper limits on the fluxes). Seyferts are found to
+contain the most powerful nuclear sources of mid-infrared emission, which in
+$\sim$1/3 of cases provide the bulk of the emission of the entire galaxy; thus,
+mid-infrared emission in the outer disc regions is not uncommon in Seyferts.
+The 10\m\ emission of Seyferts appears to be unrelated to their X-ray emission.
+HII region-like nuclei are stronger mid-infrared sources than normal nuclei and
+LINER nuclei (whose level of emission is not distinguishable from that of
+normal nuclei). Interacting objects have, on average, greater 10\m\
+luminosities than non-interacting ones and exhibit more compact emission.
+Early-type spirals have stronger and more compact 10\m\ emission than late-type
+ones. Barred spirals are brighter at $\sim$10\m\ than unbarred systems,
+essentially because they more frequently contain HII region-like nuclei. The
+results of our detailed comparison between the behaviour of various categories
+of objects stress that the 10\m\ emission of spiral nuclei is closely linked to
+the (predominantly non-thermal synchrotron) radio
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 10:39:24 GMT""}]","2009-10-22"
+"astro-ph/9310021",,"Elisabeth Vangioni-Flam, Keith A. Olive, and Nikos Prantzos","On the Galactic Evolution of $D$ and $^3He$","25 pages, LaTeX, UMN-TH-1206/93",,"10.1086/174171",,"astro-ph",,"  The determined abundances of primordial $^4He$ and $^7Li$ provide a basis
+with which to test the standard model of big bang nucleosynthesis in
+conjunction with the other two light element isotopes $D$ and $^3He$, also
+produced in the big bang. Overall, consistency in the standard big bang
+nucleosynthesis model is best achieved for a baryon-to-photon ratio of
+typically $3 \times 10^{-10}$ for which the primordial value of $D$ is five
+times greater than the present observed abundance and about three times greater
+than the pre-solar value. We consider various models for the chemical evolution
+of the Galaxy to test the feasibility for the destruction of D without the
+overproduction of $^3He$ and overall metallicity. Models which are capable of
+achieving this goal include ones with a star formation rate proportional to the
+gas mass fraction or an exponentially decreasing star formation rate. We
+discuss the effect of parameters that govern the initial mass function and of
+surviving fractions of $^3He$ in stars between one and three solar masses.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 15:52:17 GMT""}]","2009-10-22"
+"cond-mat/9310020","Lotfi Belkhir","L. Belkhir, X.G. Wu, and J.K. Jain","Half-Integral Spin-Singlet Quantum Hall Effect","Latex 13 pages, 3 figures upon request",,"10.1103/PhysRevB.48.15245",,"cond-mat",,"  We provide numerical evidence that the ground state of a short range
+interaction model at $\nu=1/2$ is incompressible and spin-singlet for a wide
+range of repulsive interactions. Furthermore it is accurately described by a
+trial wave function studied earlier. For the Coulomb interaction we find that
+this wave function provides a good description of the lowest lying spin-singlet
+state, and propose that fractional quantum Hall effect would occur at $\nu=1/2$
+if this state became the global ground state.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 16:51:49 GMT""}]","2009-10-22"
+"cond-mat/9310021","Lotfi Belkhir","Lotfi Belkhir and Mohit Randeria","From Cooper Pairs to Composite Bosons: A Generalized RPA Analysis of
+  Collective Excitations","20 pages RevTex, 7 figures on request",,"10.1103/PhysRevB.49.6829",,"cond-mat",,"  The evolution of the ground state and the excitation spectrum of the two and
+three dimensional attractive Hubbard model is studied as the system evolves
+from a Cooper pair regime for weak attraction to a composite boson regime for a
+strong attraction.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 16:59:44 GMT""}]","2009-10-22"
+"gr-qc/9310018","Mourad","J. Mourad","Space-time events and relativistic particle localization","13 pages, LPTHE 93/41",,,,"gr-qc hep-th",,"  A relation expressing the covariant transformation properties of a
+relativistic position operator is derived. This relation differs from the one
+existing in the literature expressing manifest covariance by some factor
+ordering. The relation is derived in order for the localization of a particle
+to represent a space-time event. It is shown that there exists a conflict
+between this relation and the hermiticity of a positive energy position
+operator.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 19:04:52 GMT""}]","2007-05-23"
+"gr-qc/9310019","B. R. Iyer","B.R.Iyer and C.V.Vishveshwara","The Frenet Serret Description of Gyroscopic Precession","37 pages, Paper in Latex","Phys.Rev.D48:5706-5720,1993","10.1103/PhysRevD.48.5706",,"gr-qc",,"  The phenomenon of gyroscopic precession is studied within the framework of
+Frenet-Serret formalism adapted to quasi-Killing trajectories. Its relation to
+the congruence vorticity is highlighted with particular reference to the
+irrotational congruence admitted by the stationary, axisymmetric spacetime.
+General precession formulae are obtained for circular orbits with arbitrary
+constant angular speeds. By successive reduction, different types of
+precessions are derived for the Kerr - Schwarzschild - Minkowski spacetime
+family. The phenomenon is studied in the case of other interesting spacetimes,
+such as the De Sitter and G\""{o}del universes as well as the general
+stationary, cylindrical, vacuum spacetimes.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 10:44:52 GMT""},{""version"":""v2"",""created"":""Mon, 18 Oct 1993 09:38:07 GMT""}]","2008-11-26"
+"hep-lat/9310013","Klaus Pinn","M. Hasenbusch and K. Pinn","Comparison of Monte Carlo Results for the 3D Ising Interface Tension and
+  Interface Energy with (Extrapolated) Series Expansions","22 pages, 9 figures appended as 3 PS-files, preprints
+  CERN-TH.7029/93, MS-TPI-93-08","Physica A203 (1994) 189-213","10.1016/0378-4371(94)90152-X",,"hep-lat cond-mat",,"  We compare Monte Carlo results for the interface tension and interface energy
+of the 3-dimensional Ising model with Pad\'e and inhomogeneous differential
+approximants of the low temperature series that was recently extended by Arisue
+to $17^{\rm th}$ order in $u=\exp(-4\beta)$. The series is expected to suffer
+from the roughening singularity at $u\approx 0.196$. The comparison with the
+Monte Carlo data shows that the Pad\'e and inhomogeneous differential
+approximants fail to improve the truncated series result of the interface
+tension and the interface energy in the region around the roughening
+transition. The Monte Carlo data show that the specific heat displays a peak in
+the smooth phase. Neither the truncated series nor the Pad\'e approximants find
+this peak. We also compare Monte Carlo data for the energy of the ASOS model
+with the corresponding low temperature series that we extended to order
+$u^{12}$.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 16:20:48 GMT""}]","2009-10-22"
+"hep-lat/9310014","Pierre Lacock","L. Karkkainen, P. Lacock, D.E. Miller, B. Petersson and T. Reisz","The Physical Phase of Dimensionally Reduced Gauge Theories","(BI-TP 93/37 September 1993). 11 pages tex plus 5 figures available
+  (can be faxed on request) from P. Lacock, email address:
+  lacock@s-a.amtp.liv.ac.uk","Nucl.Phys.B418:3-14,1994","10.1016/0550-3213(94)90235-6",,"hep-lat",,"  We investigate the relationship between the high temperature deconfined phase
+of the SU(2) gauge theory to the phases of the corresponding three dimensional
+adjoint Higgs model. For various temperatures we simulate the effective theory
+in a neighbourhood of the physical states, that is of those values of the
+coupling constants that describe the infrared behaviour of the four dimensional
+theory and which have been calculated by applying dimensional reduction
+techniques. We show that the physical points belong to the confined phase of
+the SU(2) adjoint Higgs model.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 13:22:00 GMT""}]","2009-09-25"
+"hep-ph/9310263",,"B.Konig, J.G.Korner, M.Kramer","On the Determination of the $b \rightarrow c$ Handedness Using
+  Nonleptonic $\Lambda_c$-Decays","11 pages, Latex, DESY 93-135, 3 Figures (not included, available by
+  fax upon request to T00KRM@DHHDESY3.DESY.DE)","Phys.Rev. D49 (1994) 2363-2368","10.1103/PhysRevD.49.2363",,"hep-ph",,"  We consider possibilities to determine the handedness of $b \ra c$ current
+transitions using semileptonic baryonic $\Lambda_{b} \rightarrow \Lambda_{c}$
+transitions. We propose to analyze the longitudinal polarization of the
+daughter baryon $\Lambda_c$ by using momentum-spin correlation measurements in
+the form of forward-backward (FB) asymmetry measures involving its nonleptonic
+decay products. We use an explicit form factor model to determine the
+longitudinal polarization of the $\Lambda_c$ in the semileptonic decay
+$\Lambda_b \ra \Lambda_c + l^- + \bar \nu_l$. The mean longitudinal
+polarization of the $\Lambda_c$ is negative (positive) for left-chiral
+(right-chiral) $b \ra c$ current transitions. The frame dependent longitudinal
+polarization of the $\Lambda_c$ is large ($\cong 80\%$) in the $\Lambda_b$ rest
+frame and somewhat smaller (30\% - 40\%) in the lab frame when the
+$\Lambda_b$'s are produced on the $Z_0$ peak. We suggest to use nonleptonic
+decay modes of the $\Lambda_c$ to analyze its polarization and thereby to
+determine the chirality of the $b \ra c$ transition. Since the $\Lambda_b$'s
+produced on the $Z_0$ are expected to be polarized we discuss issues of the
+polarization transfer in $\Lambda_b \ra \Lambda_c$ transitions. We also
+investigate the $p_\perp$- and $p$-cut sensitivity of our predictions for the
+polarization of the $\Lambda_c$.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 17:28:40 GMT""}]","2009-10-22"
+"hep-ph/9310264","Leandros Perivolaropoulos","Leandros Perivolaropoulos","On the Asymptotics of Nielsen-Olesen Vortices","Accepted in Phys. Rev. D (to appear in the December 15 issue). 5
+  pages plus 1 figure available from the author. Use Latex","Phys.Rev. D48 (1993) 5961-5962","10.1103/PhysRevD.48.5961",,"hep-ph astro-ph",,"  We investigate analytically and numerically the asymptotic behavior of the
+Nielsen-Olesen vortex solutions and show that they approach their asymptotic
+values exponentially but with exponents that differ from the ones quoted in the
+literature. In particular, it is shown that for values of the Higgs
+self-coupling that are larger than a critical value, both the Higgs field and
+the gauge field approach exponentially their asymptotic values with {\it equal}
+exponents that are {\it independent} of the Higgs self-coupling.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 19:07:59 GMT""}]","2009-10-22"
+"hep-ph/9310265",,"R.N. Mohapatra","Minimal SO(10) Grand Unification: Predictions for Proton Decay and
+  Neutrino Masses and Mixings:","Invited talk presented at the workshop on ""New Physics with New
+  Experiments"" held in Kaimierz, Poland, May, 1993; Department of Physics,
+  University of Maryland, College Park, MD 20742, USA",,,,"hep-ph",,"  Prospects for SO(10) as a minimal grand unification group have recently been
+heightened by several considerations such as the MSW resolution of the solar
+neutrino puzzle, baryogenesis, possibility for understanding fermion masses
+etc. I review the present status of the minimal SO(10) models with special
+emphasis on the predictions for proton lifetime and predictions for neutrino
+masses for the non-supersymmetric case and discuss some preliminary results for
+the supersymmetric case. It was generally believed that minimal SO(10) models
+predict wrong mass relations between the charged fermions of the first and
+second generations; furthermore, while the smallness of the neutrino masses in
+these models arises from the see-saw mechanism, it used to be thought that
+detailed predictions for neutrino masses and mixings require further adhoc
+assumptions. In this talk, I report some recent work with K.S.Babu, where we
+discovered that the minimal SO(10) model, both with and without SUSY, has in it
+a built-in mechanism that not only corrects the bad mass relations between the
+charged fermions but at the same time allows a complete prediction for the
+masses and mixings in the neutrino sector. We define our minimal model as the
+one that consists of the smallest set of Higgs multiplets that are needed for
+gauge symmetry breaking. Our result is based on the hypothesis that the complex
+{\bf 10} of Higgs bosons has only a single coupling to the fermions. This
+hypothesis is guaranteed in supersymmetric models and in non-SUSY models that
+obey a softly broken Peccei-Quinn symmetry.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 20:41:02 GMT""}]","2007-05-23"
+"hep-ph/9310266","Katsuhiko Suzuki","K. Suzuki, T. Shigetani and H. Toki","Diquark Corrleations in the nucleon structure function","18pages, TMU-NT-931001. 6 figures included in a separate uuencoded
+  postscript files","Nucl.Phys. A573 (1994) 541-553","10.1016/0375-9474(94)90230-5",,"hep-ph",,"  The nucleon structure functions are studied with a special emphasis on
+diquark correlations inside the nucleon. Assuming a phenomenological
+diquark-quark model of the nucleon at the low energy hadronic scale, we
+calculate the leading twist contributions to the nucleon structure functions.
+We take the Nambu and Jona-Lasinio model for the calculation of the quark
+distributions in the diquarks, and use the convolution method for the diquark
+scattering process. The resulting quark distributions are evolved to the
+experimental momentum scale using the perturbative QCD. We discuss the flavor
+dependence of the nucleon structure functions and the importance of the
+quark-quark correlations for the understanding of the nucleon structure.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 06:11:10 GMT""}]","2015-06-25"
+"hep-ph/9310267","749","K. Funakubo, A. Kakuto and K. Takenaga","The Effective Potential of Electroweak Theory with Two Massless Higgs
+  Doublets at Finite Temperature","14 pages, 5 figures (included as compressed-uuencoded tar file),
+  plain TeX( harvmac, epsf, tables ), KYUSHU-HET-10, SAGA-HE-50","Prog.Theor.Phys. 91 (1994) 341-352","10.1143/ptp/91.2.341",,"hep-ph",,"  The effective potential of electroweak theory with two massless Higgs
+doublets at finite temperature is studied. We investigate phase structure and
+critical temperature in this model by numerical analysis without
+high-temperature expansion. The phase transition is found to be of first order.
+The critical temperature is shown to be relatively low for typical scalar
+masses. The free energy of the critical bubble is calculated with some
+approximations and we find that the bubble nucleation can occur at a
+temperature a little below the critical temperature. We also discuss the
+possibility of the electroweak baryogenesis.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 09:40:45 GMT""}]","2017-02-01"
+"hep-ph/9310268","Tomoyuki Inui","T. Inui, T. Ichihara, Y. Mimura and N. Sakai","Cosmological Baryon Asymmetry in Supersymmetric Standard Models and
+  Heavy Particle Effects","11 pages in LaTex, 3 PostScript figures included","Phys.Lett. B325 (1994) 392-400","10.1016/0370-2693(94)90031-0","TIT/HP-236","hep-ph",,"  Cosmological baryon asymmetry B is studied in supersymmetric standard models,
+assuming the electroweak reprocessing of B and L. Only when the soft
+supersymmetry breaking is taken into account, B is proportional to the
+primordial B-L in the supersymmetric standard models. The ratio $B/(B-L)$ is
+found to be about one percent less than the nonsupersymmetric case. Even if the
+primordial B-L vanishes, scalar-leptons can be more efficient than leptons to
+generate B provided that mixing angles $\th$ among scalar leptons satisfy
+$|\th| < 10^{-8} (T/{GeV})^{1/2}$.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 12:35:05 GMT""},{""version"":""v2"",""created"":""Sat, 23 Oct 1993 12:24:47 GMT""},{""version"":""v3"",""created"":""Mon, 24 Jan 1994 13:23:51 GMT""}]","2009-10-22"
+"hep-ph/9310269",,"L. Lavoura and Jo\~ao P. Silva (Carnegie-Mellon University)","Comment on ``Neutrino masses and mixing angles in a predictive theory of
+  fermion masses''","standard LATEX, 6 pages, 2 figures available from the authors, report
+  No. CMU-HEP93-20 and DOE-ER/40682-45","Phys.Rev. D49 (1994) 3783-3786","10.1103/PhysRevD.49.3783",,"hep-ph",,"  In the extension of the Dimopoulos--Hall--Raby model of the fermion mass
+matrices to the neutrino sector, there is an entry in the up-quark and neutrino
+Dirac mass matrices which can be assumed to arise from the Yukawa coupling of a
+{\bf 120}, instead of a {\bf 10} or a {\bf 126}, of SO(10). Although this
+assumption leads to an extra undetermined complex parameter in the model, the
+resulting lepton mixing matrix exhibits the remarkable feature that the $
+\nu_{\tau} $ does not mix with the other two neutrinos. Making a reasonable
+assumption about the extra parameter, we are able to fit the large-mixing-angle
+MSW solution of the solar-neutrino problem, and we obtain $ m_{\nu_{\tau}} \sim
+10 $ eV, the right mass range to close the Universe. Other possibilities for
+explaining the solar-neutrino deficit are also discussed.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 13:20:05 GMT""}]","2009-10-22"
+"hep-th/9310058","Paul Fendley","P. Fendley and H. Saleur","Massless integrable quantum field theories and massless scattering in
+  1+1 dimensions","30 pages + 2 figs included",,,"USC-93-022","hep-th",,"  These lecture notes provide an elementary introduction to the study of
+massless integrable quantum field theory in 1+1 dimensions using ``massless
+scattering''. Some previously unpublished results are also presented, including
+a non-perturbative study of Virasoro conserved quantities.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 20:08:37 GMT""}]","2007-05-23"
+"hep-th/9310059",,"Izawa K.-I","Dynamics of the Cosmological Constant in Two-Dimensional Universe","PHYZZX, 6 pages, KUNS 1221","Prog.Theor.Phys. 91 (1994) 393-396","10.1143/ptp/91.2.393",,"hep-th",,"  We consider a two-dimensional model of gravity with the cosmological constant
+as a dynamical variable. The effective cosmological constant is derived when
+the universe has no initial boundary. It turns out to be extremely small if the
+universe is sufficiently large.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 02:52:14 GMT""}]","2017-02-01"
+"hep-th/9310060","Jsuzuki","Atsuo Kuniba, Tomoki Nakanishi and Junji Suzuki","Functional Relations in Solvable Lattice Models II","55 pages, harvmac, HUTP-93/A023","Int.J.Mod.Phys. A9 (1994) 5267-5312","10.1142/S0217751X94002120",,"hep-th",,"  Reported are two applications of the functional relations ($T$-system) among
+a commuting family of row-to-row transfer matrices proposed in the previous
+paper Part I. For a general simple Lie algebra $X_r$, we determine the
+correlation lengths of the associated massive vertex models in the
+anti-ferroelectric regime and central charges of the RSOS models in two
+critical regimes. The results reproduce known values or even generalize them,
+demonstrating the efficiency of the $T$-system.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 07:54:59 GMT""}]","2015-06-26"
+"hep-th/9310061",,"Roberto Zucchini","A Krichever--Novikov Formulation of W--Algebras on Riemann Surfaces","13 pages. A remark about eq. $(1.8)$ has been added and a mistake in
+  eq. $(4.6)$ has been corrected","Phys.Lett.B323:322-329,1994","10.1016/0370-2693(94)91227-0",,"hep-th math.QA",,"  It is shown how the theory of classical $W$--algebras can be formulated on a
+higher genus Riemann surface in the spirit of Krichever and Novikov. An
+intriguing relation between the theory of $A_1$ embeddings into simple Lie
+algebras and the holomorphic geometry of Riemann surfaces is exihibited.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 09:06:00 GMT""},{""version"":""v2"",""created"":""Mon, 18 Oct 1993 12:39:00 GMT""},{""version"":""v3"",""created"":""Mon, 7 Mar 1994 08:12:00 GMT""}]","2014-11-18"
+"hep-th/9310062","Francesco Toppan","E. Ivanov and F. Toppan","Superhamiltonian formalism for $2D$ $N=1,2$ theories","15 pages, latex, ENSLAPP/L/433/93","Mod.Phys.Lett. A9 (1994) 51-66","10.1142/S0217732394000071",,"hep-th",,"  We show how to formulate $2$-dimensional supersymmetric $N=1,2$ theories,
+both massive and conformal, within a manifestly supersymmetric hamiltonian
+framework, via the introduction of a (super)-Poisson brackets structure defined
+on superfields. In this approach, as distinct from the previously known
+superfield hamiltonian formulations, the dynamics is not separated into two
+unrelated $2D$ light-cone superspaces, but is recovered by specifying boundary
+conditions at a given ``super-time"" coordinate. So the approach proposed
+provides a natural generalization of canonical hamiltonian formalism. One of
+its interesting features is that the physical and auxiliary fields equations
+appear on equal footing as the Hamilton ones.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 11:38:13 GMT""}]","2015-06-26"
+"hep-th/9310063","John Gracey","J.A. Gracey","Quark, Gluon and Ghost Anomalous Dimensions at O(1/N_f) in Quantum
+  Chromodynamics","13 pages latex plus 3 figures (available from author on request),
+  LTH-319","Phys.Lett. B318 (1993) 177-183","10.1016/0370-2693(93)91803-U",,"hep-th",,"  By considering the scaling behaviour of various Feynman graphs at leading
+order in large $\Nf$ at the non-trivial fixed point of the $d$-dimensional
+$\beta$-function of QCD we deduce the critical exponents corresponding to the
+quark, gluon and ghost anomalous dimensions as well as the anomalous dimensions
+of the quark-quark-gluon and ghost-ghost-gluon vertices in the Landau gauge. As
+the exponents encode all orders information on the perturbation series of the
+corresponding renormalization group functions we find agreement with the known
+three loop structure and, moreover, we provide new information at all
+subsequent orders.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 11:37:00 GMT""}]","2009-10-22"
+"hep-th/9310064","van der Bij","J. J. van der Bij","Can gravity make the Higgs particle light?","5 pages, Freiburg-THEP-93/25",,,,"hep-th",,"  The spontaneous symmetry breaking theory of gravity is examined, assuming
+that the vacuum expectation value of the standard model Higgs is also
+responsible for the generation of the Planck mass. In this model the physical
+Higgs couples only with gravitational strength to matter. At presently
+accessible energies the theory is indistinguishable from the standard model
+without Higgs boson and is in agreement with all existing data.At energies
+above the Fermi scale new dynamics should occur.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 12:54:32 GMT""}]","2007-05-23"
+"hep-th/9310065",,"Aurelian Isar","Wigner distribution function for the harmonic oscillator with
+  dissipation within the theory of open quantum systems","17 pages,plain TEX, FT-389-1993",,,,"hep-th",,"  Time evolution of the expectation values of various dynamical operators of
+the harmonic oscillator with dissipation is analitically obtained within the
+framework of the Lindblad's theory for open quantum systems. We deduce the
+density matrix of the damped harmonic oscillator from the solution of the
+Fokker-Planck equation for the coherent state representation, obtained from the
+master equation for the density operator. The Fokker-Planck equation for the
+Wigner distribution function is also solved by using the Wang-Uhlenbeck method
+of transforming it into a linearized partial differential equation for the
+Wigner function, subject to either the Gaussian type or the $\delta$-function
+type of initial conditions. The Wigner functions which we obtain are
+two-dimensional Gaussians with different widths.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 14:43:00 GMT""}]","2007-05-23"
+"math/9310202",,"John Meier and Leonard Vanwyk","The Bieri-Neumann-Strebel invariants for graph groups","Plain Tex, 19 pages, no figures",,,"MAGNUS preprint #93-10-12A","math.GR",,"  Given a finite simplicial graph ${\cal G}$, the graph group $G{\cal G}$"" is
+the group with generators in one-to-one correspondence with the vertices of
+${\cal G}$ and with relations stating two generators commute if their
+associated vertices are adjacent in ${\cal G}$. The Bieri-Neumann-Strebel
+invariant can be explicitly described in terms of the original graph ${\cal G}$
+and hence there is an explicit description of the distribution of finitely
+generated normal subgroups of $G{\cal G}$ with abelian quotient. We construct
+Eilenberg-MacLane spaces for graph groups and find partial extensions of this
+work to the higher dimensional invariants.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9310203",,"William A. Bogley","Unions of Cockroft two-complexes","LaTex, 10 pages, no figures",,,"MAGNUS preprint #93-10-12B","math.GR",,"  A combinatorial group-theoretic hypothesis is presented that serves as a
+necessary and sufficient condition for a union of connected Cockcroft
+two-complexes to be Cockcroft. This hypothesis has a component that can be
+expressed in terms of the second homology of groups. The hypothesis is applied
+to the study of the third homology of groups given by generators and relators.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9310215",,"Beata Randrianantoanina","Contractive projections in nonatomic function spaces",,,,"Banach Archive 10/11/93","math.FA",,"  We prove that there is no 1-complemented subspace of finite codimension in
+separable rearrangament-invariant function spaces.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 16:36:25 GMT""}]","2009-09-25"
+"math/9310216",,"Nigel J. Kalton, Dirk Werner","Property $(M)$, $M$-ideals, and almost isometric structure of Banach
+  spaces",,,,"Banach Archive 10/11/93","math.FA",,"  We study $M$-ideals of compact operators by means of the property~$(M)$
+introduced in \cite{Kal-M}. Our main result states for a separable Banach space
+$X$ that the space of compact operators on $X$ is an $M$-ideal in the space of
+bounded operators if (and only if) $X$ does not contain a copy of $\ell_{1}$,
+has the metric compact approximation property, and has property~$(M)$. The
+investigation of special versions of property~$(M)$ leads to results on almost
+isometric structure of some classes of Banach spaces. For instance, we give a
+simple necessary and sufficient condition for a Banach space to embed almost
+isometrically into an $\ell_{p}$-sum of finite-dimensional spaces resp.\ into
+$c_{0}$, and for $2<p<\iy$ we prove that a subspace of $L_{p}$ embeds almost
+isometrically into $\ell_{p}$ if and only if it does not contain a subspace
+isomorphic to $\ell_{2}$.
+","[{""version"":""v1"",""created"":""Mon, 11 Oct 1993 16:36:25 GMT""}]","2016-09-06"
+"patt-sol/9310001","Hugues Chat'e","Hugues Chate' (SPEC, CE-Saclay, 91191 Gif-sur-Yvette, France)","Disordered Regimes of the one-dimensional complex Ginzburg-Landau
+  equation","14 pages, LaTeX, 9 figures available by anonymous ftp to
+  amoco.saclay.cea.fr in directory pub/chate, or by requesting them to
+  chate@wasa.saclay.cea.fr",,"10.1088/0951-7715/7/1/007",,"patt-sol nlin.PS",,"  I review recent work on the ``phase diagram'' of the one-dimensional complex
+Ginzburg-Landau equation for system sizes at which chaos is extensive.
+Particular attention is paid to a detailed description of the spatiotemporally
+disordered regimes encountered. The nature of the transition lines separating
+these phases is discussed, and preliminary results are presented which aim at
+evaluating the phase diagram in the infinite-size, infinite-time, thermodynamic
+limit.
+","[{""version"":""v1"",""created"":""Tue, 12 Oct 1993 12:38:33 GMT""}]","2009-10-22"

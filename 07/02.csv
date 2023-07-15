@@ -1,0 +1,386 @@
+"astro-ph/9307002","Andrei Linde","Andrei Linde","Hybrid Inflation","13 p., SU-ITP-93-17, LaTeX (the first part is extended)","Phys.Rev.D49:748-754,1994","10.1103/PhysRevD.49.748",,"astro-ph gr-qc",,"  Usually inflation ends either by a slow rolling of the inflaton field, which
+gradually becomes faster and faster, or by a first-order phase transition. We
+describe a model where inflation ends in a different way, due to a very rapid
+rolling (`waterfall') of a scalar field $\sigma$ triggered by another scalar
+field $\phi$. This model looks as a hybrid of chaotic inflation and the usual
+theory with spontaneous symmetry breaking. Another hybrid model to be discussed
+here uses some building blocks from extended inflation (Brans-Dicke theory),
+from new inflation (phase transition due to a non-minimal coupling of the
+inflaton field to gravity) and from chaotic inflation (the possibility of
+inflation beginning at large as well as at small $\sigma$). In the simplest
+version of this scenario inflation ends up by slow rolling, thus avoiding the
+big-bubble problem of extended inflation.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 23:39:12 GMT""},{""version"":""v2"",""created"":""Thu, 22 Jul 1993 20:40:52 GMT""},{""version"":""v3"",""created"":""Mon, 27 Sep 1993 03:53:11 GMT""}]","2009-09-29"
+"astro-ph/9307003","Philip Mannheim","Philip D. Mannheim (University of Connecticut)","Linear Potentials and Galactic Rotation Curves - Representative Fitting","UCONN-92-3, 14 pages (plus 1 figure - send requests to
+  mannheim@uconnvm.bitnet), in plain TeX. (This is an updated version of
+  original paper ""Linear Potentials and Galactic Rotation Curves"" which now
+  provides fits to a representative of each of the four different classes of
+  spiral galactic rotation curves. To appear in the Astrophysical Journal)",,,,"astro-ph gr-qc hep-ph",,"  We present a simple, closed form expression for the potential of an
+axisymmetric disk of stars interacting through gravitational potentials of the
+form $V(r)=-\beta /r+\gamma r/2$, the potential associated with fundamental
+sources in the conformal invariant fourth order theory of gravity which has
+recently been advanced by Mannheim and Kazanas as a candidate alternative to
+the standard second order Einstein theory. Using the model we obtain a
+reasonable fit to some representative galactic rotation curve data without the
+need for any non-luminous or dark matter. Our study suggests that the observed
+flatness of rotation curves might only be an intermediate phenomenon rather
+than an asymptotic one.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 15:55:11 GMT""}]","2007-05-23"
+"astro-ph/9307004","Philip Mannheim","Philip D. Mannheim (University of Connecticut)","Linear Potentials and Galactic Rotation Curves - Formalism","UCONN-93-5, 28 pages (plus 2 figures - send requests to
+  mannheim@uconnvm.bitnet), in plain TeX",,,,"astro-ph gr-qc hep-ph",,"  In the first paper in this series we presented a typical set of galactic
+rotation curves associated with the conformal invariant fourth order theory of
+gravity which has recently been advanced by Mannheim and Kazanas as a candidate
+alternative to the standard second order Einstein theory. Reasonable agreement
+with data was obtained for four representative galaxies without the need for
+any non-luminous or dark matter. In this second paper we present the associated
+formalism. Additionally, we discuss the status of the Tully-Fisher relation in
+our theory, compare and contrast our theory with the dark matter theory, and
+make some general observations regarding the systematics of galactic rotation
+curve data.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 15:56:01 GMT""}]","2007-05-23"
+"chao-dyn/9307001",,"Michael Eisele (IFF, KFA, D-52405 J\""ulich, Germany), Dieter Mayer
+  (Institute of Theoretical Physics, Technical University, D-W-3392
+  Clausthal-Zellerfeld, Germany)","Dynamical zeta functions for Artin's billiard and the Venkov--Zograf
+  factorization formula","18 pages, no figures",,"10.1016/0167-2789(94)90070-1",,"chao-dyn nlin.CD",,"  Dynamical zeta functions are expected to relate the Schr\""odinger operator's
+spectrum to the periodic orbits of the corresponding fully chaotic Hamiltonian
+system. The relationsship is exact in the case of surfaces of constant negative
+curvature. The recently found factorisation of the Selberg zeta function for
+the modular surface is known to correspond to a decomposition of the
+Schr\""odinger operator's eigenfunctions into two sets obeying different
+boundary condition on Artin's billiard. Here we express zeta functions for
+Artin's billiard in terms of generalized transfer operators, providing thereby
+a new dynamical proof of the above interpretation of the factorization formula.
+This dynamical proof is then extended to the Artin--Venkov--Zograf formula for
+finite coverings of the modular surface.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 13:46:01 GMT""}]","2009-10-22"
+"comp-gas/9306004","Tony Ladd","Anthony J. C. Ladd (Lawrence Livermore National Laboratory)","Numerical Simulations of Particulate Suspensions via a Discretized
+  Boltzmann Equation Part I. Theoretical Foundation","Text and figures in uuencode-tar-compressed postcript Email
+  tony_ladd@llnl.gov",,"10.1017/S0022112094001771","UCRL-JC-113349 (Part I)","comp-gas nlin.CG",,"  A new and very general technique for simulating solid-fluid suspensions is
+described; its most important feature is that the computational cost scales
+linearly with the number of particles. The method combines Newtonian dynamics
+of the solid particles with a discretized Boltzmann equation for the fluid
+phase; the many-body hydrodynamic interactions are fully accounted for, both in
+the creeping-flow regime and at higher Reynolds numbers. Brownian motion of the
+solid particles arises spontaneously from stochastic fluctuations in the fluid
+stress tensor, rather than from random forces or displacements applied directly
+to the particles. In this paper, the theoretical foundations of the technique
+are laid out, illustrated by simple analytical and numerical examples; in the
+companion paper, extensive numerical tests of the method, for stationary flows,
+time-dependent flows, and finite Reynolds number flows, are reported.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 17:33:03 GMT""}]","2009-10-22"
+"comp-gas/9306005","Tony Ladd","Anthony J. C. Ladd (Lawrence Livermore National Laboratory)","Numerical Simulations of Particulate Suspensions via a Discretized
+  Boltzmann Equation Part II. Numerical Results","Text and figures in uuencode-tar-compressed postcript Email
+  tony_ladd@llnl.gov",,"10.1017/S0022112094001783","UCRL-JC-113349 (Part II)","comp-gas nlin.CG",,"  A new and very general technique for simulating solid-fluid suspensions has
+been described in a previous paper (Part I); the most important feature of the
+new method is that the computational cost scales with the number of particles.
+In this paper (Part II), extensive numerical tests of the method are described;
+for creeping flows, both with and without Brownian motion, and at finite
+Reynolds numbers. Hydrodynamic interactions, transport coefficients, and the
+short-time dynamics of random dispersions of up to 1024 colloidal particles
+have been simulated.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 17:34:16 GMT""},{""version"":""v2"",""created"":""Wed, 7 Jul 1993 16:47:47 GMT""}]","2009-10-22"
+"cond-mat/9307001","Te","L. F. Cugliandolo, J. Kurchan and F. Ritort","Evidence of aging in mean-field spin glass models","13 pages + 5 figures (upon request)","Phys. Rev. B 49, 6331-6334 (1994).","10.1103/PhysRevB.49.6331",,"cond-mat",,"  We study numerically the out of equilibrium dynamics of the hypercubic cell
+spin glass in high dimensionalities. We obtain evidence of aging effects
+qualitatively similar both to experiments and to simulations of low dimensional
+models. This suggests that the Sherrington-Kirkpatrick model as well as other
+mean-field finite connectivity lattices can be used to study these effects
+analytically.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 17:22:40 GMT""},{""version"":""v2"",""created"":""Thu, 21 Oct 1993 19:36:23 GMT""}]","2009-10-22"
+"cond-mat/9307002","Tom Chou","T Chou and David R. Nelson","Buckling Instabilities of a Confined Colloid Crystal Layer","24 pages, 8 figures on request. EF5082",,"10.1103/PhysRevE.48.4611",,"cond-mat",,"  A model predicting the structure of repulsive, spherically symmetric,
+monodisperse particles confined between two walls is presented. We study the
+buckling transition of a single flat layer as the double layer state develops.
+Experimental realizations of this model are suspensions of stabilized colloidal
+particles squeezed between glass plates. By expanding the thermodynamic
+potential about a flat state of \( N \) confined colloidal particles, we derive
+a free energy as a functional of in-plane and out-of-plane displacements. The
+wavevectors of these first buckling instabilities correspond to three different
+ordered structures. Landau theory predicts that the symmetry of these phases
+allows for second order phase transitions. This possibility exists even in the
+presence of gravity or plate asymmetry. These transitions lead to critical
+behavior and phases with the symmetry of the three-state and four-state Potts
+models, the X-Y model with 6-fold anisotropy, and the Heisenberg model with
+cubic interactions. Experimental detection of these structures is discussed.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 21:17:31 GMT""}]","2009-10-22"
+"cond-mat/9307003","Sylvie Zaffanella","H. Orland","Flory theory revisited","Email contact: orland@amoco.saclay.cea.fr",,"10.1051/jp1:1994123","Saclay-T93/071","cond-mat",,"  The Flory theory for a single polymer chain is derived as the lowest order of
+a cumulant expansion. In this approach, the full original Flory free energy
+(including the logarithmic term), is recovered. %This term does not change the
+wandering exponent $ \nu $ but turns out to %be responsible for the crossover
+from Brownian $ (d>4) $ to swollen $ %(d\leq4) $ %regime. The prefactors of the
+elastic and repulsive energy are calculated from the microscopic parameters.
+The method can be applied to other types of monomer-monomer interactions, and
+the case of a single chain in a bad solvent is discussed . The method is easily
+generalized to many chain systems (polymers in solutions), yielding the usual
+crossovers with chain concentration. Finally, this method is suitable for a
+systematic expansion around the Flory theory. The corrections to Flory theory
+consist of extensive terms (proportional to the number $N$ of monomers) and
+powers of $N^{2-\nu d}$ . These last terms diverge in the thermodynamic limit,
+but less rapidly than the usual Fixman expansion in $N^{2- d/2}$.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 14:07:00 GMT""}]","2009-10-22"
+"hep-ph/9307204",,"Edi Halyo","Technidilaton Phenomenology and Prospects for Production","WIS-93/21/JUN-PH, 30 pages in phyzzx.tex, 2 tables in tables.tex and
+  5 figures","Int.J.Mod.Phys. A9 (1994) 1849-1872","10.1142/S0217751X94000790",,"hep-ph",,"  An effective Lagrangian for the technidilaton and its interactions with
+matter is constructed. Properties of the technidilaton are compared with those
+of the Higgs boson. Technidilaton decays and production channels are
+investigated. Main technidilaton decays are suppressed compared to the Higgs
+boson and the most important production mechanism is due to gluon fusion.
+Prospects for technidilaton production and detection at $e^+e^-$ colliders and
+the SSC are examined. LEP 1, LEP 2 and SSC can find or rule out a technidilaton
+with a mass up to $10~GeV$, $40~GeV$ and $230~GeV$ respectively.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 17:02:07 GMT""},{""version"":""v2"",""created"":""Sun, 12 Sep 1993 14:37:29 GMT""}]","2009-10-22"
+"hep-ph/9307206",,"W. Buchm\""uller and Z. Fodor","Searching for Supersymmetry in High-Energy Photon-Proton Scattering","8 pages, 4 figures, figure ps file can be obtained from the authors
+  via bitnet, DESY 93-085","Phys.Lett. B316 (1993) 510-515","10.1016/0370-2693(93)91036-M",,"hep-ph",,"  We investigate the possibility to search for supersymmetry in the scattering
+of protons and Compton back-scattered laser light. We evaluate the cross
+sections for inelastic and elastic production of wino pairs for different
+electron-proton c.m.s. energies. For $\sqrt{s}=1\ TeV$ the cross section
+exceeds $1\ fb$ for $m_w<190\ GeV$.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 16:17:55 GMT""}]","2009-10-22"
+"hep-ph/9307207",,"H. Baer, C.H. Chen and M. H. Reno","An Estimate of Jet Activity in $t\bar t$ Events","20 pages, revtex file FSU-HEP-930625, UIOWA-93-10, 6 figures
+  available from chih_hao@fsuhep.physics.fsu.edu","Phys.Rev. D48 (1993) 5168-5174","10.1103/PhysRevD.48.5168",,"hep-ph",,"  We present a calculation of jet activity associated with pair production of
+top quarks at hadron colliders and supercolliders. Our approach is based upon a
+merger of $2\rightarrow 3$ matrix elements with initial and final state parton
+showers. We tabulate expected multi-jet rates in $t\bar t$ events, and compare
+with ${\cal O}(\alpha_s^3 )$ matrix element results and parton showers based
+upon $2\rightarrow 2$ subprocesses. The merged calculation includes the correct
+matrix element for the first leg of the parton shower, but also includes the
+effects of approximate all-orders quark and gluon emission. We also evaluate
+expected jet activity in top pair events at hadron supercolliders; in
+particular, a comparison of the jet activity in the far forward region is made.
+It is found that the merged calculation yields more jet activity in the forward
+region than pure matrix element estimates, but also more jet activity in the
+central region. This can be important for background calculations to
+$H\rightarrow WW$ and strong $WW$ scattering processes.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 17:42:31 GMT""}]","2009-10-22"
+"hep-ph/9307208",,"M. Drees and M.M. Nojiri","Neutralino-Nucleon Scattering Revisited","32 pages with 7 figures (not included; hard copies available from
+  DREES@WISCPHEN), LaTeX with EQUATION.STY, MAD/PH/768","Phys.Rev.D48:3483-3501,1993","10.1103/PhysRevD.48.3483",,"hep-ph",,"  We present a detailed discussion of the elastic scattering of a
+supersymmetric neutralino off a nucleon or nucleus, with emphasis on the
+spin--independent interaction. We carefully treat QCD effects on the squark
+exchange contribution. In particular, we identify a class of terms that survive
+even in the absence of mixing in both the neutralino and squark sectors; the
+corresponding quark and gluon operators also appear in analyses of
+deep--inelastic lepton--nucleon scattering (``twist--2 operators''), so their
+hadronic matrix elements are well known. We also re--emphasize the importance
+of mixing between the superpartners of left-- and right--handed quarks, and of
+the contribution from the heavier scalar Higgs boson. We use our refined
+calculation of the scattering amplitude to update predictions of signal rates
+for cosmic relic neutralino searches with Germanium detectors. In general the
+counting rate varies strongly with the values (even the signs) of model
+parameters; typical results lie between a few times $10^{-4}$ and a few times
+$10^{-1}$ events/(kg$\cdot$day).
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 20:32:00 GMT""}]","2008-11-26"
+"hep-ph/9307209","Ali Chamseddine","A.H. Chamseddine and J. Fr\""ohlich","Constraints on the Higss and Top Quark Masses From Effective Potential
+  and Non-Commutative Geometry","11 pages, Zurich Preprint ZU-TH-16/1993","Phys.Lett. B314 (1993) 308-314","10.1016/0370-2693(93)91241-E",,"hep-ph hep-th",,"  We consider the standard model in the formulationo of non-commutative
+geometry, for a Euclidean space-time consisting of two copies. The electroweak
+scale is set by the vacuum expectation value of a scalar field and is
+undetermined at the classical level. By adding the Coleman-Weinberg effective
+potential, that scale turns out to be fixed. Provided that the renormalized
+form of the Lagrangian maintains the vanishing of the cosmological constant, we
+show that the only solutions for the minimization equations of the total
+potential occur in the narrow band $146.2 \le m_t \le 147.4 $ Gev for the top
+quark mass, with the corresponding Higgs mass $117.3 \le m_H\le 142.6$ Gev.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 07:36:33 GMT""}]","2009-10-22"
+"hep-ph/9307210","Iiro Vilja","Per Elmfors, Kari Enqvist and Iiro Vilja","Thermalization of the Higgs Field at the Electroweak Phase Transition","(21 pp, 5 figures available upon request). NORDITA--93/48 P","Nucl.Phys.B412:459-478,1994","10.1016/0550-3213(94)90512-6",,"hep-ph",,"  The thermalization rate for long wavelength fluctuations in the Higgs field
+is calculated from the imaginary part of the finite temperature effective
+action in the unbroken phase of the Standard Model. We use improved propagators
+including a resummation of hard thermal loops. The thermalization rate is
+computed at one loop level, but an estimate of the two--loop contribution
+appears to give an indication that they are comparable to the one--loop result
+for small thermal higgs mass. We show also that the Higgs field fluctuations
+are likely to thermalize very fast compared with the electroweak phase
+transition time.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 08:10:31 GMT""}]","2011-04-20"
+"hep-ph/9307213","Valery Rubakov","M.V. Libanov, V.A. Rubakov and S.V. Troitsky","Tree amplitudes at multiparticle threshold in a model with softly broken
+  $O(2)$ symmetry","17 pages. Preprint INR-823/93","Nucl.Phys.B412:607-620,1994","10.1016/0550-3213(94)90394-8",,"hep-ph",,"  Tree amplitudes of the production of two kinds of scalar particles at
+threshold from one virtual particle are calculated in a model of two scalar
+fields with $O(2)$ symmetric quartic interaction and unequal masses. These
+amplitudes exhibit interesting factorial and exponential behaviour at large
+multiplicities. As a by-product we observe that the kinematically allowed decay
+of one real particle into $n$ real particles of another kind, all at rest, has
+zero tree amplitude in this model for $n>2$.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 14:42:26 GMT""}]","2008-11-26"
+"hep-th/9307005","Shyamoli Chaudhuri","S. Chaudhuri and D. Minic","A Note on Effective String Theory","17 pages, LATEX, UTTG-21-93","Mod. Phys. Lett. A8 (1993) 2763-2774","10.1142/S0217732393003159",,"hep-th",,"  Motivated by the possibility of an effective string description for the
+infrared limit of pure Yang-Mills theory, we present a toy model for an
+effective theory of random surfaces propagating in a target space of $D>2$. We
+show that the scaling exponents for the fixed area partition function of the
+theory are apparently well behaved. We make some observations regarding the
+usefulness of this toy model.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 21:39:03 GMT""}]","2015-06-26"
+"hep-th/9307006","Pawel Kurzepa","A. Kovner and P. S. Kurzepa","Bosonization of $QED_3$ with an induced Chern - Simons term","LA-UR-93-2406","Phys. Lett. B328 (1994) 506-512","10.1016/0370-2693(94)91511-3",,"hep-th",,"  We extend the bosonization of $2+1$ - dimensional QED with one fermionic
+flavor performed previously to the case of QED with an induced Chern - Simons
+term. The coefficient of this term is quantized: $e^2n/8\pi$, $n\in {\bf Z}$.
+The fermion operators are constructed in terms of the bosonic fields $A_i$ and
+$E_i$. The construction is similar to that in the $n=0$ case. The resulting
+bosonic theory is Lorentz invariant in the continuum limit and has Maxwell's
+equations as its equations of motion. The algebra of bilinears exhibits
+nontrivial operatorial mixing with lower dimensional operators, which is absent
+for $n=0$.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 23:37:03 GMT""}]","2009-10-22"
+"hep-th/9307009","Hidetoshi Awata","Ikuo Satake","Flat structure for the simple elliptic singularity of type $\widetilde
+  {\bf E_6}$ and Jacobi form","6 pages",,,,"hep-th math.QA math.RT",,"  In order to construct the inverse mapping of the period mapping for the
+primitive form for the semi-universal deformation of a simple elliptic
+singularity, K.Saito introduced in [5] the ``flat structure'' for the extended
+affine root system. In section 3, we construct explicitly the flat theta
+invariants in the case of type $E_6$ using the Jacobi form introduced by
+Wirthm\""uller [7]. Combining the results of Kato [3], Noumi [4] (explicit
+description of the flat coordinates), this gives an answer to Jacobi's
+inversion problem (up to linear isomorphism) of this period mapping for a
+simple elliptic singularity of type $\tilde E_6$ (see also [6]). The details
+will be published elsewhere.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 07:26:14 GMT""}]","2008-02-03"
+"hep-th/9307010","Hugh Osborn","H. Osborn and A. Petkos","Implications of Conformal Invariance in Field Theories for General
+  Dimensions","46 pages (plain TeX with use of AMS fonts), DAMTP/93-31 (minor
+  corrections and additions)","Ann.Phys.231:311-362,1994","10.1006/aphy.1994.1045",,"hep-th",,"  The requirements of conformal invariance for two and three point functions
+for general dimension $d$ on flat space are investigated. A compact group
+theoretic construction of the three point function for arbitrary spin fields is
+presented and it is applied to various cases involving conserved vector
+operators and the energy momentum tensor. The restrictions arising from the
+associated conservation equations are investigated. It is shown that there are,
+for general $d$, three linearly independent conformal invariant forms for the
+three point function of the energy momentum tensor, although for $d=3$ there
+are two and for $d=2$ only one. The form of the three point function is also
+demonstrated to simplify considerably when all three points lie on a straight
+line. Using this the coefficients of the conformal invariant point functions
+are calculated for free scalar and fermion theories in general dimensions and
+for abelian vector fields when $d=4$. Ward identities relating three and two
+point functions are also discussed. This requires careful analysis of the
+singularities in the short distance expansion and the method of differential
+regularisation is found convenient. For $d=4$ the coefficients appearing in the
+energy momentum tensor three point function are related to the coefficients of
+the two possible terms in the trace anomaly for a conformal theory on a curved
+space background.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 08:16:00 GMT""},{""version"":""v2"",""created"":""Wed, 4 Aug 1993 14:17:00 GMT""}]","2008-11-26"
+"hep-th/9307011",,"R. Iengo and D. Li","Quantum mechanics and quantum Hall effect on Riemann surfaces","24 pages, Latex","Nucl.Phys. B413 (1994) 735-753","10.1016/0550-3213(94)90010-8","SISSA/ISAS/100/93/EP","hep-th cond-mat",,"  The quantum mechanics of a system of charged particles interacting with a
+magnetic field on Riemann surfaces is studied. We explicitly construct the wave
+functions of ground states in the case of a metric proportional to the Chern
+form of the $\theta$-bundle, and the wave functions of the Landau levels in the
+case of the the Poincar{\' e} metric. The degeneracy of the the Landau levels
+is obtained by using the Riemann-Roch theorem. Then we construct the Laughlin
+wave function on Riemann surfaces and discuss the mathematical structure hidden
+in the Laughlin wave function. Moreover the degeneracy of the Laughlin states
+is also discussed.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 10:30:58 GMT""}]","2009-10-22"
+"hep-th/9307012","Ali Chamseddine","A.H. Chamseddine and J. Fr\""ohlich","Some Elements of Connes' Non-Commutative Geometry, And Space-Time
+  Geometry","35 pages. To tex use the command lamstex. We have only added the
+  macro ETHpaper.st to the file so that the file could be printed","Chen Ning Yang: A Great Physicist of the Twentieth Century, editor
+  S. T. Yau, 10-35, 1995 International Press of Boston",,,"hep-th",,"  Contribution to the Proceedings in honour of C.N. Yang, editor S-T Yau. To
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 10:51:45 GMT""},{""version"":""v2"",""created"":""Fri, 9 Jul 1993 07:39:53 GMT""}]","2015-03-10"
+"hep-th/9307013",,"C.M. Hull, G. Papadopoulos and P.K. Townsend","Potentials for (p,0) and (1,1) supersymmetric sigma models with torsion","11 pages","Phys.Lett.B316:291-297,1993","10.1016/0370-2693(93)90327-E",,"hep-th",,"  Using (1,0) superfield methods, we determine the general scalar potential
+consistent with off-shell (p,0) supersymmetry and (1,1) supersymmetry in
+two-dimensional non-linear sigma models with torsion. We also present an
+extended superfield formulation of the (p,0) models and show how the (1,1)
+models can be obtained from the (1,1)-superspace formulation of the gauged, but
+massless, (1,1) sigma model.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 15:58:00 GMT""}]","2009-10-09"
+"hep-th/9307014","Damiano Anselmi","Damiano Anselmi","Covariant Pauli-Villars Regularization of Quantum Gravity at the One
+  Loop Order","26 pages, LaTeX, SISSA/ISAS 73/93/EP","Phys.Rev. D48 (1993) 5751-5763","10.1103/PhysRevD.48.5751",,"hep-th",,"  We study a regularization of the Pauli-Villars kind of the one loop
+gravitational divergences in any dimension. The Pauli-Villars fields are
+massive particles coupled to gravity in a covariant and nonminimal way, namely
+one real tensor and one complex vector. The gauge is fixed by means of the
+unusual gauge-fixing that gives the same effective action as in the context of
+the background field method. Indeed, with the background field method it is
+simple to see that the regularization effectively works. On the other hand, we
+show that in the usual formalism (non background) the regularization cannot
+work with each gauge-fixing.In particular, it does not work with the usual one.
+Moreover, we show that, under a suitable choice of the Pauli-Villars
+coefficients, the terms divergent in the Pauli-Villars masses can be corrected
+by the Pauli-Villars fields themselves. In dimension four, there is no need to
+add counterterms quadratic in the curvature tensor to the Einstein action
+(which would be equivalent to the introduction of new coupling constants). The
+technique also works when matter is coupled to gravity. We discuss the possible
+consequences of this approach, in particular the renormalization of Newton's
+coupling constant and the appearance of two parameters in the effective action,
+that seem to have physical implications.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 12:01:54 GMT""}]","2009-10-22"
+"hep-th/9307015",,"Roberto Zucchini","Deformation Theory of Holomorphic Vector Bundles, Extended Conformal
+  Symmetry and Extensions of 2D Gravity","49 pages, plain TeX. A number of misprints have been corrected","Class.Quant.Grav.11:1697-1724,1994","10.1088/0264-9381/11/7/010",,"hep-th",,"  Developing on the ideas of R. Stora and coworkers, a formulation of two
+dimensional field theory endowed with extended conformal symmetry is given,
+which is based on deformation theory of holomorphic and Hermitian spaces. The
+geometric background consists of a vector bundle $E$ over a closed surface
+$\Sigma$ endowed with a holomorphic structure and a Hermitian structure
+subordinated to it. The symmetry group is the semidirect product of the
+automorphism group ${\rm Aut}(E)$ of $E$ and the extended Weyl group ${\rm
+Weyl}(E)$ of $E$ and acts on the holomorphic and Hermitian structures. The
+extended Weyl anomaly can be shifted into an automorphism chirally split
+anomaly by adding to the action a local counterterm, as in ordinary conformal
+field theory. The dependence on the scale of the metric on the fiber of $E$ is
+encoded in the Donaldson action, a vector bundle generalization of the
+Liouville action. The Weyl and automorphism anomaly split into two
+contributions corresponding respectively to the determinant and
+projectivization of $E$. The determinant part induces an effective ordinary
+Weyl or diffeomorphism anomaly and the induced central charge can be computed.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 13:30:00 GMT""},{""version"":""v2"",""created"":""Mon, 5 Jul 1993 17:55:00 GMT""}]","2010-04-06"
+"hep-th/9307016","Dr M. Manas","Manuel Manas and Partha Guha","String Equations for the Unitary Matrix Model and the Periodic Flag
+  Manifold","21 pages in LaTeX-AMSTeX","Commun.Math.Phys. 161 (1994) 215-232","10.1007/BF02099775",,"hep-th nlin.SI solv-int",,"  The periodic flag manifold (in the Sato Grassmannian context) description of
+the modified Korteweg--de Vries hierarchy is used to analyse the translational
+and scaling self--similar solutions of this hierarchy. These solutions are
+characterized by the string equations appearing in the double scaling limit of
+the symmetric unitary matrix model with boundary terms. The moduli space is a
+double covering of the moduli space in the Sato Grassmannian for the
+corresponding self--similar solutions of the Korteweg--de Vries hierarchy, i.e.
+of stable 2D quantum gravity. The potential modified Korteweg--de Vries
+hierarchy, which can be described in terms of a line bundle over the periodic
+flag manifold, and its self--similar solutions corresponds to the symmetric
+unitary matrix model. Now, the moduli space is in one--to--one correspondence
+with a subset of codimension one of the moduli space in the Sato Grassmannian
+corresponding to self--similar solutions of the Korteweg--de Vries hierarchy.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 13:45:04 GMT""}]","2009-10-22"
+"hep-th/9307017","Dr M. Manas","F.Guil and M.Manas","Akns Hierarchy, Self-Similarity, String Equations and the Grassmannian","25 pages in AMS-LaTeX","J.Phys. A27 (1994) 2129-2142","10.1088/0305-4470/27/6/034",,"hep-th nlin.SI solv-int",,"  In this paper the Galilean, scaling and translational self--similarity
+conditions for the AKNS hierarchy are analysed geometrically in terms of the
+infinite dimensional Grassmannian. The string equations found recently by
+non--scaling limit analysis of the one--matrix model are shown to correspond to
+the Galilean self--similarity condition for this hierarchy. We describe, in
+terms of the initial data for the zero--curvature 1--form of the AKNS
+hierarchy, the moduli space of these self--similar solutions in the Sato
+Grassmannian. As a byproduct we characterize the points in the Segal--Wilson
+Grassmannian corresponding to the Sachs rational solutions of the AKNS equation
+and to the Nakamura--Hirota rational solutions of the NLS equation. An explicit
+1--parameter family of Galilean self--similar solutions of the AKNS equation
+and the associated solution to the NLS equation is determined.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 13:55:07 GMT""}]","2009-10-22"
+"hep-th/9307018",,"J. Grabowski, G. Landi, G. Marmo and G. Vilasi","Generalized Reduction Procedure: Symplectic and Poisson Formalism","39 pages, Latex file, Vienna ESI 28 (1993)","Fortschr. Phys. 42 (1994) 393-427","10.1002/prop.2190420502",,"hep-th",,"  We present a generalized reduction procedure which encompasses the one based
+on the momentum map and the projection method. By using the duality between
+manifolds and ring of functions defined on them, we have cast our procedure in
+an algebraic context. In this framework we give a simple example of reduction
+in the non-commutative setting.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 15:37:45 GMT""}]","2009-10-22"
+"hep-th/9307019","Saul Youssef","S. Youssef","Quantum Mechanics as Complex Probability Theory","15FSU-SCRI-93-77","Mod.Phys.Lett. A9 (1994) 2571-2586","10.1142/S0217732394002422",,"hep-th cond-mat gr-qc",,"  Realistic quantum mechanics based on complex probability theory is shown to
+have a frequency interpretation, to coexist with Bell's theorem, to be linear,
+to include wavefunctions which are expansions in eigenfunctions of Hermitian
+operators and to describe both pure and mixed systems. Illustrative examples
+are given. The quantum version of Bayesian inference is discussed. Postscript
+version of hep-th/9307019.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 15:45:21 GMT""},{""version"":""v2"",""created"":""Mon, 14 Feb 1994 20:02:49 GMT""}]","2009-10-22"
+"nucl-th/9307001","Gabriel Martinez","E. Caurier, A. P. Zuker, A. Poves, and G. Martinez-Pinedo","A Full $PF$ Shell Model Study of a~=~48 Nuclei","30 pages, LaTeX with epsf.sty, 14 Postscript figures included and
+  compressed using uufiles. Completely new version of previous preprint
+  nucl-th/9307001. FTUAM-93/01, CRN/PT 93-39",,"10.1103/PhysRevC.50.225",,"nucl-th",,"  Exact diagonalizations with a minimally modified realistic force lead to
+detailed agreement with measured level schemes and electromagnetic transitions
+in $^{48}$Ca, $^{48}$Sc, $^{48}$Ti, $^{48}$V, $^{48}$Cr and $^{48}$Mn.
+Gamow-Teller strength functions are systematically calculated and reproduce the
+data to within the standard quenching factor. Their fine structure indicates
+that fragmentation makes much strength unobservable. As a by-product, the
+calculations suggest a microscopic description of the onset of rotational
+motion. The spectroscopic quality of the results provides strong arguments in
+favour of the general validity of monopole corrected realistic forces, which is
+discussed.
+","[{""version"":""v1"",""created"":""Thu, 1 Jul 1993 18:59:19 GMT""},{""version"":""v2"",""created"":""Wed, 3 Nov 1993 12:08:49 GMT""}]","2009-10-22"
+"nucl-th/9307002",,"L. Machenil, M. Vanderhaeghen, J. Ryckebusch and M. Waroquier","Absorption mechanisms in photon induced two-body knockout","10 pages, 5 figures in seperate postscript file, Submitted to Phys.
+  Lett. B. - INW9306II","Phys.Lett. B316 (1993) 17-22","10.1016/0370-2693(93)90650-7",,"nucl-th",,"  Calculations have been performed for the $^{16}$O($\gamma$,pn) and the
+$^{16}$O($\gamma$,pp) reaction in the photon-energy range $E_{\gamma}$ = 60-300
+MeV. Besides the contribution from the more common photoabsorption on the
+pionic degrees of freedom, we have investigated the influence of heavier meson
+exchange ($\rho, \sigma, \omega$) and intermediate $\Delta$ creation with $\pi$
+and $\rho$ exchange. Whereas the $\pi$ meson is found to set the main trends,
+the $\rho$ meson is found not to be discardable in a theoretical description of
+the ($\gamma$,pn) reaction. The incorporation of an energy dependence and a
+decay width in the $\Delta$ propagator is observed to be essential in order to
+arrive at a more realistic description of ($\gamma$,NN) reactions at higher
+photon energies.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 07:33:00 GMT""},{""version"":""v2"",""created"":""Fri, 2 Jul 1993 11:55:00 GMT""}]","2009-10-22"
+"nucl-th/9307003","Herbert Muether","H. M\""uther and W.H. Dickhoff","The Single-Particle Spectral Function of $^{16}{\rm O}$","5 pages, RevTeX, 3 figures","Phys.Rev.C49:R17-R20,1994","10.1103/PhysRevC.49.R17",,"nucl-th",,"  The influence of short-range correlations on the $p$-wave single-particle
+spectral function in $^{16}{\rm O}$ is studied as a function of energy. This
+influence, which is represented by the admixture of high-momentum components,
+is found to be small in the $p$-shell quasihole wave functions. It is therefore
+unlikely that studies of quasihole momentum distributions using the $(e,e'p)$
+reaction will reveal a significant contribution of high momentum components.
+Instead, high-momentum components become increasingly more dominant at higher
+excitation energy. The above observations are consistent with the energy
+distribution of high-momentum components in nuclear matter.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 12:33:44 GMT""}]","2008-11-26"

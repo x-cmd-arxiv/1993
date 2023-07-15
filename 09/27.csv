@@ -1,0 +1,130 @@
+"alg-geom/9309006","Kristian Ranestad","Robert Braun and Kristian Ranestad","Conic bundles in projective fourspace","7 pages, Plain-TeX",,,,"alg-geom math.AG",,"  P. Ellia and G.Sacchiero have shown that if $S$ is a smooth surface in $\Pn
+4$ which is ruled in conics, then $S$ has degree 4 or 5. In this paper we give
+a proof of this result combining the ideas of Ellia and Sacchiero as they are
+used in the paper of the second author on plane curve fibrations and the recent
+work of G. Fl\o ystad and the first author bounding the degree of smooth
+surfaces in $\Pn 4$ not of general type.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 09:03:55 GMT""}]","2008-02-03"
+"astro-ph/9309037","Karen Strom","Karen M. Strom, Stephen E. Strom","A Multiwavelength Study of Star Formation in the L1495E Cloud in Taurus","Latex, AASTeX macros, version 3","Astrophys.J.424:237-256,1994","10.1086/173886",,"astro-ph",,"  We have carried out a deep (t=30000s) x-ray search of the eastern portion of
+the L1495 cloud centered on the well known weak line T Tauri star (WTTS) V410
+Tau using the ROSAT PSPC. This deep exposure enabled a search for candidate
+pre-main sequence (PMS) objects in this cloud to a limit 20 times more
+sensitive than that typical of the fields examined with the Einstein searches.
+Despite assertions that the PMS population in Taurus-Auriga is nearly
+completely known, this x-ray survey revealed 8 new PMS objects in a region 50'
+in diameter, as compared to a previously known stellar population of 12
+objects, including deeply embedded IRAS sources. Spectroscopic and photometric
+observations enable us to place these objects in the HR Diagram. The newly
+discovered objects are predominantly stars of spectral type M0 and later, and a
+large fraction (6/8) appear to be surrounded by circumstellar accretion disks
+as judged by their infrared excess and H alpha emission. We combined the data
+for these x-ray discovered objects with extant and new data for the previously
+identified PMS stars in this region to examine the history of star formation
+and the frequency distribution of stellar masses in this cloud. If the ``post
+ROSAT'' population is either complete or representative, we conclude (1) that
+star formation in L1495 East took place 1 x 10^6 yrs ago and that the spread in
+ages is small; (2) the frequency distribution of masses,
+","[{""version"":""v1"",""created"":""Sun, 26 Sep 1993 21:13:31 GMT""}]","2011-02-11"
+"cond-mat/9309042","Yong-Cong Chen","Yong-Cong Chen and Kai Xiu","Optimized RVB states of the 2-d antiferromagnet: Ground state and
+  excitation spectrum","LATEX, 13 pages and 2 figures (in latex too)",,"10.1016/0375-9601(93)90391-C",,"cond-mat",,"  The Gutzwiller projection of the Schwinger-boson mean-field solution of the
+2-d spin-1/2 antiferromagnet in a square lattice is shown to produce the
+optimized, parameter-free RVB ground state. We get $-0.6688J$/site and $0.311$
+for the energy and the staggered magnetization. The spectrum of the excited
+states is found to be linear and gapless near $\bk\cong 0$. Our calculation
+suggests, upon breaking of the rotational symmetry, $\epsilon_{\bk}\cong
+2JZ_{r} \sqrt{1-\gamma_{\bk}^{2}}$ with $Z_{r}\cong 1.23$. To appear in Phys.
+Lett. A (1993).
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 02:46:23 GMT""}]","2009-10-22"
+"hep-lat/9309017","Carleton DeTar","Claude Bernard, Thomas A. DeGrand, Carleton DeTar, Steven Gottlieb,
+  Alex Krasnitz, Robert L. Sugar, and Douglas Toussaint","Baryon Density Correlations in High Temperature Hadronic Matter","26 pp, RevTeX, 12 postscript figures, combined in a single shell
+  archive file. (Also available in 13 postscript files by anonymous ftp from
+  einstein.physics.utah.edu, /pub/milc/paper.sh.Z.)","Phys.Rev.D49:6051-6062,1994","10.1103/PhysRevD.49.6051","UUHEP 93/3, IUHET--259, AZPH--TH/93--28, UCSBTH--93--19","hep-lat",,"  As part of an ongoing effort to characterize the high temperature phase of
+QCD, in a numerical simulation using the staggered fermion scheme, we measure
+the quark baryon density in the vicinity of a fixed test quark at high
+temperature and compare it with similar measurements at low temperature and at
+the crossover temperature. We find an extremely weak correlation at high
+temperature, suggesting that small color singlet clusters are unimportant in
+the thermal ensemble. We also find that at $T = 0.75\ T_c$ the total induced
+quark number shows a surprisingly large component attributable to baryonic
+screening. A companion simulation of a simple flux tube model produces similar
+results and also suggests a plausible phenomenological scenario: As the
+crossover temperature is approached from below, baryonic states proliferate.
+Above the crossover temperature the mean size of color singlet clusters grows
+explosively, resulting in an effective electrostatic deconfinement.
+","[{""version"":""v1"",""created"":""Sun, 26 Sep 1993 21:36:36 GMT""}]","2008-11-26"
+"hep-ph/9309326","Paolo Gambino","P. Gambino and A. Sirlin","Relation between $\sin^2\hat{\theta}_W(m_Z)$ and
+  $\sin^2\theta_{eff}^{lep}$","7 pages (LaTeX) no figure","Phys.Rev.D49:1160-1162,1994","10.1103/PhysRevD.49.1160",,"hep-ph",,"  The relation between $\sef$, frequently employed in LEP analyses, and the
+$\rm{\overline{MS}}$--parameter $\scr$ is discussed and their difference
+evaluated by means of an explicit calculation.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 14:54:10 GMT""}]","2009-12-30"
+"hep-th/9309137","Tomoki Nakanisi","A.Kuniba, T. Nakanishi, and J.Suzuki","Functional Relations in Solvable Lattice Models I: Functional Relations
+  and Representation Theory","58 pages, 16 eps figures, harvamc.tex epsf.tex (minor corrections, no
+  change in the result)","Int.J.Mod.Phys.A9:5215-5266,1994","10.1142/S0217751X94002119","HUTP-93/A022","hep-th",,"  We study a system of functional relations among a commuting family of
+row-to-row transfer matrices in solvable lattice models. The role of exact
+sequences of the finite dimensional quantum group modules is clarified. We find
+a curious phenomenon that the solutions of those functional relations also
+solve the so-called thermodynamic Bethe ansatz equations in the high
+temperature limit for $sl(r+1)$ models. Based on this observation, we propose
+possible functional relations for models associated with all the simple Lie
+algebras. We show that these functional relations certainly fulfill strong
+constraints coming from the fusion procedure analysis. The application to the
+calculations of physical quantities will be presented in the subsequent
+publication.
+","[{""version"":""v1"",""created"":""Sun, 26 Sep 1993 18:03:51 GMT""},{""version"":""v2"",""created"":""Wed, 13 Oct 1993 18:56:23 GMT""},{""version"":""v3"",""created"":""Sat, 28 May 1994 18:56:38 GMT""}]","2011-05-05"
+"hep-th/9309138","Motohiko Yoshimura","M.Hotta and M.Yoshimura","End Point of Hawking Evaporation -- Case of Integrable Model","11pages, TU/93/445","Mod.Phys.Lett.A9:1617-1626,1994","10.1142/S0217732394001453",,"hep-th",,"  Quantum back reaction due to $N$ massless fields may be worked out to a
+considerable detail in a variant of integrable dilaton gravity model in two
+dimensions. It is shown that there exists a critical mass of collapsing object
+of order $\hbar N \times$ (cosmological constant)$^{1/2}$, above which the end
+point of Hawking evaporation is two disconnected remnants of infinite extent,
+each separated by a mouth from the outside region. Deep inside the mouth there
+is a universal flux of radiation in all directions, in a form different from
+Hawking radiation. Below the critical mass no remnant is left behind, implying
+complete Hawking evaporation or even showing no sign of Hawking radiation.
+Existence of infinitely many static states of quantum nature is also
+demonstrated in this model.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 00:57:53 GMT""}]","2014-11-18"
+"hep-th/9309139","Oscar Diego","Oscar Diego and Jose Gonzalez","On the Nature of Nonperturbative Effects in Stabilized 2D Quantum
+  Gravity","20 pages in Latex and 4 figures in Postscript, IEM-FT-65/92","Mod.Phys.Lett. A9 (1994) 2253-2264","10.1142/S0217732394002112",,"hep-th",,"  We remark that the weak coupling regime of the stochastic stabilization of 2D
+quantum gravity has a unique perturbative vacuum, which does not support
+instanton configurations. By means of Monte Carlo simulations we show that the
+nonperturbative vacuum is also confined in one potential well. Nonperturbative
+effects can be assessed in the loop equation. This can be derived from the Ward
+identities of the stabilized model and is shown to be modified by
+nonperturbative terms.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 11:54:06 GMT""}]","2015-06-26"
+"hep-th/9309140","Cumrun Vafa","M. Bershadsky, S. Cecotti, H. Ooguri, C. Vafa","Kodaira-Spencer Theory of Gravity and Exact Results for Quantum String
+  Amplitudes","178 pages, 20 figures","Commun.Math.Phys.165:311-428,1994","10.1007/BF02099774",,"hep-th",,"  We develop techniques to compute higher loop string amplitudes for twisted
+$N=2$ theories with $\hat c=3$ (i.e. the critical case). An important
+ingredient is the discovery of an anomaly at every genus in decoupling of BRST
+trivial states, captured to all orders by a master anomaly equation. In a
+particular realization of the $N=2$ theories, the resulting string field theory
+is equivalent to a topological theory in six dimensions, the Kodaira--Spencer
+theory, which may be viewed as the closed string analog of the Chern--Simon
+theory. Using the mirror map this leads to computation of the `number' of
+holomorphic curves of higher genus curves in Calabi--Yau manifolds. It is shown
+that topological amplitudes can also be reinterpreted as computing corrections
+to superpotential terms appearing in the effective 4d theory resulting from
+compactification of standard 10d superstrings on the corresponding $N=2$
+theory. Relations with $c=1$ strings are also pointed out.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 14:43:23 GMT""}]","2009-09-17"
+"hep-th/9309151",,"M. Chaichian, R. Gonzalez Felipe and D. Louis Martinez","Anyon in External Electromagnetic Field: Hamiltonian and Lagrangian
+  Formulations","9 pages, Latex, HU-SEFT R 1993-11","Phys.Rev.Lett. 71 (1993) 3405-3408; Erratum-ibid. 73 (1994) 2009","10.1103/PhysRevLett.71.3405",,"hep-th",,"  We propose a simple model for a free relativistic particle of fractional spin
+in 2+1 dimensions which satisfies all the necessary conditions. The canonical
+quantization of the system leads to the description of one- particle states of
+the Poincare group with arbitrary spin. Using the Hamil- tonian formulation
+with the set of constraints, we introduce the electro- magnetic interaction of
+a charged anyon and obtain the Lagrangian. The Casimir operator of the extended
+algebra, which is the first-class constraint, is obtained and gives the
+equation of motion of the anyon. In particular, from the latter it follows that
+the gyromagnetic ratio for a charged anyon is two due to the parallelness of
+spin and momentum of the particle in 2+1 dimensions. The canonical quantization
+is also considered in this case.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 06:38:04 GMT""}]","2009-10-22"
+"hep-th/9309153","Takahiro Fukui","T. Fukui and N. Aizawa","Shape-invariant potentials and an associated coherent state","11 pages + 1 figure (not included),Plain Tex YITP/K-1019, RCNP-055",,"10.1016/0375-9601(93)91182-5",,"hep-th",,"  An algebraic treatment of shape-invariant potentials in supersymmetric
+quantum mechanics is discussed. By introducing an operator which reparametrizes
+wave functions, the shape-invariance condition can be related to a
+oscillator-like algebra. It makes possible to define a coherent state
+associated with the shape-invariant potentials. For a large class of such
+potentials, it is shown that the introduced coherent state has the property of
+resolution of unity.
+","[{""version"":""v1"",""created"":""Mon, 27 Sep 1993 08:51:13 GMT""}]","2009-10-22"

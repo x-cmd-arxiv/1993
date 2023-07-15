@@ -1,0 +1,176 @@
+"astro-ph/9311016",,"F. Scappini, G.G.C. Palumbo, G. Bruni and P. Bergman","Molecular Lines in Bok Globules and Around Herbig Ae/be Stars","16 pages plus 6 figures available in hardcopy from
+  ggcpalumbo@alma02.cineca.it LaTEX ver. 2.09, BAP 11-1993-036-DDA",,"10.1086/174137",,"astro-ph",,"  This paper is intended as part of a more extensive molecular line survey in
+star forming regions along the evolutionary track of a collapsing cloud toward
+a young stellar object. We have studied a sample of seven small dark clouds
+(Bok globules) and eight Herbig Ae/Be stars in the J=1->0 transition of
+HCO$^{+}$, H$^{13}$CO$^{+}$, HCN and H$^{13}$CN. The choice of these molecules
+is determined by the simple chemistry and the predicted high abundance of the
+reactants leading to their formation. The isotopically substituted species
+(isotopomers), H$^{13}$CO$^{+}$ and H$^{13}$CN, were observed in order to
+determine, whenever possible, the optical thickness of the main species. The
+most abundant isotopomers were found in almost all the sources (detection rate
+70-90\%). Those sources which exhibited the strongest signals were also
+searched for the $^{13}$C isotopomers. H$^{13}$CO$^{+}$ was found in one dark
+cloud and around three Herbig Ae/Be stars, while H$^{13}$CN around only one
+star. The column densities for each species and the physical conditions of the
+objects were derived whenever the observational data allowed it.
+","[{""version"":""v1"",""created"":""Fri, 5 Nov 1993 10:53:00 GMT""}]","2009-10-22"
+"astro-ph/9311017","Richard Battye","R.A.Battye and E.P.S.Shellard","Global String Radiation","42 pages. No figures or reference macro included a full copy of the
+  paper is available from the authors. DAMTP R93/30","Nucl.Phys. B423 (1994) 260-304","10.1016/0550-3213(94)90573-8",,"astro-ph cond-mat hep-ph hep-th",,"  We study Goldstone boson (or axion) radiation from global $U(1)$-strings
+making direct quantitative comparisons between numerical scalar field theory
+simulations and linearized analytic calculations in the dual antisymmetric
+tensor representation. Concentrating on periodic long string configurations, we
+show excellent correspondence for both the amplitude and spectrum of radiation.
+We also find good agreement with a linearized analytic model for radiation
+backreaction, demonstrating that damping due to the lowest n=2 harmonic is
+effective in strongly suppressing higher harmonics. This work establishes the
+validity of the Kalb-Ramond action in describing low-energy global string
+dynamics, along with the associated self-field renormalization of the equations
+of motion. We also describe the different nature of massive radiation from high
+curvature regions and the collapse and annihilation of a circular loop. As an
+application in axion models, we discuss the relative loop and long string
+radiation contribution to a cosmological bound on the axion mass. A parallel
+linearized formalism for gravitational radiation is also provided.
+","[{""version"":""v1"",""created"":""Fri, 5 Nov 1993 12:08:13 GMT""}]","2009-10-22"
+"cond-mat/9311012",,"D. Dominici and U. Marini Bettolo Marconi","Effective Action Method for Computing Next to Leading Corrections of
+  $O(N)$ Models","p. 8, LATEX, DFF 193/9/1993",,"10.1016/0370-2693(93)90798-M",,"cond-mat hep-th",,"  We compute the corrections of next to leading order in the ${1 \over N}$
+expansion to the effective potential of a system described by a Ginzburg-Landau
+model with $N$ components and quartic interaction, in the case of spontaneous
+symmetry breaking. The method we apply allows to generalize in a simple way the
+so-called Self-Consistent Screened Approximation (SCSA).
+","[{""version"":""v1"",""created"":""Fri, 5 Nov 1993 09:08:00 GMT""}]","2009-10-22"
+"gr-qc/9311007",,"S.Carlip and J.E.Nelson","Equivalent Quantisations of (2+1)-Dimensional Gravity","7 pages, Plain Tex, DFTT 67/93, UCD-93-33","Phys.Lett.B324:299-302,1994","10.1016/0370-2693(94)90197-X",,"gr-qc hep-th",,"  For spacetimes with the topology $\IR\!\times\!T^2$, the action of
+(2+1)-dimensional gravity with negative cosmological constant $\La$ is written
+uniquely in terms of the time-independent traces of holonomies around two
+intersecting noncontractible paths on $T^2$. The holonomy parameters are
+related to the moduli on slices of constant mean curvature by a time-dependent
+canonical transformation which introduces an effective Hamiltonian. The
+quantisation of the two classically equivalent formulations differs by terms of
+order $O(\hbar^3)$, negligible for small $|\La|$.
+","[{""version"":""v1"",""created"":""Fri, 5 Nov 1993 08:39:42 GMT""}]","2010-04-28"
+"hep-lat/9311009","Gunnar Bali","Gunnar S. Bali","The Running Coupling From Lattice QCD","Wuppertal preprint WUB 93-37, 22 pages + 8 figures, LaTeX with
+  epsf-postscript figures (ca. 350 MB)",,,,"hep-lat",,"  A recent lattice calculation of the QCD running coupling is presented. The
+coupling is extracted from the force between two static quarks in the framework
+of the valence quark approximation. A value of the Lambda-parameter for zero
+quark flavours is determined: Lambda_msbar=0.630(38)\sqrt{\sigma}
+=293(18)^{+25}_{-63} MeV. The first error is statistical, the second stems from
+the overall scale uncertainty in the string tension sigma. Combining this value
+with results from full QCD lattice simulations, we end up with the estimate
+$\Lambda^{(4)}_{\overline{MS}}=129(8)^{+43}_{-60}$~MeV or
+$\alpha_{\overline{MS}}(m_Z)=0.102^{+06}_{-11}$.
+","[{""version"":""v1"",""created"":""Fri, 5 Nov 1993 13:00:09 GMT""}]","2009-09-25"
+"hep-ph/9311225","Q. Shafi","B. Ananthanarayan and Q. Shafi","Zeroing In On the Top Quark, LSP and Scalar Higgs Masses","14 pages in plain LaTeX, BA-93-25, PRL-TH-93/6","Phys.Rev.D50:5980-5984,1994","10.1103/PhysRevD.50.5980",,"hep-ph",,"  We estimate the top quark, lightest sparticle (LSP) and scalar higgs masses
+within a supersymmetric grand unified framework in which $\tan\beta \simeq
+m_t/m_b$ and the electroweak symmetry is radiatively broken. The requirement
+that the calculated $b$ quark mass lie close to its measured value, together
+with the cosmological constraint $\Omega_{LSP} \approx 1$, fixes the top quark
+mass to be $m_t(m_t) \approx 170 \pm 15\ GeV$. The LSP (of bino purity
+$\stackrel{_>}{_\sim} 98\%)$ has mass $\sim 200 - 350\ GeV$. In the scalar
+higgs sector the CP-odd scalar mass $m_A \stackrel{_<}{_\sim} 220\ GeV$. With
+$m_A \stackrel{_>}{_\sim} M_Z$, as suggested by the decay $b \rightarrow
+s\gamma$, we find $M_Z \stackrel{_<}{_\sim} m_{h^0} (m_{H^0})
+\stackrel{_<}{_\sim} 140 (220)\ GeV$ and $120\ GeV \stackrel{_<}{_\sim}
+m_{H^\pm} \stackrel{_<}{_\sim} 240\ GeV$.
+","[{""version"":""v1"",""created"":""Thu, 4 Nov 1993 19:57:52 GMT""}]","2011-05-12"
+"hep-ph/9311226",,"C.-P. Yuan, L. Nodulman, H. Baer, V. Barger, D.O. Carlson, Chih-Hao
+  Chen, J.L. Diaz-Cruz, W.S. Hou, G.L. Kane, C. Kao, G.A. Ladinsky, C.S. Li, A.
+  Pomarol, M.H. Reno, C. Schmidt","Report of the Subgroup on the Top Quark","11 pages, LaTeX",,,"MSUHEP-93/25","hep-ph",,"  The top group studied discovery issues as well as measurements to be made at
+the Tevatron, the LHC and the SSC.
+","[{""version"":""v1"",""created"":""Thu, 4 Nov 1993 21:37:26 GMT""}]","2007-05-23"
+"hep-ph/9311227",,"Carl H. Albright and Satyanarayan Nandi","New Approach for the Construction of Fermion Mass Matrices in SO(10)
+  SUSY GUTS","12 pages, LATEX, FERMILAB-PUB-93/316-T and OSU Preprint 282","Phys.Rev.Lett.73:930-933,1994","10.1103/PhysRevLett.73.930",,"hep-ph",,"  A new procedure is developed which enables one to start from the quark and
+lepton mass and mixing data at the low scale and construct mass matrices which
+exhibit simple SO(10) structure at the SUSY GUT scale. This approach is applied
+to the present data involving quark and charged lepton masses, the CKM mixing
+matrix and the MSW solar neutrino and atmospheric neutrino depletion effects.
+In terms of just 12 model parameters suggested by the procedure for the 5 mass
+matrices, we can reproduce 15 masses and 8 mixing parameters remarkably
+consistent with the input starting values.
+","[{""version"":""v1"",""created"":""Thu, 4 Nov 1993 22:33:19 GMT""}]","2010-11-01"
+"hep-ph/9311228",,"Marco Aurelio Diaz","The b -> s gamma decay in supergravity with radiatively electroweak
+  breaking","10 pages (plain tex), figures not included, VAND-TH-93-13","Phys.Lett. B322 (1994) 207-212","10.1016/0370-2693(94)91108-8",,"hep-ph",,"  It is analyzed the branching ratio $B(b\rightarrow s\gamma)$ in the context
+of minimal $N=1$ supergravity with radiatively broken electroweak symmetry
+group. There is a strong dependence on supersymetric parameters, but
+constraints on the charged Higgs mass in non-supersymmetric models are relaxed,
+due to large contribution from the chargino/up-type squark sector that
+interacts destructively with the Standard Model and the charged Higgs
+contributions. Large suppressions/enhancements of the branching fraction are
+found for large values of $\tan\beta$.
+","[{""version"":""v1"",""created"":""Fri, 5 Nov 1993 00:37:24 GMT""}]","2009-10-22"
+"hep-ph/9311229","Sergei Khlebnikov","S. Yu. Khlebnikov","Effective action of magnetic monopole in three-dimensional
+  electrodynamics with massless matter and gauge theories of superconductivity","8 pages, LATEX, UCLA/93/TEP/41 (the last sentence of the paragraph
+  concerning applications at the end of the paper has been deleted; mailing
+  problems have been corrected)",,"10.1103/PhysRevB.50.6954",,"hep-ph",,"  We compute one-loop effective action of magnetic monopole in
+three-dimensional electrodynamics of massless bosons and fermions and find that
+it contains an infrared logarithm. So, when the number of massless matter
+species is sufficiently large, monopoles are suppressed and in the weak
+coupling limit charged particles are unconfined. This result provides some
+support to gauge theories of high-temperature superconductors. It also provides
+a mechanism by which interlayer tunneling of excitations with one unit of the
+ordinary electric charge can be suppressed while that of a doubly charged
+object is allowed.
+","[{""version"":""v1"",""created"":""Fri, 5 Nov 1993 01:22:00 GMT""},{""version"":""v2"",""created"":""Fri, 5 Nov 1993 18:54:00 GMT""}]","2009-10-22"
+"hep-ph/9311230","Razumov Leonid","M. Pl\""umer, L.V. Razumov, R.M. Weiner","Bounds for Bose-Einstein Correlation Functions","7 pages, LaTeX, DMR-THEP-93-5/W","Phys.Rev. D49 (1994) 4434-4437","10.1103/PhysRevD.49.4434",,"hep-ph nucl-th",,"  Bounds for the correlation functions of identical bosons are discussed for
+the general case of a Gaussian density matrix. In particular, for a purely
+chaotic system the two-particle correlation function must always be greater
+than one. On the other hand, in the presence of a coherent component the
+correlation function may take values below unity. The experimental situation is
+briefly discussed.
+","[{""version"":""v1"",""created"":""Fri, 5 Nov 1993 10:32:02 GMT""}]","2009-10-22"
+"hep-ph/9311231",,"F. De Campos and Jos\'E W. F. Valle","Implications of a Light Gluino","talk given at the XVI Kazimierz Meeting on Elementary Particle
+  Physics, Kazimierz (Poland) 24-28 May 1993, 4 pages in LATEX + 2 figures (not
+  included but available upon request), FTUV/93-9 IFIC/93-5",,,,"hep-ph",,"  We show that the possibility of having light gluinos is not in conflict with
+recent LEP measurements and also that cosmology does not rule it out in any
+convincing way. In unified N=1 supergravity models, one expects that also the
+""photino"" will be light. Moreover it leads to $upper$ limits on the masses of
+the other supersymmetric fermions, for example, the lightest chargino should be
+lighter than about 75 GeV, an thus detectable at LEP200.
+","[{""version"":""v1"",""created"":""Fri, 5 Nov 1993 12:20:00 GMT""}]","2009-09-25"
+"hep-ph/9311232",,"Matthias Neubert","A Virial Theorem for the Kinetic Energy of a Heavy Quark inside Hadrons","10 pages LaTeX, CERN-TH.7070/93","Phys.Lett. B322 (1994) 419-424","10.1016/0370-2693(94)91174-6",,"hep-ph",,"  The formalism of the heavy quark effective theory is used to derive the
+field-theory analog of the virial theorem, which relates the matrix element of
+the kinetic energy of a heavy quark inside a hadron to a matrix element of the
+gluon field strength tensor. The existing QCD sum rule calculations of the
+kinetic energy are not consistent with this theorem.
+","[{""version"":""v1"",""created"":""Fri, 5 Nov 1993 13:57:09 GMT""}]","2009-10-22"
+"hep-th/9311028","Leonid Keldish","O.V.Dodlov, S.E.Konstein, and M.A.Vasiliev","Matrix Versions of the Calogero Model","7 pages, FIAN/TD/17--93",,,,"hep-th",,"  Matrix generalizations of the N-particle quantum-mechanical Calogero model
+classifying according to representations of the symmetric group $S_N$ are
+considered. Symmetry properties of the eigen-wave functions in the matrix
+Calogero models are analyzed. Latex.
+","[{""version"":""v1"",""created"":""Thu, 4 Nov 1993 21:49:00 GMT""}]","2007-05-23"
+"hep-th/9311034",,"Denise E. Freed","Symmetries of the Dissipative Hofstadter Model","5 pages, one figure included. Talk presented at the Strings '93
+  conference in Berkeley, May 1993, CTP\#2251",,,,"hep-th",,"  The dissipative Hofstadter model, which describes a particle in 2-D subject
+to a periodic potential, uniform magnetic field, and dissipation, is also
+related to open string boundary states. This model exhibits an SL(2,Z) duality
+symmetry and hidden reparametrization invariance symmetries. These symmetries
+are useful for finding exact solutions for correlation functions.
+","[{""version"":""v1"",""created"":""Thu, 4 Nov 1993 22:19:08 GMT""}]","2007-05-23"
+"hep-th/9311035","Mikhail Saveliev","Mikhail V. Saveliev","On an Equation Associated with the Contact Lie Algebras","4 pages, no figure; LPTENS--93/43",,,,"hep-th",,"  On an equation associated with the contact Lie algebras/ Mikhail V. Saveliev/
+In the framework of a Lie algebraic approach we study a nonlinear equation
+associated with the contact Lie algebra ${\bf K}K_m$, that seems to be relavant
+for some solvable models of field theory and gravity in higher dimensions.
+LPTENS--93/43.
+","[{""version"":""v1"",""created"":""Fri, 5 Nov 1993 10:19:52 GMT""}]","2007-05-23"
+"hep-th/9311036","Martin Schlichenmaier","Martin Schlichenmaier","Differential Operator Algebras on compact Riemann Surfaces","11 pages, AmsTeX 2.1 and psbox macros",,,"Mannheimer Manuskripte 164","hep-th alg-geom math.QA",,"  Invited talk at the International Symposium on Generalized Symmetries in
+Physics at the Arnold-Sommerfeld-Institute, Clausthal, Germany, July 26 -- July
+29, 1993. This talk reviews results on the structure of algebras consisting of
+meromorphic differential operators which are holomorphic outside a finite set
+of points on compact Riemann surfaces. For each partition into two disjoint
+subsets of the set of points where poles are allowed, a grading of the algebra
+and of the modules of lambda - forms is introduced. With respect to this
+grading the Lie structure of the algebra and of the modules are almost graded
+ones. Central extensions and semi-infinite wedge representations are studied.
+If one considers only differential operators of degree 1 then these algebras
+are generalizations of the Virasoro algebra in genus zero, resp. of Krichever
+Novikov algebras in higher genus.
+","[{""version"":""v1"",""created"":""Fri, 5 Nov 1993 11:08:01 GMT""}]","2009-09-25"
+"patt-sol/9311001","Shin-ichi Sasa","Shin-ichi Sasa (Department of physics, Kyoto University, Japan), and
+  Ken Sekimoto (Department of applied physics, Nagoya University, Nagoya,
+  Japan)","Oscillatory instability of crack propagations in quasi-static fracture","11 pages, (Revtex), 2 figures (postscript)",,"10.1103/PhysRevE.50.R1733",,"patt-sol nlin.PS",,"  Crack propagations in quasi-static fracture are studied theoretically. The
+Griffith theory is applied to discuss a crack extension condition and motion of
+crack tips in straight propagations. Stability of the straight propagations is
+investigated based on the simple assumption that a curvature near the crack tip
+is determined by a singular shear stress. It is shown that straight
+propagations become unstable under ceatain conditions. Combined with boundary
+effects, this instability leads to an oscillatory propagation of cracks. The
+critical conditions are calculated quantitatively.
+","[{""version"":""v1"",""created"":""Fri, 5 Nov 1993 08:28:48 GMT""}]","2009-10-22"

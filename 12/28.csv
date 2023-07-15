@@ -1,0 +1,86 @@
+"cond-mat/9312094","Alexander V. Balatsky","A.V. Balatsky, E. Abrahams, D.J. Scalapino and J.R. Schrieffer","Erratum: Properties of Odd Gap Superconductors","3 pages, revtex, Los Alamos Preprint",,,,"cond-mat",,"  Erratum to cond-mat 9309014
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1993 18:37:48 GMT""}]","2007-05-23"
+"hep-lat/9312084","Stefan Boettcher","S. Aoki, S. Boettcher and A. Gocksch","Spontaneous Breaking of Flavor Symmetry and Parity in the
+  Nambu-Jona-Lasinio Model with Wilson Fermions","7 pages, 4 figures, LATEX, tared and uuencoded","Phys.Lett. B331 (1994) 157-164","10.1016/0370-2693(94)90957-1",,"hep-lat",,"  We study the lattice \njl~model with two flavors of Wilson fermions in the
+large $N$ limit, where $N$ is the number of `colors'. For large values of the
+four-fermion coupling we find a phase in which both, flavor symmetry and
+parity, are spontaneously broken. In accordance with general expectations there
+are three massless pions on the phase boundary, but only two of them remain
+massless inside the broken phase. This is analogous to earlier results obtained
+in lattice QCD, indicating that this behavior is a very general feature of the
+Wilson term.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1993 16:22:53 GMT""}]","2009-10-22"
+"hep-ph/9312342","Shin'ichi Nojiri","M. Marui","Radiative Corrections in the Presence of Majorana Neutrinos","OCHA-PP-35, Latex file, pp11",,,,"hep-ph",,"  We have studied the radiative corrections from the fourth generation leptons
+in the context of the see-saw mechanism. We have estimated numerically the
+differential cross section for the process (${\rm e}^{+}{\rm e}^{-}\!
+\rightarrow {\rm W}^{+}{\rm W}^{-}$) at one-loop level, and found in the cross
+section the threshold behaviors for Majorana neutrino productions.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1993 20:16:00 GMT""}]","2007-05-23"
+"hep-ph/9312344","Dr. Dubravko Klabucar","D. Klabu\v{c}ar","Instantons And Baryon Mass Splittings in the MIT Bag Model","23 pages, report ZTF-93/10 (to appear in Phys.Rev. D)","Phys.Rev. D49 (1994) 1506-1512","10.1103/PhysRevD.49.1506",,"hep-ph",,"  The contribution of instanton-induced effective inter-quark interactions to
+the baryon mass splittings was considered in the bag model. It is found that
+results are different from those obtained in the constituent quark model where
+the instanton effects are like those from one-gluon exchange. This is because
+in the context of the bag model calculation the one-body instanton-induced
+interaction has to be included.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1993 17:17:20 GMT""}]","2009-10-22"
+"hep-ph/9312345",,"Xinmin Zhang and Bing-Lin Young","Electroweak Sphaleron in Large Higgs Boson Mass Limit","Iowa State University Preprint, IS-J 5268, December 1993, 10 Pages,
+  (TeX file)",,,,"hep-ph",,"  Since the TRIVIALITY argument of the Higgs sector requires the existence of
+new physics beyond the standard model, there should exist a cutoff $\Lambda$
+beyond which the standard model will breakdown. The cutoff can be determined
+from the position of the Landau pole. We study the effects of this cutoff on
+the energy of the electroweak sphaleron, $E^{spha}$, in the large Higgs boson
+mass limit. We found that $E^{spha}$ becomes arbitrarily large as the Higgs
+boson mass increases. This is in contrast to the well-known result, which is
+held in the standard model and a wide class of its extensions, that $E^{spha}$
+is stable against the variation of the {\it bare} Higgs boson mass. The
+physical meaning of this result is discussed.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1993 20:26:57 GMT""}]","2007-05-23"
+"hep-ph/9312347","D. P. Roy","Debajyoti Choudhury and D.P. Roy","Signatures of an invisibly decaying Higgs particles at LHC","(e-mail: dproy@theory.tifr.res.in) LaTex; No. of pages 12, no. of
+  figures 3 (available on request)","Phys.Lett.B322:368-373,1994","10.1016/0370-2693(94)91167-3",,"hep-ph",,"  The Higgs particle can decay dominantly into an invisible channel in the
+Majoron models. We have explored the prospect of detecting such a Higgs
+particle at LHC via its associated production with a gluon, Z or W boson. While
+the signal/background ratio is too small for the first process, the latter two
+provide viable signatures for detecting such a Higgs particle.
+","[{""version"":""v1"",""created"":""Tue, 28 Dec 1993 15:11:11 GMT""}]","2009-09-25"
+"hep-th/9312195","B. Basu-mallick","B. Basu-Mallick","Solutions of quantum Yang-Baxter equation related to $U_q (gl(2))$
+  algebra and associated integrable lattice models","17 pages",,,"imsc-93/52","hep-th math.QA",,"  A coloured braid group representation (CBGR) is constructed with the help of
+some modified universal ${\cal R}$-matrix, associated to $U_q(gl(2))$ quantised
+algebra. Explicit realisation of Faddeev-Reshetikhin-Takhtajan (FRT) algebra is
+built up for this CBGR and new solutions of quantum Yang-Baxter equation are
+subsequently found through Yang-Baxterisation of FRT algebra. These solutions
+are interestingly related to nonadditive type quantum $R$-matrix and have a
+nontrivial $q\rightarrow 1$ limit. Lax operators of several concrete integrable
+models, which may be considered as some `coloured' extensions of lattice
+nonlinear Schr${\ddot {\rm o}}$dinger model and Toda chain, are finally
+obtained by taking different reductions of such solutions.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1993 17:25:31 GMT""}]","2008-02-03"
+"hep-th/9312196","Martin Markl","Martin Markl and Steve Shnider","Drinfel'd algebra deformations and the associahedra","6 pages",,,,"hep-th math.QA",,"  We construct a cohomology theory controlling the deformations of a general
+Drinfel'd algebra. The picture presented here has two sides -- the
+combinatorial one related with the fact of the existence of a graded Lie
+algebra structure on the simplicial cochain complex of the associahedra, and
+the algebraic one related with the algebra of derivations on the bar
+construction.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1993 18:32:17 GMT""}]","2008-02-03"
+"hep-th/9312198",,"Hitoshi Nishino","Two-Dimensional Dilaton Gravity Black Hole Solution for $N=2$
+  Superstring Theory","12 pages, LATEX (with macros included), UMDEPP 93-212","Phys.Lett. B324 (1994) 315-321","10.1016/0370-2693(94)90200-3",,"hep-th",,"  We show that $N=8$ {\it self-dual} supergravity theory, which is the
+consistent background for $N=2$ closed superstring theory in $2+2\-$dimensions,
+can accommodate the recently discovered two-dimensional dilaton gravity black
+hole solution, {\it via} appropriate dimensional reductions and truncations.
+Interestingly, the usual dilaton field in this set of solutions emerges from
+the scalar field in the ${\bf 70}\-$dimensional representation of an intrinsic
+global $SO(8)$ group. We also give a set of exact solutions, which can be
+interpreted as the dilaton field on Eguchi-Hanson gravitational instanton
+background, realized in an $N=1$ self-dual supergravity theory. This suggests
+that the $N=2$ superstring has a close (even closer) relationship with the
+two-dimensional black hole solution, which was originally developed in the
+context of bosonic string and $N=1$ superstring. Our result also provides
+supporting evidence for the conjecture that the $N=2$ superstring theory is the
+``master theory'' of supersymmetric integrable systems in lower-dimensions.
+","[{""version"":""v1"",""created"":""Tue, 28 Dec 1993 01:42:37 GMT""}]","2009-10-22"
+"hep-th/9312199","Shigemot","Changrim Ahn, Minoru Horibe and Kazuyasu Shigemoto","Relation between Yang-Baxter and Pair Propagation Equations in 16-Vertex
+  Models","11 pages, TEZU-F-059 and EWHA-TH-002",,"10.1142/S0217984994001655",,"hep-th cond-mat",,"  We study a relation between two integrability conditions, namely the
+Yang-Baxter and the pair propagation equations, in 2D lattice models. While the
+two are equivalent in the 8-vertex models, discrepancies appear in the
+16-vertex models. As explicit examples, we find the exactly solvable 16-vertex
+models which do not satisfy the Yang-Baxter equations.
+","[{""version"":""v1"",""created"":""Tue, 28 Dec 1993 08:07:48 GMT""},{""version"":""v2"",""created"":""Fri, 30 Sep 1994 04:42:35 GMT""},{""version"":""v3"",""created"":""Fri, 30 Sep 1994 15:17:17 GMT""}]","2009-10-22"

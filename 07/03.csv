@@ -1,0 +1,163 @@
+"cond-mat/9307004",,"Ravi Bhagavatula and C. Jayaprakash","Non-Gaussian Distributions in Extended Dynamical Systems","12 pages and 6 figs obtainable from the authors, LaTex file,
+  OSU-preprint-2",,"10.1103/PhysRevLett.71.3657",,"cond-mat",,"  We propose a novel mechanism for the origin of non-Gaussian tails in the
+probability distribution functions (PDFs) of local variables in nonlinear,
+diffusive, dynamical systems including passive scalars advected by chaotic
+velocity fields. Intermittent fluctuations on appropriate time scales in the
+amplitude of the (chaotic) noise can lead to exponential tails. We provide
+numerical evidence for such behavior in deterministic, discrete-time passive
+scalar models. Different possibilities for PDFs are also outlined.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 21:26:00 GMT""},{""version"":""v2"",""created"":""Fri, 2 Jul 1993 21:53:00 GMT""}]","2009-10-22"
+"cond-mat/9307005",,"A.H.Castro Neto and Eduardo Fradkin","Bosonization of Fermi liquids","42 pages, RevteX, preprint UIUC (1993)",,"10.1103/PhysRevB.49.10877",,"cond-mat hep-th nucl-th",,"  We bosonize a Fermi liquid in any number of dimensions in the limit of long
+wavelengths. From the bosons we construct a set of coherent states which are
+related with the displacement of the Fermi surface due to particle-hole
+excitations. We show that an interacting hamiltonian in terms of the original
+fermions is quadratic in the bosons. We obtain a path integral representation
+for the generating functional which in real time, in the semiclassical limit,
+gives the Landau equation for sound waves and in the imaginary time gives us
+the correct form of the specific heat for a Fermi liquid even with the
+corrections due to the interactions between the fermions. We also discuss the
+similarities between our results and the physics of quantum crystals.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 21:44:03 GMT""}]","2009-10-22"
+"hep-lat/9307001",,"C. Bernard, C. Parrinello and A. Soni","A Lattice Study of the Gluon Propagator in Momentum Space","19 pages + 12 uuencoded PostScript pictures","Phys.Rev. D49 (1994) 1585-1593","10.1103/PhysRevD.49.1585",,"hep-lat",,"  We consider pure glue QCD at beta=5.7, beta=6.0 and beta=6.3. We evaluate the
+gluon propagator both in time at zero 3-momentum and in momentum space. From
+the former quantity we obtain evidence for a dynamically generated effective
+mass, which at beta=6.0 and beta=6.3 increases with the time separation of the
+sources, in agreement with earlier results. The momentum space propagator G(k)
+provides further evidence for mass generation. In particular, at beta=6.0, for
+k less than 1 GeV, the propagator G(k) can be fit to a continuum formula
+proposed by Gribov and others, which contains a mass scale b, presumably
+related to the hadronization mass scale. For higher momenta Gribov's model no
+longer provides a good fit, as G(k) tends rather to follow an inverse power
+law. The results at beta=6.3 are consistent with those at beta=6.0, but only
+the high momentum region is accessible on this lattice. We find b in the range
+of three to four hundred MeV and the exponent of the inverse power law about
+2.7. On the other hand, at beta=5.7 (where we can only study momenta up to 1
+GeV) G(k) is best fit to a simple massive boson propagator with mass m. We
+argue that such a discrepancy may be related to a lack of scaling for low
+momenta at beta=5.7. {}From our results, the study of correlation functions in
+momentum space looks promising, especially because the data points in Fourier
+space turn out to be much less correlated than in real space.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 20:08:42 GMT""}]","2009-10-22"
+"hep-ph/9307211","My Account","J. Lopez, D. Nanopoulos, and A. Zichichi","The SuperWorlds of SU(5) and SU(5)xU(1): A Critical Assessment and
+  Overview","CERN-TH.6934/93, CTP-TAMU-34/93, LaTeX, 58 pages, 20 embedded
+  figures. Complete ps file (~12000 blocks, 5.24MB) available via anonymous ftp
+  from site tamsun.tamu.edu in directory incoming, filename: CTP-TAMU-34-93.ps",,,,"hep-ph",,"  We present an overview of the simplest supergravity models which enforce
+radiative breaking of the electroweak symmetry, namely the minimal $SU(5)$
+supergravity model and the class of string-inspired/derived supergravity models
+based on the flipped $SU(5)\times U(1)$ structure supplemented by a minimal set
+of additional matter representations such that unification occurs at the string
+scale ($\sim10^{18}\GeV$). These models can be fully parametrized in terms of
+the top-quark mass, the ratio $\tan\beta=v_2/v_1$, and three supersymmetry
+breaking parameters ($m_{1/2},m_0,A$). The latter are chosen in the minimal
+$SU(5)$ model such that the stringent constraints from proton decay and
+cosmology are satisfied. In the flipped $SU(5)$ case we consider two
+string-inspired supersymmetry breaking scenaria: $SU(N,1)$ no-scale
+supergravity and a dilaton-induced supersymmetry breaking scenario. Both imply
+universal soft supersymmetry breaking parameters: $m_0=A=0$ and
+$m_0=\coeff{1}{\sqrt{3}}m_{1/2}, A=-m_{1/2}$ respectively. We present a
+comparative study of the sparticle and Higgs spectra of both flipped $SU(5)$
+models and the minimal $SU(5)$ model and conclude that all can be partially
+probed at the Tevatron and LEPII (and the flipped models at HERA too). In both
+flipped $SU(5)$ cases there is a more constrained version which allows to
+determine $\tan\beta$ in terms of $m_t,m_{\tilde g}$ and which leads to much
+sharper and readily accessible experimental predictions. We also discuss the
+prospects for indirect experimental detection: a non-trivial fraction of the
+parameter space of the flipped $SU(5)$ models is in conflict with the present
+experimental allowed range for the $b\to s\gamma$ rare decay mode, and the
+one-loop electroweak radiative corrections imply the 90\% CL upper bound
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 20:00:38 GMT""}]","2007-05-23"
+"hep-ph/9307212","Reina Laura","L. Reina and M. Tytgat","Spontaneous Baryogenesis with Observable CP Violation","16 pages, Harvmac, 1 figure appended (use psbox.tex), ULB-TH 08/93","Phys.Rev.D50:751-757,1994","10.1103/PhysRevD.50.751",,"hep-ph",,"  Using a left-right symmetric model with Spontaneous CP Violation and the
+hypothesis of a weakly first order electroweak phase transition we derive a
+relation between the produced baryon asymmetry and the observed parameter
+$\varepsilon$, describing CP violation in the $K$ system.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1993 01:17:05 GMT""}]","2010-11-01"
+"hep-ph/9307214",,"R. G. Leigh","The Strong CP Problem, String Theory and the Nelson-Barr Mechanism","preprint SCIPP 93/14; 10 pages, latex format, uses epsf.tex for 2
+  figures, submitted separately via `uufiles'",,,,"hep-ph",,"  We review recent work on the strong CP problem in the context of realistic
+string-inspired models. We discuss the various solutions, review the conjecture
+that CP is generally a gauged discrete symmetry in string theory and then
+consider models of the Nelson-Barr type. We note that squark non-degeneracy
+spoils the Nelson-Barr structure at the one loop level. We stress that string
+theory expectations, as well as naturalness arguments, make it very difficult
+to avoid the constraints on non-degeneracy.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 21:15:00 GMT""}]","2007-05-23"
+"hep-ph/9307215",,"R.D. Peccei","CP and CPT Violation: Status and Prospects","Latex, Tex errors corrected, (figures available by request)
+  UCLA/93/TEP/19",,,,"hep-ph",,"  I review the status of CP violating phenomena and CPT tests in the neutral
+Kaon system. Comparisons of present data with the expectations of the Cabibbo
+Kobayashi Maskawa model are presented, with particular emphasis being focused
+on the role of the theoretical uncertainties in this comparison. In addition,
+novel tests of CPT at DAFNE and Fermilab are briefly discussed.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 23:03:00 GMT""},{""version"":""v2"",""created"":""Fri, 9 Jul 1993 00:10:00 GMT""}]","2008-02-03"
+"hep-ph/9307216",,"Matthias Neubert","Heavy Hadron Weak Decay Form Factors to Next-to-Leading Order in 1/m","17 pages LaTeX, SLAC-PUB-6258","Nucl.Phys. B416 (1994) 786-800","10.1016/0550-3213(94)90555-X",,"hep-ph",,"  Based on the short-distance expansion of currents in the heavy quark
+effective theory, we derive the exact expressions for the heavy-to-heavy meson
+and baryon weak decay form factors to order $1/m_Q$ in the heavy quark
+expansion, and to all orders in perturbation theory. We emphasize that the
+Wilson coefficients in this expansion depend on a kinematic variable $\bar w$
+that is different from the velocity transfer $w=v\cdot v'$ of the hadrons. Our
+results generalize existing ones obtained in the leading-logarithmic
+approximation. Some phenomenological applications are briefly discussed.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1993 01:10:00 GMT""}]","2009-10-22"
+"hep-th/9307007","Yao-Zhong Zhang","Yao-Zhong Zhang and Mark D. Gould","Quantum Affine Algebras and Universal $R$-Matrix with Spectral Parameter","10 pages","Lett.Math.Phys.31:101-110,1994","10.1007/BF00750144","UQMATH-93-05","hep-th math.QA",,"  Using the previous obtained universal $R$-matrix for the quantized nontwisted
+affine Lie algebras $U_q(A_1^{(1)})$ and $U_q(A_2^{(1)})$, we determine the
+explicitly spectral-dependent universal $R$-matrix for the corresponding
+quantum Lie algebras $U_q(A_1)$ and $U_q(A_2)$. As their applications, we
+reproduce the well-known results in the fundamental representations and we also
+derive an extreamly explicit formula of the spectral-dependent $R$-matrix for
+the adjoint representation of $U_q(A_2)$, the simplest non-trival case when the
+tensor product decomposition of the representation with itself has finite
+multiplicity.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 17:48:33 GMT""},{""version"":""v2"",""created"":""Wed, 14 Jul 1993 19:10:19 GMT""},{""version"":""v3"",""created"":""Wed, 15 Dec 1993 22:26:20 GMT""}]","2011-07-19"
+"hep-th/9307008","Yao-Zhong Zhang","Yao-Zhong Zhang and Mark D. Gould","Quantum affine algebras and universal R-matrix with spectral parameter,
+  II","22 pages","Bull. Austral. Math. Soc. 51 (1995) 177",,"UQMATH-93-06","hep-th math.QA",,"  This paper is an extended version of our previous short letter \cite{ZG2} and
+is attempted to give a detailed account for the results presented in that
+paper. Let $U_q({\cal G}^{(1)})$ be the quantized nontwisted affine Lie algebra
+and $U_q({\cal G})$ be the corresponding quantum simple Lie algebra. Using the
+previous obtained universal $R$-matrix for $U_q(A_1^{(1)})$ and
+$U_q(A_2^{(1)})$, we determine the explicitly spectral-dependent universal
+$R$-matrix for $U_q(A_1)$ and $U_q(A_2)$. We apply these spectral-dependent
+universal $R$-matrix to some concrete representations. We then reproduce the
+well-known results for the fundamental representations and we are also able to
+derive for the first time the extreamly explicit and compact formula of the
+spectral-dependent $R$-matrix for the adjoint representation of $U_q(A_2)$, the
+simplest nontrival case when the tensor product of the representations is {\em
+not} multiplicity-free.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 17:49:31 GMT""},{""version"":""v2"",""created"":""Wed, 14 Jul 1993 19:14:36 GMT""}]","2008-02-03"
+"hep-th/9307022",,"Paul McCloud","Jet Bundles in Quantum Field Theory: The BRST-BV method","26 pages","Class.Quant.Grav.11:567-588,1994","10.1088/0264-9381/11/3/011",,"hep-th",,"  The geometric interpretation of the Batalin-Vilkovisky antibracket as the
+Schouten bracket of functional multivectors is examined in detail. The
+identification is achieved by the process of repeated contraction of even
+functional multivectors with fermionic functional 1-forms. The classical master
+equation may then be considered as a generalisation of the Jacobi identity for
+Poisson brackets, and the cohomology of a nilpotent even functional multivector
+is identified with the BRST cohomology. As an example, the BRST-BV formulation
+of gauge fixing in theories with gauge symmetries is reformulated in the jet
+bundle formalism. (Hopefully this version will be TeXable)
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 19:21:00 GMT""},{""version"":""v2"",""created"":""Sat, 3 Jul 1993 03:05:00 GMT""},{""version"":""v3"",""created"":""Wed, 7 Jul 1993 23:03:00 GMT""},{""version"":""v4"",""created"":""Mon, 19 Jul 1993 00:39:02 GMT""}]","2010-04-06"
+"hep-th/9307023","Brian Dolan","Brian P. Dolan","Potential Flow Of The Renormalisation Group In A Simple Two Component
+  Model","7 pages Typset in PlainTeX, C Version 3.141","Mod. Phys. Lett. A8 (1993) 3103-3110","10.1142/S0217732393002051","ITP-UH-04/93 93-041","hep-th",,"  The renormalisation group (RG) flow on the space of couplings of a simple
+model with two couplings is examined. The model considered is that of a single
+component scalar field with $\phi^4$ self interaction coupled, via Yukawa
+coupling, to a fermion in flat four dimensional space. The RG flow on the two
+dimensional space of couplings, ${\cal G}$, is shown to be derivable from a
+potential to sixth order in the couplings, which requires two loop calculations
+of the $\beta$-functions. The identification of a potential requires the
+introduction of a metric on ${\cal G}$ and it is shown that the metric defined
+by Zamalodchikov, in terms of two point correlation functions of composite
+operators, gives potential flow to this order.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1993 14:47:22 GMT""}]","2015-06-26"
+"hep-th/9307024","Brian Dolan","Brian P. Dolan","The Renormalisation Group Equation As An Equation For Lie Transport Of
+  Amplitudes","8 pages Typeset in PlainTeX, C Version 3.141",,,"ITP-UH-06/93","hep-th",,"  It is shown that the renormalisation group (RG) equation can be viewed as an
+equation for Lie transport of physical amplitudes along the integral curves
+generated by the $\beta$-functions of a quantum field theory. The anomalous
+dimensions arise from Lie transport of basis vectors on the space of couplings.
+The RG equation can be interpreted as relating a particular diffeomorphism of
+flat space-(time), that of dilations, to a diffeomorphism on the space of
+couplings generated by the vector field associated with the $\beta$-functions.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1993 14:49:27 GMT""}]","2016-09-06"
+"hep-th/9307025","Peter Schaller","P.Schaller, T.Strobl","Euclidian 2D Gravity with Torsion","10 pages, latex, TUW-93-08",,,,"hep-th",,"  Closing a gap in the literature on the subject, the local solutions of
+2D-gravity with torsion are given for Euclidian signature. For the topology of
+a cylinder the system is quantized.
+","[{""version"":""v1"",""created"":""Sat, 3 Jul 1993 13:22:22 GMT""}]","2007-05-23"
+"math/9307202","Doron Zeilberger","Doron Zeilberger (Temple University)","Chu's 1303 Identity Implies Bombieri's 1990 Norm-Inequality [via an
+  Identity of Beauzamy and D\'egot]","Plain TeX","Amer. Math. Monthly 101(1994), 894-896",,,"math.CO",,"  The Vandermonde-Chu Binomial Coefficients Identity is shown to imply
+Bombieri's deep norm inequalities, via identities of Beauzamy-D\'egot, and
+Reznick.
+","[{""version"":""v1"",""created"":""Fri, 2 Jul 1993 20:19:50 GMT""}]","2008-02-03"

@@ -1,0 +1,362 @@
+"alg-geom/9309007","David R. Morrison","Paul S. Aspinwall, Brian R. Greene and David R. Morrison","The Monomial-Divisor Mirror Map","22 pages, LaTeX","Internat. Math. Res. Notices (1993), 319-337",,"IASSNS-HEP-93/43, CLNS 93/1237","alg-geom hep-th math.AG",,"  For each family of Calabi-Yau hypersurfaces in toric varieties, Batyrev has
+proposed a possible mirror partner (which is also a family of Calabi-Yau
+hypersurfaces). We explain a natural construction of the isomorphism between
+certain Hodge groups of these hypersurfaces, as predicted by mirror symmetry,
+which we call the monomial-divisor mirror map. We indicate how this map can be
+interpreted as the differential of the expected mirror isomorphism between the
+moduli spaces of the two Calabi-Yau manifolds. We formulate a very precise
+conjecture about the form of that mirror isomorphism, which when combined with
+some earlier conjectures of the third author would completely specify it. We
+then conclude that the moduli spaces of the nonlinear sigma models whose
+targets are the different birational models of a Calabi-Yau space should be
+connected by analytic continuation, and that further analytic continuation
+should lead to moduli spaces of other kinds of conformal field theories. (This
+last conclusion was first drawn by Witten.)
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 21:08:10 GMT""}]","2008-02-03"
+"astro-ph/9310001","Robert Brandenberger","R. Moessner (Brown Univ.), L. Perivolaropoulos (Harvard-Smithsonian
+  CFA) and R. Brandenberger (Brown Univ.)","A Cosmic String Specific Signature on the Cosmic Microwave Background","18 pages, 9 figures (available from the authors), BROWN-HET-911 (June
+  1993), accepted for publ. in Astrophys. J., uses LATEX","Astrophys.J.425:365-371,1994","10.1086/173992",,"astro-ph hep-ph",,"  Using an analytical model for the string network we show that the kurtosis of
+cosmic microwave background (CMB) temperature gradient maps is a good statistic
+to distinguish between the cosmic string model and inflationary models of
+structure formation. The difference between the stringy and inflationary value
+for the kurtosis is inversely proportional to the angular resolution and to the
+number of strings per Hubble volume of the strings' scaling solution. If
+strings are indeed responsible for CMB anisotropies then experiments with
+resolutions of a couple of arcminutes or smaller could determine it using this
+statistic.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 02:48:13 GMT""}]","2011-05-10"
+"cond-mat/9310001","Alexander L. Chernyshev","A.L. Chernyshev, A.V. Dotsenko and O.P. Sushkov","Hole-Hole Contact Interaction in the t-J Model","11 pp. (LATEX), 7 figures (PostScript) appended, report N 2","Phys. Rev. B 49, 6197 (1994)","10.1103/PhysRevB.49.6197",,"cond-mat",,"  Using an analytical variational approach we calculate the hole-hole contact
+interaction on the N\'{e}el background. Solution of the Bethe-Salpeter equation
+with this interaction gives bound states in $d$- and p-waves with binding
+energies close to those obtained by numerical methods. At $t/J \ge 2-3$ the
+bound state disappears. In conclusion we discuss the relation between short
+range and long range interactions and analogy with the problem of pion
+condensation in nuclear matter.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 03:44:30 GMT""},{""version"":""v2"",""created"":""Mon, 4 Oct 1993 05:54:14 GMT""}]","2009-10-22"
+"cond-mat/9310002","Ganpathy Murthy","T.Tokuyasu, M.Kamal, and G.Murthy","Numerical Renormalization Group for Finite Fermi Systems","11 pages, 4 figures upon request, REVTeX",,"10.1103/PhysRevLett.71.4202",,"cond-mat",,"  A numerical renormalization group technique based on Wilson's momentum shell
+method is presented for interacting, finite fermi systems. Results for small
+fullerene analogs show that the method is quite accurate to moderate values of
+$U$, and qualitatively better than other approximation methods. The method has
+potential applicability far beyond the fullerenes.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 14:28:44 GMT""}]","2009-10-22"
+"gr-qc/9310001","Marco","Marco Cavaglia' and Vittorio de Alfaro","On a Quantum Universe Filled with Yang - Mills Radiation","12 pages, PLAIN-TEX, Report: DFTT 23/93","Mod.Phys.Lett.A9:569-578,1994","10.1142/S0217732394003804",,"gr-qc",,"  We investigate the properties of a quantum Robertson - Walker universe
+described by the Wheeler -- DeWitt equation. The universe is filled with a
+quantum Yang -- Mills uniform field. This is then a quantum mini copy of the
+standard model of our universe. We discuss the interpretation of the Wheeler --
+DeWitt wave function using the correspondence principle to connect
+$\vert\psi\vert^2$ for large quantum numbers to the classical probability for a
+radiation dominated universe. This can be done in any temporal gauge. The
+correspondence principle determines the Schr\""odinger representation of the
+momentum associated to the gravitational degree of freedom. We also discuss the
+measure in the mini--superspace needed to ensure invariance of the quantum
+description under change of the temporal gauge. Finally, we examine the
+behaviour of $\vert\psi\vert^2$ in inflationary conditions.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 09:13:40 GMT""}]","2011-08-17"
+"hep-lat/9309021","Thomas A. DeGrand","T. DeGrand","A Consumer's Guide to Lattice QCD Results","uuencoded 24 page postscript mss with some missing figures
+  COLO-HEP-322",,,,"hep-lat",,"  I present an overview of recent lattice QCD results on hadron spectroscopy
+and matrix elements. Case studies include light quark spectroscopy, the
+determination of $\alpha_s$ from heavy quark spectroscopy, the D-meson decay
+constant, a calculation of the Isgur-Wise function, and some examples of the
+(lack of) effect of sea quarks on matrix elements. The review is intended for
+the non-expert. Talk presented at the 1993 Slac Summer Institute
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 16:52:42 GMT""}]","2007-05-23"
+"hep-lat/9309022","Frithjof Karsch","Frithjof Karsch","Scaling of Pseudo-Critical Couplings in Two-Flavour QCD","8 pages, NSF-ITP 93-121","Phys.Rev. D49 (1994) 3791-3794","10.1103/PhysRevD.49.3791",,"hep-lat",,"  We study the scaling behaviour of the pseudo-critical couplings for the
+chiral phase transition in two-flavour QCD. We show that all existing results
+from lattice simulations on lattices with temporal extent $N_\tau = 4$, 6 and 8
+can be mapped onto a universal scaling curve. The relevant combination of
+critical exponents, $\beta\delta$, is consistent with the scaling behaviour
+expected for a second order phase transition with $O(4)$ exponents. At present,
+scaling according to the $O(2)$ symmetry group can, however, not be ruled out.
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 23:34:35 GMT""}]","2009-10-22"
+"hep-lat/9310001","Sourendu Gupta","Sourendu Gupta","Instantons and Surface Tension at a First-Order Transition","HLRZ 65/93 [plain TeX, 10 pages including 3 ps figures.]","Phys.Lett. B325 (1994) 418-422","10.1016/0370-2693(94)90034-5",,"hep-lat cond-mat hep-ph",,"  We study the dynamics of the first order phase transition in the two
+dimensional 15-state Potts model, both at and off equilibrium. We find that
+phase changes take place through nucleation in both cases, and finite volume
+effects are described well through an instanton computation. Thus a dynamical
+measurement of the surface tension is possible. We find that the order-disorder
+surface tension is compatible with perfect wetting. An accurate treatment of
+fluctuations about the instanton solution is seen to be of great importance.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 13:16:44 GMT""}]","2009-10-22"
+"hep-ph/9309335","Nathan Seiberg","N. Seiberg","Naturalness Versus Supersymmetric Non-renormalization Theorems","14 pages, RU-93-45","Phys.Lett.B318:469-475,1993","10.1016/0370-2693(93)91541-T",,"hep-ph hep-th",,"  We give an intuitive proof of a new non-renormalization theorem in
+supersymmetric field theories. It applies both perturbatively and
+non-perturbatively. The superpotential is not renormalized in perturbation
+theory but receives non-perturbative corrections. However, these
+non-perturbative corrections are {\it not} generic functions of the fields
+consistent with the symmetries. Certain invariant terms are not generated. This
+violation of naturalness has applications to dynamical supersymmetry breaking.
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 19:39:30 GMT""}]","2008-11-26"
+"hep-ph/9310201","Jonathan Bagger","Jonathan A. Bagger","Electroweak Symmetry Breaking at the Supercollider","JHU-TIPAC-93022. Five embedded eps figures, submitted as a uuencoded
+  file",,,,"hep-ph",,"  Invited talk presented at the Workshop on Physics at Current Accelerators and
+the Supercollider, Argonne, Illinois, and at the 17th Johns Hopkins Workshop on
+Current Problems in Particle Theory, Budapest, Hungary.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 11:26:53 GMT""}]","2007-05-23"
+"hep-ph/9310202","Anton K. Rebhan","A. K. Rebhan","Gauge-independent extraction of the next-to-leading-order Debye mass
+  from the gluon propagator","8 p., LaTeX, BI-TP 93/52 (comment regarding lattice calculations
+  added)",,,,"hep-ph hep-lat hep-th",,"  It is shown that by defining the Debye mass through the relevant pole of the
+static gluon propagator rather than the zero-momentum limit of the time-time
+component of the gluon self-energy, a gauge-independent result for the
+next-to-leading order correction can be derived upon resummation of
+hard-thermal-loop contributions. The result turns out to be logarithmically
+sensitive to the magnetic screening mass. [Talk given at the 3rd Workshop on
+Thermal Field Theories and their Applications, August 15-27, 1993, Banff,
+Alberta, Canada]
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 13:49:51 GMT""},{""version"":""v2"",""created"":""Fri, 8 Oct 1993 17:13:40 GMT""}]","2008-02-03"
+"hep-ph/9310203","""M. T."" Reader","D.T. Barclay, C.J. Maxwell and M.T. Reader","Measuring $\Lambda_{\overline{MS}}$ at LEP","39 Pages, 11 Figures, Latex File, Durham Preprint DTP/93/68, UIC
+  Preprint UICHEP-TH/93-14",,,,"hep-ph",,"  We show that standard next-to-leading order (NLO) perturbative QCD analyses
+used to extract $\alpha_{s}$ from LEP data do not serve to disentangle the
+completely unknown renormalization scheme (RS) invariant next-NLO (NNLO) and
+higher-order uncalculated corrections from those dependent on the
+renormalization scale in a predictable manner. The resulting quoted values of
+$\alpha_{s}(M_{Z})$ $(\tilde{\Lambda}_{\overline{MS}})$ with attendant scheme
+dependence uncertainties therefore reflect the ad hoc way in which they were
+extracted, rather than the actual values of these parameters. Choosing the
+scale so that the NLO coefficient vanishes (effective charge scheme) exposes
+the relative size of these unknown RS invariant higher order terms. They are
+seen to be sizeable for some of the LEP observables, indicating that they must
+be estimated if $\tilde{\Lambda}_{\overline{MS}}$ is to be determined reliably.
+This can be accomplished either from NNLO calculations, at present only
+available for the hadronic width of the $Z^{0}$ ($R_{Z}$), or
+non-perturbatively by writing the RS-invariant uncertainty in $\tilde{\Lambda}$
+in terms of the running ${dR(Q)}/{d \ln Q}$ of the observable R(Q) with energy
+using an effective charge formalism. The NNLO calculations for $R_{Z}$ and LEP
+data supplemented by lower energy PETRA data lead to
+$\tilde{\Lambda}^{(5)}_{\overline{MS}}=287 \pm 100$ MeV. We also
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 14:07:53 GMT""}]","2007-05-23"
+"hep-ph/9310204",,"E. Leader and Sridhar K","Gamma^*, Z^* production in polarised p-p scattering as a probe of the
+  proton spin structure","Latex, 9 pages, 4 figures available on request, CERN-TH.6997/93","Nucl.Phys. B419 (1994) 3-24","10.1016/0550-3213(94)90354-9",,"hep-ph",,"  We present the results of a detailed study of the large transverse momentum
+Drell-Yan process, pp --> (Gamma^*, Z^*)X --> l^+l^- X at collider energies,
+with either one or both protons polarised, allowing the study of single- and
+double-spin asymmetries respectively. We show how these asymmetries obtained
+from angular distributions of the leptons in the Gamma^* (or Z^*) rest-frame,
+can be used to get information on the polarised parton distributions. Numerical
+results for the asymmetries and the cross-sections are presented, and the
+sensitivity of the asymmetries to the initial parton distributions indicates
+that these can be used as effective probes of the spin structure of the proton.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 14:56:51 GMT""}]","2009-10-22"
+"hep-ph/9310205",,"Loyal Durand, Bernd Kniehl, and Kurt Riesselmann","New perturbative upper bound on M_H from fermionic Higgs decays at two
+  loops","9 pages, PHYZZX, 2 figures available on request, DESY 93-131,
+  MAD/TH/93-7",,,,"hep-ph",,"  We present the dominant two-loop ${\rm O}\left(G_F^2M_H^4\right)$ electroweak
+corrections to the fermi\-onic decay widths of a high-mass Higgs boson in the
+Standard Model. The corrections are negative and quite significant, and are
+larger in magnitude than the one-loop electroweak corrections for $M_H\gsim
+400\ {\rm GeV}$. This indicates the onset of a breakdown of perturbation theory
+in the Higgs sector of the Standard Model at this surprisingly low value of the
+Higgs-boson mass.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 15:09:00 GMT""}]","2009-09-25"
+"hep-ph/9310206",,"Chung Kao","Production of CP-Odd Higgs Bosons with Large Transverse Momentum at
+  Hadron Supercolliders","17 pages in LaTeX, revised January 1994, to be published in Physics
+  Letters B, FSU-HEP-930924","Phys.Lett.B328:420-426,1994","10.1016/0370-2693(94)91500-8",,"hep-ph",,"  A two Higgs doublet model is employed to study the production of a CP-odd
+Higgs boson ($A$) associated with a large transverse momentum jet ($j$) at
+hadron supercolliders. The cross section of $pp \to jA+X$ is evaluated with
+four subprocesses: $gg \to gA$, $gq \to qA$, $g\bar{q} \to \bar{q}A$ and
+$q\bar{q} \to gA$. We find that $pp \to jA+X$ is a significant source of CP-odd
+Higgs bosons at future hadron supercolliders.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 15:17:38 GMT""},{""version"":""v2"",""created"":""Tue, 5 Apr 1994 19:30:44 GMT""}]","2010-11-01"
+"hep-th/9309160","Watamura","Ursula Carow-Watamura and Satoshi Watamura","The $q$-deformed Schr\""odinger Equation of the Harmonic Oscillator on
+  the Quantum Euclidian Space","19pages, Latex, TU-442","Int.J.Mod.Phys.A9:3989-4008,1994","10.1142/S0217751X94001618",,"hep-th",,"  We consider the $q$-deformed Schr\""odinger equation of the harmonic
+oscillator on the $N$-dimensional quantum Euclidian space. The creation and
+annihilation operator are found, which systematically produce all energy levels
+and eigenfunctions of the Schr\""odinger equation. In order to get the
+$q$-series representation of the eigenfunction, we also give an alternative way
+to solve the Schr\""odinger equation which is based on the $q$-analysis. We
+represent the Schr\""odinger equation by the $q$-difference equation and solve
+it by using $q$-polynomials and $q$-exponential functions.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 02:15:07 GMT""}]","2011-07-19"
+"hep-th/9310001","Masud Chaichian","M. Chaichian and A.P. Demichev","Q-Deformed Path Integral","14 pages, Latex, HU-SEFT R 1993-10","Phys.Lett. B320 (1994) 273-280","10.1016/0370-2693(94)90656-4",,"hep-th",,"  Using differential and integral calculi on the quantum plane which are
+invariant with respect to quantum inhomogeneous Euclidean group E(2)q , we
+construct path integral representation for the quantum mechanical evolution
+operator kernel of q-oscillator.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 08:23:22 GMT""}]","2009-10-22"
+"hep-th/9310002","Gabriele Ferretti","G. Ferretti","The Untruncated Marinari-Parisi Superstring","12 pages, Plain TEX, Chalmers Preprint #ITP 93-41","J.Math.Phys. 35 (1994) 4469-4476","10.1063/1.530866",,"hep-th",,"  It is shown that the bosonic angular degrees of freedom in the one
+dimensional Marinari-Parisi superstring can be integrated out exactly in the
+Hamiltonian formulation without having to perform the Dabholkar truncation. The
+resulting Hamiltonian is that of a supersymmetric Calogero system plus a four
+fermions interaction. This extra interaction vanishes for all physical states
+with fermion number zero or one where supersymmetry is manifest. We confirm
+that supersymmetry is nonperturbativly broken by instanton effects.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 09:25:07 GMT""}]","2009-10-22"
+"hep-th/9310003","Dr. A. Toon","Andrew Toon","Quantum Einstein Gravity as a Topological Field Theory","10 pages, LaTeX","Class.Quant.Grav.11:2961-2968,1994","10.1088/0264-9381/11/12/011",,"hep-th",,"  General covariance in quantum gravity is seen once one integrates over all
+possible metrics. In recent years topological field theories have given us a
+different route to general covariance without integrating over all possible
+metrics. Here we argue that Einstein quantum gravity may be viewed as a
+topological field theory provided a certain constrant from the path integral
+measure is satisfied.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 13:49:06 GMT""}]","2010-04-06"
+"hep-th/9310004","Fedor Malikov","Boris Feigin and Feodor Malikov","Fusion algebra at a rational level and cohomology of nilpotent
+  subalgebras of sl_2","11 pages","Lett.Math.Phys.31:315-326,1994","10.1007/BF00762795",,"hep-th math.QA",,"  We define and calculate the fusion algebra of WZW model at a rational level
+by cohomological methods. As a byproduct we obtain a cohomological
+characterization of admissible representations of $\widehat{\gtsl}_{2}$.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 14:14:42 GMT""}]","2011-07-19"
+"hep-th/9310005","David Fairlie","D.B. Fairlie and J.A. Mulvey","Integrable Generalisations of the 2-dimensional Born Infeld Equation","11 pages, Latex, DTP/93/39","J.Phys. A27 (1994) 1317-1324","10.1088/0305-4470/27/4/024",,"hep-th",,"  The Born-Infeld equation in two dimensions is generalised to higher
+dimensions whilst retaining Lorentz Invariance and complete integrability. This
+generalisation retains homogeneity in second derivatives of the field.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 14:25:12 GMT""}]","2009-10-22"
+"hep-th/9310006","David Fairlie","D.B. Fairlie","Equations with infinitely many Lagrangians","10 pages, Latex, DTP/93/49",,,,"hep-th",,"  Necessary conditions for a field theoretic equation of motion to be the
+consequence of variation of an infinite number of inequivalent Lagrangians are
+examined.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 14:29:12 GMT""}]","2007-05-23"
+"hep-th/9310007","Roger Brooks","R. Brooks","The Cosmological Constant and Volume-Preserving Diffeomorphism
+  Invariants","31 pgs, 3 figs (seperate file), Latex, CTP-2247","Nucl.Phys. B423 (1994) 197-220","10.1016/0550-3213(94)90570-3",,"hep-th",,"  Observables in the quantum field theories of $(D-1)$-form fields, $\ca$, on
+$D$-dimensional, compact and orientable manifolds, $M$, are computed.
+Computations of the vacuum value of $T_{ab}$ find it to be the metric times a
+function of the volume of spacetime, $\Omega(M)$. Part of this function of
+$\Omega$ is a finite zero-mode contribution. The correlation functions of
+another set of operators give intersection numbers on $M$. Furthermore, a
+similar computation for products of Wilson area operators results in a function
+of the volumes of the intersections of the submanifolds the operators are
+defined on. In addition, scalar field couplings are introduced and potentials
+are induced after integrating out the $\ca$ field. Lastly, the thermodynamics
+of the pure theories is found to be analogous to the zero-point motion of a
+scalar particle. The coupling of a Gaussian scalar field to the $\ca$ field is
+found to manifest itself on the free energy at high temperatures and/or small
+volumes.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 15:30:11 GMT""},{""version"":""v2"",""created"":""Mon, 4 Oct 1993 14:54:07 GMT""},{""version"":""v3"",""created"":""Thu, 4 Nov 1993 14:18:57 GMT""}]","2016-09-06"
+"math/9309201",,"Steven R. Bell","Complexity of the classical kernel functions of potential theory",,,,,"math.CV",,"  We show that the Bergman, Szego, and Poisson kernels associated to a finitely
+connected domain in the plane are all composed of finitely many easily computed
+functions of one variable. The new formulas give rise to new methods for
+computing the Bergman and Szeg\H o kernels in which all integrals used in the
+computations are line integrals; at no point is an integral with respect to
+area measure required. The results mentioned so far can be interpreted as
+saying that the kernel functions are simpler than one might expect. However, we
+also prove that the kernels cannot be too simple by showing that the only
+finitely connected domains in the plane whose Bergman or Szeg\H o kernels are
+rational functions are the obvious ones. This leads to a proof that the
+classical Green's function associated to a finitely connected domain in the
+plane is the logarithm of a rational function if and only if the domain is
+simply connected and rationally equivalent to the unit disc.
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 20:00:00 GMT""}]","2008-02-03"
+"math/9309202",,"B. Korenblum and J. McCarthy","Moduli of bounded holomorphic functions in the ball",,,,,"math.CV",,"  We prove that there is a continuous non-negative function $g$ on the unit
+sphere in $\cd$, $d \geq 2$, whose logarithm is integrable with respect to
+Lebesgue measure, and which vanishes at only one point, but such that no
+non-zero bounded analytic function $m$ in the unit ball, with boundary values
+$m^\star$, has $|m^\star| \leq g$ almost everywhere. The proof analyzes the
+common range of co-analytic Toeplitz operators in the Hardy space of the ball.
+","[{""version"":""v1"",""created"":""Thu, 30 Sep 1993 20:00:00 GMT""}]","2009-09-25"
+"math/9310225",,"Martin T. Barlow, Richard F. Bass","Coupling and Harnack inequalities for Sierpinski carpets","5 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 208-212",,"Bulletin migration 11/99","math.PR",,"  Uniform Harnack inequalities for harmonic functions on the pre- and graphical
+Sierpinski carpets are proved using a probabilistic coupling argument. Various
+results follow from this, including the construction of Brownian motion on
+Sierpinski carpets embedded in $\R^d$, $d\geq 3$, estimates on the fundamental
+solution of the heat equation, and Sobolev and Poincar\'e inequalities.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9310226",,"Walter Bergweiler","Iteration of meromorphic functions","38 pages. Abstract added in migration. See
+  http://analysis.math.uni-kiel.de/bergweiler/ for recent comments and
+  corrections","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 151-188","10.1090/S0273-0979-1993-00432-4","Bulletin migration 11/99","math.DS math.CV",,"  This paper attempts to describe some of the results obtained in the iteration
+theory of transcendental meromorphic functions, not excluding the case of
+entire functions. The reader is not expected to be familiar with the iteration
+theory of rational functions. On the other hand, some aspects where the
+transcendental case is analogous to the rational case are treated rather
+briefly here. For example, we introduce the different types of components of
+the Fatou set that occur in the iteration of rational functions but omit a
+detailed description of these types. Instead, we concentrate on the types of
+components that are special to transcendental functions (Baker domains and
+wandering domains).
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 00:00:00 GMT""}]","2018-01-08"
+"math/9310227",,"A. R. Calderbank, A. Roger Hammons Jr., P. Vijay Kumar, N. J. A.
+  Sloane, Patrick Sol\'e","A linear construction for certain Kerdock and Preparata codes","5 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 218-222",,"Bulletin migration 11/99","math.CO cs.IT math.IT",,"  The Nordstrom-Robinson, Kerdock, and (slightly modified) Pre\- parata codes
+are shown to be linear over $\ZZ_4$, the integers $\bmod~4$. The Kerdock and
+Preparata codes are duals over $\ZZ_4$, and the Nordstrom-Robinson code is
+self-dual. All these codes are just extended cyclic codes over $\ZZ_4$. This
+provides a simple definition for these codes and explains why their Hamming
+weight distributions are dual to each other. First- and second-order
+Reed-Muller codes are also linear codes over $\ZZ_4$, but Hamming codes in
+general are not, nor is the Golay code.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9310228",,"Graciela Chichilnisky","Intersecting families of sets and the topology of cones in economics","19 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 189-207",,"Bulletin migration 11/99","math.AT math.OC",,"  Two classical problems in economics, the existence of a market equilibrium
+and the existence of social choice functions, are formalized here by the
+properties of a family of cones associated with the economy. It was recently
+established that a necessary and sufficient condition for solving the former is
+the nonempty intersection of the family of cones, and one such condition for
+solving the latter is the acyclicity of the unions of its subfamilies. We show
+an unexpected but clear connection between the two problems by establishing a
+duality property of the homology groups of the nerve defined by the family of
+cones. In particular, we prove that the intersection of the family of cones is
+nonempty if and only if every subfamily has acyclic unions, thus identifying
+the two conditions that solve the two economic problems. In addition to their
+applications to economics, the results are shown to extend significantly
+several classical theorems, providing unified and simple proofs: Helly's
+theorem, Caratheodory's representation theorem, the
+Knaster-Kuratowski-Marzukiewicz theorem, Brouwer's fixed point theorem, and
+Leray's theorem on acyclic covers.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9310229","Fritz Gesztesy","Fritz Gesztesy, Helge Holden, Barry Simon, Zhong Xin Zhao","Trace formulae and inverse spectral theory for Schr\""odinger operators","6 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 250-255",,"Bulletin migration 11/99","math.SP",,"  We extend the well-known trace formula for Hill's equation to general
+one-dimensional Schr\""odinger operators. The new function $\xi$, which we
+introduce, is used to study absolutely continuous spectrum and inverse
+problems.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9310230",,"John Hannah, K. C. O'Meara","A new measure of growth for countable-dimensional algebras","5 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 223-227",,"Bulletin migration 11/99","math.RA",,"  A new dimension function on countable-dimensional algebras (over a field) is
+described. Its dimension values for finitely generated algebras exactly fill
+the unit interval $[0,1]$. Since the free algebra on two generators turns out
+to have dimension 0 (although conceivably some Noetherian algebras might have
+positive dimension!), this dimension function promises to distinguish among
+algebras of infinite GK-dimension.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9310231","Jenny Harrison","Jenny Harrison","Stokes' theorem for nonsmooth chains","8 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 235-242",,"Bulletin migration 11/99","math.DG math.CA",,"  Much of the vast literature on the integral during the last two centuries
+concerns extending the class of integrable functions. In contrast, our
+viewpoint is akin to that taken by Hassler Whitney [{\it Geometric integration
+theory}, Princeton Univ. Press, Princeton, NJ, 1957] and by geometric measure
+theorists because we extend the class of integrable {\it domains}. Let $\omega$
+be an $n$-form defined on $\Bbb R^m$. We show that if $\omega$ is sufficiently
+smooth, it may be integrated over sufficiently controlled, but nonsmooth,
+domains $\gamma$. The smoother is $ \omega$, the rougher may be $\gamma$.
+Allowable domains include a large class of nonsmooth chains and topological
+$n$-manifolds immersed in $\Bbb R^m$. We show that our integral extends the
+Lebesgue integral and satisfies a generalized Stokes' theorem.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9310232",,"Jeannette C. M. Janssen","The Dinitz problem solved for rectangles","7 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 243-249",,"Bulletin migration 11/99","math.CO",,"  The Dinitz conjecture states that, for each $n$ and for every collection of
+$n$-element sets $S_{ij}$, an $n\times n$ partial latin square can be found
+with the $(i,j)$\<th entry taken from $S_{ij}$. The analogous statement for
+$(n-1)\times n$ rectangles is proven here. The proof uses a recent result by
+Alon and Tarsi and is given in terms of even and odd orientations of graphs.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 00:00:00 GMT""}]","2009-09-25"
+"math/9310233","Palle E. T. Jorgensen","Palle E. T. Jorgensen, Steen Pedersen","Harmonic analysis of fractal measures induced by representations of a
+  certain C$^*$-algebra","7 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 228-234",,"Bulletin migration 11/99","math.OA math.FA",,"  We describe a class of measurable subsets $\Omega$ in $\br^d$ such that
+$L^2(\Omega)$ has an orthogonal basis of frequencies
+$e_\lambda(x)=e^{i2\pi\lambda\cdot x}(x\in\Omega)$ indexed by
+$\lambda\in\Lambda\subset\br^d$. We show that such spectral pairs $(\Omega
+,\Lambda)$ have a self-similarity which may be used to generate associated
+fractal measures $\mu$ with Cantor set support. The Hilbert space $L^2(\mu)$
+does not have a total set of orthogonal frequencies, but a harmonic analysis of
+$\mu$ may be built instead from a natural representation of the Cuntz C$^*$-
+algebra which is constructed from a pair of lattices supporting the given
+spectral pair $(\Omega ,\Lambda)$. We show conversely that such a pair may be
+reconstructed from a certain Cuntz-representation given to act on $L^2(\mu)$.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9310234","Charles Radin","Charles Radin","Symmetry of tilings of the plane","5 pages","Bull. Amer. Math. Soc. (N.S.) 29 (1993) 213-217",,"Bulletin migration 11/99","math.MG math.DS",,"  We discuss two new results on tilings of the plane. In the first, we give
+sufficient conditions for the tilings associated with an inflation rule to be
+uniquely ergodic under translations, the conditions holding for the pinwheel
+inflation rule. In the second result we prove there are matching rules for the
+pinwheel inflation rule, making the system the first known to have complete
+rotational symmetry.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 00:00:00 GMT""}]","2008-02-03"
+"math/9310236","Maggie McLoughlin","Svante Janson, Donald E. Knuth, Tomasz {\L}uczak, Boris Pittel","The birth of the giant component",,"Random Structures Algorithms 4 (1993), no. 3, 231--358",,"Knuth migration 11/2004","math.PR math.CO",,"  Limiting distributions are derived for the sparse connected components that
+are present when a random graph on $n$ vertices has approximately $\half n$
+edges. In particular, we show that such a graph consists entirely of trees,
+unicyclic components, and bicyclic components with probability approaching
+$\sqrt{2\over 3} \cosh\sqrt{5\over 18}\approx0.9325$ as $n\to\infty$. The
+limiting probability that it consists of trees, unicyclic components, and at
+most one other component is approximately 0.9957; the limiting probability that
+it is planar lies between 0.987 and 0.9998. When a random graph evolves and the
+number of edges passes $\half n$, its components grow in cyclic complexity
+according to an interesting Markov process whose asymptotic structure is
+derived. The probability that there never is more than a single component with
+more edges than vertices, throughout the evolution, approaches
+$5\pi/18\approx0.8727$. A ``uniform'' model of random graphs, which allows
+self-loops and multiple edges, is shown to lead to formulas that are
+substantially simpler than the analogous formulas for the classical random
+graphs of Erd\H{o}s and R\'enyi. The notions of ``excess'' and ``deficiency,''
+which are significant characteristics of the generating function as well as of
+the graphs themselves, lead to a mathematically attractive structural theory
+for the uniform model. A general approach to the study of stopping
+configurations makes it possible to sharpen previously obtained estimates in a
+uniform manner and often to obtain closed forms for the constants of interest.
+Empirical results are presented to complement the analysis, indicating the
+typical behavior when $n$ is near 20000.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9310001","Berndt Mueller","C. Gong, S. G. Matinyan, B. Mueller, and A. Trayanov","Manifestation of Infrared Instabilities in High-Energy Processes in
+  Nonabelian Gauge Theories","LaTeX, 8 pages, 3 figures contained in a separate uuencoded file,
+  DUKE-TH-93-58","Phys.Rev.D49:607,1994; Erratum-ibid.D49:5629,1994;
+  Phys.Rev.D49:5629,1994","10.1103/PhysRevD.49.607 10.1103/PhysRevD.49.5629",,"nucl-th hep-ph hep-th",,"  We show that a high frequency standing wave in SU(2) gauge theory is unstable
+against decay into long wavelength modes. This provides a non-perturbative
+mechanism for energy transfer from initial high momentum modes to final states
+with low momentum excitations. The abelian case does not manifest such
+instability. Our analysis is supported by lattice simulations.
+","[{""version"":""v1"",""created"":""Fri, 1 Oct 1993 13:45:15 GMT""}]","2014-11-18"

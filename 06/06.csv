@@ -1,0 +1,46 @@
+"hep-ph/9306231",,"Yuji Koike","Octet Baryons at Finite Temperature: QCD Sum Rules vs. Chiral Symmetry","19 pages, MSUNSCL-870, LaTex files, 2 figs. consisting of simple
+  Feynmann diagrams not included, Phys.Rev.D in press","Phys.Rev. D48 (1993) 2313-2323","10.1103/PhysRevD.48.2313",,"hep-ph nucl-th",,"  Correlators of the octet baryons in the hot pion gas are studied in the
+framework of the QCD sum rule. The condensates appearing in the OPE side of the
+correlators become T-dependent through the interaction with thermal pions. We
+present an explicit demonstration that the $O(T^2)$-dependence of the
+condensates is completely compensated by the change of the pole residue and the
+$\pi + B \rightarrow B'$ scattering effect in the spectral functions. Therefore
+the baryon masses are constant to this order, although
+$\langle\bar{u}u\rangle_T\simeq\langle\bar{u}u\rangle_0(1-T^2/8f_\pi^2)$, which
+is consistent with the chiral symmetry constraint by Leutwyler and Smilga.
+","[{""version"":""v1"",""created"":""Sat, 5 Jun 1993 23:58:03 GMT""}]","2009-10-22"
+"hep-ph/9306232",,"H. Mishra and S. P. Misra","Chiral Symmetry Breaking and Pion Wave Function","latex, revtex, 16 pages","Phys.Rev. D48 (1993) 5376-5381","10.1103/PhysRevD.48.5376",,"hep-ph",,"  We consider here chiral symmetry breaking through nontrivial vacuum structure
+with quark antiquark condensates. We then relate the condensate function to the
+wave function of pion as a Goldstone mode. This simultaneously yields the pion
+also as a quark antiquark bound state as a localised zero mode in vacuum. We
+illustrate the above with Nambu Jona-Lasinio model to calculate different
+pionic properties in terms of the vacuum structure for breaking of exact or
+approximate chiral symmetry, as well as the condensate fluctuations giving rise
+to $\sigma$ mesons.
+","[{""version"":""v1"",""created"":""Sat, 5 Jun 1993 23:59:18 GMT""}]","2009-10-22"
+"hep-ph/9306233",,"H. Mishra and S.P. Misra","A Variational Approach to Bound States in Quantum Field Theory","latex, revtex, 22 pages","Z.Phys. C61 (1994) 97-104","10.1007/BF01641891",,"hep-ph",,"  We consider here in a toy model an approach to bound state problem in a
+nonperturbative manner using equal time algebra for the interacting field
+operators. Potential is replaced by offshell bosonic quanta inside the bound
+state of nonrelativistic particles. The bosonic dressing is determined through
+energy minimisation, and mass renormalisation is carried out in a
+nonperturbative manner. Since the interaction is through a scalar field, it
+does not include spin effects. The model however nicely incorporates an
+intuitive picture of hadronic bound states in which the gluon fields dress the
+quarks providing the binding between them and also simulate the gluonic content
+of hadrons in deep inelastic collisions.
+","[{""version"":""v1"",""created"":""Sat, 5 Jun 1993 23:58:43 GMT""}]","2009-10-22"
+"hep-th/9306034","Gerard Watts","G.M.T. Watts","Null vectors of the superconformal algebra: the Ramond sector","21 pages, LaTeX, DAMTP-93-14","Nucl.Phys. B407 (1993) 213-236","10.1016/0550-3213(93)90280-3",,"hep-th",,"  We consider the Ramond sector of the $N=1$ superconformal algebra and find
+expressions for the singular vectors in reducible highest weight Verma module
+representations by the fusion principle of Bauer et al.
+","[{""version"":""v1"",""created"":""Sun, 6 Jun 1993 10:54:28 GMT""}]","2009-10-22"
+"hep-th/9306035",,"H.Aratyn, E.Nissimov and S.Pacheva","Construction of KP Hierarchies in Terms of Finite Number of Fields and
+  their Abelianization","12 p., LaTeX, minor typos corrected, BGU-93/2/June-PH","Phys.Lett. B314 (1993) 41-51","10.1016/0370-2693(93)91319-I",,"hep-th",,"  The $2M$-boson representations of KP hierarchy are constructed in terms of
+$M$ mutually independent two-boson KP representations for arbitrary number $M$.
+Our construction establishes the multi-boson representations of KP hierarchy as
+consistent Poisson reductions of standard KP hierarchy within the $R$-matrix
+scheme. As a byproduct we obtain a complete description of any
+finitely-many-field formulation of KP hierarchy in terms of Darboux coordinates
+with respect to the first Hamiltonian structure. This results in a series of
+representations of $\Win1\,$ algebra made out of arbitrary even number of boson
+fields.
+","[{""version"":""v1"",""created"":""Sun, 6 Jun 1993 13:25:19 GMT""},{""version"":""v2"",""created"":""Sun, 20 Jun 1993 10:19:11 GMT""}]","2009-10-22"

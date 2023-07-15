@@ -1,0 +1,278 @@
+"astro-ph/9301005",,"R. Mayle, D.N. Schramm, M.S. Turner, J. Wilson","Constraints on Dirac Neutrinos from SN 1987A","8 pages, 5 Figures (available on request), FERMILAB-Pub-92/381-A","Phys.Lett. B317 (1993) 119-124","10.1016/0370-2693(93)91580-G",,"astro-ph hep-ph",,"  The Livermore Supernova Explosion Code was used to calculate the effect of a
+massive Dirac neutrino on neutrino emission from SN 1987A in a fully
+self-consistent manner. Spin-flip interactions lead to the copious emission of
+sterile, right-handed neutrinos and cool the core faster than the observed
+neutrino emission time for Dirac masses exceeding about 3$\,$keV. This limit is
+relaxed to $7\,$keV if pion emission processes in the core are neglected. These
+limits are compared with the previous less stringent limits of Burrows et al.
+","[{""version"":""v1"",""created"":""Wed, 13 Jan 1993 18:11:33 GMT""}]","2009-10-22"
+"astro-ph/9301006",,"R. Capuzzo-Dolcetta","The Evolution of the Globular Cluster System in a Triaxial Galaxy: Can a
+  Galactic Nucleus Form by Globular Cluster Capture?","22 pages + 2 tables and 12 figures available upon requests, Tex, no
+  preprint number",,"10.1086/173189",,"astro-ph",,"  Dynamical friction due to field stars and tidal disruption caused by a
+central nucleus are crucial in determining the evolution of the globular
+cluster system in an elliptical galaxy. In this paper I examine the possibility
+that some of galactic nuclei have been formed by frictionally decayied globular
+clusters moving in a triaxial potential. The initial rapid growth of the
+nucleus, due mainly to massive clusters on box orbits falling in a short time
+scale into the galactic centre, is found to be later slowed by tidal disruption
+induced by the nucleus itself on less massive clusters in the way described by
+Ostriker, Binney & Saha.
+  The efficiency of dynamical friction is such to carry to the centre of the
+galaxy enough globular cluster mass available to form a compact nucleus, but
+the actual modes of its collisionless formation remains to be investigated.
+  The mass of the resulting nucleus is determined by the mutual feedback of the
+two mentioned processes, together with the knowlegde of the initial spatial,
+velocity and mass distributions of the globular cluster family. Moreover, we
+discuss the possibility that the globular cluster fall to the galactic centre
+has been cause of primordial violent galactic activity.
+  An application of the model to M31 is presented.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 15:38:00 GMT""}]","2009-10-22"
+"cond-mat/9301014","Jysoo Lee","Peter Ossadnik and Jysoo Lee","Power law tail in the radial growth probability distribution for DLA","11 pages, LaTeX, 5 figures not included, HLRZ preprint-29/92",,"10.1088/0305-4470/26/23/025",,"cond-mat",,"  Using both analytic and numerical methods, we study the radial growth
+probability distribution $P(r,M)$ for large scale off lattice diffusion limited
+aggregation (DLA) clusters. If the form of $P(r,M)$ is a Gaussian, we show
+analytically that the width $\xi(M)$ of the distribution {\it can not} scale as
+the radius of gyration $R_G$ of the cluster. We generate about $1750$ clusters
+of masses $M$ up to $500,000$ particles, and calculate the distribution by
+sending $10^6$ further random walkers for each cluster. We give strong support
+that the calculated distribution has a power law tail in the interior ($r\sim
+0$) of the cluster, and can be described by a scaling Ansatz $P(r,M) \propto
+{r^\alpha\over\xi}\cdot g\left( {r-r_0}\over \xi \right)$, where $g(x)$ denotes
+some scaling function which is centered around zero and has a width of order
+unity. The exponent $\alpha$ is determined to be $\approx 2$, which is now
+substantially smaller than values measured earlier. We show, by including the
+power-law tail, that the width {\it can} scale as $R_G$, if $\alpha > D_f-1$.
+","[{""version"":""v1"",""created"":""Wed, 13 Jan 1993 16:11:26 GMT""}]","2009-10-22"
+"cond-mat/9301016",,"Jacek Miekisz","The Global Minimum of Energy Is Not Always a Sum of Local Minima - a
+  Note on Frustration","15 pages, Latex, figures upon request, UCL-Emilia",,,,"cond-mat",,"  A classical lattice gas model with translation-invariant finite range
+competing interactions, for which there does not exist an equivalent
+translation-invariant finite range nonfrustrated potential, is constructed. The
+construction uses the structure of nonperiodic ground state configurations of
+the model. In fact, the model does not have any periodic ground state
+configurations. However, its ground state - a translation-invariant probability
+measure supported by ground state configurations - is unique.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 09:13:00 GMT""}]","2007-05-23"
+"cond-mat/9301017","Jacek Miekisz","Jacek Miekisz","Stable quasicrystalline ground states","14 pages, Latex, 10 figures available upon request, completely
+  revised version","J.Statist.Phys. 88 (1997) 691","10.1023/B:JOSS.0000015168.25151.22",,"cond-mat.stat-mech",,"  We give a strong evidence that noncrystalline materials such as quasicrystals
+or incommensurate solids are not exceptions but rather are generic in some
+regions of a phase space. We show this by constructing classical lattice-gas
+models with translation-invariant, finite-range interactions and with a unique
+quasiperiodic ground state which is stable against small perturbations of
+two-body potentials. More generally, we provide a criterion for stability of
+nonperiodic ground states.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 09:13:39 GMT""},{""version"":""v2"",""created"":""Tue, 3 Feb 1998 07:46:56 GMT""}]","2015-06-25"
+"cond-mat/9301018",,"Erik Westerberg and T. H. Hansson","Quantum Mechanics on Thin Cylinders","20 pages, Latex, 4 figures available on request (wes@vana.physto.se),
+  USITP-92-13",,"10.1103/PhysRevB.47.16554",,"cond-mat",,"  We discuss the quantum mechanics of particles of arbitrary statistics on an
+infinite cylinder with and without a magnetic field perpendicular to the
+surface. In the presence of a magnetic field, the translational symmetry along
+the cylinder is broken down to a discrete one by the Aharonov-Bohm effect. For
+interacting fermions in a strong field we get an effective one-dimensional
+lattice model that in a limit can be mapped on an Ising chain. We also show
+that a system of anyons on a cylinder are, in a certain limit closely related
+to the one-dimensional (integrable) Sutherland model. By order of magnitude
+estimates we demonstrate that none of these effects are likely to be
+experimentally observed with present techniques.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 10:59:00 GMT""}]","2009-10-22"
+"gr-qc/9301011","James B. Hartle","James B. Hartle","The Reduction of the State Vector and Limitations on Measurement in the
+  Quantum Mechanics of Closed Systems","25pages. in Directions in Relativity, vol 2, ed-by B.-L. Hu and T.A.
+  Jacobson, Cambridge University Press, Cambridge (1993)",,,,"gr-qc hep-th quant-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Measurement is a fundamental notion in the usual approximate quantum
+mechanics of measured subsystems. Probabilities are predicted for the outcomes
+of measurements. State vectors evolve unitarily in between measurements and by
+reduction of the state vector at measurements. Probabilities are computed by
+summing the squares of amplitudes over alternatives which could have been
+measured but weren't. Measurements are limited by uncertainty principles and by
+other restrictions arising from the principles of quantum mechanics. This essay
+examines the extent to which those features of the quantum mechanics of
+measured subsystems that are explicitly tied to measurement situations are
+incorporated or modified in the more general quantum mechanics of closed
+systems in which measurement is not a fundamental notion. There, probabilities
+are predicted for decohering sets of alternative time histories of the closed
+system, whether or not they represent a measurement situation. Reduction of the
+state vector is a necessary part of the description of such histories.
+Uncertainty principles limit the possible alternatives at one time from which
+histories may be constructed. Models of measurement situations are exhibited
+within the quantum mechanics of the closed system containing both measured
+subsystem and measuring apparatus. Limitations are derived on the existence of
+records for the outcomes of measurements when the initial density matrix of the
+closed system is highly impure. (Festschrift for Dieter Brill).
+","[{""version"":""v1"",""created"":""Wed, 13 Jan 1993 19:09:48 GMT""},{""version"":""v2"",""created"":""Sun, 8 Dec 2013 04:22:15 GMT""},{""version"":""v3"",""created"":""Sun, 12 Jan 2014 18:38:37 GMT""}]","2014-01-14"
+"gr-qc/9301012","Massimo Porrati","Massimo Porrati","Massive Spin-5/2 Fields Coupled to Gravity: Tree-Level Unitarity vs. the
+  Equivalence Principle","6 pages, NYU-TH.93/01/01, (a misprint corrected, minor modifications
+  of the text)","Phys.Lett. B304 (1993) 77-80","10.1016/0370-2693(93)91403-A",,"gr-qc hep-th",,"  I show that the gravitational scattering amplitudes of a spin-5/2 field with
+mass $m\ll M_{Pl}$ violate tree-level unitarity at energies
+$\sqrt{s}\approx\sqrt{mM_{Pl}}$ if the coupling to gravity is minimal.
+Unitarity up to energies $\sqrt{s}\approx M_{Pl}$ is restored by adding a
+suitable non-minimal term, which gives rise to interactions violating the
+(strong) equivalence principle. These interactions are only relevant at
+distances $d\lequiv 1/m$.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 01:17:21 GMT""},{""version"":""v2"",""created"":""Thu, 14 Jan 1993 17:15:02 GMT""}]","2009-10-22"
+"gr-qc/9301013",,"M.Campanelli and C.O.Lousto","""Are Black Holes in Brans-Dicke Theory precisely the same as in General
+  Relativity?""","13pages, Plain Tex","Int.J.Mod.Phys.D2:451-462,1993","10.1142/S0218271893000325",,"gr-qc astro-ph hep-th",,"  We study a three-parameters family of solutions of the Brans-Dicke field
+equations. They are static and spherically symmetric. We find the range of
+parameters for which this solution represents a black hole different from the
+Schwarzschild one. We find a subfamily of solutions which agrees with
+experiments and observations in the solar system. We discuss some astrophysical
+applications and the consequences on the ""no hair"" theorems for black holes.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 13:08:56 GMT""},{""version"":""v2"",""created"":""Sun, 17 Jan 1993 16:06:55 GMT""},{""version"":""v3"",""created"":""Mon, 25 Jan 1993 17:34:34 GMT""}]","2010-11-01"
+"gr-qc/9301014",,"James D.E. Grant","On Self-Dual Gravity I","17 pages, Latex, DAMTP-R92/47","Phys.Rev. D48 (1993) 2606-2612","10.1103/PhysRevD.48.2606",,"gr-qc hep-th",,"  (One typo corrected and one incorrect statement removed. Extra details on
+conserved quantities and symmetry algebras added).
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 15:13:15 GMT""},{""version"":""v2"",""created"":""Tue, 2 Feb 1993 15:36:24 GMT""}]","2009-10-22"
+"hep-lat/9301003","Radel Ben-Av","R. Ben-Av and G. Bhanot","Measuring the Decorrelation Times of Fourier Modes in Simulations","16 pp (LaTeX), PUPT-1378 , IASSNS-HEP-93/2","Phys.Lett. B305 (1993) 131-135","10.1016/0370-2693(93)91117-6",,"hep-lat hep-th",,"  We describe a method to study the rate at which modes decorrelate in
+numerical simulations. We study the XY model updated with the Metropolis and
+Wolff dynamics respectively and compute the rate at which each eigenvector of
+the dynamics decorrelates. Our method allows us to identify the decorrelation
+time for each mode separately. We find that the autocorrelation function of the
+various modes is markedly different for the `local' Metropolis compared to the
+`non-local' Wolff dynamics. Equipped with this new insight, it may be possible
+to devise highly efficient algorithms.
+","[{""version"":""v1"",""created"":""Wed, 13 Jan 1993 18:57:01 GMT""}]","2009-10-22"
+"hep-lat/9301004","Dick Haymaker","V. Singh, D. A. Browne, and R. W. Haymaker","Structure of Abrikosov Vortices in SU(2) Lattice Gauge Theory","15 pages, latex file, three figure postscript files appended, Report
+  No. LSUHEP No. 138-1993","Phys.Lett. B306 (1993) 115-119","10.1016/0370-2693(93)91146-E",,"hep-lat",,"  We calculate the electric flux and magnetic monopole current distribution in
+the presence of a static quark-antiquark pair for SU(2) lattice gauge theory in
+the maximal Abelian gauge. The current distribution confines the flux in a dual
+Abrikosov vortex whose core size is comparable to the flux penetration depth.
+The observed structure is described by a dual Ginzburg-Landau model.
+","[{""version"":""v1"",""created"":""Wed, 13 Jan 1993 21:11:25 GMT""}]","2009-10-22"
+"hep-ph/9301236","Edmond Iancu","Jean-Paul BLAIZOT and Edmond IANCU (Service de Physique Th\'eorique
+  CE-Saclay, 91191 Gif-sur-Yvette, France)","Kinetic Equations for Longwavelength Excitations of the Quark-Gluon
+  Plasma","January 8, 1993; 8 pages; SPhT/93-1","Phys.Rev.Lett. 70 (1993) 3376-3379","10.1103/PhysRevLett.70.3376",,"hep-ph",,"  We show that longwavelength excitations of the quark-gluon plasma are
+described by simple kinetic equations which represent the exact equations of
+motion at leading order in $g$. Properties of the so-called ``hard thermal
+loops'', i.e. the dominant contributions to amplitudes with soft external
+lines, find in this approach a natural explanation. In particular, their
+generating functional appears here as the effective action describing long
+wavelength excitations of the plasma.
+","[{""version"":""v1"",""created"":""Wed, 13 Jan 1993 18:13:17 GMT""}]","2009-10-22"
+"hep-ph/9301237","Andrzej Czarnecki","Andrzej Czarnecki and Sacha Davidson","QCD corrections to the charged Higgs decay of a heavy quark","11 pages, Alberta Thy-34-92 and CfPA-92-26","Phys.Rev. D48 (1993) 4183-4187","10.1103/PhysRevD.48.4183",,"hep-ph",,"  We present an analytic formula for the $O(\alpha_s)$ corrections to the decay
+$t\to H^+b$ for nonzero $m_H$ and $m_b$. The Equivalence Theorem is used to
+relate these corrections to those for the process $t\to W^+b$. Contrary to
+previously published results we find that the effect of the $b$ quark mass is
+negligible for a wide range of $m_t$, $m_H$ and $\tan \beta$.
+","[{""version"":""v1"",""created"":""Wed, 13 Jan 1993 23:00:41 GMT""},{""version"":""v2"",""created"":""Wed, 13 Jan 1993 23:27:35 GMT""}]","2009-10-22"
+"hep-ph/9301238","Papadopoulos","F.K. Diakonos, O. Korakianitis, C.G. Papadopoulos, C. Philippides and
+  W.J. Stirling","W + gamma + jet production as a test of the electromagnetic couplings of
+  W at LHC and SSC","Latex. 5 figures available (EPS files) on request","Phys.Lett. B303 (1993) 177-182","10.1016/0370-2693(93)90064-O",,"hep-ph",,"  The reaction $pp \to W \ +\ \gamma\ +\ jet \ +\ X$ is considered at
+centre-of-mass energies $\sqrt{s} = 16$ and $40\;\tev$, including anomalous
+three-gauge-boson couplings $\kappa$ and $\lambda$. The possibility of
+obtaining limits on these quantities by comparison with the standard model is
+investigated. The radiation zero properties of the subprocess matrix elements
+are studied. CERN-TH.6753/92, DTP/92/92.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 08:03:50 GMT""}]","2009-10-22"
+"hep-ph/9301239",,"E.Kh. Akhmedov, A. Lanza, S.T. Petcov","Implications of Gallium Solar Neutrino Data for the Resonant Spin-Flavor
+  Precession Scenario","LaTeX, 16 pages, 5 figures (not included by available upon request by
+  fax or ordinary mail)","Phys.Lett.B303:85-94,1993","10.1016/0370-2693(93)90048-M","SISSA-172/92/EP, Roma n. 902","hep-ph astro-ph",,"  We consider the implications of the recent results of SAGE and GALLEX
+experiments for the solution of the solar neutrino problem in the framework of
+the resonant neutrino spin-flavor precession scenario. It is shown that this
+scenario is consistent with all the existing solar neutrino data including the
+gallium results. The quality of the fit of the data depends crucially on the
+magnetic field profile used which makes it possible to get information about
+the magnetic field in the solar interior. In particular, the magnetic field in
+the core of the sun must not be too strong ($<3 \times 10^6$ G). The detection
+rate in the gallium detectors turns out to be especially sensitive to the
+magnitude of $\Delta m^2$. Predictions for forthcoming solar-neutrino
+experiments are made.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 09:47:00 GMT""}]","2008-11-26"
+"hep-th/9301049","Murat Gunaydin","Murat Gunaydin","N=4 Superconformal Algebras and Gauged WZW Models","26 pp, IASSNS-HEP-92/85","Phys.Rev.D47:3600-3609,1993","10.1103/PhysRevD.47.3600",,"hep-th",,"  As shown by Witten the N=1 supersymmetric gauged WZW model based on a group G
+has an extended N=2 supersymmetry if the gauged subgroup H is so chosen that
+G/H is Kahler. We extend Witten's result and prove that the N=1 supersymmetric
+gauged WZW models over G X U(1) are actually invariant under N=4 superconformal
+transformations if the gauged subgroup H is such that G/HXSU(2) is a
+quaternionic symmetric space. A previous construction of ""maximal"" N=4
+superconformal algebras with SU(2)XSU(2)XU(1) symmetry is reformulated and
+further developed so as to relate them to the N=4 gauged WZW models. Based on
+earlier results we expect the quantization of N=4 gauged WZW models to yield
+the unitary realizations of maximal N=4 superconformal algebras provided by
+this construction.
+","[{""version"":""v1"",""created"":""Wed, 13 Jan 1993 17:33:05 GMT""}]","2011-02-09"
+"hep-th/9301050","Murat Gunaydin","Murat Gunaydin","Generalized Conformal and Superconformal Group Actions and Jordan
+  Algebras","13 pp, IASSNS-HEP-92/86","Mod.Phys.Lett.A8:1407-1416,1993","10.1142/S0217732393001124",,"hep-th",,"  We study the conformal groups of Jordan algebras along the lines suggested by
+Kantor. They provide a natural generalization of the concept of conformal
+transformations that leave 2-angles invariant to spaces where ""p-angles"" can be
+defined. We give an oscillator realization of the generalized conformal groups
+of Jordan algebras and Jordan triple systems(JTS). These results are extended
+to Jordan superalgebras and super JTS's. We give the conformal algebras of
+simple Jordan algebras, hermitian JTS's and the simple Jordan superalgebras as
+classified by Kac.
+","[{""version"":""v1"",""created"":""Wed, 13 Jan 1993 17:44:28 GMT""}]","2010-11-01"
+"hep-th/9301051","Craig Tracy","John Harnad, Craig A. Tracy, and Harold Widom","Hamiltonian Structure of Equations Appearing in Random Matrices","18 pages, plain TeX","NATO ASI Series B, Vol. 314, Plenum Press, NY, 1993,pgs. 231-245,
+  ed. H. Osborn",,"CRM--1846 (1993)","hep-th math-ph math.MP nlin.SI solv-int",,"  The level spacing distributions in the Gaussian Unitary Ensemble, both in the
+``bulk of the spectrum,'' given by the Fredholm determinant of the operator
+with the sine kernel ${\sin \pi(x-y) \over \pi(x-y)}$ and on the ``edge of the
+spectrum,'' given by the Airy kernel ${\rm{Ai}(x) \rm{Ai}'(y) - \rm{Ai}(y)
+\rm{Ai}'(x) \over (x-y)}$, are determined by compatible systems of
+nonautonomous Hamiltonian equations. These may be viewed as special cases of
+isomonodromic deformation equations for first order $ 2\times 2 $ matrix
+differential operators with regular singularities at finite points and
+irregular ones of Riemann index 1 or 2 at $\infty$. Their Hamiltonian structure
+is explained within the classical R-matrix framework as the equations induced
+by spectral invariants on the loop algebra ${\tilde{sl}(2)}$, restricted to a
+Poisson subspace of its dual space ${\tilde{sl}^*_R(2)}$, consisting of
+elements that are rational in the loop parameter.
+","[{""version"":""v1"",""created"":""Wed, 13 Jan 1993 18:25:34 GMT""}]","2008-02-03"
+"hep-th/9301052","Ruth Gregory","R.Gregory and R.Laflamme","Black Strings and p-Branes are Unstable","11 pages plain TeX, 2 figures (not included), EFI-93-02 (TeX
+  corrected)","Phys.Rev.Lett.70:2837-2840,1993","10.1103/PhysRevLett.70.2837",,"hep-th gr-qc",,"  We investigate the evolution of small perturbations around black strings and
+branes which are low energy solutions of string theory. For simplicity we focus
+attention on the zero charge case and show that there are unstable modes for a
+range of time frequency and wavelength in the extra $10-D$ dimensions. These
+perturbations can be stabililized if the extra dimensions are compactified to a
+scale smaller than the minimum wavelength for which instability occurs and thus
+will not affect large astrophysical black holes in four dimensions. We comment
+on the implications of this result for the Cosmic Censorship Hypothesis.
+","[{""version"":""v1"",""created"":""Wed, 13 Jan 1993 20:31:31 GMT""},{""version"":""v2"",""created"":""Fri, 15 Jan 1993 17:58:56 GMT""}]","2009-01-23"
+"hep-th/9301053","Feng Yu","Feng Yu","Many Boson Realizations of Universal Nonlinear $W_{\infty}$-Algebras","10p, (plain LaTex), Modified KP Hierarchies and Graded Lie Algebras","Lett.Math.Phys. 29 (1993) 175-182","10.1007/BF00761105",,"hep-th",,"  An infinite number of free field realizations of the universal nonlinear
+$\hat{W}_{\infty}^{(N)}$ ($\hat{W}_{1+\infty}^{(N)}$) algebras, which are
+identical to the KP Hamiltonian structures, are obtained in terms of $p$ plus
+$q$ scalars of different signatures with $p-q=N$. They are generalizations of
+the Miura transformation, and naturally give rise to the modified KP
+hierarchies via corresponding realizations of the latter. Their characteristic
+Lie-algebraic origin is shown to be the graded $SL(p,q)$.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 03:59:02 GMT""}]","2015-06-26"
+"hep-th/9301054",,"Makoto Sakamoto","Topological Aspects of an Antisymmetric Background Field on Orbifolds","45 pages, Latex file, NBI-HE-93-01, KOBE-TH-93-01","Nucl.Phys.B414:267-298,1994","10.1016/0550-3213(94)90431-6",,"hep-th",,"  We study string theory on orbifolds in the presence of an antisymmetric
+constant background field in detail and discuss some of new aspects of the
+theory. It is pointed out that the term with the antisymmetric background field
+can be regarded as a topological term like a Chern-Simons term or a Wess-Zumino
+term. Detailed analysis in the operator formalism shows that orbifold models
+with topologically nontrivial twists exhibit various anomalous behavior: Zero
+mode variables obey nontrivial quantization conditions. Coordinate
+transformations which define orbifolds are modified at quantum level. Wave
+functions of twisted strings in general acquire nontrivial phases when they
+move around non-contractible loops on orbifolds. Zero mode eigenvalues are
+shifted from naively expected values, in favor of modular invariance.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 10:50:26 GMT""}]","2010-11-01"
+"hep-th/9301055",,"M. Tonin","Twistor-Like Formulation of Heterotic Strings","19 pages (Talk given at the X Italian Conference on General
+  Relativity and Gravitational Physics - Bardonecchia, September 1-5 (1992))",,,,"hep-th",,"  In this talk new formulations of the Green--Schwarz heterotic strings in $D$
+dimensions that involve commuting spinors, are reviewed. These models are
+invariant under $n$--extended, world sheet supersymmetry as well as under
+$N=1$, target space supersymmetry where $n\leq D-2$ and $D=3,4,6,10$. The world
+sheet supersymmetry replaces $n$ components (and provides a geometrical
+meaning) of the $\kappa$--symmetry in the Green--Schwarz approach. The models
+in $D=10$ for $n=1,2,8$ are discussed explicitly.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 11:10:00 GMT""}]","2007-05-23"
+"hep-th/9301056",,"Haye Hinrichsen and Vladimir Rittenberg","Quantum Groups, Correlation Functions and Infrared Divergences","7 pages, BONN-HE-93-02","Phys.Lett. B304 (1993) 115-120","10.1016/0370-2693(93)91409-G",,"hep-th",,"  We show in two simple examples that for one-dimensional quantum chains with
+quantum group symmetries, the correlation functions of local operators are, in
+general, infrared divergent. If one considers, however, correlation functions
+invariant under the quantum group, the divergences cancel out.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 12:54:25 GMT""}]","2009-10-22"
+"nucl-th/9301008","David Seibert","David Seibert (Physics Department, Kent State University, Kent, OH and
+  Theoretical Physics Institute, University of Minnesota, Minneapolis)","Correlation measurements in high-multiplicity events","MN 55455, 20 pages, KSUCNR-011-92 and TPI-MINN-92/47-T (revised).
+  Revised to correct typo in equation (30), and to fill in a few steps in
+  calculations. Now published as Phys. Rev. C 47 (1993) 2320","Phys.Rev.C47:2320-2328,1993","10.1103/PhysRevC.47.2320",,"nucl-th",,"  Requirements for correlation measurements in high--multiplicity events are
+discussed. Attention is focussed on detection of so--called hot spots,
+two--particle rapidity correlations, two--particle momentum correlations (for
+quantum interferometry) and higher--order correlations. The signal--to--noise
+ratio may become large in the high--multiplicity limit, allowing meaningful
+single--event measurements, only if the correlations are due to collective
+behavior.
+","[{""version"":""v1"",""created"":""Wed, 13 Jan 1993 16:02:59 GMT""},{""version"":""v2"",""created"":""Thu, 22 Jul 1993 08:38:30 GMT""}]","2008-11-26"
+"nucl-th/9301009","David Seibert","David Seibert (Theory Division, CERN, CH--1211 Geneva 23, Switzerland
+  and Physics Department, Kent State University, Kent, OH USA)","Chemical equilibration of $\pi$, $\rho$ and $\omega$ mesons in
+  ultra--relativistic nuclear collisions","8 pages (latex) plus 5 figures (postscript, packed with uufiles),
+  CERN-TH.6731/92 and KSUCNR-018-92 (revised). Revised because bad values were
+  used for initial times; mostly changes in figures",,,,"nucl-th",,"  I estimate the degree of local chemical equilibration for $\pi$, $\rho$ and
+$\omega$ mesons in ultra--relativistic nuclear collisions. The $\pi$ and $\rho$
+mesons remain near chemical equilibrium in all cases, while the $\omega$ meson
+density is typically 30--50\% higher than the equilibrium value for O+Ag
+collisions at $\sqrt{s}=20$ GeV. If chemical reactions are turned off, the
+$\omega$ meson density is much larger, 2.5--3 times its equilibrium value.
+Thus, $\omega$ mesons may provide the most sensitive tests for the degree of
+chemical equilibration in nuclear collisions.
+","[{""version"":""v1"",""created"":""Thu, 14 Jan 1993 15:03:26 GMT""},{""version"":""v2"",""created"":""Tue, 2 Feb 1993 13:04:21 GMT""}]","2008-02-03"

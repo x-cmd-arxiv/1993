@@ -1,0 +1,195 @@
+"astro-ph/9304019","Pradip Ku. sahu","Sanjay K. Ghosh and Pradip K. Sahu","Quark Stars in Chiral Colour Dielectric Model","12 pages+ 6 figures available upon request, Tex, IP/BBSR/92-68","Int.J.Mod.Phys. E2 (1993) 575-586","10.1142/S0218301393000236",,"astro-ph",,"  The nonlinear chiral extension of colour dielectric model has been used in
+the present work to study the properties of quark stars. Assuming that the
+square of meson fields develop nonzero expectation value, the thermodynamic
+potential for charge neutral interacting two and three flavour quark matter, in
+beta equilibrium, has been calculated up to second order in quark gluon
+interaction term in the Lagrangian. The equation of state has been found to be
+softer for higher quark masses and interaction strength. The quark stars
+properties are found to be dependent on EOS. The mass, radius, moment of
+inertia and gravitational red shift decrease as the equation of state becomes
+more soft.
+","[{""version"":""v1"",""created"":""Thu, 22 Apr 1993 15:08:12 GMT""}]","2015-06-24"
+"astro-ph/9304020","Pradip Ku. sahu","Sanjay K. Ghosh, S. C. Phatak and Pradip K. Sahu","Neutrino Emissivity of Degenerate Quark Matter","13pages,Latex,IP/BBSR/92-82",,,,"astro-ph",,"  An exact numerical calculation of neutrino emissivity of two and three
+flavour quark matter have been carried out. We find that the neutrino
+emissivity obtained from the Iwamoto formula is in qualitative agreement with
+our calculation for two flavour quark matter. For three flavour case, on the
+other hand we find that the Iwamoto formula overestimates the numerical values
+by $\sim$2 orders of magnitude or more for d decay and agrees with the s decay
+results within a factor of 3-4. The dependence of the emissivity on
+temperature, strong coupling constant and baryon density is also quite
+different from the Iwamoto formula.
+","[{""version"":""v1"",""created"":""Thu, 22 Apr 1993 15:07:46 GMT""}]","2007-05-23"
+"comp-gas/9304002",,"S. Succi (IBM ECSEC, European Center for Scientific and Engineering
+  Computing, Rome, Italy) and R. Benzi(Physics Department, Universita' Roma II,
+  Tor Vergata)","Lattice Boltzmann Equation for Quantum Mechanics","IBM text-proc format",,"10.1016/0167-2789(93)90096-J",,"comp-gas nlin.CG",,"  It is shown that the Lattice Boltzmann equation for hydrodynamics can be
+extended in such a way as to describe non-relativistic quantum mechanics.
+","[{""version"":""v1"",""created"":""Wed, 21 Apr 1993 20:25:50 GMT""}]","2009-10-22"
+"comp-gas/9304003","U. Chen","Yu Chen, Hirotada Ohashi, and Mamoru Akiyama","The Lattice Boltzmann Equation Method for the Simulation of Compressible
+  Fluid Flow","6 pages, 5 figures, submitted to Simulation MultiConference, SCS 1993",,,,"comp-gas nlin.CG",,"  We systematically derived hydrodynamic equations and transport coefficients
+for a class of multi-speed lattice Boltzmann models in D dimensions, using the
+multi-scale technique. The constitutive relation of physical fluid is recovered
+by a modified equilibrium distribution in Maxwell-Boltzmann type. With the use
+of the rest particles and the particle reservoir, we were able to add one
+degree of freedom into the sound speed of the modeled fluid. When the sound
+speed is tuned small enough, the compressible region of fluid flow can be
+reached. An example 2-D model is presented, together with the numerical
+verification for its transport coefficients.
+","[{""version"":""v1"",""created"":""Thu, 22 Apr 1993 01:09:32 GMT""}]","2008-02-03"
+"cond-mat/9304035","Malte Henkel","Philippe Christe and Malte Henkel","Introduction to Conformal Invariance and its Applications to Critical
+  Phenomena","xvi + 260 pages (here only the first xvi are given), Latex, UGVA-DPT
+  1992/11-794","Springer Lecture Notes in Physics, Vol. m16 (1993)","10.1063/1.2808642",,"cond-mat",,"  This is an introduction to conformal invariance and two-dimensional critical
+phenomena for graduate students and condensed-matter physicists. After
+explaining the algebraic foundations of conformal invariance, numerical methods
+and their application to the Ising, Potts, Ashkin-Teller and XY models,
+tricritical behaviour, the Yang-Lee singularity and the XXZ chain are
+presented. Finite-size scaling techniques and their conformal extensions are
+treated in detail. The vicinity of the critical point is studied using the
+exact $S$-matrix approach, the truncation method, the thermodynamic Bethe
+ansatz and asymptotic finite-size scaling functions. The integrability of the
+two-dimensional Ising model in a magnetic field is also dealt with. Finally,
+the extension of conformal invariance to surface critical phenomena is
+described and an outlook towards possible applications in critical dynamics is
+given.
+","[{""version"":""v1"",""created"":""Wed, 21 Apr 1993 16:05:00 GMT""}]","2009-10-22"
+"gr-qc/9304032","Henri Waelbrock","Jemal Guven","Covariant perturbations of domain walls in curved spacetime","15 pages,ICN-UNAM-93-01","Phys.Rev. D48 (1993) 4604-4608","10.1103/PhysRevD.48.4604",,"gr-qc",,"  A manifestly covariant equation is derived to describe the perturbations in a
+domain wall on a given background spacetime. This generalizes recent work on
+domain walls in Minkowski space and introduces a framework for examining the
+stability of relativistic bubbles in curved spacetimes.
+","[{""version"":""v1"",""created"":""Wed, 21 Apr 1993 21:20:04 GMT""}]","2009-10-22"
+"gr-qc/9304033","Henri Waelbrock","Jemal Guven","Perturbations of a topological defect as a theory of scalar fields
+  interacting with an external vector potential",,"Phys.Rev. D48 (1993) 5562-5569","10.1103/PhysRevD.48.5562",,"gr-qc",,"  This is a revised version of gr-qc/9304033
+","[{""version"":""v1"",""created"":""Wed, 21 Apr 1993 21:20:32 GMT""},{""version"":""v2"",""created"":""Wed, 25 Aug 1993 20:47:47 GMT""}]","2009-10-22"
+"gr-qc/9304034","R. Beig, Univ. Wien.","R. Beig (Institut f\""ur Theoretische Physik Universit\""at Wien), N.
+  \'O Murchadha (Physics Department, University College Cork, Ireland)","Trapped Surfaces in Vacuum Spacetimes","14 pages","Class.Quant.Grav.11:419-430,1994","10.1088/0264-9381/11/2/013","UWThPh-1992-33","gr-qc",,"  An earlier construction by the authors of sequences of globally regular,
+asymptotically flat initial data for the Einstein vacuum equations containing
+trapped surfaces for large values of the parameter is extended, from the time
+symmetric case considered previously, to the case of maximal slices. The
+resulting theorem shows rigorously that there exists a large class of initial
+configurations for non-time symmetric pure gravitational waves satisfying the
+assumptions of the Penrose singularity theorem and so must have a singularity
+to the future.
+","[{""version"":""v1"",""created"":""Thu, 22 Apr 1993 09:24:00 GMT""}]","2010-04-06"
+"hep-ph/9304281","Carsten Grosse-Knetter","Carsten Grosse-Knetter, Ingolf Kuss and Dieter Schildknecht","Non-Standard Gauge-Boson Self-Interactions within a Gauge Invariant
+  Model","BI-TP 93/15, 24pages LaTeX (The phenomenological discussion has been
+  refined)","Z.Phys. C60 (1993) 375-388","10.1007/BF01474637",,"hep-ph",,"  We examine dimension-six extensions of the standard electroweak Lagrangian
+which are invariant under local \suu -transformations. The dimension-four
+trilinear and quadrilinear effective interactions of the vector bosons with one
+another are found to coincide with the vector boson interactions previously
+derived from global SU(2) weak isospin symmetry broken by electromagnetism.
+Supplementing the model by a well-known dimension-six single-parameter
+quadrupole interaction leads to the most general vector boson self-couplings
+that can be obtained by addition of dimension-six terms to the standard
+Lagrangian. We examine in some detail another SU(2)xU(1)-symmetric interaction
+which contains W_3-B mixing and modifies both vector boson self-couplings and
+fermionic interactions. Independently of being strongly constrained by the LEP
+1 data, the addition of this interaction to the above-mentioned non-standard
+ones does not change the form of the trilinear and quadrilinear non-standard
+self-couplings of the vector bosons. Therefore, while being interesting in
+itself with respect to LEP~1 physics, this term is irrelevant with respect to
+the phenomenology of the vector-boson self-interactions.
+","[{""version"":""v1"",""created"":""Wed, 21 Apr 1993 21:00:42 GMT""},{""version"":""v2"",""created"":""Tue, 29 Jun 1993 23:16:53 GMT""}]","2009-10-22"
+"hep-ph/9304283",,"N.N.Nikolaev","Asymptotic behaviour of the total cross section of p-p scattering and
+  the Akeno cosmic ray data","<kph154@zam001.zam.kfa-juelich.de>. 6 pages, 0 figures","Phys.Rev.D48:1904-1906,1993","10.1103/PhysRevD.48.R1904",,"hep-ph",,"  I present a new determination of the total cross section for proton-proton
+collisions from the recent Akeno results on absorption of the cosmic ray
+protons in the p-Air collisions. Extrapolation to the SSC energy suggests
+$\sigma_{tot}(p-p) \approx (160-170) mb$. I also comment on a possible
+sensitivity of the p-Air cross section determinations to assumptions on the
+inelasticity of nuclear collisions at high energy.
+","[{""version"":""v1"",""created"":""Wed, 21 Apr 1993 16:25:43 GMT""}]","2009-12-30"
+"hep-ph/9304285",,"Debajyoti Choudhury, Probir Roy and Rahul Sinha","Oblique electroweak corrections and triple vector boson couplings","LaTeX manuscript (11 pages, 3 figures -- uuencoded postscript file
+  included) TIFR--TH/93--08. Revised. An error in the previous version has been
+  corrected. Some expressions and the figures have changed slightly, but the
+  qualitative conclusions are the same",,,,"hep-ph",,"  We relate all $C$-- and $P$--invariant anomalous triple vector--boson
+couplings to the oblique electroweak parameters. LEP constraints on the latter
+then yield the strongest and most general simultaneous bounds to date on the
+former. Even if the oblique parameters assume their Standard Model values
+precisely, these bounds would not shrink to zero---thus underscoring the need
+for direct experimental probes at future colliders.
+","[{""version"":""v1"",""created"":""Wed, 21 Apr 1993 21:55:10 GMT""},{""version"":""v2"",""created"":""Tue, 18 May 1993 12:58:59 GMT""}]","2008-02-03"
+"hep-ph/9304286","Hai-Yang Cheng","Hai-Yang Cheng and B. Tseng","Cabibbo-allowed nonleptonic weak decays of charmed baryons","PHYZZX, 31 pages, 3 tables, IP-ASTP-10-93, ITP-SB-93-20","Phys.Rev.D48:4188-4202,1993","10.1103/PhysRevD.48.4188",,"hep-ph",,"  Cabibbo-allowed nonleptonic weak decays of charmed baryons
+$\lamc,~\xin,~\xip$ and $\Omega_c^0$ into an octet baryon and a pseudoscalar
+meson are analyzed. The nonfactorizable contributions are evaluated under pole
+approximation, and it turns out that the $s$-wave amplitudes are dominated by
+the low-lying $\halfm$ resonances, while $p$-wave ones governed by the
+ground-state $\halfp$ poles. The MIT bag model is employed to calculate the
+coupling constants, form factors and baryon matrix elements. Our conclusions
+are: (i) $s$ waves are no longer dominated by commutator terms; the
+current-algebra method is certainly not applicable to parity-violating
+amplitudes, (ii) nonfactorizable $W$ exchange effects are generally important;
+they can be comparable to and somtimes even dominate over factorizable
+contributions, depending on the decay modes under consideration, (iii)
+large-$N_c$ approximation for factorizable amplitudes also works in the heavy
+baryon sector and it accounts for the color nonsuppression of $\lamc\ri
+p\bar{K}^0$ relative to $\lamc\ri\Lambda\pi^+$, (iv) a measurement of the decay
+rate and the sign of the $\alpha$ asymmetry parameter of certain proposed decay
+modes will help discern various models; especially the sign of $\alpha$ in
+$\lamc\ri\Sigma\pi$ decays can be used to unambiguously differentiate recent
+theoretical schemes from current algebra, and (v) $p$ waves are the dominant
+contributions to the decays $\lamc\ri\Xi^0 K^+$ and $\xin\ri\Sigma^+ K^-$, but
+they are subject to a large cancellation; this renders present theoretical
+predictions on these two channels unreliable.
+","[{""version"":""v1"",""created"":""Wed, 21 Apr 1993 19:47:31 GMT""}]","2014-11-17"
+"hep-ph/9304287","Claudio Coriano","Claudio Coriano'","Spectral Densities and Borel Transforms in Compton Scattering","14 pages in latex 2 figs not included availiable upon request (email:
+  claudio@max.physics.sunysb.edu), ITP-US-93-8 preprint",,,,"hep-ph",,"  We show that the leading double spectral density in sum rules for
+Compton-like processes can be obtained by simple properties of the Borel
+transform, extending an approach widely used in the literature on sum rules,
+and known to be valid only for the spectral densities of form factors. The
+extension is illustrated in the scalar case, where it is shown to be consistent
+with Cutkosky rules. Using arguments based on the analiticity properties of the
+vertex and the box diagrams, we show that Compton scattering is, however, a
+favourable case and indeed possible disagreements between the two methods are
+likely to be encountered in more general situations.
+","[{""version"":""v1"",""created"":""Thu, 22 Apr 1993 13:27:51 GMT""}]","2007-05-23"
+"hep-ph/9304288",,"T.G. Rizzo","A Model of Universality Violation Revisited","14 pages, 13 figures, available on request, LaTex, ANL-HEP-PR-93-20","Phys.Rev. D48 (1993) 5286-5292","10.1103/PhysRevD.48.5286",,"hep-ph",,"  The possibility that the interactions of the third generation of quarks and
+leptons may violate universality by a small amount remains an open experimental
+question. The model of Li and Ma, which naturally accommodates such violations,
+is found to be highly constrained by newly obtained, high precision electroweak
+and $\tau$-lepton data once full Standard Model radiative corrections are
+incorporated into the analysis. A comparison of the predictions of this model
+with existing data and the expectations for future colliders is presented.
+","[{""version"":""v1"",""created"":""Thu, 22 Apr 1993 10:44:31 GMT""}]","2009-10-22"
+"hep-th/9304095","Denjoe O'Connor","Denjoe O'Connor and C. R. Stephens","Geometry the Renormalization Group and Gravity","16 pages of LaTex, DIAS-STP-92-36",,,,"hep-th",,"  We discuss the relationship between geometry, the renormalization group (RG)
+and gravity. We begin by reviewing our recent work on crossover problems in
+field theory. By crossover we mean the interpolation between different
+representations of the conformal group by the action of relevant operators. At
+the level of the RG this crossover is manifest in the flow between different
+fixed points induced by these operators. The description of such flows requires
+a RG which is capable of interpolating between qualitatively different degrees
+of freedom. Using the conceptual notion of course graining we construct some
+simple examples of such a group introducing the concept of a ``floating'' fixed
+point around which one constructs a perturbation theory. Our consideration of
+crossovers indicates that one should consider classes of field theories,
+described by a set of parameters, rather than focus on a particular one. The
+space of parameters has a natural metric structure. We examine the geometry of
+this space in some simple models and draw some analogies between this space,
+superspace and minisuperspace.
+","[{""version"":""v1"",""created"":""Wed, 21 Apr 1993 17:49:18 GMT""}]","2023-02-06"
+"hep-th/9304099","Anatoli Kirillov","Anatol N. Kirillov","Generalization of the Gale-Ryser theorem","10 pages",,,,"hep-th math.CO",,"  We prove an inequality for the Kostka-Foulkes polynomials $K_{\lambda
+,\mu}(q)$. As a corollary, we obtain a nontrivial lower bound for the Kostka
+numbers and a new proof of the Berenstein-Zelevinsky
+weight-multiplicity-one-criterium.
+","[{""version"":""v1"",""created"":""Wed, 21 Apr 1993 22:44:06 GMT""},{""version"":""v2"",""created"":""Thu, 22 Apr 1993 23:10:54 GMT""}]","2008-02-03"
+"hep-th/9304100","Hiroshi Shirokura","Hiroshi Shirokura","Factorization in 2D String Theory","10 pages, LaTeX, TIT/HEP-220","Phys.Lett. B311 (1993) 64-70","10.1016/0370-2693(93)90534-O",,"hep-th",,"  We show the factorization of correlation functions of tachyon operators in 2D
+string theory using the discretized approach of Moore. Our demonstration of the
+factorization is more general than that of the paper of Sakai and Tanii. We
+obtain the rules for the factorization of tachyon amplitudes. Our results can
+be understood in terms of the operator product expansion of tachyon operators.
+We also give a systematic way of computing correlation functions of tachyon
+operators and succeed in summarizing the results of the computation in compact
+form for some simple cases. We confirm that these tachyon amplitudes indeed
+satisfy our factorization rule.
+","[{""version"":""v1"",""created"":""Thu, 22 Apr 1993 05:20:11 GMT""}]","2009-10-22"
+"hep-th/9304101","Joakim Hallin","Joakim Hallin","QED(1+1) by Dirac Quantization","30 pages, Gothenburg ITP 93-8",,,,"hep-th",,"  (some errors corrected, slightly extended)
+","[{""version"":""v1"",""created"":""Thu, 22 Apr 1993 08:38:49 GMT""},{""version"":""v2"",""created"":""Wed, 26 May 1993 18:10:18 GMT""}]","2008-02-03"
+"solv-int/9304002","Kaji","Yasuhiro Ohta (Research Institute for Mathematical Sciences, Kyoto
+  University, Kyoto 606, Japan) Kenji Kajiwara (Department of Applied Physics,
+  Faculty of Engineering, University of Tokyo, 7-3-1 Hongo, Bunkyu-ku, Tokyo
+  113, Japan) Junkichi Satsuma (Department of Mathematical Sciences, University
+  of Tokyo, 3-8-1 Komaba, Meguro-ku, Tokyo 153, Japan)","Casorati Determinant Solution for the Relativistic Toda Lattice Equation","19 pages in plain Tex",,"10.1063/1.530298",,"solv-int nlin.SI",,"  The relativistic Toda lattice equation is decomposed into three Toda systems,
+the Toda lattice itself, B\""acklund transformation of Toda lattice and discrete
+time Toda lattice. It is shown that the solutions of the equation are given in
+terms of the Casorati determinant. By using the Casoratian technique, the
+bilinear equations of Toda systems are reduced to the Laplace expansion form
+for determinants. The $N$-soliton solution is explicitly constructed in the
+form of the Casorati determinant.
+","[{""version"":""v1"",""created"":""Thu, 22 Apr 1993 04:51:06 GMT""}]","2009-10-22"

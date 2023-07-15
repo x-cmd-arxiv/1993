@@ -1,0 +1,125 @@
+"cond-mat/9305001","Andrea Crisanti","L Biferale, A Crisanti, M Falcioni, A Vulpiani","One-dimensional asymmetrically coupled maps with defects","9 pages + 4 figures TeX dialect: Plain TeX + IOP macros (included)",,"10.1088/0305-4470/26/18/007","TNT 93-4","cond-mat",,"  In this letter we study chaotic dynamical properties of an asymmetrically
+coupled one-dimensional chain of maps. We discuss the existence of coherent
+regions in terms of the presence of defects along the chain. We find out that
+temporal chaos is instantaneously localized around one single defect and that
+the tangent vector jumps from one defect to another in an apparently random
+way. We quantitatively measure the localization properties by defining an
+entropy-like function in the space of tangent vectors.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 11:59:09 GMT""}]","2009-10-22"
+"gr-qc/9305001","Geza Ful{\o}p","G\'eza F\""ul\""op","About a Super-Ashtekar-Renteln Ansatz","15 pages, G\""oteborg, ITP 93-7","Class.Quant.Grav.11:1-10,1994","10.1088/0264-9381/11/1/005",,"gr-qc hep-th",,"  The Ashtekar-Renteln Ansatz gives the self-dual solutions to the Einstein
+equation. A direct generalization of the Ashtekar-Renteln An\-satz to N=1
+supergravity is given both in the canonical and in the covariant formulation
+and a geometrical property of the solutions is pointed out. (Changes: the
+covariant formulation and some comments about a wave function has been added)
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 08:18:27 GMT""},{""version"":""v2"",""created"":""Wed, 22 Sep 1993 10:40:19 GMT""}]","2010-04-06"
+"hep-lat/9305002",,"P. Butera, M. Comi (Istituto Nazionale di Fisica Nucleare,
+  Dipartimento di Fisica, Universita di Milano Via Celoria 16, 20133 Milano,
+  Italy) and A. J. Guttmann (Department of Mathematics, The University of
+  Melbourne Parkville, Victoria 3052, Australia)","Critical exponents of the three-dimensional classical plane rotator
+  model on the sc lattice from a high temperature series analysis","6 pages (revtex), no figures, Preprint IFUM 444/FT","Phys.Rev.B48:13987,1993","10.1103/PhysRevB.48.13987",,"hep-lat cond-mat",,"  High temperature series expansions of the spin-spin correlation function for
+the plane rotator (or XY) model on the sc lattice are extended by three terms
+through order $\beta^{17}$. Tables of the expansion coefficients are reported
+for the correlation function spherical moments of order $l=0,1,2$. Our analysis
+of the series leads to fairly accurate estimates of the critical parameters.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 10:16:39 GMT""}]","2019-08-15"
+"hep-lat/9305003","Karl Jansen","Karl Jansen, Julius Kuti and Chuan Liu","The Higgs Model with a Complex Ghost Pair","UCSD/PTH 93-07","Phys.Lett.B309:119-126,1993","10.1016/0370-2693(93)91514-N",,"hep-lat hep-ph",,"  A higher derivative term is introduced in the kinetic energy of the Higgs
+Lagrangian in the minimal Standard Model. A logically consistent and {\it
+finite} field theory is obtained when some excitations of the Higgs field are
+quantized with indefinite metric in the Hilbert space. The Landau ghost
+phenomenon of the conventional triviality problem is replaced by the state
+vectors of a complex ghost pair at a finite mass scale with observable physical
+consequences. It is shown that the ghost states exhibit unusual resonance
+properties and correspond to a complex conjugate pair of Pauli-Villars
+regulator masses in the euclidean path integral formulation of the theory. An
+argument is given that microscopic acausality effects associated with the ghost
+pair remain undetectable in scattering processes with realistic wave packects,
+and the S-matrix should exhibit unitarity in the observable sector of the
+Hilbert space. Part One of Extended UCSD-PTH 92-40
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 15:50:45 GMT""}]","2010-11-01"
+"hep-lat/9305004","Karl Jansen","Karl Jansen, Julius Kuti and Chuan Liu","Strongly Interacting Higgs Sector in the Minimal Standard Model?","UCSD/PTH 93-08","Phys.Lett. B309 (1993) 127-132","10.1016/0370-2693(93)91515-O",,"hep-lat",,"  The triviality Higgs mass bound is studied with a higher derivative regulator
+in the spontaneously broken phase of the four dimensional O(4) symmetric scalar
+field theory with quartic self-interaction. The phase diagram of the O(4) model
+is determined in a Monte Carlo simulation which interpolates between the
+hypercubic lattice regulator and the higher derivative regulator in continuum
+space-time. The same method can be used to calculate the Higgs mass bound in
+continuum space-time. In a large-N analysis, when compared with a hypercubic
+lattice, we find a relative increase in the triviality bound of the higher
+derivative regulator suggesting a strongly interacting Higgs sector in the TeV
+region with negligible dependence on regulator parameters. When the higher
+derivative regulator mass is brought close to the Higgs mass the model requires
+a more elaborate analysis of complex ghost states in scattering amplitudes.
+Part Two of Extended UCSD-PTH 92-40
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 15:51:03 GMT""}]","2009-10-22"
+"hep-ph/9305202","Stefano Forte","Mauro Anselmino and Stefano Forte","The sigma term and the quark number operator in QCD","30 pages, 1 figure, DFTT-92-6 (April 1993)","Z. Phys. C61 (1994) 453-464","10.1007/BF01413185",,"hep-ph",,"  We discuss the relationship of the forward matrix element of the operator
+$\bar\psi\psi$, related to the so-called sigma term, to the quark number. We
+show that in the naive quark model in the canonical formalism these quantities
+coincide in the limit of small average quark momenta. In the QCD parton model
+defined through light-front quantization this result is preserved at leading
+perturbative order but it receives radiative corrections. We analyze the
+theoretical and phenomenological consequences of this result, which provides a
+bridge between a current algebra quantity, the sigma term, and a deep-inelastic
+quantity, the parton number.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 15:41:30 GMT""}]","2009-10-22"
+"hep-th/9304165","Sun Chang Pu","Chang-Pu Sun","High-Order Adiabatic Approximation for Non-Hermitian Quantum System and
+  Complexization of Berry's Phase","ITP.SB-93-22,17 pages",,"10.1088/0031-8949/48/4/002",,"hep-th",,"  In this paper the evolution of a quantum system drived by a non-Hermitian
+Hamiltonian depending on slowly-changing parameters is studied by building an
+universal high-order adiabatic approximation(HOAA) method with Berry's phase
+,which is valid for either the Hermitian or the non-Hermitian cases. This
+method can be regarded as a non-trivial generalization of the HOAA method for
+closed quantum system presented by this author before. In a general situation,
+the probabilities of adiabatic decay and non-adiabatic transitions are
+explicitly obtained for the evolution of the non-Hermitian quantum system. It
+is also shown that the non-Hermitian analog of the Berry's phase factor for the
+non-Hermitian case just enjoys the holonomy structure of the dual linear bundle
+over the parameter manifold. The non-Hermitian evolution of the generalized
+forced harmonic oscillator is discussed as an illustrative examples.
+","[{""version"":""v1"",""created"":""Sun, 2 May 1993 16:35:37 GMT""}]","2009-10-22"
+"hep-th/9305001","Lev Vaidman","Yakir Aharonov and Lev Vaidman","The Schrodinger Wave is Observable after All!","8, TAUP 2020-93#",,,,"hep-th",,"  It is shown that it is possible to measure the Schr\""odinger wave of a single
+quantum system. This provides a strong argument for associating physical
+reality with a quantum state of a single system in sharp contrast with the
+usual approach in which the physical meaning of a quantum state is related only
+to an ensemble of identical systems. An apparent paradox between measurability
+of a quantum state of a single system and the relativistic causality is
+resolved.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 07:19:48 GMT""}]","2007-05-23"
+"hep-th/9305002","Lev Vaidman","Avshalom C. Elitzur and Lev Vaidman","Quantum Mechanical Interaction-Free Measurements","(revised file with no need for macro), 12, TAUP 1865-91#",,"10.1007/BF00736012",,"hep-th",,"  A novel manifestation of nonlocality of quantum mechanics is presented. It is
+shown that it is possible to ascertain the existence of an object in a given
+region of space without interacting with it. The method might have practical
+applications for delicate quantum experiments.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 07:22:28 GMT""},{""version"":""v2"",""created"":""Wed, 5 May 1993 13:59:48 GMT""}]","2009-10-22"
+"hep-th/9305003","Neil Marcus","Neil Marcus and Yaron Oz (U of Tel-Aviv)","The spectrum of the 2D Black Hole, or Does the 2D black hole have
+  tachyonic or W--hair?","32 Pages (LaTeX). TAUP-2046-93","Nucl.Phys.B407:429-458,1993","10.1016/0550-3213(93)90066-X",,"hep-th gr-qc",,"  We solve the equations of motion of the tachyon and the discrete states in
+the background of Witten's semiclassical black hole and in the exact 2D
+dilaton-graviton background of Dijkgraaf et al. We find the exact solutions for
+weak fields, leading to conclusions in disagreement with previous studies of
+tachyons in the black hole. Demanding that a state in the black hole be well
+behaved at the horizon implies that it must tend asymptotically to a
+combination of a Seiberg and an anti-Seiberg c=1 state. For such a state to be
+well behaved asymptotically, it must satisfy the condition that neither its
+Seiberg nor its anti-Seiberg Liouville momentum is positive. Thus, although the
+free-field BRST cohomologies of the underlying SL(2,R)/U(1) theory is the same
+as that of a c=1 theory, the black hole spectrum is drastically truncated:
+THERE ARE NO W_INFINITY STATES, AND ONLY TACHYONS WITH X-MOMENTA | P_TACH | <=
+| M_TACH | ARE ALLOWED. In the Minkowski case only the static tachyon is
+allowed. The black hole is stable to the back reaction of these remaining
+tachyons, so they are good perturbations of the black hole, or ``hair''.
+However, this leaves only 3 tachyonic hairs in the black hole and 7 in the
+exact solution! Such sparse hair is clearly irrelevant to the maintenance of
+coherence during black hole evaporation.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 13:15:43 GMT""}]","2009-09-29"
+"hep-th/9305004","Per","Per Elmfors, Bo-Sture Skagerstam and David Persson","QED effective action at finite temperature and density","10 pages, Latex, NORDITA-93/35 P, Goteborg ITP 92-22","Phys.Rev.Lett.71:480-483,1993","10.1103/PhysRevLett.71.480",,"hep-th",,"  The QED effective action at finite temperature and density is calculated to
+all orders in an external homogeneous and time-independent magnetic field in
+the weak coupling limit. The free energy, obtained explicitly, exhibit the
+expected de\ Haas -- van\ Alphen oscillations. An effective coupling at finite
+temperature and density is derived in a closed form and is compared with
+renormalization group results.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 13:49:34 GMT""}]","2008-11-26"
+"hep-th/9405021","R. A. Sharipov","A. Yu. Boldin, V. V. Dmitrieva, S. S. Safin, R. A. Sharipov (Bashkir
+  State University)","Dynamical systems accepting the normal shift on an arbitrary Riemannian
+  manifold","10 pages. Published in book: ""Dynamical systems accepting the normal
+  shift"". Editor Sharipov R.A., Bashkir State University, Ufa 1994, pp. 4-19","Theor.Math.Phys. 103 (1995) 543-549; Teor.Mat.Fiz. 103N2 (1995)
+  256-266",,,"hep-th chao-dyn math.DG nlin.CD",,"  Newtonian dynamical systems which accept the normal shift on an arbitrary
+Riemannian manifold are considered. For them the determinating equations making
+the weak normality condition are derived. The expansion for the algebra of
+tensor fields is constructed.
+","[{""version"":""v1"",""created"":""Mon, 3 May 1993 09:03:59 GMT""}]","2008-02-03"

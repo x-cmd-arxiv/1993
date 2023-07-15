@@ -1,0 +1,175 @@
+"adap-org/9306005","Alfred Hubler","Alfred H\""ubler and David Pines (Santa Fe Institute and Physics
+  Department, University of Illinois)","Prediction and Adaptation in an Evolving Chaotic Environment","LaTeX file with 1Mb uuencoded, tar-compressed figure file",,,"University of Illinois CCSR-93-2","adap-org chao-dyn nlin.AO nlin.CD",,"  We describe the results of analytic calculations and computer simulations of
+adaptive predictors (predictive agents) responding to an evolving chaotic
+environment and to one another. Our simulations are designed to quantify
+adaptation and to explore co-adaptation for a simple calculable model of a
+complex adaptive system. We first consider the ability of a single agent,
+exposed to a chaotic environment, to model, control, and predict the future
+states of that environment. We then introduce a second agent which, in
+attempting to model and control both the chaotic environment and the first
+agent, modifies the extent to which that agent can identify patterns and
+exercise control. We find that (i) optimal adaptive predictors have an optimal
+memory and an optimal complexity, which are small for a rapidly changing map
+dynamics and (ii) that the predictive power can be increased by imposing chaos
+or random noise onto the map dynamics. The competition between the two
+predictive agents can lead either to chaos, or to metastable emergent behavior,
+best described as a leader-follower relationship. Our results suggest a
+correlation between optimal adaptation, optimal complexity, and emergent
+behavior, and provide preliminary support for the concept of optimal
+co-adaptation near the edge of chaos.
+","[{""version"":""v1"",""created"":""Mon, 28 Jun 1993 21:34:56 GMT""}]","2008-02-03"
+"astro-ph/9306028","Kohji Tomisaka","Kohji Tomisaka (Niigata University, Niigata, Japan)","Collapse and Fragmentation of Magnetized Cylindrical Clouds","20 pages, figures available upon request, LaTeX, NIGAST0401","Astrophys.J. 438 (1995) 226-243","10.1086/175067",,"astro-ph",,"  Gravitational collapse of the cylindrical elongated cloud is studied by
+numerical magnetohydrodynamical simulations. In the infinitely long cloud in
+hydrostatic configuration, small perturbations grow by the gravitational
+instability. The most unstable mode indicated by a linear perturbation theory
+grows selectively even from a white noise. The growth rate agrees with that
+calculated by the linear theory. First, the density-enhanced region has an
+elongated shape, i.e., prolate spheroidal shape. As the collapse proceeds, the
+high-density fragment begins to contract mainly along the symmetry axis.
+Finally, a spherical core is formed in the non-magnetized cloud. In contrast,
+an oblate spheroidal dense disk is formed in a cloud in which the magnetic
+pressure is nearly equal to the thermal one. The radial size of the disk
+becomes proportional to the initial characteristic density scale-height in the
+r-direction. As the collapse proceeds, a slowly contracting dense part is
+formed (approximately < 10% in mass) inside of the fast contracting disk. And
+this is separated from other part of the disk whose inflow velocity is
+accelerated as reaching the center of the core. From arguments on the Jeans
+mass and the magnetic critical mass, it is concluded that the fragments formed
+in a cylindrical elongated cloud can not be supported against the self- gravity
+and it will eventually collapse.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 02:18:47 GMT""}]","2009-10-22"
+"gr-qc/9306034",,"Joseph D. Romano","On the Constraint Algebra of Degenerate Relativity","14 pages (Latex file), UMDGR-93-204","Phys.Rev. D48 (1993) 5676-5683","10.1103/PhysRevD.48.5676",,"gr-qc",,"  As shown by Ashtekar in the mid 80's, general relativity can be extended to
+incorporate degenerate metrics. This extension is not unique, however, as one
+can change the form of the hamiltonian constraints and obtain an {\it
+alternative} degenerate extension of general relativity that disagrees with
+Ashtekar's original theory when the triads vectors are degenerate. In this
+paper, the constraint algebra of a particular alternative theory is explicitly
+evaluated and compared with that of Ashtekar's original degenerate extension. A
+generic classification of the difference between the two theories is given in
+terms of the degeneracy and surface-forming properties of the triad vectors.
+(This classification is valid when the degeneracy and surface-forming
+properties of the triad vectors is the same everywhere in an open set about a
+point in space.) If the triad vectors are degenerate and surface-forming, then
+all the secondary constraints of the alternative degenerate extension are
+satisfied as a consequence of the primary constraints, and the constraints of
+this theory are weaker than those of Ashtekar's. If the degenerate triad
+vectors are not surface-forming, then the first secondary constraint of the
+alternative theory already implies equivalence with Ashtekar's degenerate
+extension. What happens when the degeneracy and surface-forming properties of
+the triad vectors change from point to point is an open question.
+","[{""version"":""v1"",""created"":""Mon, 28 Jun 1993 16:27:10 GMT""}]","2009-10-22"
+"gr-qc/9306035","Andrei Linde","Andrei Linde, Dmitri Linde and Arthur Mezhlumian","From the Big Bang Theory to the Theory of a Stationary Universe","No changes to the file, but original figures are included. They
+  substantially help to understand this paper, as well as eternal inflation in
+  general, and what is now called the ""multiverse"" and the ""string theory
+  landscape."" High quality figures can be found at
+  http://www.stanford.edu/~alinde/LLMbigfigs/","Phys.Rev.D49:1783-1826,1994","10.1103/PhysRevD.49.1783",,"gr-qc astro-ph hep-lat",,"  We consider chaotic inflation in the theories with the effective potentials
+phi^n and e^{\alpha\phi}. In such theories inflationary domains containing
+sufficiently large and homogeneous scalar field \phi permanently produce new
+inflationary domains of a similar type. We show that under certain conditions
+this process of the self-reproduction of the Universe can be described by a
+stationary distribution of probability, which means that the fraction of the
+physical volume of the Universe in a state with given properties (with given
+values of fields, with a given density of matter, etc.) does not depend on
+time, both at the stage of inflation and after it. This represents a strong
+deviation of inflationary cosmology from the standard Big Bang paradigm. We
+compare our approach with other approaches to quantum cosmology, and illustrate
+some of the general conclusions mentioned above with the results of a computer
+simulation of stochastic processes in the inflationary Universe.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 05:15:07 GMT""},{""version"":""v2"",""created"":""Wed, 1 Feb 2006 20:20:32 GMT""},{""version"":""v3"",""created"":""Wed, 1 Feb 2006 21:03:31 GMT""}]","2009-09-29"
+"hep-lat/9306023",,"Yigal Shamir","Constraints on the Existence of Chiral Fermions in Interacting Lattice
+  Theories","LaTeX, 9 pages, WIS--93/56--JUNE--PH","Phys.Rev.Lett.71:2691-2694,1993","10.1103/PhysRevLett.71.2691",,"hep-lat hep-th",,"  It is shown that an interacting theory, defined on a regular lattice, must
+have a vector-like spectrum if the following conditions are satisfied:
+(a)~locality, (b)~relativistic continuum limit without massless bosons, and
+(c)~pole-free effective vertex functions for conserved currents.
+  The proof exploits the zero frequency inverse retarded propagator of an
+appropriate set of interpolating fields as an effective quadratic hamiltonian,
+to which the Nielsen-Ninomiya theorem is applied.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 09:34:02 GMT""}]","2011-04-20"
+"hep-ph/9306324",,"S. Laporta","The Analytical Contribution of Some Eighth-Order Graphs Containing
+  Vacuum Polarization Insertions to the Muon (G-2) in QED","plain TEX, 10 pages + 3 figures (figures are available upon request),
+  DFUB 93-06","Phys.Lett. B312 (1993) 495-500","10.1016/0370-2693(93)90988-T",,"hep-ph",,"  The contributions to the $g-2$ of the muon from some eighth-order (four-loop)
+graphs containing one-loop and two-loop vacuum polarization insertions have
+been evaluated analytically in QED perturbation theory, expanding the results
+in the ratio of the electron to muon mass ${(m_e / m_\mu)}$. The results agree
+with the numerical evaluations and the asymptotic analytical results already
+existing in the literature.
+","[{""version"":""v1"",""created"":""Mon, 28 Jun 1993 20:38:00 GMT""}]","2009-10-22"
+"hep-ph/9306325",,"M. Drees, G. Jungman, M. Kamionkowski, M. Nojiri","Neutralino Annihilation to Gluons","32 pages, requires harvmac.tex with 7 EPS figures
+  (tarred-compressed-uuencoded submitted separately) complete postscript file
+  also available by anon-ftp at
+  rainbow.uchicago.edu:/pt-preprints/efi-93-38.ps.Z preprint numbers:
+  MAD-PH-766 EFI-93-38 IASSNS-HEP-93/37","Phys.Rev. D49 (1994) 636-647","10.1103/PhysRevD.49.636",,"hep-ph astro-ph",,"  We present a complete calculation of the cross section for neutralino
+annihilation into the two-gluon final state. This channel can be quite
+important for the phenomenology of neutralino annihilation due to the
+well-known helicity suppression of neutralino annihilation into light quarks
+and leptons. In addition, we calculate the cross section for annihilation of
+neutralinos into a gluon and quark-antiquark pair, and discuss QCD corrections
+to the tree-level cross sections for neutralino annihilation into quarks. If
+the neutralino is lighter than the top quark, the effect of these results on
+high-energy neutrino signals from neutralino annihilation in the Sun and in the
+Earth can be significant, especially if the neutralino is primarily gaugino. On
+the other hand, our results should have little effect on calculations of the
+cosmological abundance of neutralinos. We also briefly discuss implications for
+cosmic-ray antiprotons from neutralino annihilation in the galactic halo.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 02:06:07 GMT""}]","2009-10-22"
+"hep-th/9306152","Alexander Migdal","A.A.Migdal","Turbulence as Statistics of Vortex Cells","24 pages, 3 figures, LaTeX, PUPT-1409(the figures uuencoded,previous
+  versions corrupted by mailer)",,,,"hep-th cond-mat hep-lat",,"  We develop the formulation of turbulence in terms of the functional integral
+over the phase space configurations of the vortex cells. The phase space
+consists of Clebsch coordinates at the surface of the vortex cells plus the
+Lagrange coordinates of this surface plus the conformal metric. Using the
+Hamiltonian dynamics we find an invariant probability distribution which
+satisfies the Liouville equation. The violations of the time reversal
+invariance come from certain topological terms in effective energy of our
+Gibbs-like distribution. We study the topological aspects of the statistics and
+use the string theory methods to estimate intermittency.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 02:21:31 GMT""},{""version"":""v2"",""created"":""Tue, 29 Jun 1993 20:50:07 GMT""}]","2008-02-03"
+"hep-th/9306153","Jean Zinn-Justin","P. Di Francesco, P. Ginsparg, and J. Zinn-Justin","2D Gravity and Random Matrices","190 pages (harvmac l mode), 400kb (don't even dream of requesting
+  hardcopy)","Phys.Rept.254:1-133,1995","10.1016/0370-1573(94)00084-G","LA-UR-93-1722, SPhT/93-061","hep-th",,"  We review recent progress in 2D gravity coupled to $d<1$ conformal matter,
+based on a representation of discrete gravity in terms of random matrices. We
+discuss the saddle point approximation for these models, including a class of
+related $O(n)$ matrix models. For $d<1$ matter, the matrix problem can be
+completely solved in many cases by the introduction of suitable orthogonal
+polynomials. Alternatively, in the continuum limit the orthogonal polynomial
+method can be shown to be equivalent to the construction of representations of
+the canonical commutation relations in terms of differential operators. In the
+case of pure gravity or discrete Ising--like matter, the sum over topologies is
+reduced to the solution of non-linear differential equations (the Painlev\'e
+equation in the pure gravity case) which can be shown to follow from an action
+principle. In the case of pure gravity and more generally all unitary models,
+the perturbation theory is not Borel summable and therefore alone does not
+define a unique solution. In the non-Borel summable case, the matrix model does
+not define the sum over topologies beyond perturbation theory. We also review
+the computation of correlation functions directly in the continuum formulation
+of matter coupled to 2D gravity, and compare with the matrix model results.
+Finally, we review the relation between matrix models and topological gravity,
+and as well the relation to intersection theory of the moduli space of
+punctured Riemann surfaces.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 06:20:41 GMT""},{""version"":""v2"",""created"":""Wed, 27 Jul 1994 07:30:51 GMT""}]","2010-11-01"
+"hep-th/9306154",,"J.S.Dowker","Effective action in spherical domains","18 pages, Plain TeX (Mailer oddities possibly corrected.)","Commun. Math. Phys. 162 (1994) 633-648","10.1007/BF02101749","MUTP/15/93","hep-th alg-geom math.AG",,"  The effective action on an orbifolded sphere is computed for minimally
+coupled scalar fields. The results are presented in terms of derivatives of
+Barnes zeta-functions and it is shown how these may be evaluated. Numerical
+values are shown. An analytical, heat-kernel derivation of the Ces\`aro-Fedorov
+formula for the number of symmetry planes of a regular solid is also presented.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 10:02:00 GMT""},{""version"":""v2"",""created"":""Wed, 30 Jun 1993 14:11:00 GMT""}]","2009-10-22"
+"hep-th/9306155","Vadim Kuznetsov","J. C. Eilbeck, V. Z. Enol'skii, Vadim B. Kuznetsov and A. V. Tsiganov","Linear $r$-matrix algebra for classical separable systems","15 pages","J.Phys. A27 (1994) 567-578","10.1088/0305-4470/27/2/038","University of Amsterdam Math 93-11","hep-th nlin.SI solv-int",,"  We consider a hierarchy of the natural type Hamiltonian systems of $n$
+degrees of freedom with polynomial potentials separable in general ellipsoidal
+and general paraboloidal coordinates. We give a Lax representation in terms of
+$2\times 2$ matrices for the whole hierarchy and construct the associated
+linear $r$-matrix algebra with the $r$-matrix dependent on the dynamical
+variables. A Yang-Baxter equation of dynamical type is proposed. Using the
+method of variable separation we provide the integration of the systems in
+classical mechanics conctructing the separation equations and, hence, the
+explicit form of action variables. The quantisation problem is discussed with
+the help of the separation variables.
+","[{""version"":""v1"",""created"":""Tue, 29 Jun 1993 09:05:56 GMT""}]","2009-10-22"
+"patt-sol/9306002",,"R. A. Kraenkel (IFT-UNESP/S\~ao Paulo), S. M. Kurcbart
+  (IFT-UNESP/S\~ao Paulo), J. G. Pereira (IFT-UNESP/S\~ao Paulo), M. A. Manna
+  (LPM-Universit\'e de Montpellier II-Montpellier)","Dissipative Boussinesq System of Equations in the B\'enard-Marangoni
+  Phenomenon","15 Pages, REVTEX (Version 3.0), no figures",,"10.1103/PhysRevE.49.1759",,"patt-sol nlin.PS",,"  By using the long-wave approximation, a system of coupled evolution equations
+for the bulk velocity and the surface perturbations of a B\'enard-Marangoni
+system is obtained. It includes nonlinearity, dispersion and dissipation, and
+it can be interpreted as a dissipative generalization of the usual Boussinesq
+system of equations. As a particular case, a strictly dissipative version of
+the Boussinesq system is obtained. Finnaly, some speculations are made on the
+nature of the physical phenomena described by this system of equations.
+","[{""version"":""v1"",""created"":""Mon, 28 Jun 1993 16:03:00 GMT""}]","2009-10-22"

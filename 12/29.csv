@@ -1,0 +1,198 @@
+"astro-ph/9312062",,"S. Dodelson, G. Gyuk, and M.S. Turner","Primordial Nucleosynthesis with a Decaying Tau Neutrino","27 pages, Latex, 12 Figures avaiable on request, FNAL--Pub--93/236-A","Phys.Rev.D49:5068-5079,1994","10.1103/PhysRevD.49.5068",,"astro-ph hep-ph",,"  A comprehensive study of the effect of an unstable tau neutrino on primordial
+nucleosynthesis is presented. The standard code for nucleosynthesis is modified
+to allow for a massive decaying tau neutrino whose daughter products include
+neutrinos, photons, $e^\pm$ pairs, and/or noninteracting (sterile) daughter
+products. Tau-neutrino decays influence primordial nucleosynthesis in three
+distinct ways: (i) the energy density of the decaying tau neutrino and its
+daughter products affect the expansion rate tending to increase $^4$He, D, and
+$^3$He production; (ii) electromagnetic (EM) decay products heat the EM plasma
+and dilute the baryon-to-photon ratio tending to decrease $^4$He production and
+increase D and $^3$He production; and (iii) electron neutrinos and
+antineutrinos produced by tau-neutrino decays increase the weak rates that
+govern the neutron-to-proton ratio, leading to decreased $^4$He production for
+short lifetimes ($\la 30\sec$) and masses less than about $10\MeV$ and
+increased $^4$He production for long lifetimes or large masses. The precise
+effect of a decaying tau neutrino on the yields of primordial nucleosynthesis
+and the mass-lifetime limits that follow depend crucially upon decay mode. We
+identify four generic decay modes that serve to bracket the wider range of
+possibilities:
+","[{""version"":""v1"",""created"":""Tue, 28 Dec 1993 22:53:57 GMT""}]","2008-11-26"
+"astro-ph/9312063","Karsten Jedamzik","K. Jedamzik and G.M. Fuller","The Evolution of Non-Linear Sub-Horizon Scale Entropy Fluctuations in
+  the Earlu Universe","44 pages in plain Tex, 16 figures (not included) available by fax or
+  mail upon request, ApJ in press","Astrophys.J. 423 (1994) 33-49","10.1086/173788",,"astro-ph",,"  We examine the damping of non-linear sub-horizon scale entropy fluctuations
+in early epochs of the universe ($T\approx 100$ GeV to $T\approx 1$keV) by
+neutrino, baryon, and photon induced dissipative processes. Results of
+numerical evolution calculations are presented for broad ranges of initial
+fluctuation amplitudes and length scales. These calculations include a detailed
+treatment of neutrino inflation, neutron and proton diffusion, photon diffusive
+heat transport, and hydrodynamic expansion with photon-electron Thomson drag.
+Neutrino inflation is treated both in the diffusive heat transport regime where
+neutrinos are optically thick on the length scales of the fluctuations, and in
+the homogeneous heating regime where neutrinos are optically thin on these
+scales. We find considerable convergence in amplitude evolution for appreciable
+ranges in initial fluctuation length scales and amplitudes. Fluctuations
+produced with the right characteristics at very early times ($T$ $^>_{\sim}$
+100 GeV) are found to survive through the nucleosynthesis epoch.
+","[{""version"":""v1"",""created"":""Tue, 28 Dec 1993 23:30:03 GMT""}]","2009-10-22"
+"hep-lat/9312085",,"G.M. de Divitiis, R. Frezzotti, M. Guagnelli and R. Petronzio","A definition of the running coupling constant in a twisted SU(2) lattice
+  gauge theory","19 postscript pages","Nucl.Phys. B422 (1994) 382-396","10.1016/0550-3213(94)00126-X",,"hep-lat",,"  We propose a definition of the running coupling constant in a SU(2) lattice
+gauge theory with twisted boundary conditions. It is based on the correlation
+of Polyakov loops extended in a twisted direction at a distance which is a
+fixed fraction of the totale lattice size. We make the perturbative calculation
+which connects this definition to standard regularization schemes. We find
+Lambda_Twisted-Polyakov/Lambda_MSbar = 1.6136(2).
+","[{""version"":""v1"",""created"":""Tue, 28 Dec 1993 21:33:00 GMT""}]","2009-10-22"
+"hep-lat/9312086","Claude Bernard","Claude Bernard","Heavy-light and light-light weak matrix elements on the lattice","16 pages. (latex; 7 postscript figures included; 7 other figures are
+  reproduced from work by others and are not available here. Some hardcopies of
+  the talk will be available; send e-mail to cb@lump.wustl.edu.)","Nucl.Phys.Proc.Suppl. 34 (1994) 47-62","10.1016/0920-5632(94)90319-0",,"hep-lat hep-ph",,"  I review recent developments in lattice weak matrix element calculations. I
+focus on on $f_B$ (both with propagating quarks and in the static limit for the
+$b$ quark), semi-leptonic form factors for $D$ meson decay, form factors for $B
+\to K^* \gamma$, and $B_K$. [Review presented at Lattice '93]
+","[{""version"":""v1"",""created"":""Tue, 28 Dec 1993 23:55:53 GMT""}]","2009-10-22"
+"hep-lat/9312087","Arjan van der Sijs","J. Smit and A.J. Van Der Sijs","A Magnetic Monopole in Pure SU(2) Gauge Theory","33 pages uufiles-compressed PostScript including (all) 12 figures,
+  preprint numbers ITFA-93-19 (Amsterdam), OUTP-93-21P (Oxford), DFTUZ/93/23
+  (Zaragoza)","Nucl.Phys. B422 (1994) 349-381","10.1016/0550-3213(94)00062-X",,"hep-lat hep-th",,"  The magnetic monopole in euclidean pure SU(2) gauge theory is investigated
+using a background field method on the lattice.
+  With Monte Carlo methods we study the mass of the monopole in the full
+quantum theory.
+  The monopole background under the quantum fluctuations is induced by imposing
+fixed monopole boundary conditions on the walls of a finite lattice volume.
+  By varying the gauge coupling it is possible to study monopoles with scales
+from the hadronic scale up to high energies.
+  The results for the monopole mass are consistent with a conjecture we made
+previously in a realization of the dual superconductor hypothesis of
+confinement.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 12:12:16 GMT""}]","2009-10-22"
+"hep-ph/9312346","Kyuzo Teshima","K. Kimura and K. Tesima","Multiplicity with a Thrust Cut","OCHA-PP-32, LATEX FILE, 21p","Z.Phys. C62 (1994) 471-480","10.1007/BF01555906",,"hep-ph",,"  We evaluate the multiplicity of hadrons in the $e^+e^-$-annihilation at a
+given thrust $T$ in the modified leading-log approximation, including
+$O(\sqrt{\alpha_s})$ corrections. The calculation is done at a large value of
+$\tau =1-T$ by the use of the factorisation which takes place in the
+one-particle-inclusive cross section at a given $\tau$. At a small $\tau$, a
+different type of factorisation takes place, which also enable us to evaluate
+the multiplicity. Two approaches are compared numerically. Measuring this
+quantity near $\tau =1/3$, we can determine the multiplicity ratio between a
+gluon-jet and a quark-jet.
+","[{""version"":""v1"",""created"":""Tue, 28 Dec 1993 17:09:00 GMT""}]","2009-10-22"
+"hep-ph/9312348",,"Yue-Liang Wu (CMU)","The Origin and Mechanisms of CP Violation In the Two-Higgs Doublet Model
+  and Masses of the Exotic Scalars","RevTex, 12 pages (with emphases on new observations), CMU-HEP93-28
+  DOE-ER/40682-53",,,,"hep-ph",,"  I rebuild a conventional two-Higgs doublet model by relaxing the spontaneous
+CP violation and considering approximate global U(1) family symmetries. So that
+the domain-wall problem does not explicitly arise at the weak scale, but CP
+violation still solely originates from a single CP-phase in the vacuum after
+spontaneous symmetry breaking. With this phase four types of CP-violating
+mechanism are induced in the model. In particular, by a new type of the
+mechanism, both the indirect- and direct- CP violation (i.e. $\epsilon$ and
+$\epsilon'/\epsilon$) in kaon decay and the neutron electric dipole moment can
+be consistently accommodated. The masses of the exotic scalars are weakly
+constrained in the model and searching for these particles is worthwhile in the
+presently accessible energy range. Substantial CP violation may occur in the
+heavy quark and lepton sectors and probing their effects provides a challenge
+at B-factory and colliders.
+","[{""version"":""v1"",""created"":""Tue, 28 Dec 1993 21:21:36 GMT""},{""version"":""v2"",""created"":""Wed, 16 Feb 1994 21:07:16 GMT""}]","2008-02-03"
+"hep-ph/9312349","Sean Gavin","Sean Gavin and Berndt Mueller","Larger Domains of Disoriented Chiral Condensate Through Annealing","7 pages and 3 postscript figures, BNL-GM-1","Phys.Lett. B329 (1994) 486-492","10.1016/0370-2693(94)91094-4",,"hep-ph nucl-th",,"  Relativistic heavy ion collisions can generate metastable domains in which
+the chiral condensate is disoriented. Nucleus-sized domains can yield
+measurable fluctuations in the number of neutral and charged pions. We propose
+a scenario in which domains are `annealed' by a dynamically evolving effective
+potential in the heavy ion system. Domains of sizes exceeding 3~fm are possible
+in this scenario.
+","[{""version"":""v1"",""created"":""Tue, 28 Dec 1993 23:01:40 GMT""}]","2009-10-22"
+"hep-ph/9312350","Shoichi Sasaki","Hideo Suganuma (RIKEN), Shoichi Sasaki(TMU) and Hiroshi Toki(TMU,
+  RIKEN)","Color Confinement, Quark Pair Creation and Dynamical Chiral-Symmetry
+  Breaking in the Dual Ginzburg-Landau Theory","37 pages, plain TeX (using `phyzzx' macro), (( 8 figures - available
+  on request from sho1@yamabuki.comp.metro-u.ac.jp ))","Nucl.Phys. B435 (1995) 207-240","10.1016/0550-3213(94)00392-R",,"hep-ph",,"  We study the color confinement, the $q$-$\bar q$ pair creation and the
+dynamical chiral-symmetry breaking of nonperturbative QCD by using the dual
+Ginzburg-Landau theory, where QCD-monopole condensation plays an essential role
+on the nonperturbative dynamics in the infrared region. As a result of the dual
+Meissner effect, the linear static quark potential, which characterizes the
+quark confinement, is obtained in the long distance within the quenched
+approximation. We obtain a simple expression for the string tension similar to
+the energy per unit length of a vortex in the superconductivity physics. The
+dynamical effect of light quarks on the quark confining potential is
+investigated in terms of the infrared screening effect due to the $q$-$\bar q$
+pair creation or the cut of the hadronic string. The screening length of the
+potential is estimated by using the Schwinger formula for the $q$-$\bar q$ pair
+creation. We introduce the corresponding infrared cutoff to the strong
+long-range correlation factor in the gluon propagator as a dynamical effect of
+light quarks, and obtain a compact formula of the quark potential including the
+screening effect in the infrared region. We investigate the dynamical
+chiral-symmetry breaking by using the Schwinger-Dyson equation, where the gluon
+propagator includes the nonperturbative effect related to
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 09:27:06 GMT""},{""version"":""v2"",""created"":""Mon, 24 Jan 1994 09:03:03 GMT""}]","2009-10-22"
+"hep-ph/9312351","Christo Christov","A.Z.Gorski, Chr.V.Christov and K.Goeke","Electromagnetic nucleon properties and quark sea polarization in the
+  Nambu-Jona-Lasinio model","TeX, 25 pages with 9 figures (uuencoded) included, report
+  RUB--TPII--56/93",,,,"hep-ph",,"  In this paper we present the derivation as well as the numerical results for
+all electromagnetic form factors of the nucleon within the semibosonized
+Nambu--Jona-Lasinio (chiral quark soliton) model. Other observables, namely the
+nucleon mean squared radii, the magnetic moments and the nucleon--$\Delta$
+splitting are also computed. The calculation has been done taking into account
+the quark sea polarization effects. The final results, including rotational
+$1/N_c$ corrections, are compared with the existent experimental data and they
+are found to be in a good agreement for the constituent quark mass of
+$400$--$420\ MeV$.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 14:57:06 GMT""}]","2009-09-25"
+"hep-th/9312200","Shin'ichi Nojiri","Masako Kawamura, Akio Sugamoto and Shin'ichi Nojiri","Swimming of Microorganisms Viewed from String and Membrane Theories","pp20 OCHA-PP-38, NDA-FP-14, Latex file","Mod.Phys.Lett. A9 (1994) 1159-1174","10.1142/S0217732394000976",,"hep-th",,"  Swimming of microorganisms is studied from a viewpoint of extended objects
+(strings and membranes) swimming in the incompressible f luid of low Reynolds
+number. The flagellated motion is analyzed in two dimensional fluid, by using
+the method developed in the ciliated motion with the Joukowski transformation.
+Discussion is given on the conserved charges and the algebra which are
+associated with the area (volume)- preserving diffeomorphisms giving the
+swimming motion of microorganisms. It is also suggested that the $N$-point
+string- and membrane-like amplitudes are useful for studying the collective
+swimming motion of microorganisms when fluctuation of the vorticity
+distribution exists in the sticky or rubber-like fluid.
+","[{""version"":""v1"",""created"":""Tue, 28 Dec 1993 18:17:00 GMT""},{""version"":""v2"",""created"":""Fri, 14 Jan 1994 23:06:00 GMT""},{""version"":""v3"",""created"":""Fri, 21 Jan 1994 13:56:00 GMT""}]","2009-10-22"
+"hep-th/9312201","Ergin Sezgin","Z. Khviengia and E. Sezgin","On Nonlinear Superconformal Algebras With N > 4","9 pages, plain tex, CTP TAMU-71/93. (Contribution to the Proceedings
+  of the Trieste Summer School in High Energy Physics and Cosmology, 14 June-30
+  July 1993, Trieste, Italy.)",,,,"hep-th",,"  We discuss the structure, realizations and quantum BRST operators of a class
+of nonlinear superconformal algebras with N > 4.
+","[{""version"":""v1"",""created"":""Tue, 28 Dec 1993 21:24:05 GMT""}]","2007-05-23"
+"hep-th/9312202","Zarkesh","B. Mikhak and A.M. Zarkesh","The Perturbative Calculation of the Spin-Spin Correlation Function in
+  the Two Dimensional Ising Model","8 pages, UCLA/93/TEP/48","Phys.Lett. B331 (1994) 342-346","10.1016/0370-2693(94)91062-6",,"hep-th cond-mat",,"  Using the variational formula for operator product coefficients a method for
+perturbative calculation of the short-distance expansion of the Spin-Spin
+correlation function in the two dimensional Ising model is presented. Results
+of explicit calculation up to third order agree with known results from the
+scaling limit of the lattice calculation.
+","[{""version"":""v1"",""created"":""Tue, 28 Dec 1993 23:17:32 GMT""}]","2009-10-22"
+"hep-th/9312203","Charidimos Gasparakis","C. Gasparakis","On Projective Gravity and the vanishing of the Cosmological Constant","17 pages, 3 figures (not included), ITP-SB-93-81",,,,"hep-th",,"  We generalize Einstein's Lagrangian in a non-polynomial (in R) way. The usual
+Lagrangian (linear in R) is the zero $\alpha'$ limit of our theory, where
+$\alpha'$ is a parameter that is interpreted as the inverse cosmological
+costant before the Planck time. The theory space of this lagrangian admits a
+${\bf Z_{2}}$ modular group, namely $R \leftrightarrow 1/R$. Independence of
+the modular invariant expectation values from the number of `Big Bangs'
+enforces a quantization condition for the cosmological constant. At the
+semiclassical approximation we obtain $\Lambda =0$, and a vacuum equation which
+is equivalent to inflation cosmology. D=4 and D=1 universes are obtained as
+unique (and topologically separated by the D=2 semiclassical barrier) integer
+dimension solutions. They correspond to the first excited level and the ground
+state respectively of our projective gravity.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 04:08:30 GMT""},{""version"":""v2"",""created"":""Wed, 29 Dec 1993 17:17:35 GMT""}]","2008-02-03"
+"hep-th/9312206","Coussaert Olivier","G. Barnich and M. Henneaux","Renormalization of gauge invariant operators and anomalies in Yang-Mills
+  theory","10 pages, latex, ULB-PMIF-93/11","Phys.Rev.Lett. 72 (1994) 1588-1591","10.1103/PhysRevLett.72.1588",,"hep-th",,"  A long-standing conjecture on the structure of renormalized, gauge invariant,
+integrated operators of arbitrary dimension in Yang-Mills theory is
+established. The general solution of the consistency condition for anomalies
+with sources included is also derived. This is achieved by computing
+explicitely the cohomology of the full unrestricted BRST operator in the space
+of local polynomial functionals with ghost number equal to zero or one. The
+argument does not use power counting and is purely cohomological. It relies
+crucially on standard properties of the antifield formalism.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 11:25:22 GMT""}]","2009-10-22"
+"math/9312210","c/o U. Toronto Math","Dharma P. Gupta, David R. Masson","Solutions to the associated q-Askey-Wilson polynomial recurrence
+  relation",,,,"OP-SF 29 Dec 1993","math.CA",,"  A $\tphin$ contiguous relation is used to derive contiguous relations for a
+very-well-poised $\ephis$. These in turn yield solutions to the associated
+$q$-Askey-Wilson polynomial recurrence relation, expressions for the associated
+continued fraction, the weight function and a $q$-analogue of a generalized
+Dougall's theorem.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 00:00:00 GMT""}]","2016-09-06"
+"math/9312211","c/o U. Toronto Math","Dharma P. Gupta, David R. Masson","Watson's basic analogue of Ramanujan's entry 40 and its generalization",,,,"OP-SF 29 Dec 1993","math.CA",,"  We generalize Watson's $ q $-analogue of Ramanujan's Entry 40 continued
+fraction by deriving solutions to a $ {}_{10} \phi_9 $ series contiguous
+relation and applying Pincherle's theorem. Watson's result is recovered as a
+special terminating case, while a limit case yields a new continued fraction
+associated with an $ \ephis $ series contiguous relation.
+","[{""version"":""v1"",""created"":""Wed, 29 Dec 1993 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9312021","George Bertsch","George F. Bertsch","Meson phase space density from interferometry","4pages","Phys.Rev.Lett. 72 (1994) 2349-2350; Erratum-ibid. 77 (1996) 789","10.1103/PhysRevLett.77.789",,"nucl-th",,"  The interferometric analysis of meson correlations provides a measure of the
+average phase space density of the mesons in the final state. This quantity is
+a useful indicator of the statistical properties of the system, and it can be
+extracted with a minimum of model assumptions. Values obtained from recent
+measurements are consistent with the thermal value, but do not rule out
+superradiance effects.
+","[{""version"":""v1"",""created"":""Tue, 28 Dec 1993 23:20:00 GMT""}]","2009-10-22"

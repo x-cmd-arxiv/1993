@@ -1,0 +1,236 @@
+"alg-geom/9312005","John B. Little","John Little","On the Hilbert Schemes of Canonically-Embedded Curves of Genus 5 and 6","17 pages, Plain TeX",,,,"alg-geom math.AG",,"  A canonically-embedded curve of genus $g$ is a pure 1-dimensional,
+non-degenerate subscheme $C$ of ${\bf P}^{g-1}$ over an algebraically closed
+field $k$, for which ${\cal O}_C(1) \cong \omega_C$, (the dualizing sheaf)$ and
+$h^0(C, {\cal O}_C) = 1$, $h^0(C, \omega_C) = g$. The singularities of $C$ (if
+any) are Gorenstein, and $C$ is connected of degree $2g-2$ and arithmetic genus
+$g$. In a recent paper, Schreyer has proved that Petri's normalization of the
+homogeneous ideal $I(C)$ of a smooth canonically-embedded curve can be also
+carried out for singular curves, provided that the curve has a simple
+$(g-2)$-secant (a linear ${\bf P}^{g-3}$ intersecting $C$ transversely at
+exactly $g-2$ (smooth) points). We use the Petri normalization to study the
+Hilbert scheme of curves of degree $2g-2$ and arithmetic genus $g$ in ${\bf
+P}^{g-1}$ in the low-genus cases $g = 5,6$. The main results are that the
+Hilbert points of all curves for which Petri's approach applies lie on one
+irreducible component of the Hilbert scheme in these cases. (The same is not
+true for $g$ sufficiently large.)
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 16:44:34 GMT""}]","2008-02-03"
+"astro-ph/9312019","Dave Seckel","Georg Raffelt and David Seckel","A Self-Consistent Approach to Neutral-Current Processes in Supernova
+  Cores","33 pages, Tex","Phys.Rev.D52:1780-1799,1995","10.1103/PhysRevD.52.1780","BA-93-43, MPI-Ph/93-90","astro-ph hep-ph",,"  The problem of neutral-current processes (neutrino scattering, pair emission,
+pair absorption, axion emission, \etc) in a nuclear medium can be separated
+into an expression representing the phase space of the weakly interacting
+probe, and a set of dynamic structure functions of the medium. For a
+non-relativistic medium we reduce the description to two structure functions
+$S_A(\o)$ and $S_V(\o)$ of the energy transfer, representing the axial-vector
+and vector interactions. $S_V$ is well determined by the single-nucleon
+approximation while $S_A$ may be dominated by multiply interacting nucleons.
+Unless the shape of $S_A(\o)$ changes dramatically at high densities,
+scattering processes always dominate over pair processes for neutrino transport
+or the emission of right-handed states. Because the emission of right-handed
+neutrinos and axions is controlled by the same medium response functions, a
+consistent constraint on their properties from consideration of supernova
+cooling should use the same structure functions for both neutrino transport and
+exotic cooling mechanisms.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 19:35:46 GMT""},{""version"":""v2"",""created"":""Mon, 13 Dec 1993 14:22:04 GMT""}]","2011-05-12"
+"astro-ph/9312020",,"G.D. Starkman, N. Kaiser, R.A. Malaney","Mixed Dark Matter from Neutrino Lasing","23 pages, latex, CITA/93/49, available by anon ftp from
+  ftp.cita.utoronto.ca in /cita/nick/neutrinolasing2.ps","Astrophys.J. 434 (1994) 12-23","10.1086/174700",,"astro-ph hep-ph",,"  We investigate the production of dark matter with non-standard momentum
+distributions arising from the decay of a relativistic massive neutrino into a
+lighter fermion and boson H$\rightarrow$F$+$B. We develop the Boltzmann
+equations for this process, paying particular attention to spin polarisation
+effects. Such decays can, under certain circumstances, lead to a process of
+runaway stimulated decays or `neutrino-lasing' resulting, for suitable boson
+mass, in the production of mixed-dark-matter. We discuss a number of variations
+on the model; we show how the yield of cold particles can be increased by a
+simple modification to our original proposal. We discuss the singlet-majoron
+model as a possible framework for these decays.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 22:01:06 GMT""}]","2009-10-22"
+"astro-ph/9312021",,"Yun Wang","Mass and radius of cosmic balloons","13 pages, LaTeX, 4 figures not included, FERMILAB-Pub-93/378-A","Phys.Rev. D49 (1994) 5063-5067","10.1103/PhysRevD.49.5063",,"astro-ph hep-ph",,"  This revised version uses Gauss-Codazzi equations to derive the exact mass
+and radius relations. The results remain qualitatively the same.
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1993 02:07:14 GMT""},{""version"":""v2"",""created"":""Fri, 14 Jan 1994 20:36:34 GMT""}]","2009-10-22"
+"cond-mat/9312044","Philip Solovej","Volker Bach, Elliott H. Lieb and Jan philip Solovej","Generalized Hartree-Fock Theory and the Hubbard Model","68 pages Plain TeX, VBEHLJPS-25/nov/93",,"10.1007/BF02188656",,"cond-mat",,"  The familiar unrestricted Hartree-Fock variational principle is generalized
+to include quasi-free states. As we show, these are in one-to-one
+correspondence with the one-particle density matrices and these, in turn
+provide a convenient formulation of a generalized Hartree-Fock variational
+principle, which includes the BCS theory as a special case. While this
+generalization is not new, it is not well known and we begin by elucidating it.
+The Hubbard model, with its particle-hole symmetry, is well suited to exploring
+this theory because BCS states for the attractive model turn into usual HF
+states for the repulsive model. We rigorously determine the true, unrestricted
+minimizers for zero and for nonzero temperature in several cases, notably the
+half-filled band. For the cases treated here, we can exactly determine all
+broken and unbroken spatial and gauge symmetries of the Hamiltonian.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 17:07:22 GMT""}]","2009-10-22"
+"cond-mat/9312045","Sergei Esipov","Sergei E. Esipov","Energy Decay in Burgers Turbulence and Interface Growth. the Problem of
+  Random Initial Conditions - II","39 pages, PHYZZX Tex, figures by request",,"10.1103/PhysRevE.49.2070",,"cond-mat",,"  We present a study of the Burgers equation in one and two dimensions $d=1,2$
+following the analytic approach indicated in the previous paper I. For the
+problem of the initial conditions decay we consider two classes of initial
+condition distributions $Q_{1,2} \sim \exp[-(1/4D)\int({\nabla}h)^2$d{\bf x}]
+where $h$-field is unbounded ($Q_1$) or bounded ($Q_2, |h|\leq H$). Avoiding
+the replica trick and using an integral representation of the logarithm we
+study the tractable field theory which has $d=2$ as a critical dimension. It is
+shown that the degenerate one-dimensional case has three stages of decay, when
+the kinetic energy density diminishes with time as $t^{-2/3}$, $t^{-2}$,
+$t^{-3/2}$ contrary to the predictions of the similarity hypothesis based on
+the second-order correlator of the distribution. In two dimensions we find the
+kinetic energy decay which is proportional to $t^{-1}\ln^{-1/2}(t)$. It is
+shown that the pure diffusion equation with the $Q_2$-type initial condition
+has non-trivial energy decay exponents indicating connection with the $O(2)$
+non-linear $\sigma$-model.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 20:57:40 GMT""}]","2009-10-22"
+"cond-mat/9312046","Ahn ChangLim","K. Lee","Anomalous low-temperature specific heat of the antiferromagnetic SU(N)
+  Heisenberg model in a field","10 Pages, Latex file, Ewha Preprint-001",,,,"cond-mat",,"  We discuss the low-temperature specific heat of the integrable SU(N)-
+invariant Heisenberg model in one dimension with degrees of freedom in the
+symmetric rank-$m$ tensor representation, especially for the antiferromagnetic
+coupling. It is known that the linear specific heat coefficient $\gam$ is a
+function of a field which breaks the SU(N) invariance of the internal degrees
+of freedom. We calculate the $\gam$ in a zero field and in a small field. The
+in-field $\gam$ is less than the zero-field $\gam$ as expected since the
+entropy is reduced in the ordered system. The zero-field $\gam$ is the same as
+the one obtained by the prediction of the critical behavior of 1D quantum spin
+systems via conformal field theory. This extends the previous results for N=2
+to an arbitrary N.
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1993 02:50:12 GMT""}]","2007-05-23"
+"gr-qc/9312019","Fonarev Oleg","Oleg A. Fonarev","Quantum Kinetic Equations and Cosmology","10 pages",,"10.1016/0375-9601(94)90361-1",,"gr-qc astro-ph",,"  We analyse quantum--kinetic effects in the early Universe. We show that
+quantum corrections to the Vlasov equation give rise to a dynamical variation
+of the gravitational constant. The value of the gravitational constant at the
+Grand Unification epoch is shown to differ from its present value to about
+$10^{-4} \div 10^{-3} \% $.
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1993 12:38:52 GMT""}]","2009-10-22"
+"hep-ph/9312256","John Costella","John P. Costella and Bruce H. J. McKellar","Electromagnetic Deflection of Spinning Particles","18 pp. (latex, uses revtex 3), UM-P-92/93","Int.J.Mod.Phys. A9 (1994) 461-474","10.1142/S0217751X94000212",,"hep-ph",,"  We show that it is possible to obtain self-consistent and physically
+acceptable relativistic classical equations of motion for a point-like
+spin-half particle possessing an electric charge and a magnetic dipole moment,
+directly from a manifestly covariant Lagrangian, if the classical degrees of
+freedom are appropriately chosen. It is shown that the equations obtained
+encompass the well-tested Lorentz force and Thomas--Bargmann--Michel--Telegdi
+spin equations, as well as providing a definite specification of the classical
+_magnetic_dipole_ force_, whose exact form has been the subject of recent
+debate. Radiation reaction---the force and torque on an accelerated particle
+due to its self-interaction---is neglected at this stage.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 18:18:36 GMT""}]","2015-06-25"
+"hep-ph/9312262","Paul A. Griffin","P. A. Griffin, M. Masip, and M. McGuigan","Determination of Vts from D -> K* l nu and B -> K* gamma data via heavy
+  quark symmetry and perturbative QCD","30 pages, Preprint Univ. Florida UFIFT-93-26; 7 .eps figures;
+  requires LaTeX, revtex, epsf.sty","Phys.Rev.D50:5751-5761,1994","10.1103/PhysRevD.50.5751",,"hep-ph",,"  We use heavy quark effective theory (HQET) and perturbative QCD to study the
+heavy meson -- light vector meson transitions involved in D and B decays. HQET
+is used to relate the measured D -> K* l nu vector and axial-vector form
+factors at four-momentum transfer q^2 = 0 to the B -> K* gamma tensor and
+axial-tensor form factors at q^2 = 16.5 GeV^2. Perturbative QCD is then used to
+find matching conditions for the B-meson form factors at q^2 = 0. A five
+parameter ``vector dominance'' type fit of the two HQET form factors,
+consisting of single pole, double pole, and subtraction terms, is used to match
+the data at q^2 = 16.5 GeV^2 to QCD at q^2 = 0. The values at q^2 = 0 are
+compared with recent data on the exclusive rate for B -> K* gamma decay to
+extract a value for the Cabibbo-Kobayashi-Maskawa matrix element Vts = 0.035,
+with 28% experimental uncertainty, and 32% theoretical uncertainty from higher
+order QCD effects and violations of heavy quark symmetry.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 20:45:41 GMT""}]","2010-11-01"
+"hep-th/9312083","Zdenek Kopecky","Z. Kopecky","Finite Temperature Dilaton Gravity","10 pages, REVTeX 3.0, TP-MUBR 93-11/1","Phys.Rev. D49 (1994) 5194-5198","10.1103/PhysRevD.49.5194",,"hep-th",,"  The dilaton free energy density in external static gravitational field is
+found. We use the real time formulation of the finite temperature field theory
+and the free energy density is computed to the first order of the string
+parameter $\alpha '$. We obtain the thermal corrections to the $\alpha'$
+modified Einstein gravity action.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 19:52:03 GMT""}]","2009-10-22"
+"hep-th/9312087",,"A. Boresch, M. Schweda and S.P. Sorella","Vector supersymmetry of the superstring in the super-Beltrami
+  parametrization","9 pages, LaTex, CERN-TH-7110/93 and TUW-93-27, footnote on titlepage
+  added","Phys.Lett.B328:36-42,1994","10.1016/0370-2693(94)90424-3",,"hep-th",,"  The vector supersymmetry recently found for the bosonic string is generalized
+to superstring theories quantized in the super-Beltrami parametrization.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 17:43:47 GMT""},{""version"":""v2"",""created"":""Tue, 21 Dec 1993 15:35:00 GMT""}]","2011-04-12"
+"hep-th/9312088","Boris Khesin","Boris Khesin and Ilya Zakharevich","Poisson-Lie group of pseudodifferential symbols","64 pages, no figures","Commun.Math.Phys. 171 (1995) 475-530","10.1007/BF02104676","IHES/M/93/53","hep-th math.QA",,"  We introduce a Lie bialgebra structure on the central extension of the Lie
+algebra of differential operators on the line and the circle (with scalar or
+matrix coefficients). This defines a Poisson--Lie structure on the dual group
+of pseudodifferential symbols of an arbitrary real (or complex) order. We show
+that the usual (second) Benney, KdV (or GL_n--Adler--Gelfand--Dickey) and KP
+Poisson structures are naturally realized as restrictions of this Poisson
+structure to submanifolds of this ``universal'' Poisson--Lie group.
+  Moreover, the reduced (=SL_n) versions of these manifolds (W_n-algebras in
+physical terminology) can be viewed as subspaces of the quotient (or Poisson
+reduction) of this Poisson--Lie group by the dressing action of the group of
+functions.
+  Finally, we define an infinite set of functions in involution on the
+Poisson--Lie group that give the standard families of Hamiltonians when
+restricted to the submanifolds mentioned above. The Poisson structure and
+Hamiltonians on the whole group interpolate between the Poisson structures and
+Hamiltonians of Benney, KP and KdV flows. We also discuss the geometrical
+meaning of W_\infty as a limit of Poisson algebras W_\epsilon as \epsilon goes
+to 0.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 21:02:17 GMT""}]","2009-10-22"
+"hep-th/9312089","D. V. Ahluwalia, Lanl","D. V. Ahluwalia, M. B. Jonnson, and T. Goldman","Space-Time Symmetries: P and CP Violation","Talk presened by D. V. Ahluwalia at the III International Wigner
+  Symposium, Christ Church, Oxford, September 1993.",,,"Los Alamos National Laboratorty Preprint LA-UR-93-4314","hep-th",,"  We begin with a few remarks on an explicit construction of a
+Bargmann-Wightman-Wigner-type quantum field theory [Phys. Lett. B {\bf 316},
+102 (1993)] in which bosons and associated antibosons have opposite relative
+intrinsic parities. We then construct $(1,0)\oplus(0,1)$ Majorana ($CP$ self
+conjugate) and Majorana-like ($C\Gamma^5$ self conjugate, $\Gamma^5=$ chirality
+operator) fields. We point out that this new structure in the space time
+symmetries may be relevant to $P$ and $CP$ violation.
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1993 00:35:43 GMT""}]","2007-05-23"
+"hep-th/9312090","D. V. Ahluwalia, Lanl","D. V. Ahluwalia, M. B. Johnson and T. Goldman","(J,0)+(0,j) Representation Space: Dirac-Like Construct","Los Alamos National Laboratory Preprint LA-UR-93-4315",,,,"hep-th",,"  This is first of the two invited lectures presented (by D. V. Ahluwalia) at
+the ``XVII International School of Theoretical Physics: Standard Model and
+Beyond' 93.'' The text is essentially based on a recent publication by the
+present authors [Phys. Lett. B 316 (1993) 102]. Here we show that the
+Dirac-like construct in the $(j,0)\oplus(0,j)$ representation space supports a
+Bargmann-Wightman-Wigner-type quantum field theory.
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1993 00:36:11 GMT""}]","2007-05-23"
+"hep-th/9312091","D. V. Ahluwalia, Lanl","D. V. Ahluwalia, T. Goldman, and M. B. Johnson","(J,0)+(0,j) Representation Space: Majorana-Like Construct","Los Alamos Natioanl Laboratory Preprint LA-UR-93-4316","Acta Phys.Polon.B25:1267-1278,1994",,,"hep-th",,"  This is second of the two invited lectures presented (by D. V. Ahluwalia) at
+the ``XVII International School of Theoretical Physics: Standard Model and
+Beyond' 93.'' The text is essentially based on a recent publication by the
+present authors [Mod. Phys. Lett. A (in press)]. Here, after briefly reviewing
+the $(j,0)\oplus(0,j)$ Dirac-like construct in the front form, we present a
+detailed construction of the $(j,0)\oplus(0,j)$ Majorana-like fields.
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1993 00:36:39 GMT""}]","2010-05-27"
+"hep-th/9312092","D. V. Ahluwalia, Lanl","M. Sawicki and D. V. Ahluwalia","Parity Transformation in the Front Form","Los Alamos National Laboratory Preprint LA-UR-93-4317","Phys. Lett. B 335 (1994) 24-28",,,"hep-th",,"  By considering the parity-transformation properties of the $(1/2,\,0)$ and
+$(0,\,1/2)$ fields in the {\it front form} we find ourselves forced to study
+the front-form evolution both along $x^+$ and $x^-$ directions. As a by
+product, we find that half of the dynamical degrees of freedom of a full theory
+live on the $x^+=0$ surface and the other half on the $x^-=0$ surface.
+Elsewhere, Jacob shows how these results are required to build a satisfactory,
+and internally consistent, front-form quantum field theory.
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1993 00:37:07 GMT""}]","2007-05-23"
+"hep-th/9312094","Kenneth S. Clubok","J. de Boer, K. Clubok and M.B. Halpern","Linearized Form of the Generic Affine-Virasoro Action","18 pages, Latex, UCB-PTH-93/34, LBL-34938, ITP-SB-93-88 (A sign was
+  changed in equation (4.7))","Int.J.Mod.Phys. A9 (1994) 2451-2466","10.1142/S0217751X94000984",,"hep-th",,"  Halpern and Yamron have given a Lorentz, conformal, and Diff S$_2$-invariant
+world-sheet action for the generic irrational conformal field theory, but the
+action is highly non-linear. In this paper, we introduce auxiliary fields to
+find an equivalent linearized form of the action, which shows in a very clear
+way that the generic affine-Virasoro action is a Diff S$_2$-gauged WZW model.
+In particular, the auxiliary fields transform under Diff S$_2$ as local Lie $g$
+$\times$ Lie $g$ connections, so that the linearized affine-Virasoro action
+bears an intriguing resemblance to the usual (Lie algebra) gauged WZW model.
+","[{""version"":""v1"",""created"":""Sat, 11 Dec 1993 08:58:22 GMT""},{""version"":""v2"",""created"":""Tue, 14 Dec 1993 02:04:54 GMT""},{""version"":""v3"",""created"":""Sat, 25 Dec 1993 20:43:52 GMT""}]","2009-10-22"
+"nucl-th/9312009",,"G.I. Poulis (TRIUMF) and T.W. Donnelly (MIT)","Interference Effects in Relativistic Deuteron Electrodisintegration","28 pages (latex), 15 figures available upon request, TRI-PP-93-101
+  and MIT-CTP#2249","Nucl.Phys. A575 (1994) 549-582","10.1016/0375-9474(94)90375-1",,"nucl-th",,"  We extend the relativistic plane--wave impulse approximation formalism to
+incorporate a specific class of relativistic interference effects for use in
+describing inclusive electrodisintegration of $^2$H. The role of these
+``exchange'' terms for the various response functions accessible in
+parity--conserving and --violating inclusive processes is investigated and
+shown, especially for the latter, to have important consequences for
+experiment. An extension to a simple quasi--deuteron model is also considered.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 18:23:37 GMT""}]","2009-10-22"
+"nucl-th/9312010",,"Che Ming Ko and David Seibert","What can we learn from a second phi meson peak in ultrarelativistic
+  nuclear collisions?","9 pages (latex) plus 4 figures (included as uuencoded postscript
+  files), CERN-TH.7037/93. Replaced because of small change in Fig. 4","Phys.Rev.C49:2198-2202,1994","10.1103/PhysRevC.49.2198",,"nucl-th",,"  The decay width of a phi meson is reduced from its vacuum value as its mass
+decreases in hot hadronic matter as a result of the partial restoration of
+chiral symmetry. This reduction is, however, cancelled by collisional
+broadening through the reactions $\phi\pi\to KK^*$, $\phi K\to\phi K$,
+$\phi\rho\to KK$, and $\phi\phi\to KK$. The resulting phi meson width in hot
+hadronic matter is found to be less than about 10 MeV for temperatures below
+200 MeV. If hadronic matter has a strong first-order phase transition, this
+narrow phi meson with reduced mass will appear as a second peak in the dilepton
+spectrum in ultrarelativistic heavy ion collisions. We discuss use of this
+second phi peak to determine the transition temperature and the lifetime of the
+two-phase coexistence region in the case of a strong first-order phase
+transition. We also discuss using the peak to determine the range of
+temperatures over which the transition occurs in the case of a smooth but fast
+change in the entropy density.
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 23:22:31 GMT""},{""version"":""v2"",""created"":""Wed, 15 Dec 1993 02:23:35 GMT""}]","2009-09-25"
+"patt-sol/9312001","Raul Montagne","R. Montagne, A. Amengual, E. Hernandez-Garcia (Departament de Fisica,
+  Universitat de les Illes Balears, E-07071, Palma de Mallorca, Spain), and M.
+  San Miguel (Departament of Mathematics, University of Arizona, Tucson, AZ
+  85721, USA)","Multiple Front Propagation into Unstable States","12 pages, uuencoded, compressed, postscript file, RevTeX 3.0","Physical Review E 50, 377-385 (1994)","10.1103/PhysRevE.50.377","UIB931287","patt-sol nlin.PS",,"  The dynamics of transient patterns formed by front propagation in extended
+nonequilibrium systems is considered. Under certain circumstances, the state
+left behind a front propagating into an unstable homogeneous state can be an
+unstable periodic pattern. It is found by a numerical solution of a model of
+the Fr\'eedericksz transition in nematic liquid crystals that the mechanism of
+decay of such periodic unstable states is the propagation of a second front
+which replaces the unstable pattern by a another unstable periodic state with
+larger wavelength. The speed of this second front and the periodicity of the
+new state are analytically calculated with a generalization of the marginal
+stability formalism suited to the study of front propagation into periodic
+unstable states. PACS: 47.20.Ky, 03.40.Kf, 47.54.+r
+","[{""version"":""v1"",""created"":""Fri, 10 Dec 1993 17:06:09 GMT""}]","2009-10-22"

@@ -1,0 +1,15 @@
+"cond-mat/9303009","V. Privman","V. Privman, C.R. Doering and H.L. Frisch","Crossover from Rate-Equation to Diffusion-Controlled Kinetics in
+  Two-Particle Coagulation","21 pages, plain TeX","Phys. Rev. E 48, 846-851 (1993)","10.1103/PhysRevE.48.846",,"cond-mat",,"  We develop an analytical diffusion-equation-type approximation scheme for the
+one-dimensional coagulation reaction A+A->A with partial reaction probability
+on particle encounters which are otherwise hard-core. The new approximation
+describes the crossover from the mean-field rate-equation behavior at short
+times to the universal, fluctuation-dominated behavior at large times. The
+approximation becomes quantitatively accurate when the system is initially
+close to the continuum behavior, i.e., for small initial density and fast
+reaction. For large initial density and slow reaction, lattice effects are
+nonnegligible for an extended initial time interval. In such cases our
+approximation provides the correct description of the initial mean-field as
+well as the asymptotic large-time, fluctuation-dominated behavior. However, the
+intermediate-time crossover between the two regimes is described only
+semiquantitatively.
+","[{""version"":""v1"",""created"":""Sat, 6 Mar 1993 18:47:59 GMT""}]","2010-10-12"

@@ -1,0 +1,79 @@
+"astro-ph/9312061","Vladimir Usov","Vladimir V. Usov","Glitches in the X-Ray Pulsar 1e 2259+586","5 pages of Tex, accepted for publication in ApJ, WIS-93/77/Aug-PH",,"10.1086/174205",,"astro-ph",,"  Starquakes are considered for fast-rotating magnetic white dwarfs. The X-ray
+pulsar 1E 2259 + 586 may be such a white dwarf. It is shown that in this case
+starquakes may be responsible for the decrease of the mean spin-down rate which
+was observed for 1E 2259 + 586 between 1987 and 1990. The required mass of the
+white dwarf which is identified with 1E 2259 + 586 is $\sim 1.4 - 1.5 M_\odot$,
+making this X-ray pulsar the most massive white dwarf known.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1993 06:58:17 GMT""}]","2009-10-22"
+"cond-mat/9312093",,"Alex Kamenev, Bertrand Reulet, Helene Bouchiat, and Yuval Gefen","Conductance of Aharonov--Bohm Rings: From the Discrete to the Continuous
+  Spectrum Limit","13 pages, 2 figures, REVTeX v2.1, WIS--93/121/Dec.--PH",,"10.1209/0295-5075/28/6/003",,"cond-mat",,"  The dissipative conductance of an array of mesoscopic rings, subject to an
+a.c. magnetic flux is investigated. The magneto--conductance may change sign
+between canonical and grand-canonical statistical ensembles, as function of the
+inelastic level broadening and as function of the temperature. Differences
+between canonical and grand-canonical ensembles persist up to temperature of
+the order of the Thouless energy.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1993 09:24:44 GMT""}]","2009-10-22"
+"gr-qc/9312037","Kawai","Toshiharu Kawai","Poincar\'{e} gauge theory of gravity","27pages, RevTeX, OCU-PHYS-152","Phys.Rev. D49 (1994) 2862-2871","10.1103/PhysRevD.49.2862",,"gr-qc",,"  A Poincar\'{e} gauge theory of (2+1)-dimensional gravity is developed.
+Fundamental gravitational field variables are dreibein fields and Lorentz gauge
+potentials, and the theory is underlain with the Riemann-Cartan space-time. The
+most general gravitational Lagrangian density, which is at most quadratic in
+curvature and torsion tensors and invariant under local Lorentz transformations
+and under general coordinate transformations, is given. Gravitational field
+equations are studied in detail, and solutions of the equations for weak
+gravitational fields are examined for the case with a static, \lq \lq spin""less
+point like source. We find, among other things, the following: (1)Solutions of
+the vacuum Einstein equation satisfy gravitational field equations in the
+vacuum in this theory. (2)For a class of the parameters in the gravitational
+Lagrangian density, the torsion is \lq \lq frozen"" at the place where \lq \lq
+spin"" density of the source field is not vanishing. In this case, the field
+equation actually agrees with the Einstein equation, when the source field is
+\lq \lq spin""less. (3)A teleparallel theory developed in a previous paper is
+\lq \lq included as a solution"" in a limiting case. (4)A Newtonian limit is
+obtainable, if the parameters in the Lagrangian density satisfy certain
+conditions.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1993 09:09:16 GMT""}]","2009-10-22"
+"hep-ph/9312341","Miriam Leurer","Miriam Leurer (Weizmann Institute)","Bounds on Vector Leptoquarks","14 Pages (LaTeX), including 1 uufiled postscript figure.
+  WIS-93/119/Dec-PH","Phys.Rev.D50:536-541,1994","10.1103/PhysRevD.50.536",,"hep-ph",,"  We derive bounds on vector leptoquarks coupling to the first generation,
+using data from low energy experiments as well as from high energy
+accelerators. Similarly to the case of scalar leptoquarks, we find that the
+strongest indirect bounds arise from atomic parity violation and universality
+in leptonic pi decays. These bounds are considerably stronger than the first
+direct bounds of HERA, restricting vector leptoquarks that couple with
+electromagnetic strength to right-handed quarks to lie above 430 GeV or 460
+GeV, and leptoquarks that couple with electromagnetic strength to left-handed
+quarks to lie above 1.3 TeV, 1.2 TeV and 1.5 TeV for the SU(2)_W singlet,
+doublet and triplet respectively.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1993 11:12:21 GMT""}]","2008-11-26"
+"hep-ph/9312343","Harada Masayasu","Masako Bando, Masayasu Harada and Taichiro Kugo","External Gauge Invariance and Anomaly in BS Vertices and Boundstates","30 pages, plain TeX (using `phyzzx' macro), 17 Postscript Figures are
+  included as uuencoded files (need `epsf.tex'), KUNS-1236, HE(TH) 93/13","Prog.Theor.Phys. 91 (1994) 927-948","10.1143/ptp/91.5.927",,"hep-ph",,"  A systematic method is given for obtaining consistent approximations to the
+Schwinger-Dyson(SD) and Bethe-Salpeter(BS) equations which maintain the
+external gauge invariance. We show that for any order of approximation to the
+SD equation there is a corresponding approximation to the BS equations such
+that the solutions to those equations satisfy the Ward-Takahashi identities of
+the external gauge symmetry. This formulation also clarifies the way how we can
+calculate the Green functions of current operators in a consistent manner with
+the gauge invariance and the axial anomaly. We show which type of diagrams for
+the $\pi^0\rightarrow\gamma\gamma$ amplitude using the pion BS amplitude give
+result consistent with the low-energy theorem. An interesting phenomenon is
+observed in the ladder approximation that the low energy theorem is saturated
+by the zeroth order terms in the external momenta of the pseudoscalar BS
+amplitude and the vector vertex functions.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1993 11:43:41 GMT""}]","2017-02-01"
+"hep-th/9312194","Samir Mathur","Esko Keski-Vakkuri and Samir D. Mathur","Evaporating Black Holes and Entropy","29 pages, one figure (available from authors), Latex. (Mailer errors
+  removed.)","Phys.Rev.D50:917-929,1994","10.1103/PhysRevD.50.917",,"hep-th",,"  We study the Hawking radiation for the geometry of an evaporating 1+1
+dimensional black hole. We compute Bogoliubov coefficients and the stress
+tensor. We use a recent result of Srednicki to estimate the entropy of
+entanglement produced in the evaporation process, for the 1+1 dimensional hole
+and for the 3+1 dimensional hole. It is found that the one space dimensional
+result of Srednicki is the pertinent one to use, in both cases.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1993 01:50:12 GMT""},{""version"":""v2"",""created"":""Mon, 27 Dec 1993 23:45:25 GMT""},{""version"":""v3"",""created"":""Mon, 31 Jan 1994 22:06:17 GMT""},{""version"":""v4"",""created"":""Wed, 2 Feb 1994 21:12:35 GMT""}]","2010-11-01"
+"hep-th/9312197","Igor G. Korepanov","I.G. Korepanov","Vacuum curves, classical integrable systems in discrete space-time and
+  statistical physics","18 pages. Talk made at the Lobachevsky Semester in Euler
+  International Math Institute, S Petersburg, November 1992","Zapiski Nauchn. Semin. POMI (S-Petersburg) 235 (1996) 272-286",,,"hep-th",,"  A dynamical system with discrete time is studied by means of algebraic
+geometry. The system admits a reduction that is interpreted as a classical
+field theory in 2+1-dimensional wholly discrete space-time. The integrals of
+motion of a particular case of the reduced system are shown to coincide, in
+essence, with the statistical sum of the well-known (inhomogeneous)
+2-dimensional dimer model (the statistical sum is here a function of two
+parameters). Possible generalizations of the system are examined.
+","[{""version"":""v1"",""created"":""Mon, 27 Dec 1993 14:34:57 GMT""}]","2007-05-23"

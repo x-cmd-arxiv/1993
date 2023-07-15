@@ -1,0 +1,354 @@
+"astro-ph/9307022",,"Karl Glazebrook, J.A. Peacock, C.A. Collins and L. Miller","An imaging K-band survey - I: The catalogue, star and galaxy counts","MNRAS in press. 21 pages plain TeX; figs plus table 4 available via
+  anonymous ftp from /pub/kgb/paper1/sissa.uu at ftp.ast.cam.ac.uk","Mon.Not.Roy.Astron.Soc. 266 (1994) 65","10.1093/mnras/266.1.65","Edinburgh Astronomy Preprint 93/16","astro-ph",,"  We present results from a large area (552\,\sqamin) imaging $K$-band survey
+to a 5$\sigma$ limit of $K\simeq 17.3$. We have optical-infrared colours of
+almost all the objects in the sample. Star-galaxy discrimination is performed
+and the results used to derive the infrared star and galaxy counts. $K$-band
+``no-evolution'' galaxy-count models are constructed and compared with the
+observed data. In the infrared, there is no counterpart for the large excess of
+faint galaxies over the no-evolution model seen in optical counts. However, we
+show that the $K$ counts can be remarkably insensitive to evolution under
+certain reasonable assumptions. Finally, model predictions for $K$-selected
+redshift surveys are derived.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 14:10:00 GMT""}]","2015-06-24"
+"astro-ph/9307023","Pradip Ku. sahu","L. Satpathy, P.K. Sahu and V.S. Uma Maheswari","Masses of Multiquark Droplets","24pages + 5 figures available upon request,Latex,IP/BBSR/93-36","Phys.Rev. D49 (1994) 4642-4648","10.1103/PhysRevD.49.4642",,"astro-ph",,"  The mass formulae for finite lumps of strange quark matter with $u$, $d$ and
+$s$ quarks, and non-strange quark matter consisting of $u$ and $d$ quarks are
+derived in a non-relativistic potential model. The finite-size effects
+comprising the surface, curvature and even, the Gauss curvature were
+consistently obtained, which shows a converging trend. It is found that there
+is a possibility for the formation of metastable strangelets of large mass. The
+model predicts low charge to mass ratio as the characteristic signature of
+strange matter in agreement with the relativistic studies. This study also
+yields an independent estimate for the bag energy density $B$, which is in
+agreement with the M.I.T bag model value.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 15:09:38 GMT""}]","2009-10-22"
+"cond-mat/9307026","Jeong Hawoong","H. Jeong, B. Kahng, D. Kim","Dynamics of Toom interface in three dimensions","9pages (4 postscript files at the end of tex file)","Phys. Rev. Lett. 72 (1993) 747","10.1103/PhysRevLett.71.747",,"cond-mat",,"  We introduce a novel three dimensional Toom model on bcc lattice, and study
+its physical properties. In low-noise limit, the model leads to an effective
+solid-on-solid-type model, which exhibits a stationary interface via
+depositions and evaporations with avalanche process. We find that the model is
+described by the Edwards-Wilkinson equation for unbiased case and the
+anisotropic-Kardar-Parisi-Zhang equation in the weak-coupling limit for biased
+case. Thus the square of the surface width diverges logarithmically with space
+and time for both unbiased and biased cases.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 04:04:21 GMT""}]","2009-10-22"
+"cond-mat/9307027","Sven Sandow","Sven Sandow and Gunter Schuetz","On U_q(SU(2))-symmetric Driven Diffusion","10 pages, LATEX",,"10.1209/0295-5075/26/1/002","WIS-93/64/Jul.-PH","cond-mat",,"  We study analytically a model where particles with a hard-core repulsion
+diffuse on a finite one-dimensional lattice with space-dependent, asymmetric
+hopping rates. The system dynamics are given by the
+\mbox{U$_{q}$[SU(2)]}-symmetric Hamiltonian of a generalized anisotropic
+Heisenberg antiferromagnet. Exploiting this symmetry we derive exact
+expressions for various correlation functions. We discuss the density profile
+and the two-point function and compute the correlation length $\xi_s$ as well
+as the correlation time $\xi_t$. The dynamics of the density and the
+correlations are shown to be governed by the energy gaps of a one-particle
+system. For large systems $\xi_s$ and $\xi_t$ depend only on the asymmetry. For
+small asymmetry one finds $\xi_t \sim \xi_s^2$ indicating a dynamical exponent
+$z=2$ as for symmetric diffusion.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 12:45:24 GMT""},{""version"":""v2"",""created"":""Thu, 15 Jul 1993 11:06:36 GMT""}]","2009-10-22"
+"cond-mat/9307028","Andreas Schadschneider","A. Kl\""umper, A. Schadschneider and J. Zittartz","Matrix-product-groundstates for one-dimensional spin-1 quantum
+  antiferromagnets","8 pages (plain tex), preprint cologne-93-4714","Europhys. Lett. 24, 293 (1993)","10.1209/0295-5075/24/4/010",,"cond-mat",,"  We have found the exact groundstate for a large class of antiferromagnetic
+spin-1 models with nearest-neighbour interactions on a linear chain. All
+groundstate properties can be calculated. The groundstate is determined as a
+matrix product of individual site states and has the properties of the Haldane
+scenario.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 14:40:29 GMT""}]","2009-10-22"
+"gr-qc/9307015","Kristin Schleich","Kristin Schleich and Donald M. Witt","Generalized Sums over Histories for Quantum Gravity I. Smooth Conifolds","81pp., plain TeX, To appear in Nucl. Phys. B","Nucl.Phys.B402:411-468,1993","10.1016/0550-3213(93)90649-A",,"gr-qc hep-th",,"  This paper proposes to generalize the histories included in Euclidean
+functional integrals from manifolds to a more general set of compact
+topological spaces. This new set of spaces, called conifolds, includes
+nonmanifold stationary points that arise naturally in a semiclasssical
+evaluation of such integrals; additionally, it can be proven that sequences of
+approximately Einstein manifolds and sequences of approximately Einstein
+conifolds both converge to Einstein conifolds. Consequently, generalized
+Euclidean functional integrals based on these conifold histories yield
+semiclassical amplitudes for sequences of both manifold and conifold histories
+that approach a stationary point of the Einstein action. Therefore sums over
+conifold histories provide a useful and self-consistent starting point for
+further study of topological effects in quantum gravity. Postscript figures
+available via anonymous ftp at black-hole.physics.ubc.ca (137.82.43.40) in file
+gen1.ps.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 22:38:00 GMT""}]","2010-11-01"
+"gr-qc/9307016","Ulvi Yurtsever","Ulvi Yurtsever","The origin of spacetime topology and generalizations of quantum field
+  theory","23 pages, UCSBTH-92-45","Class.Quant.Grav.11:1013-1026,1994","10.1088/0264-9381/11/4/017",,"gr-qc",,"  The research effort reported in this paper is directed, in a broad sense,
+towards understanding the small-scale structure of spacetime. The fundamental
+question that guides our discussion is ``what is the physical content of
+spacetime topology?"" In classical physics, if spacetime, $(X, \tau )$, has
+sufficiently regular topology, and if sufficiently many fields exist to allow
+us to observe all continuous functions on $X$, then this collection of
+continuous functions uniquely determines both the set of points $X$ and the
+topology $\tau$ on it. To explore the small-scale structure of spacetime, we
+are led to consider the physical fields (the observables) not as classical
+(continuous functions) but as quantum operators, and the fundamental observable
+as not the collection of all continuous functions but the local algebra of
+quantum field operators. In pursuing our approach further, we develop a number
+of generalizations of quantum field theory through which it becomes possible to
+talk about quantum fields defined on arbitrary topological spaces. Our ultimate
+generalization dispenses with the fixed background topological space altogether
+and proposes that the fundamental observable should be taken as a lattice (or
+more specifically a ``frame,"" in the sense of set theory) of closed subalgebras
+of an abstract $C^{\ast}$ algebra. Our discussion concludes with the definition
+and some elementary
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 01:32:07 GMT""}]","2010-04-06"
+"gr-qc/9307017","Ulvi Yurtsever","Ulvi Yurtsever","Algebraic approach to quantum field theory on non-globally-hyperbolic
+  spacetimes","21 pages, UCSBTH-92-43","Class.Quant.Grav.11:999-1012,1994","10.1088/0264-9381/11/4/016",,"gr-qc",,"  The mathematical formalism for linear quantum field theory on curved
+spacetime depends in an essential way on the assumption of global
+hyperbolicity. Physically, what lie at the foundation of any formalism for
+quantization in curved spacetime are the canonical commutation relations,
+imposed on the field operators evaluated at a global Cauchy surface. In the
+algebraic formulation of linear quantum field theory, the canonical commutation
+relations are restated in terms of a well-defined symplectic structure on the
+space of smooth solutions, and the local field algebra is constructed as the
+Weyl algebra associated to this symplectic vector space. When spacetime is not
+globally hyperbolic, e.g. when it contains naked singularities or closed
+timelike curves, a global Cauchy surface does not exist, and there is no
+obvious way to formulate the canonical commutation relations, hence no obvious
+way to construct the field algebra. In a paper submitted elsewhere, we report
+on a generalization of the algebraic framework for quantum field theory to
+arbitrary topological spaces which do not necessarily have a spacetime metric
+defined on them at the outset. Taking this generalization as a starting point,
+in this paper we give a prescription for constructing the field algebra of a
+(massless or massive) Klein-Gordon field on an arbitrary background spacetime.
+When spacetime is globally hyperbolic, the theory defined by our construction
+coincides with the ordinary Klein-Gordon field theory on a
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 03:11:38 GMT""}]","2010-04-06"
+"hep-lat/9307012","Joe Kiskis","J. Kiskis and P. Vranas","Adjoint Wilson Line in SU(2) Lattice Gauge Theory","21 pages, no figures, Latex/Revtex 3, UCD-93-19","Phys.Rev. D49 (1994) 528-534","10.1103/PhysRevD.49.528",,"hep-lat",,"  The behavior of the adjoint Wilson line in finite-temperature, $SU(2)$,
+lattice gauge theory is discussed. The expectation value of the line and the
+associated excess free energy reveal the response of the finite-temperature
+gauge field to the presence of an adjoint source. The value of the adjoint line
+at the critical point of the deconfining phase transition is highlighted. This
+is not calculable in weak or strong coupling. It receives contributions from
+all scales and is nonanalytic at the critical point. We determine the general
+form of the free energy. It includes a linearly divergent term that is
+perturbative in the bare coupling and a finite, nonperturbative piece. We use a
+simple flux tube model to estimate the value of the nonperturbative piece. This
+provides the normalization needed to estimate the behavior of the line as one
+moves along the critical curve into the weak coupling region.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 20:29:00 GMT""}]","2009-10-22"
+"hep-ph/9307264",,"Pankaj Jain, Alan J. Sommerer, Douglas W. McKay, J.R. Spence, J.P.
+  Vary and Bing--Lin Young","Isospin Multiplet Structure in Ultra--Heavy Fermion Bound States","20 pages, 7 figures (hard copy available upon request), report#
+  KU-HEP-93-29","Phys.Rev.D49:2514-2524,1994","10.1103/PhysRevD.49.2514",,"hep-ph",,"  The coupled Bethe--Salpeter bound state equations for a $Q\bar Q$ system,
+where $Q=(U,D)$ is a degenerate, fourth generation, super--heavy quark doublet,
+are solved in several ladder approximation models. The exchanges of gluon,
+Higgs and Goldstone modes in the standard model are calculated in the
+ultra--heavy quark limit where weak $\gamma, W^\pm$ and $Z^0$ contributions are
+negligible. A natural $I=0$ and $I=1$ multiplet pattern is found, with large
+splittings occuring between the different weak iso--spin states when $M_Q$, the
+quark masses, are larger than values in the range $0.4 TeV<M_Q<0.8 TeV$,
+depending on which model is used. Consideration of ultra--heavy quark lifetime
+constraints and $U-D$ mass splitting constraints are reviewed to establish the
+plausibility of lifetime and mass degeneracy requirements assumed for this
+paper.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 16:27:52 GMT""}]","2010-11-01"
+"hep-ph/9307266",,"A. C. Mattingly and P. M. Stevenson","Optimization of R(e+e-) and ""Freezing"" of the QCD Couplant at Low
+  Energies","27 pages, LaTeX, 8 uuencoded figures, DE-FG05-92ER40717-7","Phys.Rev. D49 (1994) 437-450","10.1103/PhysRevD.49.437",,"hep-ph",,"  The new result for the third-order QCD corrections to R_{e^+e^-}, unlike the
+old, incorrect result, is nicely compatible with the
+principle-of-minimal-sensitivity optimization method. Moreover, it leads to
+infrared fixed-point behaviour: the optimized couplant, alpha_s/pi, for R(e+e-)
+does not diverge at low energies, but ""freezes"" to a value 0.26 below about 300
+MeV. This provides some direct theoretical evidence, purely from perturbation
+theory, for the ""freezing"" of the couplant -- an idea that has long been a
+popular and successful phenomenological hypothesis. We use the ""smearing""
+method of Poggio, Quinn, and Weinberg to compare the resulting theoretical
+prediction for R(e+e-) with experimental data down to the lowest energies, and
+find excellent agreement.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 20:06:00 GMT""}]","2009-10-22"
+"hep-ph/9307267",,"Enrico Nardi","Review of constraints on fermion mixing","(Invited talk at the ``Workshop on Physics and Experiments at Linear
+  e+e- Colliders'' Waikoloa, Hawai, April 26-30, 1993) Plain Tex, 10 pages, + 1
+  PostScript figure appended after \bye (and available upon request), UM-TH
+  93--14",,,,"hep-ph",,"  The constraints on the mixing angles of the standard fermions with new heavy
+particles that can appear in many extensions of the electroweak theory are
+reviewed. Some emphasis is put in distinguishing the effects of a mixing with
+new states which transform in a non-canonical way with respect to $SU(2)\times
+U(1)$ (left-handed singlets or right-handed doublets), from the effects of a
+mixing with new states with standard quantum number assignments. Constraints
+from flavor changing neutral current processes, as well as from flavor diagonal
+and charged current experimental data are considered. New limits for lepton
+flavor violating mixings are presented. By using the most recent results on the
+$\tau$ mass, lifetime and branching ratios, updated limits on the mixing
+parameters of the $\tau$ neutrino are derived. These limits are improved up to
+a factor of 3, and no signals of deviation from the standard model predictions
+are found. Limits on the mass of a $Z_1$ gauge boson from E$_6$, from the
+absence of muon number violating processes are briefly discussed as well.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 00:57:30 GMT""}]","2007-05-23"
+"hep-ph/9307268",,"Arthur Hebecker","Finite Temperature Effective Potential for the Abelian Higgs Model to
+  the Order $e^4,\lambda^2$","13 pages LaTex ( figures not included , hardcopy available on request
+  : hebecker@vxdesy.desy.de or t00heb@dhhdesy3 ) , DESY 93-086","Z.Phys. C60 (1993) 271-276","10.1007/BF01474623",,"hep-ph",,"  A complete calculation of the finite temperature effective potential for the
+abelian Higgs model to the order $e^4,\lambda^2$ is presented and the result is
+expressed in terms of physical parameters defined at zero temperature. The
+absence of a linear term is verified explicitly to the given order and proven
+to survive to all orders. The first order phase transition has weakened in
+comparison with lower order calculation, which shows up in a considerable
+decrease of the surface tension. The only difference from the original version
+is the splitting of some overlong lines causing problems with certain mailers.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 09:02:28 GMT""},{""version"":""v2"",""created"":""Wed, 4 Aug 1993 10:21:24 GMT""}]","2009-10-22"
+"hep-ph/9307269",,"J.H. K\""uhn","Tau Kinematics from Impact Parameters","4[pag]es, 1 figure available by FAX, TTP93-14","Phys.Lett. B313 (1993) 458-460","10.1016/0370-2693(93)90019-E",,"hep-ph",,"  The momenta of $\tau$ decay products in the reaction $e^+e^-\to\tau^+\tau^-$
+do not constrain the $\tau$ direction unambiguously. It is shown how the
+measurement of tracks of hadrons from semileptonic $\tau$ decays, in particular
+their relative impact parameters, allows to resolve this ambiguity.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 14:25:00 GMT""}]","2009-10-22"
+"hep-ph/9307270",,"J.H. K\""uhn","Topics in Top Quark Physics","8 pages, 5 figures available by FAX, TTP93-18",,,,"hep-ph",,"  The status of top quark searches will be briefly reviewed. Theoretical
+predictions for the top quark decay rate are presented including QCD and
+electroweak radiative corrections. The possibilities for quarkonium searches at
+an hadron collider will be discussed. The perspectives for top production at an
+electron positron collider will be described in detail with emphasis on the
+behavior of the cross section and decay distribution in the threshold region.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 14:29:00 GMT""}]","2007-05-23"
+"hep-ph/9307271",,"J.H. K\""uhn","Rates and Distributions in Tau Decay","8 pages, 4 figures available by FAX, TTP93-17",,,,"hep-ph",,"  Semileptonic decays of polarised $\tau$ leptons are investigated. Predictions
+for the rate, based on CVC and chiral Lagrangians, are contrasted with
+experiments. Predictions for the angular distributions of three meson final
+states are given. Emphasis is put on studies in electron-positron annihilation
+where the neutrino escapes detection and the $\tau$ restframe cannot be
+reconstructed. It is shown that the form factors can be measured in ongoing
+high statistics experiments. Of particular interest for the three meson case
+are the distribution of the normal to the Dalitz plane and the distribution
+around this normal. At LEP these distributions allow for an improved
+measurement of the $\tau$ polarisation. Implications are considered for an
+experiment where the $\tau$ restframe is reconstructed. It is shown that the
+measurement of impact parameters with the help of vertex detectors allows a
+full kinematic reconstruction, including the direction of the $\tau$ and the
+missing neutrino momentum.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 14:32:00 GMT""}]","2007-05-23"
+"hep-ph/9307272","Christoph M. A. Scheich","Graham G. Ross, Christoph M.A. Scheich","Constraints on discrete symmetries from anomaly cancellation in
+  compactified superstring theories","8 pages, OUTP-93-14P","Phys.Lett.B315:88-92,1993","10.1016/0370-2693(93)90162-B",,"hep-ph hep-th",,"  Compactified string theories give rise to discrete symmetries which are
+essential if they are to provide a realistic low energy theory. We find that in
+a class of four dimensional string theories these symmetries are constrained by
+similar conditions to those discrete anomaly cancellation conditions found in
+the case the discrete symmetry is a residue of a spontaneously broken gauge
+symmetry. Such conditions strongly constrain the allowed form of the low energy
+effective theory.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 13:25:15 GMT""}]","2010-11-01"
+"hep-ph/9307273","Christoph M. A. Scheich","Christoph M.A. Scheich","More about discrete symmetries in compactified string theories","10 pages, OUTP-93-15P","Ann.Phys.233:270-280,1994","10.1006/aphy.1994.1068",,"hep-ph hep-th",,"  We discuss discrete symmetries in several string compactification schemes.
+The same constraints on the light spectra as for Gepner models \cite{rosss} are
+found in various cases for non-$R$ symmetries. The analogous constraints for
+$R$ symmetries are also established.Therefore it seems natural to conjecture
+that they always apply.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 13:33:33 GMT""},{""version"":""v2"",""created"":""Sun, 17 Oct 1993 11:49:44 GMT""}]","2010-11-01"
+"hep-th/9307085",,"Sanjaye Ramgoolam","Comment on Two Dimensional O(N) and Sp(N) Yang Mills Theories as String
+  Theories","18 pages (minor corrections made)","Nucl.Phys. B418 (1994) 30-44","10.1016/0550-3213(94)90237-2","YCTP-P16-93","hep-th",,"  We write down all orders large $N$ expansions for the dimensions of
+irreducible representations of $O(N)$ and $Sp(N)$. We interpret all the terms
+in these expansions as symmetry factors for singular worldsheet configurations,
+involving collapsed crosscaps and tubes.
+  We use it to complete the interpretation of two dimensional Yang Mills
+Theories with these gauge groups, on arbitrary two dimensional manifolds, in
+terms of a String Theory of maps of the type considered by Gross and Taylor. We
+point out some intriguing similarities to the case of $U(N)$ and discuss their
+implications.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 03:37:29 GMT""},{""version"":""v2"",""created"":""Fri, 30 Jul 1993 04:25:07 GMT""}]","2009-10-22"
+"hep-th/9307087","Bunji Sakita","B. Sakita","W_{\infty} Gauge Transformations and the Electromagnetic Interactions of
+  Electrons in the Lowest Landau Level","10 pages, CCNY-HEP-93/2 plain tex","Phys.Lett. B315 (1993) 124-128","10.1016/0370-2693(93)90168-H",,"hep-th cond-mat",,"  We construct a $W_{\infty}$ gauge field theory of electrons in the lowest
+Landau level. For this purpose we introduce an external gauge potential $\cal A
+$ such that its $W_{\infty}$ gauge transformations cancel against the gauge
+transformation of the electron field. We then show that the electromagnetic
+interactions of electrons in the lowest Landau level are obtained through a
+non-linear realization of $\cal A$ in terms of the $U(1)$ gauge potential
+$A^{\m}$. As applications we derive the effective Lagrangians for circular
+droplets and for the $\n =1$ quantum Hall system.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 20:30:07 GMT""}]","2009-10-22"
+"hep-th/9307088","Barton Zwiebach","Ashoke Sen and Barton Zwiebach","A Proof of Local Background Independence of Classical Closed String
+  Field Theory","69 pages, phyzzx.tex, (uses epsf.tex for figures), MIT-CTP-2222","Nucl.Phys.B414:649-714,1994","10.1016/0550-3213(94)90258-5",,"hep-th",,"  We give a complete proof of local background independence of the classical
+master action for closed strings by constructing explicitly, for any two nearby
+conformal theories in a CFT theory space, a symplectic diffeomorphism between
+their state spaces mapping the corresponding non-polynomial string actions into
+each other. We uncover a new family of string vertices, the lowest of which is
+a three string vertex satisfying exact Jacobi identities with respect to the
+original closed string vertices. The homotopies between the two sets of string
+vertices determine the diffeomorphism establishing background independence. The
+linear part of the diffeomorphism is implemented by a CFT theory-space
+connection determined by the off-shell three closed string vertex, showing how
+string field theory induces a natural interplay between Riemann surface
+geometry and CFT theory space geometry. (Three figures are contained in a
+separate tar compressed uuencoded figures file. See the TeX file for
+instructions for printing the figures.)
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 16:00:15 GMT""}]","2009-09-15"
+"hep-th/9307089","Mike Clayton","Mike A. Clayton","Gauge Invariance in Nonlocal Regularized QED","24 Pages of RevTex-with 5 figures generated using Feynman.",,,"UTPT-93-14","hep-th",,"  The existence of the invariant measure in nonlocal regularized actions is
+discussed. It is shown that the measure for nonlocally regularized QED, as
+presented in\cite{Moff-Wood}, exists to all orders, and is precisely what is
+required to maintain gauge invariance at one loop and guarantees perturbative
+unitarity. We also demonstrate how the given procedure breaks down in anomalous
+theories, and discuss its generalization to other actions.
+","[{""version"":""v1"",""created"":""Tue, 13 Jul 1993 18:42:53 GMT""}]","2007-05-23"
+"hep-th/9307090","Stanislav Pakuliak","S. Pakuliak","Annihilation Poles for Form Factors in XXZ Model","15 pages, LATeX, RIMS-933",,"10.1142/S0217751X94000881",,"hep-th",,"  The annihilation poles for the form factors in XXZ model are studied using
+vertex operators introduced in \cite{DFJMN}. An annihilation pole is the
+property of form factors according to which the residue of the $2n$-particle
+form factor in such a pole can be expressed through linear combination of the
+$2n-2$-particle form factors. To prove this property we use the bosonization of
+the vertex operators in XXZ model which was invented in \cite{JMMN}.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 06:07:16 GMT""}]","2015-06-26"
+"hep-th/9307091","Shin Hyun Jong","B.K. Chung, Soonkeon Nam, Q-Han Park, and H.J. Shin","Solutions of Conformal Turbulence on a Half Plane","10pages, KHTP-93-07, SNUCTP-93-37","Phys.Lett.B317:92-96,1993","10.1016/0370-2693(93)91575-8",,"hep-th",,"  Exact solutions of conformal turbulence restricted on a upper half plane are
+obtained. We show that the inertial range of homogeneous and isotropic
+turbulence with constant enstrophy flux develops in a distant region from the
+boundary. Thus in the presence of an anisotropic boundary, these exact
+solutions of turbulence generalize Kolmogorov's solution consistently and
+differ from the Polyakov's bulk case which requires a fine tunning of
+coefficients. The simplest solution in our case is given by the minimal model
+of $p=2, q=33$ and moreover we find a fixed point of solutions when $p,q$
+become large.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 08:47:20 GMT""}]","2010-02-05"
+"hep-th/9307092","Alan R. Steif","S. Deser, J. McCarthy, Alan R. Steif","Ultra--Planck Scattering in D=3 Gravity Theories","20 pages, preprint BRX TH--337, DAMTP R93/5, ADP-93-204/M18","Nucl.Phys.B412:305-319,1994","10.1016/0550-3213(94)90504-5",,"hep-th gr-qc",,"  We obtain the high energy, small angle, 2-particle gravitational scattering
+amplitudes in topologically massive gravity (TMG) and its two non-dynamical
+constituents, Einstein and Chern--Simons gravity. We use 't Hooft's approach,
+formally equivalent to a leading order eikonal approximation: one of the
+particles is taken to scatter through the classical spacetime generated by the
+other, which is idealized to be lightlike. The required geometries are derived
+in all three models; in particular, we thereby provide the first explicit
+asymptotically flat solution generated by a localized source in TMG. In
+contrast to $D$=4, the metrics are not uniquely specified, at least by naive
+asymptotic requirements -- an indeterminacy mirrored in the scattering
+amplitudes. The eikonal approach does provide a unique choice, however. We also
+discuss the discontinuities that arise upon taking the limits, at the level of
+the solutions, from TMG to its constituents, and compare with the analogous
+topologically massive vector gauge field models.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 11:50:10 GMT""}]","2008-11-26"
+"hep-th/9307093","Bala Sathiapalan","B. Sathiapalan","Some Issues In The Loop Variable Approach to Open Strings and an
+  Extension to Closed Strings","24 pages","Nucl.Phys.B415:332-352,1994","10.1016/0550-3213(94)90114-7",,"hep-th",,"  Some issues in the loop variable renormalization group approach to gauge
+invariant equations for the free fields of the open string are discussed. It
+had been shown in an earlier paper that this leads to a simple form of the
+gauge transformation law. We discuss in some detail some of the curious
+features encountered there. The theory looks a little like a massless theory in
+one higher dimension that can be dimensionally reduced to give a massive
+theory. We discuss the origin of some constraints that are needed for gauge
+invariance and also for reducing the set of fields to that of standard string
+theory. The mechanism of gauge invariance and the connection with the Virasoro
+algebra is a little different from the usual story and is discussed. It is also
+shown that these results can be extended in a straightforward manner to closed
+strings.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 15:53:01 GMT""}]","2010-11-01"
+"hep-th/9307094","Aram Kotzinian","G.V. Grigoriyn, R.P. Grigoryan","Canonical quantization of the D=2n dimensional relativistic spinning
+  particle with anomalous magnetic moment in the external electromagnetic field","10 pages, Preprint YERPHY-1399(10)-93, Yerevan Physics Institute,
+  Republic of Armenia E-mail: ERPHI%ADONIS@SOVAM.COM or
+  %%ERPHI@ADONIS.IAS.MSK.SU","Phys.Atom.Nucl. 58 (1995) 1072-1076; Yad.Fiz. 58N6 (1995)
+  1146-1151",,,"hep-th",,"  The pseudoclassical hamiltonian and action of the $D=2n$ dimensional Dirac
+particle with anomalous magnetic moment interacting with the external
+electromagnetic field is found. The Bargmann-Michel-Telegdi equation of motion
+for the Pauli-Lubanski vector is deduced. The canonical quantization of $D=2n$
+dimensional Dirac spinning particle with anomalous magnetic moment in the
+external electromagnetic field is carried out in the gauge which allows to
+describe simultaneously particles and antiparticles (massive and massless)
+already at the classical level. Pseudoclassical Foldy-Wouthuysen transformation
+is used to obtain canonical (Newton-Wigner) coordinates and in terms of this
+variables the theory is quantized. The connection of this quantization with the
+deGroot and Suttorp's description of Dirac particle with anomalous magnetic
+moment in the external electromagnetic field is discussed.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 09:04:09 GMT""},{""version"":""v2"",""created"":""Wed, 21 Jul 1993 15:04:12 GMT""}]","2008-02-03"
+"hep-th/9307095","Alberto Vazquez Saa","Alberto Saa","A geometrical action for dilaton gravity","8 pages. Final version, major modifications","Class.Quant.Grav.12:L85-L88,1995","10.1088/0264-9381/12/8/004",,"hep-th",,"  We study the gravitational interaction involving the dilaton and the
+anti-symmetrical $B_{\mu\nu}$ fields that arises in the low-energy limit of
+string theory. It is shown that such interaction can be derived from a
+geometrical action principle, with the scalar of curvature of a non-Riemannian,
+but {\em metric-compatible}, connection as the lagrangian, and with a
+non-parallel volume-element. This action is contrasted with the recently
+proposed geometrical action for the 4-dimensional axi-dilaton gravity.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 12:05:00 GMT""},{""version"":""v2"",""created"":""Mon, 20 Sep 1993 08:44:22 GMT""},{""version"":""v3"",""created"":""Wed, 29 Mar 2000 08:48:32 GMT""}]","2010-04-06"
+"math/9307222",,"Hans J. Haubold, Arak Mathai Mathai","Applications of generalized special functions in stellar astrophysics",,,,"OP-SF 14 Jul 1993","math.CA astro-ph",,"  This article gives an brief outline of the applications of generalized
+special functions such as generalized hypergeometric functions, G-functions and
+H-functions into the general area of nuclear energy generation and reaction
+rate theory such as the energy generation in a simple stellar model and nuclear
+reaction rates in non-resonant and resonant as well as screened non-resonant
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9307017","Pradip Ku. sahu","L. Satpathy, P.K. Sahu and V.S. Uma Maheswari","Masses of Multiquark Droplets","24pages + 5 figures available upon request,Latex,IP/BBSR/93-36",,,,"nucl-th",,"  The mass formulae for finite lumps of strange quark matter with $u$, $d$ and
+$s$ quarks, and non-strange quark matter consisting of $u$ and $d$ quarks are
+derived in a non-relativistic potential model. The finite-size effects
+comprising the surface, curvature and even, the Gauss curvature were
+consistently obtained, which shows a converging trend. It is found that there
+is a possibility for the formation of metastable strangelets of large mass. The
+model predicts low charge to mass ratio as the characteristic signature of
+strange matter in agreement with the relativistic studies. This study also
+yields an independent estimate for the bag energy density $B$, which is in
+agreement with the M.I.T bag model value.
+","[{""version"":""v1"",""created"":""Wed, 14 Jul 1993 15:10:11 GMT""}]","2007-05-23"

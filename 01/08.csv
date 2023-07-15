@@ -1,0 +1,212 @@
+"astro-ph/9301001","Paolo Marziani","P. Marziani, J.W. Sulentic, M. Calvani, E. Perez, M. Moles, & M. V.
+  Penston","The Peculiar Balmer Line Profiles of OQ 208","28 pages + tables and figures available upon request, Latex, No
+  preprint number",,"10.1086/172724",,"astro-ph",,"  We present spectrophotometric observations of the Broad Line Radio Galaxy OQ
+208 (Mrk 668, 1404+286) obtained between 1985 and 1991. We show that the Balmer
+line fluxes and profile shapes undergo remarkable changes. The ratio of
+intensities between the broad and narrow components of Hbeta increased
+monotonically from 15 in 1985 to 40 in 1991. The peak of the broad components
+of Hbeta and Halpha were known to be strongly displaced to the red. We have
+discovered a correlation between the amplitude of the broad peak displacement
+and the luminosity of Hbeta, in the sense that the displacement is larger when
+the line luminosity is higher. We suggest that the observations are not
+compatible with either a binary Broad Line Region model or one involving
+ballistic acceleration of the line emitting gas. Radiative acceleration of a
+system of outflowing clouds readily explains the correlation between line shift
+and luminosity as well as the peculiar line profiles. Furthermore, it seems
+that most or all of the Balmer emission originates from the inward face of the
+clouds. Theoretical line profiles suggest that the observed Hbeta profile is
+best fit assuming the contribution of an ensemble which might be spherical or
+confined in a thick disk in addition to a component emitted in a thin shell
+contained in a cone of half opening angle 12 degrees seen along its axis.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 17:29:20 GMT""}]","2009-10-22"
+"astro-ph/9301002",,"Scott Dodelson and Jay M. Jubas","Microwave Anisotropies in the Light of COBE","10 pages plus 3 figures [available upon request], [phyzzx.tex],
+  FERMILAB-Pub-92/366A","Phys.Rev.Lett. 70 (1993) 2224-2227","10.1103/PhysRevLett.70.2224",,"astro-ph hep-ph",,"  The recent COBE measurement of anisotropies in the cosmic microwave
+background and the recent South Pole experiment of Gaier {\it et al.} offer an
+excellent opportunity to probe cosmological theories. We test a class of
+theories in which the Universe today is flat and matter dominated, and
+primordial perturbations are adiabatic parameterized by an index $n$. In this
+class of theories the predicted signal in the South Pole experiment depends not
+only on $n$, but also on the Hubble constant and the baryon density. For $n=1$
+a large region of this parameter space is ruled out, but there is still a
+window open which satisfies constraints coming from COBE, measurements of the
+age of the Universe, the South Pole experiment, and big bang nucleosynthesis.
+Using the central values of the Hubble constant and baryon density favored by
+nucleosynthesis and age measurements, we find that, even if the COBE
+normalization drops by $1\sigma$, $n > 1.2$ is ruled out.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 18:23:04 GMT""}]","2009-10-22"
+"astro-ph/9301003","Antonio Lanza,","M.A. Abramowicz, G. Bao, V. Karas and A. Lanza","Similarity of the variability patterns in the Exosat and Ginga folded
+  light curves of the Seyfert galaxy NGC 6814","9 pages (14 figures not included), TeX, SISSA 220/92/A","Astron.Astrophys. 272 (1993) 400-406",,,"astro-ph",,"  The Seyfert galaxy NGC 6814 is known to show periodic variation of its X-ray
+luminosity. We found that the sequences of peaks (variability patterns) in the
+folded X-ray light curves constructed from the {\it Exosat} and {\it Ginga}
+data are remarkably similar when one ignores amplitudes of the peaks and
+considers only their phases. The stable pattern consists of five peaks which
+are present in the both curves. The phases of the corresponding peaks coincide
+with an accuracy of about 10 degrees. The probability that this coincidence
+occurs by chance is less than about 1\% according to the most conservative
+estimate. The observed stable pattern of peaks may be produced by a stable
+distribution of ``bright spots'' on the accretion disk surface, {\it e.g.} by
+strong vortices or magnetic flux tubes.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 11:10:57 GMT""}]","2007-05-23"
+"cond-mat/9301006","Steven C. Erwin","Steven C. Erwin and Mark R. Pederson","Electronic Structure of Superconducting Ba6c60","11 pages + 4 figures (1 appended, others on request), LaTeX with
+  REVTEX",,"10.1103/PhysRevB.47.14657",,"cond-mat",,"  We report the results of first-principles electronic-structure calculations
+for superconducting Ba6C60. Unlike the A3C60 superconductors, this new compound
+shows strong Ba-C hybridization in the valence and conduction regions, mixed
+covalent/ionic bonding character, partial charge transfer, and insulating
+zero-gap band structure.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 21:00:12 GMT""}]","2009-10-22"
+"cond-mat/9301007","Schulz","H.J. Schulz","Wigner Crystal in One Dimension","10 pages, RevTeX","Phys.Rev.Lett.71:1864-1867,1993","10.1103/PhysRevLett.71.1864",,"cond-mat",,"  A one--dimensional gas of electrons interacting with long--range Coulomb
+forces ($V(r) \approx 1/r$) is investigated. The excitation spectrum consists
+of separate collective charge and spin modes, with the charge excitation
+energies in agreement with RPA calculations. For arbitrarily weak Coulomb
+repulsion density correlations at wavevector $4k_F$ decay extremely slowly and
+are best described as those of a one--dimensional Wigner crystal. Pinning of
+the Wigner crystal then leads to the nonlinear transport properties
+characteristic of CDW. The results allow a consistent interpretation of the
+plasmon and spin excitations observed in one--dimensional semiconductor
+structures, and suggest an interpretation of some of the observed features in
+terms of ``spinons''. A possible explanation for nonlinear transport phenomena
+is given.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 12:48:11 GMT""},{""version"":""v2"",""created"":""Wed, 17 Mar 1993 14:46:01 GMT""}]","2008-11-26"
+"gr-qc/9301004",,"J. Finkelstein","On the Definition of Decoherence","10 pages, LaTeX, SJSU/TP-93-10","Phys.Rev. D47 (1993) 5430-5433","10.1103/PhysRevD.47.5430",,"gr-qc hep-th",,"  We examine the relationship between the decoherence of quantum-mechanical
+histories of a closed system (as discussed by Gell-Mann and Hartle) and
+environmentally-induced diagonalization of the density operator for an open
+system. We study a definition of decoherence which incorporates both of these
+ideas, and show that it leads to a consistent probabilistic interpretation of
+the reduced density operator.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 22:16:10 GMT""}]","2009-10-22"
+"gr-qc/9301005","Raymond LaFlamme","Raymond Laflamme","Time Symmetric Quantum Cosmology and Our Universe","9 pages + 1 Figure, Tex","Class.Quant.Grav.10:L79-L84,1993","10.1088/0264-9381/10/7/001","LA-UR-92-3847","gr-qc",,"  We investigate the time neutral formulation of quantum cosmology of Gell-Mann
+and Hartle. In particular we study the proposal discussed by them that our
+Universe corresponds to the time symmetric decoherence functional with initial
+and final density matrix of low entropy. We show that our Universe does not
+correspond to this proposal by investigating the behaviour of small
+inhomogeneous perturbations around a Friedman-Robertson-Walker model. These
+perturbations cannot be time symmetric if they were small at the Big Bang.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 15:52:45 GMT""}]","2010-04-06"
+"hep-ph/9301214",,"George Triantaphyllou","QED Radiative Corrections to the Decay $\pi^{0} \rightarrow e^{+}e^{-}$","16 Latex pages, 3 figures not included, available upon request,
+  YCTP-P1-93","Mod.Phys.Lett. A8 (1993) 1691-1700","10.1142/S0217732393001434",,"hep-ph",,"  In view of the recent interest in the decays of mesons into a pair of light
+leptons, a computation of the QED radiative corrections to the decay of
+$\pi^{0}$ into an electron-positron pair is presented here. The results
+indicate that the peak value of the differential decay rate is reduced by about
+$50 \%$, because of soft-photon radiation. The number of $e^{+}e^{-}$ pairs
+having invariant masses in an energy bin of 0.5 MeV centered around $m_{\pi}$
+is found to be about $20 \%$ smaller than the one it would be if radiative
+corrections were neglected.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 16:16:16 GMT""}]","2015-06-25"
+"hep-ph/9301215",,"Jon Pumplin","Quark-Gluon Jet Differences at LEP","11 pages, LaTeX, 4 PostScript figures availble from the author
+  (PUMPLIN@MSUPA.BITNET), MSUTH-92-04","Phys.Rev. D48 (1993) 1112-1116","10.1103/PhysRevD.48.1112",,"hep-ph",,"  A new method to identify the gluon jet in 3-jet ``{\bf Y}'' decays of $Z^0$
+is presented. The method is based on differences in particle multiplicity
+between quark jets and gluon jets, and is more effective than tagging by
+leptonic decay. An experimental test of the method and its application to a
+study of the ``string effect'' are proposed. Various jet-finding schemes for
+3-jet events are compared.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 17:01:30 GMT""}]","2009-10-22"
+"hep-ph/9301216",,"Jon Pumplin","Double Pomeron Opportunities at SQRT(s) = 1.8 Tev","8 pages, LaTeX, 1 PostScript figure availble from the author
+  (PUMPLIN@MSUPA.BITNET), MSUHEP-93-01","Phys.Rev.D47:4820-4822,1993","10.1103/PhysRevD.47.R4820",,"hep-ph",,"  I describe possible ways to discover hard double pomeron exchange (HDPE) with
+the existing detectors at the Fermilab Tevatron, by using the small-angle
+``luminosity'' counters as a veto. Estimates of the cross sections and
+backgrounds are made. In addition to the intrinsic importance of HDPE, its
+observation would be useful for calibrating the detectors, and for estimating
+the ``survival probability'' of rapidity gaps.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 17:07:48 GMT""}]","2009-12-30"
+"hep-ph/9301217","Janne Ignatius","J. Ignatius","Bubble Free Energy in Cosmological Phase Transitions","9 pages ( + 7 figures, available on request as a 130 kB Postscript
+  file or by fax or mail), plain Latex, HU-TFT-92-52","Phys.Lett.B309:252-257,1993","10.1016/0370-2693(93)90929-C",,"hep-ph",,"  Free energy as a function of temperature and the bubble radius is determined
+for spherical bubbles created in cosmological first order phase transitions.
+The phase transition is assumed to be driven by an order parameter (e.g. a
+Higgs field) with quartic potential. The definition of the bubble radius and
+the corresponding generalized, curvature-dependent surface tensions are
+discussed. In the free energy expansion in powers of the inverse radius, the
+coefficients of the curvature term and the constant term are also calculated.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 18:10:19 GMT""}]","2010-11-01"
+"hep-ph/9301218",,"E.Shuryak and L.Xiong","Dilepton and photon production in the 'hot-glue' scenario","use regular LAtex, this paper has two figures which can be sent by
+  FAX, sorry","Phys.Rev.Lett. 70 (1993) 2241-2244","10.1103/PhysRevLett.70.2241","SUNY-NTG-92-37","hep-ph",,"  Perturbative analysis of parton kinetics for high energy nuclear collisions
+shows, that thermal equilibration of gluons happens very fast, while quark
+production is much slower. A simple 'minimal model' is proposed which includes
+only in-coming quarks and anti-quarks. We have found that a smaller quark
+number is more than compensated by the fact, that they are imbedded into the
+hotter glue. Predicted yield of dileptons and photons in the interesting
+kinematic region are larger than considered before, and are quite observable at
+RHIC and LHC.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 19:41:33 GMT""}]","2009-10-22"
+"hep-ph/9301219",,"Jeffrey Anderson and Markus A. Luty","Chiral Corrections to Hyperon Vector Form Factors","11 pages, one figure available by FAX, LBL-33435. Changes:
+  axial-->vector in listing title (!), minor clarifications in text; results
+  are completely unchanged","Phys.Rev. D47 (1993) 4975-4980","10.1103/PhysRevD.47.4975",,"hep-ph",,"  We show that the leading $SU(3)$-breaking corrections to the $\Delta S = 1$
+$f_1$ vector form factors of hyperons are $O(m_s)$ and $O(m_s^{3/2})$, and are
+expected to be $\sim 20$--$30\%$ by dimensional analysis. This is consistent
+with the Ademollo--Gatto theorem, in a sense that we explain. We compute the
+$O(m_s)$ corrections and a subset of the $O(m_s^{3/2})$ corrections using an
+effective lagrangian in which the baryons are treated as heavy particles. All
+of these corrections are surprisingly small, $\sim 5\%$; combining them, we
+obtain $\sim 5$--$10\%$ corrections. The pattern of corrections is very
+different than that predicted by quark models.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 00:27:11 GMT""},{""version"":""v2"",""created"":""Tue, 12 Jan 1993 00:01:40 GMT""}]","2009-10-22"
+"hep-ph/9301220","Faraggi Alon","Alon E. Faraggi","Construction of Realistic superstring Standard--like Models","WIS--92/103/DEC--PH, 8 pages",,"10.1111/j.1749-6632.1993.tb43922.x",,"hep-ph hep-th",,"  I discuss the construction of realistic superstring standard--like models in
+the four dimensional free fermionic formulation. I discuss proton lifetime
+constraints on superstring models. I discuss the massless spectrum of the
+superstring standard--like models, the texture of fermion mass matrices in
+these models and argue that the realistic features of these models are due to
+the underlying $Z_2\times Z_2$ orbifold compactification. (talk presented at
+the TEXAS\\PASCHOS conference, Berkeley CA, December 13--18 1992)
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 11:47:49 GMT""}]","2009-10-22"
+"hep-ph/9301221","Stanislaw Tatur","Jan Bartelski and Stanislaw Tatur","A possible glueball contribution to the Goldberger-Treiman relations","7 pages, Latex,(missing table), CAMK 256 1992","Phys.Lett. B305 (1993) 281-284","10.1016/0370-2693(93)90119-3",,"hep-ph",,"  We discuss the influence of glueball coupling to nucleons on the weak
+axial-vector coupling constants including singlet channel. We consider a
+possibility of introduction of constituent gluon contribution to the proton
+spin. The estimated value for this quantity seems to be rather small.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 12:33:43 GMT""},{""version"":""v2"",""created"":""Fri, 15 Jan 1993 15:27:44 GMT""}]","2009-10-22"
+"hep-th/9301021","Adel Bilal","Adel Bilal","Positive Energy Theorem and Supersymmetry in Exactly Solvable
+  Quantum-Corrected 2D Dilaton-Gravity","30 pages, significantly revised and extended: in particular, the
+  uniqueness of the positive energy functional is proven and the conditions are
+  made more precise. The functional is shown to lead to satisfactory ADM and
+  Bondi masses whose properties are studied in detail. The Bondi mass is
+  evaluated explicitly for the RST shockwave scenario","Phys.Rev. D48 (1993) 1665-1678","10.1103/PhysRevD.48.1665","PUPT-1373","hep-th gr-qc",,"  Extending the work of Park and Strominger, we prove a positive energy theorem
+for the exactly solvable quantum-corrected 2D dilaton gravity theories. The
+positive energy functional we construct is shown to be unique (within a
+reasonably broad class of such functionals). For field configurations
+asymptotic to the LDV we show that this energy functional (if defined on a
+space-like surface) yields the usual (classical) definition of the ADM mass
+{\it plus a certain ``quantum""-correction. If defined on a null surface the
+energy functional yields the Bondi mass. The latter is evaluated careflly and
+applied to the RST shock-wave scenario where it is shown to behave as
+physically expected. Motivated by the existence of a positivity theorem we
+construct manifestly supersymmetric (semiclassical) extensions of these
+quantum-corrected dilaton-gravity theories.
+","[{""version"":""v1"",""created"":""Thu, 7 Jan 1993 21:36:30 GMT""},{""version"":""v2"",""created"":""Fri, 7 May 1993 18:46:11 GMT""}]","2009-10-22"
+"hep-th/9301022","Miao Li","Miao Li","A proposal on the topological sector of 2d string","no major changes in revision",,,,"hep-th",,"  The field content of the two dimensional string theory consists of the
+dynamical tachyon field and some nonpropagating fields which consist in the
+topological sector of this theory. We propose in this paper to study this
+topological sector as a spacetime gauge theory with a simple centrally extended
+$w_\infty$ algebra. This $w_\infty$ algebra appears in both the world sheet
+BRST analysis and the matrix model approach. Since the two dimensional
+centrally extended Poincar\'e algebra is naturally embedded in the centrally
+extended $w_\infty$ algebra, the low energy action for the metric and dilaton
+appears naturally when the model is truncated at this level. We give a
+plausible explanation of emergence of discrete states in this formulation. This
+theory is again the effective theory at zero slope limit. To include higher
+order $\alpha'$ corrections, we speculate that the whole theory is a gauge
+theory of a deformed $w_\infty$ algebra, and the deformation parameter is just
+$\alpha'$.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 06:15:16 GMT""},{""version"":""v2"",""created"":""Tue, 12 Jan 1993 18:28:37 GMT""}]","2008-02-03"
+"hep-th/9301023","Tsukasa Tada","C. Schwiebert","Reflection equation and link polynomials for arbitrary genus solid tori","17 pages + 8 postscript figures",,,"YITP/U-92-38","hep-th math.QA",,"  The correspondence between the braid group on a solid torus of arbitrary
+genus and the algebra of Yang-Baxter and reflection equation operators is
+shown. A representation of this braid group in terms of $R$-matrices is given.
+The characteristic equation of the reflection equation matrix is considered as
+an additional skein relation. This could lead to an intrinsic definition of
+invariant link polynomials on solid tori and, via Heegaard splitting, to
+invariant link polynomials on arbitrary three-manifolds without boundary.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 11:24:53 GMT""},{""version"":""v2"",""created"":""Sat, 16 Jan 1993 02:35:43 GMT""}]","2008-02-03"
+"hep-th/9301024","Francois Delduc","F. Delduc and E. Ivanov","$N=4$ super KdV equation","11 pages, preprint ENSLAPP-L-415-92","Phys.Lett. B309 (1993) 312-319","10.1016/0370-2693(93)90939-F",,"hep-th cond-mat",,"  We construct $N=4$ supersymmetric KdV equation as a hamiltonian flow on the
+$N=4\;SU(2)$ super Virasoro algebra. The $N=4$ KdV superfield, the hamiltonian
+and the related Poisson structure are concisely formulated in $1D \;N=4$
+harmonic superspace. The most general hamiltonian is shown to necessarily
+involve $SU(2)$ breaking parameters which are combined in a traceless rank 2
+$SU(2)$ tensor. First nontrivial conserved charges of $N=4$ super KdV (of
+dimensions 2 and 4) are found to exist if and only if the $SU(2)$ breaking
+tensor is a bilinear of some $SU(2)$ vector with a fixed length proportional to
+the inverse of the central charge of $N=4\;SU(2)$ algebra. After the reduction
+to $N=2$ this restricted version of $N=4$ super KdV goes over to the $a=4$
+integrable case of $N=2$ super KdV and so is expected to be integrable. We show
+that it is bi-hamiltonian like its $N=2$ prototype.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 14:18:40 GMT""},{""version"":""v2"",""created"":""Tue, 12 Jan 1993 11:01:41 GMT""}]","2009-10-22"
+"hep-th/9301025","Chung-I. Tan","Chung-I Tan","Ideal Gas of Strings and QCD at Hadronic Scales","6pp., plain tex, (2 figs. not included), Brown HET-879, Brown TA-483",,,,"hep-th hep-ph",,"  By using lessons learned from modern string studies, we show how interesting
+non-perturbative features of QCD can be learned from future heavy ion
+collisions even if the deconfinement density is not reached.
+","[{""version"":""v1"",""created"":""Fri, 8 Jan 1993 15:44:19 GMT""}]","2007-05-23"

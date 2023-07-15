@@ -1,0 +1,49 @@
+"adap-org/9306004","Steven Janowsky","Steven A. Janowsky (Rutgers) and Claude A. Laberge (Rutgers)","Exact solutions for a mean-field Abelian sandpile","10 pages, LaTeX","J. Physics A 26, L973-L980 (1993)","10.1088/0305-4470/26/19/001",,"adap-org cond-mat nlin.AO",,"  We introduce a model for a sandpile, with N sites, critical height N and each
+site connected to every other site. It is thus a mean-field model in the
+spin-glass sense. We find an exact solution for the steady state probability
+distribution of avalanche sizes, and discuss its asymptotics for large N.
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 15:24:47 GMT""}]","2009-10-22"
+"gr-qc/9306017","Dr. Robert Graham","J. Bene (INSTITUTE for Solid State Physics, E\""otv\""os University,
+  Muzeum krt. 6-8, H-1088 Budapest, Hungary) and R. Graham (FACHBEREICH Physik,
+  Universit\""at Gesamthochschule Essen D4300 Essen 1, Germany)","Supersymmetric Homogeneous Quantum Cosmologies Coupled to a Scalar Field","23 PAGES","Phys.Rev. D49 (1994) 799-815","10.1103/PhysRevD.49.799",,"gr-qc",,"  Recent work on $N=2$ supersymmetric Bianchi type IX cosmologies coupled to a
+scalar field is extended to a general treatment of homogeneous quantum
+cosmologies with explicitely solvable momentum constraints, i.e. Bianchi types
+I, II, VII, VIII besides the Bianchi type IX, and special cases, namely the
+Friedmann universes, the Kantowski-Sachs space, and Taub-NUT space. Besides the
+earlier explicit solution of the Wheeler DeWitt equation for Bianchi type IX,
+describing a virtual wormhole fluctuation, an additional explicit solution is
+given and identified with the `no-boundary state'.
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 13:26:50 GMT""}]","2009-10-22"
+"hep-th/9306059","Alexander Sevrin","A. Sevrin","Extensions of 2D Gravity","12 pages (LaTeX, 3 eps figures), LBL-34240, UCB-PTH-93/21","Int.J.Mod.Phys.D3:107-119,1994","10.1142/S0218271894000113",,"hep-th",,"  After reviewing some aspects of gravity in two dimensions, it is shown that
+non-trivial embeddings of sl(2) in a semi-simple (super) Lie algebra give rise
+to a very large class of extensions of 2D gravity. The induced action is
+constructed as a gauged WZW model and an exact expression for the effective
+action is given. (Talk presented at the Journees Relativistes '93, Brussels,
+April, 1993).
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 1993 21:17:54 GMT""}]","2014-11-18"
+"hep-th/9306060","Costas Efthimiou","Costas John Efthimiou and Donald Spector","Separation of Variables and Exactly Soluble Time-Dependent Potentials in
+  Quantum Mechanics","REVTEX, 30 pages, CLNS-93/1188, HWS-9313","Phys.Rev. A48 (1993) 2301",,,"hep-th",,"  We use separation of variables as a tool to identify and to analyze exactly
+soluble time-dependent quantum mechanical potentials. By considering the most
+general possible time-dependent re-definition of the spatial coordinate, as
+well as general transformations on the wavefunctions, we show that separation
+of variables applies and exact solubility occurs only in a very restricted
+class of time-dependent models. We consider the formal structure underlying our
+findings, and the relationship between our results and other work on
+time-dependent potentials. As an application of our methods, we apply our
+results to the calculations of propagators.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 1993 21:36:57 GMT""}]","2007-05-23"
+"hep-th/9306061","Jakub Rembielinski","T. Brzezinski, L.C. Papaloucas, J. Rembielinski","Quantum Clifford Algebras","LaTeX (kluwer), 6pp",,,,"hep-th",,"  Quantum multiparameter deformation of real Clifford algebras is proposed. The
+corresponding irreducible representations are found.
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 09:23:38 GMT""},{""version"":""v2"",""created"":""Wed, 16 Jun 1993 08:51:12 GMT""}]","2008-02-03"
+"solv-int/9306001","Jarmo Hietarinta","Jarmo Hietarinta (Department of Physics, University of Turku, Finland)","The upper triangular solutions to the three-state constant quantum
+  Yang-Baxter equation","24 Pages in LaTeX",,"10.1088/0305-4470/26/23/044",,"solv-int hep-th nlin.SI",,"  In this article we present all nonsingular upper triangular solutions to the
+constant quantum Yang-Baxter equation
+$R_{j_1j_2}^{k_1k_2}R_{k_1j_3}^{l_1k_3}R_{k_2k_3}^{l_2l_3}=
+R_{j_2j_3}^{k_2k_3}R_{j_1k_3}^{k_1l_3}R_{k_1k_2}^{l_1l_2}$ in the three state
+case, i.e. all indices ranging from 1 to 3. The upper triangular ansatz implies
+729 equations for 45 variables. Fortunately many of the equations turned out to
+be simple allowing us to start breaking the problem into smaller ones. In the
+end we had a total of 552 solutions, but many of them were either inherited
+from two-state solutions or subcases of others. The final list contains 35
+nontrivial solutions, most of them new.
+","[{""version"":""v1"",""created"":""Mon, 14 Jun 1993 15:35:11 GMT""},{""version"":""v2"",""created"":""Fri, 18 Jun 1993 01:45:45 GMT""}]","2009-10-22"

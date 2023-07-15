@@ -1,0 +1,11 @@
+"hep-lat/9307002",,"Yigal Shamir","On the absence of chiral fermions in interacting lattice theories","WIS-93/57-JULY-PH, LaTeX, 24 pages",,"10.1016/0920-5632(94)90454-5",,"hep-lat hep-ph",,"  We consider interacting theories with a compact internal symmetry group on a
+regular lattice. We show that the spectrum is necessarily vector-like provided
+the following conditions are satisfied: (a)~weak form of locality,
+(b)~relativistic continuum limit without massless bosons, and (c)~pole-free
+effective vertex functions for conserved currents.
+  The proof exploits the zero frequency inverse retarded propagator of an
+appropriate set of interpolating fields as an effective quadratic hamiltonian,
+to which the Nielsen-Ninomiya theorem is applied.
+  The main results of this paper have been reported in WIS-93/56-JUNE-PH,
+hep-lat/9306023.
+","[{""version"":""v1"",""created"":""Sun, 4 Jul 1993 07:49:12 GMT""}]","2009-10-22"

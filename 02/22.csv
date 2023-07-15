@@ -1,0 +1,72 @@
+"gr-qc/9302028",,"L.Diosi and B.Lukacs","Karolyhazy's quantum space-time generates neutron star density in vacuum","5 pages, Plain-Tex","NuovoCim.B108:1419-1422,1993","10.1007/BF02755193",,"gr-qc",,"  By simple arguments, we have shown that Karolyhazy's model overestimates the
+quantum uncertainty of the space-time geometry and leads to absurd physical
+consequences. The given model can thus not account for gradual violation of
+quantum coherence and can not predict tiny experimental effects either.
+","[{""version"":""v1"",""created"":""Mon, 22 Feb 1993 15:52:00 GMT""}]","2008-11-26"
+"hep-ph/9302285","Minoru Tanaka","K.Hagiwara, S.Matsumoto and M.Tanaka","Consequences of a Possible Di-Gamma Resonace at TRISTAN","23 pages in revtex, 7 figures (not included) available upon request,
+  KEK-TH-353","Phys.Rev.D48:1990-1999,1993","10.1103/PhysRevD.48.1990",,"hep-ph",,"  If high mass di-gamma events observed at LEP are due to the production of a
+di-gamma resonance via its leptonic coupling, its consequences can be observed
+at TRISTAN. We find that a predicted $Z$ decay branching rate is too small to
+account for the observed events if the resonance spin is zero, due to a strong
+cancellation in the decay amplitudes. Such a cancellation is absent if the
+resonance has a spin two. We study the consequences of a tensor production in
+the processes $e^+e^- \to e^+e^-$, $\mu^+\mu^-$ and $\gamma\,\gamma$ at TRISTAN
+energies. Complete helicity amplitudes with tensor boson exchange contributions
+are given, and the signal can clearly be identified from various distributions.
+TRISTAN experiments are also sensitive to the virtual tensor boson exchange
+effects, which reduce to the contact interaction terms in the high mass limit.
+","[{""version"":""v1"",""created"":""Mon, 22 Feb 1993 07:39:45 GMT""}]","2008-11-26"
+"hep-ph/9302286","Decker Roger","R. Decker and M. Finkemeier","Radiative Tau Decays with One Pseudoscalar Meson","p.20, TTP93-1, LaTeX","Phys.Rev. D48 (1993) 4203-4215; Addendum-ibid. D50 (1994)
+  7079-7081","10.1103/PhysRevD.50.7079",,"hep-ph",,"  We have calculated the decay $\tau \rightarrow \nu \pi(K) \gamma$. We present
+the photon energy spectrum, the meson-photon invariant mass spectrum and the
+integrated rate as a function of a photon energy cut or an invariant mass cut.
+Both the internal bremsstrahlung and the structure dependent radiation have
+been taken into account. To this aim we have parametrized the form factors
+$F_V$ and $F_A$, which determine the structure dependent radiation. Observables
+especially suited for the measurement of the structure dependent form factors
+are found and implications on the width of the $a_1$ discussed.
+","[{""version"":""v1"",""created"":""Mon, 22 Feb 1993 14:34:00 GMT""}]","2009-10-22"
+"hep-ph/9302287",,"V. Pleitez","$SU(n)_c\otimes SU(m)_L\otimes U(1)_N$ generalizations of the Standard
+  Model","Revtex 14 pages, Revised and extended version of preprint
+  IFT-P.010/93",,,,"hep-ph",,"  We consider generalizations of the standard model (SM) which are based on the
+gauge symmetry $SU(n)_c\otimes SU(m)_L\otimes U(1)_N$. Although the most
+interesting possibilities occur when $n=3$, we will consider also the cases
+$n=4,5$ both with $m=3,4$. Models with left-right symmetry, horizontal
+symmetries and the possible embedding in a larger group (grand unification
+scenarios) are briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 22 Feb 1993 12:32:00 GMT""},{""version"":""v2"",""created"":""Sun, 12 Sep 1993 12:58:00 GMT""}]","2008-02-03"
+"hep-th/9302099","A. Sagnotti","Augusto Sagnotti","Anomaly Cancellations and Open-String Theories","plain TEX",,,"ROM2F-93/5","hep-th",,"  In models of oriented closed strings, anomaly cancellations are deeply linked
+to the {\it modular invariance} of the torus amplitude. If open and/or
+unoriented strings are allowed, there are no non-trivial modular
+transformations in the additional genus-one amplitudes (Klein bottle, annulus
+and M\""obius strip). As originally recognized by Green and Schwarz, in the
+ten-dimensional type-I superstring the anomaly cancellation results from a
+delicate interplay between the contributions of these additional surfaces. In
+lower-dimensional models, the possible presence of a number of antisymmetric
+tensors yields a generalization of the Green-Schwarz mechanism. I illustrate
+these results by referring to some six-dimensional chiral models, and I
+conclude by addressing the additional difficulties that one meets when trying
+to extend the construction to chiral four-dimensional models. (Contribution to
+''From Superstrings to Supergravity'', Erice, ITALY, december 5-12, 1992)
+","[{""version"":""v1"",""created"":""Mon, 22 Feb 1993 09:47:16 GMT""}]","2007-05-23"
+"hep-th/9302100","Meissner Krzysztof","Zbigniew Jaskolski and Krzysztof A. Meissner","Static Quark Potential from the Polyakov Sum over Surfaces","17 pages, (with a TeX error on the title page corrected - nothing
+  else changed)","Nucl.Phys.B418:456-476,1994","10.1016/0550-3213(94)90526-6",,"hep-th",,"  Using the Polyakov string ansatz for the rectangular Wilson loop we calculate
+the static potential in the semiclassical approximation. Our results lead to a
+well defined sum over surfaces in the range $1<d<25$.
+","[{""version"":""v1"",""created"":""Mon, 22 Feb 1993 11:10:54 GMT""},{""version"":""v2"",""created"":""Fri, 26 Feb 1993 11:15:04 GMT""}]","2010-11-01"
+"hep-th/9302101","Kenji Hamada","Ken-ji Hamada and Asato Tsuchiya","Quantum Gravity and Black Hole","phyztex, 8 pages",,,,"hep-th",,"  The quantum theory of the spherically symmetric gravity in 3+1 dimensions is
+investigated. The functional measures are explicitly evaluated and the physical
+state conditions are derived by using the technique developed in two
+dimensional quantum gravity. Then the new features which are not seen in ADM
+formalism come out. If $\kappa_s > 0 $, where $\kappa_s =(N-27)/12\pi $ and $N$
+is the number of matter fields, a singularity appears, while for $\kappa_s <0$
+the singularity disappears. The quantum dynamics of black hole seems to be
+changed by the sign of $\kappa_s $.
+  (Talk given by K.H. at Workshop on General Relativity and Gravity, Waseda,
+Tokyo, Japan, 18-20 Jan 1993.)
+","[{""version"":""v1"",""created"":""Mon, 22 Feb 1993 12:28:02 GMT""}]","2007-05-23"
+"hep-th/9302102","Vitaly Tarasov","M. Nazarov and Vitaly Tarasov","Yangians and Gelfand-Zetlin bases","14 pages","Publ.Res.Inst.Math.Sci.Kyoto 30 (1994) 459-478",,"RIMS-913","hep-th math.QA",,"  We establish a relationship between the modern theory of Yangians and the
+classical construction of the Gelfand-Zetlin bases for the complex Lie algebra
+$\gn$. Our approach allows us to produce the $q$-analogues of the
+Gelfand-Zetlin formulae in a straightforward way.
+","[{""version"":""v1"",""created"":""Mon, 22 Feb 1993 12:50:22 GMT""}]","2008-02-03"
